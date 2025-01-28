@@ -1,0 +1,712 @@
+ENERGY
+1.116
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1
+Normal Operations: . Emissions from normal operations can be divided into two
+main source categories: (1) venting and flaring and (2) discharges from process
+vents, chronic leaks, etc.
+Venting and Flaring - Venting and flaring refers to the disposal of gas that cannot
+be contained or otherwise handled.  Such venting and flaring activities are associated
+with combined oil and gas production and take place in production areas where gas
+pipeline infrastructure is incomplete and the natural gas is not injected into
+reservoirs (emissions from process vents are not included here - see below).
+Venting activities release methane because the vented gas typically has a high
+methane content.  If the excess gas is burned in flares the emissions of methane will
+depend on how efficient the burning processes are.  Generally the combustion
+efficiency for flare sources are assumed to be between 95 and 100 per cent.
+However a new study based upon measurements carried out by Norwegian Oil
+Industry Association - OLF (1993) indicates very small amounts of unburned
+methane from flares, less than 0.1 per cent of the gas flared.  To estimate the
+methane emissions from venting and flaring activities satisfactorily it is required to
+know the flare efficiency rates and the division between the quantity of gas vented
+and gas flared.
+The combined quantity of gas vented and flared is reported by countries that
+produce oil and gas (Barns and Edmonds, 1990).  A few countries also are able to
+report separately gas vented and gas flared.  The reliability of the data is
+questionable in many cases because vented and flared amounts are not normally
+metered but inferred from the difference between total production and disposals.
+Discharges from Process Vents, Chronic Leaks etc.  - These include:
+•
+Emissions from pneumatic devices (gas-operated controls such as valves and
+actuators) depend on the size, type, age of the devices, the frequency of their
+operation and the quality of their maintenance.
+•
+Leaks from system components are unintentional and usually continuous
+releases resulting from the failure of a seal or the development of a flaw, crack
+or hole in a component designed to contain or convey oil or gas.  Connections,
+valves, flanges, instruments, and compressor shafts can develop leaks from
+flawed or worn seals, while pipelines and storage tanks can develop leaks from
+cracks or from corrosion.
+•
+Emissions from process vents, such as vents on glycol dehydrators and vents on
+crude oil tankers and storage tanks resulting from normal operation of the
+facilities.  However such process vents are minor methane sources in most gas
+production facilities.
+•
+Emissions from starting and stopping reciprocating engines and turbines.
+•
+Emissions during drilling activities, e.g., gas migration from reservoirs through
+wells.
+2
+Maintenance: Includes regular and periodic activities performed in the operation of
+the facility.  These activities may be conducted frequently, such as launching and
+receiving scrapers (“pigs”) in a pipeline, or infrequently, such as evacuation of pipes
+("blowdown") for periodic testing.  In each case, the required procedures release
+gas from the affected equipment.  Releases also occur during maintenance of wells
+("well workovers") and during replacement or maintenance of fittings.
+3
+System Upsets and Accidents:  System upsets are unplanned events in the
+system, the most common of which is a sudden pressure surge resulting from the
+failure of a pressure regulator.  The potential for unplanned pressure surges is
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.117
+considered during facility design, and facilities are provided with pressure relief
+systems to protect the equipment from damage due to the increased pressure.
+Relief systems vary in design.  In some cases, gases released through relief valves may
+be collected and transported to a flare for combustion or re-compressed and
+re-injected into the system.  In these cases, methane emissions associated with
+pressure relief events will be small.  In older facilities, relief systems may vent gases
+directly into the atmosphere or may send gases to flare systems where complete
+combustion may not be achieved.
+The frequency of system upsets varies with the facility design and operating
+practices.  In particular, facilities operating well below capacity are less likely to
+experience system upsets and resulting emissions.  Emissions associated with
+accidents are also included under the category of upsets.  Occasionally, gas
+transmission and distribution pipelines are accidentally ruptured by construction
+equipment or other activities.
+Table 1-56 lists the most important sources of emissions within each segment of the
+oil and gas industry.  Based on available information, the sources listed as "major"
+account for the majority of emissions from each segment.  Because data are limited
+and, because there is considerable diversity among oil and gas systems throughout
+the world, other possible sources are listed which may, in some cases, be important
+contributors to emissions.
+TABLE 1-56
+METHANE EMISSIONS FROM OIL AND NATURAL GAS ACTIVITIES
+Segment
+Major Emission Sources
+Other Possible Emission Sources
+Oil and Gas Production
+Oil and Gas Wells
+Gathering lines
+Treatment facilities
+Venting
+Normal 
+operations: 
+fugitive
+emissions; deliberate releases from
+pneumatic devices and process
+vents
+Flaring, maintenance, system upsets
+and accidents
+Crude oil transportation and
+Refining
+Pipelines
+Tankers
+Storage tanks
+Refineries
+Normal 
+operations: 
+fugitive
+emissions; deliberate releases from
+process vents at refineries, during
+loading and unloading of tankers
+and storage tanks
+Flaring, maintenance, system upsets
+and accidents
+Natural Gas Processing,
+Transportation, and
+Distribution
+Gas Plants
+Underground storage
+reservoirs
+Transmission Pipelines
+Distribution Pipelines
+Normal 
+operations: 
+fugitive
+emissions; deliberate releases from
+pneumatic devices and process
+vents
+Flaring, maintenance, system upsets
+and accidents
+1 . 8 . 4 A v a i l a b l e  E m i s s i o n s  D a t a
+Only very limited data are available that describe methane emissions from natural gas and
+oil activities.  Estimating the types of emissions defined above is complicated by the fact
+ENERGY
+1.118
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+that emissions rates from similar activities in various regions and countries are influenced
+by differences in the industry's supporting infrastructure, operating and maintenance
+practices, and level of technology used.  Because natural gas and oil activities are complex,
+it is not easy to define simple relationships between emissions and gross descriptors of
+the activities undertaken.
+The available published data were reviewed to identify emissions estimates that include: a
+detailed consideration of the physical attributes of oil and gas systems; the operation and
+maintenance characteristics of key facilities; and country- or region-specific factors that
+may influence emission rates.  The following data were identified:
+•
+Surveys:  Several studies have surveyed system operators to estimate emissions as
+a fraction of production or throughput.  These studies include Alphatania (1989),
+AGA (1989), and INGAA (1989).  While these studies provide a basis for identifying
+the activities that operators believe are likely to be major sources of emissions, they
+are not based on detailed assessments of emission rates and therefore do not
+provide a quantitative basis for making estimates of methane emissions from oil and
+natural gas activities.
+•
+Estimates Based on “Reported Unaccounted For Gas”:  Several studies, such
+as Hitchcock and Wechsler (1972), Abrahamson (1989) and Cicerone and
+Oremland (1988), have assumed that emissions can be approximated by reported
+amounts of "unaccounted for" gas.  Unaccounted for gas is defined as the difference
+between gas production and gas consumption on an annual basis.  Like estimates of
+venting and flaring, unaccounted for gas often is used as an accounting convenience
+to balance company or national production and consumption estimates.
+The use of unaccounted for gas estimates as estimates of emissions is questionable
+because factors other than emissions account for the majority of the gas listed as
+unaccounted for.  These include:  meter inaccuracies, use of gas within the system
+itself, theft of gas (PG&E, 1990), variations in temperature and pressure and
+differences in billing cycles and accounting procedures between companies receiving
+and delivering the gas (INGAA, 1989).  Furthermore, because known releases of gas
+are not reflected in unaccounted for gas estimates, such as emissions from
+compressor exhaust, the unaccounted for gas estimates cannot unambiguously be
+considered an upper or lower bound on emissions.
+•
+Engineering Studies and Measurements:  A small number of studies are based
+on detailed engineering and/or field measurement analyses.  Several engineering
+analyses have considered the manner in which actual or model facilities are built and
+operated, and extrapolate facility emissions to a system-wide basis.  Several
+measurement studies have measured emissions from operating facilities or identified
+actual leaks and extrapolated these measurements to estimate system-wide
+emissions.  In general, data from engineering studies and measurements are the
+preferred basis for emission estimates.  However, only a few of these types of
+studies have been performed, thereby limiting the ability to estimate emissions
+nationally, regionally and globally from oil and gas systems.  Table 1-57 lists the
+studies identified and the information they contain.  The methane emissions
+estimates from the studies in the table have been converted to common units of
+kilograms of emissions per petajoule of energy (kg/PJ).  A total of five studies are
+listed, with emissions estimates for parts of North America (US EPA, 1992), Eastern
+Europe (Rabchuk et al., 1991), and Western Europe (Schneider-Fresenius et al.,
+1989, Norwegian SPCA, 1992b and Norwegian Oil Industry Association OLF, 1993).
+Additionally, Barns and Edmonds (1990) present estimates based on a global
+assessment.   Further studies are needed to improve the basis for making emissions
+estimates.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.119
+TABLE 1-57
+SUMMARY OF METHANE EMISSION FACTORS
+Data source
+Study methodology
+Emission factors
+Applicability
+US EPA (1992)
+Compilation of estimates from:
+Oil and Gas Production:
+All emissions have been scaled
+down 
+to 
+1988 
+energy
+consumption or production
+levels
+• 
+detailed engineering analyses
+• 
+field measurement studies
+290 - 4 670 kg/PJ of oil
+produced
+Emissions 
+from 
+non-gas
+producing oil wells including
+fugitive 
+emissions 
+and
+maintenance emissions in the
+USA
+39 590 - 104 220 kg/PJ of gas
+produced
+Emissions from gas production,
+including 
+fugitive 
+emissions,
+dehydrator 
+venting, 
+bleeding
+from 
+pneumatic 
+devices,
+maintenance, and systems upsets
+in the USA
+2 870 - 13 920 kg/PJ of total oil
+and gas produced
+Venting and flaring emissions
+from oil and gas production and
+fugitive 
+emissions 
+from 
+gas-
+producing oil wells in the USA
+Crude Oil Transportation and Refining:
+110 - 1 666 kg/PJ of oil refined
+Emissions from oil refining and
+related oil storage tanks in the
+USA
+Natural Gas Processing, Transmission and Distribution:
+59 660 - 116 610 kg/PJ of gas
+consumed
+Emissions from gas processing,
+transmission 
+and 
+distribution
+including 
+fugitive 
+emissions,
+dehydrator 
+venting, 
+bleeding
+from 
+pneumatic 
+devices,
+maintenance, and system upsets
+in the USA
+Rabchuk et al. (1991)
+Compilation of estimates from:
+Oil and Gas Production:
+• 
+previous measurement
+studies
+• 
+official data for 1989
+218 000 - 567 600 kg/PJ of gas
+produced
+Emissions from leakages at gas
+wells 
+including 
+routine
+equipment venting in the former
+USSR
+Natural Gas Processing, Transmission and Distribution:
+340 000 - 715 800 kg/PJ of gas
+consumed
+Emissions 
+from 
+leakages 
+at
+underground storage facilities,
+compressor stations, linear part
+of main pipelines and distribution
+networks in the former USSR
+Schneider-Fresenius et al.
+(1989)
+Compilation of results from:
+Oil and Gas Production:
+• 
+Batelle study's 1988
+literature survey
+14 800 - 270 00 kg/PJ of gas
+produced
+Emissions from gas production
+and 
+treatment 
+facilities 
+in
+Germany
+Natural Gas Processing, Transmission and Distribution:
+58 000 - 111 000 kg/PJ of gas
+consumed
+Emissions from transportation,
+distribution and storage of gas in
+Germany
+ENERGY
+1.120
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-57 (CONTINUED)
+SUMMARY OF METHANE EMISSION FACTORS
+Data source
+Study Methodology
+Emission Factors
+Applicability
+Barns and Edmonds (1990)
+Compilation of:
+Oil and Gas Production:
+official reports and projections
+on international emissions
+96 000 kg/PJ of natural gas
+production
+Emissions from gas production and
+separation facilities in the world
+6 300 - 1 019 000 kg/PJ of gas
+production
+Emissions from venting and flaring
+activity by region of the world
+Norwegian SPCA (1992b)
+Summary of:
+Oil and Gas Production:
+emissions estimates for 1989
+based on:
+12 800 kg/PJ of gas produced
+Emissions from cold vents and
+fugitive emissions
+information and measurements
+collected from oil companies
+3 200 kg/PJ of gas produced
+Flare and gas turbines
+and industry associations
+200 kg/PJ of gas produced
+Pre-production 
+emissions 
+(well
+testing)
+Crude oil transportation:
+2 500 kg/PJ oil tankered
+Emissions from offshore loading of
+crude oil
+Natural gas processing:
+1 800 kg/PJ of gas processed
+Emissions from one Norwegian gas
+processing terminal
+Norwegian Oil Industry
+Association (OLF), 1993
+Summary of emission estimates
+based on:
+Oil and Gas Production:
+information and measurements
+collected from oil associations
+3 000 - 7 500 kg/PJ of gas
+produced
+Emissions from cold vents and
+fugitive emissions
+100 - 400 kg/PJ of gas
+produced
+Pre-production emissions
+1 . 8 . 5 R e c e n t  R e v i s i o n s  t o  E m i s s i o n  F a c t o r s
+The above methodology and emission factors are based on the report of an expert group
+convened to advise the IPCC/OECD/IEA programme on methods and data in this specific
+area (Ebert, et al., 1993).  Since that group delivered its report in mid-1993, a more
+recent analysis (US EPA, 1994b) has provided a somewhat different interpretation of
+some emission factors.  While this very detailed analysis endorses the basic tiered
+methodology included in this Manual, the emission factors it derives differ from those
+presented here.  This evaluation was based on essentially the same set of measurement
+data as cited in this Manual, but draws different results from the limited available data.
+The results of the recent US EPA analysis are summarised in Table 1-58.  The most
+significant differences are in natural gas processing, transportation and distribution, where
+a more detailed set of emission factor ranges are recommended for non-OECD
+countries, some which are based on production of natural gas and some which are based
+on consumption of natural gas (which is the case for all of the factors provided above).
+Where emission factors are provided for more than one subcategory, they are intended
+to be additive, and would result in a  higher total emissions estimates.  Other differences
+in this US EPA analysis are that venting and flaring emissions for Western Europe are
+based on oil rather than gas production, and there are minor revisions to some factors
+for fugitive and other emissions from gas production.
+These differences are significant, even given the overall uncertainty in this category, and
+should be considered carefully by national experts in regions where emissions from this
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.121
+source category are significant.  It is hoped that the differences can be resolved or
+explained in more detail in a subsequent version of these Guidelines.
+TABLE 1-58
+REVISED REGIONAL EMISSION FACTORS FOR METHANE FROM OIL AND GAS ACTIVITIES (kg/PJ)
+Source Type
+Basis
+Western Europe
+US & Canada
+Former USSR,
+Central & Eastern
+Europe
+Other Oil Exporting
+Countries
+Rest of the
+World
+OIL & GAS PRODUCTION
+Fugitive and Other
+Maintenance Emissions
+from Oil Production
+Oil Produced
+300 - 5 000
+300 - 5 000
+300 - 5 000
+300 - 5 000
+300 - 5 000
+Fugitive and Other
+Maintenance Emissions
+from Gas Production
+Gas Produced
+15 000 - 27 000
+46 000 - 84 000
+140 000 - 314 000
+46 000 - 96 000
+46 000 - 96 000
+Venting & Flaring from
+Oil and Gas Production
+Oil & Gas
+Produced(a)
+-
+3 000 - 14 000
+-
+-
+-
+Oil Produced
+1 000 - 3 000
+-
+-
+-
+-
+Gas Produced
+-
+-
+6 000 - 30 000
+758 000 - 1 046 000
+175 000 -
+209 000
+CRUDE OIL TRANSPORTATION, STORAGE AND REFINING
+Transportation
+Oil Tankered
+745
+745
+745
+745
+745
+Refining
+Oil Refined
+90 - 1 400
+90 - 1 400
+90 - 1 400
+90 - 1 400
+90 - 1 400
+Storage Tanks
+Oil Refined
+20 - 250
+20 - 250
+20 - 250
+20 - 250
+20 - 250
+NATURAL GAS PROCESSING, TRANSPORT AND DISTRIBUTION
+Emissions from
+Processing, Distribution
+and Transmission
+Gas Produced
+-
+-
+288 000 - 628 000
+288 000 (high)(b)
+288 000 (high)(b)
+Gas Consumed
+72 000 - 133 000
+57 000 - 118 000
+-
+118 000 (low)(c)
+118 000 (low)(c)
+Leakage at industrial
+plants and power
+stations
+Non-residential Gas
+Consumed(d)
+-
+-
+175 000 - 384 000
+0 - 175 000
+0 - 175 000
+Leakage in the
+residential and
+commercial sectors
+Residential Gas
+Consumed(e)
+-
+-
+87 000 - 192 000
+0 - 87 000
+0 - 87 000
+(a) In the US and Canada, the emissions are based on total production of both oil and gas produced.
+(b) The emission factor of 288 000 kg/PJ of gas produced is used only for the high emissions estimate.
+(c) The emission factor of 118 000 kg/PJ of gas consumed is used only for the low emissions estimate.
+(d) Gas consumption by utilities and industries.
+(e) Gas consumption by the residential and commercial sectors.
+Source:  US EPA (1994b).
+ENERGY
+1.122
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1 . 8 . 6 M e t h o d o l o g i e s  
+F o r  
+E s t i m a t i n g  
+M e t h a n e
+E m i s s i o n s
+A three-tiered approach is presented for estimating methane emissions from oil and gas
+activities.  The specific tiers are listed below in the order of increasing sophistication, data
+requirements, and accuracy:
+•
+Tier 1 - Production-Based Average Emission Factors Approach,
+•
+Tier 2 - Mass Balance Approach, and
+•
+Tier 3 - Rigorous Source-Specific Approach.
+Countries should select the approach or combination of approaches that is most suited
+to their circumstances.  Some important considerations may include the relative
+contribution of oil and natural gas to total methane emissions for the country, the
+available information and resources, and the complexity of the local oil and gas industry.
+Regardless of the method that is used, the results must be aggregated back to a Tier 1
+format to provide a consistent basis for comparison.
+Note that methane emissions from combustion plant and incomplete combustion in
+flaring processes in the non-oil and gas industry are excluded.  They are accounted for
+separately in the section on methane emissions from combustion and industry.
+Tier 1 - Production-Based Average Emission Factors Approach
+This is the simplest approach for estimating CH4 emission from oil and gas activities, and
+is the only one that does not require any direct interaction with the oil and gas industry
+and associated regulatory agencies.  Accordingly, it is the least reliable of the methods.
+The required activity data may be easily referenced from published documents of the IEA
+or the United Nations Statistical Division, and the necessary emission factors are
+provided in this document.  The Tier 1 Approach can be used as a starting point for any
+country, and may be all that is needed where the emissions from a country's oil and gas
+industry are comparatively small and/or where data or resources are not available to
+pursue a more rigorous approach.
+Production Base: To estimate emissions, the following steps are recommended as a
+default estimation procedure:
+1
+Global oil and gas systems have been divided into regions with relatively
+homogeneous oil and gas system characteristics.  Each country should decide which
+system characterisation best fits its own oil and gas system(s).
+2
+For each region, representative emission factors for each activity within each
+segment have been selected with the objective of taking into account the various
+system designs and operating practices found in each region.
+3
+For each country, country-specific activity levels must be obtained and multiplied by
+the appropriate emission factor.  Emission factors for countries should be selected
+from those corresponding to the appropriate region.
+As more data become available for oil and gas producing activities within different
+countries, the default methodology described above (including activity data and emission
+factors) should be refined.  Each step is discussed below in more detail.
+Regional Definitions: Regions have been defined considering the limitations in data on
+emission factors and activity levels, but also recognising the key differences in oil and gas
+systems that are found globally.  The following five regions are recommended at this time:
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.123
+•
+USA and Canada:  The United States is a large producer and importer of oil and
+is a large producer of gas.  Detailed emissions estimates are available for the United
+States.
+•
+Former USSR and Eastern Europe:  Indications are that emission rates from
+this region are much higher than emission rates from other regions, in particular for
+the gas system.  This region includes the former USSR (which is by far the largest oil
+and gas producer in the region), Albania, Bulgaria, Czech & Slovak Republics,
+Hungary, Poland, Romania, and the former Yugoslavia.
+•
+Western Europe:  This region is a net importer of oil and gas, and mainly
+produces oil and gas off shore.  This region includes: Austria, Belgium, Denmark,
+Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Iceland, Ireland, Italy,
+Luxembourg, Malta, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, and
+the United Kingdom.
+•
+Other Oil Exporting Countries:  This region includes the world's other major
+oil producing countries: the 11 OPEC members (Algeria, Libya, Nigeria, Venezuela,
+Indonesia, Iran, Iraq, Kuwait, Qatar, Saudi Arabia and the United Arab Emirates),
+Gabon, Ecuador and Mexico.  Generally, these countries produce large quantities of
+oil and have limited markets for gas.
+•
+Rest of the World: This region includes the remaining countries of Asia, Africa,
+Middle East, Oceania and Latin America.
+In defining these regions, countries with relatively similar oil and gas systems were
+aggregated.  Additional investigation would likely improve the definition of the regions.
+Emission Factors: As discussed above, the basis for selecting emission factors is weak
+because very few detailed studies of emissions have been performed.  Using the
+information summarised in Table 1-57, emission factors should be selected by industry
+segment and emission type for each of the regions.  In some cases data from the United
+States were used when region-specific information was not available.
+Tables 1-60 to 1-64 offer emission factors for each region.  Emission factors from US
+EPA (1992) were used for the United States.  Key emission factors for Eastern Europe
+and the Former USSR were taken from Rabchuk et al. (1990) and Barns and Edmonds
+(1990).  Estimates were used for emission factors for venting and flaring for the several
+regions, including Eastern Europe.
+Studies by Schneider-Fresenius et al. (1989) and Norwegian SPCA (1992b) were adopted
+as representative of emission factors for Western European gas production, venting and
+flaring.  No region-specific data were available for the Other Oil Exporting countries and
+the Rest of the World.  Emission factors in these regions are expected to fall between
+the relatively low rates found in North America and Western Europe and the relatively
+high rates found in Eastern Europe.  Consequently, a range of emission factors is
+suggested for these regions unless more information can be obtained.
+Activity Levels: Data on the quantity of oil and gas produced, refined, and consumed
+can be obtained from the IEA or the UN Statistical Division.  Sources are described in
+Section 1.2.1 Data Sources.  Data on oil refining capacity can be used to approximate oil
+refined.  Data on oil tankered were not available by region.  It is important for national
+experts to ensure that production figures used in calculation of apparent consumption for
+CO2 emissions estimates (described in the Tier 1 method for CO2) are consistent with
+those used in this section.
+ENERGY
+1.124
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Tier 2 - Mass Balance Approach
+The Mass Balance Approach is only recommended for oil system releases of CH4, and
+should not be used for releases from natural gas activities.  No Tier 2 method exists for
+natural gas activities.  This is a priority for future work.  The Mass Balance Approach
+employs standard, generally easy-to-obtain, oil and gas data (i.e., production volumes, gas-
+to-oil ratios (GORs), and gas compositions) to estimate the maximum amount of
+methane that could be  emitted to the atmosphere by different sectors of the oil and gas
+industry. These amounts are then scaled to reflect actual emissions by applying
+appropriate emission factors.  The minimum emission factors account for the amount of
+gas that is disposed of by control devices, consumed by combustion equipment,
+conserved, or reinjected.  Leak emission factors account for the amounts lost through
+leaks from these control/utilisation systems.
+The basic procedures for performing the mass balance calculations for each oil and gas
+activity are set out  below.  Total CH4 emissions is the sum of emissions for each of these
+activities.  Default data and factors are provided where possible.
+Oil Production: Emissions from oil production may be estimated using the relation,
+where
+EOil-P
+=
+methane emissions from oil production (Tg/year)
+QOil-P
+=
+oil produced (m3/year)
+GOR
+=
+gas to oil ratio; defines the amount of gas produced (in volume) per unit of
+oil produced (in volume).  (m3/m3, or dimensionless).
+YCH4
+=
+methane Fraction; the volume of gas dissolved in the oil that is methane,
+on a volume basis, for example, 0.1 m3 of methane per 1.0 m3 of gas.
+(may be considered dimensionless)
+KOil-P
+=
+emission factor for oil production, see below (dimensionless)
+DGOR
+=
+density of methane at the temperature and pressure at which the GOR is
+estimated, (g/m3).  The relevant temperature and pressure may vary,
+depending on the values used to calculate the GOR.  For example, at 0°C
+and a pressure of 1 atmosphere, the density of methane is 715.4 g/m3, and
+at 20°C, and a pressure of 1 atmosphere, the density of methane is
+666.6 g/m3.
+The first two terms (QOil-P and GOR) estimate the total amount of gas that is withdrawn
+from the ground while the oil is produced.  The term YCH4 converts the total gas quantity
+into the quantity of methane (still on a volume basis).  The emission factor (KOil-P) is the
+fraction of the total gas withdrawn that is emitted.  At most, KOil-P = 1.  To put the
+emissions estimate on a mass basis, DGOR  is used to estimate grams, and the conversion
+to teragrams follows.
+EOil-P =
+×
+×
+×
+×
+×
+−
+−
+−
+Q
+GOR
+Y
+K
+D
+Oil P
+CH
+Oil P
+GOR
+4
+10 12

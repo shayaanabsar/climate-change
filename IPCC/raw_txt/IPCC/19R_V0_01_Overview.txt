@@ -1,0 +1,696 @@
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1 
+2019 REFINEMENT TO THE 2006 
+IPCC GUIDELINES FOR 
+NATIONAL GREENHOUSE GAS 
+INVENTORIES  
+OVERVIEW 
+Overview 
+ 
+ 
+2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Eduardo Calvo Buendia (Peru), Sabin Guendehou (Benin), Bundit Limmeechokchai (Thailand), Riitta Pipatti 
+(Finland), Yasna Rojas (Chile), Rob Sturgiss (Australia), Kiyoto Tanabe (Japan), Tom Wirth (USA) 
+Daniela Romano (Italy), Jongikhaya Witi (South Africa), Amit Garg (India), Melissa M. Weitz (USA), Bofeng 
+Cai (China), Deborah A. Ottinger (USA), Hongmin Dong (China), James Douglas MacDonald (Canada), 
+Stephen Michael Ogle (USA), Marcelo Theoto Rocha (Brazil), Maria José Sanz Sanchez (Spain), Deborah M. 
+Bartram (USA), Sirintornthep Towprayoon (Thailand) 
+Review Editors 
+Dario Gómez (Argentina) and William Irving (USA) 
+ 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3 
+Contents 
+Overview 
+1 
+Introduction .............................................................................................................................................. 4 
+2 
+Background .............................................................................................................................................. 5 
+3 
+Key concepts unchanged from the 2006 IPCC Guidelines ...................................................................... 6 
+4 
+Coverage of the 2019 Refinement ............................................................................................................ 7 
+5 
+Relationship with the 2006 IPCC Guidelines ........................................................................................... 9 
+6 
+Specific developments in the 2019 Refinement ..................................................................................... 11 
+ 
+Tables 
+Table 1  
+Types of refinement from inventory compliers’ perspective ............................................................ 9 
+Boxes 
+Box 1 
+Significance and prioritization criteria ............................................................................................. 7 
+Box 2 
+Example of mapping table to relate the 2019 Refinement to the 2006 IPCC Guidelines (Vol.4) .. 10 
+ 
+Overview 
+ 
+ 
+4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1 INTRODUCTION 
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC Guidelines) which were 
+published in 2006 provide methodologies for estimating national inventories of anthropogenic emissions by 
+sources and removals by sinks of greenhouse gases. This IPCC Methodology Report titled the 2019 Refinement 
+to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2019 Refinement) was published in 2019 
+to refine the 2006 IPCC Guidelines with the aim to provide an updated and sound scientific basis for supporting 
+the preparation and continuous improvement of national greenhouse gas inventories. 
+In order to achieve this overall aim, the 2019 Refinement: 
+• 
+Provides supplementary methodologies for sources and sinks of greenhouse gases only where currently there 
+are gaps or where new technologies and production processes have emerged requiring elaborated 
+methodologies or for sources and sinks that were not well covered by the 2006 IPCC Guidelines; 
+• 
+Provides updated default values of emission factors and other parameters based on the latest available 
+scientific information only where significant differences from the default values presented in the 2006 IPCC 
+Guidelines are identified; 
+• 
+Provides additional or alternative up-to-date information and guidance, where possible, as clarification or 
+elaboration of existing guidance in the 2006 IPCC Guidelines. 
+The 2019 Refinement does not revise the 2006 IPCC Guidelines, but updates, supplements and/or elaborates the 
+2006 IPCC Guidelines where gaps or out-of-date science have been identified. It does not replace the 2006 IPCC 
+Guidelines, but should be used in conjunction with the 2006 IPCC Guidelines and, where indicated, with the 
+2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands (Wetlands 
+Supplement). 
+ 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5 
+2 BACKGROUND 
+The Bureau of IPCC Task Force on National Greenhouse Gas Inventories (TFB), at its 26th meeting held in 
+Ottawa, Canada in August 2014, concluded that: 
+• 
+The 2006 IPCC Guidelines provide a technically sound methodological basis of national greenhouse gas 
+inventories, and therefore fundamental revision was unnecessary. 
+• 
+To maintain the scientific validity of the 2006 IPCC Guidelines, certain refinements might be required, 
+taking into account scientific and other technical advances that had matured sufficiently since 2006. 
+Following these conclusions by the TFB and also in accordance with the approval by the IPCC at its 40th Session 
+held in Berlin, Germany in April 2014, the Task Force on National Greenhouse Gas Inventories (TFI) started a 
+technical assessment of IPCC inventory guidelines through an on-line questionnaire survey and four expert 
+meetings in 2015 and 20161,2,3,4. 
+The technical assessment revealed that there had been new scientific and empirical knowledge related to sources 
+and sinks of greenhouse gases as well as inventory management published since 2006 that the IPCC should take 
+into account, particularly with respect to data for emission factor development for some categories and gases. 
+Consequently, the TFB recognized the necessity and usefulness of refining the 2006 IPCC Guidelines, and 
+concluded that the refinement should be made as early as possible so as to help all the Parties to the United 
+Nations Framework Convention on Climate Change (UNFCCC) use good practice inventory methodologies 
+based on up-to-date scientific knowledge.  
+The IPCC, at its 43rd Session in Nairobi, Kenya in April 2016, approved the proposal made by the Co-Chairs of 
+TFI on “Refinement of 2006 IPCC Guidelines for National Greenhouse Gas Inventories, including production of 
+a Methodology Report(s)” 5. At the same session, the IPCC decided to consider the outline of the new 
+Methodology Report(s) at the 44th Session of the IPCC in October 2016 and to consider the draft Methodology 
+Report(s) at a Plenary session of the IPCC in May 20196. Following this decision, a scoping meeting for a 
+Methodology Report(s) to refine the 2006 IPCC Guidelines was held in Minsk, Belarus in August 2016. The 
+outcome of the scoping meeting was approved by the TFB at its 28th meeting which was held immediately after 
+the scoping meeting, and submitted to the IPCC for consideration. Finally the IPCC, at its 44th Session in 
+Bangkok, Thailand in October 2016, decided to prepare the 2019 Refinement and adopted its scope and outline7. 
+                                                           
+1 Expert Meeting for Technical Assessment of IPCC Inventory Guidelines (Energy, IPPU, Waste Sectors), 29 June - 1 July 
+2015, Geneva, Switzerland 
+2 Expert Meeting for Technical Assessment of IPCC Inventory Guidelines (AFOLU Sector), 13-16 July 2015, São Paulo, 
+Brazil 
+3 Expert meeting for Technical Assessment of IPCC Inventory Guidelines: follow-up on specified issues from the 2015 
+expert meetings, 25-26 April 2016, Wollongong, Australia 
+4 Expert meeting for Technical Assessment of IPCC Inventory Guidelines (Cross-sectoral issues), 27-29 April 2016, 
+Wollongong, Australia 
+5 Decision IPCC/XLIII-8 “Update of methodologies on National Greenhouse Gas Inventories” 
+6 Decision IPCC/XLIII-7 “Sixth Assessment Report (AR6) Products. Strategic Planning” 
+7 Decision IPCC/XLIV-5 “Sixth Assessment Report (AR6) Products, Outline of the Methodology Report(s) to refine the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories” 
+Overview 
+ 
+ 
+6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3 KEY CONCEPTS UNCHANGED FROM THE 
+2006 IPCC GUIDELINES 
+The following key concepts should be noted when using the 2019 Refinement. These are consistent with the 
+2006 IPCC Guidelines. 
+• 
+Guidance is provided for greenhouse gas inventory arrangements and management, data gathering, 
+compilation, and reporting. Reporting refers to the presentation of emission inventory estimates in tables or 
+other formats used to communicate inventory information. The guidance is relevant but not prescriptive with 
+respect to the reporting of national inventories under international agreements, and the use of reported 
+information under these agreements.  
+• 
+Reporting tables are provided in Volume 1 as part of general guidance for reporting. They are not intended 
+to prescribe specific reporting formats under the UNFCCC that should be developed and agreed by the 
+Parties to the UNFCCC.  
+• 
+Methods are provided for estimating emissions (and removals as appropriate) for each gas in mass units. It 
+does not recommend any specific metrics (e.g., GWP values) to calculate emission estimates in CO2 
+equivalent units. Some guidance (e.g., key category analysis) suggests calculation of emission estimates in 
+CO2 equivalent, for which inventory compilers may use any metrics that are designed to convert greenhouse 
+gas emissions into CO2 equivalent. 
+• 
+A tier represents a level of methodological complexity. Usually three tiers are provided. Tier 1 is the basic 
+method, Tier 2 intermediate and Tier 3 the most demanding in terms of complexity and data requirements. 
+Tiers 2 and 3 are sometimes referred to as higher tier methods and are generally considered to be more 
+accurate on condition that adequate data are available to develop, evaluate and apply a higher tier method. 
+• 
+This guidance assists countries in compiling complete, national inventories of greenhouse gases. The 
+guidance has been structured so that any country, regardless of experience or resources, should be able to 
+produce reliable estimates of their emissions and removals of these gases. It uses the overarching framework 
+and the concepts consistent with the 2006 IPCC Guidelines. National greenhouse gas inventories rely on a 
+few key concepts for which there is a common understanding (see Chapter 1, Volume 1). This helps ensure 
+that inventories are comparable between countries, do not contain double counting or omissions, and that the 
+time series reflect actual changes in emissions. 
+• 
+Some technical material is presented in appendices, where emissions or removals are poorly understood and 
+where there is insufficient information available to develop reliable, globally applicable, default methods for 
+a particular source or sink. Countries may use appendices as a basis for further methodological development, 
+but a national inventory can be considered complete without the inclusion of estimates for these sources. 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7 
+4 COVERAGE OF THE 2019 REFINEMENT 
+The 2019 Refinement covers all IPCC inventory sectors but refinements are included for only those categories 
+where the science was considered to have sufficiently advanced since 2006 or where new or additional guidance 
+was required.  The specific categories that have been refined through this process were selected through a 
+technical assessment carried out in 2015 and 2016 and a subsequent scoping meeting held in August 2016 using 
+the significance and prioritization criteria shown in Box 18. 
+ 
+BOX 1 
+ SIGNIFICANCE AND PRIORITIZATION CRITERIA 
+• 
+Significance of the source/sink and the gas within the sector on a global scale.  
+Sources significant only for a limited number of particular countries, currently or in the 
+foreseeable future, may not meet this criterion. The adequacy of the existing guidance for a 
+particular category should be considered, as should the likelihood that new information would 
+lead to a definite improvement in the IPCC Guidelines. 
+• 
+Availability of relevant new scientific results. 
+• 
+Sufficient data availability and maturity of scientific advances since 2006 to provide a basis 
+for methodological development or refinement, including (1) ability to develop new or 
+updated default emission/removal factors; and (2) feasibility of obtaining the necessary data to 
+implement the methods. 
+• 
+Emergence of new sources or gases meeting these criteria. 
+ 
+The outline of the 2019 Refinement adopted by the IPCC was developed on the basis of the categories selected 
+through the process mentioned above. However, the IPCC also agreed on the following principles when the 
+outline was adopted. 
+• 
+Authors should develop modifications even for those chapters/sections/subsections where “No refinement” 
+is indicated in the approved table of contents, if deemed necessary to ensure consistency with the 
+refinements made in the other chapters/sections/subsections. 
+• 
+Authors may conclude no refinement should be made even for the chapters/sections/subsections where 
+refinement is expected in this approved table of contents, after comprehensive review of available literature. 
+ 
+In addition to the greenhouse gases included in the 2006 IPCC Guidelines, the 2019 Refinement includes gases 
+for which global warming potential (GWP) values are given in one of the subsequent IPCC Assessment Reports, 
+unless the gases are covered by Annexes A through E of the Montreal Protocol. (Annex F of the Montreal 
+Protocol lists hydrofluorocarbons, which are included in the 2019 Refinement.) The 2019 Refinement also 
+provides estimation methods for halogenated greenhouse gases for which GWP values were not available from 
+IPCC Assessment Reports at the time the 2019 Refinement was developed. (See Volume 1, Chapter 8 and 
+Volume 3, Chapters 6, 7, and 8 for examples of both sets of gases.) 
+The 2006 IPCC Guidelines contain links to information on methods used under other agreements and 
+conventions, for the estimation of emissions of tropospheric precursors which may be used to supplement the 
+reporting of emissions and removals of greenhouse gases. The 2019 Refinement follows this approach, and does 
+not provide methods for the estimation of emissions of tropospheric precursors (see Chapter 7, Volume 1).  
+The structure of the 2019 Refinement is the same as that of the 2006 IPCC Guidelines so as to make it easier for 
+inventory compilers to use the 2019 Refinement with the 2006 IPCC Guidelines. It comprises an Overview 
+Chapter (this chapter) and the following five volumes.  
+• 
+Volume 1: General Guidance and Reporting; 
+• 
+Volume 2: Energy; 
+                                                           
+8  There are potential issues for future revision or refinement that are not addressed in the 2019 Refinement, including those 
+identified during the Technical Assessment in 2015-2016 but considered too early to work on, as well as those identified 
+after the approval of table of contents of the 2019 Refinement by the IPCC at its 44th Session in Bangkok, Thailand in 
+October 2016. 
+Overview 
+ 
+ 
+8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• 
+Volume 3: Industrial Processes and Product Use (IPPU); 
+• 
+Volume 4: Agriculture, Forestry and Other Land Use (AFOLU); 
+• 
+Volume 5: Waste. 
+Across all the volumes, some additional sections have been included. The guidance focuses on inventory 
+methodologies rather than on scientific discussions of the background material, for which references are 
+provided. 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9 
+5 RELATIONSHIP WITH THE 2006 IPCC 
+GUIDELINES  
+As stated in Section 1 above, the 2019 Refinement does not revise the 2006 IPCC Guidelines, but updates, 
+supplements and/or elaborates the 2006 IPCC Guidelines where gaps or out-of-date science have been identified. 
+It does not replace the 2006 IPCC Guidelines, but should be used in conjunction with the 2006 IPCC Guidelines 
+and, where indicated, with the Wetlands Supplement.9 
+In line with this principle, the 2019 Refinement was developed by: 
+• 
+updating existing guidance in the 2006 IPCC Guidelines to address the needs explained in the first or second 
+bullet in Section 1 (Introduction) of this chapter. When updating a section or an entire chapter, in some cases 
+these sections or chapters have been entirely rewritten with new structure. 
+• 
+elaborating existing guidance in the 2006 IPCC Guidelines to address the needs explained in the first or third 
+bullet of Section 1 (Introduction) of this chapter.  
+• 
+adding completely new guidance on issues for which there is essentially no guidance in the 2006 IPCC 
+Guidelines to address the needs explained in the first bullet in Section 1 (Introduction) of this chapter. 
+With a view to helping inventory compilers understand the relationship between the 2019 Refinement and the 
+2006 IPCC Guidelines, each volume has an annex titled “Mapping tables” to relate the 2019 Refinement to the 
+2006 IPCC Guidelines. This annex in each volume provides a road map for relating sections, equations, tables, 
+figures and boxes in the 2019 Refinement to the 2006 IPCC Guidelines. In these annexes, types of refinement 
+(update, new guidance, no refinement or removed) are clarified for chapters/sections/subsections from inventory 
+compilers’ perspective in order to help them understand how they should use the 2019 Refinement. The types of 
+refinement used there are explained in Table 1 below. 
+TABLE 1 
+TYPES OF REFINEMENT FROM INVENTORY COMPLIERS’ PERSPECTIVE 
+Type of refinement 
+Explanation 
+Update 
+Inventory compilers should use the chapter/section/subsection in the 2019 Refinement instead 
+of the corresponding chapter/section/subsection in the 2006 IPCC Guidelines. 
+New Guidance 
+Recognizing that there is no guidance in the 2006 IPCC Guidelines, inventory compilers 
+should use the chapter/section/subsection in the 2019 Refinement. 
+No Refinement 
+Inventory compliers should use the corresponding chapter/section/subsection in the 2006 
+IPCC Guidelines, because no refinement has been made in that chapter/section/subsection. 
+Removed 
+There were few cases where guidance/sections were removed because they were no longer 
+relevant. 
+ 
+Every chapter/section/subsection in the 2019 Refinement which is explained as “Update” or “New Guidance” 
+contains all necessary paragraphs, tables, figures, etc. including those unchanged from the 2006 IPCC 
+Guidelines, so that inventory compilers do not have to look back to the 2006 IPCC Guidelines.  
+In addition, with a view to ensure consistency with the 2006 IPCC Guidelines to the extent possible, efforts were 
+made to keep the numbering of tables, figures, boxes, equations the same as in the 2006 IPCC Guidelines. As a 
+consequence, the numbering of new/updated tables, figures, boxes, equations in the 2019 Refinement is not 
+necessarily in sequence.  
+                                                           
+9 The IPCC decided to produce the 2019 Refinement as a separate Methodology Report which should be used in conjunction 
+with the 2006 IPCC Guidelines. Consolidating all methodological guidance into a single Methodology Report would 
+require a new decision by the IPCC. 
+Overview 
+ 
+ 
+10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 2 
+EXAMPLE OF MAPPING TABLE TO RELATE THE 2019 REFINEMENT TO THE 2006 IPCC GUIDELINES (VOL.4) 
+ 
+U = Update, NG = New Guidance, NR = No Refinement 
+ 
+"Good practice" is a key concept for inventory compilers to follow in preparing national greenhouse gas 
+inventories. The key concept does not change in the 2019 Refinement. The term "good practice" has been 
+defined, since 2000 when this concept was introduced 10, as "a set of procedures intended to ensure that 
+greenhouse gas inventories are accurate in the sense that they are systematically neither over- nor 
+underestimates so far as can be judged, and that uncertainties are reduced so far as practicable". This definition 
+has gained general acceptance amongst countries as the basis for inventory development and its centrality has 
+been retained for the 2019 Refinement. Certain terms in the definition have been updated based on feedback from 
+the statistics community, such that this definition can be also understood as "a set of procedures intended to 
+ensure that greenhouse gas inventories are accurate in the sense that they are systematically neither over- nor 
+underestimates so far as can be judged, and that they are precise so far as practicable" in the context of 
+refinement of Chapter 3 of Volume 111. 
+These requirements are intended to ensure that estimates of anthropogenic emissions by sources and removals by 
+sinks, even if uncertain, are bona fide estimates, in the sense of not containing any biases that could have been 
+identified and eliminated, and that random errors have been reduced as far as practicable, given national 
+circumstances. Estimates of this type are presumably the best attainable, given current scientific knowledge and 
+available resources. The 2019 Refinement also recognises the principles of transparency, accuracy, completeness, 
+consistency and comparability defined in the 2006 IPCC Guidelines. 
+                                                           
+10 The definition was originally introduced with the Good Practice Guidance and Uncertainty Management in National 
+Greenhouse Gas Inventories published in 2000. 
+11 In the 2006 IPCC Guidelines, the term “uncertainty” was used with two meanings – a general one which is associated with 
+both accuracy and precision, and a specific one only as the inverse of precision. This definition text of “good practice” 
+which uses the term “precise” instead of “uncertainties” overcomes inconsistencies with general IPCC definition for 
+uncertainty, without changing the original concept of “good practice”. 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+11 
+6 SPECIFIC DEVELOPMENTS IN THE 2019 
+REFINEMENT 
+The 2019 Refinement contains the following specific developments, among others, since the 2006 IPCC 
+Guidelines:  
+Volume 1 (General Guidance and Reporting) 
+• 
+National greenhouse gas inventory arrangements and management tools: The 2019 Refinement elaborates 
+guidance on establishing greenhouse gas inventory arrangements to support the development, improvement 
+and maintenance of national greenhouse gas inventories. This guidance is not designed to be prescriptive 
+given that the shape and form of greenhouse gas inventory arrangements depend on national circumstances. 
+Instead, the guidance provides approaches and examples of national greenhouse gas inventory arrangements 
+that could be useful in establishing greenhouse gas inventory arrangements. In addition, institutional 
+arrangements include the interactions between institutions/organisations that are involved with the 
+greenhouse gas inventory inputs, compilation processes, and outputs. The 2019 Refinement provides new 
+guidance on generic inventory management tools such as workplans, improvement plans, data management 
+systems, quality systems, training and capacity building and documentation procedures. As it is the case for 
+the provided guidance on national greenhouse gas inventory arrangements, the management tools presented 
+in this new guidance should not be considered prescriptive. However, they provide some suggested 
+approaches and examples demonstrated to be useful when developing greenhouse gas inventory systems. 
+(Chapter 1) 
+• 
+Data collection strategy: General guidance for collecting existing national/international data and new data is 
+elaborated. The material can be used both by countries establishing a data collection strategy for the first 
+time and by countries with established data collection procedures. It is also to be applicable to emission 
+factor, activity, and uncertainty data collection. (Chapter 2) 
+• 
+Use of facility-level data in inventories: Detailed industrial facility-level data that are increasingly collected 
+for various goals such as tracking the progress of emission trading programmes or climate change policies 
+have the potential to be utilized in national greenhouse gas inventories. The challenge for inventory 
+compilers is assessing how best to integrate facility reported data to achieve improvements, especially if 
+there are some outstanding coverage and completeness issues.  The 2019 Refinement includes new guidance 
+on how best to use facility-level data that are not originally designed for national greenhouse gas inventory 
+compilation.  A new decision tree for selecting facility-level data is provided as well as good practice 
+reporting considerations associated with facility-level data used in the national greenhouse gas inventory. 
+(Chapter 2) 
+• 
+Uncertainty analysis: The 2019 Refinement provides an update on uncertainties associated with activity data. 
+It also incorporates guidance on how to derive uncertainty estimates from activity data generated based on 
+random samples.  This elaborated guidance has useful applications particularly in the AFOLU sector in 
+dealing with uncertainty estimates from land use surveys or forest cover surveys.  The updated guidance also 
+includes key requirements for use of Approach 1 uncertainty assessment with examples.  A practical step-
+by-step example demonstrating the use of Approach 2 uncertainty assessment (Monte-Carlo analysis) is also 
+provided to guide inventory compilers. (Chapter 3) 
+• 
+Key category analysis: No major modifications with respect to the 2006 IPCC Guidelines have occurred but 
+a simplification of the equation to perform key category analysis using trend assessment (Approach 1) has 
+been implemented in the 2019 Refinement. General principles and guidance have been updated and an 
+updated trend approach is described. Priorities for maintenance and improvement of the inventory are 
+addressed, and new guidance in determining the appropriate level of disaggregation of greenhouse gas 
+estimates to identify key categories is provided. (Chapter 4) 
+• 
+Non-linear interpolation: A new methodology for non-linear interpolation analysis has been added in the 
+2019 Refinement, along with an example. This is relevant in cases where time series consistency is best 
+represented by multiplicative (exponential) rather than additive (linear) relationships. (Chapter 5) 
+• 
+Comparison of greenhouse gas emission estimates with atmospheric measurements: Guidance on 
+comparison of greenhouse gas emission estimates with atmospheric measurement has been updated and 
+elaborated to reflect the state of science for atmospheric measurements and their application to improving 
+national greenhouse gas inventories. These approaches can be used to provide additional scientific 
+verification of inputs and results for particular categories and gases, and therefore help countries to target 
+areas of uncertainty. The most notable advances were achieved in the application of inverse models of 
+atmospheric transport for emission estimates at the national scale. Thus, atmospheric measurements are 
+Overview 
+ 
+ 
+12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+being used to provide useful quality assurance of the national greenhouse gas emission estimates. The 
+guidance highlights key components and steps that can be applied when using atmospheric measurements 
+and inverse models  for comparison with inventory emission estimates as part of a country’s overall QA/QC 
+and verification system as described in Chapter 6 of Volume 1. (Chapter 6) 
+• 
+Use and reporting of models: The 2019 Refinement provides new guidance on the use and reporting of 
+models.  This new guidance applies to complex models, generally Tier 3 approaches.  A step-by-step 
+approach to report on the use of models in emission inventories is presented along with a checklist for 
+ensuring good practice in the use of complex, higher tier models in national greenhouse gas inventories. 
+(Chapter 6) 
+• 
+Indirect greenhouse gas emissions: The 2019 Refinement includes a series of updates ranging from 
+improvements in the explanation of the methodology for indirect nitrous oxide (N2O) emissions from the 
+atmospheric deposition of nitrogen in nitrogen oxides (NOx) and ammonia (NH3), detailed methodological 
+guidance on treatment of carbon dioxide (CO2) inputs to the atmosphere from emissions of carbon-
+containing compounds, that are not already reported in GHG inventories an update on the background 
+science on precursors and indirect emissions12. The 2019 Refinement also incorporates new guidance on 
+non-biogenic sources of CO2 from the atmospheric oxidation of methane (CH4), carbon monoxide (CO), and 
+non-methane volatile organic compounds (NMVOCs), examples of NMVOCs from the different source 
+categories as well as guidance on carbon content of various materials and total solvent NMVOC emissions. 
+(Chapter 7) 
+• 
+National GHG inventory coverage: The 2019 Refinement provides updated guidance on specific issues to be 
+taken into account in national GHG inventories. The guidance now includes reporting of non-CO2 emissions 
+from the biochar production and CO2 and CH4 emissions from flooded land. Additionally, existing guidance 
+on reporting of captured biogenic CO2 was further clarified. (Chapter 8) 
+ 
+Volume 2 (Energy)  
+• 
+All methodological updates made in the 2019 Refinement are in the fugitive emissions categories. No 
+methodological updates were made for stationary combustion, mobile combustion, or other sources other 
+than fugitives. 
+• 
+ Fugitive CH4 and CO2 emissions from mining, processing, storage and transportation of coal: The 2019 
+Refinement includes guidance on fugitive CO2 emissions from underground and surface mines including 
+CO2 from methane utilization or flaring from underground coal mines. The 2019 Refinement adds year-
+specific default input values for fugitive CH4 emissions from abandoned underground mines for 2017 
+through 2050 (previously the series of default values ended at 2016).  A section on a basis for future 
+methodological development is presented in the Appendix for fugitive emissions from abandoned surface 
+mines and from coal exploration. (Chapter 4) 
+• 
+Fugitive emissions from oil and natural gas systems: The 2019 Refinement includes updates to emission 
+factors to reflect the range of technologies and practices in use, including for unconventional oil and gas 
+exploration. Additional detail on the appropriate selection of factors considering technologies and practices 
+in place is provided. The 2019 Refinement includes methods and emission factors for abandoned wells. An 
+annex provides guidance on converting activity data inputs to the standard conditions applicable to the 
+emission factors presented.  Another annex provides data that allow compilers to disaggregate factors into 
+venting, leak, and flaring sources.  As terminologies for technologies and practices can vary, an annex is 
+provided with definitions for key terms. (Chapter 4) 
+• 
+Fugitive emissions from fuel transformation: The 2019 Refinement includes a new section on fugitive 
+emissions from fuel transformation, including methods for fugitive emissions from charcoal production, 
+biochar production, coke production, (including flaring), gasification transformation processes (coal to 
+liquids, and gas to liquids), and methods in Appendix (biomass to liquids, biomass to gas, and wood pellet 
+production). These have been appropriately cross-referenced with Volume 3 (IPPU) and Volume 4 
+(AFOLU). (Chapter 4) 
+ 
+ 
+                                                           
+12 Chapter 7 of Volume 1 refers to "inputs of CO2 to the atmosphere" to represent the unoxidized carbon contained in 
+compounds (e.g., CO, NMVOCs, CH4) that are emitted from some anthropogenic activities. The CO2 is formed at a later 
+time in the atmosphere and not released directly from these activities 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+13 
+Volume 3 (Industrial Processes and Product Use) 
+• 
+New categories and new gases: The 2019 Refinement expands the scope of the 2006 IPCC Guidelines to 
+include more manufacturing sectors identified as sources of greenhouse gases. These include production of 
+hydrogen, rare earth metals, and alumina, and waterproofing of circuit boards. In addition, a basis for future 
+methodological development is provided for fluorinated treatment of textiles, carpet, leather and paper. 
+Additional greenhouse gases identified in the IPCC Fourth and Fifth Assessment Reports, as well as other 
+references, are also included where anthropogenic sources have been identified. Greenhouse gases identified 
+in the IPCC Fourth and Fifth Assessment Reports include, for example, additional hydrofluorocarbons, 
+perfluorocarbons, and halogenated ethers, such as PFPMIE (a perfluoropolyether widely used as a heat 
+transfer fluid in electronics manufacturing). (Chapters 3, 4, 6, 8) 
+• 
+Updates: The guidance for several source categories has been updated. This includes the guidance for 
+production of nitric acid, fluorochemicals, iron and steel, aluminium, and electronics, and for the production 
+and use of refrigeration and air-conditioning equipment. (Chapters 3, 4, 6, 7)  Important updates include: 
+ 
+For nitric acid, updates to the production process categories (e.g., to include dual-pressure processes) 
+and corresponding updates to the default emission factors for the Tier 2 method. 
+ 
+For fluorochemical production, updates to clarify the full range of emissions and their sources at 
+fluorochemical production plants, updated default emission factors for the Tier 1 method, and 
+updates to the Tier 3 method to include emissions from equipment leaks and to provide more detail 
+for estimating emissions from process vents. 
+ 
+For iron and steel, updates to the guidance for metallurgical coke production to align it with the new 
+methods presented in the Energy Volume for fugitive emissions, and to present new methods such 
+as a Tier 1b simplified carbon balance method; updates to the methodological guidance for iron and 
+steel production to include improved decision-trees, a new Tier 2 method for methane emissions, 
+new Tier 3a (plant-specific carbon balance) and Tier 3b (based on emission measurements) methods 
+for carbon dioxide emissions, a new Tier 1 method for carbon dioxide emissions from flaring of 
+process gases, and new methods to estimate nitrous oxide emissions including a Tier 1 method for 
+emissions from flaring of process gases. Default emission factors have been extensively updated, 
+and the Tier 2 material-specific carbon contents list has been extended and updated. 
+ 
+For aluminium, several updates to the guidance for estimating PFC emissions, including an update 
+to the smelting technology classes, updated default emission factors for the Tier 1 method, new 
+guidance for estimating emissions from low-voltage anode effects, updated default emission factors 
+for the existing Tier 2 and Tier 3 (now Tier 2a and Tier 3a) methods for estimating emissions from 
+high-voltage anode effects (termed “anode effects” in the 2006 IPCC Guidelines), new Tier 2b and 
+Tier 3b methods for estimating emissions from high-voltage anode effects that better account for the 
+impact of anode effect duration, and a new Tier 3DM method for facility-specific direct 
+measurement of total PFC emissions.  New guidance has also been added for estimating emissions 
+from the production of alumina through the Bayer-Sinter and Nepheline processes. 
+ 
+For electronics, new guidance on tracking gas consumption and on apportioning use to different 
+process types, updated and new Tier 2 methods that account for the size of manufactured wafers in 
+semiconductor manufacturing, a new Tier 3b method for estimating emissions by developing 
+facility-specific emission factors at the stack level, new guidance on adapting Tier 2 methods to 
+account for technological changes, new guidance for the sub-sector microelectromechanical systems 
+(MEMS), and updates to the default emission factors for Tier 1 and Tier 2 methods, including an 
+expanded list of input gases, by-products, and fluorinated liquids.  
+ 
+For refrigeration and air conditioning, new “cook-book” style guidance on building an HFC 
+emissions inventory (including guidance on data sources and on establishing the existing bank of 
+HFCs), and new and updated tables regarding the identity and distribution of substitutes for ozone 
+depleting substances (ODS) by application and by substance for both developing and developed 
+countries. 
+• 
+Updates to Figure 1.1 (Industrial Processes and Product Use categories): Figure 1.1 has been updated to 
+reflect the changes described above by (1) adding subcategories for Hydrogen Production (2B10), Rare 
+Earths Production (2C7), Microelectromechanical Systems (2E4), and Waterproofing of Electronic Circuits 
+(2G2c) to reflect the addition of new guidance for these subcategories; (2) adding several subcategories 
+under Fluorochemical Production to reflect the broad range of fluorochemical products, (3) updating the 
+name of the Electronics subcategory previously called “TFT Flat Panel Display” to the more comprehensive 
+“Display,” and (4) removing the subcategory “Heat Transfer Fluid” from the Electronics category, because 
+the fluorinated liquids previously covered by this subcategory may be used in any of the Electronics sub-
+sectors (Semiconductors, Displays, Photovoltaics, or MEMS), may be used for applications other than heat 
+Overview 
+ 
+ 
+14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+transfer (including for testing, soldering, and cleaning), and are identifiable through their chemical contents. 
+(Chapter 1)  
+ 
+Volume 4 (Agriculture, Forestry and Other Land Use) 
+• 
+Tier 3 model: Section on Tier 3 model has been refined to expand the guidance on how to parameterize and 
+evaluate models, the integration of data to models, and means to increase its transparency. Case studies have 
+been included to demonstrate how different countries have developed and worked with Tier 3 methods. 
+(Chapter 2)  
+• 
+Interannual variability (IAV):  A new section has been introduced to provide an option that may be used to 
+disaggregate Managed Land Proxy (MLP) emissions and removals into those that are considered to result 
+from human effects and those that are considered to result from natural disturbances. This section may be of 
+interest to countries with AFOLU sector emissions that have high IAV due to natural disturbances. The 
+section first addresses definitional issues, followed by a description of whether or not different 
+methodological approaches used to estimate carbon stock changes quantify the interannual variability of 
+emissions and removals. A generic approach to report the disaggregated contribution of natural disturbances 
+to the emissions and removals on managed lands is then provided, along with country-specific examples. For 
+those countries that choose to implement this disaggregation, it is good practice to report the total MLP 
+emissions and removals as well as the disaggregated components. (Chapter 2) 
+• 
+Biomass estimates: Biomass Tier 1 factors have been updated for Forest Land, Cropland and Settlements. 
+Guidance on Tier 1 methods for Cropland and Settlements has been refined and clarified. Guidance for time 
+series consistency for Forest Land has also been updated. Factors for dead organic matter have been updated, 
+and new sections on Tier 2 guidance for the use of allometric models and biomass maps have been 
+introduced. (Chapters 2, 4, 5, 8) 
+• 
+Soil carbon: Tier 1 carbon stock change factors have been updated for tillage management, grassland 
+management and land use based on evolving understanding of management impacts on soils. Many of the 
+updated factors reflect a smaller impact of anthropogenic activity on soil carbon than default factors 
+provided in the 2006 IPCC Guidelines. Reference C stocks have also been updated based on an analysis of a 
+global dataset that produces more representative reference stocks for different soil types by climate regions. 
+The Tier 2 and Tier 3 methods have also been refined to estimate the impact of biochar amendments on soil 
+carbon stocks in mineral soils for cropland and grassland. More guidance is provided for developing Tier 2 
+stock change factors and Tier 3 methods. In addition, an alternative Tier 2 approach, i.e., steady-state 
+method, been provided in the Cropland Remaining Cropland section of the report.  (Chapters 2, 4, 5, 6, 7, 8) 
+• 
+Rice cultivation: Tier 1 factors have been updated for the baseline emission factors, scaling factors for water 
+management regimes before and during cultivation periods, and conversion factors for organic amendments. 
+Default cultivation periods have also been added for estimating annual emission factors. (Chapter 5) 
+• 
+Flooded Lands: New guidance is provided for CO2 and non-CO2 emissions from Land Converted to Flooded 
+Lands and Flooded Land Remaining Flooded Land.  Methods for future development associated with these 
+sources were included in Appendix 2 and Appendix 3 of Volume 4 of the 2006 IPCC Guidelines. The 
+science has matured over the past decade and these sources are now included in the main guidance (instead 
+of appendices) of Chapter 7, Volume 4 of the 2019 Refinement for a more complete inventory of greenhouse 
+gas emissions from managed lands.  The methods include estimation of total emissions following the 
+Managed Land Proxy and an optional method to develop indicative estimates of the anthropogenic 
+component of total emissions13. (Chapter 7) 
+• 
+Livestock and manure management: Tier 1 emission factors have been updated considering current 
+productivity data and integrating differential emission factors and for high and low productivity systems. 
+Further, for major animal categories, Tier 1 parameters such as enteric fermentation EFs, volatile solids and 
+nitrogen excretion are derived based on consistent data sources. The Tier 1 method to estimate CH4 
+                                                           
+13 In the outline of the 2019 Refinement approved by the IPCC at its 44th Session in Bangkok, Thailand in October 2016, 
+refinement was requested to update CO2 emission factors for land converted to flooded land (Wetlands) and to develop, on 
+the basis of comprehensive review of available literature, consistent methodologies that take into account factoring out of 
+emissions and removals that would otherwise occur in the absence of the flooded area for estimating CO2 and CH4 
+emissions from flooded lands (both land converted to flooded land and flooded land remaining flooded land).  Methods 
+have been developed to comply with the direction from the 44th Session of the IPCC. These methods provide transparency 
+in terms of the total emissions from Flooded Land following the Managed Land Proxy, which is consistent with other 
+methodologies for the AFOLU sector, and an optional method to develop indicative estimates of the anthropogenic 
+component of total emissions for both Flooded Land Remaining Flooded Land and Land Converted to Flooded Land. 
+ 
+Overview 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+15 
+emissions from manure management has been updated for consistency with N2O emissions. Certain Tier 2 
+parameters have been refined. The methane conversion rate (Ym) for cattle and buffalo, varies based on 
+animal diet and level of productivity. The default methane conversion factor (MCF) values for animal waste 
+management systems are presented based on climatic regions, as opposed to annual temperatures, and a 
+simple calculation model for deriving the MCF based on monthly temperature regimes has been presented. 
+Finally, improved guidance has been developed for the treatment of nitrogen transfers among livestock 
+emission source categories and transfers to agricultural soils. (Chapter 10) 
+• 
+Soil N2O: Tier 1 estimates have been updated based on the latest science for direct and indirect emission 
+factors. A key development is the disaggregation of emission factors by climate region. (Chapter 11) 
+• 
+Harvested wood products (HWPs): The methods and equations in the 2006 IPCC Guidelines have been 
+updated. The updated methods and equations better help inventory compilers to include the HWP pool 
+estimates in greenhouse gas inventories using any of the approaches: 'stock-change' approach, 'production' 
+approach, ´simple-decay´ and 'atmospheric-flow' approach. (Chapter 12) 
+ 
+Volume 5 (Waste)  
+• 
+Waste generation, composition and management: The 2019 Refinement updates key parameters used in the 
+first order decay (FOD) method including waste generation rate and waste composition by countries and 
+region using UN classification. The 2019 Refinement also provides default values and uncertainty of carbon 
+content, nitrogen content and degradable organic carbon (DOC) of domestic and industrial sludge. (Chapter 
+2) 
+• 
+Estimation of CH4 emission from landfill: Guidance on the use of methane correction factor (MCF) in 
+different management conditions of solid waste disposal sites (SWDS) has been updated.  New default 
+values for the MCF to estimate CH4 emissions from active aeration landfill have been provided by level of 
+landfill management (poorly and well managed). The IPCC Waste Model has been updated according to the 
+refinement.  Default values for the fraction of degradable organic carbon which decomposes (DOCf) for 
+different waste components and their uncertainties have been updated, and relevant guidance has been added. 
+(Chapter 3) 
+• 
+Incineration and open burning of waste: Guidance on emission estimation from new technologies including 
+gasification and pyrolysis has been elaborated with provision of CH4 and N2O emission factors to ensure a 
+more complete coverage of sources. Oxidation factor of municipal solid waste (MSW) open burning has 
+been updated. (Chapter 5) 
+• 
+CH4 emissions from wastewater treatment: Updated guidance is provided for the estimation of CH4 from 
+wastewater treatment, and updated emission factors for septic systems and centralised wastewater treatment 
+plants are provided. Updated emission factors are also provided for CH4 emissions from wastewater after 
+disposal of untreated wastewater or wastewater treatment effluent into aquatic environments. (Chapter 6) 
+• 
+N2O emissions from wastewater treatment: New guidance and emission factors are provided for N2O 
+emissions from domestic and industrial wastewater treatment plants, and updated emission factors are 
+provided for N2O emissions from wastewater after disposal of untreated wastewater or wastewater treatment 
+effluent into aquatic environments. (Chapter 6) 
+• 
+Non-biogenic (fossil) CO2 emissions from wastewater treatment and discharge: A discussion of non-
+biogenic (fossil) CO2 emissions from wastewater treatment and discharge, where fossil organic carbon is 
+present in wastewater or treatment sludge, is presented as an appendix as a basis for future methodological 
+development. (Chapter 6) 
+• 
+Discharge into aquatic environments: An alternate set of emission factors is provided for CH4 and N2O 
+emissions from wastewater after disposal of untreated wastewater or wastewater treatment effluent into 
+aquatic environments when the country has activity data to differentiate the conditions of the waterbody 
+receiving the discharge. (Chapter 6) 
+ 

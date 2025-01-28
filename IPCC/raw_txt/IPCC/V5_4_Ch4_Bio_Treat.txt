@@ -1,0 +1,382 @@
+ 
+Chapter 4: Biological Treatment of Solid Waste 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+4.1 
+CHAPTER 4  
+BIOLOGICAL TREATMENT OF SOLID 
+WASTE  
+Volume 5: Waste   
+ 
+ 
+4.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Riitta Pipatti (Finland) 
+Joao Wagner Silva Alves (Brazil), Qingxian Gao (China), Carlos López Cabrera (Cuba), Katarina Mareckova 
+(Slovakia), Hans Oonk (Netherlands), Elizabeth Scheehle (USA), Chhemendra Sharma (India), Alison Smith 
+(UK), Per Svardal (Norway), and Masato Yamada (Japan)  
+ 
+Chapter 4: Biological Treatment of Solid Waste 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+4.3 
+Contents 
+4  
+Biological Treatment of Solid Waste 
+4.1 
+Methodological issues  .................................................................................................................... 4.4 
+4.1.1 
+Choice of method  ................................................................................................................... 4.5 
+4.1.2 
+Choice of activity data  ............................................................................................................ 4.6 
+4.1.3 
+Choice of emission factors  ...................................................................................................... 4.6 
+4.2 
+Completeness ................................................................................................................................. 4.7 
+4.3 
+Developing a consistent time series  ................................................................................................ 4.7 
+4.4 
+Uncertainty assessment  .................................................................................................................. 4.7 
+4.5 
+QA/QC  .......................................................................................................................................... 4.7 
+4.6 
+Reporting and Documentation  ........................................................................................................ 4.7 
+References  .................................................................................................................................................... 4.8 
+ 
+Equations 
+Equation 4.1   CH4 emissions from biological treatment  ......................................................................... 4.5 
+Equation 4.2  
+N2O emissions from biological treatment  ........................................................................ 4.5 
+ 
+Tables 
+Table 4.1  
+Default emission factors for CH4 and N2O emissions  
+from biological treatment of waste  .................................................................................. 4.6 
+Volume 5: Waste   
+ 
+ 
+4.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+4 BIOLOGICAL TREATMENT OF SOLID 
+WASTE 
+4.1 
+METHODOLOGICAL ISSUES 
+Composting and anaerobic digestion of organic waste, such as food waste, garden (yard) and park waste and 
+sludge, is common both in developed and developing countries. Advantages of the biological treatment include: 
+reduced volume in the waste material, stabilisation of the waste, destruction of pathogens in the waste material, 
+and production of biogas for energy use. The end products of the biological treatment can, depending on its 
+quality, be recycled as fertiliser and soil amendment, or be disposed in SWDS. 
+Anaerobic treatment is usually linked with methane (CH4) recovery and combustion for energy, and thus the 
+greenhouse gas emissions from the process should be reported in the Energy Sector. Anaerobic sludge treatment 
+at wastewater treatment facilities is addressed in Chapter 6, Wastewater Treatment and Discharge, and emissions 
+should be reported under the categories of Wastewater. However, when sludge from wastewater treatment is 
+transferred to an anaerobic facility which is co-digesting sludge with solid municipal or other waste, any related 
+CH4 and nitrous oxide (N2O) emissions should be reported under this category, biological treatment of solid 
+waste. Where these gases are used for energy, then associated emissions should be reported in the Energy Sector.  
+Composting is an aerobic process and a large fraction of the degradable organic carbon (DOC) in the waste 
+material is converted into carbon dioxide (CO2). CH4 is formed in anaerobic sections of the compost, but it is 
+oxidised to a large extent in the aerobic sections of the compost. The estimated CH4 released into the atmosphere 
+ranges from less than 1 percent to a few per cent of the initial carbon content in the material (Beck-Friis, 2001; 
+Detzel et al., 2003; Arnold, 2005). 
+Composting can also produce emissions of N2O. The range of the estimated emissions varies from less than 0.5 
+percent to 5 percent of the initial nitrogen content of the material (Petersen et al., 1998; Hellebrand 1998; 
+Vesterinen, 1996; Beck-Friis, 2001; Detzel et al., 2003). Poorly working composts are likely to produce more 
+both of CH4 and N2O (e.g., Vesterinen, 1996).  
+Anaerobic digestion of organic waste expedites the natural decomposition of organic material without oxygen 
+by maintaining the temperature, moisture content and pH close to their optimum values. Generated CH4 can be 
+used to produce heat and/or electricity, wherefore reporting of emissions from the process is usually done in the 
+Energy Sector. The CO2 emissions are of biogenic origin, and should be reported only as an information item in 
+the Energy Sector. Emissions of CH4 from such facilities due to unintentional leakages during process 
+disturbances or other unexpected events will generally be between 0 and 10 percent of the amount of CH4 
+generated. In the absence of further information, use 5 percent as a default value for the CH4 emissions. Where 
+technical standards for biogas plants ensure that unintentional CH4 emissions are flared, CH4 emissions are likely 
+to be close to zero. N2O emissions from the process are assumed to be negligible, however, the data on these 
+emissions are very scarce. 
+Mechanical-biological (MB) treatment of waste is becoming popular in Europe. In MB treatment, the waste 
+material undergoes a series of mechanical and biological operations that aim to reduce the volume of the waste 
+as well as stabilise it to reduce emissions from final disposal. The operations vary by application. Typically, the 
+mechanical operations separate the waste material into fractions that will under go further treatment (composting, 
+anaerobic digestion, combustion, recycling). These may include separation, shredding and crushing of the 
+material. The biological operations include composting and anaerobic digestion. The composting can take place 
+in heaps or in composting facilities with optimisation of the conditions of the process as well as filtering of the 
+produced gas. The possibilities to reduce the amount of organic material to be disposed at landfills are large, 40 - 
+60 percent (Kaartinen, 2004). Due to the reduced amount in material, organic content and biological activity, the 
+MB-treated waste will produce up to 95 percent less CH4 than untreated waste when disposed in SWDS. The 
+practical reductions have been smaller and depend on the type and duration of MB treatments in question (see 
+e.g., Binner, 2002). CH4 and N2O emissions during the different phases of the MB treatment depend on the 
+specific operations and the duration of the biological treatment. 
+Overall, biological treatment of waste affects the amount and composition of waste that will be deposited in 
+SWDS. Waste stream analyses (see example in Box 2.1) are recommended methodologies for estimating the 
+impact of the biological treatment on emissions from SWDS. 
+The estimation of CH4 and N2O emissions from biological treatment of solid waste involves following steps: 
+ 
+Chapter 4: Biological Treatment of Solid Waste 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+4.5 
+Step 1:  
+Collect data on the amount and type of solid waste which is treated biologically. Data on composting 
+and anaerobic treatment should be collected separately, where possible. Regional default data on 
+composting are provided in Table 2.1 in Chapter 2, and country-specific data for some countries can 
+be found in Annex 2A.1 of this Volume. Anaerobic digestion of solid waste can be assumed to be 
+zero where no data are available. The default data should be used only when country-specific data are 
+not available (see also Section 4.1.2). 
+Step 2:  
+Estimate the CH4 and N2O emissions from biological treatment of solid waste using Equations 4.1 
+and 4.2. Use default or country-specific emission factors in accordance with the guidance as provided 
+in Sections 4.1.1, 4.1.2 and 4.1.3.  
+Step 3: 
+Subtract the amount of recovered gas from the amount of CH4 generated to estimate net annual CH4 
+emissions, when CH4 emissions from anaerobic digestion are recovered. 
+Consistency between CH4 and N2O emissions from composting or anaerobic treatment of sludge and emissions 
+from treatment of sludge reported in the Wastewater Treatment and Discharge category should be checked. Also, 
+if emissions from anaerobic digestion are reported under Biological Treatment of Solid Waste, the inventory 
+compilers should check that these emissions are not also included under the Energy Sector. 
+Relevant information on activity data collection, choice of emission factor and method used in estimating the 
+emissions should be documented following the guidance in Section 4.6.  
+4.1.1 
+Choice of method 
+The CH4 and N2O emissions of biological treatment can be estimated using the default method given in 
+Equations 4.1 and 4.2 shown below: 
+ 
+EQUATION 4.1 
+CH4 EMISSIONS FROM BIOLOGICAL TREATMENT 
+(
+)
+R
+EF
+M
+Emissions
+CH
+i
+i
+i
+4
+−
+•
+•
+=
+−
+∑
+10 3
+ 
+Where: 
+CH4 Emissions  
+=  
+total CH4 emissions in inventory year, Gg CH4 
+Mi  =  mass of organic waste treated by biological treatment type i, Gg 
+EF 
+=   emission factor for treatment i, g CH4/kg waste treated    
+i  
+=   composting or anaerobic digestion 
+R 
+=   total amount of CH4 recovered in inventory year, Gg CH4 
+ 
+When CH4 emissions from anaerobic digestion are reported, the amount of recovered gas should be subtracted 
+from the amount CH4 generated. The recovered gas can be combusted in a flare or energy device. The amount of 
+CH4 which is recovered is expressed as R in Equation 4.1. If the recovered gas is used for energy, then also the 
+resulting greenhouse gas emissions from the combustion of the gas should be reported under Energy Sector. The 
+emissions from combustion of the recovered gas are however not significant, as the CO2 emissions are of 
+biogenic origin, and the CH4 and N2O emissions are very small so good practice in the Waste Sector does not 
+require their estimation. However, if it is wished to estimate such emissions, the emissions from flaring should 
+be reported under the Waste Sector. A discussion of emissions from flaring and more detailed information are 
+given in Volume 2, Energy, Chapter 4.2. Emissions from flaring are not treated at Tier 1. 
+ 
+EQUATION 4.2 
+ N2O EMISSIONS FROM BIOLOGICAL TREATMENT 
+(
+)
+•10−3
+•
+= ∑
+i
+i
+i
+2
+EF
+M
+N O Emissions
+ 
+ 
+Volume 5: Waste   
+ 
+ 
+4.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Where: 
+N2O Emissions  
+=  
+total N2O emissions in inventory year, Gg N2O 
+Mi  =   mass of organic waste treated by biological treatment type i, Gg 
+EF 
+=   emission factor for treatment i, g N2O/kg waste treated    
+i  
+=   composting or anaerobic digestion 
+ 
+Three tiers for this category are summarised below.  
+Tier 1:  
+Tier 1 uses the IPCC default emission factors. 
+Tier 2:  
+Country-specific emission factors based on representative measurements are used for Tier 2.  
+Tier 3: 
+Tier 3 methods would be based on facility or site-specific measurements (on-line or periodic). 
+4.1.2 
+Choice of activity data 
+Activity data on biological treatment can be based on national statistics. Data on biological treatment can be 
+collected from municipal or regional authorities responsible for waste management, or from waste management 
+companies. Table 2.1 in Chapter 2, Waste Generation, Composition and Management Data, gives regional 
+default values on biological treatment. Country-specific default values for some countries can be found in Annex 
+2A.1 of this Volume. These data can be used as a starting point. It is good practice that countries use national, 
+annually or periodically collected data, where available. 
+4.1.3 
+Choice of emission factors 
+4.1.3.1 
+TIER 1 
+The emissions from composting, and anaerobic digestion in biogas facilities, will depend on factors such as type 
+of waste composted, amount and type of supporting material (such as wood chips and peat) used, temperature, 
+moisture content and aeration during the process. 
+Table 4.1 gives default factors for CH4 and N2O emissions from biological treatment for Tier 1 method.  
+ 
+TABLE 4.1 
+DEFAULT EMISSION FACTORS FOR CH4 AND N2O EMISSIONS FROM BIOLOGICAL TREATMENT OF WASTE 
+Type of 
+biological 
+treatment 
+CH4 Emission Factors 
+(g CH4/kg waste treated) 
+N2O Emission Factors 
+(g N2O/kg waste treated) 
+Remarks 
+on a  
+dry weight  
+basis 
+on a  
+wet weight  
+basis 
+on a  
+dry weight  
+basis 
+on a  
+wet weight  
+basis 
+Composting 
+10  
+(0.08 - 20) 
+4  
+(0.03 - 8) 
+0.6  
+(0.2 - 1.6) 
+0.24  
+(0.06 - 0.6) 
+Assumptions on the waste treated:  
+25-50% DOC in dry matter, 
+2% N in dry matter, 
+moisture content 60%. 
+The emission factors for dry waste 
+are estimated from those for wet 
+waste assuming a moisture content 
+of 60% in wet waste. 
+Anaerobic 
+digestion at 
+biogas 
+facilities 
+2  
+(0 - 20) 
+0.8  
+(0 - 8) 
+Assumed 
+negligible 
+Assumed 
+negligible 
+Sources: Arnold, M.(2005) Personal communication; Beck-Friis (2002); Detzel et al. (2003); Petersen et al. 1998; Hellebrand 1998; 
+Hogg, D. (2002); Vesterinen (1996). 
+Note: Default emission factors for CH4 for anaerobic digestion already account for CH4 recovery. 
+ 
+Emission from MB treatment can be estimated using the default values in Table 4.1 for the biological treatment. 
+Emissions during mechanical operations can be assumed negligible. 
+ 
+Chapter 4: Biological Treatment of Solid Waste 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+4.7 
+4.1.3.2 
+TIER 2 AND TIER 3 
+In Tier 2, the emissions factors should be based on representative measurements that cover relevant biological 
+treatment options applied in the country. In Tier 3, emission factors would be based on facility/site-specific 
+measurements (on-line or periodic). 
+4.2 
+COMPLETENESS 
+Reporting on CH4 and N2O emissions from biological treatment, where present, will complement the reporting 
+of emissions from SWDS and burning of waste and contribute to full coverage of all sources in the Waste Sector. 
+This will be particularly important in countries for which biological treatment is, or is becoming, significant.  
+4.3 
+DEVELOPING A CONSISTENT TIME SERIES 
+As the methodological guidance for estimating and reporting of emissions from biological treatment was not 
+included in the previous IPCC Guidelines, it is recommended that the whole time series is estimated using the 
+same methodology. The activity data for earlier years may not be available in all countries. Also current data on 
+biological treatment may not be collected on an annual basis. The methods for obtaining missing data are 
+described in Volume 1, Chapter 5, Time Series Consistency. 
+The default emission factors are based on limited amount of studies. The data availability is expected to improve 
+in coming years. It is good practice to use updated scientific information to improve emission factors when it 
+becomes available. Then, the estimates for the whole times series should be recalculated accordingly.  
+4.4 
+ UNCERTAINTY ASSESSMENT 
+The uncertainty in activity data will depend on how the data are collected. The uncertainty estimates for waste 
+generation and the fraction of waste treated biologically can be estimated in the same manner as for MSW 
+disposed at SWDS (see Table 3.5). The uncertainties will depend on the quality of data collection in the country. 
+Uncertainties in the default emission factors can be estimated using the ranges given in Table 4.1. Uncertainties 
+in country-specific emission factors will depend on the sampling design and measurement techniques used to 
+determine the emission factors. 
+4.5 
+QA/QC  
+The requirements on QA/QC addressed in Section 3. 8 in Chapter 3, Solid Waste Disposal, are also applicable for 
+biological treatment of waste.  
+4.6 
+REPORTING AND DOCUMENTATION 
+It is good practice to document and archive all information required to produce the national greenhouse gas 
+inventory as outlined in Section 6.11 of Chapter 6, QA/QC and Verification, in Volume 1 of these Guidelines. A 
+few examples of specific documentation and reporting relevant to this category are outlined in the following 
+paragraphs. 
+• 
+The sources of activity data should be described and referenced. The information on the collection 
+frequency and coverage (e.g., whether composting at households is included or not) should be given. 
+• 
+Information on types of waste (e.g., food waste, garden and park waste) composted or treated anaerobically 
+should be provided, if available. 
+• 
+Country-specific emission factors should be justified and referenced. 
+• 
+In cases where reporting of biological treatment will be split under several sectors and/or categories, the 
+reporting should be clarified under all relevant sectors/categories, to avoid double counting or omissions. 
+The worksheets developed for the estimation of the greenhouse gas emissions from biological treatment are 
+included at the end of this Volume. These worksheets include information on activity data and emission factors 
+used to calculate the estimates. 
+Volume 5: Waste   
+ 
+ 
+4.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+Arnold, M. (2005). Espoo: VTT Processes: Unpublished material from measurements from biowaste composts. 
+(Personal communication). 
+Beck-Friis, B.G. (2001). Emissions of ammonia, nitrous oxide and methane during composting of organic 
+household waste. Uppsala: Swedish University of Agricultural Sciences. 331 p. (Doctoral Thesis). 
+Binner, E. (2002). The impact of Mechanical-Biological Pretreatment on the Landfill Behaviour of Solid Wastes. 
+Workshop Biowaste. Brussels, 8-10.04.2002. 16 p. 
+Detzel, A., Vogt, R., Fehrenbach, H., Knappe, F. and Gromke, U. (2003). Anpassung der deutschen Methodik 
+zur rechnerischen Emissionsermittlung und internationale Richtlinien: Teilbericht Abfall/Abwasser. 
+IFEU Institut - Öko-Institut e.V. 77 p. 
+Hellebrand, H.J. (1998). ‘Emissions of nitrous oxide and other trace gases during composting of grass and green 
+waste’, J. agric, Engng Res., 69:365-375.  
+Hogg, D., Favoino, E., Nielsen, N.,Thompson, J., Wood, K., Penschke, A., Economides, D. and Papageorgiou, 
+S., (2002). Economic analysis of options for managing biodegradable municipal waste, Final Report to 
+the European Commission, Eunomia Research & Consulting, Bristol, UK. 
+Kaartinen, T. (2004). Sustainable disposal of residual fractions of MSW to future landfills. Espoo: Technical 
+University of Helsinki. (Master of Science Thesis). In Finnish. 
+Petersen, S.O., Lind, A.M. and sommer, S.G. (1998). ‘Nitrogen and organic matter losses during storage of cattle 
+and pig manure’, J. Agric. Sci., 130: 69-79. 
+Vesterinen, R. (1996): Impact of waste management alternatives on greenhouse gas emissions: Greenhouse gas 
+emissions from composting. Jyväskylä: VTT Energy. Research report ENE38/T0018/96. (In Finnish). 30p. 
+ 
+ 

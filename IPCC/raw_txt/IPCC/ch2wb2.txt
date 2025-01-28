@@ -1,0 +1,1193 @@
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.21
+C a l c i u m  C a r b i d e
+S T E P  4  E S T I M A T I N G  C O 2  E M I T T E D  F R O M
+C A L C I U M  C A R B I D E  P R O D U C T I O N
+1
+Obtain an estimate of the Amount of Carbide Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor, in tonnes CO2 per tonne
+of chemical produced, in column B.  For calcium carbide the
+emission factor must include all necessary components, such as
+heating of calcium carbonate, reduction of lime and/or use of
+product (see Table 2-8 for emission factors).  Do not include
+emissions from lime production, if lime is produced at a different
+plant from the calcium carbide.
+3
+Multiply column A by column B to obtain CO2 Emitted in tonnes
+and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total CO2 Emitted.
+2.12 Production of Ot her Chemicals
+I n t r o d u c t i o n
+The production of other chemicals such as carbon black, styrene,
+polyvinylchloride, sulphuric acid, etc. can be sources of CH4, N2O, NOx,
+NMVOC, CO and SO2.
+D a t a  S o u r c e s
+International production data are available from the United Nations (1988)
+and from the US Bureau of Mines (1988). The Standard Nomenclature for
+Air Pollution (SNAP) (EMEP/CORINAIR, 1996) codes for the processes are
+given in the tables.
+2 . 1 2 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C H 4
+Although most CH4 sources from industrial processes individually are small,
+collectively they may be significant.
+Few data on emission factors are presently available.  These are presented in
+Table 2-9 (see the Revised 1996 IPCC Guidelines for National Greenhouse Gas
+Inventories Reference Manual for sources).
+INDUSTRIAL PROCESSES
+2.22
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 2-9
+EMISSION FACTORS FOR CH4 FROM OTHER CHEMICAL
+PRODUCTION
+(KG CH4/TONNE PRODUCTION)
+Carbon black
+11
+Ethylene
+1
+Dichloroethylene
+0.4
+Styrene
+4
+Methanol
+2
+Coke
+0.5
+Emissions are determined by multiplying an emission factor by the annual
+production.
+2 . 1 2 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N 2 O
+Production of chemicals other than nitric acid and adipic acid may be sources
+of N2O, but more studies are needed to determine whether they represent
+significant sources.
+2 . 1 2 . 3  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N O x ,  N M V O C ,  C O
+a n d  S O 2
+This section is concerned with emissions from small point sources.  Total
+national emissions from these sources may be important and a simple
+methodology is suggested here.
+A summary of default emission factors, as well as emission factor ranges
+where applicable, is provided in Table 2-10.  Ranges given for NMVOC
+emissions from many processes are quite large.  Emission factors are likely
+to be quite process specific.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.23
+TABLE 2-10
+EMISSION FACTORS FOR MISCELLANEOUS PRODUCTION PROCESSES IN CHEMICAL INDUSTRIES
+(KG/TONNE PRODUCT)
+SOURCE
+SNAP
+NOX
+NMVOC
+CO
+SO2
+Acrylonitrile
+40520
+-
+1 (0.4-100)
+-
+-
+Acrylonitrile Butadiene Styrene (ABS) Resins
+40515
+-
+27.2 (1.4-27.2)
+-
+-
+Carbon black
+40409
+0.4
+40 (5-90)
+10 (5-14)
+3.1
+Ethylbenzene
+40518
+-
+2 (0.1-2)
+-
+-
+Ethylene and propylene
+40501/40502
+-
+1.4
+-
+-
+Formaldehyde
+40517
+-
+5 (0-8)
+-
+-
+Graphite
+40411
+-
+NAV
+-
+-
+Phtalic anhydride
+40519
+-
+6.0 (1.3-6.0)
+-
+-
+Polypropylene
+40509
+-
+12 (0.35-12)
+-
+-
+Polystyrene
+40511
+-
+5.4 (0.2-5.4)
+-
+-
+Polyethene - Low density
+40506
+-
+3
+-
+-
+Polyethene - Linear low density
+-
+-
+2
+-
+-
+Polyethene - High density
+50507
+-
+6.4
+-
+-
+Polyvinylchloride
+40508
+-
+8.5 (0.14-8.5)
+-
+-
+Styrene
+40510
+-
+18 (0.25-18)
+-
+-
+Styrene butadiene
+40512-14
+-
+NAV
+-
+-
+1,2, dichloroethane
+40503
+-
+7.3 (0.2-7.3)
+-
+-
+Sulphuric acid
+40401
+-
+-
+-
+17.5 (1-25)
+Titanium dioxide
+40410
+-
+-
+-
+14.6 (0.9-14.6)
+Urea
+40408
+NAV
+NAV
+NAV
+NAV
+Vinyl chloride a
+40504
+1,2, dichloroethane
+40505
+-
+2.2
+-
+-
+Note: Ranges in brackets
+See the Revised 1996 IPCC Guidelines for Greenhouse Gas Inventories Reference Manual for sources.
+a Emission factors should be used for the monomer and polymer separately even if they are produced at the same plant
+unless otherwise specified.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-10 PRODUCTION OF OTHER CHEMICALS  to enter data for
+this submodule.
+S T E P  1  E S T I M A T I N G  C H 4  E M I T T E D
+1
+Obtain an estimate of the Amount of Chemical Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor from Table 2-9, in kg CH4
+per tonne of chemical produced, in column B.
+3
+Multiply column A by column B to obtain CH4 Emitted in kg and
+enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CH4, and
+enter this value in column D.
+INDUSTRIAL PROCESSES
+2.24
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total CH4 emitted.
+S T E P  2
+E S T I M A T I N G  N O X  E M I T T E D
+1
+Obtain an estimate of the Amount of Chemical Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor from Table 2-10, in kg
+NOx per tonne of chemical produced, in column B.
+3
+Multiply column A by column B to obtain NOx Emitted in kg and
+enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams NOx, and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NOX emitted.
+S T E P  3
+E S T I M A T I N G  N M V O C  E M I T T E D
+1
+Obtain an estimate of the Amount of Chemical Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor from Table 2-10, in kg
+NMVOC per tonne of chemical produced, in column B.
+3
+Multiply column A by column B to obtain NMVOC Emitted in kg
+and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams NMVOC,
+and enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NMVOC emitted.
+S T E P  4
+E S T I M A T I N G  C O  E M I T T E D
+1
+Obtain an estimate of the Amount of Chemical Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor from Table 2-10, in kg
+CO per tonne of chemical produced, in column B.
+3
+Multiply column A by column B to obtain CO Emitted in kg and
+enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CO, and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total CO emitted..
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.25
+S T E P  5
+E S T I M A T I N G  S O 2  E M I T T E D
+1
+Obtain an estimate of the Amount of Chemical Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor from Table 2-10, in kg
+SO2 per tonne of chemical produced, in column B.
+3
+Multiply column A by column B to obtain SO2 Emitted in kg and
+enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams SO2, and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total SO2 emitted.
+2.13 Metal Production
+I n t r o d u c t i o n
+The preferred methodology (Tier 1a) for the estimation of emissions of CO2
+from all types of metal production is given in Section 2.13.1.  This method
+requires information on the quantity of reducing agent used.  If this
+information is not available, methodologies (Tier 1b) for estimating emissions
+of CO2 based on the metal production quantities are given in the following
+sections pertaining to particular metals.
+D a t a  S o u r c e s
+International production data are available from the United Nations (1988)
+and from the US Bureau of Mines (1988). The Standard Nomenclature of Air
+Pollution (SNAP) number for reheating furnaces iron and steel is 30302; gray
+iron foundries is 30303; production processes - iron & steel industries &
+collieries is 40200; coke oven is 40201; blast furnace charging is 40202; pig
+iron tapping is 40203; solid smokeless fuel is 40204; open hearth furnace
+steel plant is 40205; basic oxygen furnace is 40206; electric furnace steel
+plant is 40207; rolling mills is 40208; ferroalloys is 40302; ferroalloy
+production is 40302; aluminium production is 40301; non-ferrous metal
+industry is 40300(EMEP/CORINAIR, 1996).
+2 . 1 3 . 1  P r e f e r r e d  
+M e t h o d o l o g y  
+f o r
+E s t i m a t i n g  E m i s s i o n s  o f  C O 2
+This preferred methodology requires knowledge of the quantity of reducing
+agent used in metal manufacturing.  If this information is unavailable, refer to
+Sections 2.13.2 to 2.13.6.
+Table 2-11 gives suggested default emission factors for various mass reducing
+agents.
+INDUSTRIAL PROCESSES
+2.26
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 2-11
+ EMISSION FACTORS FOR CO2 FROM METAL PRODUCTION
+(TONNE CO2/TONNE REDUCING AGENT)
+Reducing Agent
+Emission Factor a
+Coalb
+2.5
+Coke from coal b
+3.1
+Petrol coke
+3.6
+Prebaked anodes and coal electrodes
+3.6
+a If better information on actual carbon content is not available nationally or cannot be
+calculated from data in the Energy Chapter.
+b Derived from data in the Energy Chapter
+2 . 1 3 . 2  I r o n  a n d  S t e e l
+2 . 1 3 . 2 . 1  
+M e t h o d o l o g y  f o r  E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Tier 1a
+See Section 2.13.1 if quantity of reducing agent is known.
+Tier 1b
+Parsons (1977) and ORTECH (1994) have studied the consumption of
+carbon at iron and steel production facilities.  These results have been
+summarised by Environment Canada 1996.  A CO2 emission factor is shown
+in Table 2-12.
+TABLE 2-12
+ EMISSION FACTOR FOR CO2 FROM IRON AND STEEL PRODUCTION
+(TONNE/TONNE IRON OR STEEL PRODUCT)
+Country
+Description
+Emission Factor
+Reference
+Canadaa
+Integrated facilityb
+(coke plus iron and/or
+steel production).
+1.6
+Environment Canada
+1996
+a Includes CO2 produced by coke and coke oven gas consumption.  It does not include any
+form of conventional energy consumption.  The emission factor applies to both iron or iron
+plus steel production, since uncertainty in the estimates overshadow the sincremental
+difference in CO2 emissions.
+b Environment Canada has reported an emission factor of approximately 1.5 tonnes CO2
+/tonne iron or steel for a non-integrated facility.  This is, however, a rather uncertain value.
+Note:  Figures exclude CO2 from flux (CaCO3) consumption.
+DOUBLE COUNTING
+Additional emissions occur as the
+limestone flux gives off carbon
+dioxide during reduction of pig iron
+in the blast furnace.  This source is
+covered as emissions from limestone
+use in Section 2.5. Care should be
+taken not to double count these
+emissions.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.27
+2 . 1 3 . 2 . 2  
+M e t h o d o l o g y  f o r  E s t i m a t i n g
+E m i s s i o n s  o f  N O x ,  N M V O C ,
+C O  a n d  S O 2
+Emissions from iron and steel may originate from various stages of the
+production process.  These are described in the tables below.  Most of the
+emissions from rolling mills are from the fuel used to heat the process.
+However, cold-rolling will emit a range of gases in addition to the emissions
+from fuel combustion.
+The following Tables 2-13 to 2-16 summarise the emission factors reported
+in the Revised 1996 IPCC Guidelines for Greenhouse Gas Inventories Reference
+Manual for NOx, NMVOC, CO and SO2, respectively:
+TABLE 2-13
+REPORTED NOX EMISSION RATES FOR THE IRON AND STEEL SECTOR
+(G NOX/TONNE IRON OR STEEL PRODUCED)
+Source
+Emission Factor
+(g/tonne produced)
+Reference
+Iron Production - Pig
+iron tapping
+76
+CASPER 1995
+Steel Processing - rolling
+mills
+40
+EMEP/CORINAIR Guidebook
+TABLE 2-14
+REPORTED NMVOC EMISSION RATES FOR THE IRON AND STEEL SECTOR
+(G NMVOC/TONNE IRON OR STEEL PRODUCED)
+Source
+Emission Factor
+(g/tonne produced)
+Reference
+Iron Production - Blast
+furnace charging
+100
+CASPER 1995
+Iron Production - Pig
+iron tapping
+20
+CASPER 1995
+Steel Processing -
+rolling mills
+30
+EMEP/CORINAIR Guidebook
+INDUSTRIAL PROCESSES
+2.28
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 2-15
+REPORTED CO EMISSION RATES FOR THE IRON AND STEEL SECTOR
+(G CO/TONNE IRON OR STEEL PRODUCED)
+Source
+Emission Factor
+(g/tonne produced)
+Reference
+Iron Production - Blast
+furnace charging
+1300
+CASPER 1995
+Iron Production - Pig
+iron tapping
+112
+CASPER 1995
+Steel Processing -
+rolling mills
+1
+EMEP/CORINAIR Guidebook
+TABLE 2-16
+REPORTED SO2 EMISSION RATES FOR THE IRON AND STEEL SECTOR
+(G SO2/TONNE IRON OR STEEL PRODUCED)
+Source
+Emission Factor
+(g/tonne produced)
+Reference
+Iron Production - Blast
+furnace charging
+1000-3000
+Environment Canada
+Iron Production - Pig
+iron tapping
+30
+CASPER 1995
+Steel Processing - rolling
+mills
+45
+EMEP/CORINAIR Guidebook
+Emission factors for steel production (open hearth furnace, basic oxygen
+furnace steel plant and electric furnace steel plants) are not provided.
+2 . 1 3 . 3  F e r r o a l l o y s
+I n t r o d u c t i o n
+Ferroalloy production involves a metallurgical reduction process which
+results in significant carbon dioxide emissions.
+Primary emissions in covered arc furnaces consist almost entirely of CO as
+opposed to CO2, due to the strong reducing environment (ORTECH, 1994).
+All CO is assumed, however, to be converted to CO2,  within days
+afterwards.
+2 . 1 3 . 3 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Tier 1a
+See Section 2.13.1 if quantity of reducing agent is known.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.29
+Tier 1b
+The suggested emission factors (Table 2-17) assume (if not otherwise
+specified) that all carbon is fossil, and are derived from a material balance
+made by SINTEF (SINTEF 1991a) and Streibel, 1974.
+TABLE 2-17
+EMISSION FACTORS FOR CO2 FROM FERROALLOY PRODUCTION
+Type Ferroalloy
+Emission Factor (tonnes/tonne product)
+Ferrosilicon - 50%Si
+2-2.7
+Ferrosilicon - 75%Si
+3.9
+Ferrosilicon - 90%Si
+4.8-6.5
+Silicon metala
+4.3
+Ferromanganese
+1.6
+Silicon manganese
+1.7
+Ferrochromium
+1.3
+Ferrochromium-silicon
+NAV
+a All producers probably use some biocarbon in order to obtain the desired product
+properties.  1.6 tonne bio-CO2/tonne silicon may be considered as a minimum value
+and is not included in the emission factor in the table.
+2 . 1 3 . 4  A l u m i n i u m
+I n t r o d u c t i o n
+Primary aluminium is produced in two steps.  First bauxite ore is ground,
+purified and calcined to produce alumina.  Following this, the alumina is
+electrically reduced to aluminium by smelting in large pots.
+Most carbon dioxide is evolved from the reaction of the carbon anode with
+alumina, but some is formed as the anode reacts with other sources of
+oxygen (especially air).  This occurs during cell operation and, in the case of
+prebaked electrodes, during anode production at the aluminium plant.
+2 . 1 3 . 4 . 1  
+M e t h o d o l o g y  f o r  E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Tier 1a
+See Section 2.13.1 if quantity of reducing agent is known.
+INDUSTRIAL PROCESSES
+2.30
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+Tier 1b
+If information on quantity of reducing agent is not known, the emissions of
+CO2 may be estimated from the production volume of primary metal and
+the specific consumption of carbon.  Emissions factors for CO2 are
+suggested in Table 2-18 based on SINTEF 1991b and ORTECH 1994.
+TABLE 2-18
+EMISSION FACTORS FOR CO2 FROM PRIMARY ALUMINIUM
+PRODUCTION
+(TONNE/TONNE PRODUCT)
+Pollutant
+Soderberg Process
+Prebaked Anode Process
+CO2
+1.8
+1.5
+2 . 1 3 . 4 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  P F C s
+I n t r o d u c t i o n
+Two PFCs, carbon tetrafluoride (CF4) and carbon hexafluoride (C2F6), are
+known to be emitted from the process of primary aluminium smelting.
+Tier 1a - Measured Emission Data
+The Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories
+Reference Manual gives details on the variability of emissions of PFCs. Since
+emissions of CF4 and C2F6 vary so significantly from one aluminium smelter
+to the next, depending on cell type and anode effects (AE) parameters, the
+estimations will be highly uncertain unless actual emission measurements
+have been made.
+Tier 1b - Calculation of Emission Data
+It is recognised that measurements are both expensive and time-consuming.
+It may, however, be much easier to make a limited survey of AE frequency
+and duration at smelters.  In such cases, it is recommended that specific CF4
+emissions for anode effects longer than 2 minutes are calculated as follows
+(based on the method developed by Tabereaux 1995):
+TIER 1a
+Tier 
+1a 
+is 
+the 
+preferred
+methodology.  Every effort should be
+made to obtain measurement data.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.31
+kg CF4/tonne Al   =   1.698 x (p / CE) x AEF x AED
+where:
+p
+=
+average fraction amount of CF4 in the pot
+gas during anode effects
+Prebaked: p
+=
+0.08  (8%)
+Søderberg: p
+=
+0.04  (4%)
+CE
+=
+current efficiency expressed as a fraction,
+rather than a percentage
+AEF
+=
+number of anode effects per pot day
+AED
+=
+anode effect duration in minutes
+It is recommended that the default rate for C2F6 emissions be 1/10 that of
+CF4.
+TABLE 2-19
+DEFAULT PARAMETERS TO ESTIMATE CF4 AND C2F6 EMISSIONS FROM
+ALUMINIUM PRODUCTION
+CF4
+C2F6
+Type of Cell
+Equation
+Constant
+Average
+fraction of
+CF4 in the pot
+gas during
+anode effects
+Equation
+Constant
+Average
+fraction amount
+of C2F6 in the
+pot gas during
+anode effects
+Prebake
+1.698
+0.08
+0.1698
+0.08
+Søderberg
+1.698
+0.04
+0.1698
+0.04
+Tier 1c - Estimated Emission Data
+PFC emissions estimates have been reported in several studies.  These are
+briefly discussed in the Revised 1996 IPCC Guidelines for National Greenhouse
+Gas Inventories Reference Manual.
+The estimates should be used only when no measured data exist.  Specific
+emission factors should be chosen according to the type of technology used
+as shown in Table 2-20 and applied to national primary aluminium
+production data for each technology.  The following equation may then be
+used to give an estimate of the annual CF4 emissions from a smelter with a
+given cell technology.
+INDUSTRIAL PROCESSES
+2.32
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+CF4 emission (kg)   =   EF(tech) (kg CF4 / tonne Al) x pp(tech) tonnes)
+where:
+EF(tech)
+=
+emission factor by technology (from Table 2-20)
+pp(tech)
+=
+primary aluminium production by technology
+TABLE 2-20
+ESTIMATED GLOBAL CF4 EMISSIONS FROM ALUMINIUM SMELTERS WITH
+VARIOUS CELL TECHNOLOGIES
+Type of Cell Technology
+Per Cent Of
+World
+Production
+kg CF4/tonne
+Al
+Modern Prebaked
+20
+0.05
+HS Søderberg
+11
+1.0
+“Older” Prebaked
+40
+1.75
+VS Søderberg
+29
+2.0
+Weighted average for all plants world-wide
+100
+1.40
+See the Revised 1996 IPCC 1996 Guidelines for Greenhouse Gas Inventories
+Reference Manual for sources.
+It is recommended that the default rate for C2F6 emissions be 1/10 that of
+CF4.
+2 . 1 3 . 4 . 3  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N O x ,  C O  a n d  S O 2
+Emissions of NOx, CO and SO2 can be estimated from the amount of
+aluminium produced.  Emissions may originate from the production process
+and baking of anodes.  No distinction between the Søderberg and prebaked
+method is given in the EMEP/CORINAIR Guidebook (SNAP 40301).  The
+suggested emission factors are shown in Table 2-21.  No information is given
+about the degree of control.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.33
+TABLE 2-21
+EMISSION FACTORS FOR NOX, CO AND SO2 FROM ALUMINIUM
+PRODUCTION
+(KG/TONNE PRIMARY ALUMINIUM PRODUCED)
+Pollutant
+Process
+Emission Factor
+(Default)
+Emission Factor
+(Range)
+NOx
+Electrolysis
+2.15
+1.3-3.0
+Anode baking
+NE
+NE
+CO
+Electrolysis
+135
+27-680
+Anode baking
+400
+NAV
+SO2
+Electrolysis
+14.2
+10-17.5
+Anode baking
+0.9
+0.8-1.0
+  NE = negligible.         NAV = not available.
+2 . 1 3 . 5  O t h e r  M e t a l  P r o d u c t i o n
+2 . 1 3 . 5 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Tier 1a
+See Section 2.13.1 if quantity of reducing agent is known.
+Tier 1b
+This includes production of all non-ferrous metals except aluminium.  The
+metals may be produced using carbon as reducing agents or by other
+methodologies.
+Whether carbon is emitted or not depends on the production process.
+Some ores are not reduced with carbon. Hence, CO2 emissions from these
+processes are low. The general methodology suggested where emissions are
+calculated from the consumption of reducing agents and the carbon content
+of ores is recommended. An overview of production processes is given in
+Table 2-22. Some metals may be produced from alternative production
+methods.
+CARBONATE ORES
+In the case of magnesium and other
+metals in a carbonate ore, the
+carbon emitted from the ore should
+be taken into account in addition to
+the coke reducing agent.
+INDUSTRIAL PROCESSES
+2.34
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 2-22
+PRODUCTION PROCESSES FOR SOME METALS
+Metal
+Main Ore(s)
+Carbon
+reduction
+Electrolysis
+(without carbon)
+Other
+(non-CO2)
+Chromiuma
+FeCr2O4, PbCrO4
+x
+Copper
+Cu2S, CuFeS2, Cu2O,
+carbonate
+x
+x (SO2)
+Gold
+Element
+x
+x
+Lead
+PbS
+x
+x (SO2)
+Magnesium
+Carbonate
+x
+x
+Mercury
+HgS
+x (SO2)
+Molybdenum
+MoS2
+x (SO2)
+Nickel
+NiS, NiO
+x
+x
+x (SO2)
+Platinum
+Element, PtS
+x
+Siliconb
+SiO2, Si-O-alkali
+x
+Silver
+Ag2S, element
+x
+Tin
+SnO2
+x
+Titanium
+TiO2, FeTiO3
+xc
+Tungsten
+WO3
+x
+Uranium
+UxOy
+x
+Zinc
+ZnS, ZnCO3
+x
+x
+x (SO2)
+aSee also ferroalloy production
+b See also ferroalloy production and carbide production
+cTwo step reduction process, involving first C + Cl2, then Mg
+Note: The appearance of (SO2) in the final column indicates that the production process is a major world-wide
+source of SO2 emissions.
+2 . 1 3 . 6  S F 6  
+U s e d  
+i n  
+A l u m i n i u m  
+a n d
+M a g n e s i u m  F o u n d r i e s
+2 . 1 3 . 6 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  S F 6
+In the aluminium industry SF6 is used as a cover gas only for special foundry
+products. Since SF6 is assumed to be inert, SF6 emissions should equal
+consumption:
+Emission of SF6 =  Consumption of SF6 in magnesium and aluminium  foundries
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.35
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-11 METAL PRODUCTION to enter data for this submodule.
+S T E P  1  E S T I M A T I N G  C O 2  E M I T T E D  -  T I E R  1 a
+1
+Estimate the Mass of Reducing Agent and enter this value in
+column A in tonnes.
+Enter the corresponding Emission Factor (Table 2-11) in column B
+in tonnes CO2/tonne reducing agent.
+3
+If the information is available, estimate the Carbon Content of
+Ore (in tonnes) (Core) and subtract the Carbon Content of Metal
+(in tonnes)(Cmetal).  Multiply the result by 3.67 and enter the result
+in column C.
+If this information is not available, the product of column A and
+column B will probably be sufficient for making a first estimate of
+the emissions.
+4
+Multiply column A by column B and add column C (if available) to
+obtain CO2 Emitted in tonnes CO2, and enter this value in column
+D.
+5
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column E.
+Tier 1b - Based on Iron or Steel Production
+S T E P  2  E S T I M A T I N G  C O 2  E M I T T E D
+1
+Estimate the Amount of Iron or Steel Produced and enter this value
+in column A in tonnes.
+2
+Enter the corresponding Emissions Factor (Table 2-12) in column B
+in tonne CO2 per tonne of iron or steel produced.
+3
+Multiply column A by column B to obtain CO2 Emitted in tonnes of
+CO2 and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+S T E P  3  E S T I M A T I N G  N O X ,  N M V O C ,  C O
+A N D  S O 2  E M I T T E D
+1
+Estimate the Amount of Iron or Steel Produced and enter this value
+in column A in tonnes.
+2
+Enter the corresponding Emission Factor (Tables 2-13 and 2-16) in
+column B in grams pollutant per tonne of iron or steel produced
+for NOx, NMVOC, CO and SO2.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+INDUSTRIAL PROCESSES
+2.36
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+3
+Multiply column A by column B to obtain Pollutant Emitted in grams
+of  pollutant and enter this value in column C.
+4
+Divide column C by 109 to convert to units of gigagrams of
+pollutant, and enter this value in column D.
+Tier 1b - Based on Ferroalloy Production
+S T E P  4  E S T I M A T I N G  C O 2  E M I T T E D  F R O M
+F E R R O A L L O Y S
+1
+Estimate the Amount of Ferroalloy Produced and enter this value in
+column A in tonnes.
+2
+Enter the corresponding Emission Factor (Table 2-17) in column B
+in tonnes CO2 per tonne of ferroalloys produced.
+3
+Multiply column A by column B to obtain CO2 emitted in tonnes of
+CO2 and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+Tier 1b - Based On Aluminium Production
+S T E P  5  E S T I M A T I N G  C O 2  E M I T T E D  F R O M
+A L U M I N I U M  T I E R  1 b
+1
+Estimate the Amount of Aluminium Produced  and enter this value
+in column A in tonnes.
+2
+Enter the corresponding Emission Factor  (Table 2-18) in column B
+in tonne CO2 per tonne of aluminium produced.
+3
+Multiply column A by column B to obtain CO2 emitted in tonnes,
+and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+Tier 1a - Based On Measurements
+Every effort should be made to obtain measurement data due to the
+uncertainty of emission estimates.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.37
+Tier 1b - Based On The Number Of Anode Effects
+Table 2-19 provides default data to be used with Tier 1b.
+S T E P S  6  A N D  7  E S T I M A T I N G  P F C  E M I T T E D
+1
+Enter the Type of Cell in column A.
+2
+Estimate the Amount of Aluminium Produced and enter this value
+in column B in tonnes.
+3
+Enter the corresponding Equation Constant (Table 2-19) in
+column C for CF4 and C2F6 emissions from aluminium production.
+4
+Enter the corresponding Average Fraction of Pot Gas During
+Anode Effects of CF4 or C2F6 (Table 2-19) in column D.
+5
+Enter the Current Efficiency as a fraction in column E.
+6
+Enter the Number of Anode Effects Per Day in column F.
+7
+Enter the Anode Effect Duration in minutes in column G.
+8
+Multiply columns B through G to obtain CF4 or C2F6 Emitted in kg
+and enter this value in column H.
+9
+Divide column H by 106 to convert to units of gigagrams of CF4 or
+C2F6, and enter this value in column I.
+Tier 1c - Based on Aluminium Production
+The method in Step 8 should be used only when no measured data exists.
+S T E P  8  E S T I M A T I N G  C F 4  E M I T T E D
+1
+Estimate the Amount of Aluminium Produced and enter this value
+in column A in tonnes.
+2
+Enter the corresponding emissions factor (Table 2-20) in column B
+in kg CF4 per tonne of aluminium produced.
+3
+Multiply column A by column B to obtain emissions in kg and enter
+this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams, and enter
+this value in column D.
+The method in Step 9 should be used only when no measured data exists.  It
+is assumed that C2F6 emissions are approximately 10 per cent of the CF4
+emissions.
+INDUSTRIAL PROCESSES
+2.38
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+S T E P  9  E S T I M A T I N G  C 2 F 6  E M I T T E D
+1
+Enter estimated mass of CF4 Emitted in gigagrams from column D
+of sheet 8 to column A of Sheet 9.
+2
+Enter the C2F6 emissions factor based on CF4 emissions (0.1) in
+column B.
+3
+Multiply column A by column B to obtain emissions in gigagrams
+and enter this value in column C.
+S T E P  1 0  E S T I M A T I N G  N O X ,  C O  A N D  S O 2
+E M I T T E D
+1
+Estimate the Amount of Aluminium Produced and enter this value
+in column A in tonnes.
+2
+Enter the corresponding Emission Factor (Table 2-21) in column B
+in kg pollutant per tonne of aluminium produced.
+3
+Multiply column A by column B to obtain Pollutant Emitted in kg
+pollutant and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams of
+pollutant , and enter this value in column D.
+S T E P  1 1  E S T I M A T I N G  S F 6  E M I T T E D
+1
+Estimate the Consumption of SF6 in magnesium and aluminium
+foundries and enter this value in column A in tonnes.
+2
+This value is set equal to SF6 Emitted. Enter this value in column B
+in tonnes.
+3
+Divide column B by 103 to convert to units of gigagrams, and enter
+this value in column C.
+2.14 Pulp and Paper Indust ries
+I n t r o d u c t i o n
+The production of pulp and paper involves three major processing steps:
+pulping, bleaching and paper production. The type of pulping and the amount
+of bleaching used depends on the nature of the feedstock and the desired
+quality of the end product.
+There are two main processes: Kraft (sulphate) pulping, the most widely
+used, and Sulphite pulping. Sulphite pulping may be divided into the acid
+Sulphite process and the neutral sulphite semi-chemical process.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.39
+D a t a  S o u r c e s
+If site-specific emission data are not available, the emission estimates can be
+based on the total annual production of dried pulp. The production would
+have to be broken down by kraft, acid sulphite and neutral sulphite
+processes.
+2 . 1 4 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N O x ,  N M V O C ,  C O
+a n d  S O 2
+There is more information on the simpler methodologies in the
+EMEP/CORINAIR Guidebook.
+TABLE 2-23
+NON-COMBUSTION EMISSION FACTORS FOR PULP AND PAPER PRODUCTION
+KRAFT PULPING (KG/TONNE DRIED PULP)
+Pollutant
+Emission Factor
+(Default)
+Emission Factor
+(Range)
+NOx
+1.5
+0.017-1.5
+NMVOC
+3.7
+0.1-4.9
+CO*
+5.6
+NAV
+SO2
+7
+0.005-10
+Ref: US EPA 1995.
+NAV = Not Available
+There are at least four types of acid sulphite process: ammonium-based
+(NH3), calcium-based (Ca), magnesium-based (MgO) and sodium-based (Na)
+(US EPA, 1995).  Emissions factors from US EPA, 1995 are given in Table 2-
+24.
+TABLE 2-24
+NON-COMBUSTION EMISSION FACTORS FROM PULP AND PAPER PRODUCTION
+ACID SULPHITE PULPING (KG/TONNE DRIED PULP)
+Pollutant
+Type of Process
+Emission Factor
+(Default)
+Emission Factor
+(Range)
+SO2
+NH3, Ca, MgO and Na
+30
+8-50
+EMISSION FACTORS
+Emission factors are based on the
+production of air dried pulp.  The
+emissions of SO2 may be lower in
+new mills than in the older ones (US
+EPA 1995).
+INDUSTRIAL PROCESSES
+2.40
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2 . 1 4 . 2  D e t a i l e d  
+M e t h o d o l o g y  
+f o r
+E s t i m a t i n g  
+E m i s s i o n s  
+f o r  
+N O x
+a n d  S O 2
+The preferred methodology is to use continuous measurements data which
+may be available for NOx and SO2.  This is only feasible in modern plants
+where the number of measurement points to be monitored is limited.
+Detailed emission factors related to the various processes are given in the
+EMEP/CORINAIR Guidebook.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-12 PULP AND PAPER INDUSTRIES to enter data for this
+submodule.
+S T E P  1  E S T I M A T I N G  N O X ,  N M V O C  A N D  C O
+E M I T T E D
+1
+Estimate  the annual Quantity of Air Dried Pulp Produced in tonnes
+for the kraft process and enter into column A.
+2
+Enter the corresponding Emission Factor (Table 2-23), in kilograms
+of pollutant (NOx, NMVOC and CO) per tonnes of air dried pulp,
+in column B.
+3
+Multiply column A by column B to obtain Pollutant Emitted in
+kilograms and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams of
+pollutant (NOx, NMVOC and CO ) and enter this value in column
+D.
+S T E P  2   E S T I M A T I N G  S O 2  E M I T T E D
+1
+Estimate  the annual Quantity of Air Dried Pulp Produced in tonnes
+broken down into the kraft and acid sulphite processes and enter
+into the appropriate column A.
+2
+Enter the corresponding Emission Factor (Table 2-23), in SO2
+kilograms per tonnes of air dried pulp, in column B.
+3
+Multiply column A by column B to obtain SO2 Emitted in kilograms
+and enter this value in column C.
+4
+Divide column C by 106 to convert to units of SO2 gigagrams and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+the column to obtain the total SO2 emitted.

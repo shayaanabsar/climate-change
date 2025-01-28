@@ -1,0 +1,214 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+ A2.1
+ANNEX 2
+IPCC AND CORINAIR SOURCE
+CATEGORIES
+This chapter briefly explains the origins of the IPCC and CORINAIR, the
+correspondences between the IPCC and CORINAIR/UNECE source categories,
+and outlines how to report the results from the CORINAIR inventory system in an
+IPCC format. At present, CORINAIR/UNECE is the only known inventory
+programme used by many countries of which the scope and objectives
+significantly overlap those of the IPCC. Many individual countries certainly have
+other detailed national inventory approaches which have similar characteristics to
+CORINAIR. For these countries, this example of reconciling IPCC and CORINAIR
+source categories may be helpful in addressing similar conversion problems. The
+IPCC/OECD/IEA Programme will work with interested countries and other
+organisations as far as possible to help achieve correspondence with IPCC
+categories in order to avoid duplication of effort at national and international
+levels.
+A2.1 Origins
+The IPCC source and sink categories for the estimation and reporting of
+national inventories of greenhouse gas emissions is slightly different than
+categories that have been developed by the Commission of European
+Communities (CEC) for use in Europe. The reasons for these differences
+lie, first, in the origin of the two inventory systems and, second, in the
+primary uses for the inventory data. However, for the recent inventories
+(from 1994 and onwards) these systems are consistent and harmonised.
+The European Union (EU) emission inventory programme (CORINAIR) was
+set up by the European Council of Ministers in 1985 to assist in the
+development of consistent, comparable and transparent national inventories
+for “conventional” air pollutants such as SOx, NOx, and VOC. The first
+CORINAIR  inventories were developed for 1985. The next CORINAIR
+inventories, for the year 1990, were initiated by the European Environment
+Agency Task Force. For these inventories, the pollutant list was extended to
+include NH3, CO, CO2 and N2O, as well as to separate CH4 from
+NMVOC.  Support was given to Central and Eastern European countries
+resulting in emission inventories for 1990, covering 29 countries.
+A further development of the CORINAIR system came in 1991, when the
+United Nations Economic Commission for Europe (UNECE) helped define
+the main CORINAIR categories as a basis for reporting under the Long
+Range Transboundary Air Pollution (LRTAP) Convention. The pollutants of
+interest not only include those covered in specific protocols (i.e. SOx, NOx,
+and VOC) but also pollutants that influence the critical loads of acidic
+deposition, such as NH3.  In 1992, the UNECE also established a Task Force
+on Emission Inventories (TFEI) with a main objective to develop a
+guidebook for emission inventories summarising the CORINAIR/UNECE
+recommendations on estimation and verification methods.
+IPCC AND CORINAIR SOURCE CATEGORIES
+A2.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+A2.2 CORINAIR Methodology and its
+Applications
+The joint EMEP/CORINAIR Atmospheric Emission Inventory Guidebook
+(EMEP/CORINAIR Guidebook) was first published in February, 1996. It is
+available as a CD-ROM and on the Internet. The UNECE/TFEI will continue
+its work of improving and updating the EMEP/CORINAIR Guidebook in co-
+operation with the European Environment Agency (EEA). In 1995, the
+CORINAIR project was integrated into the work programme of the EEA,
+and the European Topic Centre on Air Emissions (ETC/AE) was contracted
+to continue the CORINAIR project. The main task of the ETC/AE is to
+assist the participation of the EU-15 countries, as well as other European
+countries to report  national inventories as required under international
+obligations. The CORINAIR project is an annual European air emission
+inventory, for which the list of pollutants has been extended to include
+heavy metals and persistent organic pollutants (POPs), from the reporting
+year 1994 onwards.
+The CORINAIR methodology requires countries to collect emission
+estimates using a detailed source nomenclature (SNAP) and a detailed
+spatial level (NUTS level 3). From the resulting emission inventory, the
+methodology can be used to aggregate, allocate and report emission
+estimates for different reporting purposes. For example:
+• IPCC format (UN FCCC);
+• UNECE/EMEP (LRTAP Convention);
+• EU Monitoring Mechanism of CO2 and other greenhouse gas emissions.
+Complete harmonisation between the IPCC and CORINAIR source
+categories has been achieved for the reporting year 1994, and onwards.
+The purpose of inventory development under UNECE is to support the
+monitoring of progress of the implementation of the LRTAP protocols. One
+of the principal users of the inventories are modellers who support the
+implementation of the Protocols under the LRTAP. The main requirement
+of the modellers is to estimate the sources of SOx, NOx, NMVOC, and
+NH3 emissions on a 50 km  x 50 km square grid basis across Europe. These
+data are then the basis of the calculations estimating acidic deposition and
+photochemical oxidants across Europe which tie back to the concepts of
+"critical loads" for acidificate and “critical levels” for photochemical oxidant.
+The calculations show national progress or future acquirement to meet
+these critical thresholds.
+A2.3 Correspondences Between IPCC and
+CORINAIR Source Categories
+The UNECE requirement to establish a much more detailed understanding
+of the physical source and geographic distribution of emissions has led to
+source categories based on the physical characteristics of the sources of
+pollutants. The IPCC has proceeded on the basis that socio-economic
+sources are the easiest and most appropriate groupings for describing
+IPCC AND CORINAIR SOURCE CATEGORIES
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+ A2.3
+emissions, which in turn will facilitate the use of inventories for policy
+analysis.
+The CORINAIR/UNECE system uses type of physical plant or vehicle, as
+the fundamental basis for emission estimation. This allows high accuracy in
+description of individual point or mobile sources and in use of appropriate
+emission factors for conventional pollutants. From the resulting detailed
+emissions inventory, the methodology can be used to aggregate, allocate and
+report emission estimates for different reporting purposes. For example,
+the CORINAIR methodology has been improved to include energy statistics
+and to enable countries to report emissions in complete accordance with
+the IPCC Guidelines.
+An overview of correspondence between IPCC and CORINAIR source
+categories at the highest aggregated IPCC level (Short Summary Report
+Table, 7B) is presented in the following table.
+IPCC AND CORINAIR SOURCE CATEGORIES
+A2.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+TABLE A2-1
+CORRESPONDENCES BETWEEN IPCC AND CORINAIR MAIN SOURCE CATEGORIES
+IPCC
+CORINAIR
+1 
+Energy
+1 A  Fuel Combustion Activities
+01      Combustion in Energy and Transformation Industry
+02      Non-industrial Combustion Plants
+03      Combustion in Manufacturing Industry
+07      Road Transport
+08      Other Mobile Sources and Machinery
+I B
+Fugitive Emissions from Fuels
+05      Extraction and Distribution of Fossil Fuels and Geothermal
+Energy
+2
+Industrial Processes
+04      Production Processes
+3
+Solvent and Other Product Use
+06      Solvent and Other Product Use
+4
+Agriculture
+1001  Cultures with Fertilisers (except animal manure)
+1002  Cultures without Fertilisers
+1003  On-Field Burning of Stubble, Straw....
+1004  Enteric Fermentation
+1005  Manure Management
+1006  Use of Pesticides
+5
+Land-Use Change & Forestry
+          Managed Deciduous Forests
+          Managed Coniferous Forests
+          Changes in Forest and other Woody Biomass Stocks
+          Forest and Grassland Conversion
+          Abandonment of Managed Lands
+          CO2 Emissions and Removals from Soil
+          Others
+6
+Waste
+09      Waste Treatment and Disposal
+Memo Items
+    International Aviation Bunkers
+080502  International Airport Traffic
+080504  International Cruise Traffic
+    International Marine Bunkers
+080404  International Sea Traffic
+    CO2 Emissions from Biomass
+Biomass fuels in categories 01, 02, 03, 07, 08
+IPCC AND CORINAIR SOURCE CATEGORIES
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+ A2.5
+A2.4 Harmonisation Between IPCC and
+CORINAIR Source Categories
+Progress has been made in the harmonisation of the IPCC and
+EMEP/CORINAIR methodologies to allow more direct comparison of the
+two approaches. These changes are mainly in the Energy Chapter of the
+Revised 1996 IPCC Guidelines:
+• 
+Biomass fuels are allocated to the various source categories.
+• 
+Emissions from fuel used for electricity and heat production by
+autoproducers are included in the sector where they are generated
+and not within the transformation industries.
+• 
+Treatment of evaporative emissions (NMVOCs) from road transport
+in the Tier 2 method of IPCC is made consistent with CORINAIR.
+Combustion and evaporative emissions are to be reported
+separately. However, in the Tier I IPCC method, all emissions from
+road transport are included together under fuel combustion.
+Development of a Tier 2 method for estimating emissions from aircraft.
+A2.5 How to Transform a CORINAIR
+Inventory into an IPCC Inventory
+For the IPCC Short Summary Report Table (Table 7B), which is at the most
+aggregated level of reporting, Table A2-1 provides correspondence for the
+CORINAIR definitions. For the Summary Report (Table 7A) and the
+Sectoral Report Tables (Tables 1-6), more detailed alignment between the
+IPCC source/sink categories and the CORINAIR definitions is required. The
+joint 
+UNECE/CORINAIR 
+Guidebook 
+and 
+appropriate 
+computer
+programme have been revised to facilitate conversion from a CORINAIR to
+an IPCC inventory at the level of detail required for the Sectoral Report
+Tables.
+Further information can be obtained from:
+Andre Jol
+European Environment Agency
+Phone: (45 33) 367 144 / Fax: (45 33) 367 191
+e-mail: jol@eea.dk
+A2.6 Looking Forward
+Both the IPCC and the UNECE/CORINAIR programmes are committed to
+on-going harmonisation between the two methodologies which have
+become increasingly compatible over the years. In order to ensure that the
+CORINAIR methodology evolves in a completely consistently manner with
+the IPCC Guidelines, there will continue to be regular contact between the
+two programmes. This will both facilitate an exchange of ideas and minimise
+duplication of effort.

@@ -1,0 +1,214 @@
+ 
+ 
+ 
+A report prepared by the Task Force on National Greenhouse Gas Inventories (TFI) of the IPCC and accepted by 
+the Panel but not approved in detail 
+ 
+Whilst the information in this IPCC Report is believed to be true and accurate at the date of going to press, 
+neither the authors nor the publishers can accept any legal responsibility or liability for any errors or omissions. 
+Neither the authors nor the publishers have any responsibility for the persistence of any URLs referred to in this 
+report and cannot guarantee that any content of such web sites is or will remain accurate or appropriate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published by the Institute for Global Environmental Strategies (IGES), Hayama, Japan on behalf of the IPCC 
+© The Intergovernmental Panel on Climate Change (IPCC), 2006. 
+When using the guidelines please cite as: 
+IPCC 2006, 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Prepared by the National 
+Greenhouse Gas Inventories Programme, Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (eds). 
+Published: IGES, Japan.  
+ 
+IPCC National Greenhouse Gas Inventories Programme 
+Technical Support Unit 
+ 
+℅ Institute for Global Environmental Strategies 
+2108 -11, Kamiyamaguchi 
+Hayama, Kanagawa 
+JAPAN, 240-0115 
+Fax: (81 46) 855 3808 
+http://www.ipcc-nggip.iges.or.jp 
+ 
+Printed in Japan 
+ISBN 4-88788-032-4
+ 
+Contents 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+iii
+Contents 
+Foreword  
+Preface 
+ 
+Overview 
+Glossary and List of Contributors 
+ 
+Volume 1    
+General Guidance and Reporting 
+Volume 2    
+Energy 
+Volume 3    
+Industrial Processes and Product Use 
+Volume 4    
+Agriculture, Forestry and Other Land Use 
+Volume 5    
+Waste 
+Foreword 
+ 
+ 
+iv 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Foreword 
+Recognizing the problem of potential global climate change, the World Meteorological Organization (WMO) 
+and the United Nations Environment Programme (UNEP) co-established in 1988 the Intergovernmental Panel on 
+Climate Change (IPCC). One of the IPCC’s activities is to support the UN Framework Convention on Climate 
+Change (UNFCCC) through its work on methodologies for National Greenhouse Gas Inventories.  
+This report is the culmination of three years of work by the IPCC National Greenhouse Gas Inventories 
+Programme, to update its own previous guidance on National Greenhouse Gas Emission Inventories. The task 
+was started in response to an invitation made at the seventeenth session of the Subsidiary Body for Scientific and 
+Technological Advice (SBSTA) of the UNFCCC, held in New Delhi in 2002. At the time, the IPCC was invited 
+to revise the 1996 IPCC Guidelines, taking into consideration the relevant work made under the Convention and 
+the Kyoto Protocol1, with the aim to complete this task by early 2006. 
+In response to this invitation by the UNFCCC, the IPCC initiated a process at its 20th session (Paris, February 
+2003) that led to an agreement at its 21st session (Vienna, November 2003) on the Terms of Reference, Table of 
+Contents and a Workplan2 for the 2006 IPCC Guidelines. The Workplan aimed to complete the task in time for 
+its acceptance and adoption at the 25th session of the IPCC, to be held in April 2006.  
+The 1996 guidelines comprised the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories3, 
+together with the Good Practice Guidance and Uncertainty Management in National Greenhouse Gas 
+Inventories4 and the Good Practice Guidance for Land Use, Land-Use Change and Forestry5. The 2006 
+Guidelines have built upon this body of work in an evolutionary manner to ensure that the transition from the 
+previous guidelines to these new ones will be as straightforward as possible. These new guidelines include new 
+sources and gases as well as updates to the previously published methods whenever scientific and technical 
+knowledge have improved since the previous guidelines were issued. 
+The development of these guidelines has depended on the expertise, knowledge and co-operation of the 
+Coordinating Lead Authors, Lead Authors and Contributing Authors – the contribution over 250 experts 
+worldwide. We wish to thank these authors for their commitment, time and efforts in preparing this report 
+throughout all the drafting and reviewing stages of the IPCC process. As indicated, this report has built upon the 
+work of the previous IPCC inventory reports as well as on reports of the inventory experts’ experiences in using 
+the IPCC inventory guidelines without which the task would have been much more demanding and we are 
+pleased to acknowledge our debt with all those who contributed to these reports. 
+The steering group, consisting of IPCC TFI Co-Chairs Taka Hiraishi (Japan) and Thelma Krug (Brazil) together 
+with Michael Gytarsky (Russian Federation), William Irving (USA) and Jim Penman (UK) has guided the 
+development of these guidelines, ensuring consistency across all the volumes and continuity with the earlier 
+IPCC inventory reports. We would therefore wish to thank them for their considerable efforts in leading and 
+guiding the report preparation. 
+Authors and experts meetings were held in Oslo (Norway); Le Morne (Mauritius); Washington (USA); Arusha 
+(Tanzania); Ottawa (Canada); Manila (The Philippines); Moscow (Russian Federation); and Sydney (Australia). 
+We would therefore like to thank the host countries and agencies for organizing these meetings. We would also 
+                                                           
+1  Including, inter alia, work by the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for 
+Implementation, and by the Consultative Group of Experts on National Communications from Parties not included in 
+Annex I to the Convention, and the technical review of greenhouse gas inventories of Annex I Parties.  
+2  The Terms of Reference, Table of Contents and Work plan can be found at http://www.ipcc-nggip.iges.or.jp/ . 
+3  Intergovernmental Panel on Climate Change (IPCC) (1997). Houghton J.T., Meira Filho L.G., Lim B., Tréanton K., 
+Mamaty I., Bonduki Y., Griggs D.J. and Callander B.A. (Eds). Revised 1996 IPCC Guidelines for National Greenhouse 
+Inventories. IPCC/OECD/IEA, Paris, France.  
+4  Intergovernmental Panel on Climate Change (IPCC) (2000). Penman J., Kruger D., Galbally I., Hiraishi T., Nyenzi B., 
+Emmanuel S., Buendia L., Hoppaus R., Martinsen T., Meijer J., Miwa K., and Tanabe K. (Eds). Good Practice Guidance 
+and Uncertainty Management in National Greenhouse Gas Inventories. IPCC/OECD/IEA/IGES, Hayama, Japan. 
+5  Intergovernmental Panel on Climate Change (IPCC) (2003), Penman J., Gytarsky M., Hiraishi T., Krug, T., Kruger D., 
+Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F., Good Practice Guidance for Land Use, land-Use 
+Change and Forestry IPCC/IGES, Hayama, Japan 
+ 
+Foreword 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+v
+like to thank all governments that supported authors and reviewers, for without their contributions, the 
+production of this report might not have been possible. 
+Two reviews of these guidelines were made in 2005. The first, an expert review, produced over 6000 comments, 
+while the second, a combined governmental and expert review, resulted in an additional 8600 comments. The 
+efforts of the reviewers and their comments have contributed greatly to the quality of the final report and we 
+wish to thank them accordingly. Furthermore, the review editors have ensured the appropriate consideration of 
+all the comments received, so we would also like to thank them for their work. 
+In addition, the NGGIP Technical Support Unit (TSU Head: Simon Eggleston; Programme officers: Leandro 
+Buendia, Kyoko Miwa, Todd Ngara and Kiyoto Tanabe; Administrative Assistant: Ayako Hongo; Project 
+Secretary: Masako Abe; and IT Officer: Toru Matsumoto) has provided guidance and assistance as well as 
+technical and organisational support for the project. They worked extensively with the authors especially in the 
+editing of the various drafts and preparation of the final version, and we wish to congratulate them for their 
+exemplary work. We would also like to express our gratitude to the Government of Japan, for its generous 
+support for the TSU, without which this report might not have been completed. 
+We would also like to thank the IPCC Secretariat (Jian Liu, Rudie Bourgeois, Annie Courtin, and Joelle 
+Fernandez) for their assistance and support in enabling this project to meet its tight deadlines. 
+Finally we would like to thank IPCC Chair Rajendra Pachauri, IPCC Secretary Renate Christ and the Task Force 
+Bureau: the TFI Co-Chairs and Soobaraj Nayroo Sok Appadu (Mauritius), Dari N. Al-Ajmi (Kuwait), Ian 
+Carruthers (Australia), Sergio Gonzalez-Martineaux (Chile), Art Jaques (Canada), Jamidu H.Y. Katima 
+(Tanzania), Sadeddin Kherfan (Syria), Dina Kruger (USA), Kirit Parikh (India), Jim Penman (UK, since 2006), 
+Helen Plume (New Zealand), Audun Rosland (Norway until 2005) and Freddy Tejada (Bolivia) for their support. 
+ 
+ 
+ 
+ 
+Michel Jarraud  
+Secretary-General 
+ 
+World Meteorological Organisation 
+Achim Steiner  
+Executive Director 
+United Nations Environment Programme 
+Preface 
+vi 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Preface 
+These 2006 IPCC Guidelines for National Greenhouse Gas Inventories build on the previous Revised 1996 
+IPCC Guidelines and the subsequent Good Practice reports in an evolutionary manner to ensure that moving 
+from the previous guidelines to these new guidelines is as straightforward as possible. These new guidelines 
+cover new sources and gases as well as updates to previously published methods where technical and scientific 
+knowledge have improved. 
+This guidance assists countries in compiling complete, national inventories of greenhouse gases. The guidance 
+has been structured so that any country, regardless of experience or resources, should be able to produce reliable 
+estimates of their emissions and removals of these gases. In particular, default values of the various parameters 
+and emission factors required are supplied for all sectors, so that, at its simplest, a country needs only supply 
+national activity data. The approach also allows countries with more information and resources to use more 
+detailed country-specific methodologies while retaining compatibility, comparability and consistency between 
+countries. The guidance also integrates and improves earlier guidance on good practice in inventory compilation 
+so that the final estimates are neither over- nor under-estimates as far as can be judged and uncertainties are 
+reduced as far as possible. 
+Guidance is also provided to identify areas of the inventory whose improvement would most benefit the 
+inventory overall. Hence limited resources can be focused on those areas most in need of improvement to 
+produce the best practical inventory. 
+The IPCC also manages the IPCC Emission Factor Database (EFDB). The EFDB was launched in 2002, and is 
+regularly updated as a resource for inventory compilers to use to assist them by providing a repository of 
+emission factors and other relevant parameters that may be suitable for use in more country-specific 
+methodologies. 
+The 2006 Guidelines are the latest step in the IPCC development of inventory guidelines for national estimates 
+of greenhouse gases. In the opinion of the authors, they provide the best, widely applicable default 
+methodologies and, as such, are suitable for global use in compiling national greenhouse gas inventories. They 
+may also be of use in more narrowly-defined project based estimates, although here they should be used with 
+caution to ensure they correctly include just the emissions and removals from within the system boundaries. 
+We would also like to thank all the authors (over 250) as well as reviewers, review editors, the steering group 
+and the TFB for their contributions and experience. We would also like to thank all the governments who 
+contributed by hosting meetings (Oslo, Norway; Le Morne, Mauritius; Washington, USA; Arusha, Tanzania; 
+Ottawa, Canada; Manila, The Philippines; Moscow, Russian Federation; and Sydney, Australia) as well as those 
+who supported authors and other contributors. Finally we would like to express our gratitude to the NGGIP TSU 
+and the IPCC Secretariat for their invaluable support throughout the entire process of drafting and producing 
+these guidelines. 
+ 
+ 
+ 
+ 
+Taka Hiraishi (Japan) 
+IPCC TFI Co-Chair 
+Thelma Krug (Brazil) 
+IPCC TFI Co-Chair 

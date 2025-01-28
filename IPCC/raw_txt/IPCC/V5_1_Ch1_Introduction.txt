@@ -1,0 +1,170 @@
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+CHAPTER 1  
+INTRODUCTION  
+Volume 5: Waste   
+ 
+1.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Riitta Pipatti (Finland) and Sonia Maria Manso Vieira (Brazil) 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+Contents 
+1  
+Introduction 
+1.1 
+Introduction ......................................................................................................................................... 1.4 
+References ..........................................................................................................................................................  1.5 
+ 
+ 
+ 
+ 
+Figure 
+Figure 1.1  
+Structure of Waste Sector .................................................................................................... 1.4 
+ 
+Volume 5: Waste   
+ 
+1.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+National 
+Greenhouse 
+Gas 
+Inventory 
+1 
+ENERGY 
+2    INDUSTRIAL 
+PROCESSES AND 
+PRODUCT USE 
+3   AGRICULTURE, 
+FORESTRY, AND 
+OTHER LAND USE
+4   WASTE 
+4A   Solid Waste Disposal
+4A1   Managed Waste Disposal Sites 
+4A2   Unmanaged Waste Disposal Sites
+4A3   Uncategorised Waste Disposal Sites
+4B   Biological Treatment 
+of Solid Waste
+4C   Incineration and Open 
+Burning of Waste
+4C1   Waste Incineration 
+4C2   Open Burning of Waste 
+4D   Wastewater 
+Treatment and Discharge
+4D1   Domestic Wastewater Treatment 
+and Discharge
+4D2   Industrial Wastewater Treatment 
+and Discharge
+4E   Other
+5   OTHER 
+1 INTRODUCTION 
+1.1 
+INTRODUCTION 
+The Waste volume gives methodological guidance for estimation of carbon dioxide (CO2), methane (CH4) and 
+nitrous oxide (N2O) emissions from following categories: 
+• 
+Solid waste disposal (Chapter 3),  
+• 
+Biological treatment of solid waste (Chapter 4),  
+• 
+Incineration and open burning of waste (Chapter 5), 
+• 
+Wastewater treatment and discharge (Chapter 6).  
+Chapter 3, Solid Waste Disposal, provides also a methodology for estimating changes in carbon stored in solid 
+waste disposal sites (SWDS), which is reported as an information item in the Waste Sector (see also Volume 4, 
+AFOLU, Chapter 12, Harvested Wood Products).   
+Chapter 2, Waste Generation, Composition and Management Data, gives general guidance of data collection for 
+solid waste management including disposal, biological treatment, waste incineration and open burning of waste. 
+Categories and activities of the Waste Sector and their definitions can be found in Table 8.2 in Chapter 8 of 
+Volume1, General Guidance and Reporting. It is good practice to apply these categories in reporting as fully as 
+possible. 
+Figure 1.1 shows the structure of categories within the Waste Sector and coding of their IPCC categories.    
+Figure 1.1  
+Structure of Waste Sector 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+Typically, CH4 emissions from SWDS are the largest source of greenhouse gas emissions in the Waste Sector. 
+CH4 emissions from wastewater treatment and discharge may also be important.  
+Incineration and open burning of waste containing fossil carbon, e.g., plastics, are the most important sources of 
+CO2 emissions in the Waste Sector. All greenhouse gas emissions from waste-to-energy, where waste material is 
+used directly as fuel or converted into a fuel, should be estimated and reported under the Energy Sector. The 
+guidance given in Chapter 5 of this Volume is generally valid for waste burning with or without energy recovery. 
+CO2 is also produced in SWDS, wastewater treatment and burning of non-fossil waste, but this CO2 is of 
+biogenic origin and is therefore not included as a reporting item in this sector.1 In the Energy Sector, CO2 
+emissions resulting from combustion of biogenic materials, including CO2 from waste-to-energy applications, 
+are reported as an information item. Nitrous oxide is produced in most treatments addressed in the Waste volume. 
+The importance of the N2O emissions varies much depending on the type of treatment and conditions during the 
+treatment.  
+Waste and wastewater treatment and discharge can also produce emissions of non-methane volatile organic 
+compounds (NMVOCs), nitrogen oxides (NOx), and carbon monoxide (CO) as well as of ammonia (NH3). 
+However, specific methodologies for the estimation of emissions for these gases are not included in this Volume, 
+and the readers are guided to refer to guidelines developed under the Convention of Long Range Transboundary 
+Air Pollution (EMEP/CORINAIR Guidebook, EEA, 2005) and EPA's Compilation of Air Pollutant Emissions 
+Factors (U.S.EPA, 1995). The NOx and NH3 emissions from the Waste Sector can cause indirect N2O emissions. 
+NOx is produced mainly in burning of waste, while NH3 in composting. Overall, the indirect N2O from the Waste 
+Sector are likely to be insignificant. However, when estimates of NOx and NH3 emissions are available, it is 
+good practice to estimate the indirect N2O emissions for complete reporting (see Chapter 7 of Volume 1). 
+The scope of the Waste Volume is similar to the Revised 1996 IPCC Guidelines for National Greenhouse Gas 
+Inventories (1996 Guidelines, IPCC, 1997) and the Good Practice Guidance and Uncertainty Management in 
+National Greenhouse Gas Inventories (GPG2000, IPCC, 2000). Following new subcategories have been added 
+to complement the guidance to cover all major waste management practices: 
+• 
+Biological treatment of solid waste: Guidance for estimation of CH4 and N2O emissions from biological 
+treatment (composting, anaerobic digestion in biogas facilities) has been included in Chapter 4, Biological 
+Treatment of Solid Waste. 
+• 
+Open burning of waste: Guidance to estimate emissions from open burning of waste as well as for 
+estimation of CH4 emissions from incineration complements the previous guidance on waste incineration in 
+Chapter 5, Incineration and Open Burning of Waste.  
+• 
+Septic tanks and latrines: Methods to estimate CH4 and N2O emissions from septic tanks and latrines as well 
+as from discharge of wastewater into waterways are included in Chapter 6, Wastewater Treatment and 
+Discharge. 
+ 
+ 
+References 
+EEA (2005). EMEP/CORINAIR. Emission Inventory Guidebook – 2005. European Environment Agency. URL: 
+http://reports.eea.eu.int/EMEPCORINAIR4/en 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton, J.T., Meira Filho, 
+L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, B.A. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2000). Good Practice Guidance and Uncertianty Management in National Greenhouse Gas Inventories. 
+Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., Enmanuel, S., Buendia, L., Hoppaus, R., 
+Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change 
+(IPCC), IPCC/OECD/IEA/IGES, Hayama, Japan. 
+U.S.EPA (1995). U.S. EPA's Compilation of Air Pollutant Emissions Factors, AP-42, Edition 5. 
+http://www.epa.gov/ttn/chief/ap42/. United States Environmental Protection Agency.  
+ 
+                                                           
+1  CO2 emissions of biogenic origin are either covered by the methodologies and reported as carbon stock change in the 
+AFOLU Sector, or do not need to be accounted for because the corresponding CO2 uptake by vegetation is not reported in 
+the inventory (e.g., annual crops).  

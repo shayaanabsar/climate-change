@@ -1,0 +1,2154 @@
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+M O D U L E  4
+A G R I C U L T U R E
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.1
+4. AGRICULTURE
+4.1 
+Introduction
+The Agriculture module looks at greenhouse gas emissions from five
+sources:
+•
+Domestic Livestock: Enteric Fermentation and Manure Management
+•
+Rice Cultivation: Flooded Rice Fields
+•
+Prescribed Burning of Savannas
+•
+Field Burning of Agricultural Residues
+•  Agricultural Soils
+4.2 
+Domestic Livestock
+4 . 2 . 1  I n t r o d u c t i o n
+This submodule deals with methane and nitrous oxide from two sources:
+• enteric fermentation
+• manure management
+Methane from enteric fermentation is produced in herbivores as a
+by-product of the digestive process by which carbohydrates are broken
+down by micro-organisms into simple molecules for absorption into the
+blood-stream.  Both ruminant animals (e.g., cattle, sheep) and some non-
+ruminant animals (e.g., pigs, horses) produce methane, although ruminants
+are the largest source.  The amount of CH4 that is released depends upon
+the type, age and weight of the animal and the quantity and quality of the
+feed consumed.
+Methane from the management of animal manure occurs as the result of its
+decomposition under anaerobic conditions.  These conditions often occur
+when a large number of animals are managed in a confined area (e.g., dairy
+farms, beef feedlots, and swine and poultry farms).
+Emissions of methane from wild animals and termites are not included in this
+submodule.  The focus in the IPCC Guidelines is on anthropogenic emissions.
+While there are human interactions with natural sources such as wild
+animals and termites, they are complex and highly uncertain.
+4 . 2 . 2  D a t a  s o u r c e s
+There are no individual sources that will provide all the data needed to
+estimate methane emissions from domestic livestock.  The Food and
+Agriculture Organisation (FAO) of the United Nations publishes a series
+entitled The FAO Production Yearbook (e.g., FAO, 1991).  This series has
+information about livestock populations and the production and
+AGRICULTURE
+4.2
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+consumption of livestock products.  The FAO data should be supplemented
+with studies conducted for individual countries.  Many countries publish
+results of their agricultural census that includes data on production levels in
+addition to livestock populations.  Table 4-1 summarises the data needed.
+TABLE 4-1
+LIVESTOCK POPULATION DATA COLLECTED IN TIER 1 STEP 1
+Data Collected
+Population by Climate (%)
+Livestock
+Population
+(# head)
+Milk Production
+(kg/head/yr)
+Cool
+Temperate
+Warm
+Dairy Cattle
+Average Annual
+Population
+Milk Production per
+Head
+% Cool
+% Temp.
+% Warm
+Non-dairy
+Cattle
+Average Annual
+Population
+Not Applicable (NA)
+% Cool
+% Temp.
+% Warm
+Buffalo
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Sheep
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Goats
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Camels
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Horses
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Mules and
+Asses
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Swine
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Poultry
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Climate regions are defined in terms of annual average temperature as follows: Cool = less than
+15°C;  temperate = 15°C to 25°C inclusive; and warm = greater than 25°C.
+4 . 2 . 3  M e t h o d o l o g y
+Although the methodological issues are very complex, a simplified
+methodology is used for the purposes of this Workbook.
+For a detailed discussion of the methodology, see the Greenhouse Gas
+Inventory Reference Manual.  Broadly, emissions are calculated by applying an
+emission factor to the number of animals of each livestock type in the
+country to produce a total for enteric fermentation.  Default emission
+factors are provided for developed and developing countries with more
+regional detail for cattle, the most important source from this activity.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.3
+The same basic methodology is used to estimate emissions from manure
+management.  In this area default emission factors are provided by region
+and for three different climate regimes.  Simple multiplication of populations
+by emission factors produces emissions estimates.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 4-1 METHANE AND NITROUS OXIDE EMISSIONS FROM
+DOMESTIC LIVESTOCK ENTERIC FERMENTATION AND MANURE MANAGEMENT at
+the end of this module to record the data.
+S T E P  1   E S T I M A T I N G  E M I S S I O N S  F R O M
+E N T E R I C  F E R M E N T A T I O N
+1
+For each type of livestock in the Worksheet, enter the number in
+thousands in column A.
+Refer to FAO Production Yearbooks (e.g., FAO 1991) if there are no
+locally available data.  It is recommended that national experts use
+three-year averages for activity data if available so that the data not be
+skewed in the event that the base year of the inventory was an
+exceptional year not representative of the country’s normal activity
+level.
+2
+For each type of livestock, enter an average Emission Factor in column B
+in kilograms per head per year (this is the same as tonnes per thousand
+head per year).  Use a figure from the tables below or more precise
+locally available data.  Because cattle are the most important source and
+because the emission factors for cattle vary significantly among regions,
+region-specific default factors are provided.  Choose emission factors
+for cattle that are most appropriate for your national situation.
+TABLE 4-2
+ENTERIC FERMENTATION METHANE EMISSIONS FACTORS
+(KG CH4 PER HEAD PER YEAR OR T CH4 PER 1000 HEAD PER YEAR)
+Livestock
+Developed Countries
+Developing Countries
+Buffalo
+55
+55
+Sheep
+8
+5
+Goats
+5
+5
+Camels
+46
+46
+Horses
+18
+18
+Mules and Asses
+10
+10
+Swine
+1.5
+1.0
+Poultry
+Not estimated
+Not estimated
+All Estimates are + or - 20%.
+See the Greenhouse Gas Inventory Reference Manual for sources.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+AGRICULTURE
+4.4
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+3
+Multiply the number of cattle by the Average Emissions Factors to give
+Emissions from Enteric Fermentation in tonnes per year.  Enter the
+result in column C.
+TABLE 4-3
+ENTERIC FERMENTATION METHANE EMISSION FACTORS FOR CATTLE
+Regional Characteristics
+Cattle Type
+Emissions Factor
+(kg CH4/head/yr)
+Comments
+North 
+America: 
+ 
+Highly 
+productive
+commercialised dairy sector feeding high
+quality forage and grain.  Separate beef cow
+herd, primarily grazing with feed supplements
+seasonally.  Fast-growing beef steers/heifers
+finished in feedlots on grain.  Dairy cows are a
+small part of the population.
+Dairy
+Non-dairy
+118
+47
+Average milk
+production of
+6700 kg/head/yr
+Includes beef
+cows, bulls,
+calves, growing
+steers/heifers,
+and feedlot cattle.
+Western 
+Europe: 
+ 
+Highly 
+productive
+commercialised dairy sector feeding high
+quality forage and grain.  Dairy cows also used
+for beef calf production.  Very small dedicated
+beef cow herd.  Minor amount of feedlot
+feeding with grains.
+Dairy
+Non-dairy
+100
+48
+Average milk
+production of
+4200 kg/head /yr
+Includes bulls,
+calves, and
+growing
+steers/heifers.
+Eastern Europe:  Commercialised dairy
+sector feeding mostly forages.  Separate beef
+cow herd, primarily grazing.  Minor amount of
+feedlot feeding with grains.
+Dairy
+Non-dairy
+81
+56
+Average milk
+production of
+2550 kg/head/yr
+Includes beef
+cows, bulls, and
+young.
+Oceania: Commercialised dairy sector based
+on grazing.  Separate beef cow herd, primarily
+grazing range lands of widely varying quality.
+Growing amount of feedlot feeding with grains.
+Dairy cows are a small part of the population.
+Dairy
+Non-dairy
+68
+53
+Average milk
+production of
+1700 kg/head/yr
+Includes beef
+cows, bulls, and
+young.
+Latin America:  Commercialised dairy sector
+based on grazing.  Separate beef cow herd
+grazing pastures and range lands.  Minor
+amount of feedlot feeding with grains.
+Growing beef cattle comprise a large portion
+of the population.
+Dairy
+Non-dairy
+57
+49
+Average milk
+production of
+800 kg/head/yr
+Includes beef
+cows, bulls, and
+young.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.5
+TABLE 4-3 (CONTINUED)
+ENTERIC FERMENTATION METHANE EMISSION FACTORS FOR CATTLE
+Regional Characteristics
+Cattle Type
+Emissions Factor
+(kg CH4/head/yr)
+Comments
+Asia:  Small commercialised dairy sector.
+Most cattle are multi-purpose, providing draft
+power and some milk within farming regions.
+Small grazing population.  Cattle of all types
+are smaller than those found in most other
+regions.
+Dairy
+Non-dairy
+56
+44
+Average milk
+production of
+1650 kg/head /yr
+Includes multi-
+purpose cows,
+bulls, and young.
+Africa and Middle East: Commercialised
+dairy sector based on grazing with low
+production per cow.  Most cattle are multi-
+purpose, providing draft power and some milk
+within farming regions.  Some cattle graze over
+very large areas.  Cattle of all types are smaller
+than those found in most other regions.
+Dairy
+Non-dairy
+36
+32
+Average milk
+production of
+475 kg/head /yr
+Includes multi-
+purpose cows,
+bulls, and young.
+Indian Subcontinent: Commercialised dairy
+sector based on crop by-product feeding with
+low production per cow.  Most bullocks
+provide draft power and cows provide some
+milk in farming regions.  Small grazing
+population.  Cattle in this region are the
+smallest compared to cattle found in all other
+regions.
+Dairy
+Non-dairy
+46
+25
+Average milk
+production of
+900 kg/head /yr
+Includes cows,
+bulls, and young.
+Young comprise
+a large portion of
+the population.
+See the Greenhouse Gas Inventory Reference Manual for sources.
+S T E P  2  E S T I M A T I N G  E M I S S I O N S  F R O M
+M A N U R E  M A N A G E M E N T  S Y S T E M S
+1
+For each type of animal, enter the Emissions Factor for Manure
+Management in column D in kilograms per head per year.  Use default
+data in the tables which follow or more precise locally available data.
+Table 4-4 provides default emission factors for most livestock types
+with different values for developed and developing countries to reflect
+different conditions and typical practices.  Factors are also provided for
+3 different climates.  Users should select the factors which best
+represent their conditions.  For large countries it may be necessary to
+subdivide populations into more than one climate region.  In that case
+the user can proceed with calculations in one of two ways.
+a
+Develop an average emissions factor.  For example:
+If 25 per cent of sheep are in a temperate region and 75 per cent in
+a warm region, then
+EF= (0.25 x 0.16) + (0.75 x 0.21) = 0.20 kg/head/yr
+AGRICULTURE
+4.6
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+If users do develop and average emission factors, they should state
+what they have done and should document their sources.
+b
+An alternative approach is to make extra copies of the Worksheet
+and complete one for each region for the manure portion, then add
+the results and enter the sum on the main Worksheet.
+Swine, buffalo and cattle are the most important source of manure
+emissions and the most variable by region, therefore detailed
+emission factors are provided in a separate table.
+2
+Multiply the Number of Animals by the Emission Factor for Manure
+Management to give the Emissions from Manure Management in t/yr.
+Enter the results in column E.
+TABLE 4-4
+EMISSIONS FACTORS FOR MANURE MANAGEMENT
+(KG CH4 PER HEAD PER YEAR)
+Livestock
+Developed Countries
+Developing Countries
+Cool
+Temp.a
+Warm
+Cool
+Temp.a
+Warm
+Sheep
+0.19
+0.28
+0.37
+0.10
+0.16
+0.21
+Goats
+0.12
+0.18
+0.23
+0.11
+0.17
+0.22
+Camels
+1.59
+2.38
+3.17
+1.28
+1.92
+2.56
+Horses
+1.39
+2.08
+2.77
+1.09
+1.64
+2.18
+Mules and
+Asses
+0.76
+1.14
+1.51
+0.60
+0.90
+1.19
+Poultryb
+0.078
+0.117
+0.157
+0.012
+0.018
+0.023
+The range of estimates reflects cool to warm climates.  Climate regions are defined in terms of annual
+average temperature as follows:  Cool = less than 15°C; Temperate = 15°C to 25°C inclusive; and
+Warm = greater than 25°C. Cool, Temperate and Warm regions are estimated using Methane
+Conversion Factors of 1%, 1.5% and 2%, respectively.
+a Temp. = Temperate climate region.
+b Chickens, ducks, and turkeys.
+All estimates are ± 20 percent.
+Sources: Emission factors developed from: feed intake values and feed digestibilities used to develop the
+enteric fermentation emission factors (see Appendix A of the Reference Manual Chapter 4); MCF, and
+Bo values reported in Woodbury and Hashimoto (1993).  All manure is assumed to be managed in dry
+systems, which is consistent with the manure management system usage reported in Woodbury and
+Hashimoto (1993).
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.7
+TABLE 4-5
+MANURE MANAGEMENT EMISSION FACTORS FOR CATTLE, SWINE, AND BUFFALO
+Regional Characteristics
+Livestock Type
+Emissions Factor by Climate Regiona
+(kg/head/year)
+Cool
+Temperate
+Warm
+North America: Liquid-
+based systems are commonly
+used for dairy and swine
+manure.  Non-dairy manure
+is usually managed as a solid
+and deposited on pastures or
+ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+36
+1
+10
+54
+2
+14
+76
+3
+18
+Western Europe: Liquid /
+slurry and pit storage
+systems are commonly used
+for cattle and swine manure.
+Limited cropland is available
+for spreading manure.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+14
+6
+3
+3
+44
+20
+10
+8
+81
+38
+19
+17
+Eastern Europe: Solid
+based systems are used for
+the majority of manure.
+About one-third of livestock
+manure is managed in liquid-
+based systems.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+6
+4
+4
+3
+19
+13
+7
+9
+33
+23
+11
+16
+Oceania: Virtually all
+livestock manure is managed
+as a solid on pastures and
+ranges.  About half of the
+swine manure is managed in
+anaerobic lagoons.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+31
+5
+20
+32
+6
+20
+33
+7
+20
+Latin America: Almost all
+livestock manure is managed
+as a solid on pastures and
+ranges.  Buffalo manure is
+deposited on pastures and
+ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+0
+1
+0
+1
+1
+1
+1
+1
+2
+1
+2
+2
+Asia: About half of cattle
+manure is used for fuel with
+the remainder managed in
+dry systems.  Almost 40% of
+swine manure is managed as
+a liquid.  Buffalo manure is
+managed in drylots and
+deposited in pastures and
+ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+7
+1
+1
+1
+16
+1
+4
+2
+27
+2
+7
+3
+Africa: Almost all livestock
+manure is managed as a solid
+on pastures and ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+1
+0
+0
+1
+1
+1
+1
+1
+2
+AGRICULTURE
+4.8
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+S T E P  3  E S T I M A T I N G  M E T H A N E  E M I S S I O N S
+F R O M  E N T E R I C  F E R M E N T A T I O N  A N D
+M A N U R E  M A N A G E M E N T
+1 Sum emissions for Enteric Fermentation and Manure Management and
+enter the totals at the bottom of the Worksheet.
+2 Add the two totals together to give Total Annual Emissions from
+Domestic Livestock.
+3 Divide the final result by 1,000 to express it as gigagrams.  Enter the
+result in column F.
+TABLE 4-5 (CONTINUED)
+MANURE MANAGEMENT EMISSION FACTORS FOR CATTLE, SWINE, AND BUFFALO
+Regional Characteristics
+Livestock Type
+Emissions Factor by Climate Regiona
+(kg/head/year)
+Cool
+Temperate
+Warm
+Middle East:  Over two-thirds of
+cattle manure is deposited on
+pastures and ranges.  About one-
+third of swine manure is managed in
+liquid-based systems.  Buffalo manure
+is burned for fuel or managed as a
+solid.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+1
+1
+1
+4
+2
+1
+3
+5
+2
+1
+6
+5
+Indian Subcontinent:  About
+half of cattle and buffalo manure is
+used for fuel with the remainder
+managed in dry systems.  About
+one-third of swine manure is
+managed as a liquid.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+5
+2
+3
+4
+5
+2
+4
+5
+6
+2
+6
+5
+aCool climates have an average temperature below 15°C; temperate climates have an average temperature ranging from
+15°C to 25°C inclusive; warm climates have an average temperature above 25°C.  All climate categories are not
+necessarily represented within every region.  For example, there are no significant warm areas in Eastern or Western
+Europe.  Similarly, there are no significant cool areas in Africa and the Middle East.
+Note: Significant buffalo populations do not exist in North America, Oceania, or Africa.
+See the Greenhouse Gas Inventory Reference Manual for sources.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.9
+S T E P  4   E S T I M A T I N G  N 2 O  E M I S S I O N S  F R O M
+A N I M A L  W A S T E  M A N A G E M E N T  S Y S T E M S
+EQUATION 1
+Nex(AWMS) = ∑(T)[N(T) x Nex(T) x AWMS(T)]
+Where :
+Nex(AWMS)
+=
+N excretion per Animal Waste Management System
+(kg/yr) (see Step 1 in the agricultural soils Section
+4.6);
+N(T)
+=
+number of animals of type T in the country;
+Nex(T)
+=
+N excretion of animals of type T in the country (kg
+N/animal /yr) (see Table 4-6);
+AWMS(T)
+=
+fraction of Nex(T) that is managed in one of the
+different distinguished animal waste management
+systems for animals of type T in the country; (see
+Table 4-7);
+T
+=
+type of animal category.
+ 
+Worksheet 4-1 (Supplemental)  NITROGEN EXCRETION PER AWMS
+Use the Supplemental Worksheet 4-1 to calculate Nitrogen Excretion per
+Animal Waste Management System (AWMS). Make extra copies of the
+Worsheet and complete one for each AWMS.
+1 Enter the Number of Animals, N, in a country in column A.
+2 Enter the Nitrogen Excretion, Nex, for each animal type in column B.
+Default data are provided in Table 4-6.
+3 Enter the Fraction of Manure Nitrogen per AWMS in column C. Default
+data are provided in Table 4-7.
+4 Multiply columns A, B, and C, and enter the results into column D.
+5 Sum the values in column D and enter the total in the bottom of the
+column to obtain the Nitrogen Excretion for each AWMS, Nex(AWMS), in
+kilograms per year.
+AGRICULTURE
+4.10
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+EQUATION 2
+N2O(AWMS)=∑[ Nex (AWMS) x EF3(AWMS)]
+where:
+N2O(AWMS)
+=
+N2O emissions from all Animal Waste Management
+Systems in the country (kg N/yr);
+Nex (AWMS)
+=
+See Equation 1, above;
+EF3(AWMS)
+=
+N2O emission factor for an AWMS (kg N2O-N/kg of
+Nex in AWMS); (see Table 4-8).
+Use Worksheet 4-1, Sheet 2 of 2 to calculate N2O Emissions from all Animal
+Waste Management Systems.
+1 Enter the values of Nitrogen Excretion Nex(AWMS) from the bottom of
+column D of each Supplemental Worksheet into the corresponding
+Animal Waste Management System in column A.
+2 For each type of Animal Waste Management System, enter Emission
+Factor for Animal Waste Management Systems in column B. Use default
+values provided in Table 4-8 or more precise locally available data.
+3 Multiply the value of N excretion (column A) by the N2O Emission
+Factor for Animal Waste Management System (column B) and then by
+the conversion ratio 44/28 to give the Total Annual Emissions of N2O.
+Multiply the final result by 10-6 to express it as gigagrams.  Enter the
+results in column C.
+4 Sum the values in column C and enter the result in the bottom of the
+column.
+TABLE 4-6
+TENTATIVE DEFAULT VALUES FOR NITROGEN EXCRETION PER HEAD OF ANIMAL PER REGION
+ (kg/animal/yr)a
+Region
+Type of Animal
+Non-dairy
+cattle
+Dairy
+cattle
+Poultry
+Sheep
+Swine
+Others
+North America
+70
+100
+0.6
+16
+20
+25
+Western Europe
+70
+100
+0.6
+20
+20
+25
+Eastern Europe
+50
+70
+0.6
+16
+20
+25
+Oceania
+60
+80
+0.6
+20
+16
+25
+Latin America
+40
+70
+0.6
+12
+16
+40
+Africa
+40
+60
+0.6
+12
+16
+40
+Near East &
+Mediterranean
+50
+70
+0.6
+12
+16
+40
+Asia & Far East
+40
+60
+0.6
+12
+16
+40
+a Source: Ecetoc (1994), Vetter et al. (1988), Steffens and Vetter (1990).
+NITROUS OXIDE FROM AWMS
+Nitrogen Excretion Nex from all
+AWMS 
+are 
+estimated 
+here.
+However, note that N2O emissions
+from 
+anaerobic 
+lagoons, 
+liquid
+systems, solid storage and drylot, and
+“other systems” are reported in this
+section while daily spread and
+pasture range and paddock are
+reported under Agricultural Soils
+(see Section 4.6).
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :  W o r k b o o k
+4.11
+TABLE 4-7
+DEFAULT VALUES FOR PERCENTAGE OF MANURE N PRODUCED IN DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS
+ IN DIFFERENT WORLD REGIONS (FROM SAFLEY ET AL., 1992)
+Region
+Type of Animal
+Percentage of Manure Production per Animal Waste Management Systems
+Anaerobic
+Lagoon
+Liquid
+System
+Daily
+Spread
+Solid Storage
+and Drylot
+Pasture
+Range and
+Paddock
+Used Fuel
+Other System
+North America
+Non-dairy Cattle (D)
+0
+1
+0
+14
+84
+0
+1
+Dairy Cattle
+10
+23
+37
+23
+0
+0
+7
+Poultry (E)
+5
+4
+0
+0
+1
+0
+90
+Sheep
+0
+0
+0
+2
+88
+0
+10
+Swine
+25
+50
+0
+18
+0
+0
+6
+Other animals (F)
+0
+0
+0
+0
+92
+0
+8
+Western Europe
+Non-dairy Cattle (D)
+0
+55
+0
+2
+33
+0
+9
+Dairy Cattle
+0
+46
+24
+21
+8
+0
+1
+Poultry (E)
+0
+13
+0
+1
+2
+0
+84
+Sheep
+0
+0
+0
+2
+87
+0
+11
+Swine
+0
+77
+0
+23
+0
+0
+0
+Other animals (F)
+0
+0
+0
+0
+96
+0
+4
+Eastern Europe
+Non-dairy Cattle (D)
+8
+39
+0
+52
+0
+0
+1
+Dairy Cattle
+0
+18
+1
+67
+13
+0
+0
+Poultry (E)
+0
+28
+0
+0
+1
+0
+71
+Sheep
+0
+0
+0
+0
+73
+0
+27
+Swine
+0
+29
+0
+0
+27
+0
+45
+Other animals (F)
+0
+0
+0
+0
+92
+0
+8
+AGRICULTURE
+4.12
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 4-7 (CONTINUED)
+DEFAULT VALUES FOR PERCENTAGE OF MANURE N PRODUCED IN DIFFERENT ANIMA L WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD
+REGIONS
+(FROM SAFLEY ET AL., 1992)
+Region
+Type of Animal
+Percentage of Manure Production per Animal Waste Management Systems
+Anaerobic
+Lagoon
+Liquid
+System
+Daily
+Spread
+Solid
+Storage and
+Drylot
+Pasture
+Range and
+Paddock
+Used Fuel
+Other System
+Oceania
+Non-dairy Cattle (D)
+0
+0
+0
+0
+100
+0
+0
+Dairy Cattle
+0
+0
+0
+0
+100
+0
+0
+Poultry (E)
+0
+0
+0
+0
+3
+0
+97
+Sheep
+0
+0
+0
+0
+100
+0
+0
+Swine
+55
+0
+0
+17
+0
+0
+28
+Other animals (F)
+0
+0
+0
+0
+100
+0
+0
+Latin America
+Non-dairy Cattle (D)
+0
+0
+0
+0
+99
+0
+1
+Dairy Cattle
+0
+1
+62
+1
+36
+0
+0
+Poultry (E)
+0
+9
+0
+0
+42
+0
+49
+Sheep
+0
+0
+0
+0
+100
+0
+0
+Swine
+0
+8
+2
+51
+0
+0
+40
+Other animals (F)
+0
+0
+0
+0
+99
+0
+1
+Africa
+Non-dairy Cattle (D)
+0
+0
+1
+3
+96
+0
+0
+Dairy Cattle
+0
+0
+12
+0
+83
+0
+5
+Poultry (E)
+0
+0
+0
+0
+81
+0
+19
+Sheep
+0
+0
+0
+1
+99
+0
+1
+Swine
+0
+7
+0
+93
+0
+0
+0
+Other animals (F)
+1
+0
+0
+0
+99
+0
+1
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :  W o r k b o o k
+4.13
+TABLE 4-7 (CONTINUED)
+DEFAULT VALUES FOR PERCENTAGE OF MANURE N PRODUCED IN DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD
+REGIONS (FROM SAFLEY ET AL., 1992)
+Per centage of Manure Production per Animal Waste Management Systems
+Region
+Type of Animal
+Anaerobic
+Lagoon
+Liquid
+System
+Daily
+ Spread
+Solid
+Storage and
+Drylot
+Pasture
+Range and
+Paddock
+Used Fuel
+Other System
+Near East and
+Mediterranean
+Non-dairy Cattle (D)
+0
+0
+2
+0
+77
+18
+2
+Dairy Cattle
+0
+0
+3
+3
+77
+18
+0
+Poultry (E)
+0
+1
+0
+0
+71
+0
+28
+Sheep
+0
+0
+0
+0
+100
+0
+0
+Swine
+0
+32
+0
+68
+0
+0
+0
+Other animals (F)
+0
+0
+0
+0
+100
+0
+0
+Asia and Far East
+Non-dairy Cattle (D)
+0
+0
+16
+14
+29
+40
+0
+Dairy Cattle
+6
+4
+21
+0
+24
+46
+0
+Poultry (E)
+1
+2
+0
+0
+44
+1
+52
+Sheep
+0
+0
+0
+0
+83
+0
+17
+Swine
+1
+38
+1
+53
+0
+7
+0
+Other animals (F)
+0
+0
+0
+0
+95
+0
+5
+(D) Includes buffalo
+(E) Includes chickens, turkeys and ducks
+(F) Includes goats, horses, mules, donkeys and camels
+AGRICULTURE
+4.14
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 4-8
+TENTATIVE DEFAULT VALUES FOR N2O EMISSION FACTORS FROM ANIMAL WASTE PER
+ANIMAL WASTE MANAGEMENT SYSTEM
+(KG N2O–N/KG NITROGEN EXCRETED)
+Animal Waste Management Systema
+Emission Factor EF3
+Anaerobic lagoonsb
+0.001 (<0.002)
+Liquid systemsb
+0.001 (<0.001)
+Daily spreadc
+0.0 (no range)
+Solid storage and drylotc
+0.02 (0.005-0.03)
+Pasture range and paddock (grazing)d
+0.02 (0.005-0.03)
+Used as fuele
+Not included in this Chapter
+Other systemsb
+0.005
+a The fraction of manure nitrogen produced in different Animal Waste Management Systems for cattle, swine
+and buffalo can be estimated as proposed in Table 4-7, or as given by Safley et al. (1992).
+b To be reported under “Manure Management”.
+c To be reported under “Agricultural Soils” (Section 4.6) under direct soil emissions from agricultural fields
+after spreading. (Emissions are assumed not to occur before spreading).
+d To be reported under “Agricultural Soils” (Section 4.6) under direct soil emissions from animal production.
+e To be reported in the Energy Chapter.
+4.3 
+Rice Cultivation
+4 . 3 . 1  I n t r o d u c t i o n
+Anaerobic decomposition of organic material in flooded rice fields produces
+methane (CH4), which escapes to the atmosphere primarily by diffusive
+transport through the rice plants during the growing season.  Upland rice
+fields, which are not flooded and therefore do not produce significant
+quantities of CH4, account for approximately 10 per cent of the global rice
+production and about 15 per cent of the global rice area under cultivation.
+The remaining area is grown for wetland rice, consisting of irrigated, rainfed,
+and deepwater rice.  The global wetland rice area harvested annually in the
+early 1980s was about 123.2 million hectares (total harvested area including
+upland rice is 144 Mha), over 90 per cent of which was in Asia (Neue et al.,
+1990).1
+The measurements at various locations of the world show that there are
+large temporal variations of CH4 fluxes and that the flux differs markedly
+with soil type and texture, application of organic matter and mineral
+fertiliser (Neue and Sass, 1994).  The wide variations in CH4 fluxes also
+                                                     
+     1 The term "harvested area" has a different meaning from "cultivated
+area" in that the former accounts for double and triple cropping.  For
+example, if a country has 10 million hectares of land under rice cultivation,
+all of which are double-cropped (i.e., two crops of rice are grown on each
+hectare each year), then this country has 20 million hectares of rice area
+harvested annually.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.15
+indicate that the flux is critically dependent upon several factors including
+climate, characteristics of soils and paddy, and agricultural practices,
+particularly water regime.  The parameters that affect methane emissions
+vary widely both spatially and temporally.  Multiple year data sets near the
+same location and under similar conditions can lead to substantial differences
+in seasonal methane emission levels, making it difficult to establish a single
+number as the methane emission level from a field, let alone at a regional or
+country level.  Thus, at the current level of understanding, a reported range
+in methane emission levels for a country is more realistic than a single
+number.
+4 . 3 . 2  D a t a  s o u r c e s
+Area Statistics
+Table 4-9 contains information on harvested area of rice according to
+statistics from the FAO Yearbook (UN, 1992), China Agricultural Yearbook
+(1990), IRRI RICE Almanac (IRRI, 1994) and World Rice Statistics (IRRI,
+1993).  Allocation of areas to categories, e.g., irrigated, rainfed (flood prone
+and lowland rainfed) and upland rice for main rice-producing countries were
+based on the IRRI Rice Almanac (IRRI, 1994) and for other rice-producing
+countries these categories were based on IRRI (1990), Huke (1982) and
+Grist (1986).  Actual percentage of the irrigated, rainfed, and flood prone
+areas which are continuously flooded or have an aeration period greater
+than 3 days or multiple aerations, are to be obtained from the country
+specific data.
+Seasonally Integrated flux values
+Tables 4-10 and 4-11 provides default emission factors, EF, for various
+categories of water regimes and multiplication factors for organic
+amendments.  Emissions from upland rice are assumed to be 0 and ignored
+in the emission calculations.
+See the Reference Manual for a more detailed discussion of available data
+sources.
+4 . 3 . 3  M e t h o d o l o g y
+Emissions of methane from rice fields can be represented as follows:
+EQUATION 1
+Fc = EF × A × 10-12
+where:
+Fc
+=
+estimated annual emission of methane from a particular rice
+water regime and for a given organic amendment, in Tg /yr;
+EF
+=
+methane emission factor integrated over integrated cropping
+season, in g/m2;
+A
+=
+annual harvested area cultivated under conditions specified
+above.  It is given by the cultivated area times the number of
+cropping seasons per year, i.e., in m2/yr.
+ESTIMATING HARVESTED AREA
+The annual harvested area cultivated
+under these conditions is given by
+the cultivated area (in m2/yr) times
+the number of cropping seasons per
+year.  If some areas are double
+cropped, they would be counted
+twice as the harvested area.
+AGRICULTURE
+4.16
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 4-2 METHANE EMISSIONS FROM FLOODED RICE FIELDS at the
+end of this module to enter your data.  Table 4-9 gives default data for the
+distribution of rice growing areas and water management types throughout
+the world.
+E S T I M A T I N G  M E T H A N E  E M I S S I O N S  B Y
+W A T E R  M A N A G E M E N T  R E G I M E
+1
+Enter the Harvested Area by water management regime (in square
+metres x 10-9) in column A.
+The annual harvested area cultivated under these conditions is given by
+the cultivated area (in m2/yr) times the number of cropping seasons per
+year.  Area cultivated under upland (or dry conditions) is excluded from
+methane calculations.  Table 4-9 provides some default information
+which can be used if data are not locally available.  Note that the data
+for area harvested provided in Table 4-9 are expressed in units of
+thousands of hectares.  If these data are used they must first be
+converted to square metres (1000h = 107 sq.m).
+2
+Enter the Scaling Factor for Methane Emissions in column B.  Default
+factors are given for rice ecosystems relative to continuously flooded
+fields, without organic amendments. Values are provided in Table 4-10
+and can be used if more detailed data are not locally available.
+3
+For conversion to soils with organic amendment, enter a Correction
+Factor for Organic Amendment  in column C.  The default value is 2.
+For soils without organic amendment, correction is not necessary.  In
+this case, enter 1 in column C.
+4
+Enter the Seasonally Integrated Methane Emission Factor for
+Continuously Flooded Rice without Organic Amendment (in g/m2) in
+column D.  Some country specific data are given in Table 4-11.  The
+arithmetic mean of the dataset can be used as a default value, if no other
+information is available.
+5
+For each category, multiply the Harvested Area (column A) by the
+Scaling Factor for Methane Emissions (column B), the Correction Factor
+for Organic Amendment (column C), and the Seasonally Integrated
+Methane Emission Factor for Continuously Flooded Rice without
+Organic Fertilisers (column D).  This gives CH4 Emissions in gigagrams
+for each rice category.  Enter the result in column E.
+6
+Sum emissions and enter the total at the bottom of column E.
+USING THE WORKSHEET
+• 
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+• 
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+REFLECTING MORE DETAIL
+If you have the necessary data, you
+can sub-divide your data further to
+account 
+for 
+different 
+fertilising
+practices.  Furthermore, if regional
+variations in temperature, cultivation
+practices, etc. justify it, calculations
+can be done at sub-national regional
+level.  In either case you should use
+extra copies of the Worksheet and
+label them clearly by subcategory or
+region.  You should then aggregate
+the results to provide a national
+summary table from the basic
+categories described in the method.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.17
+TABLE 4-9
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Americas
+USA
+1114
+100
+0
+0
+Belize
+2
+10
+90
+0
+Costa Rica
+53
+10
+90
+0
+Cuba
+150
+100
+0
+0
+Dominican Rep
+93
+98
+2
+0
+El Salvador
+15
+10
+90
+0
+Guatemala
+15
+10
+90
+0
+Haiti
+52
+40
+60
+0
+Honduras
+19
+10
+90
+0
+Jamaica
+0
+40
+60
+0
+Mexico
+123
+41
+59
+0
+Nicaragua
+48
+10
+90
+0
+Panama
+92
+5
+95
+0
+Puerto Rico
+0
+75
+25
+0
+Trinidad & Tobago
+5
+45
+55
+0
+Argentina
+103
+100
+0
+0
+Bolivia
+110
+25
+75
+0
+Brazil
+3945
+19
+75
+6 (0 + 6)
+Chile
+35
+79
+0
+Columbia
+435
+67
+23
+10 (0 + 10)
+Ecuador
+266
+40
+10
+50
+Guyana
+68
+95
+5
+0
+Paraguay
+34
+50
+50
+0
+Peru
+185
+84
+16
+0
+Surinam
+58
+100
+0
+0
+Uruguay
+108
+100
+0
+0
+Venezuela
+119
+90
+21
+0
+AGRICULTURE
+4.18
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 4.9 (CONT.)
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Asia
+Brunei
+1
+79
+21
+0
+Hong Kong
+0
+100
+0
+0
+Syria
+0
+100
+0
+0
+Turkey
+52
+100
+0
+0
+India
+42321
+53 (16 + 37)
+15
+32 (16 + 16)
+Pakistan
+2113
+100
+0
+0
+Bangladesh
+10435
+22
+8
+70 (23 + 47)
+Myanmar
+4760
+18
+6
+76 (24 + 52)
+Nepal
+1445
+23
+3
+74 (8 + 66)
+Afghanistan
+173
+100
+0
+0
+Bhutan
+25
+50
+4
+46 (42 + 4)
+China 3
+33265
+93
+2
+5 (0 + 5)
+Indonesia
+10502
+72 (22 + 50)
+11
+17 (10 + 7)
+Iran
+570
+100
+0
+0
+Iraq
+78
+100
+0
+0
+Japan
+2074
+99 (2 + 97)
+1
+0
+Malaysia
+639
+66
+12
+22 (1 + 21)
+Philippines
+3319
+61
+2
+37 (2 + 35)
+Sri Lanka
+828
+37
+7
+56 (3 + 53)
+Taiwan
+700
+97
+3
+0
+Thailand
+9650
+7
+1
+92 (7 + 85)
+Kampuchea
+1800
+8
+2
+90 (42 + 48)
+Laos
+638
+2
+37
+61 (0 + 61)
+Vietnam
+6028
+53
+8
+39 (11 + 28)
+Democratic Republic of
+Korea
+670
+67
+13
+20
+Republic of Korea
+1242
+100 (9 + 91)
+0
+0
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.19
+TABLE 4.9 (CONT.)
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Europe
+Albania
+2
+100
+0
+0
+Bulgaria
+11
+100
+0
+0
+France
+20
+100
+0
+0
+Greece
+15
+100
+0
+0
+Hungary
+11
+100
+0
+0
+Italy
+208
+100
+0
+0
+Portugal
+33
+100
+0
+0
+Romania
+37
+100
+0
+0
+Spain
+81
+100
+0
+0
+Former USSR
+624
+100
+0
+0
+Former Yugoslavia
+8
+100
+0
+0
+PACIFIC
+Australia
+102
+100
+0
+0
+Fiji
+13
+50
+50
+0
+Africa
+Algeria
+1
+100
+0
+0
+Angola
+18
+100
+0
+0
+Benin
+7
+10
+90
+0
+Burkina Faso
+19
+89
+11
+0
+Burundi
+12
+25
+75
+0
+Cameroon
+15
+25
+75
+0
+C African Rep
+10
+25
+75
+0
+Chad
+39
+25
+75
+0
+Comoros
+13
+100
+0
+0
+Congo
+4
+25
+75
+0
+Egypt
+436
+100
+0
+0
+Gabon
+0
+25
+75
+0
+Gambia
+14
+90
+10
+0
+AGRICULTURE
+4.20
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 4.9 (CONT.)
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Ghana
+85
+24
+76
+0
+Guinea Bissau
+57
+25
+75
+0
+Guinea
+608
+8
+47
+45
+Ivory Coast
+583
+6
+87
+7
+Kenya
+15
+25
+75
+0
+Liberia
+168
+0
+94
+6
+Madagascar
+1160
+10
+14
+76 (2 + 74)
+Malawi
+29
+25
+75
+0
+Mali
+222
+25
+75
+0
+Mauritania
+14
+100
+0
+0
+Morocco
+6
+100
+0
+0
+Mozambique
+109
+25
+75
+0
+Niger
+29
+35
+65
+0
+Nigeria
+1567
+16
+51
+33 (33 + 0)
+Rwanda
+3
+25
+75
+0
+Senegal
+73
+25
+75
+0
+Sierra Leone
+339
+1
+67
+32
+Somalia
+5
+50
+50
+0
+South Africa
+1
+100
+0
+0
+Sudan
+1
+50
+50
+0
+Swaziland
+0
+25
+75
+0
+Tanzania
+375
+3
+22
+75 (0 + 75)
+Togo
+21
+4
+96
+0
+Uganda
+37
+25
+75
+0
+Zaire
+393
+5
+90
+5
+Zambia
+11
+25
+75
+0
+Zimbabwe
+0
+25
+75
+0
+a Numbers in brackets indicate continuously flooded and intermittently flooded respectively.
+b Numbers in brackets indicate continuously flood-prone and drought-prone respectively.
+c Values are currently being updated.
+Notes: Areas were taken from FAO Yearbook (UN, 1992), China Agricultural Yearbook (1990), World Rice Statistics
+(IRRI, 1990) and IRRI Rice Almanac 1993-1995 (IRRI, 1993).

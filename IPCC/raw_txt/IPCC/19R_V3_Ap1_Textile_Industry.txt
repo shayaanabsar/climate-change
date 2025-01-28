@@ -1,0 +1,1864 @@
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.1 
+ 
+Appendix 1 (New) 
+Possible Approaches for Estimating 
+Fluorinated Compounds Emissions from Textile, Carpet, Leather 
+and Paper Industries: Basis for Future Methodological 
+Development 
+1A.1  Introduction 
+Fluorine-based treatment of textiles for waterproofing was introduced in the 1950s (Davies 2014). The first 
+microporous membrane (polytetrafluoroethylene PTFE, also known as Teflon™) was created in 1969 and the 
+first GORE-TEX™ materials appeared on the market in 1976 (Williams 2018). Since then, fluorochemical 
+finishes have been widely used to functionalize fibres for water or oil repellence, soil and stain release, 
+improving textile breathability, softening, dyeing ability, increasing mechanical strength, providing antibacterial 
+and anti-odour finishes, and for fabricating wrinkle-free materials (Choudhury 2017). Such applications are 
+widespread for the production of home textiles, upholstery furniture, protective clothing with signal colour, tent 
+canvas, outdoor wear, medical textiles and work wear such as uniforms and shoes (Lacasse & Baumann 2004; 
+Schindler & Hauser 2004; Singha 2012; Gulrajani 2013; Roshan 2014). 
+The conventional processes used for increasing the water repellence of fibres use perfluoroalkyl carboxylic acids 
+(PFCAs) and perfluoroalkane sulfonic acids (PFSAs), commonly referred to as ‘C8’ chemistry because the 
+precursor molecules contain 8 carbon atoms. Such processes can lead to the formation of Perfluoroalkylated acid 
+through oxidation, and in particular to the environmental release of perfluorooctane sulfonate (PFOS) and 
+perfluorooctanoic acid (PFOA), two chemicals of concern due their persistent and bio-accumulative nature. As a 
+result, the use of C8 fluorinated polymers in textiles, carpet, leather, and paper has been restricted in some 
+regions, and the industry is moving towards shorter chained chemistry (from ‘C8’ to ‘C6’ and ‘C4’). However, 
+the C6 and C4 chemistries have been reported to perform more poorly than the conventional C8 chemistry 
+(Davies 2014), and the C8 chemistry continues to be widely used in regions with large textile production 
+capacities, particularly in developing countries (Fantke et al. 2015). Due to the lower performance of the shorter 
+chained chemistry, alternate methods are being sought for the treatment of textile, carpet, leather and paper. In 
+particular, plasma-based processes have shown promising performance (Davies 2014). 
+Fluorine-based plasma treatment of textile, carpet, leather, and paper has received increased interest and has 
+been a fertile subject for research and development (R&D) since the early 2000s, in part due to the fact that 
+plasma technologies provide excellent performance and that plasma processes can be tailored to achieve many 
+desirable properties. An increasing number of peer-reviewed papers have been published since 2006, and a 
+growing number of patents have been filed worldwide in the last 5 to 8 years, indicating that technological and 
+industrial developments are occurring rapidly in this emerging field. Several innovative treatment technologies 
+and chemistries are now transitioning to industrial scale use, particularly plasma processing of textiles using 
+gaseous fluorinated compounds (FC) such as CF4, C2F6, C3F8, C4F8, C5F10, CHF3, and SF6 (Yip et al. 2002; 
+Hochart et al. 2003; Raffaele-Addamo et al. 2003; Davis et al. 2011; Kwong et al. 2013; Ramamoorthy et al. 
+2013; Davies 2014; Zille et al. 2015; Saxena et al. 2017).  
+As in the case of the electronics sector, plasma-based processes using fluorinated compounds in the textile 
+industry are expected to result in emissions of unreacted fluorinated compounds and by-products with high 
+global warming potentials (GWPs). However, the extent to which plasma processes have been introduced in 
+volume manufacturing is not clear. Also, the wet application of fluorinated surfactants and fluorine-based 
+polymers commonly used to treat textile, carpet, leather, and paper fibres can result in emissions of volatile 
+fluorinated compounds through evaporative losses and cracking (IPPC 2003; OECD 2004). A list of the most 
+important fluorinated compounds used for plasma-based treatment processes is provided in Table 1Ap.1, and a 
+list of the most important fluorotelomers, fluorocarbons, and fluorosurfactants used for wet applications, as well 
+as their vapour pressures, is provided in Table 1Ap.2. While the magnitude of FC emissions from the textile 
+industry as compared to other sources of fluorinated greenhouse gases (GHGs) is presently unknown, it is clear 
+that the textile industry contributes to some degree to the total amount of fluorinated substances found in the 
+environment (KEMI 2014). 
+Although several international and national reports refer to the possible off-gas emissions of fluorinated 
+compounds into the atmosphere due to textile treatment, no emission factors appear to be available in the open 
+literature to estimate greenhouse gas emissions from such processes (EPA 1997; Schönberger & Schäfer 2003; 
+MoEU 2012; DEPA 2013; UNIDO et al. 2017). Only one reference about emissions of hydro-fluorocarbons 
+related to the textile industry in the United Kingdom has be found in the literature (Ricardo-AEA 2015). As a 
+Volume 3: Industrial Processes and Product Use 
+Ap1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+consequence, the authors were not able – at the time of writing of this second order draft – to estimate the 
+volume of fluorinated compounds that are used or emitted by the textile, carpet, leather, and paper industries. 
+Nevertheless, FC emissions in this sector could represent a significant new source, due to the large volume of 
+substrates (i.e., product classes) treated and the sheer size and global nature of the industry. 
+1A.1.1 
+PLASMA TREATMENT PROCESSES 
+Plasmas are frequently subdivided into thermal (hot) and non-thermal (cold) plasmas. For thermal plasmas, the 
+temperature of electrons, ions, neutrals and excited species in the plasma state is in equilibrium, ranging from 
+3,500 ºC to 20,000 ºC.  Non-equilibrium (cold) plasmas have electron temperatures that are much higher than the 
+temperature of the ions and neutrals, where the temperature of the plasma is typically in the range of 40 to 250 
+ºC. Because textiles and polymers cannot withstand the high temperatures used in thermal plasmas, most 
+applications for organic fibres’ surface modification use cold plasmas. The majority of plasma-based textile 
+treatment processes for the production of hydrophobic and oleophobic surfaces (but also for some polymer coating, 
+flame retardant and medical antimicrobial fabrics) reported in the technical literature are based on non-thermal 
+plasmas generated at low pressure (between 1 mTorr and 1 Torr) and in few cases at atmospheric pressure. Plasma 
+source designs based on corona discharges, glow discharges, dielectric barrier discharges (DBDs), plasma jet, 
+capacitively or inductively coupled discharges, and RF- or microwave-induced discharges have been studied 
+(Sigurdsson & Shishoo 1997; Tendero et al. 2006; Morent et al. 2008; Sparavigna 2008; Jafari et al. 2013; Vietro 
+et al. 2015; Zille et al. 2015; Gotoh et al. 2017).  
+Although most plasma processing technologies for textile treatments are still at an emerging stage, several 
+manufacturers have developed pilot- to commercial-scale machinery, and applications for specialized textiles 
+have been or are currently being implemented at industrial scale. Indeed, plasma treatment proves particularly 
+effective for the production of specialty textiles for the medical industry (gowns, masks, protective clothing), the 
+automotive industry (seats, trim, headliners, airbags), the apparel industry (outer and under garments), the 
+filtration industry (air, water filtration) and the flooring industry (carpet fibres) (Saxena et al. 2017). However, 
+the high capital and operational costs of plasma treatment (in particular for low-pressure plasma technologies 
+requiring a closed vacuum system) currently limits the commercial viability of the technique for treating 
+conventional (non-specialized) fabrics. Polymerization of textiles using plasma at atmospheric pressure offers a 
+low-cost and environmentally-friendly alternative, but the technology is still under development (Shishoo 2007; 
+Muthu 2016). 
+Plasma processes used for the treatment of such materials can be divided into three process types: 1) plasma 
+treatment, 2) plasma etching (or ablation), and 3) plasma polymerization (Roth 2001). 
+1) Plasma treatment uses inert gases such as Ar, He, N2, and chemically active molecules such as O2 or 
+NH3, as well as fluorinated gases such as CF4, C2F6, C3F8, C4F8, C5F10, CHF3, SF6, and other (larger 
+size) fluorine-containing molecules such as perfluoroalkyl acrylates (Tendero et al. 2006; Morent et al. 
+2008; Sparavigna 2008; Jafari et al. 2013; Yim et al. 2013; Vietro et al. 2015; Zille et al. 2015; Gotoh et 
+al. 2017). Plasma treatments can be further separated into two processes sub-types: a) when the plasma-
+activated gases introduce chemical functionalities or create and deposit free radicals onto the target 
+surface that can be subsequently used to cross-link or surface-graft other molecules to attain specific 
+surface properties (very often more hydrophilic surfaces); or b) when the fabric is first immersed in a 
+fluid of hydrophobic fluorinated pre-polymer with added initiators followed by a plasma treatment 
+leading to the grafting of the pre-polymer on the surface of the fabric.  
+2) Plasma etching is a process type where the substrate is bombarded with ions from the plasma. Three 
+process sub-types may be defined within the etching process type, depending on whether plasma is used 
+to a) clean, b) sterilize, or c) enhance surface adhesion of the fabrics. For example, dry plasma etching 
+can be accomplished by using CF4 in a plasma discharge to create active species capable of reacting 
+chemically with the layer to be etched (Sigurdsson & Shishoo 1997).  
+3) Plasma polymerization is a process type where a monomer in vapour phase such as CF4, C2F6, C3F6, or 
+larger fluorinated molecules such as fluorodecylacrylate is converted into reactive fragments to deposit 
+a thin film onto the substrate. Plasma polymerization can be further separated into two process sub-
+types: a) plasma-induced polymerization is when the polymerization process is a surface-based reaction 
+and, b) plasma-state polymerization is when fragments react in the gas phase to form larger molecules 
+that are then deposited on the substrate (Morent et al. 2008).  
+For all process types and sub-types, it is highly improbable that all input chemicals are fully consumed in the process 
+(IPCC 2006). Further, the plasma decomposition of input chemicals such as C2F6, C3F8, and larger chain fluorinated 
+molecules is likely to result in the production of byproducts such as CF4, C2F6, CHF3 and other gases. Therefore, 
+plasma-based fluorinated treatment of textile, carpet, leather, or paper is expected to lead to emissions of FC 
+greenhouse gases. It should be noted that the potential for plasma-based polymerization processes to emit large 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.3 
+ 
+amounts of FCs is likely lower than for the plasma treatment and plasma etching process types because, in the 
+case of polymerization, the input FC chemicals are meant to react and form solid byproducts on the substrate as 
+opposed to just treat or etch its surface. However, it should also be mentioned that plasma-based polymerization 
+is more effective than many conventional wet-based chemistries, and that such characteristics may contribute to 
+shifting emissions towards high-GWP gases. Finally, the extent to which reactor cleaning processes (to remove 
+the deposits that build on the chamber walls after multiple depositions) may contribute to GHG emissions is 
+unclear at the time of writing of the Second Order Draft of the 2019 Refinement, and comments are sought on 
+this particular issue. 
+1A.1.2 
+WET TREATMENT PROCESSES 
+Wet treatment processes include several application techniques but about 80per cent of the processes use the 
+pad-dry-cure method, where the dry fabric is immersed in the finishing liquor and then squeezed between rollers 
+before being dried and finally cured, usually at a temperature of between 150 and 180 ºC (Roshan 2014). Other 
+techniques include vacuum extraction, spray applications, foam finishing, coating, and lamination.  
+Side-chain fluorinated polymers primarily based on fluorotelomer acrylates, fluorotelomer methacrylates or per-
+fluoroalkane sulfonamidoethanols characterize the chemical structure of the fluorine-based surfactants and 
+polymers used for the above-described applications. Unfortunately, the environmental and health characteristics of 
+the new short-chain chemistry and associated processes are poorly described in the scientific literature. Although 
+some reports refer to possible emissions of FCs in the atmosphere due to textile-wet coating, no data or estimations 
+of emissions are provided (IPPC 2003; Ellis et al. 2004; OECD 2004; Dumoulin et al. 2005; Prevedouros et al. 
+2006; Barber et al. 2007; Jahnke et al. 2007; FOEN 2009; Young 2010; DEPA 2015; UNEP 2017). Data on the 
+volatile PFASs that are emitted immediately after the production of textiles, the type of PFASs that can be formed 
+by hydrolysis of the perfluorinated polymer side chains during use, washing and degradation of the fabrics is also 
+seemingly missing.   
+Importantly, it must be considered that FC products are likely to be released to the air during their industrial 
+application to fibres, particularly during the curing phase of the treatment. It has been shown that, during the 
+drying and curing phases, off-gas emissions can be produced by the volatility of the active substances themselves 
+as well as by their constituents, which can contain on average 1per cent of unreacted and unbound residuals such 
+as monomers, fluorotelomer alcohols (sometimes up to 6-8per cent of the dry weight) and perfluoroalkyl 
+carboxylic acids (Heydebreck et al. 2016). Overall, it can be expected that the magnitude of emissions will 
+depend on the drying or curing temperature, the substrate material, and the reagents’ volatility, concentrations 
+and reactivity (European Commission 2003). To complicate the matter, there is a wide range of different 
+application methods (e.g. padding, spray, foaming, coating, lamination, etc.), different vapour pressure of input 
+chemicals, and different temperature and time of drying and curing steps of the treated substrates. For example, 
+some leather stain resistant finishing agents are applied by spray and dried at room temperature while most of the 
+textile finishing require a drying (110-130ºC) and curing (150-180 ºC) steps (Williams 2018). Carpet products 
+may be cured at a lower temperature of 110 ºC while other products may be treated for 2 minutes at 170ºC or for 
+30 seconds at 190ºC (e.g. cotton). Moreover, some carpet treatments require a curing step for water and oil 
+repellence when using FCs deposition, but on the contrary no curing is required for some type of solvent soluble 
+fluorinated soil release finishing agents for garments, upholstery and carpets (Goswami 2017). However, the 
+latter kind of treatments has lower durability than water-based FCs because of the lack of fixation by 
+crosslinking (Schindler & Hauser 2004). Generally, the higher the curing temperature, the shorter is the curing 
+time in order to avoid yellowing of the fabric. Residuals and impurities may also be released directly from the 
+products into the environment through volatilization, and FC emissions may result from the cracking of input 
+chemicals. Thus, presumptively, emissions of high-GWP gases from wet-based fluorinated treatment of textile, 
+leather, and paper fibres may represent a substantial source. However, the potential climate impact of such 
+processes and substances does not appear to have been characterized in the literature, which typically focuses on 
+formaldehyde, total organic carbon release and on a very limited selection of well-known long-chain PFASs 
+such as perfluorooctanesulfonate (PFOS), perfluorooctanoic acid (PFOA) and their precursors (Wang et al. 
+2017). 
+ 
+Volume 3: Industrial Processes and Product Use 
+Ap1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+TABLE 1AP.1 
+LIST OF MOST IMPORTANT INPUT CHEMICAL MONOMERS USED IN PLASMA TREATMENT OF TEXTILES 
+Atmospheric plasma1 
+Low pressure plasma2 
+C11H7F13O2 
+CF4 (PFC-14) 
+C13H7F17O2/C15H7F21O2 
+C2F4 (PFC-1114) 
+Unidyne TG-571® 
+C3F6 (Perfluorocyclopropane) 
+CF4 (PFC-14) 
+C2F6 (PFC-116) 
+CHF2CF3 (HFC-125) 
+C3F8 (PFC-218) 
+CHF3 (HFC-23) 
+C4F10 (PFC-31-10) 
+C3F6 (Perfluorocyclopropane) 
+C6F14 (PFC-51-14) 
+C2F6 (PFC-116) 
+C4F8 (PFC-318) 
+C8F17CH2CH2OCOCH=CH2 
+CHF2CF3 (HFC-125) 
+C3F8 (PFC-218) 
+SF6 (Sulfur hexafluoride) 
+ C13H7F17O2 
+CF3SO3H (co-monomer) 
+SF6 (Sulfur hexafluoride) 
+C2ClF3 (co-monomer) 
+H2C=CHCO2CH2CH2(CF2)7CF3 
+C6F6 (co-monomer) 
+C6H13F3O3Si  (FAS-3) 
+HC6F5 (co-monomer) 
+C6F5Si(OC2H5)3 (FAS-5) 
+CF3(CF2)7CH=CH2 
+C13H13F17O3Si (FAS-17) 
+1,1,2,2, tetrahydroperfluorodecyl acrylate (AC8) 
+Note: 
+Despite the fact that some chemicals have been defined using their common names, most of the listed chemicals represent chemical 
+families, co-monomers or commercial products. Please refer to the IUPAC name for the other chemicals. 
+Sources:  
+1Yim et al. 2013; Gotoh et al. 2017; Tendero et al. 2006; Zille et al. 2015; Sparavigna 2008; Morent et al. 2008 
+2Vietro et al. 2015; Zille et al. 2015; Sparavigna 2008; Morent et al. 2008; Jafari et al. 2013; Hochart et al. 2003; Hegemann 2006 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.5 
+ 
+ 
+1A.2  Methodological issues 
+1A.2.1  
+CHOICE OF METHOD 
+The choice of method will eventually depend on the availability of measured emission factors from which 
+default factors might be derived. The bibliographic research conducted as of the date of this Second Order Draft 
+does not indicate that representative FC emissions data can be obtained from the textile, carpet, leather, or paper 
+industries to derive default emission factors for Tier 1 or Tier 2 methods. Nevertheless, the authors propose 
+herewith a four-tiered methodological framework (Tier 1, Tier 2a, Tier 2b, and Tier 3) to account for emissions 
+from this sector. At this point, because no Tier 1 or Tier 2 default factors are available, only the Tier 3 method is 
+practicable, using equipment-specific, process-specific, or site-specific measured emission factors. Distinct 
+methods are provided for plasma-based processes and for wet-based processes. This Appendix provides a basis 
+for future methodological development rather than complete guidance. 
+The inventory methods proposed for plasma-based processes are analogous to those used in the electronics 
+industry due to the similarity of the processes, and include four tiered methods (Tier 1, 2a, 2b, 3). The Tier 1 
+method does not require gas consumption data and provides an estimate of emissions based on default (industry 
+average) emission factors expressed in mass of FC emitted per unit area of substrate treated. The Tier 2a and 2b 
+methods require FC consumption data at the site or national level and are based on process gas-specific default 
+TABLE 1AP.2 
+LIST OF MOST IMPORTANT INPUT CHEMICALS USED IN WET TREATMENT PROCESS, AND THEIR VAPOUR PRESSURE 
+Chemical name 
+Vapour pressure (mm Hg @ 25°C)1 
+Tetrafluoroethylene 
+24500 
+Chlorotrifluoroethylene 
+4590 
+Vinylidene fluoride 
+30000 
+Vinyl fluoride 
+19800 
+Hexafluoropropene 
+4900 
+Perfluoromethylvinyl ether 
+765 
+Perfluoropropylvinyl ether 
+534 
+Perfluorooctane sulfonic acid (PFOS) 
+0.002 
+Perfluorobutane sulfonic acid (PFBS) 
+0.027 
+n-methyl perfluorobutane sulfonamidoethanol (Me-FBSE) 
+0.05 
+3-(Perfluorobutyl)propanol (PFBP) 
+0.7 
+Ethyl perfluorooctanoate (EPFO) 
+0.97-1 
+Perfluoro-3,6-dioxaheptanoic acid (PDHA) 
+1.06 
+Fluorotelomer alcohol 10:2 FTOH 
+1.1 - 0.001 
+PFOA isomers 
+1.26 - 2.04 
+Perfluorooctane sulfonyl fluoride (POSF) 
+5.75 
+Fluorotelomer alcohol 8:2 FTOH 
+1.9 - 0.03 
+Perfluorohexanoic acid (PFHxA) 
+1.98 
+Heptafluorobutyric acid - C4HF7O (PFBA) 
+10 
+Perfluorobutanoic acid (PFBA) 
+10 (20ºC) 
+Fluorotelomer alcohol 4:2 FTOH 
+12.5 - 1.6 
+1,1,2,2-Tetrafluoroethyl methyl ether 
+1280 
+Perfluorobutyl iodide 
+158 
+Polyfluorinated fluorotelomer iodides (6:2 FTI) 
+2.9 
+C6F14 (PFC-51-14) 
+232 
+C5F11NO 
+274 
+C8F18 
+29 
+(perfluorooctyl)ethylene (PFOE)1 
+3.6 
+(Perfluorohexyl)ethylene 
+43.8 
+1H,1H,2H-Perfluoro-1-decene 
+6.36 
+Fluorotelomer alcohol 6:2 FTOH 
+6.6 - 0.1 
+C5F12 (PFC-41-12) 
+610 
+C7F16 
+79 
+Notes: 
+- Please note that even though most of the PFOS and PFOA compounds have very low vapour pressure at 25 ºC, they are cured during 
+applications at temperatures of between 150 and 180 ºC. 
+- Despite the fact that some chemicals have been defined using their common names most of the listed chemicals represent chemical 
+families. Please refer to the IUPAC name for the other chemicals. 
+Sources: 
+1Schindler et al. 2013; National Institutes of Health; Nielsen 2012; Ruan et al. 2013; Harrad 2001 
+Volume 3: Industrial Processes and Product Use 
+Ap1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+emission factors expressed in terms of mass of FC emitted per mass of FC consumed (including both emissions 
+of unreacted FC and emissions of all FC by-products formed during the process). For plasma processes, the 
+difference between the Tier 2a and 2b methods is that the Tier 2b method differentiates emission factors by type 
+of plasma process (plasma treatment, plasma etching, and plasma polymerization) and/or class of products 
+manufactured (textiles, leather, paper, etc.), while the Tier 2a method does not. A Tier 3 method would use the 
+same equations as the Tier 2b method, but would use measured emission factors (equipment-specific, process-
+specific, substrate-specific, or site-specific) instead of default emission factors. 
+For wet-based processes, a Tier 1 approach is proposed as a framework to estimate FC emissions based on the 
+mass of substrate treated, a method, which would therefore not require data on the consumption of input 
+chemicals. Two Tier 2 methods (Tier 2a and 2b) are also proposed as frameworks to report emissions based on 
+default FC emission factors allowing to correlate the mass of wet input chemicals consumed to the mass of 
+volatile by-products formed during the processes. The difference between the Tier 2a and 2b methods for wet 
+processes is that the Tier 2b method would distinguish emission factors by process and/or substrate type (class of 
+products) (see further discussion below), while the Tier 2a method would not. Finally, a Tier 3 method 
+applicable to wet processes would use the same equations as the Tier 2b method, but would use measured 
+emission factors (equipment-specific, process-specific, or site-specific) instead of default emission factors. 
+Generally, the higher tiered methods will be more accurate than the lowered tiered ones, and using equipment-
+specific, process-specific, or site-specific emission factors will improve accuracy and greatly reduce the 
+uncertainty of emissions estimates. The accuracy of the methods using default emission factors depends, inter 
+alia, on the differences between the emission factors of the processes actually used in production and the 
+averaged (default) emission factors of a particular method, as well as on potential errors in allocating the 
+consumption of input chemicals, and in reporting the abatement efficiency and the uptime of emissions control 
+systems. With respect to uncertainty, the confidence level of a particular emissions estimate will likely be 
+principally driven by the uncertainty of the default emission factors.  
+1A.2.1.1  PLASMA TREATMENT PROCESSES 
+Table 1Ap.3 depicts the information sources necessary for completing the tiered methods for estimating 
+emissions from plasma treatment processes. This information is preliminary and likely to evolve as the 
+definitions of the various methods are refined. At the time of writing of this Second Order Draft, no information 
+about emission factors could be obtained for plasma treatments from the textile, carpet, leather, or paper 
+industries to derive default emission factors for the Tier 1, Tier 2a, or Tier 2b methods. Thus, currently, the only 
+practicable means to estimate emissions from this sector is the use of the Tier 3 method. Nevertheless, when a 
+statistically-significant number of representative experimental emission factors becomes available, preliminary 
+recommendations are provided for estimating default emission factors and for choosing the most appropriate 
+Tier 1, Tier 2a, or Tier 2b methods.  
+Depending on the method used, data based on production capacity (Tier 1), or data about input chemicals 
+consumption, use rate, by-products formation rates, and the effectiveness of emissions control measures (Tier 2a, 
+2b, 3) will be required for the calculation of emissions. For each variable, depending on the tiered method, an 
+industry default value (D) may be used, measured (Me), or modelled (Mo) to account for site-specific values. 
+With respect to accounting for emissions control technologies, the approach provided here is analogous to the 
+method provided for the electronics industry. For more information, please refer to Chapter 6 “Electronic 
+Industry Emissions”. 
+While continuous (in-situ) emissions monitoring may be technically feasible, it is unclear whether such an 
+approach could be an economically viable method to estimate emissions from the textile, carpet, leather, or paper 
+industry. One alternate approach would be to measure emission factors during the development of new plasma 
+processes when parameters such as input gas flows, chamber pressure, processing time, plasma power, etc. are 
+adjusted for particular treatment needs or for manufacturing a particular product. Please see Box 1Ap.1 for 
+guidance on the analytical methods that can be used for measuring emission factors. 
+Another approach would be for facilities to periodically (for short periods of time) install equipment to measure 
+emissions from their stacks for purposes of developing facility-specific emission factors to estimate emissions 
+over the long term (see, e.g., the Tier 3b method developed for Chapter 6 “Electronic Industry Emissions”). It is 
+very important to note that emission factors (i.e. input gas utilization efficiencies and by-product formation rates) 
+can be strongly affected by changes in process variables (e.g. type of textile substrate material, pressure, 
+temperature, plasma power, FC gas flow, processing time, etc.) and by the design of the process reactors. Thus, 
+emission factors can substantially fluctuate from one tool manufacturer to another and for a recipe ‘tuned’ for a 
+particular purpose or product. 
+ 
+ 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.7 
+ 
+ 
+TABLE 1AP.3 
+INFORMATION SOURCES NECESSARY FOR COMPLETING THE TIERED EMISSIONS ESTIMATING METHODS FOR PLASMA 
+TREATMENT OF TEXTILE, LEATHER, AND PAPER 
+Data 
+Tier 1 
+Tier 2 
+Tier 3 
+ 
+2a 
+2b 
+ 
+Process Gas Entering 
+Tools 
+FCi, = consumption of gas i 
+ 
+Me/Mo 
+ 
+ 
+FCi,p = consumption of gas i for process p.a  
+ 
+ 
+Me/Mo 
+Me/Mo 
+hi = Fraction of gas remaining in shipping container 
+after use (heel) for gas i. 
+ 
+D/Me 
+D/Me 
+Me 
+Process Gas Reactions and 
+Conversion in Tools 
+Ui = Use rate (fraction destroyed or transformed) for 
+each gas i. 
+ 
+D 
+ 
+ 
+Ui,p = Use rate (fraction destroyed or transformed) 
+for each gas i and process p.a 
+ 
+ 
+D 
+Me 
+Bk,i, = Emission factor for by-product k for input gas 
+i.  
+ 
+D 
+ 
+ 
+Bk,i,p = Emission factor for by-product k for input 
+gas i and process p.a 
+ 
+ 
+D 
+Me 
+Downstream FC Emission Control 
+ai, = Fraction of gas i volume used in processes with 
+certified FC emission control technology 
+ 
+Me 
+ 
+ 
+ai,p, = Fraction of gas i volume fed into processes p 
+with certified FC emission control technology 
+ 
+ 
+Mea 
+Mea 
+di = Destruction Removal Efficiency (DRE) for gas i 
+ 
+D/Me 
+ 
+ 
+di,p = Destruction Removal Efficiency (DRE) for gas 
+i for process p 
+ 
+ 
+D/Mea 
+D/Mea 
+UT = Average uptime factor of all abatement 
+systems connected to process tools 
+ 
+Me 
+ 
+ 
+UTp = Average uptime factor of all abatement 
+systems connected to process tools running process 
+type p 
+ 
+ 
+Mea 
+Mea 
+Annual Production 
+Capacity 
+EFi = emission factor for FC gas i 
+D 
+ 
+ 
+ 
+Cu = fraction of annual plant production capacity 
+utilization 
+Me 
+ 
+ 
+ 
+Cd = annual manufacturing design capacity 
+ 
+Me 
+ 
+ 
+ 
+Me = measurement; Mo = model {modelling criteria TBD}; D = Use default factors from guidance. 
+a Depending on the method used, ‘p’ is to be interpreted as a particular plasma process type (Tier 2b) or a site-specific process (Tier 3). 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+Ap1.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TIER 1 METHOD FOR PLASMA TREATMENT PROCESSES – DEFAULT 
+The Tier 1 method is the least accurate estimation method and should be used only in cases where site-specific 
+data on the consumption of input chemicals are not available. The Tier 1 method, unlike the Tier 2a, 2b or Tier 3 
+methods, is designed to give an aggregated estimate of FC emissions, although its methodology appears to 
+produce gas-specific emissions. As envisioned, Tier 1 estimates would be made simultaneously for all (or for the 
+most important) gases listed in Table 1Ap.1 and could only be used if reported as a complete set. 
+As proposed, the Tier 1 calculation relies on a fixed set of generic emissions factors and does not account for 
+differences among process types (plasma treatment, etching, or polymerization), individual processes or 
+manufacturing tools. However, the members of the set would likely differ depending on the surface area of 
+textile, carpet, leather, or paper products being manufactured. Each member of a set, which is a gas-specific 
+emission factor, would express average emissions per unit of substrate area (textile, carpet, leather, paper) 
+produced during manufacture.  
+In using Tier 1, inventory compilers should not modify, in any way, the set of FCs assumed to represent average 
+emissions. Further, as is common practice for IPCC methods, the Tier 1 method does not allow accounting for the 
+use of emissions control technologies, and inventory compilers should not combine emissions estimated using 
+Tier 1 method with emissions estimated using the Tier 2 or 3 methods. Neither may inventory compilers use, for 
+example, the Tier 1 factor for CF4 to estimate the emissions of CF4 from textiles etching and combine it with the 
+results of other FC gases from a Tier 2 or Tier 3 method. The formula used to calculate Tier 1 emissions is 
+shown in Equation 1Ap.1. 
+ 
+EQUATION 1AP.1 
+TIER 1 METHOD FOR ESTIMATION OF THE SET OF FC EMISSIONS 
+ 
+{
+}
+{
+}
+(
+1,..., )
+i
+i
+u
+d
+n
+n
+FC
+EF
+C
+C
+i
+n
+=
+•
+•
+=
+   
+Where: 
+{𝐹𝐹𝐹𝐹𝑖𝑖}𝑛𝑛 = emissions of FC gas i, mass of gas i  
+Note: { }n denotes the set for each class of products (e.g. textile, carpet, leather, or paper) and n denotes 
+the number of gases included in each set. The estimates are only valid if made and reported for all 
+members of the set using this Tier 1 methodology.  
+𝐸𝐸𝐹𝐹𝑖𝑖  
+= FC emission factor for gas i expressed as annual mass of emissions per square meters of 
+substrate surface area for the product class, (mass of gas i)/m2 
+𝐹𝐹𝑢𝑢  
+= fraction of annual plant production capacity utilization, fraction 
+𝐹𝐹𝑑𝑑  
+= annual manufacturing design capacity, m2 of substrate processed 
+ 
+TIER 2A METHOD FOR PLASMA TREATMENT PROCESSES – PROCESS 
+CHEMICAL-SPECIFIC PARAMETERS 
+The Tier 2a method uses industry-wide default values for the fraction of input chemicals used in the plasma 
+manufacturing process (Ui), the fraction of input chemicals i converted into FC by-products k during the process 
+(Bk,i), and the fraction of  FC destroyed by the emissions control technology (Di). The Tier 2a method also 
+calculates emissions for each input chemical used on the basis of site-specific data on chemicals consumption 
+and emissions control technologies. Thus, to use the Tier 2a method, inventory compilers must have direct 
+communication with industry (e.g., annual emissions reporting) to gather consumption data and ensure that 
+emission control technologies are installed and used in accordance with the guidelines provided in this 
+document. For the ‘heel’ or fraction of the purchased gas remaining in the shipping container after use (hi), 
+facilities may use default or site-specific values.1 
+Unlike the Tier 2b and Tier 3 methods that are explained later in this section, the Tier 2a method does not 
+distinguish between process types (treatment, etching, or polymerization) or site-specific processes. However, 
+                                                           
+ 
+1 For an example of how site-specific heel factors can be developed, please see Chapter 6 Volume 3 of the 2019 Refinement. 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.9 
+ 
+the Tier 2a default emission factors are formed separately for each input chemical, which, unlike the Tier 1 
+method, allows to account for the actual mix of input chemicals used at a particular manufacturing site.  
+Total Tier 2a emissions are equal to the sum of emissions from all unreacted fluorinated chemicals i used in the 
+production process (Ei) plus emissions of all by-products k (BPEk) resulting from the conversion of all input 
+chemicals used during production, as calculated using equations 1Ap.2, and 1Ap.3 below.  
+ 
+EQUATION 1AP.2 
+TIER 2A ESTIMATION OF EMISSIONS OF UNREACTED INPUT CHEMICALS 
+ 
+(1
+)
+(1
+) (1
+)
+i
+i
+i
+i
+i
+E
+h
+FC
+U
+D
+=
+−
+•
+•
+−
+•
+−
+ 
+Where: 
+𝐸𝐸𝑖𝑖  = emissions of unreacted input chemical i, kg 
+ℎ𝑖𝑖  = fraction of input gas i remaining in shipping container (heel) after use, fraction 
+𝐹𝐹𝐹𝐹𝑖𝑖 = consumption of input chemical i, kg 
+𝑈𝑈𝑖𝑖  = use rate of input chemical i (fraction destroyed or transformed in process), fraction 
+𝐷𝐷𝑖𝑖  = Overall reduction of gas i emissions, fraction, calculated per equation 1Ap.4 
+ 
+EQUATION 1AP.3 
+TIER 2A ESTIMATION OF BY-PRODUCT EMISSIONS 
+ 
+,
+(1
+)
+(1
+)
+k
+i
+i
+k i
+i
+k
+BRE
+h
+B
+FC
+D
+=
+−
+•
+•
+•
+−
+∑
+ 
+Where: 
+𝐵𝐵𝐵𝐵𝐸𝐸𝑘𝑘 = emissions of by-product k generated from the conversion of all input chemicals i, kg 
+ℎ𝑖𝑖  
+= fraction of input gas i remaining in shipping container (heel) after use, fraction 
+𝐹𝐹𝐹𝐹𝑖𝑖  = consumption of input chemical i, kg 
+𝐵𝐵𝑘𝑘,𝑖𝑖   = emission factor, kg of by-product k created per kg of input chemical i used 
+𝐷𝐷𝑘𝑘  = overall reduction of gas k by-product emissions, fraction, calculated per equation 1Ap.4 
+(replacing i by k indexes) 
+ 
+EQUATION 1AP.4 
+EMISSIONS REDUCTION IMPACT OF EMISSIONS CONTROL TECHNOLOGY 
+ 
+ 
+i
+i
+i
+D
+a
+d
+UT
+=
+•
+•
+ 
+Where: 
+𝐷𝐷𝑖𝑖  = overall reduction of chemical i emissions, fraction 
+𝑎𝑎𝑖𝑖   = fraction of chemical i volume used in processes with emission control technologies (site-specific), 
+fraction 
+𝑑𝑑𝑖𝑖   = Destruction Removal Efficiency (DRE) for chemical i, fraction 
+𝑈𝑈𝑈𝑈 = average uptime of all abatement systems, fraction, calculated per Equation 1Ap.5 
+ 
+Volume 3: Industrial Processes and Product Use 
+Ap1.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+EQUATION 1AP.5 
+UPTIME OF EMISSION CONTROL SYSTEM 
+ 
+1
+n
+n
+n
+n
+Td
+UT
+UT
+= − ∑
+∑
+ 
+Where: 
+𝑈𝑈𝑈𝑈  = average uptime factor of all abatement systems connected to process tools, fraction 
+𝑈𝑈𝑑𝑑𝑛𝑛  = The total time, in minutes, that abatement system n connected to process tool(s) in the plant, is not 
+in operational mode when at least one of the manufacturing tools connected to abatement system n is 
+in operation 
+𝑈𝑈𝑈𝑈𝑛𝑛  = total time, in minutes per year, in which abatement system n has at least one associated 
+manufacturing tool in operation. UT may be set to 1 if suitable backup abatement or interlocking 
+with the process tool is implemented for each abatement system2 
+n  
+= abatement system 
+ 
+TIER 2B METHOD FOR PLASMA TREATMENT PROCESSES – PROCESS 
+TYPE-SPECIFIC PARAMETERS 
+The Tier 2b method is similar to the Tier 2a approach in the sense that it is based on chemical-specific default 
+emission factors, but the Tier 2b factors also account for the type of plasma process and/or class of products (i.e. 
+textile, carpet, leather, paper) used for production processes ‘p’. Thus, the Tier 2b approach is expected to be 
+more accurate than the Tier 2a one because the Tier 2b method reflects the mix of processes or classes of 
+products used in a particular manufacturing facility. Also, the Tier 2b method allows to account for the trend 
+where some chemicals tend to be used predominantly in particular process types and class of products 
+manufactured. The Tier 2b method uses industry-wide default values for the fraction of input chemicals i used in 
+plasma production process p (Ui,p), the fraction of input chemicals i converted into FC by-products k during 
+process p (Bk,i,p), and the fraction of  FC destroyed by the emissions control technology connected to tools using 
+production process p (Di,p). For the ‘heel’ or fraction of the purchased gas remaining in the shipping container 
+after use (hi), facilities may use default or site-specific values.3 
+Although the Tier 2b method is preferred over the Tier 2a method because process- or product-type specific 
+emission factors are more accurate, it should be noted that the Tier 2b method presents increased complexity 
+because the consumption of input chemicals must be allocated to each production process p. Thus, in the case 
+where the consumption of input chemicals cannot directly be measured for each production process p, a gas 
+consumption allocation model must be devised for applying the method, 4 and inventory compilers should 
+consider the trade-off of using more accurate process-specific emission factors versus introducing errors in the 
+Tier 2b estimate, due to uncertainties in the allocation model. 
+Total Tier 2b emissions are equal to the sum of emissions from all unreacted fluorinated chemicals i used in all 
+production processes p (Ei) plus emissions of all by-products k resulting from the conversion of all input 
+chemicals used during all production processes p (BPEk), as calculated using equations 1AP.6, and 1AP.7 below.  
+                                                           
+ 
+2 For determining the amount of tool operating time, you may assume that tools that were installed for the whole of the year 
+were operated for 525,600 minutes per year. For tools that were installed or uninstalled during the year, you should prorate 
+the operating time to account for the days in which the tool was not installed; treat any partial day that a tool was installed 
+as a full day (1,440 minutes) of tool operation. For an abatement system that has more than one connected tool, the tool 
+operating time is 525,600 minutes per year if at least one tool was installed at all times throughout the year. If you have 
+tools that are idle with no gas flow through the tool for part of the year, you may calculate total tool time using the actual 
+time that gas is flowing through the tool.  
+3 For an example of how site-specific heel factors can be developed, please see Chapter 6 Volume 3 of the 2019 Refinement. 
+4 For an example of how site-specific gas consumption allocation models can be developed, please see Chapter 6 Volume 3 
+of the 2019 Refinement. 
+ 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.11 
+ 
+ 
+EQUATION 1AP.6 
+TIER 2B ESTIMATION OF EMISSIONS OF UNREACTED INPUT CHEMICALS 
+ 
+,
+,
+,
+(1
+)
+(1
+) (1
+)
+i
+i
+p
+i p
+i p
+i p
+E
+h
+FC
+U
+D
+
+
+=
+−
+•
+•
+−
+•
+−
+
+
+∑
+ 
+Where: 
+𝐸𝐸𝑖𝑖  
+= emissions of unreacted input chemical i, kg 
+ℎ𝑖𝑖  
+= fraction of input gas i remaining in shipping container (heel) after use, fraction 
+𝐹𝐹𝐹𝐹𝑖𝑖,𝑝𝑝 = consumption of input chemical i for production process p, kg 
+𝑈𝑈𝑖𝑖,𝑝𝑝  = use rate of input chemical i (fraction destroyed or transformed in production process p), fraction 
+𝐷𝐷𝑖𝑖,𝑝𝑝  = overall reduction of gas i emissions from tools using production process p, fraction, calculated per 
+equation 1Ap.8 
+ 
+EQUATION 1AP.7 
+TIER 2B ESTIMATION OF BY-PRODUCT EMISSIONS 
+ 
+, ,
+,
+,
+(1
+)
+(1
+)
+k
+i
+i
+p
+k i p
+i p
+k p
+BPE
+h
+B
+FC
+D
+
+
+
+
+=
+−
+•
+•
+•
+−
+
+
+
+
+∑
+∑
+ 
+Where: 
+𝐵𝐵𝐵𝐵𝐸𝐸𝑘𝑘 = emissions of by-product k generated from the conversion of all input chemicals i used for all 
+process types p, kg 
+ℎ𝑖𝑖  
+= fraction of input gas i remaining in shipping container (heel) after use, fraction 
+𝐵𝐵𝑘𝑘,𝑖𝑖,𝑝𝑝  = emission factor, kg of by-product k created per kg of input chemical i used for production process 
+p 
+𝐹𝐹𝐹𝐹𝑖𝑖,𝑝𝑝  = consumption of input chemical i for production process p, kg 
+𝐷𝐷𝑘𝑘,𝑝𝑝  = overall reduction of gas k by-product emissions from tools using production process p, fraction, 
+calculated per equation 1Ap.8 (replacing i by k indexes) 
+ 
+EQUATION 1AP.8 
+EMISSIONS REDUCTION IMPACT OF EMISSIONS CONTROL TECHNOLOGY 
+ 
+,
+,
+,
+i p
+i p
+i p
+p
+D
+a
+d
+UT
+=
+•
+•
+ 
+Where: 
+𝐷𝐷𝑖𝑖,𝑝𝑝 = overall reduction of chemical i emissions from production process p, fraction 
+𝑎𝑎𝑖𝑖,𝑝𝑝  = fraction of chemical i volume fed into production process p with emission control technologies 
+(site-specific), fraction 
+𝑑𝑑𝑖𝑖,𝑝𝑝  = Destruction Removal Efficiency (DRE) for chemical i and production process p, fraction 
+𝑈𝑈𝑈𝑈𝑝𝑝 = average uptime of all abatement systems connected to tools using production process p, fraction, 
+calculated per Equation 1Ap.9 
+ 
+Volume 3: Industrial Processes and Product Use 
+Ap1.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+EQUATION 1AP.9 
+UPTIME OF EMISSION CONTROL SYSTEMS 
+ 
+,
+,
+1
+n
+n p
+p
+n
+n p
+Td
+UT
+UT
+= − ∑
+∑
+ 
+Where: 
+𝑈𝑈𝑈𝑈𝑝𝑝  
+= average uptime factor of all abatement systems connected to process tools running production 
+process p, fraction 
+𝑈𝑈𝑑𝑑𝑛𝑛,𝑝𝑝  = The total time, in minutes, that abatement system n connected to process tool(s) running 
+production process p in the plant, is not in operational mode when at least one of the 
+manufacturing tools connected to abatement system n is in operation 
+𝑈𝑈𝑈𝑈𝑛𝑛,𝑝𝑝  = total time, in minutes per year, in which abatement system n has at least one associated 
+manufacturing tool running production process p in operation. UT may be set to 1 if suitable 
+backup abatement or interlocking with the process tool is implemented for each abatement 
+system5 
+n  
+= abatement system 
+ 
+TIER 3 METHOD FOR PLASMA TREATMENT PROCESSES – SITE-
+SPECIFIC PARAMETERS 
+The Tier 3 method uses the same set of equations (equations 1Ap.6 to 1Ap.9) as the Tier 2b method. However, 
+when using the Tier 3 method, inventory compilers need to interpret ‘p’ in these equations as a specific 
+production process using a specific ‘recipe’. A recipe corresponds to a particular combination of input gases 
+under specific conditions of process duration, temperature, pressure, flow, plasma power, class or product, and 
+other relevant process parameters adjusted to achieve a particular result (i.e. water or stain resistance, increased 
+mechanical strength, etching medical polyamide, etc.) on a specific process reactor. It is very important to note 
+that emission factors such as input gas utilisation efficiencies and by-product formation rates can be strongly 
+affected by changes in process parameters (duration, temperature, pressure, flow, plasma power, reactor design, 
+etc.). 
+When using the Tier 3 method, the (1-U) and BPE emission factors in Equations 1.Ap.6 and 1.Ap.7 should be 
+measured for specific processes recipes. However, a centreline process recipe may be used to establish Tier 3 
+emission factors for sets of ‘similar’ recipes. Recipes can be deemed ‘similar’ when the centreline process can 
+reasonably be deemed representative of facility-specific process conditions, of the potential variability of such 
+process conditions around the centreline process during normal manufacturing operations, and when the process 
+type (plasma treatment, plasma etching, and plasma polymerization), product, process tool, and input process 
+gases are the same. When using the concept of ‘similarity’, inventory compilers should be able to reasonably 
+demonstrate that emissions estimates are not biased (i.e. systematically over- or under-estimated) when using 
+centreline process recipe(s) emission factors.  
+Once default Tier 2a or Tier 2b emission factors will be developed, the Tier 3 method should be used by 
+manufacturing plants whose processes and recipes depart significantly from industry-wide patterns of use (e.g. 
+for facilities using an input chemical primarily in plasma etching while others primarily use it in plasma 
+polymerization), or by manufacturing plants that may have developed specific processes whose characteristics 
+may result in a significantly lower or higher utilization of input chemicals or formation of byproducts. Further, if 
+                                                           
+ 
+5 For determining the amount of tool operating time, you may assume that tools that were installed for the whole of the year 
+were operated for 525,600 minutes per year. For tools that were installed or uninstalled during the year, you should prorate 
+the operating time to account for the days in which the tool was not installed; treat any partial day that a tool was installed 
+as a full day (1,440 minutes) of tool operation. For an abatement system that has more than one connected tool, the tool 
+operating time is 525,600 minutes per year if at least one tool was installed at all times throughout the year. If you have 
+tools that are idle with no gas flow through the tool for part of the year, you may calculate total tool time using the actual 
+time that gas is flowing through the tool.  
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.13 
+ 
+default Tier 2 emission factors are not available for a particular process or input chemical, manufacturing 
+facilities should measure their site-specific emission factors and use the Tier 3 method. 
+It should also be noted that Tier 3 emission factors could be combined with Tier 2a or 2b default emission 
+factors (once available) to use a hybrid method. A hybrid method would involve applying the Tier 2 defaults to 
+processes and technologies that have not changed while applying Tier 3a, site-specific emission factors to 
+processes and technologies that have changed. Indeed, higher accuracy might be achieved by using the Tier 3 
+method for specific input chemicals or site-specific processes. However, inventory compilers should not 
+combine the Tier 1 method with any other method. 
+The Tier 3 method is not outlined further in this Appendix, but inventory compilers should refer to the Box 
+1Ap.1 on specific technologies for the measurement of FC emissions in order to develop facility- or country-
+specific emission factors as a resource for implementing the Tier 3 method. Also, measurement methods 
+developed for the electronics industry could be used as a basis for measuring emission factors from plasma-
+based finishing processes in the textile, carpet, leather, and paper industries (Benaway et al. 2014). 
+ 
+BOX 1AP.1 
+ANALYTICAL METHODS FOR MEASURING FC EMISSIONS  
+Fourier transform infrared spectroscopy (FTIR) is the currently preferred option due to part per 
+billion (ppb) sensitivity, portability, ability to enable near-real-time measurements, reprocess 
+historical data, and provide multi-component analysis and resistance to magnetic fields. However, 
+FTIRs are generally considered to be higher-cost systems, requiring significant upkeep during 
+sampling campaigns. Depending on the absorptivity and concentration of the FC gases to be 
+detected, FTIR gas cells with long path lengths (meters) might be required to reach suitable 
+detection levels (Espinoza-Nava et al. 2016). 
+Gas chromatography followed by mass spectrometry (GC/MS) can provide a near real time 
+measurement of FC, as well as several other gas sample components if desired. The instrument 
+must be calibrated in place, prior to the start of FC monitoring. If GC/MS measurement is not 
+possible on a continuous basis this technology allows for sample collection that can be transported 
+to a laboratory for analysis, directly in sample bags or by desorbing components after time average 
+sampling onto sorbent columns. Using samples in bags or metal canisters, detection limits of 0.05 
+ppmv and 0.04 ppmv for CF4 and C2F6, respectively, can be achieved. Using the sorbent columns 
+detection limits of 9 ppbv for CF4 and 0.6 ppbv for C2F6 have been validated (EPA & IAI 2008). 
+Detection limits can be improved with modification of desorption parameters if desired. Method 
+Detection Limit (MDL) from 0.001 to 3.5 pg.m-3 were reported for indoor and outdoor 
+determination of several volatile perfluorinated compounds with the use of high volume samples 
+and efficient enrichment steps (Trojanowicz & Koc 2013). 
+ 
+1A.2.1.2  WET TREATMENT PROCESSES 
+Table 1Ap.4 depicts the information sources necessary for completing the tiered methods for estimating 
+emissions from wet-based treatment of textiles, carpet, leather, and paper. This information is preliminary and 
+likely to evolve, as the definitions of the various methods are refined. At the time of writing of this Second Order 
+Draft, no information about emission factors could be obtained for wet-based treatments from the textile, carpet, 
+leather, or paper industries to derive default emission factors for the Tier 1, Tier 2a, or Tier 2b methods. Thus, 
+currently, the only practicable means to estimate emissions from this sector is the use of the Tier 3 method. 
+Nevertheless, when a statistically-significant number of representative experimental emission factors become 
+available, preliminary recommendations are provided for estimating default emission factors and for choosing 
+the most appropriate Tier 1, Tier 2a, or Tier 2b methods.  
+Depending on the method used, data based on production capacity (Tier 1), or data about input chemicals 
+consumption, use rate, by-products formation rates, and the effectiveness of emissions control measures (Tier 2a, 
+2b, 3) will be required for the calculation of emissions. For each variable, depending on the method, an industry 
+default value (D) may be used, modelled (Mo), or measured (Me) to account for site-specific values. As 
+mentioned earlier, emissions of greenhouse gases from wet treatment processes may result from evaporative 
+losses of the input liquid chemicals and from the formation of volatile fluorinated compounds through chemical 
+reactions during the processes, all of which can be considered volatile by-product emissions resulting from the 
+use of the liquid input chemicals. Thus, unlike for plasma-based processes, the equations for the Tier 2a, 2b and 
+Volume 3: Industrial Processes and Product Use 
+Ap1.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Tier 3 methods for wet treatment processes do not take into account the utilization efficiency of the input liquid 
+chemicals – most of which remain on the substrate as a coating (in a solid state), and only volatile by-product 
+emission factors are necessary to account for all emissions (EVi and Bk,i for the Tier 2a and EVi,p and Bk,i,p for the 
+Tier 2b and Tier 3 methods). Also, the equations for wet treatment processes do not include a heel factor 
+(fraction of gas remaining in the shipping container in the methods used for plasma-based processes). The 
+emission factors for textile industry will be calculated for the emission potential of auxiliaries to the produced 
+amount of textile in kg.6 
+While continuous (in-situ) emissions monitoring may be technically feasible, it is unclear whether such approach 
+could be an economically viable method to estimate emissions from the textile, carpet, leather, or paper industry. 
+One alternate approach would be to measure emission factors during the development of new wet-based 
+processes when parameters such as coating velocity, liquid ratio, processing time, curing and dying 
+temperatures, etc. are adjusted for particular treatment needs or for a particular product. Please see Box 1Ap.1 
+for guidance on the analytical methods than can be used for measuring emission factors.  
+Another approach would be for facilities to periodically (for short periods of time) install equipment to measure 
+emissions from their stacks for purposes of developing facility-specific emission factors to estimate emissions 
+over the long term. It is very important to note that emission factors (i.e. input liquid utilization efficiencies and 
+by-product formation rates) can be strongly affected by changes in process variables (e.g. type of textile 
+substrate material, curing temperature, liquid ratio, used chemical, processing time, etc.) and by the design of the 
+process equipment. Thus, emission factors can substantially fluctuate from one tool manufacturer to another and 
+for a recipe ‘tuned’ for a particular purpose or product. 
+ 
+ 
+                                                           
+ 
+6 Textile auxiliaries are defined as chemicals of formulated chemical products which enable a processing operation in 
+preparation, dyeing, printing or finishing to be carried out more effectively or which is essential if a given effect is to be 
+obtained. 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.15 
+ 
+ 
+TABLE 1AP.4 
+INFORMATION SOURCES NECESSARY FOR COMPLETING THE TIERED EMISSIONS ESTIMATING METHODS FOR WET-BASED 
+TREATMENT OF TEXTILE, CARPET, LEATHER, AND PAPER 
+Data 
+Tier 1 
+Tier 2 
+Tier 3 
+2a 
+2b 
+Consumption of liquid input  
+chemicals 
+Ci = liquor concentration for input chemical i 
+(fraction, kg of input chemical i per kg of liquor).  
+ 
+Me/Mo 
+ 
+ 
+LPi  = liquor pick-up for input chemical i (fraction, 
+kg of liquor containing input chemical i per kg of 
+textile substrate). 
+ 
+Me/Mo 
+ 
+ 
+Ci,p= liquor concentration for input chemical i and 
+process p, (fraction, kg of input chemical i per kg 
+of liquor for process p). 
+ 
+ 
+Me/Mo 
+Me/Mo 
+LPi,p = liquor pick-up for input chemical i and 
+process p, (fraction, kg of input chemical i per kg 
+of liquor for process p). 
+ 
+ 
+Me/Mo 
+Me/Mo 
+Formation of volatile by-
+products 
+Bk,i, = substance emission factor for volatile by-
+product k for input chemical i (fraction, kg of 
+volatile by-product formed per kg of input 
+chemical consumed) 
+ 
+D 
+ 
+ 
+Bk,i,p = substance emission factor for volatile by-
+product k for input chemical i and process p 
+(fraction, kg of volatile by-product formed per kg 
+of input chemical consumed for process p) 
+ 
+ 
+Da 
+Mea 
+Downstream FC Emission Control 
+ak, = fraction of by-product k produced in processes 
+with certified FC emission control technology 
+ 
+Me 
+ 
+ 
+ak,p, = fraction of by-product k produced from 
+processes p with certified FC emission control 
+technology 
+ 
+ 
+Mea 
+Mea 
+dk = Destruction Removal Efficiency (DRE) for by-
+product k (per cent) 
+ 
+D/Me 
+ 
+ 
+dk.p = Destruction Removal Efficiency (DRE) for 
+by-product k for process p (%) 
+ 
+ 
+D/Mea 
+D/Mea 
+UT = Average uptime factor of all abatement 
+systems connected to process tools 
+ 
+Me 
+ 
+ 
+UTp = Average uptime factor of all abatement 
+systems connected to process tools running process 
+type p 
+ 
+ 
+Mea 
+Mea 
+Annual Production  
+Capacity 
+EFk = emission factor for volatile by-product k (kg 
+of volatile by-product formed per kg of substrate 
+produced) 
+D 
+ 
+ 
+ 
+Cu = fraction of annual plant production capacity 
+utilization 
+Me 
+ 
+ 
+ 
+Cd = annual manufacturing design capacity (kg of 
+substrate processed) 
+ 
+Me 
+ 
+ 
+ 
+Me = measurement; Mo = model {modelling criteria TBD}; D = Use default factors from guidance. 
+a {For the Tier 2b method ‘p’ is to be interpreted as a wet process type and/or a substrate type (see further discussion below)}. For the 
+Tier 3 ‘p’ is to be interpreted as a site-specific process. 
+ 
+Volume 3: Industrial Processes and Product Use 
+Ap1.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TIER 1 METHOD FOR WET PROCESSES – DEFAULT 
+The Tier 1 method is the least accurate estimation method and should be used only in cases where site-specific 
+data on the consumption of input chemicals are not available. The Tier 1 method, unlike the Tier 2a, 2b or Tier 3 
+methods, is designed to give an aggregated estimate of FC emissions although its methodology appears to 
+produce gas-specific emissions. As envisioned, Tier 1 estimates would be made simultaneously for all (or for the 
+most important) gases listed in Tables 1Ap.1 and 1Ap.2 and can only be used if reported as a complete set.  
+As proposed, the Tier 1 calculation relies on a fixed set of generic emissions factors and does not account for 
+differences among process and substrate types, individual processes or manufacturing tools. However, the 
+members of the set would likely differ depending on the surface area of textile, carpet, leather, or paper products 
+being manufactured. Each member of a set, which is a gas-specific emission factor, would express average 
+emissions per unit of substrate area (textile, carpet, leather, paper) produced during manufacture.  
+For any class of product, the factors (members of the set) are multiplied by the annual capacity utilization (Cu, a 
+fraction) and the annual manufacturing design capacity (Cd, in kg) of substrate processes. The product (Cu • Cd) 
+is an estimate of the quantity of substrate produced during the manufacture of textile, carpet, leather, or paper. 
+The result is a set of annual emissions expressed in kg of the volatile by-products that comprise the set for each 
+class of products. The Tier 1 formula is shown in Equation 1Ap.10. 
+In using Tier 1, inventory compilers should not modify, in any way, the set of the FC assumed to represent 
+average emissions. Further, as is common practice for IPCC methods, the Tier 1 method does not allow to account 
+for the use of emissions control technologies, and inventory compilers should not combine emissions estimated 
+using Tier 1 method with emissions estimated using the Tier 2 or 3 methods. Neither may inventory compilers 
+use, for example, the Tier 1 factor for 1,1,2,2-Tetrafluoroethyl methyl ether to estimate the emissions of 1,1,2,2-
+Tetrafluoroethyl methyl ether from pad-dry-cure textiles and combine it with the results of other FC gases from a 
+Tier 2 or Tier 3 method. The formula used to calculate Tier 1 emissions is shown in Equation 1Ap.10. 
+ 
+EQUATION 1AP.10 
+TIER 1 METHOD FOR ESTIMATION OF THE SET OF FC EMISSIONS 
+ 
+{
+}
+{
+}
+(
+1,..., )
+k
+k
+u
+d
+n
+n
+FC
+EF
+C
+C
+k
+n
+=
+•
+•
+=
+ 
+Where: 
+{𝐹𝐹𝐹𝐹𝑘𝑘}𝑛𝑛 = emissions of FC volatile by-product k (kg)  
+Note: { }n denotes the set for each class of products (e.g. textile, carpet, leather, or paper) and n denotes 
+the number of volatile by-products included in each set (see Tables 1Ap.1 and 1Ap.2) The estimates 
+are only valid if made and reported for all members of the set using this Tier 1 methodology 
+𝐸𝐸𝐹𝐹𝑘𝑘   
+= FC emission factor for volatile by-product k expressed as annual mass of emissions per mass of 
+substrate for the product class (mass of volatile by-product k emitted, in kg/kg) 
+𝐹𝐹𝑢𝑢  
+= fraction of annual plant production capacity utilization, fraction 
+𝐹𝐹𝑑𝑑  
+= annual manufacturing design capacity, kg of substrate processed 
+ 
+TIER 2A METHOD FOR WET TREATMENT PROCESSES – PROCESS 
+CHEMICAL-SPECIFIC PARAMETERS 
+The Tier 2a method uses industry-wide default values for the ratio of the mass of chemical i evaporated divided 
+by the mass of chemical i used (EVi), the mass fraction of volatile by-product k formed from the use of liquid 
+input chemical i (Bk,i), the liquor concentration (Ci), the liquor pick-up (Li), the fraction of input chemical i used 
+in the wet-based manufacturing process (Di) and the fraction of  FC by-products k destroyed by the emissions 
+control technology (Dk). The Tier 2a method also calculates emissions for each input chemical used on the basis 
+of site-specific data on chemicals consumption and emissions control technologies. Thus, to use the Tier 2a 
+method, inventory compilers must have direct communication with industry (e.g., annual emissions reporting) to 
+gather consumption data and ensure that emission control technologies are installed and used in accordance with 
+the guidelines provided in this document. Unlike the Tier 2b and Tier 3 methods that are explained later in this 
+section, the Tier 2a method does not distinguish between process or substrate types, or site-specific processes. 
+However, the Tier 2a default emission factors are formed separately for each input chemical, which, unlike the 
+Tier 1 method, allows to account for the actual mix of input chemicals used at a particular site. Total Tier 2a 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.17 
+ 
+emissions are equal to the sum of emissions from evaporative losses of unreacted fluorinated chemicals i in the 
+production process (Ei) plus emissions of all by-products k (BPEk) resulting from the conversion of all input 
+chemicals i used during production, as calculated using equations 1Ap.11, and 1Ap.12 below.  
+ 
+EQUATION 1AP.11 
+TIER 2A ESTIMATION OF EMISSIONS OF UNREACTED INPUT CHEMICALS 
+ 
+(1
+)
+i
+i
+i
+i
+i
+E
+C
+LP
+EV
+D
+=
+•
+•
+•
+−
+ 
+Where: 
+𝐸𝐸𝑖𝑖  = emissions of unreacted input chemical i through evaporative losses, kg 
+𝐹𝐹𝑖𝑖  = liquor concentration, kg of input chemical i per kg of liquor  
+𝐿𝐿𝐵𝐵𝑖𝑖 = liquor pick-up, kg of liquor containing input chemical i per kg of textile substrate  
+𝐸𝐸𝐸𝐸𝑖𝑖 = ratio of the mass of chemical i evaporated divided by the mass of chemical i used 
+𝐷𝐷𝑖𝑖  = overall reduction of chemical i, fraction, calculated per equation 1Ap.13 (replacing 'k' indices by 'i' 
+indices). 
+ 
+EQUATION 1AP.12 
+TIER 2A ESTIMATION OF BY-PRODUCT EMISSIONS 
+ 
+,
+(1
+)
+k
+i
+k i
+i
+i
+k
+BRE
+B
+C
+LP
+D
+=
+•
+•
+•
+−
+∑
+ 
+Where: 
+𝐵𝐵𝐵𝐵𝐸𝐸𝑘𝑘 = textile-based emissions of volatile by-product k generated from the conversion of all input 
+chemicals i per mass of textile substrate, kg/kg 
+𝐵𝐵𝑘𝑘,𝑖𝑖  = substance emission factor, kg of volatile by-product k created per kg of input chemical i 
+consumed 
+𝐹𝐹𝑖𝑖  
+= liquor concentration, kg of input chemical i per kg of liquor 
+𝐿𝐿𝐵𝐵𝑖𝑖  = liquor pick-up, kg of liquor containing input chemical i per kg of textile substrate 
+𝐷𝐷𝑘𝑘= overall reduction of by-product k emissions, fraction, calculated per equation 1AP.13 
+ 
+EQUATION 1AP.13 
+EMISSIONS REDUCTION IMPACT OF EMISSIONS CONTROL TECHNOLOGY 
+ 
+k
+k
+k
+D
+a
+d
+UT
+=
+•
+•
+ 
+Where: 
+𝐷𝐷𝑘𝑘  = overall reduction of volatile by-product k emissions, fraction 
+𝑎𝑎𝑘𝑘   = fraction of by-product k produced from processes with emission control technologies (site-specific), 
+fraction 
+𝑑𝑑𝑘𝑘  = Destruction Removal Efficiency (DRE) for by-product k, fraction 
+𝑈𝑈𝑈𝑈  = average uptime of all abatement systems, fraction, calculated per Equation 1AP.14 
+ 
+Volume 3: Industrial Processes and Product Use 
+Ap1.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+EQUATION 1AP.14 
+UPTIME OF EMISSION CONTROL SYSTEM 
+ 
+ 
+1
+n
+n
+n
+n
+Td
+UT
+UT
+= − ∑
+∑
+ 
+Where: 
+𝑈𝑈𝑈𝑈  = average uptime factor of all abatement systems connected to process tools, fraction 
+𝑈𝑈𝑑𝑑𝑛𝑛  = The total time, in minutes, that abatement system n connected to process tool(s) in the plant, is not 
+in operational mode when at least one of the manufacturing tools connected to abatement system n is 
+in operation 
+𝑈𝑈𝑈𝑈𝑛𝑛  = total time, in minutes per year, in which abatement system n has at least one associated 
+manufacturing tool in operation. UT may be set to 1 if suitable backup abatement or interlocking 
+with the process tool is implemented for each abatement system.7 
+n  
+= abatement system 
+ 
+TIER 2B METHOD FOR WET PROCESSES – PROCESS / SUBSTRATE 
+SPECIFIC PARAMETERS 
+The Tier 2b method is similar to the Tier 2a approach in the sense that it is based on chemical-specific default 
+emission factors, but the Tier 2b factors also account for the types of wet processes and/or classes of products. 
+For the definition of ‘p’ compilers should refer to Box 1AP.2 Thus, the Tier 2b approach is expected to be more 
+accurate than the Tier 2a one because the Tier 2b method reflects the type of processes used or products made in 
+a particular manufacturing facility. Also, the Tier 2b method allows to account for the trend where some 
+chemicals tend to be used predominantly in particular process types or products manufactured. The Tier 2b 
+method uses industry-wide default values for the ratio of the mass of chemical i evaporated divided by the mass 
+of chemical i used during process type or product type p (EVi,p), the for the mass fraction of volatile FC by-
+product k formed from the use of input chemical i per mass of substrate in process type or product type p (Bk,i,p), 
+the liquor concentration (Ci,p) for substrate in process type or product type p, the liquor pick-up (Li,p) for 
+substrate in process type or for product type p, the fraction of input chemical i used in the wet-based 
+manufacturing process using process type or product type p and the fraction of chemical i evaporated or FC by-
+products k destroyed by the emissions control technology connected to tools using process type or product type p 
+(Di,p and Dk,p). 
+ 
+                                                           
+ 
+7 For determining the amount of tool operating time, you may assume that tools that were installed for the whole of the year 
+were operated for 525,600 minutes per year. For tools that were installed or uninstalled during the year, you should prorate 
+the operating time to account for the days in which the tool was not installed; treat any partial day that a tool was installed 
+as a full day (1,440 minutes) of tool operation. For an abatement system that has more than one connected tool, the tool 
+operating time is 525,600 minutes per year if at least one tool was installed at all times throughout the year. If you have 
+tools that are idle with no gas flow through the tool for part of the year, you may calculate total tool time using the actual 
+time that gas is flowing through the tool. 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.19 
+ 
+BOX 1AP.2 
+APPROACHES FOR DERIVING THE TIER 2B EMISSION FACTORS AND DEFINING ‘P’  
+Two approaches are proposed. A first approach would be to provide separate Tier 2b emission 
+factors depending on the actual wet treatment method used in the process. In this case, default EFs 
+would be provided for process types such as wet finishing (e.g. pad-dry-cure and exhaust 
+applications), low wet pickup finish applications (e.g. vacuum extraction and kiss roll), spray 
+application, foam finishing, coating, and lamination.  
+Another approach would be to provide separate Tier 2b emission factors based on the type of 
+product manufactured. In this case, default EFs would be provided for substrate types such as 
+cellulosic and regenerated cellulosic textiles (cotton, viscose, rayon, etc.), synthetic polymers for 
+textile (polyamides, polyesters, polypropylenes, polyurethane), lignocellulosic (flax, jute, sisal, 
+etc.), protein-based textiles (wool, silk), leather, paper and paperboard, and technical textile 
+polymers.  
+The information currently available is insufficient to determine which of the two approaches above 
+(or a combination thereof) might be most suitable, or if separate methods should be provided to 
+distinguish EFs by process type (a separate Tier 2b method) and by product type (an additional 
+Tier 2c method). Further discussion is required on this point, and an analysis of how emission 
+factors may be grouped based on different treatment process conditions (temperature, timing, type 
+of chemicals used, etc.) should be conducted. Nevertheless, the Tier 2b methodological framework 
+proposed here could be adapted to the (to be determined) best approach. 
+ 
+Although the Tier 2b method is preferred over the Tier 2a method because process-type-specific or product-type-
+specific emission factors are more accurate, it should be noted that the Tier 2b method presents increased 
+complexity because the consumption of input chemicals must be allocated to each process or product type p. 
+Thus, in the case where the consumption of input chemicals cannot directly be measured for each process type or 
+product type p, a chemical consumption allocation model must be devised for applying the method, 8 and 
+inventory compilers should consider the trade-off of using more accurate process-specific or product-specific 
+emission factors versus introducing errors in the Tier 2b estimate, due to uncertainties in the allocation model. 
+Total Tier 2b emissions are equal to the sum of emissions from evaporative losses of unreacted fluorinated 
+chemicals i used in all production processes p (Ei) plus emissions of all by-products k (BPEk) resulting from the 
+conversion of all input chemicals i used during the production of process types or substrate types p, as calculated 
+using equations 1Ap.15, and 1Ap.16 below.  
+ 
+EQUATION 1AP.15 
+TIER 2B ESTIMATION OF EMISSIONS OF UNREACTED INPUT CHEMICALS 
+ 
+,
+,
+,
+,
+(1
+)
+i
+p
+i p
+i p
+i p
+i p
+E
+C
+LP
+EV
+D
+
+
+=
+•
+•
+•
+−
+
+
+∑
+ 
+Where: 
+𝐸𝐸𝑖𝑖  
+= emissions of unreacted input chemical i through evaporative losses, kg 
+𝐹𝐹𝑖𝑖,𝑝𝑝  = liquor concentration, kg of input chemical i per kg of liquor for production process p 
+𝐿𝐿𝐵𝐵𝑖𝑖,𝑝𝑝 = liquor pick-up, kg of liquor containing input chemical i per kg of textile substrate for production 
+process p 
+𝐸𝐸𝐸𝐸𝑖𝑖,𝑝𝑝 = ratio of the mass of chemical i evaporated divided by the mass of chemical i used 
+𝐷𝐷𝑖𝑖,𝑝𝑝  = overall reduction of chemical i using production process p, fraction, calculated per equation 
+1AP.17 (replacing 'k' indices by 'i' indices) 
+                                                           
+ 
+8 For an example of how site-specific gas consumption allocation models can be developed, please see Chapter 6 Volume 3 
+of the 2019 Refinement. 
+Volume 3: Industrial Processes and Product Use 
+Ap1.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+EQUATION 1AP.16 
+TIER 2B ESTIMATION OF BY-PRODUCT EMISSIONS 
+ 
+,
+, ,
+,
+,
+,
+(1
+)
+k
+i p
+k i p
+i p
+i p
+k p
+BRE
+B
+C
+LP
+D
+
+
+=
+•
+•
+•
+−
+
+
+∑
+ 
+Where: 
+𝐵𝐵𝐵𝐵𝐸𝐸𝑘𝑘 = textile-based emissions of volatile by-product k generated from the conversion of all input 
+chemicals i per mass of textile substrate used for all production processes p, kg/kg 
+𝐵𝐵𝑘𝑘,𝑖𝑖,𝑝𝑝  = substance emission factor, kg of volatile by-product k created per kg of input chemical i 
+consumed used for production process p 
+𝐹𝐹𝑖𝑖,𝑝𝑝  = liquor concentration, kg of input chemical i per kg of liquor for production process p  
+𝐿𝐿𝐵𝐵𝑖𝑖,𝑝𝑝  = liquor pick-up, kg of liquor containing input chemical i per kg of textile substrate for production 
+process p 
+𝐷𝐷𝑘𝑘,𝑝𝑝  = overall reduction of volatile by-product k emissions from tools using production process p, 
+fraction, calculated per Equation 1Ap.17 
+EQUATION 1AP.17 
+EMISSIONS REDUCTION IMPACT OF EMISSIONS CONTROL TECHNOLOGY 
+ 
+,
+,
+,
+k p
+k p
+k p
+p
+D
+a
+d
+UT
+=
+•
+•
+ 
+Where: 
+𝐷𝐷𝑘𝑘,𝑝𝑝 = overall reduction of volatile by-product k emissions produced from production process p, fraction 
+𝑎𝑎𝑘𝑘,𝑝𝑝  = fraction of by-product k volume produced from production process p with emission control 
+technologies (site-specific), fraction 
+𝑑𝑑𝑘𝑘,𝑝𝑝  = Destruction Removal Efficiency (DRE) for by-product k and production process p, fraction 
+𝑈𝑈𝑈𝑈𝑝𝑝  = average uptime of all abatement systems connected to tools using production process p, fraction, 
+calculated per Equation 1Ap.18 
+ 
+EQUATION 1AP.18 
+UPTIME OF EMISSION CONTROL SYSTEMS 
+ 
+,
+,
+1
+n
+n p
+p
+n
+n p
+Td
+UT
+UT
+= − ∑
+∑
+ 
+Where: 
+𝑈𝑈𝑈𝑈𝑝𝑝  
+= average uptime factor of all abatement systems connected to process tools running production 
+process p, fraction 
+𝑈𝑈𝑑𝑑𝑛𝑛,𝑝𝑝  = The total time, in minutes, that abatement system n connected to process tool(s) running 
+production process p in the plant, is not in operational mode when at least one of the 
+manufacturing tools connected to abatement system n is in operation 
+𝑈𝑈𝑈𝑈𝑛𝑛,𝑝𝑝  = total time, in minutes per year, in which abatement system n has at least one associated 
+manufacturing tool running production process p in operation. UT may be set to 1 if suitable 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.21 
+ 
+backup abatement or interlocking with the process tool is implemented for each abatement 
+system9 
+n  
+= abatement system 
+ 
+TIER 3 METHOD FOR WET PROCESSES – SITE-SPECIFIC PARAMETERS 
+The Tier 3 method uses the same set of equations (equations 1Ap.15 to 1Ap.18) as the Tier 2b method. However, 
+when using the Tier 3 method, inventory compilers need to interpret ‘p’ in these equations as a specific 
+production process using a specific ‘recipe’. A recipe corresponds to a particular combination of input liquids 
+under specific conditions of process duration, temperature, type of substrate, and other relevant process 
+parameters adjusted to achieve a particular result (e.g. water or stain resistance). It is very important to note that 
+emission factors and by-product formation rates can be strongly affected by changes in process parameters 
+(temperature, flows and nature of input chemicals, processing time, etc.). 
+When using the Tier 3 method, BPE emission factors in Equation 1Ap.16 should be measured for specific 
+processes recipes. However, a centreline process recipe may be used to establish Tier 3 emission factors for sets 
+of ‘similar’ recipes. Recipes can be deemed ‘similar’ when the centreline process can reasonably be deemed 
+representative of facility-specific process conditions, of the potential variability of such process conditions 
+around the centreline process during normal manufacturing operations, and when the substrate, process type, 
+product, process tool, and input process gases are the same. When using the concept of ‘similarity’, inventory 
+compilers should be able to reasonably demonstrate that emissions estimates are not biased (i.e. systematically 
+over- or under-estimated) when using centreline process recipe(s) emission factors.  
+Once default Tier 2a or Tier 2b emission factors will be developed, the Tier 3 method should be used by 
+manufacturing plants whose processes and recipes depart significantly from industry-wide patterns of use, or by 
+manufacturing plants that may have developed specific processes whose characteristics may result in a 
+significantly lower or higher utilization of input chemicals or formation of by-products. Further, if default Tier 2 
+emission factors are not available for a particular process or input chemical, manufacturing facilities should 
+measure their site-specific emission factors and use the Tier 3 method. 
+It should also be noted that Tier 3 emission factors could be combined with Tier 2a or 2b default emission 
+factors (once available) to use a hybrid method. A hybrid method would involve applying the Tier 2 defaults to 
+processes and technologies that have not changed while applying Tier 3a, site-specific emission factors to 
+processes and technologies that have changed. Indeed, higher accuracy might be achieved by using the Tier 3 
+method for specific input chemicals or site-specific processes. However, inventory compilers should not 
+combine the Tier 1 method with any other method.  
+The Tier 3 method is not outlined further in this Appendix, but inventory compilers should refer to the Box 
+1.Ap.1 on specific technologies for the measurement of FC emissions in order to develop facility- or country-
+specific emission factors as a resource for implementing the Tier 3 method.  
+1A.3  Choice of emission factors  
+At the moment no representative FC emissions data can be obtained for textile, carpet, leather and paper 
+industries to derive the Tier 1 or Tier 2 default emission factors. Thus, the Tier 3 methods is the only practical 
+means to estimate emissions from this sector, where individual manufacturing sites will have to use measured 
+emission factors (equipment-specific, process-specific, or site-specific). In this case, applying the Tier 3 methods 
+and reporting emission factors across representative manufacturing sites will become essential in building a 
+database of emission factors that can later be used to derive the Tier 1 and Tier 2 emission factors. Countries are 
+encouraged to develop country-specific emission factors based on surveys of representative subsets of sources. 
+Countries are also encouraged to work with equipment manufacturers and users of such equipment to measure 
+                                                           
+ 
+9 For determining the amount of tool operating time, you may assume that tools that were installed for the whole of the year 
+were operated for 525,600 minutes per year. For tools that were installed or uninstalled during the year, you should prorate 
+the operating time to account for the days in which the tool was not installed; treat any partial day that a tool was installed 
+as a full day (1,440 minutes) of tool operation. For an abatement system that has more than one connected tool, the tool 
+operating time is 525,600 minutes per year if at least one tool was installed at all times throughout the year. If you have 
+tools that are idle with no gas flow through the tool for part of the year, you may calculate total tool time using the actual 
+time that gas is flowing through the tool. 
+Volume 3: Industrial Processes and Product Use 
+Ap1.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+equipment-specific, process-specific, or site-specific emission factors, with the aim of developing representative 
+default emission factors that could eventually be used for site-specific, domestic, or industry-wide inventories. It 
+is good practice to clearly and transparently document such emission factors. To support development of 
+representative default emission factors, inventory compilers are encouraged to submit measurements of emission 
+factors to the IPCC Emission Factor Database (EFDB). 
+ 
+1A.4  Choice of activity data 
+Activity data for the textile, carpet, leather and paper industries consist of data on gas or finishing agent 
+sales/purchases and/or production figures (surface area or kg of substrate used during the textile treatments). For 
+plasma and wet-based treatments the more data-intensive Tier 2 and Tier 3 methods, gas consumption and 
+finishing agent data at the company or plant-level are necessary. The preferred methodologies for data collection 
+are described in Box 1Ap.1. For Tiers 2 and 3, countries should create a national textile industry database with 
+relevant data or information on textile companies, types of production/treatment, annual production data, 
+consumption of chemicals and other relevant parameters. For the Tier 1 methods, inventory compilers will need 
+to determine the total surface area of textile substrates treated during the reporting year for plasma or the mass of 
+textile substrates treated for wet-based processes in the reporting year. The best sources of either gas/finishing 
+agent usage data or substrate area per kg data are the owners and operators of the textile manufacturing facilities 
+in each country. 
+1A.5  Reporting and Documentation 
+It is good practice to document and archive all information required to produce equipment-specific, process-
+specific or site-specific emission factors and national emission inventory estimates as outlined in Volume 1, 
+Section 6.11. The inventory should include summaries of methods used and references to source data such that 
+the reported emission estimates are transparent and steps in their calculation may be retraced. It is suggested that 
+any inventory value outside the 95 percent confidence range of the data population variance be confirmed with 
+the data source. Use of standard measurement methods improves the consistency of the resulting data and 
+knowledge of the statistical properties of the data. Large differences should be explained and documented. In 
+addition, the methods applied and references should be documented. It is good practice to conduct quality 
+control checks and quality assurance procedures as outlined in Volume 1, Chapter 6. Inventory compilers are 
+encouraged to use higher tier Quality assurance and quality control (QA/QC) for key categories as identified in 
+Volume 1, Chapter 4. Transparent reporting of emissions factors will be required to ensure that representative 
+default emission factors can be derived. Efforts to increase transparency should also take into account the 
+protection of confidential business information related to specific gases or finishing agents used. 
+ 
+ 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.23 
+ 
+References  
+References newly cited in the 2019 Refinement 
+Barber, J.L., Berger, U., Chaemfa, C., Huber, S., Jahnke, A., Temme, C., Jones, K.C. (2007) Analysis of per- 
+and polyfluorinated alkyl substances in air samples from Northwest Europe. Journal of Environmental 
+Monitoring 9: 530-541. 
+Benaway, B., Hall, S., Laush, C., Van Gompel, J., Ridgeway, R., Sherer, M., Beu, L. (2014) Guideline for 
+Environmental Characterization of Semiconductor 
+Choudhury, A.K.R. (2017) Principles of Textile Finishing. Cambrige, UK: Elsiever, Woodhead Publishing. 
+Davies, A. (2014) Durable Water Repellency - Study Phase I. In: Bonn, Germany: De Montfort University. 
+Davis, R., El-Shafei, A., Hauser, P. (2011) Use of atmospheric pressure plasma to confer durable water repellent 
+functionality and antimicrobial functionality on cotton/polyester blend. Surface and Coatings Technology 
+205: 4791-4797. 
+DEPA. (2013) Survey of PFOS, PFOA and other perfluoroalkyl and polyfluoroalkyl substances. In: Part of the 
+LOUS-review Environmental Project No. 1475, 2013, The Danish Environmental Protection Agency, 
+Copenhagen, Denmark. 
+DEPA. (2015) Polyfluoroalkyl substances (PFASs) in textiles for children. In: Survey of chemical substances in 
+consumer products No. 136, ed. TDEP Agency, Copenhagen, Denmark. 
+Dumoulin, R., Melo, S., Strong, K., Mabury,  S., Stock, N., Hurley, M., Misner, J., et al. (2005) Laboratory 
+measurements of the infrared absorption cross sections of fluorotelomer alcohols. In: European Geosciences 
+Union, p. 10257. Vienna, Austria: Geophysical Research Abstracts. 
+Ellis, D.A., Martin, J.W., De Silva, A.O., Mabury, S.A., Hurley, M.D., Sulbaek Andersen, M.P., Wallington, T.J. 
+(2004) Degradation of Fluorotelomer Alcohols:  A Likely Atmospheric Source of Perfluorinated Carboxylic 
+Acids. Environmental Science & Technology 38: 3316-3321. 
+Espinoza-Nava, L., Menegazzo, N., Dando, N.R., Geiser, P. (2016) QCL-Based Perfluorocarbon Emission 
+Monitoring. In: Light Metals 2016, ed. E Williams, pp. 541-544. Cham: Springer International Publishing. 
+European Commission. (2003) Reference Document on Best Available Techniques for the Textiles Industry. In: 
+BREF, ed. E Commission, European Commission, Joint Research Centre, Seville, Spain: Integrated Pollution 
+Prevention and Control (IPPC). 
+Fantke, P., Weber, R., Scheringer, M. (2015) From incremental to fundamental substitution in chemical 
+alternatives assessment. Sustainable Chemistry and Pharmacy 1: 1-8. 
+FOEN. (2009) Perfluorinated surfactants perfluorooctanesulfonate (PFOS) and perfluorooctanoic acid (PFOA). 
+In: Substance flow analysis for Switzerland, ed. FOftE FOEN, Bern, Switzerland. 
+Goswami, K.K.(2017) Advances in carpet manufacture. India: Woodhead Publishing. 
+Gotoh, K., Shohbuke, E., Ryu, G. (2017) Application of atmospheric pressure plasma polymerization for soil 
+guard finishing of textiles. Textile Research Journal 88: 1278-1289. 
+Gulrajani, M.L. (2013) Advances in the dyeing and finishing of technical textiles. Elsevier. 
+Harrad, S. (2001) Persistent Organic Pollutants. Southern Gate, UK: Wiley-Blackwell. 
+Hegemann, D. (2006) Plasma polymerization and its applications in textiles. Indian Journal of Fibre & Textile 
+Research 31: 99-115. 
+Heydebreck, F., Tang, J., Xie, Z., Ebinghaus, R. (2016) Emissions of Per- and Polyfluoroalkyl Substances in a 
+Textile Manufacturing Plant in China and Their Relevance for Workers’ Exposure. Environmental Science & 
+Technology 50: 10386-10396. 
+Hochart, F., De Jaeger, R., Levalois-Grützmacher, J. (2003) Graft-polymerization of a hydrophobic monomer 
+onto PAN textile by low-pressure plasma treatments. Surface and Coatings Technology 165: 201-210. 
+IPCC. (2006), 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 3: Industrial Processes 
+and Product Use, Chapter 6: Electronics Industry Emissions. Prepared by the National Greenhouse Gas 
+Inventories Programme, Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (eds). Published: 
+IGES, Japan. 
+Jafari, R., Asadollahi, S., Farzaneh, M. (2013) Applications of Plasma Technology in Development of 
+Superhydrophobic Surfaces. Plasma Chemistry and Plasma Processing 33: 177-200. 
+Volume 3: Industrial Processes and Product Use 
+Ap1.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Jahnke, A., Huber, S., Temme, C., Kylin, H., Berger, U. (2007) Development and application of a simplified 
+sampling method for volatile polyfluorinated alkyl substances in indoor and environmental air. Journal of 
+Chromatography A 1164: 1-9. 
+KEMI. (2014) Chemicals in textiles - Risks to human health and the environment. In: Report 6/14, ed. SC 
+Agency, Arkitektkopia, Stockholm. 
+Kwong, C.H., Ng, S.P., Kan, C.W., Molina, R. (2013) Parametric study of CF4-plasma on the hydrophobicity of 
+polyester synthetic leather. Fibers and Polymers 14: 1608-1613. 
+Lacasse, K., Baumann, W. (2004) Textile Chemicals: Environmental data and facts. Springer Science & 
+Business Media. 
+MoEU. (2012) BAT Guide for textile industry. In: Project TR-2008-IB-EN-03 Activity no: 2.1.4.b.3: Ministry of 
+Environment and Urbanism of Turkey (MoEU)  
+Morent, R., De Geyter, N., Verschuren, J., De Clerck, K., Kiekens, P., Leys, C. (2008) Non-thermal plasma 
+treatment of textiles. Surface and Coatings Technology 202: 3427-3449. 
+Muthu, S.S. (2016) Textiles and Clothing Sustainability. Singapore: Springer. 
+National Institutes of Health. PubChem. In: https://pubchem.ncbi.nlm.nih.gov/.   
+ 
+ 
+ 
+Information retrieved: Vapour Pressure values in mm Hg at 25ºC of the following 
+chemicals: Tetrafluoroethylene; Chlorotrifluoroethylene; Vinylidenefluoride; Vinylfluoride; Hexafluoroprop
+ene; Perfluorooctane sulfonic acid (PFOS); Perfluorobutane sulfonic acid (PFBS); Perfluorooctane sulfonyl 
+fluoride (POSF); Perfluorohexanoic acid (PFHxA) 
+Nielsen, C.J. (2012) PFOA Isomers, Salts and Precursors: Literature study and evaluation of physico-chemical 
+properties. In: Klif project no. 3012013, Oslo, Norway: CTCC, Department of Chemistry, University of Oslo. 
+OECD. (2004) Emission Scenario Document on Textile Finishing Industry - ENV/JM/MONO(2004)12. In: 
+OECD SERIES ON EMISSION SCENARIO DOCUMENTS, Paris, France: OCDE. 
+Prevedouros, K., Cousins, I.T., Buck, R.C., Korzeniowski, S.H. (2006) Sources, Fate and Transport of 
+Perfluorocarboxylates. Environmental Science & Technology 40: 32-44. 
+Raffaele-Addamo, A., Riccardi, C., Selli, E., Barni, R., Piselli, M., Poletti, G., Orsini, F., et al. (2003) 
+Characterization of plasma processing for polymers. Surface and Coatings Technology 174-175: 886-890. 
+Ramamoorthy, A., El-Shafei, A., Hauser, P. (2013) Plasma Induced Graft Polymerization of C6 Fluorocarbons 
+on Cotton Fabrics for Sustainable Finishing Applications. Plasma Processes and Polymers 10: 430-443. 
+Ricardo, A.E.A. (2015) Hydro-fluorocarbons (HFC) emissions from the textile manufacturing sector in the 
+United Kingdom (UK) from 1990 to 2015 (in 1,000 metric tons of CO2e*). In: Office for National Statistic 
+(UK). 
+Roshan, P. (2014) Functional finishes for textiles: improving comfort, performance and protection. cambrige, 
+UK: Woodhead Publishing. 
+Roth, J.R. (2001) Industrial Plasma Engineering: Volume 2 - Applications to Nonthermal Plasma Processing. 
+CRC press. 
+Ruan, T., Szostek, B., Folsom, P.W., Wolstenholme, B.W., Liu, R., Liu, J., Jiang, G., et al. (2013) Aerobic Soil 
+Biotransformation of 6:2 Fluorotelomer Iodide. Environmental Science & Technology 47: 11504-11511. 
+Saxena, S., Raja, A.S.M., Arputharaj, A. (2017) Challenges in Sustainable Wet Processing of Textiles. In: 
+Textiles and Clothing Sustainability, pp. 43-79. Singapore: Springer. 
+Schindler, B.J., Buchanan, J.H., Mahle, J.J., Peterson, G.W., Glover, T.G. (2013) Ambient Temperature Vapor 
+Pressure 
+and 
+Adsorption 
+Capacity 
+for 
+(Perfluorooctyl) 
+Ethylene, 
+3-(Perfluorobutyl)propanol, 
+Perfluorohexanoic Acid, Ethyl Perfluorooctanoate, and Perfluoro-3,6-dioxaheptanoic Acid. Journal of 
+Chemical & Engineering Data 58: 1806-1812. 
+Schindler, W.D., Hauser, P.J. (2004) Chemical finishing of textiles. Elsevier. 
+Schönberger, H., Schäfer, Y.. (2003) Best Available Techniques in Textile Industry -  200 94 329 UBA-FB 
+000325/e. In: TEXTE series, ed. NCANS Environmental Research Of The Federal Ministry Of The 
+Environment, Federal Environmental Agency, Berlin, Germany. 
+SEMATECH (2014) Guideline for Environmental Characterization of Semiconductor Process Equipment – 
+Revision 3. In: SEMATECH Technology Transfer (#06124825C-ENG), Albany, NY, USA. 
+Shishoo, R. (2007) Plasma technologies for textiles. Cambrige, UK: Woodhead Publishing. 
+Appendix 1: Basis for Future Methodological Development  
+ 
+               
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.25 
+ 
+Sigurdsson, S., Shishoo, R. (1997) Surface properties of polymers treated with tetrafluoromethane plasma. 
+Journal of Applied Polymer Science 66: 1591-1601. 
+Singha, K. (2012) A review on coating & lamination in textiles: processes and applications. American Journal of 
+Polymer Science 2: 39-49. 
+Sparavigna, A. (2008) Plasma treatment advantages for textiles. arXiv preprint arXiv:0801.3727. 
+Tendero, C., Tixier, C., Tristant, P., Desmaison, J., Leprince, P. (2006) Atmospheric pressure plasmas: A review. 
+Spectrochimica Acta Part B: Atomic Spectroscopy 61: 2-30. 
+Trojanowicz, M., Koc, M. (2013) Recent developments in methods for analysis of perfluorinated persistent 
+pollutants. Microchimica Acta 180: 957-971. 
+UNEP. (2017) Guidance on best available techniques and best environmental practices for the use of 
+perfluorooctane sulfonic acid (PFOS) and related chemicals listed under the Stockholm Convention on 
+Persistent Organic Pollutants. In: ed. SotS Convention, Châtelaine, Switzerland. 
+UNIDO, UNITAR, UNEP. (2017) Guidance on best available techniques and best environmental practices for 
+the recycling and disposal of articles containing polybrominated diphenyl ethers (PBDEs) listed under the 
+Stockholm Convention on Persistent Organic Pollutants. In: United Nations Institute for Training and 
+Research (UNITAR), Geneva, Switzerland. 
+US EPA. (1997) Profile of the Textile Industry - EPA 310-R-97-009. In: EPA Office of Compliance Sector 
+Notebook Project. 
+US EPA, IAI. (2008) Protocol for Measurement of Tetrafluoromethane (CF4) and Hexafluoroethane (C2F6) 
+Emissions from Primary Aluminum Production. In: U.S. Environmental Protection Agency’s (EPA), 
+Washington, D.C., USA and International Aluminium Institute (IAI), London, UK. 
+Vietro, N.D., Belforte, L., Lambertini, V., Placenza, B., Fracassi, F. (2015) Plasma Treatment for Preparing 
+Durable Water Repellent and Anti-Stain Synthetic Fabrics for Automotive Applications. Journal of Surface 
+Engineered Materials and Advanced Technology 05: 103-109. 
+Wang, Z.Y., DeWitt, J., Higgins, C.P., Cousins, I.T. (2017) A Never-Ending Story of Per- and Polyfluoroalkyl 
+Substances (PFASs)? Environmental Science & Technology 51: 2508-2518. 
+Williams, J.T. (2018) Waterproof and Water Repellent Textiles and Clothing. Cambrige, UK: Elsiever, 
+Woodhead Publishing. 
+Yim, J.H., Rodriguez-Santiago V, Williams AA, Gougousi T, Pappas DD, Hirvonen JK (2013) Atmospheric 
+pressure plasma enhanced chemical vapor deposition of hydrophobic coatings using fluorine-based liquid 
+precursors. Surface and Coatings Technology 234: 21-32. 
+Yip, J., Chan, K., Sin, K.M., Lau, K.S. (2002) Study of physico-chemical surface treatments on dyeing 
+properties of polyamides. Part 1: Effect of tetrafluoromethane low temperature plasma. Coloration 
+Technology 118: 26-30. 
+Young, C.J.L. (2010) Atmospheric Chemistry of Polyfluorinated Compounds: Long-lived Greenhouse Gases and 
+Sources of Perfluorinated Acids. University of Toronto. 
+Zille, A., Oliveira, F.R., Souto, A.P. (2015) Plasma Treatment in Textile Industry. Plasma Processes and 
+Polymers 12: 98-131. 
+ 

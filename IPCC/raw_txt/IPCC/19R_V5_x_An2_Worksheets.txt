@@ -1,0 +1,1883 @@
+ 
+Annex 2: Worksheets 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.1 
+ANNEX 2 
+WORKSHEETS 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+A2.2                              2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Contents 
+Annex 2: Worksheets 
+4D Wastewater Treatment and Discharge 
+Total Organically Degradable Material in Domestic Wastewater (Updated) ........................................... 2.3 
+Total Organics in Domestic Wastewater by Treatment Discharge Pathway or System (New) ................ 2.4 
+Organic Component Removed as Sludge from Aerobic Treatment Plants (New) ................................... 2.5 
+Organic Component Removed as Sludge from Septic Systems (New) .................................................... 2.6 
+Total Organics in Treated Domestic Wastewater Effluent (New) ............................................................ 2.7 
+CH4 Emission Factor for Domestic Wastewater ...................................................................................... 2.8 
+CH4 Emissions from Domestic Wastewater for Each Income Group and Treatment Discharge Pathway 
+(Updated) ................................................................................................................................................. 2.9 
+Total CH4 Emissions from Domestic Wastewater Treatment and Discharge (New) ............................. 2.10 
+Total Organic Degradable Material in Wastewater for each Industry Sector ......................................... 2.11 
+CH4 Emission Factor for Industrial Wastewater .................................................................................... 2.12 
+CH4 Emissions from Industrial Wastewater .......................................................................................... 2.13 
+Nitrogen in Domestic Wastewater (New) .............................................................................................. 2.14 
+Protein Consumed (New) ....................................................................................................................... 2.15 
+Nitrogen in Effluent from Domestic Wastewater (New) ........................................................................ 2.16 
+N2O Emissions from Domestic Wastewater Treatment Plants for each Income Group and Treatment 
+Discharge Pathway or System (New) ..................................................................................................... 2.17 
+N2O Emissions from Domestic Wastewater Effluent (New) ................................................................. 2.18 
+Nitrogen in Industrial Wastewater (New) .............................................................................................. 2.19 
+Nitrogen in Effluent from Industrial Wastewater (New) ........................................................................ 2.20 
+N2O Emissions from Industrial Wastewater Treatment Plants (New) ................................................... 2.21 
+N2O Emissions from Industrial Wastewater Effluent (New) ................................................................. 2.22 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.3 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+1 of 8 Estimation of Total Organically Degradable Material in Domestic Wastewater (Updated) 
+STEP 1 
+  
+A 
+B 
+C 
+Region or City 
+Population  
+Degradable organic component  
+Organically degradable material in 
+wastewater 
+(P) 
+(BOD) 
+(TOW) 
+cap 
+(kg BOD/cap/yr) 1 
+(kg BOD/yr) 
+  
+  
+  
+C = A x B 
+  
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Total 
+ 
+1 g BOD/cap/day x 0.001 x 365 = kg BOD/cap/yr 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+2 of 8 Estimation of Total Organics in Domestic Wastewater by Treatment Discharge Pathway or System (New) 
+STEP 1 
+ 
+  
+A 
+B 
+C 
+D 
+E 
+Type of 
+treatment  
+or discharge 
+pathway 
+Income 
+group 
+Organically 
+degradable material 
+in wastewater 
+Fraction of population 
+income group i in 
+inventory year 
+Degree of 
+utilization of 
+treatment/ 
+discharge pathway 
+or system, j, for 
+each income group 
+i 
+Correction factor 
+for industrial BOD 
+discharged in 
+sewers 
+Total organics in wastewater 
+by income group and 
+pathway 
+(TOW) 
+(Ui) 
+(Tij) 
+(Ij)1 
+(TOWij) 
+(kg BOD/yr) 
+(fraction) 
+(fraction) 
+ 
+(kg BOD/yr) 
+Sheet 1 of 8 
+  
+  
+ 
+E = A x B x C x D 
+ 
+ Rural 
+  
+  
+  
+ 
+ 
+ Urban high 
+income 
+  
+  
+  
+ 
+ 
+ Urban low 
+income 
+  
+  
+  
+ 
+ 
+ 
+ Rural 
+  
+  
+  
+ 
+ 
+ Urban high 
+income 
+  
+  
+  
+ 
+ 
+ Urban low 
+income 
+  
+  
+  
+ 
+ 
+ 
+ Rural 
+  
+  
+  
+ 
+ 
+ Urban high 
+income 
+  
+  
+  
+ 
+ 
+ Urban low 
+income 
+  
+  
+  
+ 
+ 
+Add as needed 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+1 Correction factor for additional industrial BOD discharged into sewers (for collected the default is 1.25, for uncollected the default is 1.00) (see page 6.22 of the 2019 Refinement). 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.5 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+3 of 8 Estimation of Organic Component Removed as Sludge from Aerobic Treatment Plants (New) 
+STEP 1A 
+  
+A 
+B 
+C 
+D 
+Type of treatment  
+or discharge 
+Amount of sludge removed 
+from wastewater treatment 
+Sludge factor1 
+Conversion factor of tonnes 
+into kg 
+Organic component 
+removed as sludge 
+(Smass) 
+(Krem) 
+1000 
+(Saerobic) 
+(tonnes sludge/yr) 
+(kg BOD/kg sludge) 
+  
+(kg BOD/yr) 
+  
+  
+  
+D = A x B x C 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Add as needed 
+  
+  
+  
+  
+Total 
+  
+1 See Table 6.6a for default values. 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+4 of 8 Estimation of Organic Component Removed as Sludge from Septic Systems 
+(New) 
+STEP 1A 
+  
+A 
+B 
+C 
+D 
+Type of treatment  
+or discharge 
+Total organics in 
+septic systems 
+Fraction of population 
+managing their septic 
+tank in compliance1 
+Faction of organics 
+removed in sludge2 
+Organic component 
+removed as sludge 
+(TOWseptic) 
+(F) 
+(0.5) 
+(Sseptic) 
+(kg BOD/yr) 
+(fraction) 
+(fraction) 
+(kg BOD/yr) 
+Sheet 2 of 8 
+  
+  
+D = A x B x C 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Add as needed 
+  
+  
+  
+  
+Total 
+  
+1 Default value is 0.5. 
+2 Default value is 0.5. 
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.7 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+5 of 8 Estimation of Total Organics in Treated Domestic Wastewater Effluent (New) 
+STEP 1B 
+  
+A 
+B 
+C 
+D 
+Type of treatment  
+or discharge 
+Organically 
+degradable material in 
+wastewater 
+Fraction of 
+wastewater treated 
+exclusively by each 
+wastewater treatment 
+type j1 
+Faction of organics 
+removed in sludge2 
+Total organics in 
+treated domestic 
+wastewater effluent 
+(TOW) 
+(Tj) 
+(TOWREM,j) 
+(TOWEFFtreat) 
+(kg BOD/yr) 
+(fraction) 
+(fraction) 
+(kg BOD/yr) 
+Sheet 1 of 8 
+  
+  
+D = A x B x (1 – C) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Add as needed 
+  
+  
+  
+  
+Total 
+  
+1 See Table 6.5. 
+2 See Table 6.6b. 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+6 of 8 Estimation of CH4 Emission Factor for Domestic Wastewater 
+STEP 2 
+  
+A 
+B 
+C 
+Type of treatment  
+or discharge 
+Maximum methane 
+producing capacity 
+Methane correction factor for 
+each treatment system 
+Emission factor 
+(Bo) 
+(MCFj) 
+(EFj) 
+(kg CH4/kgBOD) 
+  
+(kg CH4/kg BOD) 
+  
+  
+C = A x B 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Add as needed  
+  
+  
+  
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.9 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+7 of 8 Estimation of CH4 Emissions from Domestic Wastewater for Each Income Group and 
+Treatment Discharge Pathway (Updated) 
+STEP 3 
+  
+  
+A 
+B 
+C 
+D 
+E 
+Type of 
+treatment or 
+discharge 
+pathway 
+Income group 
+Total organics in 
+wastewater by 
+income group and 
+pathway 
+Sludge removed 
+Emission Factor 
+Methane 
+recovered and 
+flared 
+Net methane 
+emissions 
+(TOWj) 
+(Sj)1 
+(EFj) 
+(Rj) 
+(CH4) 
+(kg BOD/yr) 
+(kg BOD/yr) 
+(kg CH4/kg BOD) 
+(kg CH4/yr) 
+(kg CH4/yr) 
+Sheet 2 of 8 
+Sheet 3 and 4 of 8 
+Sheet 6 of 8 
+  
+E = [(A - B) x C - D] 
+ 
+ Rural 
+  
+  
+  
+  
+  
+ Urban high income 
+  
+  
+  
+  
+  
+ Urban low income 
+  
+  
+  
+  
+  
+ 
+ Rural 
+  
+  
+  
+  
+  
+ Urban high income 
+  
+  
+  
+  
+  
+ Urban low income 
+  
+  
+  
+  
+  
+ 
+ Rural 
+  
+  
+  
+  
+  
+ Urban high income 
+  
+  
+  
+  
+  
+ Urban low income 
+  
+  
+  
+  
+  
+Add as needed 
+ 
+ 
+ 
+ 
+ 
+ 
+Total  
+1 Default value is zero for systems other than centralized aerobic treatment systems or septic systems. 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+8 of 8 Estimation of Total CH4 Emissions from Domestic Wastewater Treatment and Discharge (New) 
+STEP 3 
+A 
+B 
+C 
+Total methane emissions 
+Conversion factor of kg into Gg  
+ 
+Total methane emissions 
+ (CH4)  
+10-6  
+(CH4) 
+(kg CH4/yr) 
+ 
+(Gg CH4/yr) 
+Sheet 7 of 8 
+ 
+C = A x B 
+  
+  
+  
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.11 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+1 of 3 Total Organic Degradable Material in Wastewater for each Industry Sector 
+STEP 1 
+  
+A 
+B 
+C 
+D 
+Industry Sectors 
+Total industry 
+product 
+Wastewater 
+generated 
+Chemical Oxygen 
+Demand 
+Total organic degradable material in 
+wastewater for each industry sector 
+(Pi) 
+(Wi) 
+(CODi) 
+(TOWi) 
+(t product/yr) 
+(m3/t product) 
+(kg COD/m3) 
+(kg COD/yr) 
+  
+  
+  
+D = A x B x C 
+Industrial sector 1 
+  
+  
+  
+  
+Industrial sector 2 
+  
+  
+  
+  
+Industrial sector 3 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+add as needed 
+  
+  
+  
+  
+Total   
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+2 of 3 Estimation of CH4 Emission Factor for Industrial Wastewater 
+STEP 2 
+  
+A 
+B 
+C 
+Type of treatment or 
+discharge 
+Maximum Methane 
+Producing Capacity 
+Methane Correction Factor for 
+the Treatment System 
+Emission Factor 
+(B0) 
+(MCFj) 
+(EFj) 
+(kg CH4/kg COD) 
+  
+(kg CH4/kg COD) 
+  
+  
+  
+C = A x B 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+add as needed 
+  
+  
+  
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.13 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+3 of 3 Estimation of CH4 Emissions from Industrial Wastewater 
+ 
+STEP 3 
+  
+  
+A 
+B 
+C 
+D 
+E 
+F 
+Industrial sector 
+Type of  
+treatment or 
+discharge  
+pathway 
+Total organic 
+degradable  
+material in 
+wastewater for  
+each industry 
+sector 
+Sludge  
+removed in 
+each industry 
+sector 
+Emission factor 
+for each 
+treatment 
+system 
+Recovered CH4 in 
+each industry 
+sector 
+Conversion factor 
+of kg into Gg 
+Net methane 
+emissions 
+  
+(TOWi) 
+(Si) 
+(EFi) 
+(R i) 
+ 
+(CH4) 
+  
+(kg COD/yr) 
+(kg COD/yr) 
+(kg CH4/kg 
+COD) 
+(kg CH4/yr) 
+10-6 
+(kg CH4/yr) 
+  
+  
+Sheet 1 of 3 
+  
+Sheet 2 of 3 
+  
+ 
+F = [[(A – B) x C] – D] 
+x E 
+Industrial sector 1 
+  
+  
+  
+  
+  
+ 
+  
+Industrial sector 2 
+  
+  
+  
+  
+  
+ 
+  
+Industrial sector 3 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+add as needed 
+  
+  
+  
+  
+  
+ 
+  
+Total   
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+1 of 5 Estimation of Nitrogen in Domestic Wastewater (New) 
+STEP 1 
+  
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+Type of treatment  
+or discharge 
+pathway 
+Population 
+served by the 
+treatment 
+pathway, j  
+Per capita 
+protein 
+consumption  
+Fraction of 
+nitrogen in 
+protein 
+Additional 
+nitrogen from 
+household 
+products1 
+Fraction of non-
+consumed 
+protein and 
+additional 
+nitrogen from 
+household 
+products 
+Fraction of 
+industrial and 
+commercial co-
+discharged 
+protein 
+Total nitrogen in domestic 
+wastewater (treated) by 
+treatment pathway 
+(Ptreatment) 
+(Protein) 
+(FNPR) 
+NHH 
+(FNON-CON) 
+(FIND-COM) 
+(TNDOM_j) 
+(people/year) 
+(kg/person/ 
+year) 
+(kg N/kg 
+protein) 
+(fraction) 
+(-) 
+(-) 
+(kg N/year) 
+  
+  
+  
+  
+ 
+  
+  
+G = (A x B x C x D x E x F) 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+ Add as needed 
+  
+  
+  
+ 
+  
+  
+  
+Total   
+1 Default value is 1.1. 
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.15 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+2 of 5 Estimation of Protein Consumed (New) 
+ STEP 1 
+A 
+B 
+C 
+Annual per capita protein supply Fraction of protein consumed 
+Protein consumed 
+(ProteinSUPPLY) 
+(FPC) 
+(Protein) 
+(kg protein/person/year) 
+(fraction) 
+(kg protein/person/year) 
+ 
+  
+C = (A x B) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Total 
+ 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+3 of 5 Estimation of Nitrogen in Effluent from Domestic Wastewater (New) 
+ STEP 1 
+  
+A 
+B 
+C 
+D 
+Type of treatment 
+or discharge 
+pathway 
+Total nitrogen in 
+domestic wastewater   
+Fraction of 
+wastewater treated 
+exclusively by each 
+wastewater treatment 
+type j 
+Fraction of total 
+wastewater nitrogen 
+removed during 
+wastewater 
+treatment per 
+treatment type j 
+Total nitrogen in effluent  
+(TNDOM) 
+(Tj) 
+(NREM,j) 
+(NEFFLUENT,DOM) 
+(kg N/year) 
+(fraction) 
+(-) 
+(kg N/year) 
+  
+Sheet 1 of 4 
+  
+  
+D = [A x (B x (1 - C))] 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Add as needed 
+  
+  
+  
+  
+Total   
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.17 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+4 of 5 Estimation of N2O Emissions from Domestic Wastewater Treatment Plants for each Income Group and 
+Treatment Discharge Pathway or System (New) 
+STEP 3 
+ 
+  
+A 
+B 
+C 
+D 
+E  
+F 
+Income 
+group 
+Type of 
+treatment or 
+discharge 
+pathway 
+Fraction of 
+population in 
+income group i 
+in inventory year 
+Degree of utilisation 
+of treatment/ 
+discharge pathway 
+or system, j, for 
+each income group, 
+i 
+Emission factor for 
+treatment/discharge 
+pathway or system, 
+j 
+Total nitrogen in 
+domestic 
+wastewater 
+(treated) 
+Conversion factor 
+of kg N2O-N into 
+kg N2O 
+N2O emissions from 
+domestic 
+wastewater treatment 
+plants in inventory 
+year 
+(Ui) 
+(Tij) 
+(EFj) 
+(TNDOM) 
+44/28 
+(N2O PlantsDOM) 
+(fraction) 
+(fraction) 
+(kg N2O-N/kg N) 
+(kg N/year) 
+  
+(kg N2O/yr) 
+  
+  
+  
+Sheet 1 of 4 
+  
+F = A x B x C x D x E 
+Rural 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Urban high 
+income 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Urban low 
+income 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Total   
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Domestic Wastewater Treatment and Discharge 
+Category Code 
+4D1 
+Sheet 
+5 of 5 Estimation of N2O Emissions from Domestic Wastewater Effluent (New) 
+STEP 4 
+  
+A 
+B 
+C  
+D 
+Type of treatment 
+or discharge 
+pathway 
+Nitrogen in effluent 
+(NEFFLUENT,DOM) 
+Emission factor 
+(EFEFFLUENT) 
+Conversion factor of 
+kg N2O-N into kg N2O 
+Total N2O emissions 
+(kg N/year) 
+(kg N2O-N/kg N) 
+44/28 
+(kg N2O/year) 
+Sheet 3 of 5 
+See Table 6.8a 
+(New) 
+  
+D = A x B x C 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Total   
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.19 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+1 of 4  Estimation of Nitrogen in Industrial Wastewater (New) 
+STEP 1 
+  
+A 
+B 
+C 
+D 
+Industry Sectors 
+Total industry 
+product 
+Wastewater 
+generated 
+Total nitrogen 
+Total nitrogen in industrial 
+wastewater (treated) 
+(Pi) 
+(Wi) 
+(TNi) 
+(TNINDi) 
+(tproduct/yr) 
+(m3/tproduct) 
+(kg N/m3) 
+(kg N/year) 
+  
+  
+  
+D = (A x B x C) 
+Industrial sector 1 
+  
+  
+  
+  
+Industrial sector 2 
+  
+  
+  
+  
+Industrial sector 3 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Add as needed 
+  
+  
+  
+  
+Total   
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+2 of 4 Estimation of Nitrogen in Effluent from Industrial Wastewater (New) 
+ STEP 1 
+  
+A 
+B 
+C 
+D 
+Type of treatment 
+or discharge 
+pathway 
+Total nitrogen 
+in industrial 
+wastewater   
+Fraction of 
+wastewater 
+treated 
+exclusively by 
+each wastewater 
+treatment type j 
+Fraction of total 
+wastewater nitrogen 
+removed during 
+wastewater 
+treatment per 
+treatment type j 
+Total nitrogen in effluent  
+(TNINDi) 
+(Tj) 
+(NREM,j) 
+(NEFFLUENT,IND) 
+(kg N/year) 
+(fraction) 
+(-) 
+(kg N/year) 
+  
+Sheet 1 of 4 
+  
+  
+D = [A x (B x (1 - C))] 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Add as needed 
+  
+  
+  
+  
+Total   
+ 
+ 
+ 
+Annex 2: Worksheets  
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A2.21 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+3 of 4 Estimation of N2O Emissions from Industrial Wastewater Treatment Plants (New) 
+STEP 3 
+  
+A 
+B 
+C 
+D 
+E 
+Type of treatment 
+Degree of utilisation of 
+treatment/discharge 
+pathway or system, j, 
+for each industry, i  
+Emission factor for 
+treatment/discharge 
+pathway or system, j 
+Nitrogen in wastewater 
+from industry, i 
+(treated) 
+Conversion factor of 
+kg N2O-N into kg N2O 
+N2O emissions from 
+industrial wastewater 
+treatment plants in 
+inventory year 
+  
+(Ti.j) 
+(EFj) 
+(TNINDi) 
+  
+(N2O PlantsIND) 
+  
+(fraction) 
+(kg N2O-N/kg N) 
+(kg N/year) 
+44/28 
+(kg N2O/year) 
+  
+  
+  
+Sheet 1 of 4 
+  
+E = (A x B x C x D) 
+Industrial sector 1 
+  
+  
+  
+  
+  
+Industrial sector 2 
+  
+  
+  
+  
+  
+Industrial sector 3 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Add as needed 
+  
+  
+  
+  
+  
+Total   
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+A2.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Waste 
+Category 
+Industrial Wastewater Treatment and Discharge 
+Category Code 
+4D2 
+Sheet 
+4 of 4 Estimation of N2O Emissions from Industrial Wastewater Effluent (New) 
+STEP 4 
+  
+A 
+B 
+C  
+D 
+Type of treatment 
+or discharge 
+pathway 
+Nitrogen in effluent  
+Emission factor 
+Conversion factor of 
+kg N2O-N into kg N2O 
+Total N2O emissions 
+from industrial 
+wastewater effluent 
+ 
+(NEFFLUENT,IND)  
+(kg N/year) 
+(EFEFFLUENT)  
+(kg N2O-N/kg N) 
+44/28 
+(N2OEffluentIND)  
+(kg N2O/year) 
+Sheet 2 of 4 
+See Table 6.8a 
+  
+D = A x B x C 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Add as needed 
+  
+  
+  
+  
+Total   
+ 

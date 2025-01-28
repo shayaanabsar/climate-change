@@ -1,0 +1,1142 @@
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+C H A P T E R  5
+L A N D - U S E  C H A N G E  &
+F O R E S T R Y
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.1
+5. LAND-USE CHANGE & FORESTRY
+5.1 
+Overview
+This chapter summarises methods for calculating greenhouse gas (GHG) emissions from
+human activities which:
+1.
+change the way land is used (e.g., clearing of forests for agricultural use, including
+open burning of cleared biomass), or
+2.
+affect the amount of biomass in existing biomass stocks (e.g., forests, village trees,
+woody savannas, etc.).
+The biosphere is a strong determinant of the chemical composition of the atmosphere.
+This has been true since the existence of the biosphere, and hence well before the
+presence of humans.  A rich variety of carbon, nitrogen, and sulphur gases are emitted
+and absorbed by the biosphere.  There is, however, strong evidence that the expanding
+human use and alteration of the biosphere for food, fuel and fibre is contributing to
+increasing atmospheric concentrations of GHGs.  The dominant gas of concern in this
+source category is carbon dioxide (CO2), and much of the methodology discussion in this
+chapter is specific to CO2.  Other important direct GHGs, including methane (CH4) and
+nitrous oxide (N2O), and indirect GHGs,1 including carbon monoxide (CO), oxides of
+nitrogen (NOx, i.e., NO and NO2), and non-methane volatile organic compounds
+(NMVOCs) are also produced from land-use change and forest management activities,
+particularly where burning is involved.  Non-methane volatile organic compounds are
+emitted in significant quantities from biomass burning.  These emissions could be
+estimated using the same approach provided for other non-CO2 gases.  However, the
+detailed methods and default information have not yet been developed and are not
+included in this version of the Guidelines.  This is an area to be considered in future
+improvements to the Guidelines.
+Estimates of CO2 emissions due to land-use change vary considerably because humans
+interact with the land in a myriad of ways.  Estimates vary due to uncertainties in annual
+forest clearing rates, the fate of the land that is cleared, the amounts of biomass (and
+hence carbon) contained in different ecosystems, the modes by which CO2 is released
+(e.g., burning or decay) and the carbon released when soils are disturbed.  The 1995
+IPCC Scientific Assessment (IPCC, 1996) estimated the average annual flux due to
+tropical deforestation for the decade 1980-1989 to be 1.6±1.0 Pg C as CO2 (CO2-C).
+Carbon sequestration by tropical tree plantations was not explicitly included in these
+estimates but is thought to be relatively small: in 1980 these plantations were estimated
+to absorb only 0.03-0.11 Pg CO2-C (Brown et al. 1986).  Recent analyses have suggested
+that growth of existing forests in temperate and boreal regions may be a significant
+carbon sink, potentially as much as 0.7 Pg C annually.  Analysts have suggested a number
+of complementary factors which could be causing these sinks, including regrowth of
+historically cleared forests, CO2 fertilisation, and nitrogen fertilisation due to atmospheric
+deposition (e.g., IPCC, 1995; Kokorin and Nazarov, 1995a; Tans et al., 1990; Kauppi et al.,
+1992; and Dixon et al., 1994).  Based upon the latest estimates of CO2 sources, sinks and
+                                                  
+     1 "Indirect" greenhouse gases here refers to gases which, although not important
+GHGs in their own right, can influence the concentration of some GHGs, tropospheric
+ozone in particular.
+LAND-USE CHANGE & FORESTRY
+5.2
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+atmospheric storage, the IPCC estimates a remaining terrestrial sink of 0.9 ± 0.5 
+Pg C/year to 1.4 ± 1.5 Pg C/year (Schimel et al., 1995; and Brown et al., 1996).  This
+apparent imbalance in the carbon budget, which was previously referred to as a “missing
+sink,” is believed to be due to CO2 fertilisation, N fertilisation, climate change (e.g.,
+temperature increase), more extensive regrowth or tree planting programmes in the
+tropics, and possibly other factors.2  The precise mix and relative contribution of these
+processes to the remaining terrestrial sink is still a subject of research and debate; and
+this terrestrial sink will not necessarily remain the same size or even the same sign under
+conditions of climate change.
+Emissions of non-CO2 trace gases (CH4, CO, N2O, and NOx) due to biomass burning
+are generally produced immediately and are considered as net emissions.  NMVOC are
+not treated here.  Gross emissions of CO2 due to reductions in forest area may or may
+not be balanced by uptake of CO2 and may occur over immediate or delayed time
+frames.3 Similarly, increases in forest area or in the biomass density of existing forests will
+result in CO2 uptake at varying rates and over delayed time frames.  Only about 50-
+60 per cent of the carbon estimated to have been released in 1980 from forest
+conversion was a result of the conversion and subsequent biomass burning in that year.
+The remainder was a release due to oxidation (i.e., inherited emissions) of biomass
+harvested in previous years (Houghton, 1991).  Other land-use changes, such as land
+flooding, result in continuous GHG emissions possibly for as long as the land remains in
+its altered state.
+5 . 1 . 1  Ba c k gro und - Bio m a ss Sto c k s  a nd Ca rbo n
+Fl ux e s
+Vegetation withdraws CO2 from the atmosphere through the process of photosynthesis.
+Carbon dioxide is returned to the atmosphere by the respiration of the vegetation
+(autotrophic) and the decay of organic matter in soils and litter (heterotrophic
+respiration).  The gross fluxes are large; roughly a seventh of the total atmospheric CO2
+passes into vegetation each year (in the order of 100 Pg CO2-C per year), and in the
+absence of significant human disturbance, this large flux of CO2 from the atmosphere to
+the terrestrial biosphere is  thought to be balanced by the return respiration fluxes.
+Land-use change and the use of forests directly alters these fluxes, and their balance, and
+consequently the amount of carbon stored in living vegetation, litter, and soils.  For
+example, forest clearing for agriculture by burning greatly increases the return flux of
+CO2 and decreases for a while the photosynthetic flux.  Burning is, after all, simply a rapid
+form of oxidation or decay.  Subsequently, the CO2 flux of the cleared area will reach a
+new steady state: the photosynthesis associated with agricultural production being
+balanced by the respiration of vegetation, the decay of on-site organic material, and the
+                                                  
+     2 For recent analyses of the effects of changing CO2 concentrations and climate
+variables on terrestrial sinks, see, Cramer and Solomon, 1993; Smith and Shugart, 1993;
+Kokorin and Nazarov, 1995b; Mellilo et al., 1993; and Alcamo et al., 1994.  For analysis of
+the possible effects of N fertilisation from atmospheric deposition, see Gifford, 1994,
+Rastetter et al., 1992 and Comins and McMurtrie, 1993.  It is also possible that
+atmospheric deposition of air pollutants can damage forests, as discussed in Denniston,
+1993, which would reduce the amount of carbon stored in forests.  However, it is
+uncertain whether or not this is a significant effect at global or national scales.
+     3 Delayed releases of non-CO2 trace gases are an important research issue.  These
+releases may be important , but are currently too uncertain to be included in calculations.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.3
+oxidation of the agricultural product when it is consumed, perhaps off site.  However, the
+total amount of carbon stored in the terrestrial system will have been reduced because a
+forest contains more carbon than does a field of annual crops or pasture, and the
+removed carbon (i.e., the forest) was not put into long term storage pools.
+Consequently there is a net flux of CO2 from the land (vegetation and soil) to the
+atmosphere.  A natural first order assumption is that the net reduction in carbon stocks
+is equal to the net CO2 flux from the cleared area.
+Forest harvest does not necessarily result in a net flux to the atmosphere.  It can produce
+a complex pattern of net fluxes that change direction over time.  For instance, suppose
+that a forest is harvested, producing wood products and leaving some slash and debris.
+Initially, the CO2 flux from the wood products that decay rapidly, plus the increased
+respiration flux of CO2 associated with the oxidation of the slash, could exceed the flux
+from the atmosphere due to photosynthesis and the resulting carbon storage in the
+regrowing forest.  Consequently, there is a net flux of CO2 from the forest, forest floor
+and soil to the atmosphere.  This would also be reflected in the carbon accounting: the
+amount of carbon in the original living vegetation, the litter, and the soils would be
+greater than the amount of carbon in the young regrowing forests, litter, soils and forest
+products pool.  However, if some of the forest products are very long-lived, and if the
+forest regrows to its original level, then the integrated net flux must have been from the
+atmosphere to the terrestrial biosphere since the resulting total terrestrial carbon stocks
+(vegetation, litter, soils, and wood products) would be greater than before the forest
+harvest.
+This characteristic, that changes in landuse today affect both present and future CO2
+fluxes associated with that specific landuse, is one feature of CO2 emissions analysis that
+distinguishes landuse from fossil fuel consumption.  Consequently, when one considers
+the issue of CO2 flux associated with landuse today or in any base year, one must
+consider past land-use activities and their effects upon current fluxes of CO2.  Box 1
+provides some illustrative numerical examples of carbon fluxes associated with land-use
+change over a series of years.
+5 . 1 . 2  The  Pro po se d A ppro a c h
+The fundamental basis for the methodology rests upon two linked themes: i) the flux of
+CO2 to or from the atmosphere is assumed to be equal to changes in carbon stocks in
+existing biomass and soils, and ii) changes in carbon stocks can be estimated by first
+establishing rates of change in land use and the practice used to bring about the change
+(e.g., burning, clear-cutting, selective cut, etc.).  Simple assumptions are then applied about
+their impact on carbon stocks and the biological response to a given landuse.  As noted
+above, there are large uncertainties in all current methods for estimating fluxes of CO2
+from forestry and land-use change.  Direct measurements of changes in carbon stocks are
+extremely difficult since one must confront the difficulty of determining small differences
+in large numbers as well as the inherent heterogeneity of terrestrial systems.  A more
+practical first order approach in many countries is to make simple assumptions about the
+effects of land-use change on carbon stocks and the subsequent biological response to the
+land-use change, and to use these assumptions to calculate carbon stock changes and
+hence the CO2 flux.  This observation is at the heart of the proposed approach.
+Rates of change of land use are difficult to establish, although there are a variety of data
+on which to base land-use change estimates.  The Technical Appendix to this chapter
+reviews sources of data on rates of tropical deforestation, the land-use change which
+currently makes the largest contribution to CO2 flux.  Finally, the assumptions regarding
+the response of vegetation and soils to different land uses and land-use change can be
+LAND-USE CHANGE & FORESTRY
+5.4
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+expressed in simple terms which can be altered for specific conditions in different
+countries or regions.
+The methodology is designed to be comprehensive, i.e., to cover all of the main land-use
+change and forestry activities; and to be feasible to implement by all participating
+countries.  It can be implemented at several different levels of complexity and geographic
+scales, depending on the needs and capabilities of national experts in different countries.
+1.
+A simple, first order approach can be based on very aggregate default data and
+assumptions, derived from the technical literature, and provided throughout the
+text.  Methods are presented in the context of national level aggregate calculations
+for a limited set of subcategories which can be supported by these default values.
+It is important to note that many of the default data provided in the land-use
+change and forestry chapter are highly uncertain.  Many of the important values
+needed for the calculations are not well established or are highly variable from
+region to region, or within very small subregions within a given country.  In many
+cases in which values are particularly uncertain (e.g., the fraction of cleared
+biomass burned on site), these weaknesses are discussed in the text.  Where
+global average values are highly uncertain, they can be used for first order
+calculations or for comparison, but probably do not provide a basis for a credible
+final inventory.  National experts in forestry and related fields should be consulted
+to determine the most appropriate values for use in national inventories.
+2.
+A more accurate level can be achieved simply by substituting country-specific
+values for general defaults provided in the methodology.  If appropriate and
+possible, locally available data can be used to carry out calculations at a more
+detailed geographic scale and/or subcategory level.  Alternative levels of detail are
+discussed more fully in the next section.  National experts are strongly encouraged
+to substitute more appropriate (i.e., country- or region-specific) and more detailed
+input data wherever they are available.
+3.
+Forest inventory data can also be used with this methodology.  It is important to
+note that some countries with highly developed forestry industries do in fact keep
+track of existing commercial forests through periodic detailed inventories.  In
+these countries it is generally the ongoing management of existing forests rather
+than land-use changes which has the greatest impact on the exchange of GHG
+between the land and atmosphere.  National experts who have very detailed,
+inventory based data, can re-format and analyse these data to derive equivalent
+average responses (e.g., annual biomass growth rates by ecosystem type) which
+can be aggregated up to categories matching the simple approach outlined here.
+This procedure is discussed in more detail in the changes in forest and other woody
+biomass stocks section below.
+The intent is to provide a calculation and reporting framework which can accommodate
+users with vastly different levels of available data, yet allow them all to present the results
+on a comparable basis.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.5
+BOX 1
+ILLUSTRATIVE CALCULATIONS OF CARBON FLUXES
+Consider the example of forest clearing for agriculture which results in a
+net flux to the atmosphere.  For descriptive purposes we consider the
+following assumptions:
+1)
+a 20 year time frame (e.g., 1970 to 1990);
+2)
+one hectare is cleared each year (so that over the 20 year period,
+20 hectares are cleared);
+3)
+cleared land is used as pasture, which is established the year following
+the clearing;
+4)
+after three years, cleared land is abandoned and it regrows linearly at
+10tC/ha per year to 75 per cent its original biomass only in 15 years;
+5)
+all of the vegetation is completely burned at the time of clearing and
+there are essentially no changes in soil or litter pools; and
+6)
+there are 200 tonnes of carbon per hectare in the forest biomass and
+5 tonnes carbon per hectare in the pasture.
+In the first year, there is a 200 tonne net flux of carbon as CO2 to the
+atmosphere.  In the second there is a 195 tonne net flux; the clearing of the
+second hectare is partially balanced by the establishment of the first
+pasture.  In the third, there is a net flux again of 195; the clearing of the
+third hectare is again partially balanced by the establishment of the second
+pasture; however, the first pasture is now again in a steady state (as a
+pasture).  The fourth year the pattern is again the same, but in the fifth year
+the net annual flux drops to 185 as the first pasture is now abandoned and
+begins to recover to a secondary forest.  In the sixth year, the flux drops to
+175 as two hectares are recovering to a secondary forest.  In this example,
+in 1989 one hectare would be converted to pasture (200 tonne flux of
+carbon to the atmosphere), one hectare would have become a pasture (5
+tonne flux to the terrestrial biosphere), two hectares would be in steady
+state as pasture, and 15 hectares would be recovering to secondary forest
+with one hectare in its final year of recovery (150 tonne flux to the
+terrestrial biosphere).  The gross flux of carbon from land clearing in 1989
+would still be 200 tonnes to the atmosphere, but the net flux to the
+atmosphere in 1989 associated with land clearing would be 45 tonnes of
+carbon as CO2.  The 1990 flux would be the same since now the original
+one hectare of pasture would have reached a new steady state as a
+secondary forest.
+Many variations on this example can be devised: e.g., conversion of some
+vegetation to charcoal, varying deforestation and regrowth rates.  For
+instance, if the land clearing rates declined over the time period, the 1990
+net flux could easily be from the atmosphere to the biosphere even though
+the net integrated flux over the time period was to the atmosphere.
+There are other complexities such as the variety of land-use practices,
+different assumptions about biomass densities, recovery rates, the dynamics
+of the associated litter and soil pools, and so forth.  However, the net flux
+to or from a particular site will always be reflected in the change of carbon
+stocks on site and/or in the products pools associated with the site.  Thus, a
+methodology that determines carbon stock changes also provides estimates
+of the net fluxes of CO2.
+LAND-USE CHANGE & FORESTRY
+5.6
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+5 . 1 . 3  P r i o r i t y  C a t e g o r i e s
+In estimating the effects of landuse and land-use changes on the emissions of GHGs, it is
+reasonable to stage the calculation methods so that the most important components can
+be addressed first.  Complexities and subtleties of the relationship of forestry and land-
+use change to fluxes of CO2 and other gases can be incorporated in a consistent manner
+into subsequent calculations as knowledge advances and data improve.  The methodology
+presented in this chapter focuses initially on a simple, practical and fair procedure for
+determining the biomass-derived CO2 flux directly attributed to forest management and
+land-use change activities.  This procedure must also account for the influence of
+inherited “emissions” or past land-use changes upon the contemporary CO2 flux,4 as well
+as trace gas emissions from biomass burning where this occurs in conjunction with land-
+use change.5
+The general forest and grassland ecosystem categories are listed in Box 2.  Detailed
+description of tropical forest types and regional forest formations are presented in
+Table 5-1.
+On a global scale, the most important land-use changes that result in CO2 emissions and
+removals are:
+••
+changes in forest and other woody biomass stocks - the most important
+effects of human interactions with existing forests are considered in a single broad
+category, which includes commercial management, harvest of industrial roundwood
+(logs) and fuelwood, production and use of wood commodities, and establishment
+and operation of forest plantations as well as planting of trees in urban, village and
+other non-forest locations;6
+••
+forest and grassland conversion - the conversion of forests and grasslands to
+pasture, cropland, or other managed uses can significantly change carbon stored in
+vegetation and soil;7
+•
+abandonment of croplands, pastures, plantation forests, or other
+managed lands which regrow into their prior natural grassland or forest
+conditions.
+• • 
+changes in soil carbon.
+The method also addresses the immediate release of non-CO2 trace gases (CH4, CO,
+N2O and NOx) from the open burning of biomass from forest clearing.
+                                                  
+     4 Similarly, current land-use changes will affect future fluxes of CO2.
+     5 Burning of biomass residues can occur in other situations which are not land-use
+change, e.g., in the use of forests or other biomass stocks as a part of the ongoing
+management of these stocks without changing the land use.  This should be treated in the
+same way as burning of cleared forests for calculation of non-CO2 GHG from burning.
+     6 Changes in forest and other woody biomass stocks are accounted for in each
+Inventory Year.
+     7 Conversion of forests is also referred to as "deforestation" and it is frequently
+accompanied by burning.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.7
+BOX 2
+FOREST AND GRASSLAND CATEGORIES
+Ecosystem categories have been established based on conventions common
+in the literature.  For the tropics, the categories are based mainly on the
+FAO system (FAO 1993a) to be consistent with the tables of default values
+provided, and used in the simple calculations presented in the Workbook.
+National experts are free, indeed encouraged, to use more detailed
+characterisations of ecosystems in their countries if the data are available
+and differences are important for carbon calculations.  If more detailed
+categories are used, however, it is necessary to aggregate these up to
+match the broad specified categories in order to ensure consistency and
+comparability with national data across all participating countries.  The
+categories are presented as follows:
+Ecosystem Types
+Tropical Ecosystems
+Forests
+Wet
+Moist with short dry season
+Moist with long dry season
+Dry
+Montane moist
+Montane dry
+Grasslands/Shrublands
+Mainly herbaceous and shrub
+savannas/ grasslands
+Temperate Ecosystems
+Forests
+Broadleaf
+Coniferous
+Grasslands
+Boreal Ecosystems
+Forests
+Coniferous
+Mixed broadleaf-coniferous
+Forest-tundra
+Grasslands/Tundra
+Within each ecosystem category, subdivisions are recommended where
+data are available.  For example, tropical forests are defined as ecosystems
+with a minimum of 10% crown cover of trees and/or bamboos, generally
+associated with wild flora, fauna and natural soil conditions, and not subject
+to agriculture practices.  They can be divided into:
+Closed forests  -  Characterised by crown cover higher than 40%
+Open forest  -  Characterised by crown cover between 10 and 40%.
+Degraded forests or grasslands - Forests or grasslands that are have
+been overused or poorly managed and are likely to have reduced biomass
+densities.
+Protected forests or grasslands - Forests or grasslands that are
+designated as national parks or in other ways are legally protected.
+LAND-USE CHANGE & FORESTRY
+5.8
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+TABLE 5-1
+TYPES OF TROPICAL FORESTS AND REGIONAL FOREST FORMATIONS
+Types of tropical forestsa
+Wet
+Moist
+with short
+dry season
+Moist
+with long
+dry season
+Dry
+Montane
+Moist
+Montane Dry
+R ≥ 2000
+2000>R>1000
+R<1000
+R>1000
+R<1000
+ Forest
+Mainly evergreen
+Mainly moist
+deciduous
+Mainly
+dry
+deciduous
+Very dry
+deciduous
+Mainly
+evergreen
+Mainly dry
+deciduous
+Typical regional forest formations:
+Africa
+Lowland rain
+forests
+Lowland
+evergreen
+to semi-
+ever-green
+forests
+Dry
+deciduous
+forests and
+miombo
+woodlands
+Deciduous
+forests and
+woodlands.
+Very dry
+savanna and
+steppe
+Montane
+evergreen
+forests
+Scrub forests
+and evergreen
+to semi-
+evergreen
+thickets
+Asia
+Tropical lowland
+evergreen rain
+forests
+Dense semi-
+deciduous
+or
+deciduous
+forests
+Dry
+deciduous
+forests
+Low
+deciduous
+forests.
+Thorn
+forests
+Tropical and
+wet and
+moist
+forests
+Dry
+evergreen
+forests or
+pseudo-
+steppic
+vegetation
+America
+Ombrophilous
+forests
+Evergreen
+seasonal
+forests.
+Tropical and
+subtropical
+forests
+Cerrados or
+pantanal
+Open
+deciduous
+forests
+Tropical
+evergreen
+and/or
+seasonal
+forests
+Dry
+deciduous
+forests or
+shrub
+savanna.
+Arid
+subdesertic
+matorrales
+Open formations of the different climatic zones:
+Open
+Forest
+Mainly evergreen
+degraded
+Mainly moist
+deciduous
+Mainly
+woodlands
+and tree
+savanna
+Dry
+woodlands
+and tree
+savanna
+Mainly
+degraded
+evergreen
+and seasonal
+Mainly dry
+savannas
+Note: R= annual rainfall in mm/yr
+a The ecological conditions which characterise these main vegetation cover classes are:
+Wet - Evergreen dense forests which receive more than 2000 mm per year rainfall evenly throughout the year.
+Moist with short dry season - Deciduous forests, characterised by a short dry season (<4-5 months), and rainfall 1000-2000 mm
+per year.
+Moist with long dry season - Woodlands and open forests, characterised by a long dry period (>5 months), and rainfall 1000-
+2000 mm per year.
+Dry- Woodlands and tree savannas which receive less than 1000 mm per year of rainfall, very seasonally distributed.
+Montane moist and dry- Main features of this zone are altitude above 1000 metres and rainfall above and below 1000 mm per
+year respectively.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.9
+5 . 1 . 4  R e l a t i o n s h i p s  a m o n g  C a t e g o r i e s
+It is possible that some areas of land can fit the definitions of two categories -
+e.g., abandoned lands regrowing and changes in woody biomass stocks - simultaneously.
+In this situation, the most recent, significant human interaction should be used to allocate
+land into categories.  Even though an area may have been abandoned and allowed to
+regrow, if it subsequently begins to be “managed” (e.g., as a significant source of
+fuelwood) it should be reclassified in the changes in forest and other woody biomass stocks
+category.  It is important to recognise some key linkages and interactions both among
+components of the land-use change and forestry methods and with other calculations
+discussed in other chapters.  Figure 5-1 illustrates a number of complicated relationships
+among these categories and also with biomass fuel combustion which is covered in the
+energy source category.  Key linkages which should be understood are:
+1.
+To estimate CO2 emissions from burning of cleared forests, it is only necessary to
+know the total amount of biomass which is burned in the Inventory Year.
+2.
+However, it is necessary to divide this burning into on-site and off-site (fuelwood)
+portions for two reasons:
+First, the type of burning affects the emissions of non-CO2 trace gases such as CH4
+so that different emission factors may be applied to open burning on-site and to
+fuelwood use off-site.
+Secondly, the amount of fuelwood removed from cleared forests must be deducted
+from the total biomass cleared to prevent double counting in the fuelwood
+consumption calculations.  This is only an issue for those countries which must infer
+some or all of forest harvest from wood consumption surveys.
+3.
+Fuelwood Consumption Information.  Countries which have accurate and complete
+statistics on direct harvesting of all types of wood from biomass stocks, and all uses
+of biomass for fuel, should use locally available data.  Many countries, however, have
+significant amounts of wood removed from forests, primarily for domestic fuel use,
+which are not accounted for in commercial harvest statistics.  For these countries, a
+Fuelwood Consumption Accounting approach is provided which uses data from the
+FAO Yearbook of Forest Products.
+Fuelwood consumption information is used in two ways:
+−
+for estimating non-CO2 trace gas emissions from biomass fuel combustion (in
+the Energy Section of the methodology); and
+−
+total wood consumption, corrected to deduct any wood which has come from
+forest clearing, is also a key input to the calculations of net CO2 emissions or
+removals from changes in forest and other woody biomass stocks.
+LAND-USE CHANGE & FORESTRY
+5.10
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+5 . 1 . 5  C h a pt e r  O rg a n i s a t i o n
+The remainder of this chapter presents methods for calculating GHGs from land-use
+change and forestry in two stages.  The next section, Basic Calculations, presents initial
+simple calculations for each of three broad categories of forestry and changes in land use
+identified above.  These categories also correspond directly to the subsections of the
+Land-use Change and Forestry Module of the Workbook.
+The second stage, Refinements in Calculations, discusses a range of complexities and
+refinements which ideally could be included in such calculations, as data and understanding
+permit, in order to improve accuracy and completeness.  These possible refinements
+include more detailed treatment of some aspects of the basic categories of land uses and
+land-use changes, as well as additional categories, which can affect carbon stocks and are
+potentially important for other GHGs.  Issues discussed include the delayed release (or
+uptake) of non-CO2 trace gases after burning of forests (either as a prescribed forest
+management tool or as a means of land-clearing), forest degradation, traditional shifting
+cultivation, and conversion of wetlands to other land uses or the reverse.  These activities
+and other refinements can be incorporated in more detailed versions of the calculations.
+ FIGURE 5-1 : RELATIONSHIPS AMONG CATEGORIES
+Forest and Grassland
+Conversion
+ Immediate Release from  Burning
+Delayed  Release from Decay (10 yrs)
+Total       On site Burning
+   C
+Off-site Burning
+Non-CO2 Trace
+Gases from
+Open Burning
+CH4, CO, N2O and
+NOX Emissions
+CO2 Emissions
+Abandonment of Managed Lands
+ CO2 Emissions and
+Removals
+ CO2 Removals
+Changes in Forest and Other
+Land-Use Change and Management
+CO2 Emissions and Uptake by Soils from
+Woody Biomass Stocks
+Emissions and Removals from Soils (20 yrs)
+Annual Growth Increment
+Non-CO2 Gases from Biomass Fuel
+Combustion
+Annual harvest from Stocks =
+total fuelwood demand -
+quantity of fuelwood from
+cleared forests + commercial
+and other non-fuel harvests
+Annual Growth
+Increment
+minus
+Harvest from
+Stocks
+Net CO2
+Emissions and
+Removals
+ CH4, CO, N2O
+and  NOX
+Emissions
+Quantity of
+Biomass Fuel
+L
+A
+N
+D
+U
+S
+E
+C
+H
+A
+N
+G
+E
+&
+F
+O
+R
+E
+S
+T
+R
+Y
+E
+N
+E
+R
+G
+Y
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.11
+A Technical Appendix, as mentioned, is also provided, which deals with sources of
+information on rates of land-use change, a critical activity data input for calculating GHG
+emissions.
+5.2 
+Basic Calculations
+5 . 2 . 1  Intro duc tio n
+The basic calculations focus primarily on the land-use changes (causing changes in land
+cover) and land-use activities (forestry) that result in the largest, potential flux of CO2 to
+the atmosphere or have the largest potential for sequestering carbon.
+Two categories of land-use change are considered:
+•
+forest and grassland conversion to agricultural lands
+•
+abandonment of managed lands
+In contrast to most GHG emission methodologies, estimating sources and sinks of CO2
+from land-use change requires the consideration of events over a long period of time.
+When forests are cleared or agricultural lands abandoned, the biological responses result
+in "commitments" of fluxes of carbon to or from the atmosphere for many years after
+the land-use change.  This methodology is designed to produce an emissions estimate that
+is comparable to other elements of the inventory, fossil fuel emissions, for example.  That
+is, it attempts to quantify the flux to or from the atmosphere in the Inventory Year.  To do
+this, it is necessary to obtain estimates of land-use change activities for many years prior
+to the Inventory Year, and estimate the effects of these activities on the current year
+fluxes.  The two selected categories are considered to be the most important land-use
+changes affecting CO2 fluxes, but are not a comprehensive set.  Many relevant land-use
+changes are excluded from the basic calculations.  These are discussed in the last section
+of this chapter.
+Relevant forestry (on-going land use) activity is combined in one very broad category,
+changes in forest and other woody biomass stocks, which is defined to include a wide variety
+of practices.  Key examples are establishing and harvesting plantations, commercial forest
+management and harvesting, fuelwood gathering, and use of harvested wood.
+Conceptually, this category is intended to account for all significant human interactions
+with forests and other woody biomass stocks which affect CO2 fluxes to and from the
+atmosphere, but which do not result in a land-use change.  It is intended to account, at
+least on a crude level, for all existing forests, but two comments are important here.
+1.
+Natural, unmanaged (for wood products) forests are not considered to be either
+an anthropogenic source or sink, and are excluded from the calculations.
+However, in most countries of the world, a few undisturbed (by humans) forests
+exist, and they could still be sequestrating carbon as they regrow to a mature
+forest.  The lack of consideration of these “undisturbed” forests in the tropics,
+for example, could lead to an underestimation of carbon sinks in this region.
+Tropical countries need to establish a permanent forest inventory monitoring
+network to determine if the “undisturbed” forests are sinks or not.  Current
+research in the Amazon countries suggest some undisturbed forests are carbon
+sinks (Lugo and Brown, 1992; and Grace et al., 1995).
+LAND-USE CHANGE & FORESTRY
+5.12
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+2.
+Forests regrowing naturally on abandoned lands are a net carbon sink
+attributable to past human activities and are accounted for separately.
+"Abandoned" lands are by definition assumed not to be subject to ongoing human
+intervention (of significance to carbon stocks) after abandonment.8
+NOTE: Forests classified as natural, or abandoned/regrowing, can be excluded from the
+woody biomass stocks accounting only if there is no significant current human interaction
+with these forests.  If they are being used as a source of fuelwood, or are being affected
+in other ways by ongoing human activities, they should be accounted for on an annual
+basis as part of changes in forest and other woody biomass stocks.  In many countries, lands
+which are classified as natural or abandoned are in fact harvested informally.  Thus, in
+some countries or regions with fuelwood shortages, little forest will actually fall into the
+natural or abandoned categories.
+Several simplifying assumptions are made in the basic calculation methodology.  A number
+of refinements are possible to improve on these basic calculations.  One important option
+is to implement the basic calculations at a more detailed level of subcategories or
+geographic detail.  National experts are strongly encouraged to do so if data are available.
+Box 3 discusses possibilities for adapting the methodology to various levels of detail,
+depending on the capabilities and data available to the user, and the relative importance of
+various components to the individual country.
+Other possibilities for improving the accuracy and completeness of the basic calculations
+are possible.  For example, the fate and amount of belowground biomass (roots, etc.) is
+currently ignored in the calculation.  The section entitled Refinements to Calculations, later
+in this chapter, reviews a number of possible additions and refinements.
+                                                  
+     8 Abandoned lands which are regrowing naturally may be cleared again.  In this case,
+they should shift again to cleared lands, probably with a lower value for preclearing
+biomass density than when they were first cleared.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.13
+BOX 3
+ALTERNATIVE LEVELS OF DETAIL
+For simplicity and clarity, this chapter discusses calculation of emissions at a
+national level and for a relatively small number of subcategories within each
+category of land-use change and forestry.  The level of detail in the
+subcategories is designed to match the available sources of default input
+data, carbon contents and other assumptions.  It is important, however, for
+users of these emissions methodology guidelines to understand that they
+are not only permitted but encouraged to carry out the GHG emissions
+inventory calculations at a finer level of detail, if possible.  Many countries
+have more detailed information available about land-use change, forests and
+agriculture, than was used in constructing default values here.  It may be
+important in such countries to carry out emissions calculations at finer
+levels in two ways:
+1.  Geographic detail at a regional, rather than a national, level
+If data are available, experts may find that GHG estimation for various
+regions within a country are necessary to capture important geographic
+variations in ecosystem types, biomass densities, fractions of cleared
+biomass which are burned, etc.
+2.  Finer detail by subcategory
+If data are available, experts may subdivide the recommended activity
+categories and subcategories to reflect important differences in ecology or
+species, land use or agricultural practices, bioenergy consumption
+patterns, etc.
+In all cases, working at finer levels of disaggregation does not change the
+basic nature of the calculations, although additional data and assumptions
+will generally be required beyond the defaults provided in the chapter.
+Once GHG emissions have been calculated at whatever is determined by
+the national experts to be the most appropriate level of detail, results
+should also be aggregated up to the national level and the standard
+categories requested in the IPCC proposed methodology.  This will allow
+for comparability of results among all participating countries.  Generally, the
+data and assumptions used for finer levels of detail should also be reported
+to the IPCC to ensure transparency and replicability of methods.  Volume 1:
+Reporting Instructions discusses these issues in more detail.
+5 . 2 . 2  Cha nge s 
+in 
+Fo re st 
+a nd 
+O t he r 
+W o o dy
+Bi o m a ss St o c k s
+The category changes in forest and other woody biomass stocks as used in these basic
+calculations is very broad, potentially including a wide variety of land-use practices.  This
+discussion focuses heavily on changes in forests, which globally account for the largest
+component of annual changes in biomass stocks.  However, other types of biomass such
+as non-forest trees (e.g., in villages, cities, etc.) and woody shrubs in grasslands should be
+included when they are a significant component of total changes in biomass stocks, as is
+likely to be the case for some specific countries.  A basic organising concept in this
+chapter is that all existing forests can be allocated into one of three categories.
+LAND-USE CHANGE & FORESTRY
+5.14
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+1.
+Natural, undisturbed forests, where they still exist and are in equilibrium, should
+not be considered either an anthropogenic source or sink.  They can therefore
+be excluded from national inventory calculations.
+NOTE: Many countries may have little or no forests or woody biomass stocks
+which are not affected significantly by humans.  In areas with severe fuelwood
+shortages, for example, significant biomass - and hence carbon - may be removed
+for fuel annually even from “natural forests” and abandoned lands.9
+2.
+Forests regrowing naturally on abandoned lands are a net carbon sink
+attributable to past human activities and are accounted for as discussed in a later
+section.  While the current regrowth is considered a response to past
+anthropogenic activity, "abandoned" lands are by definition assumed not to be
+subject to ongoing human intervention (of significance to carbon stocks) after
+abandonment.
+3.
+All other types of forest are included in the changes in forest and other woody
+biomass stocks category.  That is, any forest which experiences periodic or on-
+going human interventions that affect carbon stocks should be included here.  In
+the basic calculations, the chapter focuses primarily on a few types of human
+interactions with forests which are believed to result in the most significant
+fluxes of carbon.  National experts are encouraged, however, to estimate
+emissions for any activity related to existing forests which is considered to result
+in significant carbon emissions or removals, and for which necessary data are
+available.  Any such activities falling within our broad definition of changes in
+forests and other woody biomass stocks should be included in this category and
+reported to the IPCC as discussed in Volume 1: Reporting Instructions.
+Some of the activities in the changes in forest and other woody biomass stocks category
+which can potentially produce significant carbon fluxes are:
+•
+management of commercial forests - including logging, restocking, selective
+thinning, etc., as practised by commercial forest products industries
+•
+establishment and management of commercial plantations10
+•
+other afforestation, and reforestation programmes
+•
+informal fuelwood gathering
+This category also includes trees which may not traditionally be considered part of
+"forests".  It can include village and farm trees if these are important for biomass and
+biofuel accounting in some developing countries.  It can also include urban trees, trees
+                                                  
+     9 Also, as discussed in the chapter introduction, there are likely to be widespread
+human induced effects, e.g., CO2 fertilisation and nitrogen deposition, which cause
+changes in virtually all terrestrial biological systems.  In this sense, there may be no
+natural forests which are not subject to human induced GHG emissions or removals.
+However, at present, the understanding of these broad effects is so uncertain, and
+quantitative estimation so difficult, that they are not included in the basic calculations
+recommended for all national inventories.
+     10 Plantations are forest stands that have been established artificially, to produce a
+forest product "crop". They are either on lands that previously have not supported
+forests for more than 50 years (afforestation), or on lands that have supported forests
+within the last 50 years and where the original crop has been replaced with a different
+one (reforestation) (Brown et al., 1986).
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.15
+planted along highways, aircraft runways, etc., if these are considered significant for a
+particular country's biomass calculations.  These dispersed trees do not contribute greatly
+to carbon fluxes to or from the atmosphere on a global scale.   However, in some
+countries, they may be important in accounting for the total amount of wood used for
+fuel. Also, they may be of interest to some countries because of their potential use in
+response strategies.  For these reasons, they are included in the basic calculation
+methods.  National experts who feel they are important, and have the necessary locally
+available data, can include them.
+In addition to trees in non-forest locations, in some countries, woody biomass from
+shrubs or other plants, in grasslands or other locations, may play a significant role in total
+fuelwood supply.  If this is the case, the annual supply of biomass from these “non-trees”
+must be included in the overall fuelwood accounting.  Otherwise the loss of biomass
+stocks in forests may be overstated.
+As illustrated in the above list, the changes in forest and other woody biomass stocks
+category includes some tree planting activities which, strictly speaking, are land-use
+changes.  Plantation establishment and other afforestation/reforestation programmes are
+examples.  It is recognised that this is conceptually inconsistent as the category is
+intended to account for ongoing interactions with existing forests.  However, from a
+pragmatic perspective, including these activities within the category can simplify the
+calculations. These subcategories are land-use changes which create new forest stocks.
+As soon as the land-use change occurs (i.e., the tree planting), the new land use becomes
+part of the changes in forest and other woody biomass stocks category which is accounted
+for on an annual incremental basis.  Although it would be possible, it is not necessary to
+estimate the lagged effects of this change as is done with other land-use changes.11
+While including such a range of tree-related activities in one category may introduce
+some confusion, the calculation procedure is basically the same for all subcategories, and
+this allows the simplest possible set of emissions calculations.
+As discussed above, if lands previously considered abandoned and regrowing, or natural
+forests, are being affected by human activity in the inventory year, they should be
+reclassified into the changes in forest and other woody biomass stocks category.
+As discussed in the Overview, the methodology is designed to accommodate users at
+several levels of detail.  This is especially important in the managed forests category.
+Possible levels include:
+1.
+A simple first order approach, covering the main subcategories, with calculations
+based on simple default assumptions and default data provided.
+NOTE: An inventory of land-use change and forestry emissions developed on default
+values only is unlikely to be considered credible for any country which has significant
+emissions or activities in these areas.
+2.
+Calculations at the same level of detail but substituting more appropriate data and
+assumptions from local sources.
+                                                  
+     11 There is one omission in this accounting which may be important for some
+countries. If plantations are established on previously unforested lands, there may be a
+long term accumulation of carbon in the soil as a result of the land-use change.  This
+would not normally be picked up in the simple changes in forest and other woody biomass
+stocks calculations. It could be added if national experts have detailed data on the pre-
+plantation land uses, the soil carbon contents and rates of accumulation, etc.
+LAND-USE CHANGE & FORESTRY
+5.16
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+3.
+Calculations following the same structure, but broken down to finer levels of detail
+to improve accuracy and utility of estimates, where locally available data can support
+this.
+4.
+Estimates derived from much more detailed and precise inventory-based forest
+accounting methods.  These results can be reformatted and presented in the form
+of calculations comparable to those used by the other national experts operating
+with less detailed data.
+It is highly desirable that the methodology be relevant for countries which have access to
+much more detailed data on changes in forest stocks.  Some countries with highly
+developed forestry industries do in fact keep track of existing commercial forests through
+periodic detailed surveys  For such countries, it is possible to derive from survey results
+aggregate values comparable to the data and assumptions used in the simple approach,
+and present them in this common format.  This will assist all interested parties in
+evaluating various national estimates on a comparable basis, and will thus be necessary to
+comply with requirements of Volume 1: Reporting Instructions.  Box 4 provides some
+further discussion of these procedures.
+BOX 4
+ADAPTING DETAILED FOREST INVENTORY DATA TO THE IPCC FORMAT
+A number of countries with highly developed commercial forestry
+industries routinely collect forest biomass data at a detailed inventory level
+which allows for relatively precise and direct assessment of the changes in
+biomass stocks, and equivalent carbon fluxes.  National experts working
+with data of this kind should be able to derive from it values equivalent to
+those used in calculating emissions with the IPCC methodology.
+Regardless of how detailed the data base used may be, the results ultimately
+must be presented in units (e.g. Gg) of carbon and CO2 emitted or
+removed in a given average response category (e.g., annual biomass growth
+rates by ecosystem type).  Similarly, the number of hectares of forest in
+various types can be aggregated up to categories matching the simple
+approach outlined here.  The amount of biomass removed as commercial
+harvest or for other reasons, should also be relatively well established in
+such inventories.  With these data, it should be possible to, in effect, work
+backwards to derive the necessary input assumptions and aggregate values.
+For example, national experts might start with a change in total biomass for
+specified forest types (and/or regions) over a specified time period.  Then
+they could add the amounts of biomass removed through commercial
+harvest or for other reasons (e.g., thinning), to get the total growth of
+biomass over the period.  This could then be divided by the number of
+kilohectares in the category (and the number of years, if a multi-year
+period) to get average annual growth rates by category.  This would then
+provide all the values needed to reconstruct the calculations in a
+comparable form to those from countries with minimal data.
+The national emission/removal estimates presented in this form would then
+be easily understood and compared by all other parties involved in the
+international climate change discussions.  The intent is to provide a
+calculation and reporting framework which can accommodate users with
+vastly different levels of data available, yet allow them to present the results
+on a comparable basis.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.17
+Changes in forest and other woody biomass stocks may be either a source or a sink for
+carbon dioxide for a given year and country or region.  The simplest way to determine
+which, is by comparing the annual biomass growth versus annual harvest, including the
+decay of forest products and slash left during harvest.  Decay of biomass damaged or
+killed during logging results in short-term release of CO2.  For the purposes of the basic
+calculations, the recommended default assumption is that all carbon removed in wood
+and other biomass from forests is oxidised in the year of removal.  This is clearly not
+strictly accurate in the case of some forest products, but is considered a legitimate,
+conservative assumption for initial calculations.  Box 5 provides some further discussion
+of this issue.
+BOX 5
+THE FATE OF HARVESTED WOOD
+Harvested wood releases its carbon at rates dependent upon its method of
+processing and its end-use: waste wood is usually burned immediately or
+within a couple of years, paper usually decays in up to 5 years (although
+landfilling of paper can result in longer-term storage of the carbon and
+eventual release as methane or CO), and lumber decays in up to 100 or
+more years.  Because of this latter fact, forest harvest (with other forms of
+forest management) could result in a net uptake of carbon if the wood that
+is harvested is used for long-term products such as building lumber, and the
+regrowth is relatively rapid.  This may in fact become a response strategy.
+For the initial calculations of CO2 emissions from changes in forest and
+other woody biomass stocks, however, the recommended default
+assumption is that all carbon in biomass harvested is oxidised in the removal
+year.  This is based on the perception that stocks of forest products in
+most countries are not increasing significantly on an annual basis.  It is the
+net change in stocks of forest products which should be the best indicator
+of a net removal of carbon from the atmosphere, rather than the gross
+amount of forest products produced in a given year.  New products with
+long lifetimes from current harvests frequently replace existing product
+stocks, which are in turn discarded and oxidised.  The proposed method
+recommends that storage of carbon in forest products be included in a
+national inventory only in the case where a country can document that
+existing stocks of long term forest products are in fact increasing.
+If data permit, one could add a pool to Equation 1 (1) in the changes in
+forest and other woody biomass stocks calculation to account for increases
+in the pool of forest products.  This information would, of course, require
+careful documentation, including accounting for imports and exports of
+forest products during the inventory period.
+The net growth of biomass stocks (and accumulation of carbon) depends on the type of
+biomass stock and the intensity of harvesting.  Well managed commercial forests,
+replacing natural forests, would over the long term be expected to have net emissions
+close to zero.  In many cases, where historically cleared areas are regrowing under
+commercial management, with limited logging, the forest areas are currently a net sink.  If
+LAND-USE CHANGE & FORESTRY
+5.18
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+forests (or parts of forests) are logged or harvested at a rate which exceeds regrowth,
+then there is a net loss of carbon.12
+Establishment of plantations and other tree planting activities result in absorption of CO2
+from the atmosphere and storage of this carbon until the vegetation is burned or decays.
+Restocking of managed forests, planting of urban, village and farm trees, and establishing
+plantations on unforested lands, therefore, result in an uptake of carbon from the
+atmosphere, at least until the biomass is harvested and enters a decay pool, or the system
+reaches maturity.  The effect of plantation establishment can be to create a net sink for
+carbon even if the plantation is harvested for products that are rapidly oxidised (e.g.,
+fuelwood).  If the plantations are harvested so that there is no net loss of biomass over
+time (i.e., harvested in a sustainable fashion), then the rate of carbon accumulation on
+land is positive (or at least non-negative) and tied directly to changes in the area of
+plantations and their average biomass.
+The conversion of natural forests to plantations may result in an initial loss of biomass
+carbon due to an initial reduction in standing biomass.  If plantations are established by
+first clearing existing forests, the initial loss should appear under forest and grassland
+conversion below.  Reaccumulation of biomass in these plantations in subsequent years
+would be accounted for here under changes in forest and other woody biomass stocks.  The
+approach accounts for all plantations in operation in the inventory year, including both
+previously planted and newly established plantations.
+The method for calculating the net changes in biomass stocks is shown in Equation 1.  For
+non-forest trees such as village and farm trees, accounting would be done on the basis of
+numbers of trees (e.g., in thousands) rather than for hectares of land.  The calculations
+would be the same, except that average annual growth would be expressed in tonnes dm
+per thousand trees rather than per hectare.
+The recommended unit of calculation is tonnes of dry biomass, and it is necessary to
+convert to carbon for emissions estimation.  A general default value of 0.50 tonnes-
+C/tonne dry biomass is recommended for all biomass calculations.  If more accurate
+conversion values are available for the particular system, these should of course be used.
+                                                  
+     12 In addition, logging provides access to previously inaccessible forests, thereby
+facilitating degradation of forests by activities such as fuelwood collection, habitation, and
+agricultural activity.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.19
+EQUATION 1
+(1)
+hectares of land in a particular category (e.g., plantations)
+x
+average annual growth per hectare in biomass
+=
+gross annual growth increment.
+total biomass increment is the sum of all relevant categories.
+(2)
+total harvest by category (including fuelwood gathering)
+x
+expansion ratio to treat slash
+=
+gross annual biomass loss.
+total harvest and other biomass loss is the sum of all relevant categories of
+harvest.
+(3)
+total annual growth increment - total annual biomass loss
+=
+annual biomass change (positive or negative).
+Growth Increments
+Estimates of average annual accumulation of dry matter as biomass per hectare are
+presented for forests naturally regrowing by broad category in Table 5-2.  These values
+can be used as default values for growth rates in similar managed forest categories if no
+other information is available.  For forests which are more intensely managed (e.g., with
+periodic thinning, restocking, etc.) annual growth increments could be quite different.
+Values for some typical plantation species are presented in Table 5-3 and can be used as
+default values.  As discussed in notes in these tables, average growth rates represent a
+great deal of variability within regions and even from site to site.  It is always strongly
+recommended that locally available data be used or developed if possible in national
+inventory calculations.
+LAND-USE CHANGE & FORESTRY
+5.20
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+TABLE 5-2
+ANNUAL AVERAGE ABOVEGROUND BIOMASS UPTAKE BY NATURAL REGENERATION
+(tonnes dm/ha)
+Tropical Regions
+Forest Types
+Moist Forests
+Seasonal Forests
+Dry Forests
+0-20
+Years
+20-100
+Years
+0-20
+Years
+20-100
+Years
+0-20
+Years
+20-100
+Years
+America
+8.0
+0.9
+5.0
+0.5
+4.0
+0.25
+Africa
+11
+1.0
+7.0
+0.7
+4.0
+0.25
+Asia
+11
+1.0
+7.0
+0.7
+4.0
+0.25
+Note: Growth rates are derived by assuming that tropical forests regrow to 70% of undisturbed forest biomass
+in the first twenty years.  All forests are assumed to regrow to 100% of undisturbed forest biomass in 100 years.
+Assumptions on the rates of growth in different time periods are derived from Brown and Lugo (1990).
+0-20 Years
+20-100 Years
+Temperate Forests
+Evergreen
+3.0
+3.0
+Deciduous
+2.0
+2.0
+Boreal Forests
+1.0
+1.0
+Note: Temperate and boreal forests actually require considerably longer than 100 years to reach the biomass
+density of a fully mature system.  Harmon et al. (1990), for example, report carefully designed simulations
+indicating that a 100-year old stand of Douglas fir would contain only a little over half the biomass of a 450-year
+old growth stand of the same species.  There is also evidence that growth rates in temperate and boreal systems
+are more nearly linear over different age periods than is the case in tropical systems.  Nabuurs and Mohren
+(1993) suggest that growth rates for several different species in temperate and boreal zones rise slowly to peak
+at ages of 30-55 years and decline slowly thereafter.  This suggests that using the same default values for 0-20
+year and 20-100 years may be a reasonable first approximation.  Nabuurs and Mohren (1990) also illustrate that
+growth rates may vary as much as a factor of ten for stands of the same species and age, depending on site-
+specific conditions.  The table values are very general representative global values from Houghton et al. (1983
+and 1987).
+ALL OF THESE REGIONAL AVERAGE GROWTH RATES SHOULD BE CONSIDERED INDICATIVE ONLY.
+IF FORESTS ARE A SIGNIFICANT PART OF A COUNTRY’S TOTAL GHG INVENTORY, LOCALLY
+AVAILABLE DATA OR EXPERT JUDGEMENT SHOULD BE SOUGHT TO DEVELOP VALUES REFLECTING
+CONDITIONS AND PRACTICES.

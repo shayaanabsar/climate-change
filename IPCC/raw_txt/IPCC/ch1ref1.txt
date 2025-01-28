@@ -1,0 +1,2658 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+C H A P T E R  1
+E N E R G Y
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.1
+1.
+ENERGY
+1.1
+Overview
+This chapter discusses inventory methods for emissions of SO2 and direct and indirect
+greenhouse gases from energy sources, comprising CO2, CH4, N2O, NOx, CO and
+NMVOC.  Energy systems are extremely complex and widespread components of
+national economies.  The full range of greenhouse gases is emitted from the production,
+transformation, handling and consumption of energy commodities.  Chapter 2, Industrial
+Processes, discusses emissions which arise jointly from fuel use in industrial processes and
+provides guidance on attributing the emissions to the energy or industrial process
+categories.  The various emissions from energy systems are organised in two main
+categories:  Emissions from Fuel Combustion and Fugitive Emissions.
+Emissions from Fuel Combustion
+CO2  emissions from fuel combustion are discussed separately and in some depth because
+they can be calculated accurately at a highly aggregated level, unlike other gases.  CO2
+emissions are primarily dependent on the carbon content of the fuel.  The IPCC
+Reference Approach for CO2 emissions is a simple, accurate and internationally
+transparent approach which takes advantage of this fact.
+CO2 from energy activities can be estimated from energy supply data, with a few
+adjustments such as for carbon non-oxidised.  Supply data for all commercial fuels are
+available from international data bases covering individual countries of the world.  These
+data, together with typical carbon content figures, provide a sound starting point for the
+estimation of CO2 inventories, particularly for global or regional studies.  However,
+because fuel qualities and emission factors may differ markedly between countries,
+sometimes by as much as ten percent for nominally similar fuels, national inventories
+should be prepared using local emission factors and energy data where possible.
+Unlike CO2, national inventories of CH4, N2O, NOx, CO and NMVOCs require more
+detailed information.  Accurate estimation of their emissions depends on knowledge of
+several interrelated factors, including combustion conditions, technology, and emission
+control policies, as well as fuel characteristics.  The methods must, in general, be applied
+at a detailed activity/technology level.  CO2 emissions may also be calculated at the more
+detailed level required for other gases.  Indeed, when calculating non-CO2 emissions
+national experts are encouraged to calculate CO2 emissions at the same time, as
+reconciliation of total CO2 emissions estimated in this manner with those obtained from
+the Reference Approach provides a valuable verification process.  Procedures for
+estimating CO2 and non-CO2 emissions at the detailed or more aggregated levels of
+activity are presented in this chapter.  The methods for estimating the gases are divided in
+“Tiers” encompassing different levels of activity and technology detail.  Tier 1 methods
+are generally very simple requiring less data and expertise than the most complicated
+Tier 3 methods.
+Fugitive Emissions
+In addition to the emission of greenhouse gases from fuel combustion, other emissions into the
+atmosphere occur in an unplanned or a deliberate manner.  These are fugitive emissions.
+Fugitive emissions are intentional or unintentional releases of gases from anthropogenic
+activities.  In particular, they may arise from the production, processing, transmission,
+storage and use of fuels, and include emissions from combustion only where it does not
+ENERGY
+1.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+support a productive activity (e.g., flaring of natural gases at oil and gas production
+facilities).  The most significant greenhouse gas emissions in this category are methane
+emissions from coal mining and from oil and gas systems.  There are also emissions of other
+gases, such as CO2 and NMVOCs as fugitive or by-product emissions from energy systems.
+1 . 1 . 1 R e c e n t  D e v e l o p m e n t s
+As part of Phase II of the IPCC/OECD/IEA Programme on National Greenhouse Gas
+(GHG) Inventories an expert group on GHG Emissions from Fuel Combustion was set
+up.  The group included over forty experts from various geographical and professional
+backgrounds.  The terms of reference of this group were to continue improving the
+estimation methodologies on emissions from fuel combustion which had been published in
+the IPCC Guidelines for National Greenhouse Inventories in March 1995.
+The issues addressed by the group can be divided into several broad areas:
+•
+harmonisation of international emission estimation methodologies and reporting;
+•
+improvement and review of emission factors;
+•
+development of a new Tier 1 method for estimating non-CO2 GHG and SO2
+emissions based on fuel consumption;
+•
+development of a new Tier 2 method for estimating emissions from aircraft.
+In addition the group identified areas for further work.  These are listed at the end of this
+chapter.
+The results of the group’s work on the final three items listed above are contained in the
+sections which follow.  The experts’ conclusions following a review and discussion of the
+harmonisation of methodologies are summarised in the following statement.
+Harmonisation of International Emission Estimation Methodologies and
+Reporting
+Two approaches to drawing up and presenting national emission inventories in
+comparable form are  currently in use:
+•
+The IPCC Guidelines for National Greenhouse Gas Inventories, and
+•
+the joint EMEP/CORINAIR Atmospheric Emission Inventory Guidebook.
+Countries which are Parties to both Conventions have to apply both reporting
+procedures to each Convention.  The IPCC approach meets FCCC needs for calculating
+national totals (without further spatial resolution) and identifying sectors within which
+emissions occur, whereas the EMEP/CORINAIR approach is technology based and
+includes spatial allocation of emissions (point and area sources).
+Both systems follow the same basic principles :
+•
+complete coverage of anthropogenic emissions (CORINAIR also considers natural
+emissions);
+•
+annual source category totals of national emissions;
+•
+clear distinction between energy and non-energy related emissions;
+•
+transparency and full documentation permitting detailed verification of activity data
+and emission factors.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.3
+To date, considerable progress has been made in the harmonisation of the IPCC and
+EMEP/CORINAIR approaches.  The IPCC Expert Group on Fuel Combustion has made
+changes to the fuel list and to the source/sink categories to allow more direct comparison
+of the two approaches:
+•
+Biomass fuels will be allocated to the various source categories (CO2 from biomass
+will not be reported in national totals).
+•
+In order to estimate the full emissions of the industry sector, emissions from
+autoproduction should be included with emissions from other fuel use within
+industry.  At the same time the emissions from the autoproduction of electricity and
+heat should be excluded from the energy transformation source category to avoid
+double counting.  This change brings the IPCC source categories for manufacturing
+and transformation industries into line with those used by CORINAIR.
+•
+Treatment of evaporative emissions (NMVOC) from road transport in the IPCC
+Tier 2 method is consistent with CORINAIR.  Combustion and evaporative
+emissions should be reported separately.  In the IPCC Tier 1 method, all emissions
+from road transport are included together under fuel combustion.
+The CORINAIR programme has now developed its approach further to include additional
+sectors and sub-divisions (e.g. the definition of civil aviation is now in line with the IPCC
+definition) so that a complete CORINAIR inventory, including emission estimates, can be
+used to produce reports in both the FCCC/IPCC or EMEP/CORINAIR reporting formats
+for submission to their respective Conventions.  Minor adjustments based on additional
+local knowledge may be necessary to complete such reports for submission.
+One difference  between the approaches remains:
+•
+Spatial allocation of road transport emissions: here CORINAIR, with a view to the
+input requirements of atmospheric dispersion models, applies the principle of
+territoriality (emission allocation according to fuel consumption) whereas the IPCC
+is bound to the principle of political responsibility (allocation according to fuel sale).
+For the IPCC, countries with a big disparity between emissions from fuel sales and
+fuel consumption have the option of estimating true consumption and reporting the
+emissions from consumption and trade separately.  However, national totals must be
+on the basis of fuel sales.
+1 . 1 . 2 O r g a n i s a t i o n  o f  t h e  C h a p t e r
+In addition to this introduction, this chapter is organised into four separate substantive
+sections covering fuel combustion and fugitive emissions:
+•
+Simple Methods (Tier 1): Emissions from all sources of combustion are estimated
+on the basis of the quantities of fuel consumed and average emission factors.  The
+IPCC Reference Approach for CO2 is presented together with new methods for the
+estimation of CO2 and non-CO2 emissions from the main source categories.
+•
+Detailed Methods (Tiers 2/3): Emission estimations are based on detailed
+fuel/technology information covering stationary and mobile sources.
+•
+Fugitive emissions from coal mining and handling: Emissions are generated as
+a result of the mining and handling of coal, primarily methane emissions from coal
+mining.  Other emissions of GHGs from coal mine and waste fires are briefly
+discussed.
+ENERGY
+1.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+•
+Fugitive emissions from oil and natural gas activities: Methane emissions
+from natural gas flaring and venting, and from natural gas production, transmission
+and distribution are the most important for this category.  CO2 emissions from
+venting and flaring are included as are NMVOC emissions from production,
+processing and distribution of oil and oil products.  A new section briefly describes
+the estimation of emissions of ozone precursors and SO2 from refineries.
+1.2
+Data
+1 . 2 . 1 D a t a  S o u r c e s
+Activity Data
+Subject to the requirements outlined below and intended to ensure the comparability of
+country inventories, the IPCC approach to the calculation of emission inventories
+encourages the use of fuel statistics collected by an officially recognised national body, as
+this is usually the most appropriate and accessible activity data.  In some countries,
+however, those charged with the task of compiling inventory information may not have
+ready access to the entire range of data available within their country and may wish to
+use data specially provided by their country to the international organisations whose
+policy functions require knowledge of energy supply and use in the world.
+There are, currently, two main sources of international energy statistics: the International
+Energy Agency of the Organisation for Economic Co-operation and Development
+(OECD/IEA), and the United Nations (UN).  The primary energy data sources cited in
+this report include:
+•
+From the OECD/IEA:  Energy Statistics and Balances of Non-OECD Countries
+(OECD/IEA, 1996b); Energy Balances of OECD Countries (OECD/IEA, 1996a); and
+Energy Statistics of OECD Countries (OECD/IEA, 1996c).
+•
+From the United Nations: Energy Statistics Yearbook (UN, 1996).
+Both international organisations collect energy data from the national administrations of
+their member countries through systems of questionnaires.  The data gathered are
+therefore “official” data.  To avoid duplication of reporting, where countries are members
+of both organisations, the UN receives copies of the IEA questionnaires for the OECD
+member countries rather than requiring these countries to complete the UN
+questionnaires.  When compiling its statistics of non-OECD member countries the IEA,
+for certain countries, uses UN data to which it may add additional information obtained
+from the national administration, consultants or energy companies operating within the
+countries.  Statistics for other countries are obtained directly from national sources.  The
+number of countries covered by the IEA publications is fewer than that of the UN. 1
+Emission Factors
+Emissions of GHGs from fuel combustion and fuel supply activities are calculated by
+multiplying levels of activity by emission factors usually expressed as mass of pollutant per
+                                                  
+     1 Approximately 130 countries (of about 170 UN Member countries) are included in
+the IEA data, but the countries it includes account for about 98 per cent of worldwide
+energy consumption and nearly all energy production.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.5
+energy unit of activity (e.g. kg N2O/TJ).  The most commonly used activity measure for
+energy-related emissions is the amount of fuel burned or, where fugitive emissions are
+concerned, the amount of fuel produced or distributed.  In some cases other measures of
+activity are used, most notably in calculating emissions from the transport sector.
+A number of international and national sources of energy activity data and industry
+emission factors exist largely as a result of international and national analyses of
+alternative control policies for SOx, NOx and NMVOC.  A few sources have also recently
+emerged on various other GHGs.  The more detailed factors (for gases other than CO2)
+do not relate directly to national energy activity data described below, but require some
+additional information.  The sources of emission factor data, and procedures for making
+these linkages are discussed in the context of specific gases and source types, in the
+relevant sections which follow.
+1 . 2 . 2 C o m p a r a b i l i t y  o f  R e p o r t i n g
+In order to meet the objectives of the IPCC/OECD/IEA programme, inventories must be
+readily comparable.  This requires a large measure of commonality of definitions of
+activities (source/sink categories) and fuel product groups and the use of a reporting
+discipline which makes evident the construction of the inventory from the activity data.
+Specific guidelines for reporting have been prepared.  In order to reduce the uncertainty
+created by possibly different definitions, the IPCC Reporting Instructions have largely
+adopted definitions utilised by the IEA for the regular collection of energy data from
+OECD member countries.  The active co-operation between the UN Statistical Division
+(New York), the UN ECE (Geneva), Eurostat and the IEA has ensured that there are
+now very few differences between the definitions employed by these organisations for the
+collection of their energy data.  The IEA definitions may be found in the Glossary at the
+end of the Reporting Instructions (Volume 1).
+Although common standards for the collection of data by international organisations exist
+the presentation of the data collected can be different.  At least five aspects of energy
+data presentations need to be checked prior to using data for greenhouse gas inventories:
+•
+Are the energy data expressed in terms of net calorific values (NCV) or gross
+calorific values (GCV)?2  Since most of the world uses net calorific values, the IPCC
+Guidelines uses net calorific values.
+•
+Are non-commercial fuels, including wood and other biomass fuels, included?3
+•
+Are wood waste, agricultural wastes or waste-derived fuels included if combusted
+for energy production?  These fuels should be accounted for in the IPCC
+methodology, but are included  with biomass fuels.
+                                                  
+     2 The IEA generally reports data in net calorific values. The difference between the net and
+the gross calorific value of a fuel is the heat of condensation of moisture in the fuel during
+combustion. The net calorific value excludes this. The IEA assumes that net calorific values are
+5 per cent lower than gross calorific values for oil and coal, and 10 per cent lower for natural
+gas.
+     3 While some of these fuels (such as wood) may be included in national or
+international data sets, it is likely that they are underestimated due to poor record-
+keeping and lack of statistical information for non-commercial fuels.
+ENERGY
+1.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+•
+Is non-energy fuel usage (if non-oxidised) accounted for?4
+•
+How are international bunker fuels for air and ship transport treated?5
+Given responses to these questions, several adjustments may need to be made to the
+energy data being used in order to formulate a complete inventory of greenhouse gases.
+If published IEA data are being used the following corrections must be made:
+1
+Consumption of vegetal fuels in non-OECD countries should be added to
+commercial fuel consumption.  Estimates of the former are available in the IEA
+publication cited.  Consumption of vegetal fuels, as declared by OECD countries in
+their reports to the IEA, are included as “Combustible Renewables and Wastes” in
+the IEA statistics for these countries.
+2
+International energy statistics show fuel consumption by industrial and commercial
+electricity generators (autoproducers) as an identified part of fuel use by the energy
+industries.  In order to harmonise inventory preparation with the EMEP/CORINAIR
+methods, countries preparing IPCC inventories should include autoproducer fuel
+consumption in the industry and commercial sectors and remove it from energy
+industries.  See Recent Developments above.
+3
+Care is required when estimating the amount of fuel used without oxidation in the
+manufacture of non-energy products.  IEA data generally cover only deliveries to the
+industry sector manufacturing such products.  Some of the fuels delivered will be
+oxidised by the user.   See Chapter 2, Industrial Processes, Overview.
+4
+IEA data do not include deliveries of oil for international air transport as part of the
+International Bunkers data.  Where data are available they are identified as part of
+the national transport sector fuel consumption.  UN estimates are available for
+many countries.
+1 . 2 . 3 U n c e r t a i n t y
+The Reporting Instructions, Volume 1, make explicit provision for the reporting of
+estimates from all source categories identified in the Standard Data Tables.  Energy
+activity data and emission factors are both subject to wide variations through
+uncertainties in basic data, identification of fuel qualities, calorific values and
+measurements in emissions.  Furthermore, the uncertainties in estimates of fugitive
+emissions can be larger than those from fuel combustion as wider ranges in natural
+resource conditions and operations practice exist for fuel extraction and processing.  This
+topic is discussed further in Section 1.8.7.  Managing and combining uncertainty estimates
+from several sources is discussed in Appendix 1 to the Reporting Instructions.
+                                                  
+     4 This is normally reported in primary energy requirements but is not combusted and
+therefore does not contribute directly to greenhouse gas emissions.
+     5 International bunker fuels are combusted in ships at sea and by airplanes (both
+undertaking international movements) and therefore should be included in global
+greenhouse gas estimations.  Following guidance from the INC, the IPCC recommends
+that every country estimate emissions from international bunker fuels sold within national
+boundaries, but that these emissions would be reported separately and, as far as possible,
+excluded from national totals.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.7
+1.3
+Fuel Combustion: Overview
+In the initial stages of the IPCC/OECD/IEA programme it was recognised that work on
+both methods development and national inventories needed to be prioritised, as it was
+not possible to deal with all of the gases and sources simultaneously.  Priority was given
+to the direct GHGs in the order: carbon dioxide, methane and nitrous oxide
+(IPCC/OECD, 1991).  In Phase II of the Guidelines development, an attempt has been
+made to identify default methods for a simplified Tier I method for estimating emissions
+of the GHGs and SO2.
+The purpose of a Tier 1 method is to assist countries that cannot access detailed fuel use
+and technology data to develop emission inventories.  Consequently, the Tier 1 method
+should enable at least rough emission estimations of CO2, CH4, N2O, NOx, CO and
+NMVOC using energy statistics, and of SO2 by using additional assumptions on the
+sulphur content of the fuels.
+The Tier 1 method should be used in cases where no detailed information is available on
+fuel type, technology and operating conditions.  If countries have more exact national
+emission factors, these (and not the default factors) should be used.
+Countries wanting to do more detailed emission estimations may use the Tier 2 method
+described in Section 1.5.  A third option which may be used (Tier 3) is the CORINAIR 94
+methodology which is described in the EEA TF Emission Inventory Guidebook and is
+available on CD-ROM6.
+1.4
+Simple Methods (Tier 1) for Fuel
+Combustion
+The Tier 1 method for CO2 is fairly well established and is explained in Section 1.4.1.  For
+non-CO2 gases, a simplified methodology has been developed to estimate emissions by
+applying emission factors to fuel statistics which are organised by sector.  In reality, emissions of
+these gases depend on the fuel type used, combustion technology, operating conditions, control
+technology, and on maintenance and age of the equipment.  However, since it is unlikely that
+many countries will have this detailed data, the Tier 1 method ignores these refinements (see
+Box 1).
+Section 1.4.2 provides average non-CO2 emission factors for the agreed IPCC source
+categories together with additional information on the range of these factors and their
+use.  The proposed values are based on emission factors included in Radian Corporation
+(1990), US EPA (1995), the EDGAR database7, the CORINAIR 1990 database and
+scientific reports from different countries.  SO2 emission factors are estimated using a
+formula based on sulphur content in the fuel.  The compilation of default factors for
+biomass fuels in the “Other Sectors” has been based on measurement data reported by
+Smith and Ramakrishna (1990), Berdowski et al. (1993a and 1993b), Delmas (1993), Smith
+et al. (1993), Delmas et al. (1995), Veldt and Berdowski (1995) and Brocard et al. (1996).
+                                                  
+     6 The CD-ROM may be obtained by contacting the European Environment Agency,
+Kongens Nytorv 6, 1050 Copenhagen, Denmark.
+     7 EDGAR Version 2.0 was developed by TNO and RIVM and is a set of global
+emission inventories of greenhouse gases and ozone-depleting substances for all
+anthropogenic and most natural sources on a per country basis and on 1o x 1o grid
+(Olivier et al., 1995).
+ENERGY
+1.8
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+For aircraft, the emission factors for the Tier 1 method are based on the fleet average
+values of NOx, CO and NMVOC of the global inventories compiled by NASA,
+ECAC/ANCAT, WSL and NLR [Wuebbles et al. (1993);  Olivier (1995);  Brok (1995)].
+BOX 1
+MAIN FUEL GROUPS
+In the Tier 1 method for non-CO2 gases, the fuels are aggregated into the
+following main groups:
+• • coal
+• • natural gas
+• oil
+gasoline for transport;
+diesel oil for transport;
+other oil products.
+• biomass
+wood / wood waste;
+charcoal;
+other biomass and wastes (includes dung, agricultural, municipal and
+industrial wastes, bagasse and agricultural residues).
+Note:  Refer to Section 1.2 of the Common Reporting Framework in the
+Reporting Instructions for details on which products are included in each of
+the main groups.
+The default emission factors are internally consistent and it is essential to preserve this
+consistency when replacing the default by local values so that total emissions of carbon
+(for example) do not exceed the carbon available in the fuel.
+1 . 4 . 1 C a r b o n  D i o x i d e  ( C O 2 )  E m i s s i o n s
+In this section the methodology for estimating CO2 emissions from energy is discussed.
+Carbon dioxide (CO2) is the most common greenhouse gas produced by anthropogenic
+activities, accounting for about 60 per cent of the increase in radiative forcing since pre-
+industrial times (IPCC, 1992).  By far the largest source of CO2 emissions is from the
+oxidation of carbon when fossil fuels are burned, which accounts for 70-90 per cent of
+total anthropogenic CO2 emissions.  When fuels are burned, most carbon is emitted as
+CO2 immediately during the combustion process.  Some carbon is released as CO, CH4,
+or non-methane hydrocarbons, which oxidise to CO2 in the atmosphere within a period
+from a few days to 10-11 years.  The IPCC methodology accounts for all of the carbon
+from these emissions in the total for CO2 emissions.  The other carbon-containing gases
+are also estimated and reported separately (see following sections for methodologies for
+estimating CH4, CO, and NMVOCs).8
+                                                  
+     8 It is important to note that there is an intentional double counting of carbon emitted
+from combustion. This format treats the non-CO2 gases as a subset of CO2 emissions
+and ensures that the CO2 emission estimates reported by each country represent the
+entire amount of carbon that would eventually be present in the atmosphere as CO2. The
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.9
+Fuel combustion is widely dispersed throughout most activities in national economies
+making assembly of a complete record of the quantities of each fuel type consumed in
+each "end use" activity a considerable task which some countries have not yet completed.
+Fortunately, it is possible to estimate national CO2 emissions by accounting for the
+carbon in fuels supplied to the economy.  This is the basis of the IPCC Reference
+Approach.  The supply of fuels is simple to record and is more likely to be available in
+many countries than detailed end use consumption statistics.
+The Reference Approach requires statistics for production of fuels and their external
+trade as well as changes in their stocks.  It also needs a limited number of figures for the
+consumption of fuels used for non-energy purposes where carbon may be stored.  It uses
+a simple assumption: once carbon is brought into a national economy in fuel, it is either
+saved in some way (e.g., in increases of fuel stocks, stored in products, left unoxidised in
+ash) or it must be released to the atmosphere.  In order to calculate the carbon released
+it is not necessary to know exactly how the fuel was used or what intermediate
+transformations it underwent.  In this respect the methodology may be termed a “top-
+down” approach compared with the “bottom-up” methods used for other gases.  As
+stated in the Overview, this does not mean that a “bottom-up” approach should not be
+followed for estimating CO2 emissions but the total emissions must be compared with
+those obtained from the Reference Approach.  A “bottom-up” method for CO2 is briefly
+discussed later in this section.
+When estimating CO2 emissions from fuel combustion there are a number of points of a
+statistical, technical or procedural nature which affect several of the estimation methods.
+•
+Fuel Carbon and Energy Content: There is considerable variation in the carbon
+and energy content by weight of fuels.  However, expressing the carbon emission
+factor as the carbon content per unit of energy released reduces this variation
+because of the close link between the carbon content and energy value of the fuel.
+It is natural therefore that all fuel supply and consumption data for combustion
+emission calculations be expressed in energy units.  Energy data expressed in other
+units should be converted to terajoules before use.
+•
+Unoxidised Carbon: When energy is consumed not all of the carbon in the fuel
+oxidises to CO2.  Incomplete oxidation occurs due to inefficiencies in the
+combustion process that leave some of the carbon unburned or partly oxidised as
+soot or ash.
+•
+Stored Carbon:  Some of the fuel supplied to an economy is used as a raw
+material (or feedstock) for manufacture of products such as plastics, fertiliser, or in
+a non-energy use (e.g. bitumen for road construction, lubricants).  In some cases,
+the carbon from the fuels is oxidised quickly to CO2.  In other cases the carbon is
+stored (or sequestered) in the product, sometimes for as long as centuries.  The
+amounts stored for long periods are called stored carbon and should be deducted
+from the carbon emissions calculation.  Estimation of stored carbon requires data on
+fuel used as feedstock and/or quantities of non-energy fuel products produced.  The
+calculations are discussed within each of the alternative approaches presented in this
+section.
+•
+Bunker Fuels: The IPCC methodology subtracts the quantities delivered to and
+consumed by ships or aircraft for international transport from the fuel supply to the
+country. In this manner, the CO2 emissions arising from the use of international bunkers
+                                                                                                                                
+reasons for this double counting are discussed in the Overview of the IPCC Guidelines,
+General Notes on the Guidelines.
+ENERGY
+1.10
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+are not included in the national total.  To simplify the preparation of global estimates,
+these emissions should be brought together in a separate table.
+•
+Biomass Fuels: Biomass fuels are included in the national energy and emissions
+accounts for completeness.  These emissions should not be included in national CO2
+emissions from fuel combustion.  If energy use, or any other factor, is causing a long
+term decline in the total carbon embodied in standing biomass (e.g. forests), this net
+release of carbon should be evident in the calculation of CO2 emissions described in
+the Land Use Change and Forestry chapter.
+All of the above issues are addressed within the methods presented in the remainder of
+this section.
+Approaches For Estimating CO2 Emissions
+The estimation process can be divided into six steps that lead to figures for CO2
+emissions from fuel combustion.
+1
+Estimate consumption of fuels by fuel/product type.
+2
+Convert  the fuel data to a common energy unit (TJ), if necessary.
+3
+Select carbon emission factors for each fuel/product type and estimate the total
+carbon content of the fuels.
+4
+Estimate the amount of carbon stored in products for long periods of time.
+5
+Account for carbon not oxidised during combustion.
+6
+Convert emissions of carbon to full molecular weight of CO2 .
+1 . 4 . 1 . 1
+I P C C  R E F E R E N C E  A P P R O A C H
+Estimate Fuel Consumption
+The first step of the IPCC Reference Approach is to estimate apparent consumption of
+fuels within the country.  This requires a balance of primary fuels produced, plus imports,
+minus exports, minus international bunkers and minus net changes in stocks.  In this way
+carbon is brought into the country from energy production and imports (adjusted for
+stock changes) and moved out of the country through exports and international bunkers.
+In order to avoid double counting it is important to distinguish between primary fuels,
+which are fuels found in nature such as coal, crude oil and natural gas, and secondary fuels
+or fuel products, such as gasoline and lubricants, which are derived from primary fuels.
+To calculate the supply of fuels to the country, the following data are required for each
+fuel and inventory year:
+•
+the amounts of primary fuels produced (production of secondary fuels and fuel
+products is excluded);
+•
+the amounts of primary and secondary fuels and fuel products imported;
+•
+the amounts of primary and secondary fuels and fuel products exported;
+•
+the amounts of primary and secondary fuels used in international bunkers;
+•
+the net increases or decreases in stocks of fuels.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.11
+The apparent consumption of primary fuels is, therefore, calculated from the above data
+as:
+Apparent Consumption = Production + Imports - Exports
+- International Bunkers - Stock Change.
+An increase in stocks is a positive stock change which withdraws supply from
+consumption.  A stock reduction is a negative stock change which, when subtracted in the
+equation, causes an increase in apparent consumption.
+Apparent consumption of secondary fuels should be added to primary apparent
+consumption.  The production (or manufacture) of secondary fuels should be ignored in
+the calculations because the carbon in these fuels will already have been included in the
+supply of primary fuels from which they were derived; for instance, the estimate for
+apparent consumption of crude oil already contains the carbon from which gasoline
+would be refined.  Apparent consumption of secondary fuels is calculated as follows:
+Apparent Consumption = Imports - Exports - International Bunkers
+- Stock Change.
+Note that this calculation can result in negative numbers for apparent consumption.  This
+is a perfectly acceptable result for the purposes of this calculation since it indicates a net
+export or stock increase in the country.
+Since carbon content typically varies by fuel type, data should be reported for detailed
+categories of fuel and product types as shown in Table 1-1.  The table also illustrates the
+inputs and calculations recommended for the IPCC Reference Approach.
+ENERGY
+1.12
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-1
+ IPCC REFERENCE APPROACH
+ENTRIES AND CALCULATIONS FOR STEPS (1) AND (2)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+ (8)
+Fuel
+Production
+Imports
+Exports
+International
+Bunkers
+Stock
+Change
+Apparent
+Consumption(a)
+Conversion
+Factor
+Apparent
+Consumption
+(TJ)
+A) Liquid Fossil
+sum(b)
+sum
+Primary Fuels
+1) Crude Oil
+input
+input
+input
+NA
+input
+calc
+input
+calc
+2) Orimulsion
+input
+input
+input
+NA
+input
+calc
+input
+calc
+3) N. Gas Liquids
+input
+input
+input
+NA
+input
+calc
+input
+calc
+Secondary Fuels / Products
+4) Gasoline
+NA
+input
+input
+input
+input
+calc
+input
+calc
+5) Jet Kerosene
+NA
+input
+input
+input
+input
+calc
+input
+calc
+6) Other Kerosene
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+7) Shale Oil
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+8) Gas / Diesel Oil
+NA
+input
+input
+input
+input
+calc
+input
+calc
+9) Residual Fuel Oil
+NA
+input
+input
+input
+input
+calc
+input
+calc
+10) LPG
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+11) Ethane
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+12) Naphtha
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+13) Bitumen
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+14) Lubricants
+NA
+input
+input
+input
+input
+calc
+input
+calc
+15) Petroleum Coke
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+16) Refinery Feedstocks
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+17) Other Oil
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+B) Solid Fossil
+sum
+sum
+Primary Fuels
+18) Anthracite(c)
+input
+input
+input
+NA
+input
+calc
+input
+calc
+19) Coking Coal
+input
+input
+input
+NA
+input
+calc
+input(d)
+calc
+20) Other Bit. Coal
+input
+input
+input
+input
+input
+calc
+input(d)
+calc
+21) Sub-bit. Coal
+input
+input
+input
+input
+input
+calc
+input(d)
+calc
+22) Lignite
+input
+input
+input
+NA
+input
+calc
+input(d)
+calc
+23) Oil Shale
+input
+input
+input
+NA
+input
+calc
+input
+calc
+24) Peat
+input
+input
+input
+NA
+input
+calc
+input
+calc
+Secondary Fuels
+25) BKB & Patent Fuel
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+26) Coke Oven/Gas Coke
+NA
+input
+input
+NA
+input
+calc
+input
+calc
+C) Gaseous Fossil
+sum
+sum
+27) Natural Gas (Dry)
+input
+input
+input
+NA
+input
+calc
+input
+calc
+Total(e)
+sum
+sum
+Information Entries
+Biomass Total
+sum
+sum
+28) Solid Biomass
+input
+input
+input
+NA
+input
+calc
+input
+calc
+29) Liquid Biomass
+input
+input
+input
+NA
+input
+calc
+input
+calc
+30) Gas Biomass
+input
+input
+input
+NA
+input
+calc
+input
+calc
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.13
+TABLE 1-1 (CONTINUED)
+ IPCC REFERENCE APPROACH
+ENTRIES AND CALCULATIONS FOR STEPS (3) TO (6)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+Fuel
+Apparent
+Consumption
+(TJ)
+Carbon
+Emission
+Factor(f)
+(t C/TJ)
+Carbon
+Content
+(Gg C)
+Carbon
+Stored
+(Gg C)
+Net
+Carbon
+Emissions
+(Gg C)
+Actual
+Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+A) Liquid Fossil
+sum
+sum
+sum
+sum
+sum
+sum
+Primary Fuels
+1) Crude Oil
+calc
+20.0
+calc
+calc
+calc
+calc
+2) Orimulsion
+calc
+22.0
+calc
+calc
+calc
+calc
+3) N. Gas Liquids
+calc
+17.2
+calc
+calc
+calc
+calc
+Secondary Fuels / Products
+4) Gasoline
+calc
+18.9
+calc
+calc
+calc
+calc
+5) Jet Kerosene
+calc
+19.5
+calc
+calc
+calc
+calc
+6) Other Kerosene
+calc
+19.6
+calc
+calc
+calc
+calc
+7) Shale Oil
+calc
+20.0
+calc
+calc
+calc
+calc
+8) Gas / Diesel Oil
+calc
+20.2
+calc
+Table 1-5
+calc
+calc
+calc
+9) Residual Fuel Oil
+calc
+21.1
+calc
+calc
+calc
+calc
+10) LPG
+calc
+17.2
+calc
+Table 1-5
+calc
+calc
+calc
+11) Ethane
+calc
+16.8
+calc
+Table 1-5
+calc
+calc
+calc
+12) Naphtha
+calc
+ (20.0)
+calc
+Table 1-5
+calc
+calc
+calc
+13) Bitumen
+calc
+22.0
+calc
+Table 1-5
+calc
+calc
+calc
+14) Lubricants
+calc
+(20.0)
+calc
+Table 1-5
+calc
+calc
+calc
+15) Petroleum Coke
+calc
+27.5
+calc
+calc
+calc
+calc
+16) Refinery Feedstocks
+calc
+(20.0)
+calc
+calc
+calc
+calc
+17) Other Oil
+calc
+(20.0)
+calc
+calc
+calc
+calc
+B) Solid Fossil
+sum
+sum
+sum
+sum
+sum
+sum
+Primary Fuels
+18) Anthracite(c)
+calc
+26.8
+calc
+calc
+calc
+calc
+19) Coking Coal
+calc
+25.8
+calc
+Table 1-5
+calc
+calc
+calc
+20) Other Bit. Coal
+calc
+25.8
+calc
+calc
+calc
+calc
+21) Sub-bit. Coal
+calc
+26.2
+calc
+calc
+calc
+calc
+22) Lignite
+calc
+27.6
+calc
+calc
+calc
+calc
+23) Oil Shale
+calc
+29.1
+calc
+calc
+calc
+calc
+24) Peat
+calc
+28.9
+calc
+calc
+calc
+calc
+Secondary Fuels
+25) BKB & Patent Fuel
+calc
+(25.8)
+calc
+calc
+calc
+calc
+26) Coke Oven/Gas Coke
+calc
+29.5
+calc
+calc
+calc
+calc
+C) Gaseous Fossil
+sum
+sum
+sum
+sum
+sum
+sum
+27) Natural Gas (Dry)
+calc
+15.3
+calc
+Table 1-5
+calc
+calc
+calc
+Total(e)
+sum
+sum
+sum
+sum
+sum
+sum
+Information Entries
+Biomass Total
+sum
+sum
+sum
+sum
+sum
+28) Solid Biomass
+calc
+29.9
+calc
+calc
+calc
+calc
+29) Liquid Biomass
+calc
+(20.0)
+calc
+calc
+calc
+calc
+30) Gas Biomass
+calc
+(30.6)(g)
+calc
+calc
+calc
+calc
+ENERGY
+1.14
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-1 (CONTINUED)
+ IPCC REFERENCE APPROACH
+EMISSIONS FROM INTERNATIONAL BUNKERS
+(INTERNATIONAL MARINE AND AIR TRANSPORT)(h)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+Fuel
+Quantities
+delivered(i)
+Conversion
+Factor
+(TJ/units)
+Quantities
+Delivered
+(TJ)
+Carbon
+Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+A) Solid Fossil
+Primary Fuels
+1) Other Bituminous Coal
+input
+input
+calc
+25.8
+calc
+calc
+2) Sub-Bituminous Coal
+input
+input
+calc
+26.2
+calc
+calc
+Liquid Fossil
+Secondary Fuels
+3) Gasoline
+input
+input
+calc
+18.9
+calc
+calc
+4) Jet Kerosene
+input
+input
+calc
+19.5
+calc
+calc
+5) Gas / Diesel Oil
+input
+input
+calc
+20.2
+calc
+calc
+6) Residual Fuel Oil
+input
+input
+calc
+21.1
+calc
+calc
+7) Lubricants
+input
+input
+calc
+(20.0)
+calc
+calc
+Total
+sum
+TABLE 1-1 (CONTINUED)
+ IPCC REFERENCE APPROACH
+EMISSIONS FROM INTERNATIONAL BUNKERS
+(INTERNATIONAL MARINE AND AIR TRANSPORT)
+(21)
+(22)
+(23)
+(24)
+(25)
+Fuel
+Fraction of
+Carbon
+Stored
+Carbon
+Stored
+(Gg C)
+Net Carbon
+Emissions
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+A) Solid Fossil
+Primary Fuels
+1) Other Bituminous Coal
+NA
+calc
+calc
+calc
+calc
+2) Sub-Bituminous Coal
+NA
+calc
+calc
+calc
+calc
+Liquid Fossil
+Secondary Fuels
+3) Gasoline
+NA
+calc
+calc
+calc
+calc
+4) Jet Kerosene
+NA
+calc
+calc
+calc
+calc
+5) Gas / Diesel Oil
+NA
+calc
+calc
+calc
+calc
+6) Residual Fuel Oil
+NA
+calc
+calc
+calc
+calc
+7) Lubricants
+0.5
+calc
+calc
+calc
+calc
+Total
+sum
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.15
+TABLE 1-1 (CONTINUED)
+EXPLANATORY NOTES
+calc = value to be calculated,    NA = not applicable
+(a) Apparent Consumption = Production + Imports - Exports - International Bunkers - Stock Changes.  A stock
+build is positive; a stock draw is negative.
+(b) Apparent Consumption for the aggregate categories of Liquid Fossil, Solid Fossil, Gaseous Fossil, and Biomass
+Fuels equal the sum of Apparent Consumption over the fuel types within the appropriate categories.
+(c) If anthracite is not separately identifiable, include it with Other Bituminous Coal.
+(d) If data are in 103t, separate conversion factors are available for Production, Imports and Exports in Table 1-2.
+Each of these entries should be multiplied by the appropriate conversion factor.  Then, the results should be
+summed to find Apparent Consumption in TJ (Column 8).
+(e) Total should include Liquid, Solid, and Gaseous Fossil Fuel subtotals only.  Biomass subtotals are for reference
+purposes only and should not be included in the totals.
+(f) If value is in parenthesis it is a default value until a fuel-specific CEF is determined.
+(g) Based on the assumption that 50 per cent of the carbon in the biomass is converted to methane.
+(h) The bunker emissions are not to be added to national totals.
+(i) See Column 4, “International Bunkers”.
+_________________________________________________________________________
+Convert Fuel Data to a Common Energy Unit (if necessary)
+In the OECD/IEA Energy Statistics, and other energy data compilations, production and
+consumption of solid and liquid fuels are specified in 103 tonnes.  To convert tonnes to
+terajoules, net calorific values (NCV) must be applied.  The values to convert from 103 tonnes
+to terajoules are in Table 1-2.  In some cases, particularly for coal, different NCVs are given for
+production, imports and exports in a given country and are used to convert each category
+separately when calculating apparent consumption.  For international bunkers and stock
+changes national experts can use a weighted average of the different NCVs, or use the one for
+the coal type which meets the largest share of total apparent consumption.  For refined
+products the NCVs from 103 tonnes to terajoules do not normally vary greatly by country and
+global default values are provided in Table 1-3.9
+National experts may use more detailed locally available NCVs.  In this case, the values used
+should also be reported and documented.  If original data are expressed in other energy units
+such as British thermal units (Btu's) or million tons of oil equivalent (Mtoe), they should be
+converted to terajoules using standard conversion factors.  If energy data are already available
+in terajoules on a net calorific value basis, no conversion is necessary and Column 7 of Table
+1-1 can be ignored.
+                                                  
+     9 Throughout the Guidelines net calorific values are used and expressed in SI units or
+multiples of SI units (for example TJ/kt).  The term Conversion Factor has two uses.  First,
+as net calorific value, to convert quantities expressed in natural units to energy units, and
+second as a scaling factor to convert one form of energy unit to another (e.g., Btu’s to
+GJ).
+ENERGY
+1.16
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-2
+1990  COUNTRY-SPECIFIC NET CALORIFIC VALUES FOR SELECTED NON-OECD COUNTRIES
+(Terajoule per kilotonne)
+Albania
+Algeria
+Angola
+Cabinda
+Argentina Armenia
+Azer-
+baijan
+Bahrain
+Bangla-
+desh
+Bela-
+russia
+Benin
+Bolivia
+OIL
+  Crude Oil
+41.45
+43.29
+42.75
+42.29
+-
+42.08
+42.71
+42.16
+42.08
+42.58
+43.33
+  NGL
+-
+43.29
+-
+42.50
+-
+-
+42.71
+42.71
+-
+-
+43.33
+COAL
+Hard Coal
+ Production
+-
+25.75
+-
+24.70
+-
+-
+-
+-
+-
+-
+-
+ Imports
+27.21
+25.75
+-
+30.14
+18.58
+18.58
+-
+20.93
+25.54
+-
+-
+ Exports
+-
+-
+-
+24.70
+18.58
+18.58
+-
+-
+25.54
+-
+-
+Lignite and Sub-Bituminous Coal
+ Production
+9.84
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ Imports
+-
+-
+-
+-
+14.65
+14.65
+-
+-
+14.65
+-
+-
+ Exports
+9.84
+-
+-
+-
+14.65
+14.65
+-
+-
+14.65
+-
+-
+Coal Products
+  Patent Fuel/BKB
+-
+-
+-
+-
+29.31
+29.31
+-
+-
+29.31
+-
+-
+  Coke Oven/Gas Coke
+27.21
+27.21
+-
+28.46
+25.12
+25.12
+-
+-
+25.12
+-
+-
+Brazil
+Brunei
+Bulgaria
+Came-
+roon
+Chile
+China
+Colombia
+Congo
+Cuba
+Cyprus
+Czech
+Republic
+OIL
+  Crude Oil
+42.54
+42.75
+42.62
+42.45
+42.91
+42.62
+42.24
+42.91
+41.16
+42.48
+41.78
+  NGL
+45.22
+42.75
+-
+-
+42.87
+-
+41.87
+-
+-
+-
+-
+COAL
+Hard Coal
+ Production
+18.42
+-
+24.70
+-
+28.43
+20.52
+27.21
+-
+-
+-
+24.40
+ Imports
+30.56
+-
+24.70
+-
+28.43
+20.52
+-
+-
+25.75
+25.75
+23.92
+ Exports
+-
+-
+-
+-
+-
+20.52
+27.21
+-
+-
+-
+27.98
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+7.03
+-
+17.17
+-
+-
+-
+-
+-
+12.26
+ Imports
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ Exports
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+15.26
+Coal Products
+  Patent Fuel/BKB
+-
+-
+20.10
+-
+-
+-
+-
+-
+-
+-
+21.28
+  Coke Oven/Gas Coke
+28.30
+-
+27.21
+-
+28.43
+28.47
+20.10
+-
+27.21
+-
+27.01
+Note:  A few of these countries have become OECD members subsequent to the production of this table.
+Crude oil conversion factors are based on weighted average production data.
+The conversion factors are those used by the IEA in the construction of energy balances.
+Source: OECD/IEA, 1993b.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.17
+TABLE 1-2 (CONTINUED)
+1990  COUNTRY-SPECIFIC NET CALORIFIC VALUES FOR SELECTED NON-OECD COUNTRIES
+(Terajoule per kilotonne)
+Ecuador
+Egypt
+Estonia Ethiopia
+Gabon
+Georgia Ghana
+Guate-
+mala
+Hong
+Kong
+Hungary
+India
+OIL
+  Crude Oil
+42.45
+42.54
+-
+42.62
+42.62
+42.08
+42.62
+42.45
+-
+40.36
+42.79
+  NGL
+42.45
+42.54
+-
+-
+-
+-
+-
+-
+-
+45.18
+43.00
+COAL
+Hard Coal
+ Production
+-
+-
+-
+-
+-
+18.58
+-
+-
+-
+16.42
+19.98
+ Imports
+-
+25.75
+18.58
+-
+-
+18.58
+25.75
+-
+25.75
+26.33
+25.75
+ Exports
+-
+-
+18.58
+-
+-
+18.58
+-
+-
+-
+24.15
+19.98
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+14.65
+-
+-
+-
+-
+-
+-
+10.55
+9.80
+ Imports
+-
+-
+14.65
+-
+-
+14.65
+-
+-
+-
+9.91
+-
+ Exports
+-
+-
+14.65
+-
+-
+14.65
+-
+-
+-
+-
+-
+Coal Products
+  Patent Fuel/BKB
+-
+-
+20.10
+-
+-
+29.31
+-
+-
+-
+21.44
+20.10
+  Coke Oven/Gas Coke
+-
+27.21
+25.12
+-
+-
+25.12
+-
+-
+27.21
+30.11
+-
+Indonesia
+Iran
+Iraq
+Israel
+Ivory
+Coast
+Jamaica Jordan
+Kazakh-
+stan
+Kenya
+Kuwait
+Kyrgy-
+zstan
+OIL
+  Crude Oil
+42.66
+42.66
+42.83
+42.54
+42.62
+42.16
+42.58
+42.08
+42.08
+42.54
+42.08
+  NGL
+42.77
+42.54
+42.83
+-
+-
+-
+-
+-
+-
+42.62
+-
+COAL
+Hard Coal
+ Production
+25.75
+25.75
+-
+-
+-
+-
+-
+18.58
+-
+-
+18.58
+ Imports
+25.75
+25.75
+-
+26.63
+-
+25.75
+-
+18.58
+25.75
+-
+18.58
+ Exports
+25.75
+-
+-
+-
+-
+-
+-
+18.58
+-
+-
+18.58
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+-
+-
+-
+-
+-
+14.65
+-
+-
+14.65
+ Imports
+-
+-
+-
+-
+-
+-
+-
+14.65
+-
+-
+14.65
+ Exports
+-
+-
+-
+-
+-
+-
+-
+14.65
+-
+-
+14.65
+Coal Products
+  Patent Fuel/BKB
+-
+-
+-
+-
+-
+-
+-
+29.31
+-
+-
+29.31
+  Coke Oven/Gas Coke
+27.21
+-
+-
+-
+-
+-
+-
+25.12
+-
+-
+25.12
+Note:  A few of these countries have become OECD members subsequent to the production of this table.
+Crude oil NCVs are based on weighted average production data.
+The NCVs are those used by the IEA in the construction of energy balances.
+Source: OECD/IEA, 1993b.
+ENERGY
+1.18
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-2 (CONTINUED)
+1990  COUNTRY-SPECIFIC NET CALORIFIC VALUES FOR SELECTED NON-OECD COUNTRIES
+(Terajoule per kilotonne)
+Latvia
+Leb-
+anon
+Libya
+Lithu-
+ania
+Malaysia
+Malta
+Mexico Moldova
+Mor-
+occo
+Mozam-
+bique
+Myan-
+mar
+OIL
+  Crude Oil
+-
+42.16
+43.00
+42.08
+42.71
+-
+42.35
+-
+43.00
+-
+42.24
+  NGL
+-
+-
+-
+-
+43.12
+-
+46.81
+-
+-
+-
+42.71
+COAL
+Hard Coal
+ Production
+-
+-
+-
+-
+25.75
+-
+24.72
+-
+23.45
+25.75
+25.75
+ Imports
+18.58
+-
+-
+18.59
+25.75
+25.75
+30.18
+18.58
+27.63
+25.75
+25.75
+ Exports
+18.58
+-
+-
+18.59
+25.75
+-
+22.41
+18.58
+-
+-
+-
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8.37
+ Imports
+14.65
+-
+-
+14.65
+-
+-
+-
+14.65
+-
+-
+-
+ Exports
+14.65
+-
+-
+14.65
+-
+-
+-
+14.65
+-
+-
+-
+Coal Products
+  Patent Fuel/BKB
+29.31
+-
+-
+29.31
+-
+-
+-
+29.31
+-
+-
+-
+  Coke Oven/Gas Coke
+25.12
+-
+-
+25.12
+27.21
+-
+27.96
+25.12
+27.21
+-
+27.21
+Nepal
+Neth.
+Antilles
+Neutral
+Zone
+Nigeria
+North
+Korea
+Oman
+Paki-
+stan
+Panama
+Para-
+guay
+Peru
+Philip-
+pines
+OIL
+  Crude Oil
+-
+42.16
+42.12
+42.75
+42.16
+42.71
+42.87
+42.16
+42.54
+42.75
+42.58
+  NGL
+-
+-
+-
+-
+-
+-
+-
+-
+-
+42.75
+-
+COAL
+Hard Coal
+ Production
+-
+-
+-
+25.75
+25.75
+-
+18.73
+-
+-
+29.31
+20.10
+ Imports
+25.12
+-
+-
+-
+25.75
+-
+27.54
+25.75
+-
+29.31
+20.52
+ Exports
+-
+-
+-
+25.75
+25.75
+-
+-
+-
+-
+-
+-
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+-
+-
+17.58
+-
+-
+-
+-
+-
+8.37
+ Imports
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ Exports
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Coal Products
+  Patent Fuel/BKB
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+  Coke Oven/Gas Coke
+-
+-
+-
+27.21
+27.21
+-
+-
+-
+-
+27.21
+27.21
+Note:  A few of these countries have become OECD members subsequent to the production of this table.
+Crude oil NCVs are based on weighted average production data.
+The NCVs are those used by the IEA in the construction of energy balances.
+Source: OECD/IEA, 1993b.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.19
+TABLE 1-2 (CONTINUED)
+1990  COUNTRY-SPECIFIC NET CALORIFIC VALUES FOR SELECTED NON-OECD COUNTRIES
+(Terajoule per kilotonne)
+Poland
+Qatar
+Romania
+Russia
+Saudi
+Arabia
+Senegal
+Sing-
+apore
+South
+Africa
+South
+Korea
+Slovak
+Republic
+Sri
+Lanka
+OIL
+  Crude Oil
+41.27
+42.87
+40.65
+42.08
+42.54
+42.62
+42.71
+44.13
+42.71
+41.78
+42.16
+  NGL
+-
+43.00
+-
+-
+42.62
+-
+-
+-
+-
+-
+-
+COAL
+Hard Coal
+ Production
+22.95
+-
+16.33
+18.58
+-
+-
+-
+25.09
+19.26
+-
+-
+ Imports
+29.41
+-
+25.12
+18.58
+-
+-
+-
+-
+27.21
+23.92
+25.75
+ Exports
+25.09
+-
+-
+18.58
+-
+-
+-
+25.09
+-
+-
+-
+Lignite and Sub-Bituminous Coal
+ Production
+8.36
+-
+7.24
+14.65
+-
+-
+-
+-
+-
+12.26
+-
+ Imports
+-
+-
+7.24
+14.65
+-
+-
+-
+-
+-
+-
+-
+ Exports
+9.00
+-
+-
+14.65
+-
+-
+-
+-
+-
+15.26
+-
+Coal Products
+  Patent Fuel/BKB
+20.93
+-
+14.65
+29.31
+-
+-
+-
+-
+-
+21.28
+-
+  Coke Oven/Gas Coke
+27.76
+-
+20.81
+25.12
+-
+-
+27.21
+-
+-
+27.01
+-
+Sudan
+Syria
+Chinese
+Taipei
+Tajik-
+istan
+Tanz-
+ania
+Thai-
+land
+Trini-
+dad /
+Tobago
+Tunisia
+Turk-
+meni-
+stan
+Ukraine
+Utd
+Arab
+Emir-
+ates
+OIL
+  Crude Oil
+42.62
+42.04
+41.41
+42.08
+42.62
+42.62
+42.24
+43.12
+42.08
+42.08
+42.62
+  NGL
+-
+-
+-
+-
+-
+46.85
+-
+43.12
+-
+-
+-
+COAL
+Hard Coal
+ Production
+-
+-
+25.96
+18.58
+25.75
+-
+-
+-
+-
+21.59
+-
+ Imports
+-
+-
+27.42
+18.58
+-
+26.38
+-
+25.75
+18.58
+25.54
+-
+ Exports
+-
+-
+-
+18.58
+-
+-
+-
+-
+18.58
+21.59
+-
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+-
+-
+-
+12.14
+-
+-
+-
+14.65
+-
+ Imports
+-
+-
+-
+14.65
+-
+-
+-
+-
+14.65
+14.65
+-
+ Exports
+-
+-
+-
+14.65
+-
+-
+-
+-
+14.65
+14.65
+-
+Coal Products
+  Patent Fuel/BKB
+-
+-
+-
+29.31
+-
+-
+-
+-
+29.31
+29.31
+-
+  Coke Oven/Gas Coke
+-
+-
+-
+25.12
+27.21
+27.21
+-
+27.21
+25.12
+25.12
+-
+Note:  A few of these countries have become OECD members subsequent to the production of this table.
+Crude NCVs are based on weighted average production data.
+The NCVs are those used by the IEA in the construction of energy balances.
+Source: OECD/IEA, 1993b.
+ENERGY
+1.20
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-2 (CONTINUED)
+1990  COUNTRY-SPECIFIC NET CALORIFIC VALUES FOR SELECTED NON-OECD COUNTRIES
+(Terajoule per kilotonne)
+Uruguay
+Uzbek-
+istan
+Venez-
+uela
+Viet
+Nam
+Yemen Former
+Yugo-
+slavia
+Zaire
+Zambia
+Zim-
+babwe
+OIL
+  Crude Oil
+42.71
+42.08
+42.06
+42.61
+43.00
+42.75
+42.16
+42.16
+-
+  NGL
+-
+-
+41.99
+-
+-
+-
+-
+-
+-
+COAL
+Hard Coal
+ Production
+-
+18.58
+25.75
+20.91
+-
+23.55
+25.23
+24.71
+25.75
+ Imports
+-
+18.58
+-
+-
+-
+30.69
+25.23
+-
+25.75
+ Exports
+-
+18.58
+25.75
+20.91
+-
+-
+-
+24.71
+25.75
+Lignite and Sub-Bituminous Coal
+ Production
+-
+-
+-
+-
+-
+8.89
+-
+-
+-
+ Imports
+-
+14.65
+-
+-
+-
+16.91
+-
+-
+-
+ Exports
+-
+14.65
+-
+-
+-
+16.90
+-
+-
+-
+Coal Products
+  Patent Fuel/BKB
+-
+29.31
+-
+-
+-
+20.10
+29.31
+-
+-
+  Coke Oven/Gas Coke
+-
+25.12
+27.21
+27.21
+-
+26.90
+27.21
+-
+27.21
+Note:  A few of these countries have become OECD members subsequent to the production of this table.
+Crude oil NCVs are based on weighted average production data.
+The NCVs are those used by the IEA in the construction of energy balances.
+Source: OECD/IEA, 1993b.

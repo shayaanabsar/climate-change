@@ -1,0 +1,2779 @@
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.1 
+CHAPTER 7  
+PRECURSORS AND INDIRECT 
+EMISSIONS  
+Volume 1: General Guidance and Reporting 
+7.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Michael Gillenwater (USA), Kristina Saarinen (Finland), 
+and Ayite-Lo N. Ajavon (Togo)  
+Contributing Author 
+Keith A. Smith (UK) 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3 
+Contents 
+7  
+Precursors and Indirect Emissions 
+7.1 
+Introduction ......................................................................................................................................... 7.4 
+7.2 
+Precursor emissions ............................................................................................................................. 7.4 
+7.2.1 
+Inventory of precursors ............................................................................................................... 7.5 
+7.2.2 
+Link to relevant methodology chapters  
+in the EMEP/CORINAIR Emission Inventory Guidebook ......................................................... 7.7 
+7.3 
+Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3 .................... 7.15 
+7.3.1 
+Methodology ............................................................................................................................. 7.15 
+7.3.2 
+Quality Assurance/Quality Control, Reporting and Documentation ......................................... 7.16 
+References ........................................................................................................................................................  7.16 
+ 
+Equations 
+Equation 7.1 
+N2O emissions from atmospheric deposition of NOx and NH3 .......................................... 7.15 
+ 
+Tables  
+Table 7.1 
+Link between the IPCC categories and  the corresponding methodology chapters in 
+EMEP/CORINAIR Guidebook ........................................................................................... 7.7 
+ 
+Boxes 
+Box 7.1 
+CLRTAP and Emission Inventory Guidebook .................................................................... 7.5 
+Box 7.2 
+Calculating CO2 inputs to the atmosphere  
+from emissions of carbon-containing compounds ............................................................... 7.6 
+Volume 1: General Guidance and Reporting 
+7.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7 PRECURSORS AND INDIRECT EMISSIONS 
+7.1 
+INTRODUCTION 
+Although they are not included in global warming potential-weighted greenhouse gas emission totals, emissions of 
+carbon monoxide (CO), oxides of nitrogen (NOx), non-methane volatile organic compounds (NMVOCs), and 
+sulphur dioxide (SO2) are reported in greenhouse gas inventories. Carbon monoxide (CO), Nitrogen oxides (NOx) 
+and NMVOC in the presence of sunlight contribute to the formation of the greenhouse gas ozone (O3) in the 
+troposphere and are therefore often called ‘ozone precursors’. Furthermore, NOx emission plays an important role in 
+the earth’s nitrogen cycle. Sulphur Dioxide emissions lead to formation of sulphate particles, which also play a role 
+in climate change. Ammonia (NH3) is an aerosol precursor, but is less important for aerosol formation than SO2. 
+Section 7.2 addresses the estimation and reporting of the precursors for national inventories. The methodologies 
+for ambient air quality emission inventories have been elaborated in detail in the EMEP1/CORINAIR Emission 
+Inventory Guidebook (Guidebook), and these methodologies for CO, NOx, NMVOCs, and SO2 emissions are 
+referenced in this chapter rather than to be included in the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories (2006 Guidelines). Exceptions are for sources not well-covered by the Guidebook. 
+Section 7.3 addresses nitrous oxide (N2O) emissions that result from the deposition of the nitrogen emitted as NOx 
+and NH3. Nitrous oxide is produced in soils through the biological processes of nitrification and denitrification. 
+Simply defined, nitrification is the aerobic microbial oxidation of ammonium to nitrate and denitrification is the 
+anaerobic microbial reduction of nitrate to nitrogen gas (N2). Nitrous oxide is a gaseous intermediate in the reaction 
+sequence of denitrification and a by-product of nitrification that leaks from microbial cells into the soil atmosphere. 
+One of the main controlling factors in this reaction is the availability of inorganic nitrogen in the soil and therefore 
+deposition of nitrogen resulting from NOx and ammonia (NH3) will enhance emissions. N2O emissions will also be 
+enhanced if nitrogen is deposited in the ocean or in lakes. For this reason the 2006 Guidelines include guidance for 
+estimating N2O emissions resulting from nitrogen deposition of all anthropogenic sources of NOx and NH3. Only 
+agricultural sources of nitrogen were considered in the Revised 1996 Guidelines (IPCC, 1997).  
+Guidance is provided in Section 7.3 on estimating N2O emissions from atmospheric deposition resulting from all 
+categories except agricultural soil management and manure management. Section 7.3 provides information on 
+NOx emissions. Countries may use national methodologies to estimate emissions of NH3 not originating from 
+agriculture. NH3 emissions are also covered in the EMEP/CORINAIR Emission Inventory Guidebook. 
+7.2 
+PRECURSOR EMISSIONS 
+Where the country already has inventories for precursors, the results should be reported in the inventory. In some 
+countries, air pollutant emission inventories are collected via separate procedures than the inventory of direct 
+greenhouse gases, and the methods to produce these inventories can differ from those for greenhouse gases. Also, 
+while the greenhouse gas emissions and sinks inventories are often based on national statistics, air pollutant 
+emission inventories are often developed using plant specific data. Countries should consider whether there is any 
+scope for improving consistency between inventories or cross-checking estimates. 
+Detailed methodologies for estimating the emissions of precursors are provided in the EMEP/CORINAIR 
+Emission Inventory Guidebook (http://reports.eea.eu.int/EMEPCORINAIR4/en). This guidebook has been 
+developed for emission inventories of substances regulated under the UNECE Convention on Long-Range 
+Transboundary Air Pollution (CLRTAP) (see Box 7.1) and covers all source sectors and should therefore be 
+considered as primary source of information for estimation of these emissions. 
+Table 7.1 provides a linkage between the IPCC categories and the corresponding methodology chapters in the 
+EMEP/CORINAIR Guidebook. This table provides information on the specific EMEP/CORINAIR chapters that list 
+methodologies for preparing NOx, CO, NMVOCs, NH3 and SO2
+2
+ inventories. It also includes information on the 
+availability of methods and the significant precursor emissions from particular categories.  
+Some of the methodologies and emission factors in the EMEP/CORINAIR Guidebook are technology-specific 
+and are relevant to conditions and categories in both developed and developing countries. However, for some 
+                                                           
+1  Cooperative programme for the monitoring and evaluation of the long-range transmission of air pollutants in Europe   
+(EMEP). 
+2  The EMEP/CORINAIR Nomenclature for Reporting (NFR) source categories have been developed to be compatible to the 
+IPCC reporting categories. 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.5 
+sectors, like solvents, small combustion sources (biomass in particular) and open burning, differences between 
+the developed and developing countries may be larger, and the EMEP/CORINAIR Guidebook should be used 
+with great care. 
+BOX 7.1 
+ CLRTAP AND EMISSION INVENTORY GUIDEBOOK 
+The Convention on Long-Range Transboundary Air Pollution has been in force since 1979 and 
+includes eight protocols with requirements to reduce emissions and technical annexes on 
+abatement techniques. More detailed information on the Convention is available at 
+http://www.unece.org/env/lrtap/welcome.html. As emissions of oxides of nitrogen (NOx), carbon 
+monoxide (CO), non-methane volatile organic compounds (NMVOCs), and sulphur dioxide (SO2) 
+are reported both to the UNFCCC and UNECE CLRTAP it is important to ensure consistent 
+methodologies and reporting between these two Conventions. (UNECE, 2003) 
+The EMEP/CORINAIR Guidebook has been prepared by the LRTAP Task Force on Emission 
+Inventories and Projections (TFEIP) and is updated regularly by the Expert Panels under the 
+TFEIP (http://tfeip-secretariat.org/unece.htm) to provide comprehensive information and 
+methodologies for estimating emissions. The EMEP/CORINAIR Emission Inventory Guidebook is 
+published by the European Environment Agency (EEA). 
+ 
+7.2.1 
+Inventory of precursors 
+An inventory of precursors typically includes oxides of nitrogen, carbon monoxide, non-methane volatile organic 
+compounds, and emissions of sulphur compounds. When estimating emissions of these air pollutants, the use of 
+detailed process or facility-specific data (bottom-up data) gives more accurate estimates than the use of general 
+aggregated emission factors. For all pollutants and source categories it is critical to apply methodologies and 
+emission factors that account for the presence of any emission controls or abatement measures. For large point 
+sources many countries have a registry of individual air quality pollutant emissions reported by the plants. When 
+using data reported by the plants it is good practice to ensure that emissions are not double counted with the top-
+down inventory data. Data reported by the plants can also be used to check completeness of the inventory. 
+7.2.1.1 
+ENERGY 
+For most countries, road transportation will be a major source of NOx, CO, and NMVOC emissions. Public 
+electricity and heat production will likely be the major source of SO2 emissions in countries where coal is used 
+extensively, and also an important source of NOx emissions. Industrial combustion will also be a source of SO2, 
+NOx and CO emissions and residential combustion a source of CO emissions. Oil production will likely be a 
+source of NMVOC, NOx, and, CO emissions in countries that produce oil and gas. 
+Most NOx emissions resulting from fuel combustion are typically ‘fuel-NO’ that is formed from the conversion 
+of chemically bound nitrogen in the fuel. The content of nitrogen in different fuel varies. Depending on the 
+combustion temperature, thermal-NOx can also be formed from nitrogen contained in the combustion intake air. 
+Carbon monoxide and NMVOCs are generated during under-stoichiometric combustion conditions and are 
+dependent on a variety of factors, including fuel type and combustion conditions. 
+Emissions of sulphur oxides (SOx) are primarily related to the sulphur content of the fuel, although some sulphur 
+can be retained in the ash. Abatement in stationary combustion can reduce the amount emitted. 
+7.2.1.2 
+INDUSTRIAL PROCESSES AND PRODUCT USE 
+Industrial processes can generate NOx, CO, NMVOC and SO2 emissions. Emissions of these gases depend on the 
+type of process, abatement techniques, and other conditions. Industrial process and product use emissions include 
+both channelled emissions (e.g., point sources emissions from a stack) and diffuse emission sources. For example, 
+diffuse emissions from the evaporation of solvents and storage and handling of products are typical primary sources 
+of NMVOC emissions. In some cases, exceptional emissions (e.g., accidental releases) can constitute major 
+emissions from source. Further guidance on estimating total emissions from an industrial site are provided in the 
+EU IPPC (European Union Integrated Pollution Prevention and Control) Reference Document on Monitoring of 
+Volume 1: General Guidance and Reporting 
+7.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Emissions (EC, 2002) 3.  
+7.2.1.3 
+AGRICULTURE, FORESTRY AND OTHER LAND USE 
+The burning of crop residues emits NOx as does the addition of nitrogen to the soils from nitrogen fertilizers and other 
+nutrients. CO and SO2 are emitted when biomass is burned. The primary sources of the NMVOC emissions are 
+burning of crop residues and other plant wastes, and the anaerobic degradation of livestock feed and animal excreta. 
+Plants, mainly trees and cereals, also contribute to NMVOC concentrations in the atmosphere. 
+The EMEP/CORINAIR Guidebook does not fully cover emissions from burning of biomass, therefore additional 
+guidance is given in AFOLU Volume, Chapter 4.2.4 for Non-CO2 emissions from biomass burning from forest, 
+Chapter 5.2.4 and 5.3.4 for Non-CO2 emissions from biomass burning in Cropland, and Chapter 6.2.4 and 6.3.4 
+for Non-CO2 emissions from biomass burning in Grassland (CO, CH4, N2O, NOx). Biomass burning when forest 
+and grasslands are converted to other uses, forest fires, and biomass burning due to forest management practices 
+are discussed in these chapters of Volume 4 for AFOLU sector. 
+7.2.1.4 
+WASTE 
+Emissions of NOx, CO, and SO2 are produced by domestic and municipal waste incineration processes as well as 
+the incineration of sledges from wastewater treatment. NMVOC emissions can originate from wastewater 
+treatment plants and solid waste disposal on land. 
+ 
+7.2.1.5 
+CARBON EMITTTED IN GASES OTHER THAN CO2 
+The 2006 Guidelines estimate carbon emissions in terms of the species which are emitted. Most of the carbon 
+emitted in the form of non-CO2 species eventually oxidises to CO2 in the atmosphere and this amount can be 
+estimated from the emissions estimates of the non-CO2 gases. Box 7.2 provides an approach for making this 
+calculation. 
+In some cases the emissions of these non-CO2 gases contain very small amounts of carbon compared to the CO2 
+estimate and it may be more accurate to base the CO2 estimate on the total carbon. Examples are fossil fuel 
+combustion (where the emission factor is derived from the carbon content of the fuel) and a few IPPU categories 
+where the carbon mass balance can be estimated much better than individual gases.  
+BOX 7.2  
+CALCULATING CO2 INPUTS TO THE ATMOSPHERE FROM EMISSIONS OF CARBON-CONTAINING COMPOUNDS 
+Methane, carbon monoxide (CO) or NMVOC emissions will eventually be oxidised to CO2 in the 
+atmosphere. These CO2 inputs could be included in national inventories. They can be calculated 
+from emissions of methane, CO and NMVOCs. The basic calculation principles are: 
+From CH4:  
+InputsCO2 =  EmissionsCH4 • 44/16 
+From CO:  
+InputsCO2 =  EmissionsCO • 44/28 
+From NMVOC:  
+InputsCO2 =  EmissionsNMVOC • C • 44/12 
+Where C is the fraction carbon in NMVOC by mass (default  = 0.6) 
+The carbon content in NMVOCs will vary depending on the source. Therefore, an inventory based 
+on the speciation of the NMVOC compounds gives more accurate results. 
+In making these estimates inventory compilers should assess each category to ensure that this 
+carbon is not already covered by the assumptions and approximations made in estimating CO2 
+emissions. Relevant examples include carbon from; 
+• 
+Fugitive emissions from energy use, 
+• 
+Carbon from Non-CO2 gases from IPPU, 
+• 
+AFOLU emissions where non-CO2 gases have been explicitly deducted.     
+                                                           
+3  Chapter 3.1 in EU IPPC Reference Document on Monitoring of Emissions, which is available from website 
+http://eippcb.jrc.es/pages/ FActivities.htm. 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.7 
+7.2.2 
+Link to relevant methodology chapters in the 
+EMEP/CORINAIR Emission Inventory Guidebook 
+Table 7.1 provides specific information on methodologies for preparing national emission inventories of NOx, 
+CO, NMVOCs, and SO2. The table includes information on the availability of methodologies in the 
+EMEP/CORINAIR Emission Inventory Guidebook and the expected significance of the emissions for each IPCC 
+category under the 2006 Guidelines (see Table 8.2 of Chapter 8 of this Volume) and gas. The Guidebook’s codes 
+are equivalents in function to the IPCC reporting categories under the 1996 Guidelines. A mapping between the 
+EMEP/CORINAIR Nomenclature for Reporting (NFR) and the IPCC common reporting framework (CRF) of 
+the 1996 Guidelines with categories under the 2006 Guidelines is also provided in the table.  
+In case the inventory compiler does not find a corresponding category to a specific IPCC 2006 category in Table 
+7.1, it is advisable to attempt to find a similar category (e.g., a corresponding boiler size for another industrial 
+branch) in Table 7.1 and apply the corresponding methodology in the EMEP/CORINAIR Emission Inventory 
+Guidebook for this category or to search for other sources of information (see also Chapter 2 of this Volume). 
+The following codes are used to indicate whether the emissions from the specific source are relevant and covered 
+by the Guidebook: 
+A 
+=  Emissions of this gas from this category are likely to be emitted and a methodology is provided 
+in the EMEP/CORINAIR Guidebook. 
+NI 
+=  Emissions of this gas from this category are likely to be emitted, but a methodology is not 
+currently included in the EMEP/CORINAIR Guidebook. 
+B 
+=  Emissions of this air pollutant from this category are likely to be emitted and the methodology 
+may be included in the EMEP/CORINAIR Guidebook in the future. 
+NS =  Emissions of this gas from this category not expected to be significant. 
+NO =  Emissions of this gas from this category do not occur. 
+ 
+TABLE 7.1  
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+1 ENERGY 
+1A1a 
+1A1a 
+1A1a 
+Main Activity Electricity and Heat 
+Production 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A1b 
+1A1b 
+1A1b 
+Petroleum Refining 
+B132 and B136 
+A 
+A 
+A 
+A 
+1A1 Energy 
+Industries 
+1A1c 
+1A1c 
+1A1c 
+Manufacture of Solid Fuels and Other 
+Energy Industries 
+B142, B146 and B152 
+A 
+A 
+A 
+A 
+1A2a 
+1A2a 
+1A2a 
+Iron and Steel 
+B111, B112, B323, B324, 
+B325, B331, B332, B333 
+A 
+A 
+A 
+A 
+1A2b 
+1A2b 
+1A2b 
+Non-ferrous Metals 
+B336, B337, B338, B339, 
+B3310, B3322, B3323 
+A 
+A 
+A 
+A 
+1A2c 
+1A2c 
+1A2c 
+Chemicals 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2d 
+1A2d 
+1A2d 
+Pulp, Paper and Print 
+B3321 
+A 
+A 
+A 
+A 
+1A2e 
+1A2e 
+1A2e 
+Food Processing, Beverages and Tobacco
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2f 
+1A2f 
+1A2f 
+Non-Metallic Minerals 
+B3311, B3312, B3313, B3314, 
+B3318, B3319, B3320, B3323 
+A 
+A 
+A 
+A 
+1A2g 
+ 
+ 
+Transport Equipment 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2h 
+ 
+ 
+Machinery 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2i 
+ 
+ 
+Mining and Quarrying 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2j 
+ 
+ 
+Wood and Wood Products 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2k 
+ 
+ 
+Construction   
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2l 
+ 
+ 
+Textile and Leather 
+B111 and B112 
+A 
+A 
+A 
+A 
+1A2 Manufacturing Industries and Construction 
+1A2m 
+ 
+ 
+Non-specified Industry 
+B111 and B112 
+A 
+A 
+A 
+A 
+ 
+Volume 1: General Guidance and Reporting 
+7.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+1A3a 
+1A3a 
+ 
+Civil Aviation 
+1A3ai 
+Inter-
+national 
+Aviation 
+1A3ai (i) 1A3ai (i) International Aviation (LTO) 
+B851 
+A 
+A 
+A 
+A 
+1A3ai(ii) 1A3ai(ii) International Aviation (Cruise) 
+B851 
+A 
+A 
+A 
+A 
+1A3aii(i) 1A3aii(i) Civil Aviation (Domestic, LTO) 
+B851 
+A 
+A 
+A 
+A 
+1A3aii 
+Domestic 
+Aviation 
+1A3aii(ii) 1A3aii(ii) Civil Aviation (Domestic, Cruise) 
+B851 
+A 
+A 
+A 
+A 
+1A3b 
+1A3b 
+1A3b 
+Road Transportation 
+1A3bi 
+1A3bi 
+1A3bi 
+R.T., Passenger cars 
+B710 
+A 
+A 
+A 
+A 
+1A3bii 
+1A3bii 
+1A3bii R.T., Light-duty vehicles 
+B710 
+A 
+A 
+A 
+A 
+1A3biii 1A3biii 1A3biii R.T., Heavy duty vehicles 
+B710 
+A 
+A 
+A 
+A 
+1A3biv 1A3biv 1A3biv R.T., Mopeds & Motorcycles 
+B710 
+A 
+A 
+A 
+A 
+1A3bv 
+1A3bv 
+1A3bv R.T., Evaporative Emissions 
+B760 
+NO 
+NO 
+A 
+NO 
+1A3c 
+1A3c 
+1A3c 
+Railways 
+B810 
+A 
+A 
+A 
+A 
+1A3d 
+1A3d 
+1A3d 
+Water-borne Navigation  
+1A3di 
+1A3di 
+1A3di 
+International Water-borne Navigation 
+(International bunkers)/International 
+maritime navigation  
+B842 
+A 
+A 
+A 
+A 
+1A3dii 
+1A3dii 
+1A3dii Domestic Water-borne 
+Navigation//National Navigation 
+B810 and B842 
+A 
+A 
+A 
+A 
+1A3e 
+1A3e 
+1A3e 
+Other Transportation 
+1A3ei 
+1A3ei 
+1A3ei 
+Pipeline Transport/Compressors 
+B561 and B152 
+B 
+B 
+A 
+B 
+1A3 Transport 
+1A3eii 
+1A3eii 
+1A3eii Off-road/Other mobile sources and 
+machinery 
+B810 
+A 
+A 
+A 
+A 
+1A4a 
+1A4a 
+1A4a 
+Commercial/Institutional 
+B111, B112, B216 and Small 
+Combustion Installations *) 
+A 
+A 
+A 
+A 
+1A4b 
+1A4b 
+1A4b 
+Residential 
+1A4b 
+1A4bi 
+1A4bi 
+Residential plants 
+B111, B112 and Small 
+Combustion Installations *) 
+A 
+A 
+A 
+A 
+1A4b 
+1A4bii 
+1A4bii Household and gardening (mobile) 
+B111, B112 and Small 
+Combustion Installations *) 
+A 
+A 
+A 
+A 
+1A4c 
+1A4c 
+1A4c 
+Agriculture/Forestry/Fishing/Fish farms 
+1A4ci 
+1A4ci 
+1A4ci 
+Stationary 
+B111, B112 and B235 
+A 
+A 
+A 
+A 
+1A4cii 
+1A4cii 
+1A4cii Off-road Vehicles and Other Machinery 
+B111, B112, B235 and B810 
+A 
+A 
+A 
+A 
+1A4 Other Sectors 
+1A4ciii 1A4ciii 1A4ciii National Fishing (mobile combustion) 
+B111, B112, B235 and B842 
+A 
+A 
+A 
+A 
+1A5a 
+1A5a 
+1A5a 
+Other, Stationary (including military) 
+B111, B112, B216 and Small 
+Combustion Installations *) 
+A 
+A 
+A 
+A 
+1A5 Non-
+Specified 
+1A5b 
+1A5b 
+1A5b 
+Other, Mobile (including military) 
+B810 
+A 
+A 
+A 
+A 
+1B1 
+1B1 
+1B1 
+Solid Fuel  
+1B1a 
+1B1a 
+1B1a 
+Coal Mining and Handling, including 
+Post-mining activities/Solid Fuel 
+Transformation 
+B511 
+NO/A NO 
+A 
+NO 
+1B1b 
+1B1c 
+1B1c 
+Uncontrolled  Combustion and                   
+Burning Coal Dumps /Other 
+ 
+NI 
+NI 
+NI 
+NI 
+1B1c 
+1B1b 
+1B1b 
+Solid Fuel Transformation 
+B142 and B424 
+NI 
+NI 
+A 
+NI 
+1B2 
+1B2 
+1B2 
+Oil and Natural Gas 
+1B2a 
+1B2a 
+1B2a 
+Oil   
+1B2ai 
+1B2c 
+1B2c 
+Venting 
+B521, B923 and B926 
+NI 
+NI 
+NI 
+NI 
+1B Fugitive Emissions  from Fuels 
+1B2aii 
+1B2d 
+1B2d 
+Flaring 
+B521, B923 and B926 
+NI 
+NI 
+NI 
+NI 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.9 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+1B2aiii1 
+1B2ai 
+1B2ai 
+Exploration 
+B521 and B541 
+A 
+A 
+A 
+A 
+1B2aiii2 
+1B2aii 
+1B2aii 
+Production and Upgrading 
+B521 and B541 
+A 
+A 
+A 
+A 
+1B2aiii3 
+1B2aiii 
+1B2aiii 
+Transport  
+B521 and B541 
+A 
+A 
+A 
+A 
+1B2aiii4 
+1B2aiv 
+1B2aiv 
+Refining  
+B521 and B541 
+A 
+A 
+A 
+A 
+1B2aiii5 
+1B2av 
+1B2av 
+Distribution of Oil Products 
+B551 
+NO 
+NO 
+A/B 
+NO 
+1B2aiii6 
+1B2avi 
+1B2avi 
+Other 
+B521 and B541 
+NO 
+NO 
+NO 
+NO 
+1B2b 
+1B2b 
+1B2b 
+Natural Gas 
+B521 and B561 
+NO 
+NO 
+A 
+NO 
+1B2bi 
+1B2c 
+1B2c 
+Venting 
+B521, B923 and B926 
+NI 
+NI 
+NI 
+NI 
+1B2bii 
+1B2d 
+1B2d 
+Flaring 
+B521, B923 and B926 
+NI 
+NI 
+NI 
+NI 
+1B2biii 
+1B2e 
+1B2e 
+Other 
+B521 and B561 
+NO 
+NO 
+NO 
+NO 
+1B Fugitive Emissions  from Fuels 
+1B3 
+1B3 
+1B3 
+Other Emissions from Energy 
+Production 
+B570 
+NI 
+NI 
+NI 
+NI 
+1C CO2 Transport, 
+and Storage 
+1C 
+ 
+ 
+Emissions from CO2 transport  
+injection and storage 
+ 
+ 
+ 
+ 
+ 
+2 INDUSTRIAL PROCESSES AND PRODUCT USE 
+2A1 
+2A1 
+2A1 
+Cement (decarbonizing) 
+B3311 
+(A = 
+fuel 
+rated) 
+(A = 
+fuel 
+rated) 
+(A = 
+fuel 
+rated) 
+(A = fuel rated, process 
+rated depends on the 
+process) 
+2A2 
+2A2 
+2A2 
+Lime (decarbonizing) 
+B3312 (fuel rated and diffuse) 
+and B461 
+(A = 
+fuel 
+rated) 
+(A = 
+fuel 
+rated) 
+(A = 
+fuel 
+rated) 
+(A = 
+fuel 
+rated) 
+2A4 
+2A3 
+2A3 
+Other uses of carbonites/Limestone and 
+Dolomite Use 
+B4618 
+B 
+B 
+B 
+B 
+2A4b 
+2A4 
+2A4 
+Other uses of Soda Ash/Soda Ash 
+Production and use 
+B4619 
+B 
+B 
+B 
+B 
+2A3 
+2A7 
+2A7 
+Glass  (decarbonizing) 
+B3314 
+(A) depending  
+on the process 
+(NS ) depending 
+on the process 
+( NS ) depending 
+on the process 
+(A) depending  
+on the process 
+2A7 
+2A7 
+Batteries Manufacturing 
+B461 
+NS/B NS /B NS/B NS/B
+2A7 
+2A7 
+Extraction of Mineral Ores 
+B461 
+NS/B NS/B NS/B NS/B
+2A Mineral Industry 
+2A5 
+Other 
+2A7 
+2A7 
+Other including  
+Non Fuel Mining  
+& Construction 
+Other (including asbestos 
+products manufacturing) 
+B461 
+NS 
+NS 
+NS 
+NS 
+2B1 
+2B1 
+2B1 
+Ammonia Production 
+B443 
+NS/B NS/B NS/B NS/B
+2B2 
+2B2 
+2B2 
+Nitric Acid Production 
+B442 
+A 
+NS 
+NS 
+NO 
+2B3 
+2B3 
+2B3 
+Adipic Acid Production 
+B4521 
+NS/B NO 
+NO 
+NO 
+2B5 
+2B4 
+2B4 
+Carbide Production/Calcium Carbide 
+Production 
+B443 
+NS/B NS/B NS/B NS/B
+2B4 
+2B5 
+2B5 
+Caprolactam Production 
+- 
+NS/B NS/B NS/B NS/B
+2B4 
+2B5 
+2B5 
+Glyoxylic Acid Production 
+B453 
+NS 
+NS 
+B 
+NS 
+2B6 
+2B5 
+2B5 
+Titanium Dioxide Production 
+B443 
+NS/B NS/B NS/B NS/B
+2B7 
+2A4 
+2A4 
+Soda Ash Production 
+B4619 
+B 
+B 
+B 
+B 
+2B8 
+ Petrochemical and  Carbon Black Production  
+2 B CHEMICAL INDUSTRY 
+2B8a 
+2B5 
+2B5 
+Methanol Production 
+  
+NS 
+NS 
+A 
+NS 
+Volume 1: General Guidance and Reporting 
+7.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+2B8b 
+2B5 
+2B5 
+Ethylene Production 
+B451 
+NS 
+NS 
+A 
+NS 
+2B8c 
+2B5 
+2B5 
+Vinylchloride (except 1,2 
+dichloroethane+vinylchloride) Production
+B454 
+NO 
+NS 
+NS 
+NO 
+2B8d 
+2B5 
+2B5 
+Ethylene Oxide Production 
+B453 
+NS 
+NS 
+NS 
+NS 
+2B8e 
+2B5 
+2B5 
+Acrylonitrile Producton 
+B4520 
+NO 
+NO 
+ A  
+NO 
+2B8f 
+2B5 
+2B5 
+Carbon Black Producton  
+B443 
+NS 
+NS 
+NS 
+NS 
+2B9 
+  
+  
+Fluorochemical Production 
+  
+  
+  
+  
+  
+2B5 
+2B5 
+Sulphuric Acid Production 
+B441 
+NS 
+NS 
+NS 
+A 
+2B5 
+2B5 
+Ammonium Sulphate Manufacturing 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Ammonium Nitrate Production 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Ammonium Phosphate Production 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+NPK fertilizers 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Urea 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Graphite 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Chlorine Production 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Phosphate Fertilisers Production 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Storage and Handling of Inorganic 
+Chemical Products 
+B443 
+NS 
+NS 
+B 
+NS 
+2B5 
+2B5 
+Other 
+B443 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Propylene Production 
+B452 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+1,2 dichoroethane (except 1,2 
+dichloroethane+vinylchloride) Production
+B453 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+1,2 dichloroethane + vinylchloride 
+(balanced process) 
+B455 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Polyethylene (low density) Production 
+B456 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Polyethylene (high density) Production 
+B456 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Polyvinylchloride Production 
+B458 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Polypropylene Production 
+B459 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Styrene Production 
+B4510 
+NO 
+NO 
+ A  
+NO 
+2B5 
+2B5 
+Polystyrene Production 
+B4511 
+NO 
+NO 
+ A  
+NO 
+2B5 
+2B5 
+Styrene Butadiene Production 
+B4512 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Styrene-butadiene Latex Production 
+B4512 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Styrene-butadiene Rubber (SBR) 
+Production 
+B4512 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Acrylonitrile Butadiene Styrene (ABS) 
+Resins Production 
+B4512 
+NO 
+NO 
+A 
+NO 
+2B5 
+2B5 
+Formaldehyde Production 
+B453 
+NS 
+NS 
+NS 
+NS 
+2B5 
+2B5 
+Ethylbenzene Production 
+B4518 
+NO 
+NO 
+NS 
+NO 
+2B5 
+2B5 
+Phtalic Anhydride Production 
+B4519 
+NO 
+NS 
+A 
+NS 
+2B5 
+2B5 
+Storage & Handling of Organic Chemical 
+Products 
+B453 
+NS 
+NS 
+B 
+NS 
+2B5 
+2B5 
+Halogenated Hydrocarbons Production 
+B453 
+NS 
+NS 
+B 
+NS 
+2B5 
+2B5 
+Pesticide Production 
+B453 
+NS 
+NS 
+B 
+NS 
+2B5 
+2B5 
+Production of Persistent Organic 
+Compounds 
+B453 
+NS 
+NS 
+B 
+NS 
+ 
+2B10 Other 
+2B5 
+2B5 
+Other (phytosanitary ) 
+B453 
+NS 
+NS 
+B 
+NS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.11 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+Blast Furnace Charging 
+B422 
+NS 
+A 
+NS 
+NS 
+Pig Iron Tapping 
+B423 
+NS 
+NS 
+NO 
+NS 
+Open Hearth Furnace Steel Plant 
+B425 
+A 
+NS 
+NS 
+NS 
+Basic Oxygen Furnace Steel Plant 
+B426 
+NS 
+A 
+NS 
+A 
+Electric Furnace Steel Plant 
+B427 
+A 
+A 
+NS 
+NS 
+Rolling Mills 
+B428 
+NS 
+NS 
+NS 
+NS 
+Sinter and Pelletizing Plants (except 
+combustion) 
+B331 
+A 
+A 
+A 
+A 
+ 2C1  Processes 
+ in Iron and Steel Industries  
+and Colliers 
+Other 
+B4210 
+NS 
+NS 
+NS 
+NS 
+2C2  
+2C2 
+2C2 
+Ferroalloys Production 
+NS 
+NS 
+NS 
+NS 
+NS 
+2C3 
+2C3 
+2C3 
+Aluminium Production (electrolysis) 
+B431 
+NS 
+A 
+NS 
+A 
+2C6 
+ 2C5 
+ 2C5 
+Zinc Production 
+  
+ NO 
+ NO 
+ NO 
+NI 
+2C5 
+ 2C5 
+ 2C5 
+Lead Production 
+  
+ NO 
+ NO 
+ NO 
+ NI 
+2C4 
+2C5 
+2C5 
+Magnesium Production (except 
+combustion) 
+B432 
+NS 
+NS 
+NS 
+NS 
+2C5 
+2C5 
+Silicium Production 
+B432 
+NS 
+NS 
+NS 
+NS 
+2C5 
+2C5 
+Nickel Production (except combustion) 
+B432 
+NS 
+NS 
+NS 
+NS 
+2C5 
+2C5 
+Allied Metal Manufacturing 
+B432 
+NS 
+NS 
+NS 
+NS 
+2C5 
+2C5 
+Galvanising 
+B432 
+NS 
+NS 
+NS 
+NS 
+2C5 
+2C5 
+Electroplating 
+B432 
+NS 
+NS 
+NS 
+NS 
+2 C  METAL INDUSTRY 
+2C7 Other 
+2C5 
+2C5 
+Other 
+B432 
+NS 
+NS 
+NS 
+NS 
+2D1 
+3D 
+3D 
+Lubricant Use 
+ 
+NO 
+NO 
+NI 
+NO 
+2D2 
+3D 
+3D 
+Paraffin Waxes Use 
+  
+NO  
+NO 
+ NI 
+NO 
+2A5 
+2A5 
+ Asphalt Roofing 
+ B4610 
+NS 
+A 
+A 
+NS 
+2D4 
+2A6 
+2A6 
+ Road Paving with Asphalt 
+B4611 
+A 
+A 
+A 
+A 
+2D NON-ENERGY PRODUCTS  FROM 
+FUELS AND  SOLVENT USE 
+2D3 
+See "SOLVENT 
+USE" below 
+Solvent Use  
+ 
+CRF/NFR 3A PAINT APPLICATION 
+3A 
+3A 
+Manufacture of Automobiles  
+B610 
+NO 
+NS 
+A/B 
+NO 
+3A 
+3A 
+Car Repairing  
+B610 
+NO 
+NO 
+A/B 
+NO 
+3A 
+3A 
+Construction and Buildings (except wood 
+painting)  
+B610 
+NO 
+NO 
+A/B 
+NO 
+3A 
+3A 
+Domestic Use (except wood painting)  
+B610 
+NO 
+NO 
+A/B 
+NO 
+3A 
+3A 
+Coil Coating 
+B610 
+NO 
+NO 
+A/B 
+NO 
+3A 
+3A 
+Boat Building  
+B610 
+NO 
+NO 
+A/B 
+NO 
+3A 
+3A 
+Wood Painting/Coating 
+B610 
+NO 
+NO 
+A/B 
+NO 
+3A 
+3A 
+Other Industrial Paint Application  
+B610 
+NO 
+NO 
+A/B 
+NO 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3A 
+3A 
+Other Non-industrial Paint Application 
+B610 
+NO 
+NO 
+A/B 
+NO 
+ 
+CRF/NFR 3B DEGREASING AND DRY CLEANING 
+3B 
+3B 
+Metal Degreasing  
+B621 
+NS 
+NS 
+A 
+NS 
+3B 
+3B 
+Dry Cleaning  
+B622 
+NO 
+NO 
+A 
+NO 
+3B 
+3B 
+Electronic Components Manufacturing  
+B623 
+NS 
+NS 
+NS 
+NS 
+2D3 SOLVENT USE 
+  
+  
+  
+  
+3B 
+3B 
+Other Industrial Cleaning  
+B623 
+NS 
+NS 
+NS 
+NS 
+Volume 1: General Guidance and Reporting 
+7.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+ 
+CRF/NFR 3 C CHEMICAL PRODUCTS, MANUFACTURE AND PROCESSING 
+3C 
+3C 
+Polyester Processing 
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Polyvinylchloride Processing 
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Polyurethane Foam Processing  
+B633 
+NS 
+NS 
+A 
+NS 
+3C 
+3C 
+Polystyrene Foam Processing  
+B633 
+NS 
+NS 
+A 
+NS 
+3C 
+3C 
+Rubber Processing  
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Pharmaceutical Products Manufacturing  
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Paints Manufacturing  
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Inks Manufacturing 
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Glues Manufacturing  
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Asphalt Blowing 
+B6310 
+NS 
+A 
+A 
+NS 
+3C 
+3C 
+Adhesive, Magnetic Tapes, Films & 
+Photographs Manufacturing  
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Textile Finishing  
+B631 
+NS 
+NS 
+A/B 
+NS 
+3C 
+3C 
+Leather Tanning  
+B631 
+NS 
+NS 
+A/B 
+NS 
+2D4 OTHER 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3C 
+3C 
+Other  
+B631 
+NS 
+NS 
+A/B 
+NS 
+ 
+CRF/NFR 3 D OTHER including products containing HMs and POPs 
+3D 
+3D 
+Glass Wool Enduction  
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Mineral Wool Enduction  
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Printing Industry  
+B643 
+NO 
+NO 
+A/B 
+NO 
+3D 
+3D 
+Fat, Edible and Not Edible Oil Extraction 
+B644 
+NS 
+NS 
+A 
+NS 
+3D 
+3D 
+Application of Glues and Adhesives  
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Preservation of Wood  
+B646 
+NO 
+NO 
+A 
+NO 
+3D 
+3D 
+Underseal Treatment and Conservation of 
+Vehicles 
+B647 
+NO 
+NO 
+IE 3A  (car 
+manufacturing & 
+repairing) 
+NO 
+3D 
+3D 
+Domestic Solvent Use (other than paint 
+application)  
+B648 
+NO 
+NO 
+A/B 
+NO 
+3D 
+3D 
+Vehicles Dewaxing 
+B647 
+NO 
+NO 
+A 
+NO 
+3D 
+3D 
+Domestic Use of Pharmaceutical Products 
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Other (preservation of seeds, etc.)  
+B641 
+NS 
+NS 
+B 
+NS 
+2D4 OTHER 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3D 
+3D 
+Other (anaesthesia, refrigeration and air 
+conditioning, electrical equipment, etc.) 
+B651 
+NS 
+NS 
+B 
+NS 
+2 E 
+ELECTRONICS 
+INDUSTRY 
+2F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 F  
+PRODUCT 
+USES AS 
+SUBSTITUTES 
+FOR OZONE 
+DEPLETING 
+SUBSTANCES 
+2F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2G  
+OTHER 
+PRODUCT 
+USES 
+2F, 3D 
+3D 
+See for relevant subcategories under 
+NFR 3D 
+- 
+NS 
+NS 
+NS 
+NS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.13 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+2D1 
+2D1 
+Pulp and Paper  
+2D1 
+2D1 
+Pulp and Paper - Chipboard 
+B461 
+NS 
+NS 
+NS 
+NS 
+2D1 
+2D1 
+Pulp and Paper - Paper pulp 
+(kraft process) 
+B462 
+A 
+NS 
+A 
+A 
+2D1 
+2D1 
+Pulp and Paper - Paper pulp 
+(acid sulphite process) 
+B463 
+A 
+NO 
+A 
+A 
+2H1 
+2D1 
+2D1 
+Processes in wood, paper 
+pulp, food, drink and other 
+industries 
+ Pulp and Paper - Paper pulp 
+(neutral sulphite semi-
+chemical process.) 
+B464 
+A 
+NO 
+A 
+A 
+2D2 
+2D2 
+Food and Drink 
+2D2 
+2D2 
+Food and Drink - Bread 
+B465 
+NS 
+NS 
+A 
+NS 
+2D2 
+2D2 
+Food and Drink - Wine 
+B466 
+NS 
+NS 
+A 
+NS 
+2D2 
+2D2 
+Food and Drink - Beer 
+B466 
+NS 
+NS 
+A 
+NS 
+2H2 
+2D2 
+2D2 
+Processes in wood, 
+paper pulp, food, 
+drink and other 
+industries 
+Food and Drink - Spirits 
+B466 
+NS 
+NS 
+A 
+NS 
+2H3 
+ 
+ 
+ 
+Other 
+ 
+ 
+ 
+ 
+ 
+3D 
+3D 
+Mineral Wool Enduction  
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Printing Industry  
+B643 
+NO 
+NO 
+A/B 
+NO 
+3D 
+3D 
+Fat, Edible and Not Edible Oil Extraction 
+B644 
+NS 
+NS 
+A 
+NS 
+3D 
+3D 
+Application of Glues and Adhesives  
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Preservation of Wood  
+B646 
+NO 
+NO 
+A 
+NO 
+3D 
+3D 
+Underseal Treatment and Conservation of 
+Vehicles 
+B647 
+NO 
+NO 
+IE 3A           
+(car manufacturing 
+& repairing) 
+NO 
+3D 
+3D 
+Domestic Solvent Use (other than paint 
+application)  
+B648 
+NO 
+NO 
+A/B 
+NO 
+3D 
+3D 
+Vehicles Dewaxing 
+B647 
+NO 
+NO 
+A 
+NO 
+3D 
+3D 
+Domestic Use of Pharmaceutical Products 
+B641 
+NS 
+NS 
+B 
+NS 
+3D 
+3D 
+Other (preservation of seeds,....)  
+B641 
+NS 
+NS 
+B 
+NS 
+2 H OTHER 
+ 
+3D 
+3D 
+Other (anaesthesia, refrigeration and air 
+conditioning, electrical equipment, etc.) 
+B651 
+NS 
+NS 
+B 
+NS 
+3 AGRICULTURE, FORESTRY, AND OTHER LAND USE (AFOLU) 
+3A1 
+4A 
+4A 
+Enteric Fermentation 
+B1040 
+NO 
+NO 
+NO 
+NO 
+3A 
+Livestock 
+3A2 
+4 B 
+4B 
+Manure Management 
+B1050, B100511, N1090 
+NO 
+NO 
+B 
+NO 
+5A 
+5A 
+Changes in Forest and Other Woody 
+Biomass Stocks  
+B112100 
+B 
+B 
+A 
+B 
+5B 
+5B 
+Forest and Grassland Conversion 
+(tropical, temperate, boreal forests, 
+grassland, other) 
+B112200 
+A 
+B 
+NS 
+B 
+5C 
+5C 
+Abandonment of Managed Land (tropical, 
+temperate, boreal forests, grassland, 
+other) 
+B112300 
+A 
+B 
+NS 
+B 
+Managed Forests (broadleaf and 
+coniferous) 
+B1101, B110117 
+ NI 
+NI 
+A 
+NI 
+Non-managed Forests (broadleaf and 
+coniferous) 
+B1101, B110117 
+ NI 
+NI 
+A 
+ NI 
+ 3B1 
+ Forest 
+Land 
+5E 
+5E 
+Other 
+B112500 
+NS 
+NS 
+NS 
+NS 
+3B Land 
+3B2 
+Crop-
+land 
+ 
+ 
+ 
+ 
+NS 
+NS 
+NS 
+NS 
+ 
+Volume 1: General Guidance and Reporting 
+7.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.1  (CONTINUED) 
+LINK BETWEEN THE IPCC CATEGORIES AND  
+THE CORRESPONDING METHODOLOGY CHAPTERS IN EMEP/CORINAIR GUIDEBOOK  1 
+Reporting category 
+NOx 
+CO 
+NM-
+VOC
+SOx 
+IPCC 
+category  
+CRF 
+NFR 
+Source Sector 
+EMEP/CORINAIR 
+Inventory Guidebook 
+Chapter 
+Relevance of emissions 
+from the category (see 
+codes above the table) 
+3B3 
+Grass-
+land 
+4D 
+4D 
+Natural Grassland and Other Vegetation 
+(grassland, tundra, other low vegetation, 
+other vegetation (Mediterranean, 
+scrub…)),  Soils 
+B1104                     
+B110117 
+A 
+ NI 
+A 
+NI 
+ 3B4 
+Wetland 
+4D 
+4D 
+Wetlands (marshes - swamps) 
+B1105 
+ NI 
+NI 
+NI 
+A 
+3B Land 
+ 3B5 
+Settlem
+ents 
+4G 
+4G 
+Other 
+B1060 
+NO 
+NO 
+NO 
+NO 
+3B6  
+Other land 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3C1a 
+5B 
+5B 
+Forest and vegetation fires (man-induced, 
+other) 
+B1103 
+ A 
+A  
+A 
+A 
+3C1b 
+4F 
+4F 
+Field burning of agricultural wastes  
+ B1030 
+A 
+A 
+A 
+A 
+3C1c 
+4D 
+4D 
+Prescribed burning of savannas 
+  
+B 
+B 
+B 
+B 
+3C4 
+4D 
+4D1 
+Agricultural soils, direct soil emissions 
+B1010, B1020 and B1105 
+A 
+NO 
+A 
+NO 
+3C AGGREGATED SOURCES AND NON-
+CO2 EMISSION SOURCES ON LAND 
+3C7 
+4C 
+4C 
+Rice Cultivation 
+B1010, B1020 
+A 
+NO 
+A 
+NO 
+3D1 
+NA 
+NA 
+Harvested Wood Products 
+  
+NO  
+NO 
+B  
+NO 
+NA 
+NA 
+Volcanoes 
+B1108 
+NO 
+NO 
+NO 
+A 
+NA 
+NA 
+Gas Seeps 
+B110900 
+NO 
+NO 
+NO 
+NO 
+NA 
+NA 
+Lightning 
+B111000 
+A 
+NO 
+NO 
+NO 
+NA 
+NA 
+Wildlife animals 
+B1107 
+NO 
+NO 
+NS 
+NO 
+3D OTHER 
+3D2 
+4D 
+4D 
+Waters 
+B1106 
+NO  
+NO 
+B 
+B 
+4  WASTE 
+4A and 
+4B 
+6A 
+6A 
+Solid Waste Treatment and Disposal  and 
+Biological treatment of solid waste 
+B940 
+NO 
+NO 
+A/B 
+NO 
+4C 
+6C 
+6C 
+Incineration and Open Burning of 
+Waste/Waste Incineration 
+B921, B922, B924, B925, 
+B927, B970, B991, B992 
+A 
+A 
+NI/B
+A 
+4D 
+6B 
+6B 
+Wastewater Treatment and 
+Discharge/Wastewater Handling 
+B9101 and B9107 
+NO 
+NO 
+A 
+NO 
+4D WASTE 
+4E 
+6D 
+6D 
+Other waste 
+B9101, B9203, B9105, B9106 
+A 
+A 
+A 
+NO 
+5A Indirect 
+N2O emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 OTHER 
+5B 
+Other 
+7 
+7 
+Geothermal energy extraction 
+B570 
+NO 
+NO 
+NI 
+NO/B
+*)  Chapter Small Combustion Installations is available from website http://tfeip-secretariat.org/unece.htm > Expert Panels > Expert Panel 
+on Combustion and Industry 
+1    Current references are to the version of the EMEP/CORINAIR Guidebook available when these guidelines are published. 
+ 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.15 
+7.3 
+INDIRECT N2O EMISSIONS FROM THE 
+ATMOSPHERIC DEPOSITION OF NITROGEN 
+IN NOX AND NH3 
+In this Guidance, direct nitrous oxide emissions are estimated on the basis of human-induced net nitrogen input 
+to managed soils (e.g., synthetic or organic fertilizers, deposited manure, crop residues, sewage sludge), or of 
+other changes in inorganic nitrogen in the soil as a result of interventions by management practices in nitrogen 
+cycling,  e.g., mineralization of nitrogen in soil organic matter, following drainage/management of organic soils, 
+or cultivation/land use change on mineral soils. 
+In addition to these direct emissions of N2O, indirect emissions also take place as a result of two different 
+nitrogen loss pathways. These pathways are (1) the volatilization/emission of nitrogen as NH3 and NOx and the 
+subsequent deposition of these forms of nitrogen as ammonium (NH4
++) and oxidised nitrogen (NOx) on soils and 
+waters, and (2) the leaching and runoff of nitrogen from synthetic and organic nitrogen fertilizer inputs, crop 
+residues, mineralization of nitrogen through land use change or management practices, and urine and dung 
+deposition from grazing animals, into groundwater, riparian areas and wetlands, rivers and eventually the coastal 
+ocean.  
+The volatilization of nitrogen as NH3 and NOx results both from agricultural fertilizer applied to land and from 
+manure management, as well as from fossil fuel and biomass combustion, and industrial processes. Before being 
+redeposited, NOx and NH3 are typically transformed to other nitrogen containing compounds. Oxides of nitrogen 
+are commonly hydrolysed in the atmosphere or upon deposition to form nitric acid (HNO3), while NH3 gas 
+generally combines with atmospheric nitric acid or sulphuric acid (H2SO4) to form ammonium nitrate and 
+ammonium sulphate aerosols, which are then transformed to a particulate ammonium (NH4
++) form. The 
+deposition of these reactive nitrogen compounds from non-agricultural sources onto soils and waters causes N2O 
+emissions in an exactly analogous way to those resulting from their deposition from agricultural sources. 
+Therefore the indirect N2O emissions resulting from these various sources are included in these Guidelines using 
+the assumption that same emission factor applies to soil and water deposition. 
+7.3.1 
+Methodology  
+All anthropogenic NH3 or NOx emissions are potential sources of N2O emissions4. Specific guidance on 
+estimating N2O emissions from that portion of nitrogen compounds associated with the volatilisation of NOx and 
+NH3 from (1) manure management systems and applied sewage sludge and (2) synthetic and organic nitrogen 
+input to managed soils, and urine and dung nitrogen deposited by grazing animals, are provided in Section 10.5 
+of Chapter 10, Emissions from livestock and manure management, and Section 11.2.2 of Chapter 11, N2O and 
+CO2 emissions from soil amendment, of Volume 4 of AFOLU.  
+This section provides guidance on estimating N2O emissions from the atmospheric deposition of nitrogen 
+compounds from all other sources of NOx and NH3 emissions, such as fuel combustion, industrial processes, and 
+burning of crop residues and agricultural wastes. The method needs only to be applied where data on NOx and 
+NH3 emissions from these sources are available, e.g., from the inventories identified Section 7.2.    
+Equation 7.1 and EF4 from Equation 11.9 in Section 11.2.2.1 of Volume 4 can be used to estimate N2O 
+emissions from the atmospheric deposition of nitrogen resulting from NOx and NH3. 
+ 
+EQUATION 7.1 
+ N2O EMISSIONS FROM ATMOSPHERIC DEPOSITION OF NOX AND NH3 
+44 / 28
+4
+( )
+3
+( )
+( )
+2
+•
+•
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎟⎟ + ⎛
+⎠
+⎞
+⎜⎜
+⎝
+= ⎛
+EF
+N
+NH
+N
+NO
+N O
+i
+i
+x
+i
+ 
+ 
+ 
+                                                           
+4   In addition to being redeposited on soils and surface waters, NH3 can also lead to the formation of N2O from atmospheric 
+chemical reactions.  However, there is currently no method available for estimating conversion of NH3 to N2O in the 
+atmosphere. 
+Volume 1: General Guidance and Reporting 
+7.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Where: 
+N2O(i)  
+=  
+N2O produced from atmospheric deposition of N from NOx and NH3 emissions from 
+source i, in Gg 
+NOx-N(i)  =  
+Nitrogen content of NOx emissions from source i assuming that NOx is reported in NO2 
+equivalents (Gg NOx-N or Gg NO2 • 14/46) 
+NH3-N(i)  =  
+Nitrogen content of NH3 emissions from source i (Gg NH3-N or Gg NH3 • 14/17) 
+EF4  
+=  
+Emission factor for N2O emissions from atmospheric deposition of N on soils and water 
+surfaces (kg N2O-N/kg NH3-N or NOx-N emitted).  
+ 
+ 
+The activity data NOx-N(i) and NH3 –N(i) are taken from the inventories as identified in 
+Section 7.2, if available. 
+This method assumes that N2O emissions from atmospheric deposition are reported by the country that produced 
+the original NOx and NH3 emissions. In reality the ultimate formation of N2O may occur in another country due 
+to atmospheric transport of emissions. The method also does not account for the probable lag time between NOx 
+and NH3 emissions and subsequent production of N2O in soils and surface waters. This time lag is expected to be 
+small relative to an annual reporting cycle.  
+7.3.2 
+Quality Assurance/Quality Control, Reporting and 
+Documentation 
+It is good practice to estimate and report N2O emissions from atmospheric deposition of NOx and NH3 where a 
+country already has an inventory of these gases. For the purposes of calculation, it is assumed that N2O is 
+emitted in the same year that the original NOx and NH3 were emitted.  
+It is good practice to estimate emissions ensuring consistency with the emissions estimated for agriculture 
+sources and avoiding double-counting. Because N2O emissions may occur outside the country emitting NH3 or 
+NOx, use of country- or region-specific emission factors should be thoroughly documented. 
+N2O emissions from atmospheric deposition of NH3 and NOx are reported in Table 5A of reporting tables in 
+Annex 8A.2 for all sectors, and the AFOLU Sector is also reported in Table 3.8 in Annex 8A.2. 
+ 
+ 
+ 
+ 
+References 
+EC (2003). Reference document on the general principles of monitoring, July 2003, 111 pp. European 
+Commission (EC) Directorate-General for Environment, Integrated Pollution Prevention and Control 
+(IPPC). http://eippcb.jrc.es/pages/ FActivities.htm 
+EEA (2001). EMEP/CORINAIR Emission Inventory Guidebook, third ed. Technical report No. 30, European 
+Environmental Agency (EEA). http://reports.eea.eu.int/technical_report_2001_3/en 
+EEA (2005). “EMEP/CORINAIR. Emission Inventory Guidebook – 2005”, Technical report No 30. European 
+Environmental Agency (EEA). Copenhagen, Denmark, (December 2005).  
+ http://reports.eea.eu.int/EMEPCORINAIR4/en 
+IPCC (1997a). Revised 1996 IPCC Guidelines for National Greenhouse Inventories, Volume 1-3.. Houghton J.T., 
+Meira Filho L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. and Callander B.A. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+UNECE (1979). Convention on Long-Range Transboundary Air Pollution, United Nations Economic 
+Commission for Europe (UNECE). http://www.unece.org/env/lrtap/welcome.html  
+UNECE. (2003). Guidelines for Estimating and Reporting Emission Data under the Convention on Long-range 
+Transboundary Air Pollution. ECE/EB.AIR/80. ISSN 1014-4625. ISBN 92-1-116861-9. Air Pollution 
+Studies No. 15. United Nations Economic Commission for Europe (UNECE), United Nations, New York 
+and Geneva.  

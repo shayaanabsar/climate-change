@@ -1,0 +1,1080 @@
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.21
+Typical default values for Norwegian plants for C (carbon content in coke) are 97 per
+cent and for S (sequestered carbon in product), 35 per cent.  This implies a typical
+emission factor of 2.3 tonnes CO2/tonne coke.
+More carbon is actually needed in the process than calculated from a stoichiometric
+reaction.  The suggested emission factors are calculated from coke input in Norwegian
+plants.  The excess carbon is oxidised during the process, little is left as ash (Raaness,
+1991).
+The petrol coke used in this process may contain volatile compounds which will form
+methane.  Some of this methane will escape to the atmosphere, particularly during the
+start up.  Measurements at Norwegian plants suggest emission factors of 10.2 kg/tonne
+petrol coke or 11.6 kg/tonne carbide product.
+2 . 1 1 . 2  C O 2 f r o m  C a l c i u m  C a r b i d e  P r o d u c t i o n
+Calcium carbide is made by heating calcium carbonate and subsequently reducing CaO
+with carbon (e.g., petrol coke).  Both steps lead to emissions of CO2.  Some carbon will
+be sequestered in the product.  The most important application of calcium carbide is
+producing acetylene.  Consequently, the sequestering will be for a short time only (less
+than a few years) and may be disregarded.  On the other hand Ca(OH)2 is produced as a
+by-product in the acetylene production.  This Ca(OH)2 will react with CO2 to form
+CaCO3.  Hence, the CO2 emitted from the limestone may be said to be recycled.
+Production of CaC2:
+CaCO3  →  CaO + CO2
+CaO + 3C  →  CaC2 + CO (→ CO2)
+Use of carbide:
+CaC2 + 2H2O  →  Ca(OH) 2 + C2H2  →  2CO2
+The CO gas will in most plants be utilised as energy.  1.8 tonnes CO2/tonne calcium
+carbide will be released in the production process.  In addition, 1.1 tonnes CO2/tonne
+calcium carbide will be released when the carbide is used.  The CO2 emissions may be
+lowered by utilising the gas when producing dicyanodiamide from carbide (Olsen 1991).
+Limestone contains about 98 per cent CaCO3.  1750 kg limestone (or 950 kg CaO) and
+640 kg reducing agent (including 20 kg carbon electrodes) are required to produce 1
+tonne carbide.
+Emissions may be calculated from the use of raw materials (limestone and coke) or from
+the production.
+INDUSTRIAL PROCESSES
+2.22
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+The emission factors in Table 2-9 are suggested in the latter case:
+TABLE 2-9
+EMISSION FACTORS (KG CO2/TONNE CARBIDE)
+Limestone
+760
+Reduction
+1090
+Use of product
+1100
+The theoretical emission factor calculated from a stoichiometric reaction is 1.37 tonne
+CO2/tonne carbide (for the carbonate and coke step).  Excess carbon is however
+oxidised in the process.  The suggested emission factors are calculated from the actual
+use of raw materials in a Norwegian plant.  The emission factor for acetylene use is
+calculated from the actual (not stoichiometric) carbon content of carbide.
+Also note that the CaO (lime) might be produced at another plant than the carbide plant.
+In this case, the emissions from the CaO step should be reported as emissions from lime
+production (Section 2.4) and only the emissions from the reduction step and use of
+product should be reported as emissions from calcium carbide production.
+2 . 1 1 . 3  P r e c u r s o r s  
+a n d  
+S O 2 
+f r o m  
+C a r b i d e
+P r o d u c t i o n
+Emission methods have not yet been developed for the EMEP/CORINAIR Guidebook.
+SO2 is potentially emitted from the production processes due to sulphur in the raw coke
+material.
+Silicon carbide: The emissions are most accurately calculated from the consumption of
+coke, the sulphur content of the coke, and the degree of control.  In addition, CO is
+emitted due to incomplete oxidation of carbon coke.  An emission factor of 0.4 tonne
+CO/tonne petrol coke has been determined for Norway (Rosland 1987), but this factor
+will be highly plant specific.
+Calcium carbide: Nearly 100 per cent of the SO2 potentially emitted will be sequestered
+in the product (Rypdal 1995, Rosland 1987).  An emission factor of 1.5 kg SO2/tonne
+coke is given in U.S. EPA 1995, but no experimental methods or assumptions are given.
+CO is generated in the process, but is usually oxidised in the process, used as a fuel or
+flared.  This should be checked for the relevant plants.
+2.12 Production of Other Chemicals
+2 . 1 2 . 1  N 2O  E m i s s i o n s
+Production of chemicals other than nitric acid and adipic acid may be sources of nitrous
+oxide, but more studies are needed to determine whether they represent a significant
+source of N2O.  Production of caprolactam, acrylonitrile, and catalytic cracking of oil, may
+be significant sources.  Generally, suggested sources are related to either a process using
+a N-compound or a catalytic reduction step.  Compared to emissions associated with
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.23
+adipic acid and nitric acid production, the N2O emissions from this source category will
+probably be small.
+Caprolactam is a widely used chemical intermediate.  Most of the 3 million tonnes
+produced per year is used in the production of nylon-6 (Fisher and Crescenti, 1994).
+Different methods are used for the manufacture of caprolactam.  They are all based on
+catalytic oxidation of ammonia.  In the Netherlands, caprolactam production was
+identified as a significant industrial source of N2O (Kroeze, 1994).
+In order to increase the yield of gasoline from oil, certain fractions from the oil are
+treated in a catcracker.  Crude oil contains some nitrogen, and the nitrous oxide
+emissions from the cracking process may be significant.  Depending on the regional
+market for light and medium-light oil products, catalytic cracking is more or less
+important in a specific region.  A few studies on emissions from this source have been
+performed in the Netherlands but presently data are not available to suggest a
+methodology (Oonk, 1996).
+Therefore, a general recommended method for estimation of N2O emissions from these
+sources is not given here.
+2 . 1 2 . 2  C H 4  E m i s s i o n s
+Although most methane sources from industrial processes individually are small,
+collectively they may be significant.
+Chemical manufacturing processes, e.g., carbon black, ethylene, dichloroethylene, styrene
+and methanol, are potential sources of methane.  However, sources other than those
+mentioned here may be of importance.
+Few data on emissions are presently available.  These are presented in Table 2-10:
+TABLE 2-10
+EMISSION FACTORS (G CH4/KG PRODUCTION)
+Emission factor
+(g CH4/kg production)
+Reference
+Carbon black
+11
+Shareef et al., 1988, Stockton and Stelling
+1987.
+Ethylene
+1
+Shareef et al., 1988, Stockton and Stelling
+1987.
+Dichloroethylene
+0.4
+Shareef et al., 1988, Stockton and Stelling
+1987.
+Styrene
+4
+Shareef et al., 1988, Stockton and Stelling
+1987.
+Methanol
+2
+Shareef et al., 1988, Stockton and Stelling
+1987.
+Coke
+0.5
+Schade, 1980, Barnard, 1990.
+INDUSTRIAL PROCESSES
+2.24
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 1 2 . 3  E m i s s i o n s  o f  O z o n e  P r e c u r s o r s  a n d  S O 2
+This section is concerned with emissions from small point sources.  However, total
+emissions from these sources may be important.  Only a simple methodology is suggested
+here.  It should be noted that some of these sources may be individually very important in
+certain countries.  In these cases a more detailed methodology should be used, based on
+plant specific data.  The EMEP/CORINAIR Guidebook and the U.S. EPA guidelines should
+be consulted for advise on detailed methodologies and process descriptions.
+A summary of default emission factors and ranges is given in Table 2-11.  Ranges given for
+VOC emissions from many processes are quite large.  Emission factors are likely to be
+quite process specific.  For instance, polystyrene is manufactured in various grades by
+batch or continuous process.  Higher emission factors are associated with the lower
+molecular weight of polystyrenes.  The variation in emission factors from plants using the
+continuous process is quite large, depending upon the type of vacuum system employed
+(U.S. EPA 1995).
+Evaporative emissions from petrochemical industries may be higher in warm than in
+temperate countries.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.25
+TABLE 2-11
+EMISSION FACTORS FOR MISCELLANEOUS PRODUCTION PROCESSES IN CHEMICAL INDUSTRIES.
+(KG/TONNE PRODUCT)
+Source
+SNAP
+SO2
+NOx
+NMVOC
+CO
+Acrylonitrile
+40520
+-
+-
+1 (0.4-100)
+-
+Acrylonitrile Butadiene Styrene (ABS)
+Resins
+40515
+-
+-
+27.2 (1.4-27.2)
+-
+Carbon black
+40409
+3.1
+0.4
+40 (5-90)
+10 (5-14)
+Ethylbenzene
+40518
+-
+-
+2 (0.1-2)
+-
+Ethylene and propylene
+40501/40502
+-
+-
+1.4
+-
+Formaldehyde
+40517
+-
+-
+5 (0-8)
+-
+Graphite
+40411
+-
+-
+NAV
+-
+Phtalic anhydride
+40519
+-
+-
+6.0 (1.3-6.0)
+-
+Polypropylene
+40509
+-
+-
+12 (0.35-12)
+-
+Polystyrene
+40511
+-
+-
+5.4 (0.2-5.4)
+-
+Polyethene - Low density
+40506
+-
+-
+3
+-
+Polyethene - Linear low density
+-
+-
+-
+2
+-
+Polyethene - High density
+50507
+-
+-
+6.4
+-
+Polyvinylchloride
+40508
+-
+-
+8.5 (0.14-8.5)
+-
+Styrene
+40510
+-
+-
+18 (0.25-18)
+-
+Styrene butadiene
+40512-14
+-
+-
+NAV
+-
+1,2, dichloroethane
+40503
+-
+-
+7.3 (0.2-7.3)
+-
+Sulphuric acid
+40401
+17.5 (1-25)
+-
+-
+-
+Titanium dioxide
+40410
+14.6 (0.9-14.6)
+-
+-
+-
+Urea
+40408
+NAV
+NAV
+NAV
+NAV
+Vinyl chloridea
+40504
+1,2, dichloroethane
+40505
+-
+-
+2.2
+-
+Source: EMEP/CORINAIR guidebook, except the CASPER project (CASPER 1995).
+aThe emission factors should be used for the monomer and polymer separately even if they are produced at the same plant unless otherwise specified.
+NAV = Not available.
+Note: Ranges in brackets.
+INDUSTRIAL PROCESSES
+2.26
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.13 CO 2 Emissions from Metal Production
+2 . 1 3 . 1  C O 2 f r o m  M e t a l  P r o d u c t i o n  -  G e n e r a l
+M e t h o d o l o g y
+With a few exceptions, commercial production of metals from ores requires the use of
+carbon as a reducing agent.  If the ore contains carbonate, CO2 originating from the ore
+will also be emitted during production.  On the other hand, carbon may also be
+sequestered in the metal.
+The metal may be reduced by using coal, coke, prebaked anodes and coal electrodes.
+Wood chips and charcoal may also be used in some of the processes, but the resulting
+CO2 emissions are not counted in Chapter 2 as net emissions.  These net emissions of
+CO2 should, however, be reported in the Land-Use Change and Forestry Chapter.  Coke
+is produced from coal or refinery residuals (petrol coke).  Prebaked anodes and
+electrodes are produced from coal.  By-product fuel (coke oven gas and blast furnace gas)
+are produced in some of the processes.  These fuels may be sold or used within the plant.
+They may or may not be included in the national energy balance.  Care should
+consequently be taken not to double count emissions.
+The following general formula may be used to estimate the emissions:
+Mass Reducing Agent x Emission Factor + (Carbon ore - Carbon metal) x 3.67  = Emission (tonnes CO2)
+The first part of this formula (the amount of reducing agent used combined with an
+emission factor) will usually be most important and probably be sufficient for making a
+first estimate of the emissions.
+The emission factors in Table 2-12 are suggested as default.
+TABLE 2-12
+CO2 EMISSION FACTORS FOR METAL PRODUCTION GENERALLY
+(TONNE CO2/TONNE REDUCING AGENT)
+Reducing Agent
+Emission Factora
+Coalb
+2.5
+Coke from coalb
+3.1
+Petrol coke
+3.6
+Prebaked anodes and coal electrodes
+3.6
+a   If better information on actual carbon content is not available nationally or cannot be calculated from data in
+the Energy Chapter.
+b  Derived from data in the Energy Chapter
+In addition, CO2 will be emitted from baking (prebaked anodes).  In the aluminium
+industry about 5 per cent of the non-combustion CO2 emissions using the prebaking
+technology will be from baking.  No data is available for other metal industries using
+prebaked anodes.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.27
+2 . 1 3 . 2  O v e r v i e w  
+o f  
+E m i s s i o n s  
+o f  
+O z o n e
+P r e c u r s o r s  
+a n d  
+S O 2  
+f r o m  
+M e t a l
+P r o d u c t i o n
+Production of most metals may generate emissions of SO2, CO, NOx and NMVOC.
+Emissions of SO2 originate from sulphur in the reducing agents and in the ores.  The
+emissions will also depend on control technologies and the extent to which sulphur is
+sequestered in the products.
+NOx is produced primarily by the high temperate oxidisation of nitrogen in air.  In metal
+production, most NOx emissions usually occur as a result of fuel combustion.  However,
+high temperate metal production processes (such as roasting and reduction), which occur
+in the presence of air, will also produce nitrogen oxides.  These NOx emissions are in
+principle included in this section, but are often impossible to distinguish from the fuel
+NOx.
+CO is formed due to incomplete oxidation of the reducing carbon.  This CO may in many
+plants be used as a fuel, and double counting of emissions already counted as energy must
+be avoided.
+In addition, small amounts of NMVOCs may be emitted during parts of some of the
+processes, especially those involving coal.
+2 . 1 3 . 3  I r o n  a n d  S t e e l
+2 . 1 3 . 3 . 1  O v e r v i e w
+Iron is produced through the reduction of iron oxide (ore) using metallurgical coke as the
+reducing agent in a blast furnace.  Steel is then subsequently made from iron and scrap in
+other furnaces.
+This sector includes two types of facilities.  Large integrated primary iron and steel plants
+have coking, smelting and refining capacities to produce steel from raw coal and iron ore.
+Other, smaller plants produce iron and steel from coke generated off-site.  The coke
+oven used at an integrated plant is identical to that used at off-site coking facilities.  In the
+integrated plant, coke oven gases (COGs) are used both for oven under firing and
+combustion in the blast furnace and other parts of the process.
+Common to all plants is a blast furnace, which reduces raw ore to molten pig iron by
+heating in the presence of carbon and oxygen.  Coke, the source of carbon, has been
+estimated to be consumed at a rate of about 450 kg/tonne of hot metal (Rankin and
+Wright, 1992).  “Flux” in the form of limestone (CaCO3) or dolomite is also added to the
+furnace at a rate of about 250 kg/tonne of iron (U.S. EPA 1986).
+Steel may be produced in a basic oxygen furnace (BOF), an electric arc furnace (EAF), an
+induction furnace or an open hearth furnace.  The open hearth type is the oldest
+technology.  Low carbon steel is produced in a BOF, where a mixture of pig iron and iron
+scrap is remelted in the presence of pure oxygen, which oxidises the dissolved carbon to
+carbon monoxide or carbon dioxide.  Carbon and alloy steels are produced in an EAF, a
+refractory-lined pot which utilises electric heating through graphite electrodes which are
+consumed in the process.  This type is charged with 100 per cent scrap iron.
+INDUSTRIAL PROCESSES
+2.28
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 1 3 . 3 . 2  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+C O 2
+Process emissions of carbon dioxide in an iron and steel plant take place primarily as a
+result of coke oxidisation. Additional emissions occur as the limestone flux gives off
+carbon dioxide during reduction of pig iron in the blast furnace, but this source is
+covered as emissions from limestone use (Section 2.5).
+During steel production, CO2 emissions also take place as a result of graphite electrode
+consumption in the EAF.
+Pig iron (impure iron) contains about 4-4.5 per cent carbon by weight.  In the conversion
+of pig iron to steel the carbon content is reduced to below 2 per cent by weight.  The
+process takes place in a steel furnace which has been charged with pig iron, usually
+recycled iron or steel and alloying elements to improve material properties.  As the
+carbon is removed from the pig iron, CO2 and CO are evolved.  The lost CO-carbon is
+eventually converted to carbon dioxide by combustion.  This should not be considered as
+an energy emission, as it is inherently part of the iron reduction process.  Care should be
+taken not to double count these emissions (when performing the energy balance).
+The most accurate methodology is to calculate the emissions from the amount of
+reducing agent used as described in 2.13.1.
+Parsons (1977) and ORTECH (1994) have studied the consumption of carbon at iron and
+steel production facilities.  These results have been summarised by Environment Canada
+(1996).  Emission factors per unit iron or steel produced are shown in Table 2-13.
+TABLE 2-13
+CO2 EMISSION FACTOR FOR IRON AND STEEL PRODUCTION
+(TONNES CO2/TONNE IRON OR STEEL PRODUCT)
+Country
+Description
+Emission Factor
+Reference
+Canadaa
+Integrated facilityb (coke plus iron
+and/or steel production).
+1.6
+Environment Canada
+(1996)
+a  Includes CO2 produced by coke and coke oven gas consumption.  It does not include any form of
+conventional energy consumption.  The emission factor applies to both iron or iron plus steel production, since
+uncertainty in the estimates overshadow the incremental difference in CO2 emissions.
+b  Environment Canada has reported an emission factor of approximately 1.5 tonnes CO2/tonne iron or steel
+for a non-integrated facility.  This is, however, a rather uncertain value.
+Note: Figures exclude CO2 from flux (CaCO3) consumption.
+2 . 1 3 . 3 . 3  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+O z o n e  P r e c u r s o r s  a n d  S O 2
+Emissions from iron and steel may originate from various stages of the production
+process.
+Iron production:
+• Blast Furnace Charging: Primary iron production in smelters.  No process emission
+factors are given in the EMEP/CORINAIR Guidebook (SNAP 40202).  In the CASPER
+model (CASPER 1995) emission factors of NMVOC are given as 100 g/tonne product
+(range 20-200) and CO is given as 1330 g/tonne product (range 1180-20000).
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.29
+Preliminary research from Environment Canada suggests that sulphur dioxide emissions
+from the blast furnace may be 1000-3000 g SO2/tonne of iron produced.
+• Pig Iron Tapping: This involves the removal of the molten pig iron from the smelter.
+While it does give rise to emissions of a range of heavy metals, according to the
+EMEP/CORINAIR Guidebook no appreciable emissions of the four gases occur.  In the
+CASPER model (CASPER 1995) the following emission factors are given: SO2: 30 g/tonne
+product, NOx: 76 g/tonne product, CO: 112 g/tonne product and NMVOC: 20 g/tonne
+product.
+Steel production:
+• Open Hearth Furnace: Steel is produced in the open hearth furnace fired by gas or
+fuel oil.  No data exist for process emission from open hearth furnaces.
+• Basic Oxygen Furnace Steel Plant: Pure oxygen is blown into the furnace via a lance.
+Burning CO maintains exothermic conditions.  Most CO emissions are therefore
+eliminated.  The EMEP/CORINAIR Guidebook (SNAP 40206) provides no emission
+factors for the gases.
+• Electric Furnace Steel Plant: This type of furnace is usually charged with 100 per cent
+scrap iron.  Graphite electrodes conduct current through the metal to heat the charge.
+Emissions are dependent upon the quality of scrap metal and operating conditions.  The
+EMEP/CORINAIR Guidebook (SNAP 40207) does not give any emission factors for the
+gases of interest.
+Steel processing:
+• Rolling Mills: Rolling mills use a range of different processes and emit differing amounts
+of pollutants according to the specific processes used.  Most of the emissions from rolling
+mills are from the fuel used to heat the process.  However cold-rolling will emit a range
+of gases in addition to the fuel combustion emissions.  The emission factors expressed as
+the amount of steel cold rolled are taken from the EMEP/CORINAIR Guidebook (SNAP
+40208) and are shown in Table 2-14.  Note that SO2, NO2 and CO emission factors are
+only given for process smelter gas (as sometimes used for rolling pretreatment).
+ 
+TABLE 2-14
+EMISSION FACTORS FOR ROLLING MILLS (G/TONNE STEEL PRODUCED)
+Pollutant
+Emission Factor (default)
+Emission Factor (Range)
+SO2 a
+45
+30-60
+NOx a
+40
+20-50
+CO a
+1
+0.3-1
+NMVOC
+30
+20-30
+a from process smelter gas
+INDUSTRIAL PROCESSES
+2.30
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 1 3 . 4  F e r r o a l l o y s
+2 . 1 3 . 4 . 1  O v e r v i e w
+Ferroalloy is the term used to describe concentrated alloys of iron and one or more
+metals such as silicon, manganese, chromium, molybdenum, vanadium and tungsten.
+These alloys are used for deoxidising and altering the material properties of steel.
+Ferroalloy facilities manufacture concentrated compounds which are delivered to steel
+production plants to be incorporated in alloy steels.  Ferroalloy production involves a
+metallurgical reduction process which results in significant carbon dioxide emissions.
+In ferroalloy production, raw ore, coke and slagging materials are smelted together under
+high temperature.  A commonly used technology is the submerged-arc open-top electric
+furnace (EAF) (Environment Canada, 1983; Ontario Research Foundation, 1981).  In the
+EAF, heating is accomplished by passing current through graphite electrodes suspended in
+a cup-shaped, refractory-lined steel shell.  Carbon reduction of the metallic oxides occurs
+as both coke and graphite electrodes are consumed.
+During ferroalloy smelting, the reduction reaction takes place at a high temperature.
+Carbon captures the oxygen from the metal oxides to form CO, while the ores are
+reduced to molten base metals.  The component metals then combine in the solution.
+For example, the following reaction occurs in the production of 50 per cent ferrosilicon
+(AWMA, 1993):
+Fe2O3 + 2 SiO2 + 7C  →  2FeSi + 7CO
+Primary emissions in covered arc furnaces consist almost entirely of CO as opposed to
+CO2, due to the strong reducing environment (ORTECH, 1994).  All CO is assumed,
+however, to be converted to CO2 within days afterwards.
+2 . 1 3 . 4 . 2  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+C O 2
+The most accurate methodology is to calculate the emissions from the amount of
+reducing agent used as described in Section 2.13.1.  Alternatively, the emissions may be
+calculated from the production volume.  However, it is impossible to suggest default
+factors for this process.  Ferroalloy production may more or less be based on biological
+carbon (wood and wood waste).  To the extent that the biocarbon is replaced and that
+electricity is produced from e.g., hydro power, the production of ferroalloys may in
+principle be CO2 free.  However, in most countries a production based on biocarbon
+only will not be economical feasible.  The suggested emission factors (Table 2.15) assume
+(if not otherwise specified) that all carbon is fossil and are derived from a material balance
+made by SINTEF (SINTEF 1991a) and Streibel (1974).
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.31
+TABLE 2.15
+CO2 EMISSION FACTORS FOR FERROALLOY PRODUCTION
+(TONNES/TONNE PRODUCT)
+Type Ferroalloy
+Emission Factor
+Ferrosilicon - 50%Si
+2-2.7
+Ferrosilicon - 75%Si
+3.9
+Ferrosilicon - 90%Si
+4.8-6.5
+Silicon metala
+4.3
+Ferromanganese
+1.6
+Silicon manganese
+1.7
+Ferrochromium
+1.3
+Ferrochromium-silicon
+NAV
+a All producers probably use some biocarbon in order to obtain the desired product properties.  1.6 tonne bio-
+CO2/tonne silicon may be considered as a minimum value and is not included in the emission factor in the table.
+NAV = Not Available
+2 . 1 3 . 4 . 3  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+O z o n e  P r e c u r s o r s  a n d  S O 2
+SO2, CO, NOx and NMVOC are potentially emitted in the production process as
+described in Section 2.13.2.
+Sulphur may be sequestered in the products.  For ferromanganese and silicon manganese
+98-99 per cent of the sulphur from ore and coke will be sequestered.  Of the remaining
+ferroalloys, assume 5 per cent of the sulphur is sequestered (Rypdal 1995, Rosland 1987).
+In the CASPER model (CASPER 1995) a factor of 35 g/tonne product has been suggested
+for ferrosilicon.
+NOx will originate from production of ferrosilicon and silicon metal.  A factor of
+11.7 kg/tonne product has been determined (Rypdal 1995).  However, this factor is highly
+uncertain, and there may also be emissions from the production of other ferroalloys. In
+the CASPER model (CASPER 1995) 0.05 kg/tonne has been suggested.
+The emissions of NMVOC originate from coal or coke.  The emissions are calculated
+from the consumption of coal and coke.  An emission factor of 1.7 kg/tonne is suggested
+(Rypdal 1995).
+The U.S. EPA has published uncontrolled CO emission factors for various ferroalloy
+products (U.S. EPA 1985).  These vary with furnace type.  Some of these factors are
+presented in Table 2-16.
+INDUSTRIAL PROCESSES
+2.32
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 2-16
+CO EMISSION FACTORS FOR FERROALLOY PRODUCTION
+(KG CO/TONNE METAL)
+Metal
+Covered Furnace
+Sealed Furnace
+Ferrosilicon - 50%Si
+1.09
+NAV
+Ferrosilicon - 75%Si
+1.62
+NAV
+Silicon Manganese
+NAV
+0.84
+Source: U.S. EPA reported by ORTECH (1994).
+NAV = not available.
+2 . 1 3 . 5  A l u m i n i u m
+2 . 1 3 . 5 . 1  O v e r v i e w
+Primary aluminium is produced in two steps.  First bauxite ore is ground, purified and
+calcined to produce alumina.  Following this, the alumina is electrically reduced to
+aluminium by smelting in large pots.
+During the reduction process, the aluminium smelting pot acts as the electrolysis cell.
+The pot itself, a shallow steel container, forms the cathode, while the anode consists of
+one or more carbon blocks suspended in it.  In the pot, alumina (Al2O3), is dissolved in a
+fluoride bath consisting primarily of cryolite, Na3AlF6.  Passing electrolysis current
+through the cell also causes a heating effect through the resistance of the cell which
+maintains the electrolyte in a liquid state.
+Molten aluminium is evolved while the anode is consumed in the reaction.  However, the
+carbon functions as a fuel cell and as such substitutes electrical energy consumption.  The
+aluminium forms at the cathode and gathers on the bottom of the pot.  The favoured
+gaseous reaction product is CO2:
+Al2O3 + 3/2C  →  2Al + 3/2 CO2
+Most carbon dioxide is evolved from the reaction of the carbon anode with alumina, but
+some is formed as the anode reacts with other sources of oxygen (especially air).  This
+occurs during cell operation and, in the case of prebaked electrodes, during anode
+production at the aluminium plant.
+Three types of reduction cells are in use: prebaked anode, horizontal stud S;derberg
+anode and vertical stud S;derberg anode.  Prebaked anodes have been preferred over
+S;derberg cells during the last 20 years because they are more productive and efficient
+with respect to electrical energy consumption and emit fewer organic compounds (U.S.
+EPA 1995).
+2 . 1 3 . 5 . 2  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+C O 2
+CO2 emissions may be calculated from the amount of reducing agents used as described
+in Section 2.13.1.  Alternatively, the emissions may be estimated from the production
+volume of primary metal and the specific consumption of carbon.  Emissions factors for
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.33
+CO2 are suggested in Table 2-17 based on SINTEF 1991b and ORTECH 1994.  The
+production and use of carbon anodes for aluminium smelting is a very well established
+process.  Evidence suggests that there is little variation in CO2 emissions from plants
+utilising similar technologies.  It is very likely that use of the appropriate emission factor,
+along with the correct activity data, will produce accurate estimates.
+TABLE 2-17
+CO2 EMISSION FACTORS FOR PRIMARY ALUMINIUM PRODUCTION
+(TONNES/TONNE PRODUCT)
+Pollutant
+Soderberg Process
+Prebaked Anode Process
+CO2
+1.8
+1.5
+2 . 1 3 . 5 . 3  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+O z o n e  P r e c u r s o r s  a n d  S O 2
+Emissions of carbon monoxide, nitrogen oxide and sulphur dioxide can be estimated from
+the amount of aluminium produced.  Emissions may originate from the production
+process and baking of anodes.  No distinction between the Soderberg and prebaked
+method is given in the EMEP/CORINAIR Guidebook (SNAP 40301).  The suggested
+emission factors are shown in Table 2-18.  No information is given about the degree of
+control.
+TABLE 2-18
+EMISSION FACTORS FOR ALUMINIUM PRODUCTION
+(KG/TONNE PRIMARY ALUMINIUM PRODUCED)
+Pollutant
+Process
+Emission Factor (Default)
+Emission Factor (Range)
+SO2
+Electrolysis
+14.2
+10-17.5
+Anode baking
+0.9
+0.8-1.0
+NOx
+Electrolysis
+2.15
+1.3-3.0
+Anode baking
+NE
+NE
+CO
+Electrolysis
+135
+27-680
+Anode baking
+400
+NAV
+NE = negligible.
+NAV  = not available.
+INDUSTRIAL PROCESSES
+2.34
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 1 3 . 6  P F C s  f r o m  A l u m i n i u m  P r o d u c t i o n
+2 . 1 3 . 6 . 1  O v e r v i e w
+Two PFCs, carbon tetrafluoride (CF4) and carbon hexafluoride (C2F6), are known to be
+emitted from the process of primary aluminium smelting.
+Aluminium is smelted in large  pots by an electrolytic reduction process using carbon
+electrodes.  The pot itself forms the cathode, while the anode consists of one or more
+carbon blocks.  During production, alumina (Al2O3) is dissolved in a fluoride melt
+consisting primarily of cryolite, Na3AlF6.  PFCs are formed during a phenomenon known
+as the Anode Effect (AE), when alumina levels are low.  A forced reaction results when
+molten fluoride salts at high temperature combine with carbon at the anode to favour the
+formation of CF4 and C2F6.  This occurs because, during an AE, voltage rises to a level
+greater than that corresponding to the Gibbs energy of formation for these gases (Laval
+University, 1994).
+When the melt becomes depleted of alumina (reduction to a level of 1.5-2.0 wt %), the
+AE occurs and the cell voltage rises from the normal value of 4-5 volts to 20-50 volts.
+This happens very suddenly and, in theory, is due to a sudden increase in electrical
+resistance across the anode-bath interface.  As a result, the voltage rises to continue
+delivering current across the higher resistance.  Competing reactions begin to occur to
+produce CO, CF4 and C2F6 in addition to CO2.  It is believed that the carbon anode
+becomes completely covered by gas during the AE.  The two reactions of interest at this
+point are:
+Na3AlF6 + 3/4C  =  Al + 3NaF + 3/4CF4
+Na3AlF6 + C  =   Al + 3NaF + 1/2C2F6
+The overall anode gas composition below the anode during an anode effect may be
+approximately 15 % wt CF4, 20 wt % CO2, 65 wt % CO and 1 wt % C2F6 (Thonstad,
+Oygard and Diep, 1994).  AEs typically occur between 0.3 to 3 times daily on a given cell
+and last on the order of 2 to 20 minutes (Unisearch, 1994).
+2 . 1 3 . 6 . 2  E m i s s i o n  D a t a
+Measured Emission Data
+In 1992, the Norwegian aluminium industry measured the emissions of PFCs from their
+smelters.  The measurements in production cells were performed with a photoacoustic
+gas monitor (Norsk Hydro, 1996), (See Table 2-19).  The results were different for
+prebaked lines (0.02 to 0.18 kg CF4/tonne Al) and Søderberg lines  (0.15 to
+0.9 kg CF4/tonne Al).
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.35
+TABLE 2-19
+MEASURED EMISSIONS OF PFCS FROM PRIMARY ALUMINIUM PRODUCTION
+Norway
+(Norsk Hydro, 1996)
+Canada
+(Schiff ,1994)
+CF4
+C2F6
+CF4
+C2F6
+Cell Technology
+kg/tonne Al
+kg/tonne Al
+kg/tonne Al
+kg/tonne Al
+Side Worked Prebaked (SWPB)
+NAV
+NAV
+1.19 a
+0.067 a
+Horizontal Stud Søderberg (HSS)
+NAV
+NAV
+0.82 a
+0.14 a
+Vertical Stud Søderberg (VSS)
+0.15-0.9
+0.006-0.04
+0.4 b
+NAV
+Centre Worked Prebaked (CWPB)
+0.02-0.18
+0.001-0,008
+0.045-0.53 c
+0.007-0.032 c
+a Based on samples from one plant.
+b Samples from one plant-value has been adjusted to compensate for error.
+c Based on sampling 5 plants.
+NAV = Not Available.
+In Australia, all aluminium smelters use pre-baked cell technology.  Emission factors from
+the Australian aluminium industry are reported to be 0.53 kg CF4/tonne Al, and 0.05 kg
+C2F6/tonne Al (Workbook, Australia, 1995).
+A study of Canadian aluminium plants found CF4 emission factors to be between 0.045
+and 1.2 kg. per tonne of aluminium produced (Unisearch, 1994).  The emission factor for
+C2F6 was between 0.007 and 0.14 kg per tonne.  The Canadian study further subdivided
+the Søderberg and Prebaked technologies into two separate categories (Table 2-19).  This
+subdivision narrows the emission range for each category.
+PFC emissions increase with frequency, intensity and duration of anode effects.  The
+Norwegian study reported the frequency variation to be 0.03-0.24 AE per cell-day in
+Prebaked lines, and 1.0-2.76 AE per cell-day in Søderberg lines.  Canadian data show AE
+frequency to vary between 0.2 and 2.6 per cell-day in all lines.  Uncertainty in all
+measurements is relatively high (of the order of 50 per cent).
+Estimated Emission Data
+A preliminary U.S. EPA study suggested a range of 0.01 to 1.2 kg of CF4 per tonne of
+aluminium produced by any technology (U.S. EPA, 1994a).  This range is an average based
+on measured emissions from aluminium smelters in the United States, Canada and
+Norway.  These values may underestimate emissions from other aluminium producing
+regions.
+CICERO (1992) and, Khalil and Rasmussen (1985) have studied trends in atmospheric
+CF4.  The studies made projections based on the assumption that all atmospheric CF4
+originates from aluminium production.  Though data are subject to large uncertainties,
+both papers lead to the conclusion that the average emission rate from aluminium
+smelting is around 1 kg per tonne metal.
+The global emissions of PFCs to the atmosphere from all aluminium smelters was re-
+estimated for 1995 (Harnisch and Borchers, 1995), and reported to be closer to 1.4 kg
+CF4/per tonne Al, and 0.2 kg C2F6/per tonne Al (Tabereaux, 1995).  The distribution of
+four different cell technologies on a global scale is given in Table 2-20, together with
+estimated CF4 emissions.
+INDUSTRIAL PROCESSES
+2.36
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 2-20
+ESTIMATED GLOBAL CF4 EMISSIONS FROM SMELTERS WITH
+VARIOUS CELL TECHNOLOGIES
+Type of Cell Technology
+Per Cent of World
+Production
+kg CF4 /tonne Al
+Modern Prebaked
+20
+0.05
+HS Søderberg
+11
+1.0
+“Older” Prebaked
+40
+1.75
+VS Søderberg
+29
+2.0
+Weighted average for all plants
+world-wide
+100
+1.40
+Source: Tabereaux, 1995.
+Calculation of Emission Data
+Tabereaux (1995) has proposed a method for PFC emission calculation.  He states that
+the generation of CF4 in electrolysis cells follows Faraday’s Law (i.e., the quantity of gas
+generated depends on the flow of electrical current in the cell).  At 100 per cent
+efficiency, 13.68 g of CF4 is formed for every kiloampere-minute (kA min) duration of the
+anode effect.  For example, CF4 emissions for an aluminium smelter having an average
+percentage (p) of 16 per cent CF4 in pot gas during anode effects (AE), 91 per cent
+current efficiency (CE) for aluminium production, 0.5 anode effects per pot day (AEF),
+and anode effect duration (AED) of 2.5 minutes can be calculated from:
+   Kg CF4 / tonne Al  =    (kg CF4/kA min) / (kg Al/kA min) x (1000
+kg/tonne) x (p/CE) x AEF x AED
+                        =      13.68 / 8.05) x (0.16 / 0.91) x (0.5) x (2.5)
+                        =       0.373
+2 . 1 3 . 6 . 3  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r
+P F C s
+Measurements
+Since emissions of CF4 and C2F6 vary so significantly from one aluminium smelter to the
+next, depending on cell type and AE parameters, the estimations will be highly uncertain
+unless actual emission measurements have been made.  Every effort should be made to
+obtain such data.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.37
+Calculations
+It is recognised that measurements are both expensive and time-consuming.  It may,
+however, be much easier to make a limited survey of AE frequency and duration at
+smelters.  In such cases, it is recommended that specific CF4 emissions for anode effects
+longer than 2 minutes are calculated as follows:
+kg CF4/tonne Al =  1.698 x (p / CE) x AEF x AED
+p
+=
+average fraction of CF4
+in the pot gas during anode effects
+Prebaked: p
+=
+0.08 (8%)
+Søderberg: p
+=
+0.04 (4%)
+CE
+=
+current efficiency expressed as a
+fraction, rather than a percentage
+AEF
+=
+number of anode effects per pot day
+AED
+=
+anode effect duration in minutes
+It is recommended that the default rate for C2F6 emissions be 1/10 that of CF4.
+Estimations
+It is recommended that estimates are used only when no measured data exist.  Specific
+emission factors should be chosen according to the type of technology used as shown in
+Tables 2-19 and 2-20 and applied to national primary aluminium production data for each
+technology.  The following method may then be used to give an estimate of the annual
+CF4 emissions from a smelter with a given cell technology.
+CF4 emission (kg)  =  EF(tech) (kg CF4/tonne Al) x pp(tech) (tonnes)
+where:
+EF(tech)
+=
+emission factor by technology (from Table 2-20)
+pp(tech)
+=
+primary aluminium production by technology
+2 . 1 3 . 7  O t h e r  M e t a l  P r o d u c t i o n
+2 . 1 3 . 7 . 1  E m i s s i o n s  o f  C O 2
+This includes production of all non-ferrous metals except aluminium.  The metals may be
+produced using carbon as reducing agents or by other methodologies.
+Whether carbon is emitted or not depends on the production process.  Some ores are
+not reduced with carbon.  Hence, CO2 emissions from these processes are low.  The
+general methodology suggested, where emissions are calculated from the consumption of
+reducing agents and the carbon content of ores, is recommended.  An overview of
+production processes is given in Table 2-21.  Some metals may be produced from
+alternative production methods.
+INDUSTRIAL PROCESSES
+2.38
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 2-21
+PRODUCTION PROCESSES FOR SOME METALS
+Metal
+Main Ore(s)
+Carbon
+Reduction
+Electrolysis
+(without carbon)
+Other
+ (non-CO2)
+Chromiuma
+FeCr2O4, PbCrO4
+x
+Copper
+Cu2S, CuFeS2, Cu2O,
+x
+x (SO2)
+Gold
+Element
+x
+x
+Lead
+PbS
+x
+x (SO2)
+Magnesium
+Carbonate
+x
+x
+Mercury
+HgS
+x (SO2)
+Molybdenium
+MoS2
+x (SO2)
+Nickel
+NiS, NiO
+x
+x
+x (SO2)
+Platinum
+Element, PtS
+x
+Siliconb
+SiO2, Si-O-alkali
+x
+Silver
+Ag2S, element
+x
+Tin
+SnO2
+x
+Titanium
+TiO2, FeTiO3
+xc
+Tungsten
+WO3
+x
+Uranium
+UxOy
+x
+Zinc
+ZnS, ZnCO3
+x
+x
+x (SO2)
+a  See also ferroalloy production
+b  See also ferroalloy production and carbide production
+c Two step reduction process, involving first C + Cl2, then Mg
+Note:  The appearance of (SO2) in the final column indicates that the production process is a major world-wide source of
+SO2 emissions.
+In the case of magnesium and other metals in a carbonate ore, the carbon emitted from
+the ore should be taken into account in addition to the coke reducing agent.
+2 . 1 3 . 8  S F 6 U s e d  i n  A l u m i n i u m  a n d  M a g n e s i u m
+F o u n d r i e s
+In the magnesium industry, SF6 is used as a cover gas in foundries to prevent oxidation of
+molten magnesium.  The Norwegian producer of magnesium has assessed whether SF6
+used as a cover gas reacts with other components in the furnaces.  The results so far
+indicate that SF6 is quite inert.  For the time being it is therefore assumed that all SF6
+used as cover gas is emitted to the atmosphere.  The consumption figures are therefore
+used as emission estimates.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.39
+In the aluminium industry SF6 is used as a cover gas only for special foundry products.  As
+SF6 is assumed to be inert, SF6 emissions should equal consumption:
+Emission of SF6  =  Consumption of SF6 in magnesium and aluminium  foundries
+2.14 Pulp and Paper Industries
+2 . 1 4 . 1  O v e r v i e w
+Pulp and paper production has three major processing steps: pulping, bleaching and paper
+production.  The type of pulping and the amount of bleaching used depend on the nature
+of the feedstock and the desired quality of the end product.  Kraft (sulphate) pulping is
+the most widely used pulping process and is typically used to produce strong paper
+products.  The Kraft pulping process includes bleaching, chemical recovery and by-
+product recovery.
+Sulphite pulping is another chemical pulping process.  It produces a weaker paper than
+some other types of pulping, but the pulp is less coloured, making it more suitable for
+printing, often with little bleaching.
+2 . 1 4 . 2  S i m p l e  
+M e t h o d o l o g y  
+f o r  
+O z o n e
+P r e c u r s o r s  a n d  S O 2
+Simpler methodologies are presented in the EMEP/CORINAIR Guidebook for three
+paper pulping processes;
+• Kraft (SNAP 40602),
+• Acid sulphite (SNAP 40603)
+• Neutral sulphite semi-chemical process (SNAP 40604).
+Only data for the Kraft and Acid sulphite processes are available.
+In the Kraft pulping process sodium sulphide and sodium hydroxide are used to
+chemically dissolve the lignin that binds the cellulose fibres.  Emission factors are based on
+the production of air-dried pulp and are shown in Table 2-22 as suggested in the
+EMEP/CORINAIR Guidebook.  The emissions of SO2 may be lower in new mills than the
+older ones (U.S. EPA 1995).
+INDUSTRIAL PROCESSES
+2.40
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 2-22
+NON-COMBUSTION EMISSION FACTORS FOR PAPER AND PULP PRODUCTION -
+KRAFT PULPING
+(KG/TONNE DRIED PULP)
+Pollutant
+Emission Factor (Default)
+Emission Factor (Range)
+SO2
+7
+0.005-10
+NOx
+1.5
+0.017-1.5
+VOCa
+3.7
+0.1-4.9
+COb
+5.6
+NAV
+a  Note, VOC is defined as the total gaseous non-methane organic compounds which include sulphur
+compounds.
+b  Ref: U.S. EPA 1995.
+NAV = Not Available
+The acid sulphite pulping process is similar to the Kraft process except that a sulphurous
+acid solution is used to dissolve the lignin in the wood.  This solution is buffered by the
+use of bisulphide of sodium, magnesium, calcium or ammonium.  SO2 is considered to be
+the major pollutant.  There are at least four types of processes: ammonium based (NH3),
+calcium based (Ca), magnesium based (MgO) and sodium based (Na) (U.S. EPA, 1995).
+Emissions factors from U.S. EPA, 1995 are given in Table 2-23.
+TABLE 2-23
+NON COMBUSTION EMISSIONS FROM PAPER AND PULP PRODUCTION -
+ACID SULPHITE PULPING
+(KG/TONNE DRIED PULP)
+Pollutant
+Type of Process
+Emission Factor
+(Default)
+Emission Factor
+(Range)
+SO2
+NH3, Ca, MgO and Na
+30
+8-50
+2 . 1 4 . 3  D e t a i l e d  
+M e t h o d o l o g y  
+f o r  
+O z o n e
+P r e c u r s o r s  a n d  S O 2
+The preferred methodology is to use continuous measurements data which may be
+available for SO2 and NOx.  This is only feasible in modern plants where the number of
+measure points to be monitored is limited.  Detailed emission factors related to the
+various processes are given in the EMEP/CORINAIR Guidebook.

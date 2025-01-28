@@ -1,0 +1,1452 @@
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.41
+S T E P  9  T O T A L  N 2 O  E M I S S I O N S  F R O M
+A G R I C U L T U R A L  S O I L S
+Total Nitrous Oxide Emissions from agricultural soils can be calculated as
+the sum of direct emissions (Worksheet 4-5, sheet 2, step 4), emissions
+from animal waste (Worksheet 4-5, sheet 3, step 5) and indirect emissions
+(Worksheets 4-5, sheet 5, step 8).  Thus
+Total N2O–N emissions from a country (kg N2O–N/yr) are:
+EQUATION 10
+N2O = N2ODIRECT + N2OANIMALS + N2OINDIRECT
+1 Sum the totals in column G (Worksheet 4-5, sheet 2, step 4), column C
+(Worksheet 4-5, sheet 3, step 5) and column N (Worksheet 4-5, sheet
+5, step 8) to give the Total Nitrous Oxide Emissions from agricultural
+soils.  Enter the result in column O.
+TABLE 4-19
+DEFAULT VALUES OF PARAMETERS FOR INDIRECT EMISSIONS
+FracNPR
+0.16 kg N/kg of protein
+FracLEACH
+0.3 (0.1-0.8) kg N/kg of fertiliser or manure N
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.43
+Appendix A
+Data Underlying Nitrous Oxide Emissions from
+Agricultural Soils
+This appendix presents the data used to calculate the manure-N excretion
+and N2O emission factors in Table A-1.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k
+4.45
+TABLE A-1
+CALCULATION OF MANURE-N EXCRETION AND N2O EMISSION FACTORS  FOR DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS.  THESE ARE TO BE
+REPORTED UNDER MANURE MANAGEMENT, EXCEPT FOR DAILY SPREAD AND PASTURE RANGE OF PADDOCK (EMISSIONS FROM AGRICULTURAL SOILS) AND EMISSIONS AFTER USE AS A FUEL
+(ENERGY)
+Region
+Type of Animal
+Emission Factor for AWMSs EF3 (% of Manure N Excreted that is  lost as  N2O)
+Number of
+Animals
+ (x106)
+Nitrogen
+Excretion
+kg N/animal/yr
+Anaerobic
+Lagoon
+(EF3)
+Liquid
+Systems
+(EF3)
+Daily
+Spread
+(EF3)
+Solid
+Storage &
+Drylot
+(EF3)
+Pasture
+Range
+Paddock
+(EF3)
+Used Fuel
+(EF3)
+Other
+System
+ (EF3)
+Total N
+Excreted
+(Tg N)
+North America
+Non-dairy Cattle
+99.199
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+6.9
+Dairy Cattle
+16.521
+100
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.7
+Poultry (E)
+1486.266
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.9
+Sheep
+11.336
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.2
+Swine
+66.146
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.3
+Other animals (F)
+6.067
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.2
+Western Europe
+Non-dairy Cattle
+56.618
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+4.0
+Dairy Cattle
+31.099
+100
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.1
+Poultry (E)
+880.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.5
+Sheep
+93.856
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.9
+Swine
+114.959
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.3
+Other animals (F)
+31.578
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.8
+Eastern Europe
+Non-dairy Cattle
+101.447
+50
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+5.1
+Dairy Cattle
+56.800
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+4.0
+Poultry (E)
+1667.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.0
+Sheep
+188.159
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.0
+Swine
+152.757
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.1
+Other animals (F)
+21.558
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.5
+AGRICULTURE
+4.46
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k
+TABLE A-1 (CONTINUED)
+CALCULATION OF MANURE-N EXCRETION AND N2O EMISSION FACTORS  FOR DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS.  THESE ARE TO BE
+REPORTED UNDER MANURE MANAGEMENT, EXCEPT FOR DAILY SPREAD AND PASTURE RANGE OF PADDOCK (EMISSIONS FROM AGRICULTURAL SOILS) AND EMISSIONS AFTER USE AS A FUEL
+(ENERGY)
+Region
+Type of Animal
+Emission Factor for AWMSs EF3 (% of Manure N Excreted that is  lost as  N2O)
+Number of
+Animals
+(x 106)
+Nitrogen
+Excretion
+kg N/animal/yr
+Anaerobic
+Lagoon
+(EF3)
+Liquid
+Systems
+(EF3)
+Daily
+Spread
+(EF3)
+Solid
+Storage &
+Drylot
+(EF3)
+Pasture
+Range
+Paddock
+(EF3)
+Used Fuel
+(EF3)
+Other
+System
+(EF3)
+Total N
+Excreted.
+(Tg N)
+Oceania
+Non-dairy Cattle
+27.610
+60
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.7
+Dairy Cattle
+4.441
+80
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.4
+Poultry (E)
+71.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.0
+Sheep
+228.982
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+4.6
+Swine
+5.003
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.1
+Other animals (F)
+2.579
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.1
+Latin America
+Non-dairy Cattle
+272.871
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+10.9
+Dairy Cattle
+37.560
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.6
+Poultry (E)
+1259.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.8
+Sheep
+117.312
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.4
+Swine
+78.150
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.3
+Other animals (F)
+71.699
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.9
+Africa
+Non-dairy Cattle
+133.198
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+5.3
+Dairy Cattle
+18.734
+60
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.1
+Poultry (E)
+646.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.4
+Sheep
+179.171
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.2
+Swine
+12.445
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.2
+Other animals (F)
+162.194
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+6.5
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k
+4.47
+TABLE A-1 (CONTINUED)
+CALCULATION OF MANURE-N EXCRETION AND N2O EMISSION FACTORS  FOR DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS.  THESE ARE TO BE
+REPORTED UNDER MANURE MANAGEMENT, EXCEPT FOR DAILY SPREAD AND PASTURE RANGE OF PADDOCK (EMISSIONS FROM AGRICULTURAL SOILS) AND EMISSIONS AFTER USE AS A FUEL
+(ENERGY)
+Region
+Type of Animal
+Emission Factor for AWMSs EF3 (% of Manure N Excreted that is  lost as  N2O)
+Number of
+Animals
+ (x 106)
+Nitrogen
+Excretion
+(kg N/animal/yr)
+Anaerobic
+Lagoon
+(EF3)
+Liquid
+Systems
+(EF3)
+Daily
+Spread
+(EF3)
+Solid
+Storage &
+Drylot
+(EF3)
+Pasture
+range
+Paddock
+(EF3)
+Used Fuel
+(EF3)
+Other
+System
+(EF3)
+Total N
+Excreted
+(Tg N)
+Near East and
+Mediterranean
+Non-dairy Cattle
+44.562
+50
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.2
+Dairy Cattle
+17.174
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.2
+Poultry (E)
+656.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.4
+Sheep
+187.502
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.3
+Swine
+0.174
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.0
+Other animals (F)
+81.962
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.3
+Asia and Far East
+Non-dairy Cattle
+440.398
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+17.6
+Dairy Cattle
+45.240
+60
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.7
+Poultry (E)
+3949.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.4
+Sheep
+202.442
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.4
+Swine
+403.231
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+6.5
+Other animals (F)
+293.700
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+11.7
+World Total
+135.3
+(D) Includes buffalo
+(E) Includes chickens, turkeys and ducks
+(F) Includes goats, horses, mules, donkeys and camels
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.49
+MODULE AGRICULTURE
+SUBMODULE METHANE AND NITROUS OXIDE EMISSIONS FROM DOMESTIC LIVESTOCK
+ENTERIC FERMENTATION AND MANURE MANAGEMENT
+WORKSHEET 4-1
+SHEET 1 OF 2 METHANE EMISSIONS FROM DOMESTIC LIVESTOCK ENTERIC
+FERMENTATION AND MANURE MANAGEMENT
+STEP 1
+STEP 2
+STEP 3
+Livestock Type
+A
+Number of
+Animals
+(1000s)
+B
+Emissions
+Factor for
+Enteric
+Fermentatio
+n
+(kg/head/yr)
+C
+Emissions
+from Enteric
+Fermentation
+(t/yr)
+D
+Emissions
+Factor for
+Manure
+Management
+(kg/head/yr)
+E
+Emissions from
+Manure
+Management
+(t/yr)
+F
+Total Annual
+Emissions from
+Domestic
+Livestock
+(Gg)
+C = (A x B)
+E = (A x D)
+F =(C + E)/1000
+Dairy Cattle
+Non-dairy Cattle
+Buffalo
+Sheep
+Goats
+Camels
+Horses
+Mules & Asses
+Swine
+Poultry
+Totals
+AGRICULTURE
+4.50
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE AGRICULTURE
+SUBMODULE METHANE AND NITROUS OXIDE EMISSIONS FROM DOMESTIC LIVESTOCK
+ENTERIC FERMENTATION AND MANURE MANAGEMENT
+WORKSHEET 4-1 (SUPPLEMENTAL)
+SPECIFY AWMS
+SHEET
+ NITROGEN EXCRETION FOR ANIMAL WASTE MANAGEMENT SYSTEM
+Livestock Type
+A
+Number of Animals
+(1000s)
+B
+Nitrogen Excretion
+Nex
+(kg//head/(yr)
+C
+Fraction of Manure
+Nitrogen per AWMS
+(%/100)
+(fraction)
+D
+Nitrogen Excretion per
+AWMS, Nex
+(kg/N/yr)
+D = (A x B x C)
+Non-dairy Cattle
+Dairy Cattle
+Poultry
+Sheep
+Swine
+Others
+TOTAL
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.51
+MODULE
+AGRICULTURE
+SUBMODULE
+METHANE AND NITROUS OXIDE EMISSIONS FROM DOMESTIC LIVESTOCK ENTERIC
+FERMENTATION AND MANURE MANAGEMENT
+WORKSHEET
+4-1
+SHEET
+2 OF 2 NITROUS OXIDE EMISSIONS FROM ANIMAL PRODUCTION
+EMISSIONS FROM ANIMAL WASTE MANAGEMENT SYSTEMS (AWMS)
+STEP 4
+Animal Waste
+Management System
+(AWMS)
+A
+Nitrogen Excretion
+Nex(AWMS)
+(kg N/yr)
+B
+Emission Factor For
+AWMS
+EF3
+(kg N2O–N/kg N)
+C
+Total Annual Emissions
+of N2O
+(Gg)
+C= (A x B)[44/28] x 10-6
+Anaerobic lagoons
+Liquid systems
+Daily spread
+Solid storage & drylot
+Pasture range and paddock
+Other
+Totals
+AGRICULTURE
+4.52
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+AGRICULTURE
+SUBMODULE
+METHANE EMISSIONS FROM FLOODED RICE FIELDS
+WORKSHEET
+4-2
+SHEET
+1 OF 1
+Water Management Regime
+A
+Harvested
+Area
+  (m2 x 10-9)
+B
+Scaling
+Factor for
+Methane
+Emissions
+C
+Correction
+Factor for
+Organic
+Amendment
+D
+Seasonally Integrated
+Emission Factor for
+Continuously
+Flooded Rice
+without Organic
+Amendment
+ (g/m2)
+E
+CH4 Emissions
+ (Gg)
+E = (A x B x C x D)
+Irrigated
+Continuously Flooded
+Intermittently
+Flooded
+Single
+Aeration
+Multiple
+Aeration
+Rainfed
+Flood Prone
+Drought Prone
+Deep
+Water
+Water Depth
+  50-100 cm
+Water Depth > 100 cm
+Totals
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.53
+MODULE AGRICULTURE
+SUBMODULE PRESCRIBED BURNING OF SAVANNAS
+WORKSHEET 4-3
+SHEET 1 OF 3
+STEP 1
+STEP 2
+A
+Area Burned
+by Category
+(specify)
+(k ha)
+B
+Biomass
+Density of
+Savanna
+(t dm/ha)
+C
+Total Biomass
+Exposed to
+Burning
+ (Gg dm)
+D
+Fraction
+Actually
+Burned
+E
+Quantity
+Actually
+Burned
+(Gg dm)
+F
+Fraction of
+Living
+Biomass
+Burned
+G
+Quantity of
+Living Biomass
+Burned
+ (Gg dm)
+H
+Quantity of
+Dead  Biomass
+Burned
+(Gg dm)
+C = (A x B)
+E = (C x
+D)
+G = (E x F)
+H = (E - G)
+AGRICULTURE
+4.54
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE AGRICULTURE
+SUBMODULE PRESCRIBED BURNING OF SAVANNAS
+WORKSHEET 4-3
+SHEET 2 OF 3
+STEP 3
+I
+Fraction
+Oxidised of living
+and dead
+biomass
+J
+Total Biomass
+Oxidised
+(Gg dm)
+K
+Carbon Fraction
+of Living & Dead
+Biomass
+L
+Total Carbon
+Released
+(Gg C)
+Living: J = (G x I)
+Dead: J = (H x I)
+L = (J x K)
+Living
+Dead
+Living
+Dead
+Living
+Dead
+Living
+Dead
+Living
+Dead
+Living
+Dead
+Living
+Dead
+Total
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.55
+MODULE AGRICULTURE
+SUBMODULE PRESCRIBED BURNING OF SAVANNAS
+WORKSHEET 4-3
+SHEET 3 OF 3
+STEP 4
+STEP 5
+L
+Total Carbon
+Released
+(Gg C)
+M
+Nitrogen-
+Carbon Ratio
+N
+Total Nitrogen
+Content
+(Gg N)
+O
+Emissions
+Ratio
+P
+Emissions
+(Gg C or Gg
+N)
+Q
+Conversion
+Ratio
+R
+Emissions from
+Savanna Burning
+(Gg)
+N = (L x M)
+P = (L x O)
+R = (P x Q)
+16/12
+ CH4
+28/12
+ CO
+P = (N x O)
+R = (P x Q)
+44/28
+ N2O
+46/14
+ NOx
+AGRICULTURE
+4.56
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE AGRICULTURE
+SUBMODULE FIELD BURNING OF AGRICULTURAL RESIDUES
+WORKSHEET 4-4
+SHEET 1 OF 3
+STEP 1
+STEP 2
+STEP 3
+Crops
+(specify locally
+important
+crops)
+A
+Annual
+Production
+(Gg crop)
+B
+Residue to
+Crop Ratio
+C
+Quantity of
+Residue
+(Gg biomass)
+D
+Dry Matter
+Fraction
+E
+Quantity of
+Dry Residue
+(Gg dm)
+F
+Fraction
+Burned in
+Fields
+G
+Fraction
+Oxidised
+H
+Total Biomass
+Burned
+(Gg dm)
+C = (A x B)
+E = (C x D)
+H = (E x F xG)
+Total:
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.57
+MODULE AGRICULTURE
+SUBMODULE FIELD BURNING OF AGRICULTURAL RESIDUES
+WORKSHEET 4-4
+SHEET 2 OF 3
+STEP 4
+STEP 5
+I
+Carbon
+Fraction of
+Residue
+J
+Total Carbon
+Released
+(Gg C)
+K
+Nitrogen-
+Carbon Ratio
+L
+Total Nitrogen
+Released
+(Gg N)
+J = (H x I)
+L = (J x K)
+Total:
+AGRICULTURE
+4.58
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE AGRICULTURE
+SUBMODULE FIELD BURNING OF AGRICULTURAL RESIDUES
+WORKSHEET 4-4
+SHEET 3 OF 3
+STEP 6
+M
+Emission Ratio
+N
+Emissions
+(Gg C or Gg N)
+O
+Conversion
+Ratio
+P
+Emissions
+from Field
+Burning of
+Agricultural
+Residues
+ (Gg)
+N = (J x M)
+P = (N x O)
+CH4
+16/12
+CO
+28/12
+N = (L x M)
+P = (N x O)
+N2O
+44/28
+NOx
+46/14
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.59
+MODULE
+AGRICULTURE
+SUBMODULE
+AGRICULTURAL SOILS
+WORKSHEET
+4-5
+SHEET
+1 OF 5 DIRECT NITROUS OXIDE EMISSIONS FROM
+AGRICULTURAL FIELDS, EXCLUDING CULTIVATION OF
+HISTOSOLS
+STEP 1
+STEP 2
+Type of N input to soil
+A
+Amount of N
+Input
+(kg N/yr)
+B
+Emission Factor
+for Direct
+Emissions
+EF1
+(kg N2O–N/kg N)
+C
+Direct Soil
+Emissions
+(Gg N2O-N/yr)
+C = (A x B)x10-6
+Synthetic fertiliser (FSN)
+Animal waste (FAW)
+N-fixing crops (FBN)
+Crop residue (FCR)
+Total
+AGRICULTURE
+4.60
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE AGRICULTURE
+SUBMODULE AGRICULTURAL SOILS
+WORKSHEET 4-5A (SUPPLEMENTAL)
+SHEET 1 OF 1 MANURE  NITROGEN USED
+A
+Total Nitrogen
+Excretion
+(kg N/yr)
+B
+Fraction  of Nitrogen
+Burned for Fuel
+(fraction)
+C
+Fraction of Nitrogen
+Excreted During
+Grazing
+(fraction)
+D
+Fraction of Nitrogen
+Excreted Emitted as
+NOX and NH3
+(fraction)
+E
+Sum
+(fraction)
+F
+Manure Nitrogen Used
+(corrected for NOX
+and NH3 emissions),
+FAW
+(kg N/yr)
+F = 1 - (B + C + D)
+F = (A x E)
+MODULE AGRICULTURE
+SUBMODULE AGRICULTURAL  SOILS
+WORKSHEET 4-5B (SUPPLEMENTAL)
+SHEET 1 OF 1 NITROGEN INPUT FROM CROP RESIDUES
+A
+Production
+of non - N -
+Fixing Crops
+(kg dry
+biomass/yr)
+B
+Fraction of
+Nitrogen of
+non - N -
+Fixing Crops,
+(kg N/kg dry
+biomass)
+C
+Production of
+Pulses and
+Soybeans
+(kg dry
+biomass/yr)
+D
+Fraction of
+Nitrogen in N-
+Fixing Crops,
+ (kg N/kg dry
+biomass)
+E
+One minus the
+Fraction of
+Crop Residue
+Removed From
+Field,
+(fraction)
+F
+One minus the
+Fraction of
+Crop Residue
+Burned
+(fraction)
+G
+Nitrogen Input
+from Crop
+Residues
+(kg N/yr)
+G = 2 x (A x B +
+C x D) x E x F
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.61
+MODULE
+AGRICULTURE
+SUBMODULE
+AGRICULTURAL SOILS
+WORKSHEET
+4-5
+SHEET
+2 OF 5 DIRECT NITROUS OXIDE EMISSIONS FROM CULTIVATION
+OF HISTOSOLS
+STEP 3
+STEP 4
+D
+Area of
+Cultivated
+Organic Soils
+FOS
+ (ha)
+E
+Emission Factor for
+Direct Soil
+Emissions
+EF2
+(kg N2O–N/ha/yr)
+F
+Direct Emissions
+from Histosols
+(Gg N2O–N/yr)
+G
+Total Direct
+Emissions of
+N2O
+(Gg)
+F=(D x E)x10-6
+G = (C+F)[44/28]
+Subtotal
+MODULE
+AGRICULTURE
+SUBMODULE
+AGRICULTURAL SOILS
+WORKSHEET
+4-5
+SHEET
+3 OF 5 NITROUS OXIDE SOIL EMISSIONS FROM GRAZING ANIMALS -
+PASTURE RANGE AND PADDOCK
+STEP 5
+Animal Waste
+Management System
+ (AWMS)
+A
+Nitrogen
+Excretion
+Nex(AWMS)
+(kg N/yr)
+B
+Emission Factor for
+AWMS
+EF3
+ (kg N2O–N/kg N)
+C
+Emissions Of N2O from
+Grazing Animals
+ (Gg)
+C = (A x B)[44/28]x10-6
+Pasture range & paddock
+AGRICULTURE
+4.62
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+AGRICULTURE
+SUBMODULE
+AGRICULTURAL SOILS
+WORKSHEET
+4-5
+SHEET
+4 OF 5 INDIRECT NITROUS OXIDE EMISSIONS FROM ATMOSPHERIC DEPOSITION OF NH3 AND NOX
+STEP 6
+Type of
+Deposition
+A
+Synthetic
+Fertiliser N
+Applied to
+Soil, NFERT
+(kg N/yr)
+B
+Fraction of
+Synthetic
+Fertiliser N
+Applied that
+Volatilizes
+FracGASFS
+(kg N/kg N)
+C
+ Amount of
+Synthetic N
+Applied to Soil
+that Volatilizes
+(kg N/kg N)
+D
+Total N
+Excretion by
+Livestock
+NEX
+(kg N/yr)
+E
+Fraction of
+Total Manure N
+Excreted that
+Volatilizes
+FracGASM
+(kg N/kg N)
+F
+Total N Excretion
+by Livestock that
+Volatilizes
+(kg N/kg N)
+G
+Emission Factor
+EF4
+ (kg N2O–N/kg N)
+H
+Nitrous Oxide
+Emissions
+(Gg N2O–N/yr)
+C = (A x B)
+F = (D x E)
+H = (C + F) x G x10-
+6
+Total
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k
+4.63
+MODULE
+AGRICULTURE
+SUBMODULE
+AGRICULTURAL SOILS
+WORKSHEET
+4-5
+SHEET
+5 OF 5 INDIRECT NITROUS OXIDE EMISSIONS FROM LEACHING
+STEP 7
+STEP 8
+STEP 9
+I
+Synthetic Fertiliser
+Use NFERT
+(kg N/yr)
+J
+Livestock N
+Excretion NEX
+(kg N/yr)
+K
+Fraction of N That
+Leaches
+FracLEACH
+(kg N/kg N)
+L
+Emission Factor
+EF5
+M
+Nitrous Oxide Emissions
+From Leaching
+(Gg N2O–N/yr)
+N
+Total Indirect
+Nitrous Oxide
+Emissions
+(Gg N2O/yr)
+O
+Total Nitrous Oxide
+Emissions
+(Gg)
+M = (I + J) x K x Lx10-6
+N = (H + M)[44/28] O = (G + C + N)
+(G from Worksheet 4
+-5, sheet 2, Step 4; C
+from Worksheet 4-5,
+sheet 3, Step 5; N
+from Worksheet 4-5,
+sheet 5, Step 8).
+Total

@@ -1,0 +1,74 @@
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   R e f e r e n c e  M a n u a l
+4.51
+Graph C-1: NRC NE:DE Relationship
+44
+48
+52
+56
+60
+64
+68
+72
+76
+NE to DE Ratio by DE
+Digestible Energy
+Derived from NRC (1984)
+0.54
+0.52
+0.50
+0.48
+0.46
+0.44
+0.42
+0.40
+0.38
+0.36
+0.34
+0.32
+0.30
+0.28
+0.26
+0.24
+0.22
+0.20
+0.18
+NEg
+NEm
+AGRICULTURE
+4.52
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   R e f e r e n c e  M a n u a l
+Graph C-2: Linear Extrapolation Of The NRC NE:DE Relationship
+44
+48
+52
+56
+60
+64
+68
+72
+76
+NE to DE Ratio by DE
+Digestible Energy (%)
+0.54
+0.52
+0.50
+0.48
+0.46
+0.44
+0.42
+0.40
+0.38
+0.36
+0.34
+0.32
+0.30
+0.28
+0.26
+0.24
+0.22
+0.20
+0.18
+NEm
+NEg

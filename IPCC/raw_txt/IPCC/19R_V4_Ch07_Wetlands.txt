@@ -1,0 +1,3291 @@
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.1 
+CHAPTER 7 
+WETLANDS 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Catherine Ellen Lovelock (Australia), Christopher Evans (UK), Nathan Barros (Brazil), Yves Prairie (Canada), 
+Jukka Alm (Finland), , David Bastviken (Sweden), Jake J. Beaulieu (USA), Michelle Garneau (Canada), Atle 
+Harby (Norway), John Harrison (USA), David Pare (Canada), Hanne Lerche Raadal (Norway), Bradford Sherman 
+(Australia), Chengyi Zhang (China), Stephen Michael Ogle (USA) 
+Contributing Authors 
+Alistair Grinham (Australia), Bridget Deemer (USA), Marco Aurelio Santos (Brazil), Sarian Kosten (Netherlands), 
+Michael Peacock (Sweden), Zhe Li (China), Victor Stepanenko (Russian Federation) 
+ 
+ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3 
+Contents 
+7 
+Wetlands7.6 
+7.1 
+Introduction ......................................................................................................................................... 7.6 
+7.2 
+Managed Peatlands .............................................................................................................................. 7.6 
+7.3 
+Flooded Land ...................................................................................................................................... 7.6 
+7.3.1 Flooded Land Remaining Flooded Land ..................................................................................... 7.11 
+7.3.2 Land Converted to Flooded Land ................................................................................................ 7.20 
+7.3.3 Approach to provide indicative estimates of the anthropogenic component of total CO2 and non-
+CO2 emissions (optional) ............................................................................................................. 7.26 
+7.3.4 Uncertainty Assessment .............................................................................................................. 7.28 
+7.4 
+Completeness, Times Series Consistency, and QA/QC .................................................................... 7.29 
+7A.1.1 
+Background on CH4 cycling in Flooded Land .................................................................................. 7.30 
+7A.1.2 
+Reservoirs .......................................................................................................................................... 7.32 
+7A.1.3 
+Other constructed waterbodies (agricultural ponds, aquaculture ponds, canals and ditches) ............ 7.43 
+Equations 
+Equation 7.10 (New) 
+Annual total CH4 emissions for Reservoirs >20 years old (Flooded Land Remaining 
+Flooded Land) ............................................................................................................ 7.12 
+Equation 7.11 (New) 
+Equation used to scale CH4 emission factors for the influence of eutrophication using 
+measured values of chlorophyll a (Modified from Deemer et al. 2016) ..................... 7.13 
+Equation 7.12 (New) 
+Annual CH4 emission from Other Constructed Waterbodies ...................................... 7.17 
+Equation 7.13 (New) 
+Annual on-site CO2-c emissions/removals from land converted to flooded land ....... 7.21 
+Equation 7.14 (New) 
+Annual CO2-C emissions/removals from Land Converted to Flooded Land including 
+soil carbon stocks ........................................................................................................ 7.21 
+Equation 7.15 (New) 
+Annual CH4 emissions for Reservoirs ≤ 20 years old for Land Converted to Flooded 
+Land ............................................................................................................................ 7.25 
+Equation 7.16 (New) 
+Indicative estimate of the anthropogenic component of total annual CH4 emissions in 
+Flooded Land Remaining Flooded Land .................................................................... 7.27 
+Equation 7.17 (New) 
+Indicative estimate of the anthropogenic component of total annual CO2 emissions in 
+land converted to flooded land ................................................................................... 7.27 
+Equation 7.18 (New) 
+Indicative estimates of the anthropogenic component of total annual CH4 emissions in 
+Land Converted to Flooded Land ............................................................................... 7.28 
+Equation 7A.1 (New) 
+CH4 diffusive emission (Mg C m-2 d-1) ....................................................................... 7.33 
+Equation 7A.2 (New) 
+CH4 bubbling emission (Mg C m-2 d-1) ...................................................................... 7.33 
+Equation 7A.3 (New) 
+CO2 diffusive emission (Mg C m-2 d-1) ....................................................................... 7.34 
+Equation 7A.4 (New) 
+Emission Factors for Land converted to Flooded Land .............................................. 7.36 
+Equation 7A.5 (New) 
+Emission factors for Flooded Land remaining Flooded Land .................................... 7.36 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure 7.2 (New)  
+Decision tree for types of Flooded Land. ................................................................... 7.10 
+Figure 7.3 (New) 
+Decision tree for choice of Tier level to estimate emissions of CO2 and CH4 from 
+waterbodies ................................................................................................................. 7.11 
+Figure 7A.1 (New) 
+Methane related transport within and from waterbodies, exemplified with a reservoir 
+with an anoxic hypolimnion ....................................................................................... 7.31 
+Figure 7A.2 (New)  
+Location of the reservoirs in the GranD database and shadowgram of their latitudinal 
+distribution. ................................................................................................................. 7.35 
+Figure 7A.3 (New)  
+Box plots of model estimates (empty) and Field measurements (filled) of CH4 emissions 
+(note logarithmic scale) in aggregated IPCC climate zones. ...................................... 7.38 
+Figure 7A.4 (New) 
+Comparison of measure CH4 emissions with estimates based on the Emission Factors 
+(EFs, Tables 7.9 and 7.15) of Tier 1 methodology. .................................................... 7.39 
+Figure 7A.5 (New) 
+Measured downstream (DN) CH4 emissions compared to model estimates. .............. 7.40 
+Figure 7A.6 (New) 
+Relationship between CO2 surge estimates from the newly flooded lands using the 
+decay curve approach and the flooded soil organic carbon stock approach. .............. 7.41 
+Tables 
+Table 7.7 (New)  
+Types of Flooded Land, their human uses and greenhouse gas emissions considered in 
+this chapter .................................................................................................................... 7.6 
+Table 7.8 (New)  
+Ramsar classes of human-made wetlands, IPCC terminology used and methodological 
+guidance provided ......................................................................................................... 7.8 
+Table 7.9 (New)  
+CH4 emission factors for reservoirs older than 20 years (> 20 years) – Flooded Land 
+Remaining Flooded Land ........................................................................................... 7.15 
+Table 7.10 (New)  
+Ratio of total downstream flux of CH4 (kg CH4 ha -1 yr-1) to the flux of CH4 from a 
+reservoir’s surface to the atmosphere (kg CH4 ha -1 yr-1) – Rd .................................... 7.15 
+Table 7.11 (New)  
+Relationships between Trophic Index (TI), surface concentrations of chlorophyll-a (Chl-
+a), total phosphorus (TP), total nitrogen (TN), Secchi depth (SD), and Trophic Class1 
+and Trophic State Adjustment Factor (αi) .................................................................. 7.15 
+Table 7.12 (New)  
+CH4 emission factors for Other Constructed Waterbodies (freshwater ponds, saline 
+ponds, canals, drainage channels and ditches) ............................................................ 7.18 
+Table 7.13 (New)  
+CO2-C emission factors for reservoirs ≤ 20 years old – Land converted to Flooded Land
+ .................................................................................................................................... 7.23 
+Table 7.14 (New)  
+Scaling factor value M [y-1] for equation 7.14, Annual on-site CO2-C 
+emissions/removals from Land Converted to Flooded Land. ..................................... 7.24 
+Table 7.15 (New)  
+CH4 emission factors for reservoirs ≤ 20 years old – Land converted to Flooded Land
+ .................................................................................................................................... 7.26 
+Table 7A.1 (New)  
+Number of reservoirs in the Grand database in each IPCC climate zone. .................. 7.35 
+Table 7A.2 (New)  
+Aggregated climate zones based on differences in CH4 emissions between categories
+ .................................................................................................................................... 7.37 
+Table 7A.3 (New)  
+Data sources used for modelling CH4 emissions from reservoirs within different climate 
+zones. .......................................................................................................................... 7.42 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.5 
+Table 7A.4 (New)  
+Reservoirs and citations for measured Rd values ........................................................ 7.43 
+Boxes 
+Box 7.1 (New)  
+Additional information on sedimentation and carbon burial in reservoirs .................. 7.14 
+Box 7.2 (New) 
+Additional information on emissions arising from wastewater within reservoirs ....... 7.16 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7 WETLANDS 
+7.1 
+INTRODUCTION 
+No refinement. 
+7.2 
+MANAGED PEATLANDS 
+No refinement. 
+7.3 
+FLOODED LAND 
+Flooded Lands are defined in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (Wetlands) as 
+water bodies where human activities have caused changes in the amount of surface area covered by water, 
+typically through water level regulation. Here, we also consider: i) waterbodies where human activities have 
+changed the hydrology of existing natural waterbodies thereby altering water residence times and/or sedimentation 
+rates, in turn causing changes to the natural flux of greenhouse gases (See A7.1.1); and ii) waterbodies that have 
+been created by excavation, such as canals, ditches and ponds. Flooded Lands include waterbodies with seasonally 
+variable degrees of inundation but would be expected to retain some inundated area throughout the year under 
+normal conditions. Seasonally flooded wetlands such as riparian floodplain wetlands are not considered here; 
+where these have been modified by human activity, emissions may be estimated using the methods described in 
+the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands (2013 
+Wetlands Supplement, (IPCC 2014)). The range of Flooded Land considered in this chapter are listed in Table 7.7. 
+TABLE 7.7 (NEW) 
+TYPES OF FLOODED LAND, THEIR HUMAN USES AND GREENHOUSE GAS EMISSIONS CONSIDERED IN THIS CHAPTER 
+Flooded Land types 
+Human Uses 
+Greenhouse gas emissions 
+for which guidance is 
+provided in this Chapter 
+Reservoirs (including open water, 
+drawdown zones, and 
+degassing/downstream areas) 
+Hydroelectric Energy Production, Flood 
+Control, Water Supply, Agriculture, 
+Recreation, Navigation, Aquaculture 
+CO2, CH4 
+Canals 
+Water Supply, Navigation 
+CH4 
+Ditches 
+Agriculture (e.g. irrigation, drainage, 
+and livestock watering) 
+CH4 
+Ponds (Freshwater or Saline) 
+Agriculture, aquaculture, recreation 
+CH4 
+Flooded Land emits CO2, CH4 and N2O in significant quantities, depending on a variety of characteristics such as 
+age, land-use prior to flooding, climate, upstream catchment characteristics and management practices. Emissions 
+vary spatially and over time.  
+CO2 emissions 
+Emissions of CO2 from Flooded Land remaining Flooded Land are primarily the result of decomposition of soil 
+organic matter and other organic matter within the waterbody or entering the waterbody from the catchment, as 
+well as respiration of biota (e.g. bacteria, macroinvertebrates, plants, fish, and other aquatic species). No guidance 
+is provided in this section for emissions associated with decomposition of organic matter delivered from the 
+catchment or respiration of biota because they are either accounted for elsewhere in the estimation methods 
+(Volume 4, Chapter 4, Forest Land, CO2 emissions from soils Section 4.2.3, Chapter 5, Croplands, CO2 emission 
+from soils, Section 5.2.3) or reflect short-term carbon cycling by the aquatic biota. The one exception is for Land 
+Converted to Flooded Lands. CO2 emissions occur as the flooded organic matter decomposes, which is a 
+consequence of anthropogenic management, and methods are provided for estimating the resulting CO2 emissions 
+(Section 7.3.2.1).   
+CH4 emissions 
+Emissions of CH4 from Flooded Land are primarily the result of CH4 production induced by anoxic conditions in 
+the sediment (see Annex 7.1). Methane can be emitted from small lakes or reservoirs via diffusive, ebullitive, and 
+downstream emissions. Downstream CH4 emissions are subdivided into degassing emissions (see Glossary) and 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.7 
+diffusive emissions, which occur downstream from the flooded land. Methane emissions are generally higher in 
+waterbodies with high organic matter loading and/or high internal biomass production, and low oxygen status.  
+Due to their high emission rates and large numbers, small ponds of area < 0.1 ha have been estimated to generate 
+40 percent of diffusive CH4 emissions from open waters globally (Holgerson & Raymond 2016). Whilst emissions 
+from natural ponds can (at least in part) be considered natural, those from small constructed waterbodies are the 
+result of anthropogenic activity. High organic loadings and low oxygen levels can also occur in drainage ditches 
+(Evans et al. 2016), constructed ponds for agriculture (e.g. (Selvam et al. 2014) aquaculture (Avnimelech & Ritvo 
+2003), and flooded pastures (Kroeger et al. 2017). Emission rates of CH4 from small constructed waterbodies 
+where nutrient loadings from agriculture or other sources are high may exceed those from small natural 
+waterbodies, (Tangen et al. 2015), (Yang et al. 2017), and may equal or exceed those observed in small lakes and 
+reservoirs (Bastviken et al. 2011). Emissions of CH4 from aquaculture ponds may be reduced through aquaculture 
+management, including mixing or aeration, periodic drainage or when water is saline (Vasanth et al. 2016), (Yang 
+et al. 2017), (Robb et al. 2017). Because CH4 emissions from constructed waterbodies can be considered a direct 
+consequence of the construction of the waterbody, guidance on reporting these emissions is provided in this chapter.  
+Nitrous oxide emissions 
+Nitrous oxide emissions from Flooded Lands are largely related to input of organic or inorganic nitrogen from the 
+watershed. These inputs from runoff/leaching/deposition are largely driven by anthropogenic activities such as 
+land-use change, wastewater disposal or fertilizer application in the watershed or application of fertilizer or feed 
+in aquaculture. The current section does not consider these emissions in order to avoid double-counting of N2O 
+emissions, which are already captured in other source categories, such as indirect N2O emissions from managed 
+soils (see Volume 4, Chapter 11) and wastewater management (see Volume 5, Chapter 6). Nitrous oxide emissions 
+from aquaculture ponds constructed on coastal wetlands are given in Chapter 4 of the 2013 Supplement Chapter 4, 
+Section 4.3.2). Compilers may address local sources of N2O emissions (i.e. those not driven by external inputs of 
+N) using Tier 2 or Tier 3 methods. 
+TYPES OF FLOODED LANDS 
+Reservoirs 
+Reservoirs are designed to store water over time scales ranging from hours to several years. Their use can serve 
+single (e.g. water supply) or multiple purposes, and reservoir operation may vary depending on different user needs 
+(Table 7.7). Hydropower reservoirs can be divided in three categories: storage, run-of-the-river and pumped 
+storage reservoirs. These categories generally describe the relationship between storage volume, inflow and water 
+residence times, but in reality, reservoirs exist on a spectrum. Natural lakes may also be used as reservoirs, often 
+by damming to expand their volume and surface area.  
+Flooded land is exposed to natural or anthropogenic regulation of water levels, creating a drawdown zone. 
+Greenhouse gas emissions from the drawdown zones are considered significant and similar per unit area to the 
+emissions from the water surface (e.g. (Yang et al. 2012), (Deshmukh et al. 2018)) and are therefore included 
+when estimating greenhouse gas emissions from Flooded Land. Lakes converted into reservoirs without substantial 
+changes in water surface area or water residence times are not considered to be managed Flooded Land, in 
+accordance with the 2006 IPCC Guidelines.  
+Reservoirs are classified according to the length of time they have been flooded: 
+(i) Flooded Land Remaining Flooded Land – includes reservoirs that were converted to Flooded Land more 
+than 20 years ago.  
+(ii) Land Converted to Flooded Land – includes reservoirs that were flooded less than or equal to 20 years ago. 
+Other Flooded Land: Constructed ponds, canals, ditches and flooded pastures 
+Ponds are constructed by excavation and/or construction of walls to hold water in the landscape for a range of uses, 
+including agricultural water storage, access to water for livestock, recreation, and aquaculture. They often receive 
+high organic matter and nutrient loadings, may have low oxygen levels, and are sites of substantial CH4 emissions 
+from anaerobic sediments. However, because seawater suppresses production of CH4, emissions from saline 
+aquaculture ponds are lower compared to freshwater ponds. Constructed linear waterbodies (which we define here 
+in accordance with the Ramsar Convention category of ‘Human-made wetlands: Canals and drainage channels 
+or ditches’) are also extensive in many agricultural, forest and settlement areas, and may also be significant sources 
+of emissions in some circumstances. For CH4 emissions from Other Flooded Land, there are insufficient data to 
+disaggregate based on age classes of the waterbodies.  
+Flooded Land Excluded Here, But Considered Elsewhere  
+Emissions from various kinds of Flooded Land that are not considered in this chapter are provided in the 2013 
+Wetlands Supplement and in other parts of this guidance. Table 7.8 provides the Ramsar classification, which 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+provides the framework for the terminology used in this guidance. Some rice paddies are cultivated through 
+flooding of land, but because of the unique characteristics of rice cultivation, rice paddies are addressed in Volume 
+4, Chapter 5 (Cropland). Emissions from wetlands created or used for wastewater treatment are provided in 
+Chapter 6 of the 2013 Wetlands Supplement (Constructed Wetlands for Waste Water Treatment). Seasonally 
+flooded agricultural land (including intensively managed or grazed wet meadow or pasture) that is formed via 
+human modification of natural hydrological processes may also be considered Flooded Land, and can be a 
+significant source of CH4 emissions (Kroeger et al. 2017). Seasonally flooded agricultural land may be coastal or 
+inland, on mineral or organic soils, and relevant guidance for CO2 emissions and removals from these categories 
+is provided in the 2013 Wetlands Supplement (Chapters 3-5, see Table 7.8 for details).  CO2 emissions associated 
+with construction of aquaculture ponds in coastal wetlands are also considered in the 2013 Wetlands Supplement 
+(Section 4.2.4 and Section 4.3.2). Flooding of land to create wetlands in coastal settings due to management 
+activities, such as breaching of sea defences, are found under "rewetting" within the 2013 Wetlands Supplement 
+(Section 4.2.3 for CO2 and 4.3.1 for CH4). Constructed seawater canals are not considered because there are 
+insufficient data to derive an emission factor.  Furthermore, water in seawater canals is assumed to have salinity 
+greater than 18 ppt, and therefore will have no CH4 emissions, consistent with guidance in the 2013 Wetlands 
+Supplement. 
+TABLE 7.8 (NEW) 
+RAMSAR CLASSES OF HUMAN-MADE WETLANDS, IPCC TERMINOLOGY USED AND METHODOLOGICAL GUIDANCE 
+PROVIDED  
+RAMSAR class1 
+Corresponding wetlands sub-
+categories in IPCC Chapters 
+Methodological guidance available? 
+Water storage areas 
+Reservoir 
+Yes for CH4 and CO2 (this chapter) 
+Ponds 
+Other constructed waterbodies 
+Yes for CH4 and CO2 (this chapter)  
+Canals and drainage channels 
+or ditches. 
+Other constructed waterbodies 
+Yes for CH4 and CO2 (this chapter) 
+Yes for CH4 in peatlands (2013 
+Wetlands Supplement, Chapter 2) 
+Aquaculture 
+Other constructed waterbodies 
+Yes for CH4 and CO2 (this chapter) 
+Yes for CO2 during construction and 
+for N2O (2013 Wetlands Supplement, 
+Chapter 4)2  
+Irrigated land (if cultivated) 
+Cropland 
+Yes (Vol. 4, Chapter 5) 
+Seasonally flooded agricultural 
+land  
+Rice Cultivation 
+Yes (Vol. 4, Chapter 5) 
+Seasonally flooded agricultural 
+land including intensively 
+managed or grazed wet 
+meadow or pasture 
+Wetlands 
+Yes for CH4 (2013 Wetlands 
+Supplement, Chapters 3, 4 and 5)3,4 
+Salt exploitation sites 
+Wetlands 
+Yes (2013 Wetlands Supplement, 
+Chapter 4) 
+Excavations (partly) 
+Peatlands managed for peat extraction 
+Yes (2013 Wetlands Supplement, 
+Chapter 2) 
+Wastewater treatment areas 
+“Constructed wetlands” or Waste Sector 
+Yes (2013 Wetlands Supplement, 
+Chapter 6; Volume 5, Chapter 6) 
+NOTES:  
+1 Source: (Ramsar 2014)  
+2 2013 Wetlands Supplement, Chapter 4, Section 4.3.2 for N2O 
+3 2013 Wetlands Supplement Chapter 3 for guidance on rewetted organic soils (Section 3.2.1 for CO2, Section 3.2.2. for CH4 and 
+Section 3.2.3 for N2O); Chapter 4 for guidance for seasonally flooded agricultural land on land that was previously coastal wetlands 
+(Section 4.2.3 for CO2; Section 4.3.1 for CH4) and Chapter 5 for seasonally flooded agricultural land on inland mineral soils (Section 
+5.2.1 for CO2 and 5.2.2 CH4)  
+4 Including permanently flooded lands associated with rewetting of converted wetlands 
+ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.9 
+CHOICE OF METHOD, ACTIVITY DATA AND EMISSION FACTORS  
+Guidance is provided for choice of methods, activity data and emission factors for Flooded Land Remaining 
+Flooded Land (Reservoirs > 20 years old) and other constructed waterbodies, and for Land Converted to Flooded 
+Land (Reservoirs ≤ 20 years old). Guidance for selecting the type of waterbody based on human modification, 
+hydrology (where there has been a significant change in surface area, and/or residence time, by > 10 percent), 
+water quality, size and function and associated emission factors and activity data is presented in the decision tree 
+in Figure 7.2. Tier selection and the level of spatial and temporal disaggregation will depend upon the availability 
+of activity data and emission factors, as well as the importance of Flooded Land as an emission source based on 
+the key category analysis for a country’s national greenhouse gas inventory. Figure 7.3 provides a decision tree to 
+select the appropriate tier level for estimating emissions from Flooded Land. Country-specific emission factors 
+and data are generally preferable to Tier 1 default data.  
+Conversion of unmanaged waterbodies and unmanaged wetlands to managed Flooded Lands 
+Greenhouse gas emissions (removals) occur on unmanaged land prior to conversion into managed land for both 
+Flooded Land remaining Flooded Land and Land converted to Flooded Land. The anthropogenic impact on 
+greenhouse gas emissions from managed flooded land reflect the net changes in greenhouse gas fluxes to the 
+atmosphere resulting from the landscape transformation into a reservoir or other flooded lands (Prairie et al. 2017a). 
+Indicative estimates of the anthropogenic component of the total greenhouse gas emissions occurring on the 
+Flooded Land (see Annex Box A1) may optionally be estimated, in addition to the total emissions. This estimate 
+may be obtained for Land Converted to Flooded Land by estimating emissions from the area of Managed Lands 
+and Other Unmanaged Lands converted to managed Flooded Land. Types of Unmanaged Land converted to 
+Flooded Land include: 1) unmanaged lakes and rivers (collectively termed ‘unmanaged waterbodies’) expanded 
+by dam construction; 2) Unmanaged Wetlands (excluding lakes and rivers) converted to Flooded Land; and 3) 
+Other Unmanaged Lands (including Unmanaged Forest Land, Grassland and Other Land). Previously flooded 
+lands where changes in hydrology lead to substantial changes in the characteristics and ecological function of the 
+area, or emissions and removals per unit area, may not be excluded from the calculation of indicative estimates of 
+the anthropogenic component of total greenhouse gas emissions.  
+Emissions from Unmanaged Wetlands converted to Flooded Lands are considered part of the non-anthropogenic 
+component of the emissions for the first 20 years, after which they are considered to function similarly to the 
+reservoir as a whole. This is the result of the legacy of the natural wetland function which will gradually transition 
+to the condition of the surrounding reservoir as the accumulated organic matter is decomposed or buried in the 
+reservoir. The method to produce indicative estimates of the anthropogenic component of total greenhouse gas 
+emissions is presented separately in Section 7.3.3. 
+The methods provided in this section are scientifically-based but with practical consideration for application of the 
+methods by compilers.  It is good practice for the greenhouse gas emissions in the AFOLU sector to be estimated 
+using the Managed Land Proxy (MLP), in which all emissions from managed land are considered anthropogenic, 
+and to provide details of the methodology used (See Chapter 3, Volume 4). Therefore, for transparency, the 
+methods are applied so that the total emissions from flooded lands are estimated based on the MLP, while 
+emissions that are specifically to be the result of human activity within these areas are estimated by calculating the 
+emissions for the area of Managed Land and Other Unmanaged Land converted to Flooded Land. For those 
+countries that choose to develop indicative estimates of the anthropogenic component of total greenhouse 
+emissions, it is good practice to report the MLP emissions, as well as the indicative estimates of the anthropogenic 
+component of total greenhouse gas emissions. Details of the methodology used should be documented. As with 
+other sources, Tier 1 methods have large uncertainties that may be reduced with development of Tier 2 or 3 
+methods. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 7.2 (New) 
+Decision tree for types of Flooded Land.
+  
+Not Flooded land
+Stop
+Is a constructed waterbody?
+Is inundated land an 
+artificially constructed linear 
+waterbody (ditch, drain, 
+canal)?
+Is this a
+natural waterbody that has been 
+modified
+Other constructed water 
+body
+Flooded Land Remaining 
+Flooded land
+Yes
+No
+Yes
+No
+Is there a significant
+(≥10% or 0.25 ha) increase in 
+surface area?
+Yes
+Start
+No
+Has the storage volume, inflow, or 
+residence times changed 
+significantly?
+No
+No
+Yes
+No
+Is surface area < 8 ha?
+Yes
+Is the main use for 
+aquaculture?
+Yes
+Is the main use for 
+hydropower?
+Yes
+Yes
+Reservoir
+No
+Is the reservoir ≤ 20 
+years old?
+No
+Yes
+Land Converted to 
+Flooded land
+Yes
+ 
+ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.11 
+Figure 7.3 (New) 
+Decision tree for choice of Tier level to estimate emissions of CO2 and 
+CH4 from waterbodies 
+Are waterbodies a key category?
+Are there
+ country-specific emission 
+factors, models, or 
+measurement-based
+approaches?
+Use Tier 1 emission equations
+Estimate emissions using 
+country-specific emission 
+factors or Tier 3 methods
+Are there sufficient data and resources to develop  
+country-specific emission actors, and/or test a 
+model, or a measurement-based monitoring 
+approach?
+Estimate emissions using Tier 
+1 equations
+Estimate emissions using 
+Tier 1 default emission factor 
+values
+Yes
+Yes
+Yes
+No
+No
+No
+Start
+Box1: Tier 1
+Box2: Tier 1
+Box3: Tier 3
+ 
+7.3.1 
+Flooded Land Remaining Flooded Land 
+7.3.1.1 TOTAL CO2 EMISSIONS FROM FLOODED LAND REMAINING 
+FLOODED LAND 
+The initial flooding of land can cause elevated CO2 emissions as inundated soil and biomass decay. After this 
+initial phase, typically lasting 20 years or less, the CO2 emitted from Flooded Land is largely derived from carbon 
+input from the catchment, which is estimated as emissions from other managed land categories, and not addressed 
+in this category to avoid double-counting of emissions (i.e., Volume 4, Chapter 4 Forest Land, Chapter 5 Cropland, 
+Chapter 6 Grassland, Chapter 8 Settlements and the 2013 Wetlands Supplement). Therefore, no methodologies 
+(Choice of Methods, Emission Factors, or Activity Data) are provided to estimate total CO2 emissions for Flooded 
+Land Remaining Flooded Land. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3.1.2 TOTAL NON-CO2 EMISSIONS FROM FLOODED LAND 
+REMAINING FLOODED LAND 
+RESERVOIRS 
+Choice of Method 
+The following methodology is provided for estimating CH4 emissions from reservoirs more than 20 years old. The 
+Tier 1 methodology allows the estimation of the total diffusive, ebullitive and downstream CH4 emissions (see 
+Glossary), FCH4tot, (Equation 7.10).  
+If sufficient data exist, it is good practice for the compiler to develop country-specific emission factors using a 
+Tier 2 or Tier 3 method to reduce overall uncertainty. Guidance on the development of country-specific factors 
+and methods is provided below in the Tier 2 and 3 sections. For reservoirs less than 20 years old, see section 
+7.3.2.3, Land Converted to Flooded Lands. 
+Tier 1 
+Total emissions from flooded land (FCH4tot) is the sum of the emissions occurring at the surface of the reservoir 
+(FCH4res) and those originating within the reservoir but occurring downstream of the dam (FCH4downstream): 
+EQUATION 7.10 (NEW) 
+ANNUAL TOTAL CH4 EMISSIONS FOR RESERVOIRS >20 YEARS OLD (FLOODED LAND REMAINING 
+FLOODED LAND) 
+4
+4
+4
+ 
+CH tot
+CH res
+CH downstream
+F
+F
+F
+=
++
+                                                            (A) 
+6
+1
+1
+4
+CH4res
+i
+CH  age>20, j
+tot j,i
+F
+=
+α (EF
+• A
+)
+=
+=
+∑∑
+j
+nres
+j
+i
+ 
+                                           (B) 
+6
+1
+1
+4
+4
+CH downstream
+i
+CH  age>20, j
+tot j,i
+d, i
+F
+=
+α (EF
+• A
+)• R
+=
+=
+∑∑
+j
+nres
+j
+i
+ 
+                      (C) 
+Where: 
+4
+FCH tot
+ 
+= Total annual emission of CH4 from all reservoirs > 20 years old, kg CH4 yr-1 
+4
+FCH res
+ 
+= Annual reservoir surface emissions of CH4 from all reservoirs > 20 years old, kg CH4 yr-1 
+4
+FCH downstream
+= Annual emissions of CH4 originating from all reservoirs but emitted downstream of dam, 
+kg CH4 yr-1. For Tier 1, equation 7.10 (C) simplifies to 
+4
+CH downstream
+CH4res
+d
+= F
+•
+F
+R  
+Atot j,i
+ 
+= Total area of reservoir water surface for reservoir > 20 years old 'i' located in climate zone 
+'j', ha 
+4
+EFCH  age>20, j
+= Emission factor for CH4 emitted from the reservoir surface for reservoir > 20 years old 
+located in climate zone 'j', kg CH4 ha-1 yr-1 (Table 7.9). 
+d
+R  
+= A constant equal to the ratio of total downstream emission of CH4 to the total flux of CH4 
+from the reservoir surface [dimensionless]. Equals 0.09 by default for Tier 1 (Table 7.10). 
+See text below for Tiers 2 & 3 Rd values. 
+iα  
+= Emission factor adjustment for trophic state in reservoir i within a given climate zone. 
+[dimensionless] Equals 1.0 by default for Tier 1. See Equation 7.11 for Tiers 2 & 3. 
+i 
+= Summation index for the number of all reservoirs > 20 years in climate zone 'j' 
+j 
+= Summation index for climate zones (j = 1-6, see Table 7.9) 
+j
+nres  
+= Number of reservoirs > 20 years old in climate zone ‘j’ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.13 
+The equation for scaling CH4 emission factors for eutrophication is estimated as follows: 
+EQUATION 7.11 (NEW) 
+EQUATION USED TO SCALE CH4 EMISSION FACTORS FOR THE INFLUENCE OF EUTROPHICATION 
+USING MEASURED VALUES OF CHLOROPHYLL A (MODIFIED FROM DEEMER ET AL. 2016) 
+0.26  
+i
+Chlai
+α =
+•
+ 
+Where: 
+i
+α  
+= Emission factor adjustment for trophic state in reservoir 'i', dimensionless. Equals 1.0 for 
+Tier 1. 
+i
+Chla  
+= Mean annual chlorophyll-a concentration in reservoir 'i', µg L-1 
+When chlorophyll values are not available, the trophic state adjustment factor (αi, Eq. 7.11) can be estimated from 
+other general assessments of reservoir trophic status (See Table 7.11).  
+Tier 2 
+At the Tier 2 level, downstream emissions can be estimated based on water withdrawal depths for individual 
+reservoirs.  If water is withdrawn from the oxic (upper) part of the water column, the CH4 content of the water is 
+expected to be relatively low, therefore downstream emissions can be assumed to be zero.  If water is withdrawn 
+from the anoxic (lower) part of the water column, where dissolved CH4 can accumulate to high levels, downstream 
+emissions should be estimated following equation 7.10 using the Rd factor found in Table 7.10 or by a Tier 3 
+methodology. 
+If a country has characterized the trophic status of its reservoirs, a compiler can improve estimates of CH4 
+emissions from these systems by multiplying default CH4 emission factors (from Table 7.9) by a factor, αi, either 
+computed from measured mean annual chlorophyll-a (Chl-a) data using Equation 7.11, or taken from Table 7.11 
+where trophic state may be known but mean annual Chl-a data are lacking. Equation 7.10 generally provides a 
+more accurate approach where reservoir Chl-a concentrations [Chl-a] have been measured. If sufficient data are 
+available locally to determine a country-specific relationship between trophic status and CH4 fluxes, then local 
+values should be used in Equation 7.10 rather than these global averages. 
+Where there are sufficient data, compilers may also include the effect of carbon burial in the sediments in case 
+there is a net removal of carbon in the managed flooded land (see Box 7.1). 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.1 (NEW) 
+ADDITIONAL INFORMATION ON SEDIMENTATION AND CARBON BURIAL IN RESERVOIRS 
+Reservoirs are often sites of significant accumulation of sediments, and therefore carbon (Clow et 
+al. 2015). However, to consider such carbon accumulation as an offset to greenhouse gas emissions 
+is complex because it depends strongly on the origin of the sediments and what the fate of the 
+associated carbon would have been in the absence of a reservoir (Prairie et al. 2017a). For example, 
+particulate organic carbon from the upstream catchment sediments would, prior to impoundment, 
+have been transported and possibly stored further downstream. Only the net additional C storage 
+induced by the sediment trapping within the reservoir would constitute removal. Similarly, if carbon 
+burial is the result of autochthonous (inside the reservoir) primary production by algae or aquatic 
+plants, such carbon removal would necessarily be reflected in the CO2 exchange occurring at the air-
+water interface. Subtracting C sedimentation from the air-water exchange would thus lead to a 
+double-counting of the same carbon flux. Lastly, in many reservoirs, maintenance operations involve 
+the sluicing of excess sediments to the downstream river by opening gates located at the base of the 
+dam, thereby releasing unknown, but often large, amounts of accumulated sediment carbon over a 
+short period.  
+As a result of the processes described above and the difficulties in quantifying them, a Tier 1 
+methodology cannot be developed for the reporting of sediment carbon accumulation. For the 
+development of higher Tier methodologies for carbon accumulation in reservoirs, an important 
+guiding principle is that only the portion of the carbon permanently buried in reservoir sediments 
+that would not have been stored elsewhere in the hydrological network (lakes, rivers, wetlands and 
+the coastal ocean) could potentially be considered as an additional carbon burial in the anoxic 
+sediment of the reservoir (Isidorova et al. 2019) . 
+Tier 3 
+Direct measurements of CH4 diffusion and ebullition fluxes across the reservoir surface provide the most accurate 
+alternative to the Tier 1 and Tier 2 approaches. It is good practice to undertake measurements at sufficient different 
+locations and sufficient different times of year to capture both the spatial and temporal variability of CH4 emissions 
+from a reservoir (see UNESCO/IHA GHG Measurement Guidelines for Freshwater Reservoirs 2010 (Goldenfum 
+2010) for additional guidance). CH4 emissions are often highly spatially variable, with 50-90 percent of total 
+reservoir emissions emanating from 10-30 percent of a reservoir’s surface (typically in areas subject to high 
+organic matter deposition such as the distal arms receiving significant catchment inflows (Sherman et al. 2012)).  
+Degassing can be estimated as the difference between the dissolved gas concentration at the water entering the 
+dam and the dissolved gas concentration downstream of the dam, multiplied by the outlet discharge.  Dissolved 
+gas concentration of the water entering the dam can be estimated from water samples collected from the reservoir 
+at the depth of the water intake or directly from the water conveyance structure, if possible. Diffusive emission 
+from the downstream river can be directly measured or estimated using a mass balance approach.  See (Goldenfum 
+2010) (UNESCO/IHA), section 2.4.1.2.3). 
+Accuracy is improved when measurements are undertaken across a full seasonal cycle because CH4 dynamics are 
+very temperature sensitive. The accuracy of CH4 emissions can also be improved by considering atmospheric and 
+hydrostatic pressure that may strongly influence CH4 ebullition. The measurement data should be area-weighted 
+and seasonally averaged to provide the most accurate estimate of emissions from the reservoir as a whole (See 
+Annex 7.1 for details).  
+CH4 emissions from individual reservoirs can also be estimated by application of the Greenhouse Gas Reservoir 
+Tool (G-res) model (Prairie et al. 2017b), with reservoir-specific data covering: reservoir morphometry, littoral areas, 
+and local climate data including temperature and solar radiation. G-res is described in more detail in Annex 7.1.  
+Other detailed models could be developed that include the range of environmental and management conditions 
+that influence emissions (see Annex 7.1). 
+Choice of Emission Factors 
+Tier 1 
+Emission factors for CH4 via diffusion and ebullition from the reservoir surface, EFCH4 age>20,j in the six aggregated 
+climate zones are provided in Table 7.9. The emission factors integrate both spatial and temporal variations and 
+have been derived from the application of empirical models to a large number of reservoirs (>6000) with a 
+worldwide distribution and are averaged per climate zone. See Annex 7.1 for details of how default emissions 
+factors were derived.  
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.15 
+TABLE 7.9 (NEW) 
+CH4 EMISSION FACTORS FOR RESERVOIRS OLDER THAN 20 YEARS (> 20 YEARS) – FLOODED LAND REMAINING FLOODED 
+LAND 
+Aggregated Climate Zone 
+CH4 Emission Factors  EFCH4 age>20,j 
+(kg CH4 ha-1 year-1) 
+ 
+j 
+Average  
+ Lower and upper 95% CI of mean 
+N 
+Boreal 
+1 
+13.6  
+7.3-19.9 
+96 
+Cool Temperate 
+2 
+54.0   
+48.3-59.5 
+1879 
+Warm temperate/dry 
+3 
+150.9  
+133.3-168.1 
+578 
+Warm temperate/moist 
+4 
+80.3  
+74.0-86.0 
+1946 
+Tropical dry/montane 
+5 
+283.7  
+261.9-305.8 
+710 
+Tropical moist/wet 
+6 
+141.1 
+131.1-152.7 
+805 
+The emission factors are derived from the G-Res model outputs from N reservoirs in each climate zone. The aggregation into 6 climate 
+zones is described in Annex 1, section A7.1.2.1. N is the number of modelled reservoirs used to estimate EF values and their 95% 
+confidence intervals. 
+Default values for the ratio of total downstream emission of CH4 to the total flux of CH4 from the reservoir surface 
+are provided in Table 7.11. 
+TABLE 7.10 (NEW) 
+RATIO OF TOTAL DOWNSTREAM FLUX OF CH4 (KG CH4 HA -1 YR-1) TO THE FLUX OF CH4 FROM A RESERVOIR’S SURFACE 
+TO THE ATMOSPHERE (KG CH4 HA -1 YR-1) – RD  
+Median 
+Upper 95% CI of the 
+median 
+Lower 95% CI of the 
+median 
+Number of reservoirs 
+0.09 
+0.22 
+0.05 
+36 
+Note: The default Tier 1 value is the median of all Rd values reported in the literature.  The 95% confidence interval of the median was 
+calculated using the bias-corrected and accelerated (BCa) bootstrap interval. 
+References: (Teodoru et al. 2012), (Diem et al. 2012), (DelSontro et al. 2016), (Maeck et al. 2013), (Soumis et al. 2004), (Beaulieu et al. 
+2014a), (Bevelhimer et al. 2016), (Descloux et al. 2017), (DelSontro et al. 2011), (dos Santos et al. 2017), (Kumar & Sharma 2016), 
+(Chanudet et al. 2011), (Abril et al. 2005), (Bastien & Demarty 2013), (Deshmukh et al. 2016), (Serça et al. 2016), (Guérin et al. 2006), 
+(Kemenes et al. 2007).  
+Trophic state adjustment factor (αi, Eq. 7.11) can be estimated from other general assessments of reservoir trophic 
+status, for example from trophic index, total phosphorus and nitrogen and Secchi depth, and alternative values are 
+provided in Table 7.11. 
+TABLE 7.11 (NEW) 
+RELATIONSHIPS BETWEEN TROPHIC INDEX (TI), SURFACE CONCENTRATIONS OF CHLOROPHYLL-A (CHL-A), TOTAL 
+PHOSPHORUS (TP), TOTAL NITROGEN (TN), SECCHI DEPTH (SD), AND TROPHIC CLASS1 AND TROPHIC STATE 
+ADJUSTMENT FACTOR (αI) 
+TI 
+Chl-a 
+(µg/L) 
+TP 
+(µg/L) 
+TN 
+(µg/L) 
+SD 
+(m) 
+Trophic Class 
+Trophic State Adjustment Factor 
+αi 
+Range and (recommended value) 
+<30 - 40 
+0 - 2.6 
+0 - 12 
+–<350 
+> 4 
+Oligotrophic 
+0.7 (0.7) 
+40 - 50 
+2.6 - 20 
+12 - 24 
+–350-650 
+2 - 4 
+Mesotrophic 
+0.7 - 5.3 (3) 
+50 - 70 
+20 - 56 
+24 - 96 
+650-1200 
+0.5 - 2 
+Eutrophic 
+5.3 - 14.5 (10) 
+70 - 100+ 
+56 - >155 
+96 - >384 
+>1200 
+< 0.5 
+Hypereutrophic 
+14.5 - 39.4 (25) 
+1 (Carlson 1977), (Smith et al. 1999) 
+Tier 2 
+Under Tier 2, country-specific emission factors may be developed that take into account national circumstances 
+as well as specific properties of individual reservoirs including: reservoir operation, size, and depth; relative 
+locations of oxic/anoxic water and water intakes; trophic status; sedimentation and sequestration of carbon; and 
+other environmental (e.g. seasonal ice cover) and management factors. CH4 emissions due to wastewater inflow 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+may be estimated using the guidance in Volume 5, Chapter 6 and subtracted from reservoir emissions to avoid 
+double counting (see Box 7.2). 
+BOX 7.2 (NEW) 
+ADDITIONAL INFORMATION ON EMISSIONS ARISING FROM WASTEWATER WITHIN RESERVOIRS 
+Emissions of CH4 from both Land Converted to Flooded Land and Flooded Land Remaining 
+Flooded Land result from the degradation of autochthonous and allochthonous organic carbon in 
+anoxic conditions (Bastviken et al. 2004). Allochthonous organic carbon from treated and/or 
+untreated wastewater may reach the flooded land area and be converted to CH4 (Deemer et al., 2016). 
+At Tier 2 and 3 it is a good practice to estimate CH4 emission from wastewater treatment and 
+discharge using the guidance in Volume 5, Chapter 6 and subtract them from reservoir emissions, to 
+avoid double counting. 
+Tier 3 
+Under Tier 3, emission factors derived from models (mechanistic or statistical) or measurement campaigns may 
+be used instead of the default equations and/or default factors (see Annex 7.1). It is anticipated that a mix of 
+country-specific emission factors and modelled values will be used when the latter do not cover the full range of 
+environmental and management conditions within a country. The development of reservoir- or region-specific 
+emission factors that are influenced by eutrophication is discussed below. CH4 emissions due to wastewater inflow 
+may be estimated using guidance provided in Chapter 6, Volume 5 of the 2006 IPCC Guidelines and subtracted 
+from the reservoir emissions to avoid double counting (see Box 7.2). The derivation of reservoir or region-specific 
+factors should be clearly documented.  
+Reservoirs or other constructed wetlands cause a perturbation of the natural processes of decay to the atmosphere 
+of the organic matter contained in the water, so altering the natural pathway to GHG emissions of such organic 
+matter when stored in such flooded land. The perturbation effect can be considered the anthropogenic component 
+of the GHG emissions from the reservoirs. Approaches based on the mass balance of the organic carbon inputs 
+and its decay also qualify as Tier 3 methods to estimate the emissions from reservoirs or other constructed 
+waterbodies based on the Managed Land Proxy, caused by conveying freshwaters into reservoirs or other 
+constructed wetlands. 
+Choice of Activity Data 
+Several different types of activity data may be needed to estimate Flooded Land emissions, depending on the Tier 
+and the known sources of spatial and temporal variability within the national territory. 
+Tier 1 
+Country-specific data on the area of reservoirs within each climate zone are required to estimate CH4 emissions 
+from flooded land. Estimates of flooded land area for reservoirs behind large dams can be obtained from the 
+International Commission on Large Dams (ICOLD 1988), from the World Commission on Dams report (WCD 
+2000) , or from the Global Reservoir and Dam (GRanD) database (Lehner et al. 2011b). However, country-specific 
+datasets are likely to be more complete. 
+Tier 2 and 3 
+Estimates of flooded land area for reservoirs can be obtained from a drainage basin cover analysis or from a 
+national dam database. Because flooded land area could change over time due to climate variation and change and 
+management activities, countries should use updated and recent data from national databases in order to obtain 
+more accurate emission estimates. Water withdrawal depths and anoxic zone depths are required for estimating 
+downstream emissions at the Tier 2 level.  These data can be obtained from water utilities responsible for dam 
+operation and maintenance as well as from national dam operation databases. Tier 3 approaches can also include 
+more detailed activity data on, for example, effects of climate variability on water surface area and reservoir 
+management, but the exact requirements will depend upon the model or measurement design. 
+Data to directly calculate the trophic status adjustment, αi, (Eq 7.11, Table 7.11) can usually be sourced from water 
+quality databases held by the relevant water authorities. Remote sensing of Chl-a concentrations may also be 
+possible for larger reservoirs. 
+OTHER CONSTRUCTED WATERBODIES (FRESHWATER PONDS, SALINE 
+PONDS, CANALS AND DITCHES) 
+The procedure presented here expands the methodology developed for quantifying CH4 emissions from drainage 
+ditches in organic soils described in the 2013 Wetlands Supplement, to include all other constructed waterbodies 
+apart from reservoirs, which are considered separately in the previous section. The approach described here allows 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.17 
+for the reporting of emissions from other Flooded Lands including constructed freshwater and saline ponds used 
+for agriculture, aquaculture or other activities (e.g. recreation), and canals and ditches. This includes ponds within 
+settlements; however, note that CH4 emissions associated with wastewater are considered elsewhere (Volume 5, 
+Chapter 6, 2019 Refinement). For Managed Land categories on organic soils inventory compilers may choose to 
+‘embed’ emissions from small channels such as drainage ditches within their reporting of other Managed Land 
+categories (using Equation 2.4, Section 2.2.2.1 of Chapter 2, Drained Inland Organic Soils, of the 2013 Wetlands 
+Supplement1). The same emissions should however not be included in Flooded Lands if they are included other 
+Managed Land categories.  
+Choice of Method 
+Methodology is provided for estimating CH4 emissions from all other constructed waterbodies, including ditches 
+and ponds.  If CH4 emissions from other constructed waterbodies are a key category, then it is good practice for 
+the compiler to develop country-specific emission factors with application of a Tier 2 method or develop a country 
+specific method with a Tier 3 approach to reduce overall uncertainty, incorporating variations in inundation 
+regimes due to inter-annual and seasonal variation in water levels, management or other factors. All other 
+constructed waterbodies are assumed to emit CH4 at a constant average rate for as long as the land remains flooded. 
+However, waterbodies may move between emission categories as a function of changes in site factors if higher 
+tier approaches are applied. Compilers could use different tiers for subcategories within the Other constructed 
+waterbodies category, depending on the importance of different waterbodies and the availability of activity data. 
+Guidance on the development of country-specific factors or methods is provided below in Tier 2 and Tier 3 
+approaches.  
+Tier 1 
+The Tier 1 method extends the methodology developed for quantifying CH4 emissions from drainage ditches in 
+organic soils for the 2013 Wetlands Supplement (Section 2.2.2.1) to include a wider range of constructed 
+waterbodies. At Tier 1, emission factors are not stratified by climate zone or trophic status, but this can be 
+incorporated at Tier 2 and 3. See Annex 7.1 for details of how default emissions factors were derived.  
+Total emissions are calculated for a given waterbody type using Equation 7.12.  
+EQUATION 7.12 (NEW)  
+ANNUAL CH4 EMISSION FROM OTHER CONSTRUCTED WATERBODIES 
+(
+)
+,
+4
+6
+3
+, ,
+4,
+, ,
+1
+1
+1
+•
+•
+w j
+nother
+CH other
+j w i
+CH
+w
+j w i
+j
+w
+i
+F
+A
+EF
+α
+=
+=
+=
+=∑∑ ∑
+ 
+Where:  
+4
+FCH other
+ 
+ = Total annual flux of CH4 from ponds and ditches [kg CH4 yr-1] 
+, ,
+Aj w i
+ 
+= Area of other waterbody ‘i’ of type 'w' in climate zone 'j' [ha].  
+, ,
+α j w i
+ 
+= Emission factor adjustment for trophic state other waterbody 'i' of type 'w' located in climate 
+zone 'j'. Currently = 1 for all tiers. [dimensionless] Refer to Eq. 7.11, Table 7.11. 
+CH 4,
+w
+EF
+ 
+= Emission factor for other waterbody of type 'w' [kg CH4 ha-1 y-1]. Refer to Table 7.15. 
+,
+notherw j
+ 
+= Number of other waterbodies of type 'w' in climate zone 'j' 
+i 
+= Summation index for the number of other waterbodies of type 'w' in climate zone 'j' 
+j 
+= Summation index for climate zones (j = 1-6, e.g. Table 7.12) 
+w 
+= Summation index for waterbody classes (Table 7.12). 
+Tier 2 
+The Tier 2 approach for CH4 emissions from constructed agriculture and aquaculture ponds, and from canals and 
+ditches, incorporates country-specific information in Equation 7.19 to estimate the emissions. Tier 2 emission 
+ 
+1  Note that the approach described to estimate ditch CH4 emissions in the 2013 Wetlands Supplement combined these emissions with those 
+from adjacent terrestrial areas, to provide a single emission estimate. Implicitly, this approach considered ditches to form part of the terrestrial 
+land-use category, rather than as a separate Flooded Land category. Either approach may be used, but not both. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+factors may be further stratified by sub-classifying waterbodies according to type (w) and trophic status (αj,w,i). In 
+addition, it may be possible to incorporate additional modifiers such as soil type (e.g. mineral versus organic); 
+water flow rate; inter-annual and seasonal variation in water levels; salinity; presence of emergent vegetation 
+(which may increase emissions) and species (for aquaculture); or take account of site management activities that 
+may increase or decrease overall CH4 emissions (e.g., controlling organic matter loadings or aeration, including 
+pond drainage). 
+Tier 3 
+A Tier 3 approach for constructed ponds and ditches may specifically address the influence of different soils and 
+land-uses within the catchment area of each waterbody as controls on organic matter and nutrient inputs. It could 
+also disaggregate the different components of CH4 emissions (diffusive flux across the water surface, ebullition 
+and plant-mediated emissions) and the associated controlling factors in order to provide more site-specific 
+emission estimates. Compilers may also consider use of models that incorporate within-year and between-year 
+variation in emissions as a function of climatic or land-management variability, water level variability or 
+maintenance activities such as dredging and the duration of periodic drainage when sediments are exposed to air. 
+Tier 3 approaches are likely to require the development of a process-based model to address these additional 
+variables and activities influencing emissions as the small size and large number of waterbodies in some countries 
+may make measurement-based approaches infeasible. For aquaculture ponds, Tier 3 approaches could also include 
+models incorporating management practices (e.g. species, yield, aeration, drainage regimes). 
+Choice of Emission Factors  
+Tier 1 
+Tier 1 emission factors for agriculture and aquaculture ponds, and from canals and ditches, are provided in Table 
+7.12. Emissions from ponds are separated into Freshwater Ponds with water column salinity < 18 ppt and Saline 
+Ponds with salinity of > 18 ppt, consistent with the 2013 Wetlands Supplement (Chapter 4, Annex 4A.1 salinity-
+based definitions). At present, available data are not sufficient to derive emission factors for any category by 
+climate zone, or to disaggregate emissions from canals, drainage channels and ditches, which are therefore 
+considered as a single Tier 1 category. Disaggregation by surrounding land-use, nutrient loading and/or yield is 
+also not currently possible at Tier 1. For ditches in organic soils, the Tier 1 emissions factors presented in Table 
+2.4 of the 2013 Wetlands Supplement may be used.   
+ 
+TABLE 7.12 (NEW) 
+CH4 EMISSION FACTORS FOR OTHER CONSTRUCTED WATERBODIES (FRESHWATER PONDS, SALINE PONDS, CANALS, 
+DRAINAGE CHANNELS AND DITCHES) 
+Waterbody type 
+w 
+Climate 
+zone 
+EFCH4 a 
+(kg CH4 ha-1 yr-1) 
+95% confidence intervalsb 
+(kg CH4 ha-1 yr-1) 
+No. of sites 
+Saline ponds 
+1 
+All 
+30 
+16-55 
+15 
+Freshwater and 
+brackish ponds 
+2 
+All 
+183 
+118-228 
+68 
+Canals and ditchesc 
+3 
+All 
+416 
+259-669 
+24d 
+a Emissions factors for each category were calculated from the mean of log10-transformed values, because untransformed observations 
+showed a positively skewed distribution in all cases 
+b 95% confidence intervals shown are derived from standard errors, and thus represent the uncertainty in the mean emission factor rather 
+than the variability of the original measurements. 
+c For Emission Factor for ditches in organic soils refer to Table 2.4, 2013 Wetlands Supplement.   
+dDitch data are mostly aggregated to study level, where studies reported multiple measurements from the same ditch network or from 
+sites in close proximity; therefore the total number of individual ditches used to derive the emission factor exceeds the number shown. 
+References. Saline ponds: (Cameron et al. 2016), (Castillo et al. 2017), (Chen et al. 2015), (Hai et al. 2013), (Strangmann et al. 2008), 
+(Vasanth et al. 2016), (Yang et al. 2015). Freshwater and brackish ponds:  (Baker-Blocker et al. 1977),  (Casper et al. 2000), (Grinham 
+2018),  (Hu et al. 2016), (Huang 2016), (Liu et al. 2017), (Merbach et al. 1996), (Natchimuthu et al. 2014), (Selvam et al. 2014), 
+(Stadmark & Leonardson 2005), (van Bergen 2015), (Singh et al. 2000), (Xiong et al. 2017), (Yang et al. 2017), (Zhu et al. 2016).  
+Canals and ditches:  (Best & Jacobs 1997), (Chamberlain et al. 2015), (Chistotin 2006; Chistotin et al. 2006), (Evans et al. 2017), 
+(Harrison 2003), (Hendriks et al. 2007), (Kosten et al. 2018), (McPhillips et al. 2016), (McNamara 2013), (Peacock et al. 2017), (Schrier-
+Uijl et al. 2010), (Schrier-Uijl et al. 2011),  (Selvam et al. 2014), (Sirin et al. 2012), (Teh et al. 2011), (Van Den Pol-Van Dasselaar et al. 
+1999), (Vermaat et al. 2011), (Wang et al. 2009), (Yu et al. 2017). 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.19 
+Tier 2 
+At Tier 2, country-specific emission factors may be further stratified according to waterbody type, nutrient status, 
+water levels or other potential explanatory factors (e.g. management practices or yield for aquaculture), as 
+described in the preceding section. 
+Tier 3 
+To develop a model-based Tier 3 approach, additional empirical data are needed to define relationships between 
+each component of the CH4 emission and the relevant explanatory variables. These components could include the 
+effects of temperature, organic matter and nutrient supply and management processes such as periodic drainage; 
+effects of salinity, water depth and flow on CH4 production in the sediment and oxidation within the water column; 
+relationships between sediment composition and bubble production; and influence of vegetation type and cover 
+on plant-mediated emissions.  
+Choice of Activity Data 
+Activity data consist of the total area of (non-reservoir) constructed waterbodies, stratified according to the 
+waterbody type and any additional factors used to estimate emissions. Since flooded land area could change over 
+time, countries should consider this in developing their time series of activity data, attributing land cover to the 
+appropriate category. Countries may use older data sources to establish time series data as well as updated and 
+recent data. Tier 2 and Tier 3 approaches are preferably based on national databases to track flooded land surface 
+area in order to obtain more accurate emission estimates. For aquaculture ponds, additional data on product yields 
+from ponds (FAO data) or management could be collected and related to CH4 emissions to derive more accurate 
+emission estimates. 
+Tier 1  
+Activity data required to support Tier 1 reporting are either complete mapping data for all constructed waterbodies, 
+or alternatively a reliable estimate of the proportion of land area occupied by each waterbody type, such as 
+estimates derived from a land use survey. For agricultural ponds, it may be possible to evaluate small representative 
+areas within a larger land category in order to estimate the total proportion (and therefore total area) of ponds 
+present (Lowe et al. 2005). The Ramsar Convention (Ramsar 2005) provides guidance on mapping of wetlands 
+(Annex III) which can be used to determine the area of Other constructed waterbodies. Additional guidance for 
+mapping agricultural ponds can be found in (Shaikh et al. 2011) and MDBC (2009) (Cunningham et al. 2009). 
+The minimum recommended scale of mapping is 1:5000 (50m x 50m or 0.25 ha), which could be used if 
+appropriate data are available, for example from Landsat remotely sensed imagery (Pekel et al. 2016). Other 
+satellite imagery has a higher resolution, for example Sentinel 2 data have a resolution of 10 m, sufficient to detect 
+many smaller ponds, and are freely available.  In many cases, drainage occurs at regular spacing within agricultural 
+landscapes, such that the proportion of ditches in an area can be estimated from data on mean ditch width and 
+spacing, as described in Section 2.2.2.1 of the 2013 Wetlands Supplement (the Fracditch calculation). For these areas, 
+inventory compilers may choose to report these emissions within the appropriate land category, or separately in 
+the Flooded Lands category. For irregularly distributed ditches or other constructed channels such as canals, it 
+may be possible to estimate overall extent and area by digitizing or estimating total channel length within 
+representative areas. For area of aquaculture ponds, estimates of area may be available from remote sensing 
+imagery (Ottinger et al. 2017) or national databases.  If waterbodies vary substantially in their spatial extent 
+through the year, the annual average (rather than annual maximum) inundated area may provide the most 
+appropriate basis for flooded land area estimation. 
+Tier 2  
+Additional activity data required to apply a Tier 2 approach are likely to include information on waterbody 
+distribution (e.g. from remotely sensed imagery), waterbody type, nutrient status, flow rates, vegetation and other 
+factors as described in the Choice of Method section. Additional management-related factors may be considered if 
+these affect emissions, for example if waterbodies are subject to large seasonal or short-term changes in water 
+level and area, this may produce different CH4 emissions that a waterbody with the same average surface area but 
+more constant water levels. For aquaculture ponds national databases of pond area or pond yields on an area basis, 
+disaggregated by region or species cultivated could be used to increase accuracy of CH4 emission estimates.  
+Tier 3  
+Tier 3 approaches could include dynamic modelling of emissions evaluated from monitoring of greenhouse gas 
+concentrations and fluxes in representative systems or measurements of emissions on fine spatial and temporal 
+scales. Additional activity data required to apply a Tier 3 approach are likely to include information on waterbody 
+distribution from remotely sensed imagery (which for drainage ditches could include high resolution aerial 
+photography), waterbody type, nutrient status, flow rates, vegetation and other factors as described above. National 
+level information capturing differing pond management (e.g. whether ponds are intensively managed or abandoned 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(Gusmawati et al. 2016), particularly where pond management influences CH4 emissions (e.g. through drainage, 
+(Yang et al. 2015)) may also be appropriate to incorporate within a Tier 3 method. 
+7.3.2 
+Land Converted to Flooded Land 
+7.3.2.1 TOTAL CO2 EMISSIONS FROM LAND CONVERTED TO 
+FLOODED LAND 
+RESERVOIRS 
+Conversion of land to Flooded Land is a disturbance that affects all five terrestrial C pools in the area impounded 
+(above-ground biomass, below-ground biomass, litter, dead wood and soil organic matter; see 2006 IPCC 
+Guidelines (Volume 4 Chapter 2, Fig. 2.1). The 2006 IPCC Guidelines and 2013 Wetlands Supplement, in addition 
+to Chapter 2 of this volume, give guidance on how to estimate the five carbon pools in the land to be flooded and 
+guidance is provided in Chapter 12 for estimating harvested wood products (HWP). This Chapter gives guidance 
+on emissions related to land use conversion and the subsequent emissions. 
+Carbon stock changes in the five pools that occur prior to Land Converted to Flooded Land need to be estimated 
+using the guidance in other chapters (See Volume 4, Chapter 2; Equation 2.3).  The amount and fate of flooded 
+biomass depends largely on management decisions prior to flooding. The area to be impounded may be totally or 
+partially cleared of biomass including vegetation and the organic matter in soils prior to flooding. Another 
+management procedure may be the burning of the biomass. If the pre-impoundment area was forested, and the 
+forest was harvested before flooding, part of the biomass removed can go to HWP, but organic matter from 
+grassland or cropland most likely remains. 
+The time elapsed since flooding has a significant influence on greenhouse gas fluxes from Flooded Lands and also 
+on the partitioning of the gases. Statistical analyses on reservoirs worldwide indicate that there is a rapid surge of 
+emissions immediately following flooding, after which emissions return to a relatively stable level. The rate of the 
+post-flooding decrease in emissions may depend on the region in which a reservoir is located and can differ 
+between CO2 and CH4, but seems to occur mainly during the initial decade following flooding.  
+Evidence suggests that CO2 emitted during approximately the first decade after flooding results from decay of 
+some of the organic matter on the land prior to flooding. Upon flooding, the easily degradable carbon and nutrients 
+are made available to the microbial community and metabolized. Beyond this time period, CO2 emissions are 
+sustained by the input of organic material transferred into the flooded area from the watershed, (Houel 2003), 
+(Hélie 2004), (Cole & Caraco 2001), and would have occurred in the absence of flooding, albeit displaced in space.  
+In addition to managed lands, unmanaged lands such as natural forests and peatlands, existing (smaller) 
+waterbodies and other land cover types not considered to be managed land may be converted to Flooded Land. 
+This guidance describes methods for reporting emissions from each land use / land cover type converted to Flooded 
+Land.  
+Choice of Method  
+Organic matter is subject to decay after flooding and the rate of decay diminishes over time following initial 
+inundation. Therefore, it is not appropriate to report all C losses from biomass, dead wood, litter and soil organic 
+matter in the first year after land is converted to Flooded Land. Because Land Converted to Flooded Land is 
+defined as the first 20 years after flooding, the expected total CO2 emissions during the 100-year lifespan of the 
+reservoir from the flooded stock of organic matter are allocated to these 20 years (see below and Annex 7.1 Fig 
+A4). C stocks are estimated using existing methodologies when possible (e.g., Volume 4, Chapter 2).   
+Organic C pools that remain in the impoundment area after flooding are subject to slow decomposition constrained 
+by reduced presence of oxygen. The fate of organic matter removed from the area prior to flooding can vary. For 
+example, biomass removed from the impoundment area prior to impoundment, e.g., by harvesting of timber, slash 
+or stumps, is reported according to the guidance for CO2 emissions and removals (Volume 4, Chapter 2.3). The 
+CO2 and non-CO2 emissions of deliberately burned biomass are reported according to guidance in other chapters 
+(See Volume 4, Chapter 2). The biomass remaining in the impoundment area after flooding becomes submerged 
+(except for that in the drawdown zone) and a fraction of this organic matter is subsequently decomposed to CO2 
+(for more details, see Annex 7.1).  
+Annex 7.1 explains how the G-res model estimates CO2 emissions for land converted to Flooded Land using 
+average organic carbon stock in the top 30 cm soil layer as an empirically-based approximation for the total flooded 
+organic matter decay (Annex 7.1, Section 1.5). Tier 1 emission factors are derived by determining the average, 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.21 
+spatially interpolated soil organic C stock for the flooded landscape area from a global soil carbon map (FAO, or 
+default reference soil organic C stocks from Volume 4, Chapter 2. Table 2.3). 
+Tier 1 
+Emission factors for CO2 from the reservoir surface, EFCO2,j, in the six aggregated climate zones are provided in 
+Table 7.13. The emission factors correspond to the total CO2 emission attributable to the reservoir and integrate 
+both spatial and temporal variations and have been derived from the application of empirical models to a large 
+(>6000) number of reservoirs with a worldwide distribution (see Annex 7.1 for details and (Prairie et al. 2017a)) 
+and are averaged per climate zone. 
+EQUATION 7.13 (NEW) 
+ANNUAL ON-SITE CO2-C EMISSIONS/REMOVALS FROM LAND CONVERTED TO FLOODED LAND 
+2
+2
+6
+, ,
+20,
+1
+1
+•
+j
+nres
+CO tot
+total j i
+CO age
+j
+j
+i
+F
+A
+EF
+≤
+=
+=
+= ∑ ∑
+ 
+Where: 
+2
+FCO tot
+ 
+= Total annual emission (removal) of CO2 from Land Converted to Flooded Land (Reservoirs 
+≤ 20 years old), tonnes CO2-C yr-1. 
+, ,
+total j i
+A
+ 
+= Total area of reservoir water surface for reservoir 'i' located in climate zone 'j', ha. 
+2
+CO age 20,
+j
+EF
+≤
+ = Emission factor for CO2 for reservoir ≤ 20 years old in climate zone 'j', tonnes CO2-C ha-1 
+y-1. Refer to Table 7.13. 
+j
+nres  
+= Number of reservoirs ≤ 20 years old in climate zone 'j'  
+i 
+= Summation index for the number of waterbodies of same type in same climate zone 
+j 
+= Summation index for climate zones (j = 1-6, see Table 7.13) 
+Tier 2 
+The methodology for estimating Tier 2 annual carbon loss as CO2 on recently flooded land (<20 years old) uses 
+Equation 7.13 substituting in the emission factor calculated using Equation 7.14. Tier 2 methods for determining 
+annual CO2 emissions from land converted to Flooded Land use knowledge about climate zone and distribution of 
+soil organic carbon stock of the land prior to flooding in order to develop country-specific factors.  
+EQUATION 7.14 (NEW) 
+ANNUAL CO2-C EMISSIONS/REMOVALS FROM LAND CONVERTED TO FLOODED LAND INCLUDING 
+SOIL CARBON STOCKS 
+2 ,
+,
+,
+1
+•
+•
+j i
+nsoil
+CO
+i k
+j k
+j
+k
+EF
+SOC
+M
+φ
+=
+= ∑
+ 
+Where: 
+2 ,
+EFCO j i
+ 
+= Emission factor for CO2 for reservoir 'i' climate zone 'j', tonnes CO2-C ha-1 y-1.  
+SOC ,j k
+ 
+= Soil C stock (tonnes C ha-1 in 0-30 cm depth) values per climate zone 'j' and mineral soil 
+type (k) from Table 2.3 (Volume 4, Chapter 2), for undrained and drained peatlands using 
+Table 2.6 (2013 Wetlands Supplement) with conversion from dry organic matter to organic 
+carbon (see A7.1.2.2), or from FAO Global Soil organic C map (http://www.fao.org/global-
+soil-partnership/resources/highlights/detail/en/c/1070492/), or country specific SOC stocks. 
+i 
+= Summation index for the number of waterbodies of same type in same climate zone 
+j 
+= Summation index for climate zones (j = 1-6, see Table 7.13) 
+k  
+= Summation index for soil type  
+φ ,i k
+ 
+= The fraction of reservoir 'i' area with soil type k, dimensionless 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+M j
+ 
+= Scaling factor per climate zone to convert SOC stocks based on empirical relationships 
+between emissions estimated from G-res (integrated 100 year emissions post-flooding 
+reported as a constant yearly flux for the first 20-year post-flooding) and soil C stocks and 
+climate. (see Annex 7 for more explanations), y-1. Values in Table 7.14. 
+nsoil  
+= Number of soil types (= 6, see Volume 2, Table 2.3) 
+Note that 
+1 ,
+1
+nsoil
+i k
+k
+φ
+=
+≤
+∑
+ will be nearly 1 if only a river existed prior to inundation of a large reservoir. In contrast, 
+the value will be close to 0 if the reservoir is a small expansion of a natural lake. 
+Tier 2 may include: 1) a derivation of country-specific emission factors; 2) specification of climate sub-zones 
+considered suitable for refinement of emission factors; 3) a finer, more detailed classification of management 
+systems with a differentiation of pre-flooding land-uses; 4) differentiation of emission factors by time since 
+flooding, and 5) a finer, more detailed classification of nutrient status or other water quality attributes, e.g. nitrogen, 
+phosphorus, and chlorophyll. 
+For compatibility of approach, country-specific Tier 2 factors for CO2 emissions and removals that are compiled 
+using domestic flux data measured at the water-atmosphere boundary should follow a similar general concept to 
+the G-res model, which is used in this guidance for generating Tier 1 emission factors (see details in Annex 7.1).  
+An alternative method can use observed data on the decay curve of CO2 release to the atmosphere from the surface 
+of the waterbody. These observations include a declining annual CO2 emission due to the newly flooded organic 
+matter, and a natural annual background release of CO2 that is associated with catchment inputs and should not be 
+included in the annual emissions. Instead, the natural emissions should be subtracted from the declining emissions 
+in order to obtain the apparent CO2 release from the land converted to Flooded Land. The shape of the declining 
+curve of annual CO2 release does not need to follow a specific equation, as long as it asymptotically declines as 
+reservoirs age and can be integrated. 
+It is good practice to derive country-specific emission factors if measurements representing the national 
+circumstances are available. Countries need to document that methodologies and measurement techniques are 
+consistent with the scientific background for Tier 1 emission factors in Annex 7.1. Moreover, it is good practice 
+for countries to use a finer classification for climate and management systems. Note that any country-specific 
+emission factor must be accompanied by sufficient national or regional land-use/management activity and 
+environmental data to represent the appropriate climate sub-domains and management systems for the spatial 
+domain for which the country-specific emission factor is applied. 
+Tier 3 
+CO2 emissions/removals at Tier 3, compared to those at Tier 2, would use detailed data and models of soil carbon 
+and other remaining carbon pools prior to flooding and time series of CO2 emissions after flooding for a range of 
+reservoirs that encompass an appropriate range of environmental conditions. Details for the development of 
+measurement and model-based methods are discussed in Annex 7.1. 
+Choice of Emission Factor 
+Tier 1  
+CO2 emissions are calculated using the emission factors in Table 7.13. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.23 
+TABLE 7.13 (NEW) 
+CO2-C EMISSION FACTORS FOR RESERVOIRS ≤ 20 YEARS OLD – LAND CONVERTED TO FLOODED LAND 
+Climate Zone 
+CO2-C Emission Factors EFCO2 age<20,j 
+(tonnes CO2-C ha-1 y-1) 
+ 
+j 
+Average 
+Lower and upper 95% CI of mean 
+Boreal 
+1 
+0.94 
+0.84 –1.05 
+Cool Temperate 
+2 
+1.02 
+1.00–1.04 
+Warm temperate dry 
+3 
+1.70 
+1.66 –1.75 
+Warm Temperate moist 
+4 
+1.46 
+1.44–1.48 
+Tropical dry/montane 
+5 
+2.95 
+2.86–3.04 
+Tropical moist/wet 
+6 
+2.77 
+2.71–2.84 
+The emission factors are derived from model outputs for each climate zone (Annex A7.1.2.1). The aggregation into 6 climate zones is 
+described in Annex section A7.1.2.1.  
+Tier 2 and 3 
+The Tier 2 approach for estimating total CO2 emissions from Flooded Land incorporates country-specific 
+information with derivation of country-specific scaling factors.  The compiler may address other drivers of 
+emissions including: 1) specification of climate sub-zones considered suitable for refinement of emission factors; 
+2) a finer, more detailed classification of management systems including estimation of emissions associated with 
+drawdown zones during the time period of low water level in reservoirs; 3) time-series data that incorporate 
+seasonal/annual variation in CO2 emissions. Country-specific soil maps, measured in situ data, or updated versions 
+of global soil databases that can be used in estimating the soil organic carbon stocks for 0-30 cm top soil layer 
+within the flooded area using GIS tools. Table 7.14 provides scaling factor values that may be used with the Tier 
+2 method.  
+Choice of Activity Data 
+Tier 1 
+Areas of newly flooded lands are available from dam operators such as hydropower companies or responsible 
+government agencies. In many cases recent impoundments have been extensively described in Environmental 
+Impact Assessment (EIA) documents of specific projects. Those documents are often publicly available. In absence 
+of such information sources, satellite images and aerial images taken during the past 20 years are commonly 
+available and allow determination of flooded land areas by comparison of pre-impoundment and post-
+impoundment images.  
+Tiers 2 and 3 
+Detailed area information is needed for Tier 2 and 3 approaches, and can be found in geographic information 
+products, reservoir statistics, or remote sensing products. Management systems for pre-impoundment land use 
+characteristics of the flooded land may be derived from project-specific EIA documents, forest surveys from the 
+pre-impoundment period, or remotely-sensed land cover assessments.  
+Countries could consider differentiating the fluxes from the drawdown zone. Estimation of drawdown zone areas 
+can be done using remote sensing images taken during the time period of low water level in reservoirs or from 
+reservoir managers.   
+Many countries also monitor water quality parameters from watercourses impacted by management activities. 
+These include industrial effluent disposal, mining, land drainage, and wastewater treatment. In the best cases, time 
+series of water quality parameters are available in national registers for over 20 years and may be useful for 
+applying Tier 3 emission factors differentiated by those parameters. 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.14 (NEW) 
+SCALING FACTOR VALUE M [Y-1] FOR EQUATION 7.14, ANNUAL ON-SITE CO2-C EMISSIONS/REMOVALS FROM LAND 
+CONVERTED TO FLOODED LAND.   
+IPCC climate zones 
+Aggregated climate zone 
+M 
+ 
+j 
+Average 
+Lower and upper 
+95% CI  
+Number of 
+reservoirs 
+Boreal dry 
+Boreal 
+1 
+0.0091 
+0.0075-0.0107  
+118 
+Boreal moist 
+Polar dry 
+Polar moist 
+Cool temperate dry 
+Cool temperate 
+2 
+0.0146 
+0.0141-0.0151  
+2103 
+Cool temperate moist 
+Warm temperate dry 
+Warm temperate dry 
+3 
+0.0568 
+0.0541-0.0595  
+679 
+Warm temperate moist 
+Warm temperate moist 
+4 
+0.0302 
+0.0291-0.0312  
+2095 
+Tropical dry 
+Tropical dry/montane 
+5 
+0.0900 
+0.0846-0.0954  
+902 
+Tropical montane 
+Tropical moist 
+Tropical moist/wet 
+6 
+0.0668 
+0.0628-0.0708  
+920 
+Note: Scaling factors were derived from the integrated CO2 emissions attributable to the reservoir estimated from the G-res model 
+(see Annex 7.1 for details, (Prairie et al. 2017b) expressed as a fraction of soil organic carbon content (SOC) and applied to the first 
+20 years post-impoundment. The aggregation into 6 climate zones is described in Annex 1, section A7.1.2.1. 
+OTHER CONSTRUCTED WATERBODIES (DITCHES, CANALS, FARM 
+PONDS AND AQUACULTURE PONDS) 
+No specific methodologies are provided to estimate CO2 emissions resulting from land conversion to other 
+constructed waterbodies as there are insufficient CO2 emission data. However, compilers may estimate CO2 
+emissions for coastal wetlands converted to aquaculture ponds by excavation based on guidance in the 2013 
+Wetlands Supplement (Chapter 4, Coastal Wetlands).  For all types of pond created by damming, the methodology 
+described above to estimate CO2 emissions from land converted to reservoirs may be used.  
+7.3.2.2 TOTAL NON-CO2 EMISSIONS FROM LAND CONVERTED TO 
+FLOODED LAND 
+RESERVOIRS 
+In reservoirs, high levels of CH4 emissions can occur in the first 20 years following flooding (see Annex 7.1). No 
+guidance on estimating N2O emissions from flooded land is provided here because N2O emissions from aquatic 
+systems are indirect N2O emissions from managed land that are addressed in other sections of this guidance (e.g. 
+Volume 4, Chapter 11). 
+Choice of Method  
+Tier 1 
+For Tier 1, guidance can be found in section 7.3.1 Non-CO2 emissions from Flooded Land Remaining Flooded 
+Land. The Tier 1 approach to calculate CH4 emissions from Land Converted to Flooded Land (flooded ≤ 20 years 
+prior to reporting year) is based on Equation 7.15, which differs from Equation 7.10 only in the values of the 
+emission factors, EFCH4 age<20,j. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.25 
+EQUATION 7.15 (NEW) 
+ANNUAL CH4 EMISSIONS FOR RESERVOIRS ≤ 20 YEARS OLD FOR LAND CONVERTED TO FLOODED 
+LAND 
+4
+4
+4
+CH tot
+CH res
+CH downstream
+F
+= F
++ F
+                                                                   (A) 
+6
+1
+1
+4
+4
+CH res
+i
+CH  age 20, j
+tot j,i
+F
+=
+α (EF
+• A
+)
+≤
+=
+=
+∑∑
+j
+nres
+j
+i
+ 
+                                             (B) 
+6
+1
+1
+4
+4
+CH downstream
+i
+CH  age 20, j
+tot j,i
+d, i
+F
+=
+ α (EF
+• A
+)• R
+≤
+=
+=
+∑∑
+j
+nres
+j
+i
+                  (C) 
+Where: 
+4
+FCH tot
+ 
+= Total annual emission (removal) of CH4 from all reservoirs ≤ 20 years old, kg CH4 yr-1 
+4
+FCH res
+ 
+= Annual reservoir surface emissions of CH4 from all reservoirs ≤ 20 years old, kg CH4 yr-1 
+4
+FCH downstream
+ = Annual emissions of CH4 originating from the reservoir but emitted downstream of dam. 
+For Tier 1, equation 7.15 (C) simplifies to 
+4
+4
+CH downstream
+CH res
+d
+F
+= F
+• R , kg CH4 yr-1 
+Atot j,i
+ 
+= Total area of reservoir water surface for reservoir ≤ 20 years old 'i' located in climate zone 
+'j', ha 
+4
+EFCH  age 20, j
+≤
+= Emission factor for CH4 emitted from the reservoir surface for reservoir ≤ 20 years old 
+located in climate zone ‘j’, kg CH4 ha-1 y-1 (Refer Table 7.15) 
+d
+R  
+= A constant equal to the ratio of total downstream emission of CH4 to the total flux of CH4 
+from the reservoir surface, dimensionless. Equals 0.09 by default for Tier 1 (Table 7.10) and 
+zero for all other reservoirs. See text below for Tiers 2 & 3 Rd values. 
+i
+α  
+= Emission factor adjustment for trophic state in reservoir 'i' within a given climate zone, 
+dimensionless. Equals 1.0 by default for Tier 1. See Equation 7.11 for Tiers 2 & 3. 
+I 
+= Summation index for the number of reservoirs of ≤ 20 years in climate zone 'j' 
+j 
+= Summation index for climate zones (j = 1-6, see table 7.15) 
+j
+nres  
+= Number of reservoirs ≤ 20 years old in climate zone 'j' 
+Tiers 2 and 3 
+For Tiers 2 and 3, refer to guidance in section 7.3.1, Non-CO2 emissions from Flooded Land Remaining Flooded 
+Land.  
+Choice of Emission Factor 
+Tier 1 
+Emission factors for CH4 via diffusion and ebullition for Land Converted to Flooded Land in the six aggregated 
+climate zones are provided in Table 7.15. As for Flooded Land remaining Flooded Land (Table 7.9), the emission 
+factors integrate both spatial and temporal variations and have been derived from the application of empirical 
+models to a large (>6000) number of reservoirs with a worldwide distribution (see Annex 7.1 for details) and are 
+averaged per climate zone. 
+Tiers 2 and 3 
+For Tiers 2 and 3, refer to guidance in section 7.3.1, Non-CO2 emissions from Flooded Land Remaining Flooded 
+Land. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.15 (NEW) 
+CH4 EMISSION FACTORS FOR RESERVOIRS ≤ 20 YEARS OLD – LAND CONVERTED TO FLOODED LAND 
+Aggregated Climate Zone 
+CH4 Emission Factors  EFCH4 age<20,j 
+(kg CH4 ha-1 year-1) 
+ 
+j 
+Average 
+Lower and upper 
+95% CI of the mean 
+N 
+Boreal 
+1 
+27.7 
+20.8–34.7 
+96 
+Cool Temperate 
+2 
+84.7 
+78.8-90.6 
+1879 
+Warm temperate dry 
+3 
+195.6 
+176.9-214.7 
+578 
+Warm Temperate moist 
+4 
+127.5 
+121.5-133.4 
+1946 
+Tropical dry/montane 
+5 
+392.3 
+366.5-417.7 
+710 
+Tropical moist/wet 
+6 
+251.6 
+236.6-266.7 
+805 
+Note: The Emission Factors are derived from model outputs from N reservoirs in each climate zone. The aggregation into 6 climate zones 
+is described in Annex 1, section A7.1.2.1. 
+Choice of Activity Data 
+Tier 1 
+For Tier 1, refer to guidance refer in section 7.3.1, Non-CO2 emissions from Flooded Land Remaining Flooded 
+Land.  
+Tiers 2 and 3 
+For Tiers 2 and 3, refer to guidance in section 7.3.1, Non-CO2 emissions from Flooded Land Remaining Flooded 
+Land. 
+OTHER CONSTRUCTED WATERBODIES (DITCHES, CANALS, FARM 
+PONDS AND AQUACULTURE PONDS) 
+Refer to guidance in section 7.3.1, Non-CO2 emissions from Flooded Land Remaining Flooded Land. There is 
+insufficient information to derive separate emission factors for CH4 emissions for recently constructed ponds, 
+canals and ditches. 
+7.3.3 
+Approach to provide indicative estimates of the 
+anthropogenic component of total CO2 and non-CO2 
+emissions (optional) 
+A method for estimating the contribution of human activities to total emissions from Flooded Land is provided 
+that uses the area of Managed Land and Unmanaged non-Wetland categories converted to Flooded Land to develop 
+indicative estimates of the anthropogenic component of total CO2 and non-CO2 greenhouse gas emissions. This 
+method includes the area that was not previously (before flooding) unmanaged lakes, rivers/streams and 
+unmanaged wetlands, on the basis that emissions from these unmanaged lands are not reported in national 
+greenhouse gas inventories. For unmanaged lakes and rivers, which have similar CH4 emissions to reservoirs, this 
+method is robust. When unmanaged wetlands are flooded this method could under- or over-estimate anthropogenic 
+CH4 and CO2 emissions because flooding may alter the greenhouse gas emissions and removals from these 
+unmanaged lands due to changes in biogeochemical processes (see Annex 7.1.1). However, there are insufficient 
+empirical data to provide guidance to estimate the changes in emissions from land that was unmanaged wetlands 
+after it is flooded. Additionally, CH4 emission factors from unmanaged wetlands, reservoirs and other constructed 
+waterbodies in many climate zones are broadly similar and thus when unmanaged wetlands are a small component 
+of the land surface before the area was converted to Flooded Land this method is robust. If unmanaged wetlands 
+occupy a high proportion of the surface of the land prior to flooding then countries may choose to better understand 
+anthropogenic emissions at Tier 2 or 3 using methods described in section 7.3.1 and 7.3.2. However, previously 
+flooded lands where changes in hydrology lead to substantial changes in the characteristics and ecological function 
+of the area, or emissions and removals per unit area, may not be excluded from the calculation of indicative 
+estimates of the anthropogenic component of total greenhouse gas emissions.  
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.27 
+An analogous approach to develop indicative estimates of the anthropogenic component of total greenhouse gas 
+emissions, following the same principles, could also be applied to other constructed waterbodies. Developing these 
+estimates will require a Tier 2 or 3 method. 
+INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF 
+TOTAL CH4 EMISSIONS IN FLOODED LAND REMAINING FLOODED LAND 
+Indicative estimates of the anthropogenic component of total CH4 emissions for Flooded Land Remaining Flooded 
+Land are estimated with the following equation (flooded > 20 years prior to reporting year) by using the area of 
+flooded land that was not an unmanaged waterbody prior to flooding:  
+EQUATION 7.16 (NEW) 
+INDICATIVE ESTIMATE OF THE ANTHROPOGENIC COMPONENT OF TOTAL ANNUAL CH4 
+EMISSIONS IN FLOODED LAND REMAINING FLOODED LAND  
+(
+)
+4
+4
+4
+6
+20,
+, ,
+1
+1
+•
+j
+nres
+CH anthrop
+CH age
+j
+anthrop j i
+CH downstream
+i
+i
+j
+F
+A
+EF
+F
+α
+>
+=
+=
+=
++
+∑ ∑
+ 
+Where: 
+4
+FCH anthrop
+ 
+= Indicative estimate of the anthropogenic component of total annual emissions of CH4 from 
+flooded land, kg CH4 yr-1 
+, ,
+Aanthrop j i
+ 
+= Area associated with the anthropogenic component of emissions and comprises all areas of 
+reservoir water surface for reservoir > 20 years old 'i' located in climate zone 'j', but excluding 
+areas that were unmanaged waterbodies (lakes and rivers), ha 
+4
+FCH downstream
+ = Annual downstream CH4 emissions, estimated above (Equation 7.15), kg CH4 yr-1 
+i
+α  
+= Emission factor adjustment for trophic state in reservoir 'i' within a given climate zone. 
+[dimensionless] Equals 1.0 by default for Tier 1. See Equation 7.11 for Tiers 2 & 3. 
+4
+CH age 20,
+j
+EF
+>
+= Emission factor for CH4 emitted from the reservoir surface for reservoir > 20 years old 
+located in climate zone 'j', kg CH4 ha-1 yr-1 (Table 7.9). 
+In general, other Unmanaged Lands, including forest land and grassland, are not considered a significant source 
+of CH4 emissions, and removals of CH4 are not recognized as an anthropogenic source category in the AFOLU 
+sector guidance. However some removal of CH4 can occur through oxidation of atmospheric CH4 by 
+methanotrophic microorganisms in aerated soils, but this flux is typically small when expressed per unit land area 
+(Oertel et al. 2016).  Regardless, no guidance is provided to estimate CH4 removal from unmanaged forest land 
+and grassland. 
+INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF 
+TOTAL CO2 EMISSIONS IN LAND CONVERTED TO FLOODED LAND 
+Indicative estimates of the anthropogenic component of total CO2 emissions in Land Converted to Flooded Land 
+(i.e. Reservoirs ≤ 20 years old) are calculated following the method described in section 7.3.1.1 but using Eq. 7.17 
+to calculate.  
+EQUATION 7.17 (NEW) 
+INDICATIVE ESTIMATE OF THE ANTHROPOGENIC COMPONENT OF TOTAL ANNUAL CO2 
+EMISSIONS IN LAND CONVERTED TO FLOODED LAND 
+(
+)
+2
+2
+6
+20,
+, ,
+1
+1
+•
+j
+nres
+CO anthrop
+CO age
+j
+anthrop j i
+j
+i
+F
+A
+EF
+≤
+=
+=
+= ∑ ∑
+ 
+Where 
+2
+FCO anthrop
+ 
+= Indicative estimate of the anthropogenic component of total annual emission of CO2 from 
+Land Converted to Flooded Land (reservoirs ≤ 20 years old), tonnes CO2-C yr-1. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+, ,
+Aanthrop j i
+ 
+= Area associated with the anthropogenic component of emissions and comprises all areas of 
+reservoir water surface for reservoir ≤ 20 years old 'i' located in climate zone 'j', but excluding 
+areas that were unmanaged waterbodies (lakes and rivers) or unmanaged wetlands prior to 
+flooding [ha]. Note: previously flooded lands where changes in hydrology lead to substantial 
+changes in the characteristics and ecological function of the area, or emissions and removals 
+per unit area, may not be excluded from the calculation of indicative estimates of the 
+anthropogenic component of total greenhouse gas emissions. 
+2
+CO age 20,
+j
+EF
+≤
+ = Emission factor for CO2 for reservoir ≤ 20 years old in climate zone 'j', tonnes CO2-C ha-1 
+y-1. Refer to Table 7.13. 
+INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF 
+TOTAL CH4 EMISSIONS IN LAND CONVERTED TO FLOODED LAND 
+Indicative estimates of the anthropogenic component of total CH4 emissions for Land Converted to Flooded Land 
+can be derived with the following equation (flooded ≤ 20 years prior to reporting year) by using the area of flooded 
+land that was not an unmanaged waterbody or unmanaged wetlands prior to flooding:  
+EQUATION 7.18 (NEW) 
+INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF TOTAL ANNUAL CH4 
+EMISSIONS IN LAND CONVERTED TO FLOODED LAND  
+(
+)
+4
+4
+4
+6
+20,
+, ,
+1
+1
+•
+j
+nres
+CH anthrop
+CH age
+j
+anthrop j i
+CH downstream
+i
+i
+j
+F
+A
+EF
+F
+α
+≤
+=
+=
+=
++
+∑ ∑
+ 
+ 
+Where: 
+4
+FCH anthrop
+ 
+= Indicative estimate of the anthropogenic component of total annual emissions of CH4 from 
+flooded land, kg CH4 yr-1 
+, ,
+Aanthrop j i
+ 
+= Area associated with the anthropogenic component of emissions and comprises all areas of 
+reservoir water surface for reservoir ≤ 20 years old 'i' located in climate zone 'j', but excluding 
+areas that were unmanaged waterbodies (lakes and rivers) or unmanaged wetlands prior to 
+flooding, ha. Note: previously flooded lands where changes in hydrology lead to substantial 
+changes in the characteristics and ecological function of the area, or emissions and removals 
+per unit area, may not be excluded from the calculation of indicative estimates of the 
+anthropogenic component of total greenhouse gas emissions. 
+4
+FCH downstream
+ = Annual downstream CH4 emissions, estimated above (Equation 7.15(C), kg CH4 yr-1 
+i
+α  
+= Emission factor adjustment for trophic state in reservoir 'i' within a given climate zone, 
+dimensionless. Equals 1.0 by default for Tier 1. See Equation 7.11 for Tiers 2 & 3. 
+4
+CH age 20,
+j
+EF
+≤
+ = Emission factor for CH4 for Land Converted to Flooded Land, kg CH4 ha-1 y-1. Refer to 
+Table 7.15. 
+i 
+= Summation index for all reservoirs of age ≤ 20 years in climate zone 'j' 
+j 
+= Summation index for climate zones (j = 1-6, e.g. Table 7.15) 
+Choice of Activity Data 
+Activity data needed include area of Unmanaged Wetlands (Note: previously flooded lands where changes in 
+hydrology lead to substantial changes in the characteristics and ecological function of the area, or emissions and 
+removals per unit area, may not be excluded from the calculation of indicative anthropogenic emissions) and 
+natural lakes that become a managed flooded land, and the final flooded land area in each climate zone. Activity 
+data required to support Tier 1 calculations are complete mapping for pre-flooding wetland and lake area estimated 
+from a land use survey, remotely sensed imagery (e.g. Landsat data) or other national maps and data bases. 
+7.3.4 
+Uncertainty Assessment 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.29 
+The two largest sources of uncertainty in the estimation of CH4 emissions from Flooded Land are the quality of 
+emission factors and estimates of the flooded land areas. 
+Flooded Land surface area  
+For reservoirs, national statistical information on the flooded area behind large dams (> 100 km2) should be 
+available and will probably be accurate to within 10 percent. Where national databases on dams are not available, 
+and other information is used, the Flooded Land areas retained behind dams will probably have an uncertainty of 
+more than 50 percent, especially for countries with large Flooded Land areas. Detailed information on the location, 
+type and function of smaller dams may be difficult to obtain, though statistical inference may be possible based 
+on the size distribution of reservoirs for which data are available. Reservoirs are created for a variety of reasons, 
+and this will influence the availability of data. Consequently, uncertainty regarding surface area is dependent on 
+country specific conditions. 
+Uncertainties in estimating emissions and removals from other constructed waterbodies (ditches, canals, farm 
+ponds and aquaculture ponds) are to a large extent derived from assumptions and uncertainties in the area to which 
+the EFs are applied. Variation in salinity of aquaculture ponds may also contribute to uncertainty in CH4 emissions. 
+Emission factors 
+As shown in Tables 7.9 and 7.15, average emissions can vary both within and among climate regions. Therefore, 
+the use of any default emission factor will result in high uncertainty as reflected in the 95% confidence intervals 
+as discussed in Annex 7.1. 
+Downstream CH4 emissions occur primarily when anoxic and methane-rich hypolimnetic water (i.e. the lower 
+water layer in a stratified water column) is withdrawn from a reservoir and passed through the dam structure, 
+including turbines in hydropower reservoirs, and discharged to a downstream river (see Annex 7.1 for a more 
+detailed description). Accordingly, downstream emissions are typically negligible in well-oxygenated reservoirs 
+(Diem et al. 2012) or those with epilimnetic withdrawal (Beaulieu et al. 2014b), but can exceed emissions from 
+the reservoir surface in thermally stratified systems with hypolimnetic withdrawal (Kemenes et al. 2007), (Abril 
+et al. 2005). At the Tier 1 level, downstream emissions are estimated from Rd, defined as the average ratio of 
+downstream to surface emissions.  Sources of uncertainty in Rd include differences among studies in how fluxes 
+from the reservoir surface and downstream or the reservoir were measured. Uncertainty can be reduced at the Tier 
+2 and 3 levels by accounting for the reservoir mixing patterns and withdrawal depths on a case-by-case basis. 
+To reduce the uncertainties on emissions factors, countries should develop appropriate, statistically-valid sampling 
+strategies that take into account natural variability of the ecosystem under study. When applicable, the distinction 
+between ice-free and ice-covered periods may be a significant improvement in accuracy (Duchemin et al. 2006). 
+Those sampling strategies should include enough sampling stations per reservoir, enough reservoirs and sampling 
+periods. The number of sampling stations should be determined using a recognized statistical approach (see 
+(Goldenfum 2010) (UNESCO/IHA for measurement guidelines). 
+The EF values in Table 7.9 represent global averages and have large uncertainties due to variability in climate and 
+management practices, including depth of the waterbody, salinity of water, presence of emergent vegetation, 
+recharge rate and (for aquaculture) the intensity of management, including fish feeding characteristics and pond 
+aeration. 
+Uncertainties associated with the indicative estimates of anthropogenic component of total emissions  
+The methods to produce the indicative estimates of the anthropogenic component of total emissions from managed 
+flooded lands have additional uncertainties beyond the estimation of total emissions. The key uncertainty is 
+determining the excluded areas that were unmanaged waterbodies (lakes and rivers) or unmanaged wetlands prior 
+to flooding. The unmanaged river and possibly lake area is particularly challenging to estimate if there is large 
+intra- or inter-annual variability in river water level, resulting in a highly variable river area over time. To address 
+this uncertainty, compilers may use the long-term mean river and lake area, but it should be highlighted that there 
+is a risk for higher uncertainty where the average area is challenging to assess.  
+7.4 
+COMPLETENESS, TIMES SERIES 
+CONSISTENCY, AND QA/QC 
+No refinement.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 7A.1 
+Estimation of Default Emission Factor(s) for 
+greenhouse gas emissions from Flooded Lands 
+7A.1.1 Background on CH4 cycling in Flooded Land 
+CH4 emissions from aquatic environments are the combined result of CH4 production, oxidation and transport 
+processes, which are described in e.g. (Bastviken 2009), (Bridgham et al. 2013), (Duc et al. 2010), and (Bogard 
+et al. 2014) (the two former being reviews and the two latter describing updates). A summary is provided below: 
+Production and oxidation of CH4 
+Methane production is a microbially-mediated process that primarily occurs in anoxic sediment. Sediment 
+methanogenesis represents the terminal step in the anaerobic degradation of organic matter, and is strongly 
+stimulated by temperature, anoxic conditions, and high sedimentation rates.  The last of these, sedimentation, 
+provides organic matter and promotes anoxia. Inhibition is induced by the presence of molecular oxygen (O2) and 
+other alternative electron acceptors in organic matter degradation, such as nitrate, iron (III), manganese (IV) and 
+sulphate. Because sulphate is common in waters with high salinity, methanogenesis in the upper sediments is often 
+low under saline conditions (Reeburgh 2007).  
+Methane oxidation in aquatic environments is primarily a microbial process in which dissolved CH4 is used as a 
+carbon and energy source. Therefore, CH4 oxidation takes place at redox gradients where both CH4 and suitable 
+electron accepting compounds are present. Anaerobic CH4 oxidation using e.g. nitrate and sulphate has been 
+observed and sulphate-dependent CH4 oxidation can be important in saline sediments. In freshwater environments, 
+O2 dependent CH4 oxidation is considered to dominate (Bogard et al. 2014). By being confined to redox gradients, 
+CH4 oxidation is therefore often most intense in spatially restricted zones near the interface between anoxic and 
+oxic conditions in water columns, or in the top millimetres of sediments overlain with oxic water (below a few 
+mm depth most sediments are anoxic). The oxidation of CH4 can be extensive and reported removal of dissolved 
+CH4 during passage through a zone with oxidation often range from 50 to >95% (Bastviken 2009). Aerobic CH4 
+oxidation in situ is considered to be primarily substrate dependent, i.e. to depend largely on concentrations and 
+supply rates of CH4 and O2.  
+The transport of CH4 through waterbodies  
+With reference to processes numbered in Figure 7A1, the transport of CH4 through a reservoir can be described 
+as follows (Bastviken 2009):  
+CH4 produced in anoxic sediments, and subsequently dissolved in the water, is transported along the concentration 
+gradient by Fickian transport (molecular diffusion or eddy diffusion) and, at times advection, into the hypolimnion 
+water (1). The transport of CH4 from the hypolimnion into the epilimnion is often very small due to limited mixing 
+between water layers and because extensive microbial CH4 oxidation occurs at the interface where both CH4 and 
+O2 are present (Bastviken et al. 2008) (2). The release of CH4 from epilimnetic sediments is also constrained by 
+CH4 oxidation, similarly occurring at the oxycline in the top several mm of the sediment (3). However, water 
+movements such as waves can speed up CH4 transport across the epilimnetic sediment-water interface (Bussmann 
+2005), reducing the fraction being oxidized. Additional epilimnetic CH4 can be sustained by production in oxic 
+water (Bogard et al. 2014) (4). The dissolved CH4 in surface water is emitted across the diffusive boundary layer 
+at the water-atmosphere interface (diffusive emission). The diffusive emission rates are stimulated by high CH4 
+concentrations and high turbulence in the water (5). The solubility of CH4 in water is rather low, and therefore 
+CH4 bubbles are formed in the sediment. Emissions to the atmosphere by ebullition occur when such CH4-rich 
+bubbles are released and rapidly rise through the water column into the atmosphere (6). Ebullition can be the 
+dominant flux pathway, and is influenced by CH4 production rates in the sediment, physical triggers releasing 
+bubbles such as drops in barometric pressure, changes in the water level or waves. CH4 emissions can also occur 
+via rooted emergent aquatic plants with gas transporting aerenchyma tissue.  These structures can function as gas 
+conduits between sediments and the atmosphere. Such plant-mediated emission can be substantial and depends on 
+CH4 production, plant abundance, activity and species composition. In reservoirs, water, with its dissolved CH4, 
+is withdrawn into the dam structure (D) inlet and released to the outlet river (7a and 7b). The dissolved CH4 can 
+then be degassed to the atmosphere upon passage through dam structures or emitted after release to the outlet river 
+(8). Both degassing and reservoir-related emissions from the outlet river are a result of the reservoir, but occur 
+downstream of the reservoir surface and are collectively referred to in this chapter as downstream emissions. 
+Downstream emissions are low if oxic epilimnetic water with low CH4 concentrations is withdrawn (7a), but can 
+be high if anoxic, CH4 rich hypolimnetic water is withdrawn (7b).  
+The degassing of the water in the turbines is relevant in hydroelectric reservoirs only, but the other parts of the 
+description in Figure A1 are valid for non-hydroelectric reservoirs and for non-reservoir waterbodies. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.31 
+Figure 7A.1 (New) 
+Methane related transport within and from waterbodies, exemplified 
+with a reservoir with an anoxic hypolimnion. 
+ 
+For explanations of numbered processes, see text. 
+Emissions of CH4 
+Aquatic CH4 emissions are favoured by high CH4 production and by conditions facilitating transport pathways 
+where most CH4 escapes oxidation. Conditions leading to high whole-system CH4 production rates include low 
+salinity  (Camacho et al. 2017), high temperatures (Yvon-Durocher et al. 2014), (Deemer et al. 2016), (DelSontro 
+et al. 2016), and a high load of labile organic matter (DelSontro et al. 2016), (DelSontro et al. 2018), (Deemer et 
+al. 2016). The overall CH4 production potential in freshwaters in a given climate zone is also positively related to 
+the flooded area. In this guidance: estimation of emissions from coastal aquaculture ponds (Tier 1) is improved by 
+consideration of salinity of the water as sulphides in seawater supress methanogenesis (Poffenbarger et al. 2011); 
+temperature is considered by separating emission factors by climate zone and including temperature seasonality 
+when generating emission factors (Tier 1); methanogenic habitat extent is considered by including the area of the 
+flooded land in calculations (Tier 1); and the supply of labile organic matter is considered via a trophic state 
+adjustment option (Tier 2; see also below). 
+Conditions favouring rapid transport from sediments to the atmosphere by ebullition or via plants, bypassing CH4 
+oxidation zones, include shallow water depth and a high abundance of emergent aquatic plants. These conditions 
+are indirectly considered at the whole climate zone level at the Tier 1 via validation to available data, but are highly 
+variable among waterbodies and consideration for individual waterbodies can therefore only be performed at the 
+Tier 3 level. Downstream emissions also represent situations where high water turbulence causes rapid emission 
+of CH4 with little time for oxidation. Downstream emissions are considered at Tier 1, and are estimated using 
+empirical relationships between CH4 fluxes from waterbody surfaces and observed downstream emissions. 
+Trophic status and greenhouse gas emissions from Flooded Lands 
+Flooded lands with high inputs of nutrients and high rates of biological production (eutrophic systems) generally 
+emit CH4 to the atmosphere more rapidly on a per-area basis than less productive (meso- or oligotrophic) systems. 
+This relationship is seen in meta-analyses examining fluxes from many reservoirs (Narvenkar et al. 2013), (Deemer 
+et al. 2016), and a positive relationship between local primary production and CH4 emission has also been 
+demonstrated in laboratory assays using sediments from individual lakes (West et al. 2016). One recent review of 
+available data found that, on average globally, per-area CH4 fluxes are 8.0 times higher for eutrophic reservoirs 
+than for mesotrophic reservoirs, which in turn have CH4 fluxes that are, on average, 1.7 times as high as those 
+from oligotrophic systems (Deemer et al. 2016). Therefore, when possible, we recommend that countries include 
+an estimate of trophic status in their estimates of reservoir CH4 emissions allowing adjustment of emission factors 
+at Tier 2. Trophic status designation is generally achieved using either total phosphorus or chlorophyll a data and 
+latitude-specific classification cut-offs (Carlson 1977).   
+It has been suggested that eutrophication can enhance CO2 uptake and burial (Pacheco et al. 2015), but there is no 
+evidence that this occurs consistently, and, when it does occur, the magnitude of this effect on CO2 is generally 
+much smaller (in overall greenhouse gas flux terms) than the effect of eutrophication on CH4 emissions (Deemer 
+et al. 2016). 
+Estimating the indicative anthropogenic component of total emissions  
+Estimation of the indicative anthropogenic component of total emissions or removals reflects the changes in 
+greenhouse gas fluxes to the atmosphere resulting from the landscape transformation into a reservoir or other 
+flooded lands. Unmanaged wetlands (e.g. peatlands) emit CH4 and sequester soil carbon and unmanaged lakes can 
+also be a source of CH4 prior to their conversion to a reservoir, but these are not estimated in national greenhouse 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+gas inventories. The calculations allow for estimation of the anthropogenic component of emissions when these 
+unmanaged lands are converted to a reservoir by only considering the flooded land that was not previously 
+unmanaged lakes or wetlands. Box 7A.1 describes the general approach for estimating anthropogenic emissions, 
+based on the area of Managed Land and unmanaged non-Wetland categories, which is used in this Guidance. 
+BOX 7A.1 (NEW) 
+APPROACH FOR DEVELOPING INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF TOTAL 
+EMISSIONS FROM FLOODED LAND 
+The diagram below shows the rationale for indicative estimation of the anthropogenic component of 
+total emissions using the example of CH4 and CO2 fluxes from a reservoir where land is either 
+unmanaged (left) or managed (right) prior to flooding. CH4 and CO2 fluxes after flooding are shown 
+(green arrows) compared to before flooding and the anthropogenic component, the newly flooded 
+land (red arrows) for Flooded Land remaining Flooded Land (FLRFL) and Land converted to 
+Flooded Land (LCFL). CH4 emissions/removals from the original water surface area and from 
+unmanaged wetlands are not considered in this approach by subtracting their area from the total 
+surface area of the reservoir.  
+For estimating anthropogenic CO2 emissions/removals from the reservoir, CO2 fluxes from 
+unmanaged lands in both FLRFL and LCFL are assumed zero. Changes in soil carbon stocks during 
+the first 20 years after flooding (LCFL) are provided in the guidance. For both FLRFL and LCFL, 
+long-term CO2 fluxes arising from the decomposition of catchment-derived organic matter are 
+considered natural in this guidance and are not incorporated into the CO2 emission factors. For 
+managed land (e.g. forest, croplands or grasslands), CO2 and CH4 fluxes prior to flooding, guidance 
+is provided in other Chapters and not considered here.  
+ 
+7A.1.2 Reservoirs 
+Introduction 
+Correctly estimating the anthropogenic component of greenhouse gas emissions from reservoirs requires a careful 
+assessment of the source and fate of reservoir carbon fluxes as such estimates are prone to double counting and 
+inappropriate attribution of fluxes to human activity (Prairie et al. 2017a). The greenhouse gas emission factors 
+from Flooded Lands presented in this methodology report are composited output from an empirical model (Prairie 
+et al. 2017b), developed and calibrated with field measurements from diverse types of reservoirs located in various 
+regions of the world (see section 7A.1.2.3 Data Sources). The model allows us to annualize emissions that are 
+often measured over short periods (e.g. during the ice-free period for boreal systems) and estimate changes in 
+reservoir greenhouse gas activity that have been observed to occur as reservoirs age. We anticipate that the models 
+will continue to improve over time as more measurements are made and additional models become available. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.33 
+7A.1.2.1 DEVELOPING TIER 1 EMISSION FACTORS FOR CO2 AND NON-
+CO2 EMISSIONS FROM FIELD MEASUREMENTS  
+Recent, largely overlapping, literature compilations of field greenhouse gas measurements from over 220 distinct 
+reservoirs (Deemer et al. 2016), (Prairie et al. 2017b) form the basis of the emissions factors listed in Tables 7.9 
+and 7.15. The field measurements are a mixture of diffusive CO2, CH4 diffusive and/or bubble emissions and, for 
+a new but smaller subset, downstream emissions for either or both gases. The method used to estimate greenhouse 
+gas fluxes from reservoirs is critical because different techniques can give quite different flux estimates (Schubert 
+et al. 2012), (Deemer et al. 2016), and because techniques integrate spatial and temporal variability to different 
+degrees (Wik et al. 2016). Flux estimates used to derive reservoir EFs in Chapter 7 were attained in a variety of 
+ways. For CO2, diffusive fluxes were estimated using near-surface concentrations in combination with a thin 
+boundary layer model for the majority of systems (Deemer et al. 2016), floating chambers, or, in a minority of 
+cases, eddy flux measurements.  For CH4, diffusive fluxes were estimated using near-surface concentrations in 
+combination with a thin boundary layer model or chamber flux measurements.  Ebullition fluxes of CH4 were 
+estimated using inverted funnel traps and echo sounders. Combined ebullitive and diffusive CH4 fluxes were 
+estimated using floating chambers or eddy flux techniques, or a combination of available methods.  Downstream 
+emissions for gases were available for only a subset of the studied reservoirs. 
+Deriving Emission Factors directly from the compiled data is subject to a number of assumptions that can lead to 
+potential biases. First, it requires an assumption that sampled systems are statistically representative of overall 
+reservoir distribution, a potentially problematic assumption given that measurement campaigns may occur in 
+systems and periods in time where or when greenhouse gas emissions are high (e.g. where CH4 bubbling is visible) 
+or low. Second, it assumes that sampling of reservoirs is representative in time, potentially leading to biases as 
+there is considerable evidence that greenhouse gas emissions decrease markedly as reservoirs age (Abril et al. 
+2005), (Barros et al. 2011), (Teodoru et al. 2012), (Serça et al. 2016).  
+The Emissions Factors from reservoirs presented for this methodology were derived from the application of the 
+Greenhouse Gas Reservoir (G-res) model (Prairie et al. 2017b). The G-res model is currently the only easily and 
+widely applicable model and was developed to account for the potential biases described above. It uses empirical 
+relationships between environmental drivers and emissions to estimate reservoir greenhouse gas fluxes. Depending 
+on available input data, the G-res model can also be used to make Tier 2 or Tier 3 estimates.  
+The methodology used to develop the G-res model and its usage to estimate reservoir greenhouse gas emissions is 
+described in detail in (Prairie et al. 2017b) but, briefly, consists of the following steps: 
+1. Data annualization: field sampling campaigns reported in the literature are rarely carried through the entire 
+annual cycle. For this reason, greenhouse gas data obtained over sub-annual time periods were annualized by 
+taking into account the annual temperature cycle at the reservoir site and the known temperature dependence 
+of processes leading to the production of CO2 and CH4. 
+2. Identifying relationships between annualized flux estimates and environmental variables: environmental 
+characteristics for each reservoir where greenhouse gas fluxes have been measured were extracted using 
+available global databases (GIS layers) and used as input variables for predictive models with an elastic net 
+variable selection procedure. This statistical analysis of the relevant data yielded the following model equations: 
+EQUATION 7A.1 (NEW) 
+CH4 DIFFUSIVE EMISSION (MG C M-2 D-1) 
+(
+)
+(
+)
+4 _
+10
+10
+log
+ 0.88( 0.16)
+0.012( 0.002) 
+0.048( 0.006) 
+0.61( 0.706) log
+diff
+factor
+littoral
+CH
+Age
+T
+pcA
+=
+±
+−
+±
++
+±
++
+±
+ 
+ 
+EQUATION 7A.2 (NEW) 
+CH4 BUBBLING EMISSION (MG C M-2 D-1) 
+(
+)
+(
+)
+4_
+10
+10
+log
+0.99( 0.63)
+0.049( 0.011) 
+1.01( 0.028) log
+ebul
+rad
+littoral
+CH
+Q
+pcA
+= −
+±
++
+±
++
+±
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+EQUATION 7A.3 (NEW) 
+CO2 DIFFUSIVE EMISSION (MG C M-2 D-1)  
+(
+)
+(
+)
+(
+)
+10
+2 _
+1
+2
+3
+10
+4
+5
+10
+1
+2
+3
+4
+5
+log
+log
+log
+2.035
+0.19
+0.033
+0.005
+0.29
+0.06
+0.00178
+0.006
+0.076
+0.03
+diff
+factor
+res
+CO
+c
+c T
+c
+Age
+c SOC
+c
+A
+c
+c
+c
+c
+c
+=
++
+−
++
++
+=
+±
+=
+±
+=
+±
+=
+±
+=
+±
+ 
+Where: 
+Age  
+= G-res Reservoir age since construction, yr 
+Ares
+ 
+= G-res Surface area of reservoir, km2 
+pcAlittoral
+ 
+= G-res percentage of reservoir area, Ares < 3 m deep, % 
+CH4 _diff
+ 
+= Diffusive emission of CH4 used in G-res, mg-C m-2 d-1 
+CH4 _ebul
+ 
+= Ebullitive (bubble) emission of CH4 used in G-res, mg-C m-2 d-1 
+CO2 _ diff
+ 
+= Diffusive emission of CO2 used in G-res, mg-C m-2 d-1 
+Qrad
+ 
+= G-res mean daily solar irradiance, kWh m-2 d-1 
+SOC  
+= G-res Soil organic carbon from (0-30 cm), kg m-2 
+Tfactor
+ 
+= G-res temperature factor derived from air temperature, °C 
+Here, Age  is reservoir age (years since construction), 
+pcAlittoral
+ area was operationally defined as the percent 
+reservoir surface area shallower than 3m as derived from modelled reservoir bathymetry, SOC  is surface Soil 
+Organic Carbon (0-30cm), 
+Tfactor
+ is a temperature factor that corrects for the non-linearity in the temperature 
+response of CH4 emissions, and 
+Qrad
+ is the mean daily solar irradiance averaged over a latitude-dependent period 
+(see G-res documentation for details), and 
+Ares
+ is reservoir area, the surface area of the reservoir (km2). Further 
+details on the statistical analysis, the input environmental variables, their definition and sources can be found in 
+(Prairie et al. 2017b). All resulting empirical models (Equation 7A.1 to 7A.3) were statistically highly significant 
+and explained between 37 and 47% of the variation in the greenhouse gas flux component (log scale).  
+1. Application of the models to larger database: 
+The empirical models described above were applied to the larger Global Reservoir and Dam (GRanD) database, 
+(Lehner et al. 2011a) consisting of 6684 reservoirs with capacity >0.1 Mm3 located worldwide as shown in the 
+map in Figure 7A.2. These reservoirs are estimated to comprise collectively over 75% of the global surface area 
+of reservoirs and are distributed in all climate zones (Table 7A.1, Figure 7A.2). The environmental variables 
+required by the models were extracted for each reservoir as previously described and were used as inputs in 
+Equations 7A.1 to 7A.3 to estimate the various components of greenhouse gas emissions. In total, greenhouse gas 
+emissions could be estimated for more than 6000 reservoirs worldwide.  
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.35 
+Figure 7A.2 (New) 
+Location of the reservoirs in the GranD database and shadowgram of 
+their latitudinal distribution. 
+ 
+ 
+TABLE 7A.1 (NEW) 
+NUMBER OF RESERVOIRS IN THE GRAND DATABASE IN EACH IPCC CLIMATE ZONE. 
+IPCC Climate zone 
+Number of Reservoirs 
+Boreal dry 
+3 
+Boreal moist 
+87 
+Cool temperate dry 
+333 
+Cool temperate moist 
+1746 
+Polar moist 
+27 
+Tropical dry 
+625 
+Tropical moist 
+793 
+Tropical montane 
+227 
+Tropical wet 
+126 
+Warm temperate dry 
+623 
+Warm temperate moist 
+2072 
+2. Derivation of CH4 Emissions Factors:  
+CH4 emission is the sum of reservoir-wide ebullitive and diffusive emissions (Equations 7A.1 and 7A.2). However, 
+because the diffusive component is not constant in time but declines with age, Equation A.1 was integrated to 
+estimate the average annual emission over different periods. Based on the available literature, much of the initial 
+greenhouse gas pulse occurs within the first 20 years following impoundment and this time interval was assumed 
+to represent Land converted to Flooded Land. The emission factor of CH4 in this time interval can be derived with 
+Equation 7A.4. For Flooded Land remaining Flooded Land, the integration period was from 20 to 100 years post-
+impoundment. The emission factor of CH4 in this time interval can be derived with Equation 7A.5.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+EQUATION 7A.4 (NEW) 
+EMISSION FACTORS FOR LAND CONVERTED TO FLOODED LAND 
+ 
+20
+4
+0
+4
+ 
+20
+diff
+bubbling
+CH
+dAge
+EF
+CH
+−
+−
+=
++
+
+
+
+
+
+
+
+
+∫
+  
+ 
+EQUATION 7A.5 (NEW) 
+EMISSION FACTORS FOR FLOODED LAND REMAINING FLOODED LAND 
+ 
+100
+4 _
+20
+4 _
+ 
+80
+diff
+bubbling
+CH
+dAge
+EF
+CH
+=
++
+
+
+
+
+
+
+
+
+∫
+  
+Where 
+EF  
+Emission Factor  
+CH4 _ diff
+ 
+Diffusive emission of CH4, Mg-C m-2 d-1 
+CH4 _ bubbling
+ 
+Ebullitive (bubble) emission of CH4, Mg-C m-2 d-1 
+Application of Equations 7A.4 and 7A.5 to the reservoirs described in Table 7A.1 were averaged according the 
+aggregated climate zones defined in Table 7A.2 to produce the final Emission Factor (EF) tables for Flooded Land 
+Remaining Flooded Land (Table 7.9) and Land Converted to Flooded Land (Table 7.15). Emissions factors (EFs) 
+are expressed as kg CH4 ha-1 yr-1. 
+In addition to the diffusive and ebullitive emissions from reservoir surfaces, downstream CH4 emissions are 
+estimated. These downstream emissions are estimated by multiplying reservoir emissions by a fraction (Rd), which 
+is the ratio of total CH4 emissions (kg CH4-C y-1) downstream of the reservoir (i.e. degassing at the dam and 
+emissions from the downstream river) to CH4 emissions from the surface of the reservoir (diffusion + ebullition; 
+kg CH4-C y-1).  Downstream emissions are influenced by local climate, reservoir morphology, and design features 
+of the dam and spillway (Deemer et al. 2016).  In general, these emissions will be large in thermally stratified 
+reservoirs with anoxic, CH4-rich bottom waters and hypolimnetic withdrawal (dos Santos et al. 2017). These 
+emissions can be further enhanced by high air-water gas exchange rates at the dam or spillway that promote the 
+rapid evasion of CH4 to the atmosphere before it can be oxidized to CO2 in the downstream river (Abril et al. 2005). 
+Accurately predicting downstream emissions requires detailed knowledge of dam design (i.e. withdrawal depth) 
+and operating conditions (i.e. withdrawal rates) and is beyond the scope of the Tier 1 methodology. However, if 
+appropriate at a higher tier, downstream emissions may be estimated using climate zone specific Rd values in Table 
+7.10 derived from a literature compilation listed in section 7A.1.2.3 Data Sources. 
+Downstream emissions have received much less attention than emissions from reservoir surfaces, but have been 
+reported for 36 reservoirs distributed across the 6 aggregated IPCC climate zones (see section 7A.1.2.3 Data 
+Sources, Table 7A.5). It should be noted, however, that reported downstream emissions can be biased high or low, 
+depending on study-specific methodological details. For example, several studies assumed that all excess dissolved 
+CH4 (i.e. the difference between actual dissolved CH4 concentration and atmospheric equilibrium) entering the 
+dam would evade to the atmosphere via a combination of degassing at the dam and diffusion from the river surface 
+(Beaulieu et al. 2014a), (Teodoru et al. 2012). This approach will overestimate downstream emissions because up 
+to 85% the CH4 that enters the downstream waterbodies can be oxidized to CO2 (Kemenes et al. 2007). Other 
+studies only reported degassing in turbines (i.e. did not estimate downstream waterbody emissions), thereby 
+biasing downstream emissions low (Maeck et al. 2013). Although methodological differences can bias 
+downstream emission values, the effect of methodology was not apparent in the pooled data, likely because other 
+factors, such as the depth of water withdrawal relative to the oxycline, were more important drivers. Similarly, 
+differences among climate zones were not apparent in the data, therefore the Tier 1 Rd value was not disaggregated 
+by climate zone. Due to the highly skewed distribution of reported Rd values, the Tier 1 Rd value is based on the 
+median value (see 7A.1.2 “Validation of the data-model approach”). At the Tier 2 level the downstream emission 
+term in Equation 7.10 can be set to zero in reservoirs where epilimnetic water is withdrawn and discharged to the 
+river downstream. Countries can directly measure downstream emissions at the Tier 3 level using the methods 
+discussed in the references cited in section A7.1.2.3 Data Sources (Table A5). 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.37 
+3. Grouping of reservoirs according to IPCC climate zones 
+The 6014 estimates of CH4 emissions (diffusive + ebullitive) from worldwide reservoirs generated by the G-res 
+tool were grouped according to the IPCC climate regions. A regression tree approach was used to lump certain 
+climate categories together based on their abilities to separate groups with different CH4 emissions. The final 
+grouping comprised 6 aggregated climate zones (Table 7A.2) and these were applied throughout this Methodology 
+Report. 
+TABLE 7A.2 (NEW) 
+AGGREGATED CLIMATE ZONES BASED ON DIFFERENCES IN CH4 EMISSIONS BETWEEN CATEGORIES 
+IPCC Climate zone 
+Aggregated climate zone 
+Boreal dry 
+Boreal 
+Boreal moist 
+Polar dry 
+Polar moist 
+Cool temperate dry 
+Cool temperate 
+Cool temperate moist 
+Warm temperate dry 
+Warm temperate dry 
+Warm temperate moist 
+Warm temperate moist 
+Tropical dry 
+Tropical dry/montane 
+Tropical montane 
+Tropical moist 
+Tropical moist/wet 
+Tropical wet 
+Validation of the data-model approach 
+Surface Emissions 
+Model estimations and direct measurements are not strictly comparable in that the former have been annualized 
+and represent the integrated average annual emissions of the first 20 years post-impoundment (plus ebullitive 
+emissions) while the latter are point measurements encompassing varying degrees of spatial and temporal 
+integration depending on the study. Nevertheless, it is informative to compare the central tendency and variability 
+in CH4 emissions among reservoirs in each of the climate zones. Both model estimations and field measurements 
+were highly variable and positively skewed in each climate zone (Figure 7A.3).  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 7A.3 (New)  
+Box plots of model estimates (empty) and Field measurements (filled) 
+of CH4 emissions (note logarithmic scale) in aggregated IPCC climate 
+zones. 
+ 
+Field measurements are from (Deemer et al. 2016) while modelled estimates are derived from G-res model applied 
+to about 6000 reservoirs worldwide. Exact correspondence between measured and modelled ranges is not expected 
+given that the models were applied to a large number of reservoirs of different configurations. Numbers in box 
+plots correspond to the number of observations in each climate zone. 
+While the distribution of modelled and measured greenhouse gas emission estimates generally overlapped in each 
+climate zone, a more direct measure of correspondence is shown by the relationship between field measurements 
+versus model estimates of CH4 emissions (Figure 7A.4). CH4 emissions from individual reservoirs predicted using 
+the Tier 1 approach agreed reasonably well with measured CH4 emissions (Nash-Sutcliffe Efficiency: 0.8, with no 
+detectable bias in either slope or intercept of least-squares regression; Figure 7A.4). These comparisons 
+collectively provide evidence that the model estimates capture both the variability and central tendency in CH4 
+emission rates.  
+ 
+ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.39 
+Figure 7A.4 (New) 
+Comparison of measure CH4 emissions with estimates based on the 
+Emission Factors (EFs, Tables 7.9 and 7.15) of Tier 1 methodology. 
+ 
+Figure 7A.4 re-drawn using final approved Tier-1 method. NSE=0.83; no evident bias for any climate category.  
+No chlorophyll correction used (alpha=1 in all cases). 1:1 line (black), best-fit linear regression line (blue) with 
+95% confidence intervals for slope (grey shading) are shown. 
+Downstream Emissions 
+Downstream emissions estimated using the median of the literature Rd values (0.09), combined with model 
+estimated surface emission rates, agree well with observed downstream emission rates (Figure 7A.5). Downstream 
+emissions estimated using the mean Rd literature value (0.60) systematically overestimate downstream emissions 
+(Figure 7A.5), lending additional support for the use of the median Rd value for estimating downstream emissions.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.40 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 7A.5 (New) 
+Measured downstream (DN) CH4 emissions compared to model 
+estimates.  
+ 
+The left and right panels model downstream emissions using the median and mean Rd values collected from the 
+literature, respectively. Because using the mean produced consistent overestimates (right panel), the use of the 
+median is preferred. 
+7A.1.2.2 CO2 EMISSION FACTORS FOR LAND CONVERTED TO 
+FLOODED LAND. 
+The creation of reservoirs as well as other Flooded Lands often involves the flooding of terrestrial ecosystems and 
+their organic matter pools. A portion of these pools is rapidly degraded by microbial activity generating a CO2 
+pulse that diminishes steadily during the 10-20 years following flooding until the Flooded Land attains a new 
+steady state emission rate (Abril et al. 2005), (Barros et al. 2011), (Teodoru et al. 2012). The new steady state 
+emission rate generally falls in the range typical of other freshwater ecosystems that have remained flooded for > 
+20 years (Prairie et al. 2017b). Meta-analyses of published emission studies (Barros et al. 2011), (Prairie et al. 
+2017b) suggest that the rate of decline decreases with time (faster in the early years, slower later on) and that the 
+temporal evolution of CO2 emissions is expressed as a general negative power function. The literature suggests 
+that a decade is a realistic period for the return to a quasi-equilibrium (e.g.(Tremblay et al. 2005), reflecting the 
+new balance between primary production and respiration of the reservoir ecosystem. A more conservative 
+approach assumes, instead, that this new equilibrium is reached only after 100 years - a value that is often used to 
+represent the expected lifetime of reservoirs in life-cycle analysis (e.g. (Gagnon et al. 2002). Over such a period, 
+integration of the emissions above the modelled new equilibrium value at 100 years (upper panel of Figure A6) 
+suggests that about 75% of the cumulative CO2 flux is natural, i.e. that only 25% can be considered the result of 
+the impoundment process (Prairie et al. 2017a). 
+The carbon stocks of the land prior to impoundment are specific for each land use / land cover, and the default 
+Tier 1 estimates for these pools can be derived from the 2006 IPCC Guidelines, FAO 2017 database as refined in 
+this volume, and the 2013 Wetlands Supplement, while masses for dry matter in undrained and drained peatlands 
+are given in the 2013 Wetlands Supplement Table 2.6. The guidelines recognize five terrestrial C pools: above-
+ground biomass, below-ground biomass, dead wood, litter and soil organic matter. In preparation of the 
+impoundment area, the carbon losses from harvested biomass and the emissions from deliberately burned biomass 
+are reported according to the 2006 IPCC Guidelines as refined in this volume. The CO2 emissions from the decay 
+of dead organic matter in the newly flooded land is described below. 
+The easily decomposable organic matter fractions (litter, foliage, twigs, fine roots, organic soils) contribute to the 
+post-flooding CO2 pulse, while the more recalcitrant fractions (tree boles, mineral soils) are for the most part 
+preserved. However, it is noteworthy that following flooding, the mineral soil layer rapidly becomes (and remains 
+indefinitely) anoxic below a depth of a few mm (Lorke et al. 2003). Anaerobic remineralisation occurs very slowly 
+and below this depth, organic carbon can be considered permanently buried for practical inventory estimation 
+purposes. In organic soils and in humus layers, flooding may produce an analogous anaerobic zone. In thermally 
+stratified reservoirs, mineralisation of organic matter will be retarded in anoxic hypolimnia. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.41 
+The surge in CO2 emission post-flooding is caused by the remineralisation of pre-flooding organic matter pools 
+and it can be considered as a net loss of the carbon stock from the previous land use. At the moment, there is little 
+information to quantify how individual terrestrial organic carbon pools contribute to the post-flooding CO2 surge.  
+Nevertheless, the abundant amount of reservoir emission measurements for young (< 20 y) reservoirs (Deemer et 
+al. 2016) has made possible the development of models such as G-res that can be used to estimate net post-flooding 
+CO2-C emissions (Table 7.13). 
+The approach used to derive net CO2 emissions from reservoirs is the same as that used to derive emissions of CH4 
+(section 7A.1.2.1) and is based on the greenhouse gas reservoir (G-res) model (Prairie et al. 2017b) which uses 
+empirical relationships between environmental drivers and greenhouse gas emissions to estimate reservoir 
+greenhouse gas fluxes from a large, diverse set of reservoirs (>6000 reservoirs with global distribution). 
+Instantaneous greenhouse gas flux measurement data are annualized to take into consideration seasonal changes 
+in temperature that may be different from the moment when empirical measurements were conducted in the field. 
+An example where annual fluxes are generated from point measurements is described in the technical 
+documentation of the IHA G-Res tool (Prairie et al. 2017b). There are two approaches to derive emissions. In one, 
+a power function for annual flux, CO2 = C ∙ Age-b where C is a reservoir specific constant depending on nutrients, 
+temperature, reservoir area etc. and b is estimated by fitting to the data, is assumed to reach the natural equilibrium 
+level of CO2 flux at the reservoir age of 100 years. That level determines how much of the annual CO2 flux should 
+be subtracted each year from the integrated area under the flux CO2 curve, see (Prairie et al. 2017a). Another 
+approach, which is applied to derive Tier 1 emission factors, uses an empirical relationship between the derived 
+integrated decay curve and soil organic carbon stock as well as climate under the newly flooded area (Fig. 7A.6 
+and Equation 7A.3). The emissions attributable to the creation of the reservoir over a 100-year period are reported 
+as a constant rate over the first 20 years post-flooding. Accordingly, the rates of emissions are dependent on climate 
+and soil C content (to 30 cm depth) for the flooded area (see text in 7A.1.2 and Equation 7A.3 and section 7.3.2, 
+Equation 7.14). 
+Figure 7A.6 (New) 
+Relationship between CO2 surge estimates from the newly flooded 
+lands using the decay curve approach and the flooded soil organic 
+carbon stock approach. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.42 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7A.1.2.3 DATA SOURCES 
+Data sources and range of emission values (mg C-CH4 m-2 d-1) for directly measured CH4 emissions are in Table 
+7A.3. Data sources used to develop models (Equations 7A.1, 7A.2 and 7A.3) are largely overlapping and are in 
+Annex VI of Prairie et al. 2017b. These were used in section 7A.1.2.2 of this Annex to validate the Emission 
+Factors provided in Tables 7.9 and 7.15.   
+Data sources (including systems assessed and citations) for estimating the multiplier (RD, Table 7.10) which is the 
+ratio of total CH4 emissions (kg CH4-C yr-1) downstream of the reservoir (i.e. degassing at the dam and emissions 
+from the downstream river) to CH4 emissions from the surface of the reservoir (diffusion + ebullition; kg CH4-C 
+yr-1)  are in Table 7A.4. 
+TABLE 7A.3 (NEW) 
+DATA SOURCES USED FOR MODELLING CH4 EMISSIONS FROM RESERVOIRS WITHIN DIFFERENT CLIMATE ZONES. 
+Grouped 
+IPCC 
+Climate 
+Zone 
+Number of 
+systems with CH4 
+measurements in 
+category 
+Range of reported 
+emissions values 
+(mg C-CH4 m-2 d-1) 
+References 
+Polar moist, 
+boreal dry 
+and moist 
+6 
+0.4-13 
+(Tremblay et al. 2005), (Teodoru et al. 2012), (Demarty et al. 
+2011), (Demarty et al. 2009), (Brothers et al. 2012), (Kelly et al. 
+1994), (Roehm & Tremblay 2006), (Tadonléké et al. 2012), 
+(Duchemin et al. 1995), (Huttunen et al. 2002), (Fedorov et al. 
+2015) 
+Cool 
+temperate 
+moist and 
+dry* 
+16 
+0-360.7 
+(Harrison et al. 2017), (Matthews et al. 2005), (Hendzel et al. 
+2005), (Venkiteswaran Jason et al. 2013; Venkiteswaran et al. 
+2013), (Kelly et al. 1997), (Deemer et al. 2011), (Maeck et al. 
+2013), (Huttunen et al. 2002), (Gruca-Rokosz et al. 2011), 
+(Gruca-Rokosz et al. 2010), (Beaulieu et al. 2014a), (Beaulieu et 
+al. 2014b) 
+Warm 
+temperate 
+moist 
+14 
+2.5-176.0 
+(Rosa et al. 2004), (dos Santos et al. 2006), (Harrison et al. 
+2017), (Li et al. 2015), (Maeck et al. 2013),  (Gruca-Rokosz et 
+al. 2010), (Zhao et al. 2013), (Wu 2012), (Yang et al. 2013), 
+(Chen et al. 2011), (Lu et al. 2011), (Zhen 2012), (Xiao et al. 
+2013), (Zhu et al. 2013), (Zhao et al. 2015), (Li et al. 2014), 
+(Bevelhimer et al. 2016), (Mosher et al. 2015) 
+Tropical dry 
+and 
+montane 
+13 
+0.5-582.3 
+(Diem et al. 2012), (Ometto et al. 2013), (Pacheco et al. 2015), 
+(Roland et al. 2010), (Sturm et al. 2014),  (DelSontro et al. 
+2011), (Selvam et al. 2014), (Bansal et al. 2015), (DelSontro et 
+al. 2010), (Eugster et al. 2011), (Kumar & Sharma 2012), 
+(Teodoru et al. 2015), (Almeida et al. 2016)  
+Tropical wet 
+and moist 
+26 
+3.6-258.3 
+(Therrien et al. 2005), (Tremblay et al. 2005), (Bergström et al. 
+2004),  (Guérin et al. 2006), (Kemenes et al. 2007), (Kemenes et 
+al. 2011), (Musenze et al. 2014), (Rosa et al. 2004), (dos Santos 
+et al. 2006), (St. Louis et al. 2000), (Ometto et al. 2013), 
+(Bergier et al. 2011), (Duchemin et al. 2000), (Roland et al. 
+2010), (Keller & Stallard 1994), (Joyce & Jewell 2003), (Selvam 
+et al. 2014), (Deshmukh 2013), (Deshmukh et al. 2014), (Abril 
+et al. 2005), (Rosa et al. 2003), (Lima 2005), (Lima et al. 2002), 
+(Lima et al. 1998), (Marcelino et al. 2015) 
+ 
+ 
+ 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.43 
+TABLE 7A.4 (NEW) 
+RESERVOIRS AND CITATIONS FOR MEASURED RD VALUES 
+System Name 
+IPCC climate zone 
+*Citation 
+Eastmain-1 
+Boreal 
+(Teodoru et al. 2012) 
+Gruyere, Lake Grimsel, Lake 
+Luzzone, Lake Sihl, Wohlen, Serrig, 
+Dworshak 
+Cool temperate 
+(Diem et al. 2012), (DelSontro et al. 2016), 
+(Maeck et al. 2013), (Soumis et al. 2004) 
+F.D. Roosevelt, New Melones, 
+Wallula 
+Warm temperate dry 
+(Soumis et al. 2004) 
+William H Harsha Lake, Allatoona, 
+Douglas, Fontana, Guntersville, 
+Hartwell, Watts Bar, Eguzon, Oroville, 
+Shasta 
+Warm temperate moist 
+(Beaulieu et al. 2014b), (Bevelhimer et al. 2016), 
+(Descloux et al. 2017), (Soumis et al. 2004) 
+Lake Kariba, Xingó, Tehri 
+Tropical dry/montane 
+(DelSontro et al. 2011), (dos Santos et al. 2017), 
+(Kumar & Sharma 2016) 
+Nam Leuk, Nam Ngum, Funil, Itaipu, 
+Segredo, Serra da Mesa, Três Marias, 
+Petit Saut, Koombooloomba, Nam 
+Theun 2, Tucuruí, Samuel, Balbina 
+Tropical moist/wet 
+(Chanudet et al. 2011), (dos Santos et al. 2017), 
+(Abril et al. 2005), (Bastien & Demarty 2013), 
+(Deshmukh et al. 2016), (Serça et al. 2016), 
+(Guérin et al. 2006), (Kemenes et al. 2007) 
+*See references section for full citations. 
+7A.1.3 Other constructed waterbodies (agricultural ponds, 
+aquaculture ponds, canals and ditches) 
+Many forms of agricultural and silvicultural land management involve the creation of artificial waterbodies. For 
+example, ditches are often used for land drainage or irrigation; small constructed ponds are used for small scale 
+irrigation or as a water source for livestock; and canal systems are used for water level management, water transfers 
+and navigation. Aquaculture ponds and flooded pastures can occupy extensive areas on the landscape (Yang et al. 
+2017), (Kroeger et al. 2017). In settlements ponds may be created for recreation, aesthetics or stormwater 
+management. 
+Similar to reservoirs, CO2 emissions from smaller volume constructed waterbodies including ditches, canals, farm 
+ponds and aquaculture ponds, are the result of decomposition of soil organic matter and other organic matter within 
+the waterbody or entering the water from the catchment, as well as from biological components (e.g. fish). No 
+guidance is provided here since these emissions are either estimated elsewhere (e.g. as soil carbon loss) or represent 
+short-term natural carbon cycling (e.g. biological turnover). 
+CH4 emissions from small constructed waterbodies are primarily the result of new methanogenic production of 
+CH4 induced by anoxic conditions, which occurs when waterbodies have high organic matter loading and low 
+oxygen status. These conditions often occur in small constructed waterbodies, such as slow-flowing ditches (Evans 
+et al. 2016), agricultural ponds (Selvam et al. 2014) and aquaculture ponds (Robb et al. 2017), but may be lower 
+where mixing or aeration occurs as part of aquaculture management (e.g. (Vasanth et al. 2016) and are sensitive 
+to temperatures (Davidson et al. 2011).  Area-specific emissions from these constructed waterbodies may equal or 
+exceed those observed in small lakes and reservoirs (Bastviken et al. 2010); see above). Furthermore, the CH4 
+emissions from small constructed waterbodies are a direct consequence of the construction of the waterbody. 
+CH4 emission factors from small constructed waterbodies (Section 7.3.1.2, Table 7.12) are based on review of the 
+peer reviewed literature using appropriate search terms. Literature was obtained using Web of Science and Google 
+Scholar. In some cases (e.g. PhD Theses), data were obtained directly from authors. For each study or sites within 
+studies, a mean CH4 flux was extracted from tables, figures or text. Fluxes were converted to annual fluxes by 
+simple scaling (e.g. multiplying per day rates by 365 days), or if more information was provided (e.g. days per 
+aquaculture production cycle and production cycles per year), data were annualized using this additional 
+information. Methane emissions from land and water surfaces are rarely normally distributed within datasets due 
+to the heterogeneity of emission pathways and controlling factors, and data were therefore log-transformed during 
+the calculation of mean emission factors. The high variability and relatively small number of observations also 
+precluded estimation of separate Tier 1 EFs by climate zone or other factors (apart from waterbody type and (for 
+ponds) salinity), and 95% confidence intervals are correspondingly large. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.44 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+REFERENCES NEWLY CITED IN THE 2019 REFINEMENT 
+Abril G, Guérin F, Richard S, Delmas R, Galy-Lacaux C, Gosse P, Tremblay A, et al. (2005) Carbon dioxide and 
+methane emissions and the carbon budget of a 10-year old tropical reservoir (Petit Saut, French Guiana). Global 
+Biogeochemical Cycles 19: n/a-n/a. 
+Almeida RM, Nóbrega GN, Junger PC, Figueiredo AV, Andrade AS, de Moura CGB, Tonetta D, et al. (2016) 
+High Primary Production Contrasts with Intense Carbon Emission in a Eutrophic Tropical Reservoir. Frontiers 
+in Microbiology 7: 717. 
+Avnimelech Y, Ritvo G (2003) Shrimp and fish pond soils: processes and management. Aquaculture 220: 549-
+567. 
+Baker-Blocker A, Donahue TM, Mancy KH (1977) Methane flux from wetlands areas. Tellus 29: 245-250. 
+Bansal S, Chakraborty M, Katyal D, Garg JK (2015) Methane flux from a subtropical reservoir located in the 
+floodplains of river Yamuna, India. Appl. Ecol. Environ.   Res. 13. 
+Barros N, Cole JJ, Tranvik LJ, Prairie YT, Bastviken D, Huszar VLM, del Giorgio P, et al. (2011) Carbon emission 
+from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience 4: 593. 
+Bastien J, Demarty M (2013) Spatio-temporal variation of gross CO and CH diffusive emissions from Australian 
+reservoirs and natural aquatic ecosystems, and estimation of net reservoir emissions. Lakes Reserv Res Manage 
+18: 115-127. 
+Bastviken D (2009) Methane. In: Methane, pp. 783-805. Elsevier. 
+Bastviken D, Cole J, Pace M, Tranvik L (2004) Methane emissions from lakes: Dependence of lake characteristics, 
+two regional assessments, and a global estimate. Global Biogeochemical Cycles 18. 
+Bastviken D, Cole JJ, Pace ML, Van de Bogert MC (2008) Fates of methane from different lake habitats: 
+Connecting whole-lake budgets and CH4 emissions. J Geophys Res Biogeosciences 113. 
+Bastviken D, Santoro AL, Marotta H, Pinho LQ, Calheiros DF, Crill P, Enrich-Prast A (2010) Methane Emissions 
+from Pantanal, South America, during the Low Water Season: Toward More Comprehensive Sampling. 
+Environmental Science & Technology 44: 5450-5455. 
+Bastviken D, Tranvik LJ, Downing JA, Crill PM, Enrich-Prast A (2011) Freshwater Methane Emissions Offset 
+the Continental Carbon Sink. Science 331: 50-50. 
+Beaulieu JJ, Smolenski RL, Nietch CT, Townsend-Small A, Elovitz Michael S, Schubauer-Berigan JP (2014a) 
+Denitrification alternates between a source and sink of nitrous oxide in the hypolimnion of a thermally stratified 
+reservoir. Limnology and Oceanography 59: 495-506. 
+Beaulieu JJ, Smolenski RL, Nietch CT, Townsend-Small A, Elovitz MS (2014b) High methane emissions from a 
+midlatitude reservoir draining an agricultural watershed. Environ Sci Technol 48: 11100-11108. 
+Bergier I, Novo EMLM, Ramos FM, Mazzi EA, Rasera MFFL (2011) Carbon dioxide and methane fluxes in the 
+littoral zone of a tropical savanna reservoir (Corumbá, Brazil). Oecologia Australis 15: 666-681. 
+Bergström A-K, Algesten G, Sobek S, Tranvik L, Jansson M (2004) Emission of CO2 from hydroelectric reservoirs 
+in northern Sweden. Archiv für Hydrobiologie 159: 25-42. 
+Best EPH, Jacobs FHH (1997) The influence of raised water table levels on carbon dioxide and methane production 
+in ditch-dissected peat grasslands in the Netherlands. Ecological Engineering 8: 129-144. 
+Bevelhimer MS, Stewart AJ, Fortner AM, Phillips JR, Mosher JJ (2016) CO2 is Dominant Greenhouse Gas Emitted 
+from Six Hydropower Reservoirs in Southeastern United States during Peak Summer Emissions. Water 8. 
+Bogard MJ, del Giorgio PA, Boutet L, Chaves MCG, Prairie YT, Merante A, Derry AM (2014) Oxic water column 
+methanogenesis as a major component of aquatic CH4 fluxes. Nature Communications 5: 5350. 
+Bridgham SD, Cadillo-Quiroz H, Keller JK, Zhuang Q (2013) Methane emissions from wetlands: biogeochemical, 
+microbial, and modeling perspectives from local to global scales. Global Change Biology 19: 1325-1346. 
+Brothers Soren M, del Giorgio Paul A, Teodoru Cristian R, Prairie Yves T (2012) Landscape heterogeneity 
+influences carbon dioxide production in a young boreal reservoir. Canadian Journal of Fisheries and Aquatic 
+Sciences 69: 447-456. 
+Bussmann I (2005) Methane Release through Resuspension of Littoral Sediment. Biogeochemistry 74: 283-302. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.45 
+Camacho A, Picazo A, Rochera C, Santamans CA, Morant D, Miralles-Lorenzo J, Castillo-Escrivà A (2017) 
+Methane Emissions in Spanish Saline Lakes: Current Rates, Temperature and Salinity Responses, and 
+Evolution under Different Climate Change Scenarios. Water 9. 
+Cameron C, Hutley L, Friess D, McGuiness K. (2016) TAKING STOCK: Results from a carbon stock analysis of 
+natural and rehabilitated mangroves, Tiwoho (North Sulawesi). In. 
+Carlson RE (1977) A trophic state index for lakes. Limnol. Oceanogr. 361-369. 
+Casper P, Maberly SC, Hall GH, Finlay BJ (2000) Fluxes of methane and carbon dioxide from a small productive 
+lake to the atmosphere. Biogeochemistry 49: 1-19. 
+Castillo JAA, Apan AA, Maraseni TN, Salmo SG (2017) Soil greenhouse gas fluxes in tropical mangrove forests 
+and in land uses on deforested mangrove lands. Catena 159: 60-69. 
+Chamberlain SD, Boughton EH, Sparks JP (2015) Underlying Ecosystem Emissions Exceed Cattle-Emitted 
+Methane from Subtropical Lowland Pastures. Ecosystems 18: 933-945. 
+Chanudet V, Descloux S, Harby A, Sundt H, Hansen BH, Brakstad O, Serca D, et al. (2011) Gross CO2 and CH4 
+emissions from the Nam Ngum and Nam Leuk sub-tropical reservoirs in Lao PDR. Sci Total Environ 409: 
+5382-5391. 
+Chen H, Yuan X, Chen Z, Wu Y, Liu X, Zhu D, Wu N, et al. (2011) Methane emissions from the surface of the 
+Three Gorges Reservoir. Journal of Geophysical Research: Atmospheres 116. 
+Chen Y, Dong S, Wang Z, Wang F, Gao Q, Tian X, Xiong Y (2015) Variations in CO2 fluxes from grass carp 
+Ctenopharyngodon idella aquaculture polyculture ponds. Aquaculture Environment Interactions 8: 31-40. 
+Chistotin MV, Sirin, A. A., Dulov, L. E. (2006) Seasonal dynamics of carbon dioxide and methane emissions from 
+peatland of Moscow Region drained for peat extraction and agruculture use (in Russian). Agochemistry 6: 32-
+41. 
+Clow DW, Stackpoole SM, Verdin KL, Butman DE, Zhu Z, Krabbenhoft DP, Striegl RG (2015) Organic Carbon 
+Burial in Lakes and Reservoirs of the Conterminous United States. Environmental Science & Technology 49: 
+7614-7622. 
+Cole JJ, Caraco NF (2001) Carbon in catchments: connecting terrestrial carbon losses with aquatic metabolism. 
+Marine and Freshwater Research 52: 101-110. 
+Cunningham S, Mac Nally R, Griffioen P, White M. (2009) Mapping the Condition of River Red Gum and Black 
+Box Stands in The Living Murray Icon Sites. A Milestone Report to the Murray-Darling Basin Authority as 
+part of Contract MD1114. In. 
+Davidson EA, Samanta S, Caramori SS, Savage K (2011) The Dual Arrhenius and Michaelis–Menten kinetics 
+model for decomposition of soil organic matter at hourly to seasonal time scales. Global Change Biology 18: 
+371-384. 
+Deemer BR, Harrison JA, Li SY, Beaulieu JJ, Delsontro T, Barros N, Bezerra-Neto JF, et al. (2016) Greenhouse 
+Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis. Bioscience 66: 949-964. 
+Deemer BR, Harrison JA, Whitling EW (2011) Microbial dinitrogen and nitrous oxide production in a small 
+eutrophic reservoir: An in situ approach to quantifying hypolimnetic process rates. Limnology and 
+Oceanography 56: 1189-1199. 
+DelSontro T, Beaulieu JJ, Downing JA (2018) Greenhouse gas emissions from lakes and impoundments: 
+Upscaling in the face of global change. Limnology and Oceanography Letters 3: 64-75. 
+DelSontro T, Kunz MJ, Kempter T, Wüest A, Wehrli B, Senn DB (2011) Spatial Heterogeneity of Methane 
+Ebullition in a Large Tropical Reservoir. Environmental Science & Technology Environ. Sci. Technol. 
+Environmental Science & Technology 45: 9866-9873. 
+DelSontro T, McGinnis DF, Sobek S, Ostrovsky I, Wehrli B (2010) Extreme Methane Emissions from a Swiss 
+Hydropower Reservoir: Contribution from Bubbling Sediments. ENVIRONMENTAL SCIENCE & 
+TECHNOLOGY 44: 2419-2425. 
+DelSontro T, Perez KK, Sollberger Sb, Wehrli B (2016) Methane dynamics downstream of a temperate run-of-
+the-river reservoir. Limnology and Oceanography Limnol. Oceanogr. 61: S188-S203. 
+Demarty M, Bastien J, Tremblay A (2011) Annual follow-up of gross diffusive carbon dioxide and methane 
+emissions from a boreal reservoir and two nearby lakes in Quebec, Canada. Biogeosciences 8: 41-53. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.46 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Demarty M, Bastien J, Tremblay A, Hesslein RH, Gill R (2009) Greenhouse Gas Emissions from Boreal 
+Reservoirs in Manitoba and Quebec, Canada, Measured with Automated Systems. Environmental Science & 
+Technology 43: 8908-8915. 
+Descloux S, Chanudet V, Serça D, Guérin F (2017) Methane and nitrous oxide annual emissions from an old 
+eutrophic temperate reservoir. Science of The Total Environment 598: 959-972. 
+Deshmukh C (2013) Greenhouse gas emissions (CO2, CH4, and N2O) from a newly flooded hydroelectric reservoir 
+in subtropical South Asia: The case of Nam Theun 2 Reservoir, Lao PDR. PhD Thesis. Université Paul 
+Sabatier- Toulouse III  
+Deshmukh C, Guérin F, Labat D, Pighini S, Vongkhamsao A, Guédant P, Rode W, et al. (2016) Low methane 
+(CH4) emissions downstream of a monomictic subtropical hydroelectric reservoir (Nam Theun 2, Lao PDR). 
+Biogeosciences 13: 1919-1932. 
+Deshmukh C, Guérin F, Vongkhamsao A, Pighini S, Oudone P, Sopraseuth S, Godon A, et al. (2018) Carbon 
+dioxide emissions from the flat bottom and shallow Nam Theun 2 Reservoir: drawdown area as a neglected 
+pathway to the atmosphere. Biogeosciences 15: 1775-1794. 
+Deshmukh C, Serça D, Delon C, Tardif R, Demarty M, Jarnot C, Meyerfeld Y, et al. (2014) Physical controls on 
+CH4 emissions from a newly flooded subtropical freshwater hydroelectric reservoir: Nam Theun 2. 
+Biogeosciences 11: 4251-4269. 
+Diem T, Koch S, Schwarzenbach S, Wehrli B, Schubert CJ (2012) Greenhouse gas emissions (CO2, CH4, and N2O) 
+from several perialpine and alpine hydropower reservoirs by diffusion and loss in turbines. Aquatic Sciences 
+74: 619-635. 
+dos Santos MA, Damázio JM, Rogério JP, Amorim MA, Medeiros AM, Abreu JLS, Maceira MEP, et al. (2017) 
+Estimates of GHG emissions by hydroelectric reservoirs: The Brazilian case. Energy 133: 99-107. 
+dos Santos MA, Rosa LP, Sikar B, Sikar E, dos Santos EO (2006) Gross greenhouse gas fluxes from hydro-power 
+reservoir compared to thermo-power plants. Energy Policy 34: 481-488. 
+Duc NT, Crill P, Bastviken D (2010) Implications of temperature and sediment characteristics on methane 
+formation and oxidation in lake sediments. Biogeochemistry 100: 185-196. 
+Duchemin É, Lucotte M, Canuel R, Chamberland A (1995) Production of the greenhouse gases CH4 and CO2 by 
+hydroelectric reservoirs of the boreal region. Global Biogeochemical Cycles 9: 529-540. 
+Duchemin E, Lucotte M, Canuel R, Queiroz AG, Almeida DC, Pereira HC, Dezincourt J (2000) Comparison of 
+greenhouse gas emissions from an old tropical reservoir with those from other reservoirs worldwide. SIL 
+Proceedings, 1922-2010 27: 1391-1395. 
+Duchemin É, Luotte M, Canuel R, Soumis N (2006) First assessment of methane and carbon dioxide emissions 
+from shallow and deep zones of boreal reservoirs upon ice break‐up. Lakes & Reservoirs: Research & 
+Management 11: 9-19. 
+Eugster W, DelSontro T, Sobek S (2011) Eddy covariance flux measurements confirm extreme CH4 emissions 
+from a Swiss hydropower reservoir and resolve their short-term variability. Biogeosciences Discussions 8: 
+5019-5055. 
+Evans C, Morrison R, Burden A, Williamson J, Baird A, Brown E, Callaghan N, et al. (2017) Lowland peatland 
+systems in England and Wales – evaluating greenhouse gas fluxes and carbon balances. Final report on project 
+SP1210. In. 
+Evans CD, Renou-Wilson F, Strack M (2016) The role of waterborne carbon in the greenhouse gas balance of 
+drained and re-wetted peatlands. Aquatic Sciences 78: 573-590. 
+Fedorov MP, Elistratov VV, Maslikov VI, Sidorenko GI, Chusov AN, Atrashenok VP, Molodtsov DV, et al. (2015) 
+Reservoir Greenhouse Gas Emissions at Russian HPP. Power Technology and Engineering 49: 33-39. 
+Gagnon L, Bélanger C, Uchiyama Y (2002) Life-cycle assessment of electricity generation options: The status of 
+research in year 2001. Energy Policy 30: 1267-1278. 
+Goldenfum JA. (2010) GHG Measurement Guidelines for Freshwater Reservoirs. In: p. 138. London: The 
+International Hydropower Association (IHA). 
+Grinham A, Albert, S., Deering, N. (2018) Quantifying natural GHG sources and sinks: The role of regional small 
+water bodies. Review report. In: The University of Queensland. 
+Gruca-Rokosz, R. Czerwieniec, E., Tomaszek, A. J (2011) Methane emission from the Nielisz Reservoi. 
+Environment Protection Engineering 37: 101-109. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.47 
+Gruca-Rokosz R, Tomaszek J, Koszelnik P, Czerwieniec E (2010) Methane and carbon dioxide emission from 
+some reservoirs in SE Poland. Limnological Review 10: 15-21. 
+Gusmawati NF, Zhi C, Soulard B, Lemonnier H, Selmaoui-Folcher N (2016) Aquaculture Pond Precise Mapping 
+in Perancak Estuary, Bali, Indonesia. Journal of Coastal Research 75: 637-641. 
+Guérin F, Abril G, Richard S, Burban B, Reynouard C, Seyler P, Delmas R (2006) Methane and carbon dioxide 
+emissions from tropical reservoirs: Significance of downstream rivers. Geophysical Research Letters 33. 
+Hai L, Gang Z, Xuguang L, Jun Z, Tongqing Z, Guimin W (2013) Greenhouse gases emissions from pond culture 
+ecosystem of Chinese mitten crab and their comprehensive gloglobal warming potentials in summer. Journbal 
+of Fisheries in China 37: 417-424. 
+Harrison JA (2003) Nitrogen dynamics and greenhouse gas production in Yaqui Valley surface drainage waters. 
+PhD Thesis. Standford University. 
+Harrison JA, Deemer BR, Birchfield MK, O’Malley MT (2017) Reservoir Water-Level Drawdowns Accelerate 
+and Amplify Methane Emission. Environmental Science & Technology 51: 1267-1277. 
+Hélie J-F (2004) Géochimie et flux de carbone organique et inorganique dans les milieux aquatiques de l'est du 
+Canada : exemples du Saint-Laurent et du réservoir Robert-Bourassa : approche isotopique.  
+Hendriks DMD, van Huissteden J, Dolman AJ, van der Molen MK (2007) The full greenhouse gas balance of an 
+abandoned peat meadow. Biogeosciences 4: 411-424. 
+Hendzel LL, Matthews CJD, Venkiteswaran JJ, St. Louis VL, Burton D, Joyce EM, Bodaly RA (2005) Nitrous 
+Oxide Fluxes in Three Experimental Boreal Forest Reservoirs. Environmental Science & Technology 39: 4353-
+4360. 
+Holgerson MA, Raymond PA (2016) Large contribution to inland water CO2 and CH4 emissions from very small 
+ponds. Nature Geoscience 9: 222-226. 
+Houel S (2003) Dynamics of terrigenous organic matter in boreal reservoirs. PhD Thesis. University of Québec in 
+Montréal (UQAM). 
+Hu Z, Wu S, Ji C, Zou J, Zhou Q, Liu S (2016) A comparison of methane emissions following rice paddies 
+conversion to crab-fish farming wetlands in southeast China. Environmental Science and Pollution Research 
+23: 1505-1515. 
+Huang K-h (2016) Fluxes of methane in aquaculture ponds in southern Taiwan. Master Thesis. Master. University 
+of Taiwan. 
+Huttunen JT, Väisänen TS, Hellsten SK, Heikkinen M, Nykänen H, Jungner H, Niskanen A, et al. (2002) Fluxes 
+of CO2, CH4, and N2O in hydroelectric reservoirs Lokka and Porttipahta in the northern boreal zone in Finland. 
+Global Biogeochemical Cycles 16: 3-1-3-17. 
+ICOLD. (1988) International Commission on Large Dams, (1984) Word Register of Dams. 1984 Full Edition and 
+1988 Updating. In: Paris. 
+IPCC. (2014) 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. 
+Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (eds). In: 
+IPCC, Switzerland. 
+Isidorova A, Mendonça R, Sobek S (2019) Reduced Mineralization of Terrestrial OC in Anoxic Sediment Suggests 
+Enhanced Burial Efficiency in Reservoirs Compared to Other Depositional Environments. Journal of 
+Geophysical Research: Biogeosciences 124: 678-688. 
+Joyce J, Jewell PW (2003) Physical Controls on Methane Ebullition from Reservoirs and Lakes. Environmental 
+and Engineering Geoscience 9: 167-178. 
+Keller M, Stallard RF (1994) Methane emission by bubbling from Gatun Lake, Panama. Journal of Geophysical 
+Research: Atmospheres 99: 8307-8319. 
+Kelly CA, Rudd JWM, Bodaly RA, Roulet NP, St.Louis VL, Heyes A, Moore TR, et al. (1997) Increases in Fluxes 
+of Greenhouse Gases and Methyl Mercury following Flooding of an Experimental Reservoir. Environmental 
+Science & Technology 31: 1334-1344. 
+Kelly CA, Rudd JWM, St. Louis VL, Moore T (1994) Turning attention to reservoir surfaces, a neglected area in 
+greenhouse studies. Eos, Transactions American Geophysical Union 75: 332-333. 
+Kemenes A, Forsberg BR, Melack JM (2007) Methane release below a tropical hydroelectric dam. Geophys Res 
+Lett 34: n/a. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.48 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Kemenes A, Forsberg Bruce R, Melack John M (2011) CO2 emissions from a tropical hydroelectric reservoir 
+(Balbina, Brazil). Journal of Geophysical Research: Biogeosciences 116. 
+Kosten S, Weideveld S, Stepina T, Fritz C. (2018) Mid-term report. Monitoring Greenhouse gas emissions from 
+ditches in the Netherlands. In: Radboud Universiteit Nijmegen, Afdeling Aquatische Ecologie & 
+Milieubiologie,  Institute for Water & Wetland Research (IWWR. 
+Kroeger KD, Crooks S, Moseman-Valtierra S, Tang J (2017) Restoring tides to reduce methane emissions in 
+impounded wetlands: A new and potent Blue Carbon climate change intervention. Scientific Reports 7: 11914. 
+Kumar A, Sharma MP (2012) Greenhouse Gas Emissions from Hydropower Reservoirs. Hydro Nepal: Journal of 
+Water, Energy and Environment 11: 37-42. 
+Kumar A, Sharma MP (2016) Assessment of risk of GHG emissions from Tehri hydropower reservoir, India. 
+Human and Ecological Risk Assessment: An International Journal 22: 71-85. 
+Lehner B, Liermann, R. C, Revenga C, Vörösmarty, C., Fekete B, et al. (2011a) High-resolution mapping of the 
+worldÕs reservoirs and dams for sustainable river-flow management. Front Ecol Environ 9: 494-502. 
+Lehner B, Reidy Liermann C, Revenga C, Vorosmarty C, Fekete B, Crouzet P, Doll P, et al. (2011b) Global 
+Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01. In: Palisades, NY: NASA 
+Socioeconomic Data and Applications Center (SEDAC). 
+Li G, Wang XT, Yang Z, Mao C, West AJ, Ji J (2015) Dam-triggered organic carbon sequestration makes the 
+Changjiang (Yangtze) river basin (China) a significant carbon sink. Journal of Geophysical Research: 
+Biogeosciences J. Geophys. Res. Biogeosci. 120: 39-53. 
+Li Z, Zhang Z, Xiao Y, Guo J, Wu S, Liu J (2014) Spatio-temporal variations of carbon dioxide and its gross 
+emission regulated by artificial operation in a typical hydropower reservoir in China. Environmental 
+Monitoring and Assessment 186: 3023-3039. 
+Lima IBT (2005) Biogeochemical distinction of methane releases from two Amazon hydroreservoirs. 
+Chemosphere 59: 1697-1702. 
+Lima IBT, de Moraes Novo EML, Ballester MVR, Ometto JP. (1998) Methane production, transport and emission 
+in Amazon hydroelectric plants. in  in Geoscience and Remote Sensing Symposium Proceedings (IGARSS’98). 
+In: 1998 IEEE International 5, 2529–2531: IEEE. 
+Lima IBT, Victoria RL, Novo EMLM, Feigl BJ, Ballester MVR, Ometto JP (2002) Methane, carbon dioxide and 
+nitrous oxide emissions from two Amazonian Reservoirs during high water table. SIL Proceedings, 1922-2010 
+28: 438-442. 
+Liu H, Wu X, Li Z, Wang Q, Liu D, Liu G (2017) Responses of soil methanogens, methanotrophs, and methane 
+fluxes to land-use conversion and fertilization in a hilly red soil region of southern China. Environmental 
+Science and Pollution Research 24: 8731-8743. 
+Lorke A, Müller B, Maerki M, Wüest A (2003) Breathing sediments: The control of diffusive transport across the 
+sediment-water interface by periodic boundary-layer turbulence. Limnology and Oceanography Limnol. 
+Oceanogr. 48: 2077-2085. 
+Lowe L, Nathan R, Morden R (2005) Assessing the impact of farm dams on streamflows, Part II: Regional 
+characterisation. Australasian Journal of Water Resources 9: 13-26. 
+Lu F, Yang L, Wang X, Duan X, Mu Y, Song W, Zheng F, et al. (2011) Preliminary report on methane emissions 
+from the Three Gorges Reservoir in the summer drainage period. Journal of Environmental Sciences 23: 2029-
+2033. 
+Maeck A, DelSontro T, McGinnis DF, Fischer H, Flury S, Schmidt M, Fietzek P, et al. (2013) Sediment Trapping 
+by Dams Creates Methane Emission Hot Spots. Environmental Science & Technology 47: 8130-8137. 
+Marcelino AA, Santos MA, Xavier VL, Bezerra CS, Silva CRO, Amorim MA, Rodrigues RP, et al. (2015) 
+Diffusive emission of methane and carbon dioxide from two hydropower reservoirs in Brazil. Brazilian Journal 
+of Biology 75: 331-338. 
+Matthews CJD, Joyce EM, Louis VLS, Schiff SL, Venkiteswaran JJ, Hall BD, Bodaly RA, et al. (2005) Carbon 
+Dioxide and Methane Production in Small Reservoirs Flooding Upland Boreal Forest. Ecosystems 8: 267-285. 
+McNamara NP. (2013) CH4 emissions from ditches in a drained lowland peat Grassland, Somerset, UK. In: 
+Greenhouse gas emissions associated with non gaseous losses of carbon from peatlands – Fate of particulate 
+and dissolved carbon. Final Report to the Department for Environment, Food and Rural Affairs, Project SP1205. 
+In. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.49 
+McPhillips LE, Groffman PM, Schneider RL, Walter MT (2016) Nutrient Cycling in Grassed Roadside Ditches 
+and Lawns in a Suburban Watershed. Journal of Environmental Quality 45: 1901-1909. 
+Merbach W, Augustin J, Kalettka T, Jacob HJ (1996) Nitrous oxide and methane emissions from riparian areas of 
+ponded depressions of northeast Germany. Angewandte Botanik (Germany) 70: 134-136. 
+Mosher JJ, Fortner MA, Phillips RJ, Bevelhimer SM, Stewart JA, Troia JM (2015) Spatial and Temporal 
+Correlates of Greenhouse Gas Diffusion from a Hydropower Reservoir in the Southern United States. Water 
+7. 
+Musenze RS, Grinham A, Werner U, Gale D, Sturm K, Udy J, Yuan Z (2014) Assessing the Spatial and Temporal 
+Variability of Diffusive Methane and Nitrous Oxide Emissions from Subtropical Freshwater Reservoirs. 
+Environmental Science & Technology 48: 14499-14507. 
+Narvenkar G, Naqvi SWA, Kurian S, Shenoy DM, Pratihary AK, Naik H, Patil S, et al. (2013) Dissolved methane 
+in Indian freshwater reservoirs. Environmental Monitoring and Assessment 185: 6989–6999. 
+Natchimuthu S, Selvam BP, Bastviken D (2014) Influence of weather variables on methane and carbon dioxide 
+flux from a shallow pond. Biogeochemistry 119: 403-413. 
+Oertel C, Matschullat J, Zurba K, Zimmermann F, Erasmi S (2016) Greenhouse gas emissions from soils—A 
+review. Chemie der Erde - Geochemistry 76: 327-352. 
+Ometto JP, Cimbleris ACP, dos Santos MA, Rosa LP, Abe D, Tundisi JG, Stech JL, et al. (2013) Carbon emission 
+as a function of energy generation in hydroelectric reservoirs in Brazilian dry tropical biome. Energy Policy 
+58: 109-116. 
+Ottinger M, Clauss K, Kuenzer C (2017) Large-Scale Assessment of Coastal Aquaculture Ponds with Sentinel-1 
+Time Series Data. Remote Sensing 9. 
+Pacheco FS, Soares MCS, Assireu AT, Curtarelli MP, Roland F, Abril G, Stech JL, et al. (2015) The effects of 
+river inflow and retention time on the spatial heterogeneity of chlorophyll and water–air CO2 fluxes in tropical 
+hydropower reservoir. Biogeosciences 12: 147-162. 
+Peacock M, Ridley LM, Evans CD, Gauci V (2017) Management effects on greenhouse gas dynamics in fen 
+ditches. Science of The Total Environment 578: 601-612. 
+Pekel JF, Cottam A, Gorelick N, Belward AS (2016) High-resolution mapping of global surface water and its long-
+term changes. Nature 540: 418-422. 
+Poffenbarger HJ, Needelman BA, Megonigal JP (2011) Salinity Influence on Methane Emissions from Tidal 
+Marshes. Wetlands 31: 831-842. 
+Prairie Y, Alm J, Beaulieu J, Barros N, Battin T, Cole J, del Giorgio P, et al. (2017a) Greenhouse Gas Emissions 
+from Freshwater Reservoirs: What Does the Atmosphere See? Ecosystems. 
+Prairie Y, Alm J, Harby A, Mercier-Blais S, Nahas R. (2017b) The GHG Reservoir Tool (G-res) Technical 
+documentation, UNESCO/IHA research project on the GHG status of freshwater reservoirs. Version 1.12. In: 
+p. 76. 
+Ramsar. (2005) Information Sheet on Ramsar Wetlands (RIS) – 2009-2014 version. Categories approved by 
+Recommendation 4.7 (1990), as amended by Resolution VIII.13 of the 8 th Conference of the Contracting 
+Parties (2002) and Resolutions IX.1 Annex B, IX.6, IX.21 and IX. 22 of the 9th Conference of the Contracting 
+Parties (2005). In. 
+Ramsar. (2014) Ramsar COP11 Resolution XI.8, Annex 2, amended August 2014. Strategic Framework and 
+guidelines for the future development of the List of Wetlands of International Importance of the Convention 
+on Wetlands (Ramsar, Iran, 1971). 2012 edition adopted as Annex 2 to Resolution XI.8 at COP11, July 2012, 
+adapted to reflect the structure and numbering of the online version of the Ramsar Information Sheet (RIS), 
+August 2014. In. 
+Reeburgh WS (2007) Oceanic methane biogeochemistry. Chem Rev 107: 486-513. 
+Robb DHF, MacLeod M, Hasan MR, Soto D. (2017) Greenhouse gas emissions from aquaculture. A life cycle 
+assessment of three Asian systems. In: p. 101 pp. Rome: Food And Agriculture Organization Of The United 
+Nations. 
+Roehm C, Tremblay A (2006) Role of turbines in the carbon dioxide emissions from two boreal reservoirs, Québec, 
+Canada. Journal of Geophysical Research: Atmospheres 111. 
+Roland F, Vidal LO, Pacheco FS, Barros NO, Assireu A, Ometto JPHB, Cimbleris ACP, et al. (2010) Variability 
+of carbon dioxide flux from tropical (Cerrado) hydroelectric reservoirs. Aquatic Sciences 72: 283-293. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.50 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Rosa LP, dos Santos MA, Matvienko B, dos Santos EO, Sikar E (2004) Greenhouse Gas Emissions from 
+Hydroelectric Reservoirs in Tropical Regions. Climatic Change 66: 9-21. 
+Rosa LP, Dos Santos MA, Matvienko B, Sikar E, Lourenço Ronaldo Sérgio M, Menezes CF (2003) Biogenic gas 
+production from major Amazon reservoirs, Brazil. Hydrological Processes 17: 1443-1450. 
+Schrier-Uijl AP, Kroon PS, Leffelaar PA, van Huissteden JC, Berendse F, Veenendaal EM (2010) Methane 
+emissions in two drained peat agro-ecosystems with high and low agricultural intensity. Plant and Soil 329: 
+509-520. 
+Schrier-Uijl AP, Veraart AJ, Leffelaar PA, Berendse F, Veenendaal EM (2011) Release of CO2 and CH4 from 
+lakes and drainage ditches in temperate wetlands. Biogeochemistry 102: 265-279. 
+Schubert CJ, Diem T, Eugster W (2012) Methane Emissions from a Small Wind Shielded Lake Determined by 
+Eddy Covariance, Flux Chambers, Anchored Funnels, and Boundary Model Calculations: A Comparison. 
+Environmental Science & Technology 46: 4515-4522. 
+Selvam P, Natchimuthu S, Arunachalam L, Bastviken D (2014) Methane and carbon dioxide emissions from inland 
+waters in India – implications for large scale greenhouse gas balances. Global Change Biology 20: 3397-3407. 
+Serça D, Deshmukh C, Pighini S, Oudone P, Vongkhamsao A, Gu�dant P, Rode W, et al. (2016) Nam Theun 2 
+Reservoir four years after commissioning: significance of drawdown methane emissions and other pathways. 
+Hydroecol. Appl. 19: 119-146. 
+Shaikh M, Whyte J, Pobre L (2011) Desktop surveillance of farm dams Ð areas covered by Parkes and Braidwood 
+1:100,000 scale maps. Sydney: NSW Dept of Primary Industries, Office of Water. 
+Sherman B, Ford P, Hunt D, Drury C (2012) Reservoir Methane Monitoring and Mitigation - Little Nerang and 
+Hinze Dam Case Study. Brisbane: Urban Water Security Research Alliance. 
+Singh SN, Kulshreshtha K, Agnihotri S (2000) Seasonal dynamics of methane emission from wetlands. 
+Chemosphere - Global Change Science 2: 39-46. 
+Sirin AA, Suvorov GG, Chistotin MV, Glagolev MV (2012) Values of methane emission from drainage ditches. 
+Environmental Dynamics and Global Climate Change 3: 1-10. 
+Smith VH, Tilman GD, Nekola JC (1999) Eutrophication: impacts of excess nutrient inputs on freshwater, marine, 
+and terrestrial ecosystems. Environmental Pollution 100: 179-196. 
+Soumis N, Duchemin É, Canuel R, Lucotte, Marc (2004) Greenhouse gas emissions from reservoirs of the western 
+United States. Global Biogeochemical Cycles 18. 
+St. Louis VL, Kelly CA, Duchemin É, Rudd JWM, Rosenberg DM (2000) Reservoir Surfaces as Sources of 
+Greenhouse Gases to the Atmosphere: A Global EstimateReservoirs are sources of greenhouse gases to the 
+atmosphere, and their surface areas have increased to the point where they should be included in global 
+inventories of anthropogenic emissions of greenhouse gases. BioScience 50: 766-775. 
+Stadmark J, Leonardson L (2005) Emissions of greenhouse gases from ponds constructed for nitrogen removal. 
+Ecological Engineering 25: 542-551. 
+Strangmann A, Bashan Y, Giani L (2008) Methane in pristine and impaired mangrove soils and its possible effect 
+on establishment of mangrove seedlings. Biology and Fertility of Soils 44: 511. 
+Sturm K, Yuan Z, Gibbes B, Werner U, Grinham A (2014) Methane and nitrous oxide sources and emissions in a 
+subtropical freshwater reservoir, South East Queensland, Australia. Biogeosciences 11: 5245-5258. 
+Tadonléké RD, Marty J, Planas D (2012) Assessing factors underlying variation of CO2 emissions in boreal lakes 
+vs. reservoirs. FEMS Microbiology Ecology 79: 282-297. 
+Tangen BA, Finocchiaro RG, Gleason RA (2015) Effects of land use on greenhouse gas fluxes and soil properties 
+of wetland catchments in the Prairie Pothole Region of North America. Sci Total Environ 533: 391-409. 
+Teh YA, Silver WL, Sonnentag O, Detto M, Kelly M, Baldocchi DD (2011) Large Greenhouse Gas Emissions 
+from a Temperate Peatland Pasture. Ecosystems 14: 311-325. 
+Teodoru CR, Bastien J, Bonneville MC, Giorgio PA, Demarty M, Garneau M, Hélie JF, et al. (2012) The net 
+carbon footprint of a newly created boreal hydroelectric reservoir. Global Biogeochem Cycles 26. 
+Teodoru CR, Borges AV, Nyambe I (2015) Dynamics of greenhouse gases (CO2, CH4, N2O) along the Zambezi 
+River and major tributaries, and their  importance in the riverine carbon budget. Biogeosciences 12: 2431-2453. 
+ 
+Chapter 7: Wetlands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.51 
+Therrien J, Tremblay A, Jacques RB (2005) CO2 Emissions from Semi-Arid Reservoirs and Natural Aquatic 
+Ecosystems. In. Greenhouse Gas Emissions- Fluxes and Processes: Hydroelectric Reservoirs and Natural 
+Environments (eds. Tremblay, A., Varfalvy, L., Roehm, C. & Garneau, M.). 
+Tremblay A, Varfalvy L, Roehm C, Garneau M, Blain D (2005) GHG Emissions from Boreal Reservoirs and 
+Natural Aquatic Ecosystems. In: pp. 209-231. Tremblay, A., L. Varfalvy, C. Roehm & M. Garneau (Eds.). 
+Greenhouse Gas Emissions: Fluxes and Processes, Hydroelectric Reservoirs and Natural Environments. 
+Environmental Science Series, Springer, Berlin, Heidelberg, New York: Springer. 
+van Bergen TJHM (2015) Empirical modelling of temperature effects on the carbon metabolism of a eutrophic 
+city pond. Radboud University Nijmegen. 
+Van Den Pol-Van Dasselaar A, Van Beusichem ML, Oenema O (1999) Methane emissions from wet grasslands 
+on peat soil in a nature preserve. Biogeochemistry 44: 205-220. 
+Vasanth M, Muralidhar M, Saraswathy R, Nagavel A, Dayal JS, Jayanthi M, Lalitha N, et al. (2016) 
+Methodological approach for the collection and simultaneous estimation of greenhouse gases emission from 
+aquaculture ponds. Environ Monit Assess 188: 671. 
+Venkiteswaran Jason J, Schiff Sherry L, St. Louis Vincent L, Matthews Cory JD, Boudreau Natalie M, Joyce 
+Elizabeth M, Beaty Kenneth G, et al. (2013) Processes affecting greenhouse gas production in experimental 
+boreal reservoirs. Global Biogeochemical Cycles 27: 567-577. 
+Vermaat JE, Hellmann F, Dias ATC, Hoorens B, van Logtestijn RSP, Aerts R (2011) Greenhouse Gas Fluxes from 
+Dutch Peatland Water Bodies: Importance of the Surrounding Landscape. Wetlands 31: 493. 
+Wang D, Chen Z, Sun W, Hu B, Xu S (2009) Methane and nitrous oxide concentration and emission flux of 
+Yangtze Delta plain river net. Science in China Series B: Chemistry 52: 652-661. 
+WCD (2000) Dams and Development: A New Framework for Decision-Making (World commission on Dams). 
+London: Earthscan. 
+West WE, Creamer KP, Jones SE (2016) Productivity and depth regulate lake contributions to atmospheric 
+methane. Limnology and Oceanography 61. 
+Wik M, Thornton BF, Bastviken D, Uhlbäck J, Crill PM (2016) Biased sampling of methane release from northern 
+lakes: A problem for extrapolation. Geophysical Research Letters 43: 1256-1262. 
+Wu Y (2012) Greenhouse gas flux from newly created marshes in the drawdown area of the Three Gorges 
+Reservoir. Master Thesis. 
+Xiao S, Wang Y, Liu D, Yang Z, Lei D, Zhang C (2013) Diel and seasonal variation of methane and carbon dioxide 
+fluxes at site Guojiaba, the Three Gorges Reservoir. J Environ Sci (China) 25: 2065-2071. 
+Xiong Y, Wang F, Guo X, Liu F, Dong S (2017) Carbon dioxide and methane fluxes across the sediment-water 
+interface in different grass carp Ctenopharyngodon idella polyculture models. Aquaculture Environment 
+Interactions 9: 45-56. 
+Yang L, Lu F, Wang X, Duan X, Song W, Sun B, Chen S, et al. (2012) Surface methane emissions from different 
+land use types during various water levels in three major drawdown areas of the Three Gorges Reservoir. 
+Journal of Geophysical Research: Atmospheres 117. 
+Yang L, Lu F, Wang X, Duan X, Song W, Sun B, Zhang Q, et al. (2013) Spatial and seasonal variability of diffusive 
+methane emissions from the Three Gorges Reservoir. Journal of Geophysical Research: Biogeosciences 118: 
+471-481. 
+Yang P, Bastviken D, Lai DYF, Jin BS, Mou XJ, Tong C, Yao YC (2017) Effects of coastal marsh conversion to 
+shrimp aquaculture ponds on CH4 and N2O emissions. Estuarine, Coastal and Shelf Science. 
+Yang P, He Q, Huang J, Tong C (2015) Fluxes of greenhouse gases at two different aquaculture ponds in the 
+coastal zone of southeastern China. Atmos Environ 115: 269-277. 
+Yu Z, Wang D, Li Y, Deng H, Hu B, Ye M, Zhou X, et al. (2017) Carbon dioxide and methane dynamics in a 
+human‐dominated lowland coastal river network(Shanghai, China). Journal of Geophysical Research: 
+Biogeosciences 122: 1738-1758. 
+Yvon-Durocher G, Allen AP, Bastviken D, Conrad R, Gudasz C, St-Pierre A, Thanh-Duc N, et al. (2014) Methane 
+fluxes show consistent temperature dependence across microbial to ecosystem scales. Nature 507: 488-491. 
+Zhao Y, Sherman B, Ford P, Demarty M, DelSontro T, Harby A, Tremblay A, et al. (2015) A comparison of 
+methods for the measurement of CO2 and CH4 emissions from surface water reservoirs: Results from an 
+international workshop held at Three Gorges Dam, June 2012. Limnol. Oceanogr. Methods 13: 15-29. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.52 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Zhao Y, Wu BF, Zeng Y (2013) Spatial and temporal patterns of greenhouse gas emissions from Three Gorges 
+Reservoir of China. Biogeosciences 10: 1219-1230. 
+Zhen F. (2012) Greenhouse gas emisison from Three Gorges Reservoir (upper Zhongxian County). Postdoctoral 
+report. In: University of Chinese Academy of Sciences, China. 
+Zhu D, Chen H, Yuan X, Wu N, Gao Y, Wu Y, Zhang Y, et al. (2013) Nitrous oxide emissions from the surface 
+of the Three Gorges Reservoir. Ecological Engineering 60: 150-154. 
+Zhu L, Che X, Liu H, Liu X, Liu C, Chen X, Shi X (2016) Greenhouse gas emissions and comprehensive 
+greenhouse effect potential of Megalobrama amblycephala culture pond ecosystems in a 3-month growing 
+season. Aquaculture International 24: 893-902. 
+References copied from the 2006 IPCC Guidelines 
+Duchemin É, Luotte M, Canuel R, Soumis N (2006) First assessment of methane and carbon dioxide emissions 
+from shallow and deep zones of boreal reservoirs upon ice break‐up. Lakes & Reservoirs: Research & 
+Management 11: 9-19. 
+Goldenfum JA. (2010) GHG Measurement Guidelines for Freshwater Reservoirs. In: p. 138. London: The 
+International Hydropower Association (IHA). 

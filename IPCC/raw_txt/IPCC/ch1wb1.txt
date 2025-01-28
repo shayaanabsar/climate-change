@@ -1,0 +1,1172 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+M O D U L E  1
+E N E R G Y
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.1
+1
+ENERGY
+1.1
+Introduction
+This module gives instructions for estimating the emissions of SO2 and
+greenhouse gases from energy activities. It is divided into two main
+categories, fuel combustion and fugitive emissions.  Within these categories
+the divisions are made pragmatically using methodological criteria:
+•
+Fuel Combustion
+Tier 1 Methods
+- CO2 emissions
+Reference Approach
+By main source categories
+- Non-CO2 from fuel combustion by source categories
+Tier 2 Methods
+- Emissions from aircraft
+•
+Fugitive
+- Methane Emissions from Coal Mining and Handling
+- Methane Emissions from Oil and Natural Gas Activities
+- Ozone Precursors and SO2 from Oil Refining
+Estimation of emissions for the activity/source categories used in the
+following methodologies must be done using the definitions for these
+categories given in the Reporting Instructions, Volume 1.  These definitions
+have been carefully drafted to provide the maximum conformity with other
+international reporting systems and to minimise the risks of double
+counting.
+F U E L  C O M B U S T I O N  - T I E R  1
+1.2
+CO 2 Emissions
+The calculation of CO2 emissions from fuel combustion may be done at
+three different levels referred to as Tiers 1, 2 and 3 in the IPCC Guidelines.
+Tier 1 methods, described here, concentrate on estimating the emissions
+from the carbon content of fuels supplied to the country as a whole (the
+Reference Approach) or to the main fuel combustion activities (source
+categories).  This last method has been recently developed in parallel with
+its counterpart for estimating non-CO2 emissions from fuel combustion and
+responds to the need for emissions figures by sector for monitoring and
+abatement policy formulation.
+ENERGY
+1.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1 . 2 . 1 R e f e r e n c e  A p p r o a c h
+I n t r o d u c t i o n
+Carbon dioxide emissions are produced when carbon-based fuels are
+burned. National emissions estimates are made based on amounts of fuels
+used and the carbon content of fuels.
+Fuel combustion is widely dispersed throughout most activities in national
+economies and a complete record of the quantities of each fuel type
+consumed in each "end use" activity is a considerable task, which some
+countries have not undertaken. Fortunately, it is possible to obtain an
+accurate estimate of national CO2 emissions by accounting for the carbon in
+fuels supplied to the economy. The supply of fuels is simple to record and
+the statistics are more likely to be available in many countries.
+In accounting for fuels supplied it is important to distinguish between
+primary fuels (i.e. fuels which are found in nature such as coal, crude oil,
+natural gas), and secondary fuels or fuel products, such as gasoline and
+lubricants, which are derived from primary fuels.
+Accounting for carbon is based mainly on the supply of primary fuels and
+the net quantities of secondary fuels brought into the country.
+To calculate supply of fuels to the country you require the following data
+for each fuel and year chosen:
+•
+the amounts of primary fuels produced (production of secondary fuels
+is excluded)
+•
+the amounts of primary and secondary fuels imported
+•
+the amounts of primary and secondary fuels exported
+•
+the amounts of fuel used for international marine and aviation bunkers
+•
+the net increases or decreases in stocks of the fuels
+For each fuel, the production (where appropriate) and imports are added
+together and the exports, bunkers, and stock changes are subtracted to
+calculate the apparent consumption of the fuels.
+The manufacture of secondary fuels should be ignored in the main
+calculation, as the carbon in these fuels has already been accounted for in
+the supply of primary fuels from which they are derived. However,
+information on production of some secondary fuel products is required to
+adjust for carbon stored in these products.
+The procedure calculates the supply of primary fuels to the economy with
+adjustments for net imports (imports - exports), bunkers and stock changes
+in secondary fuels. It is important to note that, in cases where exports of
+secondary fuels exceed imports or stock increases exceed net imports,
+negative numbers will result. This is correct, and should not give rise to
+concern.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.3
+Three other important points influence the accounting methodology:
+•
+Stored carbon
+Not all fuel supplied to an economy is burned for heat energy.  Some
+is used as a raw material (or feedstock) for manufacture of products
+such as plastics or in a non-energy use (e.g. bitumen for road
+construction), without oxidation (emissions) of the carbon. This is
+called stored carbon, and is deducted from the carbon emissions
+calculation.  Estimation of the stored carbon requires data for fuel use
+by activities using the fuel as raw material. These requirements are
+explained later.
+•
+International Bunker fuels
+The procedures given for calculating emissions ensure that emissions
+from the use of fuels for international marine and air transport are
+excluded from national emissions totals.  However, for information
+purposes, the quantities and types of fuels delivered for international
+marine and aviation bunkers and the emissions should be separately
+reported.
+•
+Biomass fuels
+Biomass fuels are included in the national energy and CO2 emissions
+accounts for information only.  Within the energy module biomass
+consumption is assumed to equal its regrowth.  Any departures from
+this hypothesis are counted within the Land Use Change and Forestry
+module.
+D a t a  S o u r c e s
+Locally available data should be used wherever possible.  Energy data for a
+large number of countries are also published by the International Energy
+Agency and the United Nations Statistical Division.  See Reference Manual
+Chapter 1, Section 1-2.
+In addition to energy data, default emissions factors and other input
+assumptions are provided in the Workbook where available.  In calculating
+national emissions, users of this method are free to override any of these
+assumptions or recommendations if other information is preferred.
+Wherever 
+information 
+is 
+used 
+other 
+than 
+the 
+values
+recommended in the Workbook, this should be noted and
+documentation should be provided on the sources of the
+information.
+M e t h o d o l o g y
+The IPCC methodology breaks the calculation of carbon dioxide emissions
+from fuel combustion into 6 steps:
+Step 1: Estimate Apparent Fuel Consumption in Original Units
+Step 2: Convert to a Common Energy Unit
+Step 3: Multiply by Emission Factors to Compute the Carbon Content
+Step 4: Compute Carbon Stored
+ENERGY
+1.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+Step 5: Correct for Carbon Unoxidised
+Step 6: Convert Carbon Oxidised to CO2 Emissions
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-1: CO2 FROM ENERGY SOURCES (REFERENCE APPROACH)
+and AUXILIARY WORKSHEET 1-1: ESTIMATING CARBON STORED IN PRODUCTS  at
+the end of this module to enter the data for this submodule.
+This section provides step-by-step instructions for calculating emissions at
+the detailed fuels and fuel products level.
+Note that the main worksheet allows CO2 emissions from biomass fuels to
+be calculated but it does not include them in the national total.
+S T E P  1   E S T I M A T I N G  A P P A R E N T  F U E L
+C O N S U M P T I O N
+1
+Apparent consumption is the basis for calculating the carbon supply to
+the country.  To calculate apparent consumption (or total fuel supplied)
+for each fuel, enter the following data for primary fuels.
+• Production (Column A)
+• Imports (Column B)
+• Exports (Column C)
+• International Bunkers (Column D)
+• Stock Change (Column E)
+For secondary fuels and products, the only figures to be entered are:
+• Imports (Column B)
+• Exports (Column C)
+• International Bunkers (Column D)
+• Stock Change (Column E)
+These allow the overall calculation to account for all consumption.
+Amounts of all fuels can be expressed in joules (J), megajoules (MJ),
+gigajoules (GJ), terajoules (TJ), thousands of tonnes of oil equivalent (ktoe).
+Solid or liquid fuels can be expressed as thousands of tonnes (kt) and dry
+natural gas can be expressed as teracalories (Tcal) or cubic metres.
+Note that the figure for production of natural gas, used in the
+Worksheet 1-1, must not include quantities of gas vented, flared or re-
+injected into the well.
+If you report quantities of fuel expressed in energy units (terajoules, toe,
+etc.), you should ensure that the quantities have been calculated using the
+net calorific values (NCV) of the fuels concerned. NCV is sometimes
+referred to as the lower heating value (LHV). NCVs are approximately
+95 per cent of the gross calorific value (GCV) for liquid fossil, solid fossil
+and biomass fuels, and 90 per cent of the GCV for natural gas. For other
+fuels, you should determine if the figures have been derived using the net or
+gross calorific values  and make the conversion to NCV if necessary.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the
+end of this section to complete
+the inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+EXPORT DATA
+In some data sources, Exports are
+shown as a negative number. For
+this method, all Export data should
+be entered as positive.
+BUNKER FUEL
+Where indicated in Worksheet 1-1,
+(Sheet 1), enter the amount of a
+particular 
+fuel 
+consumed 
+as
+international bunker fuel (fuel used
+in international marine and aviation
+transportation).  The calculation of
+Apparent 
+Consumption 
+auto-
+matically excludes these quantities.
+Bunker 
+consumption 
+data 
+and
+related 
+emissions 
+are 
+listed
+separately in Worksheet 1-1, Sheets
+4 and 5, and follow the main steps as
+in the main Worksheet.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.5
+2
+When you have entered data in Columns A to E, calculate Apparent
+Consumption for each fuel using this formula:
+Apparent Consumption = Production + Imports - Exports - 
+International Bunkers - Stock Change
+Enter the result in Column F.
+Particular attention should be given to the algebraic sign of “stock
+change” as it is entered in Column E.  When more fuel is added to
+stock than is taken from it during the year there is a net stock build and
+the quantity is entered in Column E with a plus sign.  In the converse
+case (a stock draw) the quantity should be entered in Column E with a
+minus sign.  When calculating Apparent Consumption using the above
+formula the usual algebraic rules for combining signs should be used.
+S T E P  2   C O N V E R T I N G  T O  A  C O M M O N
+E N E R G Y  U N I T  ( T J )
+TABLE 1-1
+CONVERSION FACTORS
+UNIT
+CONVERSION FACTOR
+J, MJ or GJ
+Divide by the appropriate factor, 1012, 106 or 103 respectively,
+to convert to TJ.
+106 toe units
+Multiply by the conversion factor,
+41868 TJ/106 toe, to convert to TJ
+Tcal units
+Multiply by the conversion factor, 4.1868 TJ/Tcal.
+103 t
+The Net Calorific Value of each fuel should be used.  See box
+entitled “Net Calorific Values”.
+NOTE: When converting from 103 t, for Anthracite, Coking Coal, other Bituminous Coal, Sub-
+bituminous Coal and Lignite, separately shown Country Specific Net Calorific Values in the Reference
+Manual provide different conversion values for Production (Column A), Imports (Column B), and
+Exports (Column C). For these fuels, the user should calculate Apparent Consumption by converting
+Production, Imports, Exports, and Stock Changes to TJ first.  For International Bunkers (Column D)
+and Stock Change (Column E), use either a weighted average net calorific value or select a factor
+appropriate to the dominant source of supply.
+1
+Enter the conversion factor used for each fuel in Column G.
+Table 1-3 included here and other tables provided in the Reference
+Manual show net calorific values.
+2
+Multiply the Apparent Consumption by the relevant Conversion
+Factor (NCV or scaling factor) to give Apparent Consumption in
+terajoules. Enter the result in Column H.
+STOCK CHANGE DATA
+An increase in stock is a positive
+stock change and, since it is
+subtracted, will decrease Apparent
+Consumption; a stock reduction
+(use of fuel from existing stocks) is a
+negative value and will increase
+Apparent Consumption.
+NET CALORIFIC VALUES (NCV)
+The calorific value of a fuel is a
+measure of its value for heating
+purposes.  If NCVs are available for
+the fuels in your country, they
+should be used. Default NCVs for
+oil and coal products for many
+countries are provided in the
+Reference Manual (Volume 3). If
+NCVs for your country are not
+provided, select NCVs for a country
+that uses fuels similar to those used
+in your country.
+NCVs 
+for 
+Refined 
+Petroleum
+Products and some other products
+are shown in Workbook Table 1-3.
+In all cases, you should report the
+net calorific values which you have
+used in Column G.  If you use values
+other than those provided, please
+include a note explaining the source
+of the factors.
+ENERGY
+1.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 1-3
+SELECTED NET CALORIFIC VALUES
+Factors (TJ/103 tonnes)
+Refined Petroleum Products
+Gasoline
+44.80
+Jet Kerosene
+44.59
+Other Kerosene
+44.75
+Shale Oil
+36.00
+Gas/Diesel Oil
+43.33
+Residual Fuel Oil
+40.19
+LPG
+47.31
+Ethane
+47.49
+Naphtha
+45.01
+Bitumen
+40.19
+Lubricants
+40.19
+Petroleum Coke
+31.00
+Refinery Feedstocks
+44.80
+Refinery Gas
+48.15
+Other Oil Products
+40.19
+Other Products
+Coal Oils and Tars derived from Coking Coals
+28.00
+Oil Shale
+9.40
+Orimulsion
+27.50
+See the Greenhouse Gas Inventory Reference Manual for sources.
+S T E P  3   M U L T I P L Y I N G  B Y  C A R B O N
+E M I S S I O N  F A C T O R S
+1
+Enter the Carbon Emission Factor (CEF) which you are using to
+convert Apparent Consumption into Carbon Content in Column I.
+Table 1-2 shows default values which you can use if there are no locally
+available data.
+2
+Multiply the Apparent Consumption in TJ (in Column H) by the Carbon
+Emission Factor (in Column I) to give the Carbon Content in tonnes of
+C. Enter the result in Column J.
+4
+Divide Carbon Content in tonnes C by 103 to give gigagrams of
+Carbon. Enter the result in Column K.
+TABLE 1-2
+CARBON EMISSION FACTORS (CEF)
+Fuel
+Carbon Emission
+Factor (t C/TJ)
+LIQUID FOSSIL
+Primary fuels
+Crude oil
+20.0
+Orimulsion
+22.0
+Natural Gas Liquids
+17.2
+Secondary fuels/products
+Gasoline
+18.9
+Jet Kerosene
+19.5
+Other Kerosene
+19.6
+Shale Oil
+20.0
+Gas/Diesel Oil
+20.2
+Residual Fuel Oil
+21.1
+LPG
+17.2
+Ethane
+16.8
+Naphtha
+(20.0) (a)
+Bitumen
+22.0
+Lubricants
+(20.0) (a)
+Petroleum Coke
+27.5
+Refinery Feedstocks
+(20.0) (a)
+Refinery Gas
+18.2 (b)
+Other Oil
+(20.0) (a)
+SOLID FOSSIL
+Primary Fuels
+Anthracite
+26.8
+Coking Coal
+25.8
+Other Bituminous Coal
+25.8
+Sub-bituminous Coal
+26.2
+Lignite
+27.6
+Oil Shale
+29.1
+Peat
+28.9
+Secondary Fuels/Products
+BKB & Patent Fuel
+(25.8) (a)
+Coke Oven / Gas Coke
+29.5
+Coke Oven Gas
+13.0 (b)
+Blast Furnace Gas
+66.0 (b)
+GASEOUS FOSSIL
+Natural Gas (Dry)
+15.3
+BIOMASS
+Solid Biomass
+29.9
+Liquid Biomass
+(20.0) (a)
+Gas Biomass
+(30.6) (a)
+(a) This value is a default value until a fuel
+specific CEF is determined.  For Gas biomass,
+the CEF is based on the assumption that 50%
+of the carbon in the biomass is converted to
+methane and 50% is emitted as CO2.  The
+CO2 emissions from biogas should not be
+included in national inventories.  If biogas is
+released and not combusted 50% of the
+carbon content should be included as
+methane.
+(b) For use in the sectoral calculations.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.7
+5
+Calculate subtotals for Liquid, Solid, Gaseous, and Biomass Fuel
+categories, then add the subtotals for Solid Fossil, Liquid Fossil, and
+Gaseous Fossil Fuels to give the Total figure (Column K).  This is for
+information purposes only.
+S T E P  4   C A L C U L A T I N G  C A R B O N  S T O R E D
+Data, additional to those needed for calculating Apparent Consumption, are
+needed for this step (see box).  Use AUXILIARY WORKSHEET 1-1: ESTIMATING
+CARBON STORED IN PRODUCTS.
+1
+Estimating Fuel Quantities
+Bitumen and lubricants
+Add Domestic Production for Bitumen and Lubricants to the Apparent
+Consumption (shown in Column F of the main Worksheet 1-1) for these
+products and enter the sum in Column A of the Auxiliary Worksheet 1-1.
+Coal oils and tars
+For coking coal, the default assumption is that 6 per cent of the carbon in
+coking coal consumed is converted to oils and tars. Multiply the Apparent
+Consumption for coking coal (from Worksheet 1-1, Column F) by 0.06. If
+better information on production of coal oils and tars is locally available, this
+should be used and the source of the data noted.  Enter the result in
+Column A.
+Natural gas, LPG, Ethane, Naphtha and Gas/Diesel oil
+Estimate the amount of these fuels that is used as a feedstock for non-
+energy purposes and enter it in Column A.
+2
+Converting to TJ
+Insert the appropriate Conversion Factors in Column B.  Multiply Estimated
+Fuel Quantities (Column A) by the relevant Conversion Factor to give the
+Estimated Fuel Quantities in TJ. Enter the result in Column C of the
+Auxiliary Worksheet 1-1.
+3
+Calculating Carbon Content
+Multiply the Estimated Fuel Quantities in TJ (Column C) by the Emission Factor
+(in tonnes of carbon per terajoule) (Column D) to give the Carbon Content in
+tonnes C (Column E). Divide the figures by 103 to express the amount as
+gigagrams of carbon.  Enter the results in Column F of the Auxiliary
+Worksheet 1-1.
+4
+Calculating Actual Carbon Stored
+Multiply the Carbon Content (Column F) by the Fraction of Carbon Stored
+(Column G) to give the Carbon Stored. Enter the result in Column H of the
+Auxiliary Worksheet 1-1.
+When you have completed the Auxiliary Worksheet 1-1
+5
+Enter values for Carbon Stored for the relevant fuels/products in
+Column L of the main Worksheet 1-1.
+CALCULATING CARBON STORED
+To calculate carbon stored, it is
+necessary to work at a more
+detailed fuel product level.  In order
+to carry out this calculation, the
+user will have to provide some
+additional 
+information. 
+If 
+this
+information is not available or
+considered 
+credible, 
+you 
+may
+choose not to calculate stored
+carbon. This should be noted in the
+documentation of the submitted
+results.
+Use the Auxiliary Worksheet 1-1 at
+the end of this section for your
+calculations. The majority of stored
+carbon is accounted for using this
+list of fuels, but countries are
+encouraged to report carbon stored
+for any other fuels for which they
+have data.
+IF YOU DO NOT WISH TO
+CALCULATE STORED CARBON
+Skip Step 4, enter the values from
+Column 
+K 
+in 
+Column 
+M 
+of
+Worksheet 1-1, and continue with
+Step 5.
+ENERGY
+1.8
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+6
+Subtract the values for Carbon Stored (Column L) from Carbon
+Content (Column K) to give Net Carbon Emissions. Enter the results
+in Column M.
+S T E P  5   C O R R E C T I N G  F O R  C A R B O N
+U N O X I D I S E D
+1
+Enter values for Fraction of Carbon Oxidised in Column N of the
+Worksheet 1-1.  Table 1-4 provides information on typical values
+measured from coal facilities and suggests global default values for
+solid, liquid and gaseous fuels. If more specific information is locally
+available, this should be used and documented.
+2
+Multiply Net Carbon Emissions (Column M) by Fraction of Carbon
+Oxidised (Column N) and enter the result in Column O, Actual
+Carbon Emissions.
+S T E P  6   C O N V E R T I N G  T O  C O 2  E M I S S I O N S
+1
+Multiply Actual Carbon Emissions (Column O) by 44/12 to find Total
+Carbon Dioxide (CO2) emitted from fuel combustion. Enter the
+results in Column P.
+2
+The sum is total national emissions of carbon dioxide from fuel
+combustion.
+TABLE 1-4
+FRACTION OF CARBON OXIDISED
+Coal1
+0.98
+Oil and Oil products
+0.99
+Gas
+0.995
+Peat for electricity
+generation2
+0.99
+1
+This figure is a global average
+but varies for different types of
+coal, and can be as low as 0.91.
+2
+The fraction for peat used in
+households 
+may 
+be 
+much
+lower.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.9
+1 . 2 . 2  C O 2  E m i s s i o n s  b y  S o u r c e
+C a t e g o r i e s
+I n t r o d u c t i o n
+A sectoral breakdown of national CO2 emissions using the defined IPCC
+source categories is needed for monitoring and abatement policy
+discussions.  The IPCC Reference Approach provides a rapid estimate of
+the total CO2 emissions from fuels supplied to the country but it does not
+break down the emissions by sector.  The development of a Tier 1 method
+giving non-CO2 emissions from fuel combustion by sector (Worksheets 1-3
+and 1-4) has been extended to CO2 so that sectoral information can be
+obtained simply for this gas.  However, the simplicity of CO2 estimation and
+the special consideration given to CO2 emissions from biofuels means that
+the methodology for CO2 differs in a number of respects from that used
+for the non-CO2 gases.
+The more detailed calculations used for this approach are essentially similar
+in content to those used for the Reference Approach.
+C o m p l e t i n g  t h e  W o r k s h e e t s
+Use WORKSHEET 1-2:  STEP BY STEP CALCULATIONS, AUXILIARY WORKSHEET
+1-2: ESTIMATING CARBON STORED IN PRODUCTS AND WORKSHEET 1-2:
+OVERVIEW at the end of this module to enter the data for this submodule.
+This section provides step-by-step instructions for calculating emissions by
+fuels and for each of the main source categories. Furthermore, it provides
+instructions for the compilation of overview sheets.
+For each source category a list of the most common fuels consumed is
+provided in the work sheets. Extra fuels can be added on the blank lines at
+the bottom of the list and at the end of the Overview sheets, if necessary.
+W o r k s h e e t  1 - 2 :  S t e p  b y  S t e p  c a l c u l a t i o n s
+S T E P  1   E S T I M A T I N G  S E C T O R A L  F U E L
+C O N S U M P T I O N
+Enter the amount of each fuel consumed by sector in Column A.
+If you report quantities of fuel expressed in energy units (terajoules, toe,
+etc.), you should ensure that the quantities have been calculated using the
+net calorific values (NCV) of the fuels concerned. NCV is sometimes
+referred to as the lower heating value (LHV). NCVs are approximately
+95 per cent of the gross calorific value (GCV) for liquid fossil, solid fossil
+and biomass fuels, and 90 per cent of the GCV for natural gas.  For other
+fuels, you should determine if the figures have been derived using the net or
+gross calorific values and make the conversion to NCV if necessary.
+ENERGY
+1.10
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+Units
+Amounts of all fuels can be expressed in joules (J), megajoules (MJ),
+gigajoules (GJ), terajoules (TJ), thousands of tonnes of oil equivalent (ktoe).
+Solid or liquid fuels can be expressed as thousands of tonnes (kt) and dry
+natural gas can be expressed as teracalories (Tcal) or cubic metres (m3).
+Energy and Transformation Sector
+Special care needs to be taken when considering the fuel use of the Energy
+and Transformation sector so that double counting is avoided.
+Fuel use in the Energy and Transformation Sector can be divided into three
+groups:
+Transformation Sector
+1. Fuels transformed into secondary fuels by physical or chemical processes
+not involving combustion (e.g. crude oil to petroleum products in
+refineries, coal to coke and coke oven gas in coke ovens)
+2. Fuels combusted to generate electricity and/or heat (excluding fuels used
+for autoproduction of electricity and heat, which are reported in the
+sector where they are used)
+Energy Sector
+3. Fuels combusted by the energy (energy extraction and transformation)
+industries for heating, pumping, traction and lighting purposes (e.g.
+refinery gas for heating distillation columns, use of colliery methane at
+mines for heating purposes).
+In this worksheet only fuel use by Groups 2 and 3 (fuels that are
+combusted) are reported. However, see Step 4 for the reporting of
+lubricants used by the energy industries.  For emissions resulting from fuel
+use by Group 1 no worksheets are available.  They should be reported
+under the source/sink category 1B: Fugitive Emissions from Fuels.  It is most
+important that this distinction be appreciated.  The quantities of primary
+fuels reported in Column A will understate the quantities used for Group 1
+activities.  The reported quantities will cover only the combustion needs of
+these industries.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.11
+S T E P  2   C O N V E R T I N G  T O  A  C O M M O N
+E N E R G Y  U N I T  ( T J )
+1
+Enter the conversion factor to convert to terajoules in Column B.
+Workbook Table 1-3 and Reference Manual Table 1-2 show conversion
+factors.
+2
+Multiply the Consumption by the relevant Conversion Factor (NCV
+or scaling factor) to give Consumption in terajoules. Enter the result
+in Column C.
+S T E P  3   M U L T I P L Y I N G  B Y  C A R B O N
+E M I S S I O N  F A C T O R S
+1
+Enter the Carbon Emission Factor which you are using to convert
+Consumption into Carbon Content in Column D.
+Workbook Table 1-2 shows default values which you can use if there
+are no locally available data.
+2
+Multiply the Consumption in TJ (in Column C) by the Carbon
+Emission Factor (in Column D) to give the Carbon Content in
+tonnes of Carbon. Enter the result in Column E.
+4
+Divide Carbon Content in tonnes of Carbon by 103 to express as
+gigagrams of Carbon. Enter the result in Column F.
+S T E P  4   C A L C U L A T I N G  C A R B O N  S T O R E D
+For the calculation of carbon stored, fuels are distinguished into four groups.
+• 
+Fuels used as feedstocks, such as naphtha, natural gas, gas/diesel oil,
+LPG or ethane
+• 
+Lubricants
+• 
+Bitumen and Coal Tars
+• 
+Fuels for which no carbon is stored
+Fuels used as feedstocks, such as naphtha, natural gas,
+gas/diesel oil, LPG or ethane:
+This subsection on feedstocks applies only to the Industry Source Category.
+Additional data are needed for this step. Use AUXILIARY WORKSHEET 1-2:
+ESTIMATING CARBON STORED IN PRODUCTS.
+1
+Estimating Fuel Quantities
+Estimate the amount of fuel that is used as a feedstock for non-energy
+purposes and enter it in Column A of the Auxiliary Worksheet 1-2.
+2
+Converting to TJ
+Insert the appropriate Conversion Factors in Column B.  Multiply
+Feedstock Use (Column A) by the relevant Conversion Factor to give
+NET CALORIFIC VALUES (NCV)
+The calorific value of a fuel is a
+measure of its value for heating
+purposes.  If NCVs are available for
+the fuels in your country, they
+should be used. Default NCVs for
+oil and coal products for many
+countries are provided in the
+Reference Manual (Volume 3). If
+NCVs for your country are not
+provided, select NCVs for a country
+that uses fuels similar to those used
+in your country.
+NCVs 
+for 
+Refined 
+Petroleum
+Products and some other products
+are shown in Workbook Table 1-3.
+In all cases, you should report the
+conversion factors which you have
+used in Column B.  If you use values
+other than those provided, please
+include a note explaining the source
+of the factors.
+IF YOU DO NOT WISH TO
+CALCULATE STORED CARBON
+Skip Step 4, enter the values from
+Column F of Worksheet 1-2, in
+Column I and continue with Step 5.
+ENERGY
+1.12
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+the Feedstock Use in TJ. Enter the result in Column C of the
+Auxiliary Worksheet 1-2.
+3
+Calculating Carbon Content
+Multiply the Feedstock Use in TJ (Column C) by the Emission Factor (in
+tonnes of carbon per terajoule) (Column D) to give the Carbon Content
+in tonnes C (Column E). Divide the figures by 103 to express the amount
+as gigagrams of carbon.  Enter the results in Column F of the Auxiliary
+Worksheet 1-2.
+4
+Calculating Actual Carbon Stored
+Multiply the Carbon Content (Column F) by the Fraction of Carbon
+Stored (Column G) to give the Carbon Stored. Enter the result in
+Column H of the Auxiliary Worksheet 1-2.
+When you have completed the Auxiliary Worksheet 1-2
+5
+Do not fill in Column G of main Worksheet 1-2. Enter the amount of
+Carbon Stored for the relevant fuel/product in Column H of
+Worksheet 1-2 for the Industry Source Category, in the cells marked
+with (b). Fill in any other cells in Column H for products for which
+you have information on carbon storage.
+6
+Subtract the amount of Carbon Stored (Column H) from the Carbon
+Content (Column F) to give Net Carbon Emissions. Enter the results
+in Column I.
+Lubricants:
+It has been estimated that during the first use, recycling and final
+disappearance of lubricants, approximately half of the production is oxidised
+as CO2.
+1
+For each sector where lubricants are used, enter the Fraction of
+Carbon Stored for lubricants in Column G.  If better information is
+not available use 0.5 as a default value.
+2
+Multiply the Carbon Content (Column F) by the Fraction of Carbon
+Stored (Column G) to obtain the amount of Carbon Stored. Enter
+the result in Column H.
+3
+Subtract the amount of Carbon Stored (Column H) from the Carbon
+Content (Column F) to obtain the Net Carbon Emissions. Enter the
+result in Column I.
+Bitumen and Coal Tars:
+Bitumen and coal tars are usually not combusted but used in a manner that
+stores almost all of the carbon. Therefore, in contrast to the IPCC
+Reference Approach, bitumen and coal tars do not figure in the list of CO2
+emitting fuels.  Emissions of NMVOCs from the use of bitumen for road
+paving are estimated in the Industrial Processes Chapter.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.13
+Fuels for which no carbon is stored:
+Skip Step 4, enter the values from Column F in Column I, and continue with
+Step 5.
+S T E P  5   C O R R E C T I N G  F O R  C A R B O N
+U N O X I D I S E D
+1
+Enter values for Fraction of Carbon Oxidised in Column J of the
+Worksheet 1-2. Workbook Table 1-4 provides information on typical
+values measured from coal facilities and suggests global default values
+for solid, liquid and gaseous fuels. If more specific information is
+locally available, this should be used and documented.
+2
+Multiply Net Carbon Emissions (Column I) by Fraction of Carbon
+Oxidised (Column J) and enter the result in Column K, Actual
+Carbon Emissions.
+S T E P  6   C O N V E R T I N G  T O  C O 2  E M I S S I O N S
+1
+Multiply Actual Carbon Emissions (Column K) by 44/12 to find Actual
+Carbon Dioxide (CO2) Emissions. Enter the results in Column L.
+W o r k s h e e t  1 - 2 :  O v e r v i e w
+1
+For each fuel for which you estimated sectoral CO2 emissions, copy
+the Fuel Consumption in terajoules (from Column C in Worksheet
+1-2: Step By Step Calculations) and the Actual CO2 emissions (from
+Column L in Worksheet 1-2: Step By Step Calculations) into the
+corresponding column and row of Worksheet 1-2: Overview.
+2
+Calculate the total Fuel Consumption and CO2 Emissions of Liquid
+Fossil Fuels by adding horizontally the numbers from Column A:
+Crude Oil to Column O: Refinery Gas in Worksheet 1-2: Overview.
+If you supplied any additional Liquid Fossil Fuels to Worksheet 1-2:
+Overview in any of the Columns AG to AK, add these as well. Enter
+the result in Column AL.
+3
+Calculate the total Fuel Consumption and CO2 Emissions of Solid
+Fossil Fuels (or from fuels derived from solid fuels) by adding
+horizontally the numbers from Column P: Anthracite to Column AC:
+Blast Furnace Gas in Worksheet 1-2: Overview. If you supplied any
+additional Solid Fossil Fuels to Worksheet 1-2: Overview in any of the
+Columns AG to AK, add these as well. Enter the result in
+Column AM.
+4
+Calculate the total Fuel Consumption and CO2 Emissions of Gaseous
+Fossil Fuels by copying the numbers from Column AD: Natural Gas in
+Worksheet 1-2: Overview. Enter the result in Column AN.
+5
+Calculate the total Fuel Consumption and CO2 Emissions of Other
+Fuels by adding horizontally the numbers from Column AE: Municipal
+Solid Waste and from Column AF: Industrial Waste in Worksheet
+1-2: Overview. Enter the result in Column AO.
+ENERGY
+1.14
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+6
+Calculate the total Fuel Consumption and CO2 Emissions of Fuels by
+adding horizontally the numbers from Column AL: Total Liquid Fossil
+to Column AO: Total Other Fuels in Worksheet 1-2: Overview.
+Enter the result in Column AP.
+7.
+Calculate the total Fuel Consumption and CO2 Emissions of Biomass
+by adding horizontally the numbers from Column AQ: Wood/Wood
+Waste to Column AU: Gaseous Biomass.  Enter the result in
+Column AV: Total Biomass.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.15
+1.3
+Non-CO 2 from Fuel Combustion by
+Source Categories
+I n t r o d u c t i o n
+The purpose of a Tier 1 approach is to assist countries that can not access
+detailed fuel use and technology data in developing emission inventories.
+Consequently, the Tier 1 approach should enable at least rough emission
+estimations of CH4, N2O, NOx, CO and NMVOC using energy statistics,
+and of SO2 by using additional assumptions on the sulphur content of the
+fuels.
+The Tier 1 methodology for non-CO2 gases estimates emissions by applying
+emission factors to fuel statistics which are organised by sector. In reality,
+emissions of these gases depend on the fuel type used, combustion
+technology, operating conditions, control technology, and on maintenance
+and age of the equipment.  However, since it is unlikely that many countries
+will have this detailed data, the Tier 1 methodology ignores these
+refinements.
+Countries wishing to make more detailed emission estimations may use the
+Tier 2 method described in Section 1.4.2 of the Reference Manual.  A third
+option which may be used (Tier 3) is the CORINAIR 94 methodology which
+is described in the EEA TF Emission Inventory Guidebook and is available on
+CD-ROM1.
+D a t a  s o u r c e s
+Locally available data should be used wherever possible.  Energy data for a
+large number of countries are published by the International Energy Agency
+and the United Nations Statistical Division.  See Section 1.2 of the Reference
+Manual. However, users of international statistics should bear in mind that
+the recent changes to the definitions of the manufacturing sector and
+energy transformation sector mean that the figures given within the
+international compendia no longer correspond to the activities covered in
+these sectors according to the IPCC and CORINAIR definitions.  See
+Reference Manual Section 1.1.1.
+Section 1.4.2 provides average non-CO2 emission factors for the agreed
+IPCC source categories together with additional information on the range
+of these factors and their use. The proposed values are based on emission
+factors included in Radian Corporation (1990), US EPA (1995), the EDGAR
+database2, the CORINAIR 1990 database and scientific reports from
+                                                  
+     1 The CD-ROM may be obtained by contacting the European
+Environment Agency, Kongens Nytorv 6, 1050 Copenhagen, Denmark.
+     2 EDGAR Version 2.0 was developed by TNO and RIVM and is a set of
+global emission inventories of greenhouse gases and ozone-depleting
+substances for all anthropogenic and most natural sources on a per country
+basis and on 1° x 1° grid (Olivier et al., 1995).
+In the Tier 1 method for non-CO2
+gases, the fuels are aggregated into the
+following main groups:
+• • 
+coal
+• • 
+natural gas
+• 
+oil
+gasoline for transport
+diesel oil for transport
+other oil products
+• 
+biomass
+wood/wood waste
+charcoal
+other biomass and wastes*
+Note:  Refer to Section 1.2 Common Reporting
+Framework in the Reporting Instructions for
+details on which products are included in each of
+the main groups.
+* Includes dung, agricultural, municipal and
+industrial wastes, bagasse and agricultural
+residues.
+ENERGY
+1.16
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+different countries.  SO2 emission factors are estimated using a formula
+based on sulphur content in the fuel. The compilation of default factors for
+biomass fuels in the “Other Sectors” has been based on measurement data
+reported by Smith and Ramakrishna (1990), Berdowski et al. (1993), Delmas
+(1993), Smith et al. (1993), Delmas et al. (1995), Veldt and Berdowski
+(1995) and Brocard et al. (1996).  For aircraft, the emission factors for the
+Tier 1 approach are based on the fleet average values of NOX, CO and
+NMVOC of the global inventories compiled by NASA, ECAC/ANCAT,
+WSL and NLR [Wuebbles et al. (1993);  Olivier (1995);  Brok (1995)].
+The default emission factors are internally consistent and it is essential to
+preserve this consistency when replacing the default by local values so that
+total emissions of carbon (for example) do not exceed the carbon available
+in the fuel.
+When information is used that differs from values recommended in the
+Workbook/Reference Manual, this should be noted and documentation should
+be provided on the sources of the information.
+1 . 3 . 1 M e t h o d o l o g y  f o r  C H 4 ,  N 2 O ,  N O x ,
+C O ,  N M V O C
+The calculation of non-CO2 Greenhouse gases (CH4, N2O, NOx, CO,
+NMVOC) is broken into 3 steps:
+Step 1: Estimate annual fuel consumption per sector in energy units
+Step 2: Estimate emission factors for each fuel per sector
+Step 3: Estimate the emissions
+Repeat Steps 2 and 3 for each gas (CH4, N2O, NOx, CO and NMVOC).
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-3:  NON-CO2 FROM FUEL COMBUSTION BY SOURCE
+CATEGORIES (TIER 1) to enter the data for CH4, N2O, NOx, CO and
+NMVOC.
+S T E P  1   E S T I M A T E  A N N U A L  F U E L
+C O N S U M P T I O N  P E R  S E C T O R  I N  E N E R G Y
+U N I T S
+1
+Enter the fuel consumption (in TJ) in Columns A1 to A6.  All fuels
+combusted in the country should be included in the calculation.  As
+far as possible, the fuels used for international aviation bunkers and
+international marine bunkers are to be reported separately as memo
+items.
+In national statistics, annual consumption of fuels can be expressed in
+energy units or mass units. Gaseous fuels may be expressed in volume
+units.  The fuel consumption should be converted to energy units
+using the net calorific value (or lower heating value).  These
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.17
+conversions are described in Section 1.2.1 Reference Approach in the
+Workbook.
+It is highly recommended that fuel consumption be split by main
+activities (see box) because emissions of non-CO2 GHGs vary
+strongly with combustion technology and operating conditions.
+2
+Calculate total fuel consumption for each fuel by summing the sectors
+in Column A.  International bunkers should not be included in the
+totals.
+S T E P  2   E S T I M A T E  E M I S S I O N  F A C T O R S  F O R
+E A C H  F U E L  P E R  S E C T O R
+Photocopy the worksheet with Step 2 five times and fill it out for each of
+the gases (CH4, N2O, NOx, CO and NMVOC).
+1
+Enter the emission factors (in kg/TJ) for each fuel and activity in the
+Columns B1 to B6.  Default values have been provided in Section 1.4.2
+of the Reference Manual.
+The default values for international bunkers are the emission factors
+that are proposed for Aviation and Navigation.  For activities in
+“Other (not elsewhere specified)”, use emission factors according to
+the type of activity.
+S T E P  3   E S T I M A T E  T H E  E M I S S I O N S  F O R  E A C H
+G A S
+Photocopy the worksheet with Step 3 five times and fill it out for each of
+the gases (CH4, N2O, NOx, CO and NMVOC).
+1
+Multiply fuel consumption (Column A, Sheet 1) by the emission
+factors (Column B, Sheet 2).  Enter the results in Column C, Sheet 3.
+The calculation is Ci = Ai x Bi.
+2
+Calculate total emissions for each fuel by summing the sectors in
+Column C.  Emissions from international bunkers should not be
+included in the totals.
+3
+Calculate the total emissions (Column D) as the sum of Columns
+C1 to C6.
+1 . 3 . 2 M e t h o d o l o g y  f o r  S O 2
+SO2 emissions are related to the composition of fuels, not to combustion
+technologies.  The IPCC Tier 1 methodology proposes to split the fuels
+according to the sulphur content of the fuels and breaks the calculation
+down into 3 steps:
+Step 1:
+Estimate annual fuel consumption in energy units
+Step 2:
+Estimate the SO2 emission factors
+Step 3:
+Estimate the emissions
+ENERGY INDUSTRIES
+Manufacturing Industries and
+Construction
+• • 
+Transport
+Domestic Aviation
+Road
+Railways
+National Navigation
+• • 
+Other Sectors
+Commercial/Institutional
+Residential
+Agriculture/ Forestry/ Fishing
+Stationary
+Mobile
+ENERGY
+1.18
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+This method can be applied once for total fuel consumption or can be
+repeated for each sector.  Photocopy the sheets as many times as there are
+sectors to be calculated.  If the calculations are done by sector, care must
+be taken to account for all national fuel consumption.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-4:  SO2 EMISSIONS FROM FUEL COMBUSTION BY SOURCE
+CATEGORIES (TIER 1) to enter the data for SO2.
+S T E P  1   E S T I M A T E  A N N U A L  F U E L
+C O N S U M P T I O N  I N  E N E R G Y  U N I T S
+1
+Enter the fuel consumption by fuel type (in TJ) in Column A.  All fuels
+combusted in the country should be included in the calculation.  The
+fuels used for international aviation bunkers and international marine
+bunkers are to be reported separately as memo items.
+2
+Calculate total fuel consumption by summing the fuel types in
+Column A.  International bunkers should not be included in the totals.
+S T E P  2   E S T I M A T E  T H E  S O 2  E M I S S I O N
+F A C T O R S
+Default values for the following items are available in Section 1.4.2.6 of the
+Reference Manual.
+1
+Estimate the sulphur content of each fuel (expressed as a percentage
+for all fuels except natural gas) in Column B.  The sulphur content of
+natural gas should be expressed in g/m3 and not in per cent.
+2
+Estimate the sulphur retention in ash (in %) in Column C.
+3
+Estimate the abatement efficiency (in %) in Column D.
+4
+Estimate the net calorific value (expressed in TJ/kt for all fuels except
+natural gas) in Column E.  The net calorific value of natural gas should
+be expressed in kJ/m3.
+5
+For all fuels except natural gas, calculate the SO2 emission factor as:
+2 times [% sulphur content (Column B) / 100] times [1 / net calorific
+value (Column E)] times 106 times [[100 - % sulphur retention in ash
+(Column C)] / 100] times [[100 - % abatement efficiency (Column D)]
+/ 100].  Enter the results in Column F.
+Since the sulphur content of natural gas is expressed in g/m3 and not
+in per cent, calculate the SO2 emission factor as: 2 times % sulphur
+content (Column B) times [1 / net calorific value (Column E)] times
+106 times [[100 - % sulphur retention in ash (Column C)] / 100]
+times [[100 - % abatement efficiency (Column D)] / 100].
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.19
+S T E P  3   E S T I M A T E  T H E  E M I S S I O N S
+1
+For each fuel, multiply the fuel consumption (Column A) by the
+calculated SO2 emission factor (Column F).  Enter the results in
+Column G.
+2
+Calculate the total emissions by summing the fuel types in Column G.
+Emissions from international bunkers should not be included in the
+totals.
+ENERGY
+1.20
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+F U E L  C O M B U S T I O N  - T I E R  2
+1.4
+Emissions from Aircraft
+I n t r o d u c t i o n
+Emissions from aircraft come from jet kerosene and aviation gasoline which
+are used as fuel for the aircraft.  Non-CO2 emissions vary significantly with
+operating mode and engine design.  Reliable estimates of non-CO2 gases
+from aircraft require a detailed consideration of the characteristics of the
+fleet, type and amount of fuel consumed and the Time-in-Modes (or TIM) of
+specific aircraft fleet using national airports.
+This Tier 2 methodology is applicable only for jet fuel used in jet engines.
+Aviation gasoline is used only in very small aircraft and generally represents
+less than 1 per cent of fuel consumption for aviation.
+For the purposes of the emissions inventory a distinction is made between
+domestic and international flights.
+• Domestic aviation (1 A 3 a ii) includes all civil domestic passenger and
+freight traffic inside a country.  All flight stages between two airports in
+one country are considered domestic no matter the nationality of the
+carrier or the subsequent destination of the aircraft.3
+• International aviation (1 A 3 a i) includes all civil air traffic coming to or
+leaving a country.  It is assumed that the number of out-bound flights
+equals the number of in-bound flights.
+• LTOs take the classification (domestic or international) of the flight stage
+to which they belong.  As most flights are regarded as return flights, fuel
+used during landing and take-off will be regarded as equal to a take-off
+and landing.
+                                                  
+     3 If an aircraft goes from one airport in one country to another in the
+same country and then leaves for a third airport in another country, the
+first flight stage is considered a domestic trip while the second is considered
+an international trip.  It is not important whether the airport is a domestic
+or an international airport.  In addition, the type of activity (LTO, cruise,
+domestic, international) is independent of the nationality of the carrier. This
+treatment of domestic and international differs from that recommended to
+States by the International Civil Aviation Organisation (ICAO,1994).  ICAO
+defines as domestic all flight stages flown between domestic points by an
+airline registered in that State and therefore excludes flights between
+domestic points by foreign airlines.

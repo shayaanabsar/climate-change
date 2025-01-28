@@ -1,0 +1,717 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.1
+G L O S S A R Y
+Starred items (*) in the definitions denote headings appearing elsewhere in this Glossary.
+Activity data
+Data on the magnitude of human activity resulting in emissions or removals
+taking place during a given period of time. In the energy sector for example,
+the annual activity data for fuel combustion sources are the total amounts
+of fuel burned. Annual activity data for methane emissions from enteric
+fermentation are the total number of animals being raised, by species.
+Adipic acid
+A material primarily used in the chemical industry as an intermediate step in
+the production of nylon. The process of producing adipic acid also produces
+nitrous oxide (N2O) as a by-product.
+Afforestation
+Planting of new forests on lands which, historically, have not contained
+forests. These newly created forests are included in the category Changes
+in Forest and Other Woody Biomass Stocks in the Land Use Change and
+Forestry module of the emissions inventory calculations.
+See also Reforestation.
+Alcohol
+For the purposes of the inventory preparation alcohols include methyl
+alcohol (methanol), ethyl alcohol (ethanol) and tertiary butyl alcohol (TBA)
+(2-methyl propan-2-ol).
+Alcohol produced from non-biomass sources for use as a blending
+component in fuels should be included with refinery feedstocks figures in
+the inventory.
+Bio-alcohol used in fuels should be reported as a liquid biomass for
+information only.
+Anaerobic
+Conditions in which oxygen is not readily available. These are important for
+the production of methane emissions. Whenever organic material
+GLOSSARY
+G L O SSAR Y.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+decomposes in anaerobic conditions (in landfills, flooded rice fields, etc.)
+methane is likely to be formed.
+Andosol
+A soil developed in volcanic ash.  Generally Andosols have good drainage
+and are prone to fertility problems
+Anthracite
+A high rank coal with generally less than 10 per cent volatile matter.
+Anthropogenic
+Man-made, resulting from human activities. In the Guidelines, anthropogenic
+emissions are distinguished from natural emissions. Many of the greenhouse
+gases are emitted naturally. It is only the man-made increments over natural
+emissions which may be perturbing natural balances.
+API Gravity
+(American Petroleum Institute Gravity).  A measurement scale, related to
+density, for crude oil or other liquid hydrocarbons, based on the formula
+deg
+.
+.
+rees API
+= specific gravity
+−
+1415
+1315
+where the specific gravity measurement is made at 60°F.  Its application
+enables a linear scale to be used on the stem of a density-measuring device
+like a hydrometer.
+Apparent consumption
+A concept used in the calculation of CO2 emissions from fossil fuel
+consumption. This concept deals with apparent rather than actual
+consumption because it tracks the consumption of primary fuels to an
+economy with adjustments for net imports and stock changes in secondary
+fuels. While this procedure ensures that all of the carbon in fuels is
+accounted for, it is important to note that it does not produce actual
+consumption by specific fuel or fuel product. In cases where exports of
+secondary fuels exceed imports, it will produce negative numbers. This is
+clearly not an accurate estimate of the consumption of secondary fuel. It is
+merely an adjustment to the primary fuel supply calculated elsewhere in the
+worksheet.
+Aviation Gasoline
+See Gasoline.
+Base year
+The year for which the inventory is to be taken. This is currently 1990. In some
+cases (such as estimating CH4 from rice production) the base year is simply the
+middle of a three-year period over which an average must be taken.
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.3
+Benzole
+A mixture of light hydrocarbons used as a solvent and sometimes blended
+into gasoline.  Benzole should be included with refinery feedstocks in the
+inventory.
+Biochemical oxygen demand (BOD)
+The amount of oxygen consumed by the organic material in wastewater
+during the decomposition of the waste materials in the wastewater.  BOD
+is used as a measure of the organic content of wastewater.  See Section
+6.3.2 of the Reference Manual.
+Biomass
+Non-fossilised organic material both above ground and below ground, and
+both living and dead, e.g., trees, crops, grasses, tree litter, roots etc.. When
+burned for energy purposes, these are referred to as biomass fuels.
+Biomass fuels also include gases recovered from the decomposition of
+organic material.
+Bitumen
+Solid, semi-solid or viscous hydrocarbon with a colloidal structure, brown
+to black in colour, obtained as a residue in the distillation of crude oil by
+vacuum distillation of oil residues from atmospheric distillation. It is soluble
+in carbon bisulphate, non-volatile, thermoplastic (between 150°C and
+200°C) with insulating and adhesive properties. Bitumen is used mainly in
+road construction and is also known as asphalt.
+Bituminous Coal
+Includes Anthracite*, Steam coal (other than anthracite) and Coking coal*.
+In the Guidelines steam coal is referred to as “Other Bituminous Coal”.
+Coal with a gross calorific value greater than 23 865 kJ/kg (5 700 kcal/kg)
+on an ash-free but moist basis and with a mean random reflectance of
+vitrinite of at least 0.6.
+BKB (Braunkohlenbriketts)
+A composition fuel manufactured from brown coal. The brown coal is
+crushed, dried and moulded under high pressure into an even-shaped
+briquette without the addition of binders.  Also includes peat briquettes.
+Black Liquor
+See Sulphite Lies.
+Blast Furnace Gas (BFG)
+Obtained as a by-product in operating blast furnaces;  it is recovered on
+leaving the furnaces and used partly within the plant and partly in other
+steel industry processes or in power stations equipped to burn it.  Any
+Oxygen Steel Furnace Gas should be included in this category.
+GLOSSARY
+G L O SSAR Y.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+BOD
+See Biochemical oxygen demand.
+Boreal
+Northern biotic area characterised especially by dominance of coniferous
+forests.
+Bunker fuels (International)
+Fuels consumed for international marine and air transportation.
+Calcination
+Chemical process in the manufacture of cement in which the raw materials
+(primarily limestone – calcium carbonate) are heated in kilns producing lime
+and CO2.
+Calorific value
+The calorific value of a fuel is a measure of its value for heating purposes.  It
+is expressed in terms of the heat released from a specified unit quantity
+under defined conditions of complete combustion.  The calorific value is
+sometimes referred to as the heating value of the fuel.
+Two measures of calorific value are possible and are referred to as the net
+(NCV) and gross (GCV) calorific values.  Also termed the lower (LHV) and
+higher (HHV) heating values.
+The Gross Calorific Value is the total quantity of heat released during
+combustion when all water formed by the combustion reaction is returned
+to the liquid state.
+The Net Calorific Value is the total quantity of heat released during
+combustion when all water formed by the combustion reaction remains in
+the vapour state.
+The Net Calorific Value is therefore less than the Gross Calorific Value.
+For natural gas this difference is approximately 9-10 per cent whilst for oils
+and coals the difference is approximately 5 per cent.
+Throughout the Guidelines net calorific values are used and expressed in SI
+units, for example TJ/kt.  The term Conversion Factor has two uses.  First, as
+net calorific value, to convert quantities expressed in natural units to energy
+units and, secondly as a scaling factor to convert one form of energy unit to
+another (e.g. Btus to GJ).
+CFCs
+See Chlorofluorocarbons.
+Charcoal
+A black, amorphous form of carbon made by heating wood or other
+organic matter in the absence of air.
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.5
+Chlorofluorocarbons (CFCs)
+Hydrocarbon derivatives consisting of carbon, chlorine and fluorine, in
+which chlorine and fluorine partly or completely replace the hydrogen.
+Chlorofluorocarbons are chemical substances which have been used in
+refrigeration, foam blowing etc.. CFCs contribute to the depletion of the
+earth's ozone layer in the upper atmosphere.  Although they are
+greenhouse gases, they are not included in the Guidelines because they are
+already being regulated under the Montreal Protocol.
+Clinker
+An intermediate product created during the manufacture of cement. In the
+production of clinker, calcium carbonate is heated, producing lime and
+carbon dioxide. The carbon dioxide is normally released to the atmosphere
+as a waste product and is a significant global source of CO2 emissions.
+Closed forest
+A dense forest with closed canopy through which sunlight does not
+penetrate sufficiently for grasses to grow on the forest floor. These forests
+contain a significantly greater amount of biomass per hectare than do open
+forests.
+Coke
+Coke is subdivided into:
+Coke-oven coke
+The solid product obtained from the carbonisation of coal, principally
+coking coal, at high temperature, low in moisture and volatile matter. Coke
+oven coke is used mainly in the iron and steel industry acting as energy
+source and chemical agent. Semi-coke, the solid product obtained from the
+carbonisation of coal at a low temperature, should be included in this
+category. Semi-coke is used as a domestic fuel or by the transformation
+plant itself. This heading also includes coke and semi-coke made from lignite.
+Gas coke
+A by-product of hard coal used for the production of town gas in gas
+works. Gas coke is used for heating purposes.
+Coke Oven Gas
+Obtained as a by-product of solid fuel carbonisation and gasification
+operations carried out by coke producers and iron and steel plants which
+are not connected with gasworks and municipal gas plants.
+Coking Coal
+Coal of calorific value greater than 23,865 kJ/kg (5,700 kcal/kg) on an ash
+free but moist basis with a mean random reflectance of vitrinite of at least
+0.6.
+Coal with a quality that allows the production of coke suitable to support a
+blast furnace charge. The following classification codes cover coals which fall
+into this category.
+GLOSSARY
+G L O SSAR Y.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+•
+International classification codes: (UN Geneva 1956): 323, 333, 334,
+423, 433, 434, 435, 523, 533, 534, 535, 623, 633, 634, 635, 723, 733,
+823.
+•
+USA classification codes: Class II Group 2 "Medium volatile
+Bituminous".
+•
+British classification: Classes 202, 203, 204, 301, 302, 400, 500, 600.
+•
+Polish classification: Classes 33, 34, 35.1, 35.2, 36, 37.
+Conference of the Parties (COP)
+The Conference of the Parties under the UN Framework Convention on
+Climate Change.
+Continuously flooded (rice fields)
+Fields inundated for the duration of the growing season, whether water is
+provided by managed irrigation or by rain.
+Conversion factor
+See Calorific value.
+Crude Oil
+Crude oil is a mineral oil of natural origin comprising a mixture of
+hydrocarbons and associated impurities, such as sulphur.  It exists in the
+liquid phase under normal surface temperature and pressure and its physical
+characteristics (density, viscosity, etc.) are highly variable.  This category
+includes field or lease condensate recovered from associated and non-
+associated gas where it is commingled with the commercial crude oil
+stream.
+Inputs other than crude oil and NGL should be included with crude oil and
+footnoted.  These include hydrogen, synthetic crude oil such as mineral oils
+extracted from shales, bituminous sand etc.  Although they are not
+hydrocarbons, additives and other chemical alloys such as tetraethyl lead
+should be included.
+Cultivar
+In horticulture, a particular strain or selected clone of a given species;  a
+cultivated variety or subspecies (of rice).  In taxonomy, a grouping below
+the subspecies level.
+Dairy cattle
+Cattle producing milk for commercial exchange and calves and heifers being
+grown for dairy purposes.
+Degradable organic carbon (DOC)
+The organic carbon that is accessible to biochemical decomposition.  DOC
+is used in the method for the estimation of CH4 from solid waste disposal
+on land.  See the Reference Manual.
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.7
+Distillate Fuel Oil
+See Gas/Diesel Oil.
+DM
+See Dry matter.
+DOC
+See Degradable organic carbon.
+Dry (forest)
+Generally consistent with the definition of open forests in previous documents.
+Less than 1200 mm rainfall per year.
+Dry (rice fields)
+Upland fields which are seldom flooded during the growing season.
+Dry biomass
+See Dry matter.
+Dry matter (DM)
+In this Workbook dry matter refers to biomass which has dried to an oven
+dry state. This means that all loose water has been driven off but water that
+is part of the carbohydrate molecule and various volatiles still remains. By
+contrast, dry matter which is only air dry may contain 15% moisture.
+ECE
+Economic Commission for Europe. A United Nations body.
+Emission factor
+A coefficient that relates the activity data to the amount of chemical
+compound which is the source of later emissions. Emission factors are often
+based on a sample of measurement data, averaged to develop a
+representative rate of emission for a given activity level under a given set of
+operating conditions.
+Enteric fermentation
+A process of digestion in herbivores (plant-eating animals) which produces
+methane as a by-product.
+Ethane
+A naturally gaseous straight-chain hydrocarbon, (C2H6) extracted from
+natural gas and refinery gas streams.
+Evaporative emissions
+Evaporative emissions fall within the class of fugitive emissions and are
+released from area (rather than point) sources.  These are often emissions
+of Non-Methane Volatile Organic Compounds (NMVOCs), and are
+GLOSSARY
+G L O SSAR Y.8
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+produced when the product is exposed to the air – for example in the use
+of paints or solvents.
+Excreta
+The faecal and urinary excretions of livestock and poultry.  They include,
+but are not necessarily limited to, manure.
+FAO
+Food and Agriculture Organization of the United Nations.
+FCCC
+Framework Convention on Climate Change.  A United Nations convention.
+Flaring
+The burning of gas which cannot be contained or used productively. In
+some cases, when associated natural gas is released along with oil from
+production fields remote from energy users, the gas is burned off as it
+escapes, primarily for safety reasons. Some flaring may also occur in the
+processing of oil and gas.
+The IPCC Guidelines classify emissions from venting and flaring as fugitive
+emissions.
+See also Venting.
+Fossil Fuel
+Fossil Fuel comprises combustible fuels formed from organic matter within
+the earth’s crust over geological time scales and products manufactured
+from them.  The fuels extracted from the earth and prepared for market
+are termed “Primary fuels” (e.g. coal, natural gas, crude oil, lignite) and fuel
+products manufactured from them are termed “Secondary fuels” (e.g. coke,
+blast furnace gas, gas/diesel oil.
+Fugitive emissions
+Fugitive emissions are intentional or unintentional releases of gases from
+anthropogenic activities.  In particular, they may arise from the production,
+processing, transmission, storage and use of fuels, and include emissions
+from combustion only where it does not support a productive activity
+(e.g., flaring of natural gases at oil and gas production facilities).
+Gas Coke
+See Coke.
+Gas/Diesel Oil
+Gas/diesel oil is a medium distillate oil primarily distilling between 180°C
+and 380°C.  Several grades are available depending on uses:
+-
+diesel oil for diesel compression ignition (cars, trucks, marine, etc.);
+-
+light heating oil for industrial and commercial uses;
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.9
+-
+other gas oil, including heavy gas oils which distil between 380°C
+and 540°C, and which are used as petrochemical feedstocks.
+Gas Works Gas
+Covers all types of gases including substitute natural gas produced in public
+utility or private plants whose main purpose is manufacture, transport and
+distribution of gas.  It includes gas produced by carbonisation (including gas
+produced by coke ovens and transferred to gas works gas), by total
+gasification with or without enrichment with oil products (LPG, residual fuel
+oil, etc.), by cracking of natural gas, and by reforming and simple mixing of
+gases and/or air.
+Gasoline
+Gasoline includes the following products:
+Aviation Gasoline
+This is motor spirit prepared especially for aviation piston engines, with an
+octane number suited to the engine, a freezing point of -60°C and a
+distillation range usually within the limits of 30°C and 180°C.
+Jet Gasoline (Naphtha type Jet Fuel or JPA)
+A light hydrocarbon oil distilling between 100°C and 250°C for use in
+aviation turbine power units.  It is obtained by blending kerosenes and
+gasoline or naphthas in such a way that the aromatic content does not
+exceed 25 per cent in volume, and the vapour pressure is between 13.7 kPa
+and 20.6 kPa.
+Motor Gasoline
+Motor Gasoline consists of a mixture of light hydrocarbons distilling
+between 35°C and 215°C.  It is used as a fuel for land-based spark ignition
+engines.  Motor gasoline may include additives, oxygenates and octane
+enhancers, including lead compounds such as TEL (Tetraethyl lead) and
+TML (tetramethyl lead).
+GCV
+See Calorific value.
+Gley soil (also Gleysol)
+Occur on level land, usually with a high water table (poorly drained mineral
+soil).
+Greenhouse gases
+The current IPCC inventory includes six major greenhouse gases.
+Three direct greenhouse gases are included: Carbon dioxide (CO2),
+Methane (CH4), Nitrous oxide (N2O) and three precursor gases are
+included: Carbon monoxide (CO), Oxides of nitrogen (NOx), Non-
+Methane Volatile Organic Compounds (NMVOCs).
+Other gases which also contribute to the greenhouse effect are being
+considered for inclusion in future versions of the Guidelines.
+GLOSSARY
+G L O SSAR Y.10
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+Gross calorific value (GCV)
+See Calorific value.
+Hard Coal
+Includes Coking Coal*, Anthracite* and other Bituminous Coal*.
+Heavy Fuel Oil
+See  Residual Fuel Oil.
+HFCs
+See Hydrofluorocarbons.
+HHV
+See Calorific value.
+Higher heat value (HHV)
+See Calorific value.
+Hydrofluorocarbons (HCFC)
+Hyrocarbon derivatives consisting of one or more halogens which partly
+replace the hydrogen.  The abbreviation HCFC followed by a number
+designates a chemical product of the chlorofluorocarbon (CFC) family.
+IEA
+The International Energy Agency. An autonomous body attached to the
+OECD.
+See also OECD.
+INC
+Intergovernmental Negotiating Committee (for a Framework Convention
+on Climate Change).
+Intermittently flooded (rice fields)
+Fields not inundated for the duration of the growing season, whether water
+is provided by managed irrigation or by rain.
+IPCC
+The 
+Intergovernmental 
+Panel 
+on 
+Climate 
+Change. 
+A 
+special
+intergovernmental body established by UNEP and the WMO to provide
+assessments of the results of climate change research to policy makers. The
+Greenhouse Gas Inventory Guidelines are being developed under the auspices
+of the IPCC and will be recommended for use by parties to the Framework
+Convention on Climate Change (FCCC).
+Jet Gasoline
+See Gasoline.
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.11
+Jet Kerosene
+This is a distillate used for aviation turbine power units.  It has the same
+distillation characteristics between 150°C and 300°C (generally not above
+250°C) and flash point as kerosene.  In addition, it has particular
+specifications (such as freezing point) which are established by the
+International Air Transport Association (IATA).
+Kerosene (other than Jet Kerosene)
+Kerosene comprises refined petroleum distillate and is used in sectors
+other than aircraft transport.  It distils between 150°C and 300°C.
+Kilns
+Equipment used in the manufacture of cement. Vessels in which the raw
+materials (primarily limestone - calcium carbonate) are heated to cause a
+chemical process known as calcination which produces lime and CO2.
+LHV
+See Calorific value.
+Lignite
+Non-agglomerating coals with a gross calorific value less than 17,435 kJ/kg
+(4165 kcal/kg) and greater than 31 per cent volatile matter on dry mineral
+matter free basis.
+The distinction between Sub-bituminous Coal* and Lignite is not normally
+made in Europe.
+Liquefied Petroleum Gas (LPG)
+LPGs are light saturated paraffinic hydrocarbons derived from the refinery
+processes, crude oil stabilisation and natural gas processing plants.  They
+consist mainly of propane (C3H8) and butane (C4H10) or a combination of
+the two.  They are normally liquefied under pressure for transportation and
+storage.
+Lower heat value (LHV)
+See Calorific value.
+LPG
+See Liquefied Petroleum Gas.
+Lubricants
+Lubricants are hydrocarbons produced from distillate or residue, and they
+are mainly used to reduce friction between bearing surfaces.  This category
+includes all finished grades of lubricating oil, from spindle oil to cylinder oil,
+and those used in greases, including motor oils and all grades of lubricating
+oil base stocks.
+GLOSSARY
+G L O SSAR Y.12
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+Manure
+Waste materials, produced by domestic livestock, which are managed for
+agricultural purposes. When manure is managed in a way that involves
+anaerobic decomposition, significant emissions of methane can result.
+Methanol
+Methanol produced from natural gas should be included with refinery
+feedstock figures.
+Moist (forest)
+These are evergreen dense forests which receive significant rainfall evenly
+throughout the year (i.e., there is not a distinct wet and dry season).  Rainfall in
+these forests is 2000 mm per year or more.
+Montreal Protocol
+The international agreement which requires signatories to control and
+report emissions of CFCs and related chemical substances which deplete
+the earth's ozone layer. The Montreal Protocol was signed in 1987 in
+accordance with the broad principles for protection of the ozone layer
+agreed in the Vienna Convention (1985). The Protocol came into force in
+1989 and established specific reporting and control requirements for ozone
+depleting substances.
+MSW
+See Municipal solid waste.
+Municipal solid waste (MSW)
+Solid waste that is collected regularly by municipalities, e.g. household and
+commercial trash and garbage.
+Naphtha
+Naphtha is a feedstock destined for either the petrochemical industry
+(e.g. ethylene manufacture or aromatics production) or for gasoline
+production by reforming or isomerisation within the refinery.  Naphtha
+comprises material in the 30°C and 210°C distillation range.
+Natural Gas
+Natural gas comprises gases at normal temperature and pressure occurring
+in underground deposits.  In its marketed state it consists mainly of
+methane.  It includes both “non-associated” gas coming from fields
+producing hydrocarbons predominantly in gaseous form and “associated”
+gas produced in association with crude oil.  It also includes methane
+recovered from coal mines (colliery gas).
+Production is normally measured dry, i.e. after the removal of the natural
+gas liquids (NGL) and impurities present in the gas at the well head.  It
+therefore excludes gas re-injected into the wells, gas flared and gas used at
+the production and treatment plants.
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.13
+Natural Gas Liquids (NGL)
+NGL are liquid or liquefied hydrocarbons recovered from natural gas in
+separation facilities or gas processing plants.  Natural gas liquids include
+ethane, propane, butane (normal and iso-), (iso) pentane and pentanes plus
+(sometimes referred to as natural gasoline or plant condensate).
+Net calorific value (NCV)
+See Calorific value
+NGL
+See Natural Gas Liquids.
+Nitric acid
+A raw material used mainly as feedstock in fertiliser production and in the
+production of adipic acid. The production of nitric acid can also produce
+nitrous oxide (N2O).
+NMVOC
+See Non-Methane Volatile Organic Compounds.
+Non-dairy cattle
+All cattle which are not dairy cattle, including cattle kept or grown for key
+production, draft animals and breeding animals.
+Non-Methane Volatile Organic Compounds (NMVOCs)
+A class of emissions which includes a wide range of specific organic chemical
+substances. Non-Methane Volatile Organic Compounds (NMVOCs) play a
+major role in the formation of ozone in the troposphere (lower
+atmosphere). Ozone in the troposphere is a greenhouse gas.  It is also a
+major local and regional air pollutant, causing significant health and
+environmental damage. Because they contribute to ozone formation,
+NMVOCs are considered "indirect" greenhouse gases.
+OECD
+The Organisation for Economic Co-operation and Development. A regional
+organisation of free-market democracies in North America, Europe and the
+Pacific.
+Open forests
+Open forests are less dense than closed forests, do not have a closed
+canopy, and have grasses growing on the forest floor. These forests contain
+less biomass per hectare than do closed forests.
+Other Products
+The category “Other Products” included in the energy statistics provided by the
+IEA includes Refinery gas*, White spirit*, Paraffin waxes*, and other products
+not included elsewhere such as tar, grease and sulphur.
+GLOSSARY
+G L O SSAR Y.14
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+Oxygen steel furnace gas
+Obtained as a by-product of the production of steel in an oxygen furnace:
+it is recovered on leaving the furnace.  The gas is also known as converter
+gas or LD gas.  Data should correspond to the quantity of gas used for the
+production of electricity or in cases where waste heat is recovered from
+the gas and sold to third parties.  Quantities of this gas should be included
+with Blast Furnace Gas.
+Paraffin Waxes
+These are saturated aliphatic hydrocarbons.  These waxes are residues
+extracted when dewaxing lubricant oils.  They have a crystalline structure
+which is more-or-less fine according to the grade.  Their main
+characteristics are as follows:  they are colourless, odourless and
+translucent, with a melting point above 45°C.
+Patent Fuel
+A composition fuel manufactured from coal fines by shaping with the
+addition of a binding agent (pitch). Note that the amount of patent fuel
+produced can be slightly higher than the amount of coal consumed in the
+transformation process because of the addition of pitch.
+Peat
+Combustible, soft, porous or compressed sedimentary deposit of plant
+origin with a high water content (up to 90 per cent in its natural state),
+easily cut, of light to dark brown colour.
+Peat soil (also Histosol)
+A typical wetland soil with a high water table and an organic layer of at least
+40 cm thickness (poorly drained organic soil).
+Perfluorocarbons (PFCs)
+Carbon tetrafluoride (CF4) and hexafluorethane (C2F6) which are
+extremely potent greenhouse gases.  The only known major source of
+these gaseous emissions is aluminium smelting.  Production and emission of
+PFCs results from aluminium smelting during the occurrence of electrical
+arcing or “anode effects.”
+Petroleum Coke
+Petroleum coke is a black solid residue, obtained mainly by cracking and
+carbonising residue feedstock, tar and pitches in processes such as delayed
+coking or fluid coking.  It consists mainly of carbon (90 to 95 per cent) and
+has a low ash content.
+PFCs
+See Perfluorocarbons.
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.15
+Process emissions
+Emissions from industrial processes involving chemical transformations
+other than combustion.
+Refinery Feedstocks and Blending Components
+Refinery feedstocks are processed oils destined for further processing in
+refineries (e.g. straight run fuel oil or vacuum gas oil).  For IPCC purposes
+they include non-biomass alcohols as oxygenates for blending in motor
+gasoline whether within or outside refineries.
+Refinery Gas (not liquefied)
+Refinery gas includes a mixture of non-condensable gases mainly consisting
+of hydrogen, methane, ethane, and olefins obtained during distillation of
+crude oil or treatment of oil products (e.g., cracking) in refineries.  This also
+includes gases which are returned from the petrochemical industry.
+Reforestation
+Planting of forests on lands which have, historically, previously contained
+forests but which have been converted to some other use. Replanted
+forests are included in the category "Changes in Forest and Other Woody
+Biomass Stocks" in the Land Use Change and Forestry module of the
+emissions inventory calculations.
+See also Afforestation.
+Residual Fuel Oil
+This covers all residual (heavy) fuel oils (including those obtained by
+blending).  Kinematic viscosity is above 10 cSt at 80°C.  The flash point is
+always above 50°C and density is always more than 0.90 kg/l.
+Ruminant animals
+Herbivores (grazing animals such as cattle, buffalo, sheep, goats and camels)
+which have a large free stomach or rumen. Digestion in anaerobic
+conditions in the rumen can create significant emissions of methane from
+ruminant animals.
+Savanna
+Savannas are tropical and subtropical formations with continuous grass
+cover, occasionally interrupted by trees and shrubs.  Savannas are found in
+Africa, Latin America, Asia and Australia.
+Seasonal (forest)
+Semi-deciduous forests with a distinct wet and dry season and rainfall
+between 1200 and 2000 mm per year.
+Season length (in rice agriculture)
+The number of days during which rice is grown on a given field.  The field is
+not necessarily flooded for the entire season.
+GLOSSARY
+G L O SSAR Y.16
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+Sequestered carbon
+See Stored carbon.
+Sludge Gas
+Sewage gas and gas from the anaerobic decomposition of animal slurries.
+Steam Coal
+See Bituminous Coal.
+Stored carbon
+Carbon retained for long periods of time within non-fuel products
+manufactured from fuels.
+Sulphite Lies (Black Liquor)
+An alkaline spent liquor from the digesters in the production of sulphate or
+soda pulp during the manufacture of paper.  The energy content derives
+from the lignin removed from the wood pulp.
+Sub-bituminous Coal
+Non-agglomerating coals with a gross calorific value between 17,435 kJ/kg
+(4165 kcal/kg) and 23,865 kJ/kg (5700 cal/kg) containing more than 31 per
+cent volatile matter on dry mineral matter free basis.
+See also Lignite. The distinction between Sub-bituminous coal and Lignite is
+not normally made in Europe.
+Synthetic crude oil
+Synthetic crude oil, including mineral oils extracted from shales, bituminous
+sand etc. should be included with the figures for crude oil.
+Temperate (Rain Forests)
+Woodland of temperate but usually rather mild climate areas with heavy
+rainfall, usually including numerous kinds of trees and distinguished from a
+tropical rain forest by the presence of a dominant tree.
+Temperate Zone
+The area between the Tropic of Cancer and the Arctic Circle or between
+the Tropic of Capricorn and the Antarctic Circle.
+Trace gas emission ratios (Non-CO2)
+Ratios for carbon compounds are mass of carbon released as CH4 or CO
+(in units of C) relative to mass of total carbon released from burning (in
+units of C). Those for nitrogen compounds are expressed as the ratios of
+nitrogen released as N2O and NOx relative to the nitrogen content of the
+fuel (in units of N).
+GLOSSARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+G L O SSAR Y.17
+Tropical (Rain Forests)
+Tropical woodland with an annual rainfall of at least 100 inches and marked
+by lofty broad leafed evergreen trees forming a continuous canopy.
+UNECE
+United Nations Economic Commission for Europe.
+UNEP
+United Nations Environment Programme.
+UNFCCC
+United Nations Framework Convention on Climate Change.
+US EPA
+United States Environmental Protection Agency.
+Vegetal Waste
+Includes wood waste, straw, bagasse etc.
+Venting
+The release of gas to the atmosphere which cannot be contained or used
+productively. In some cases, when associated natural gas is released along
+with oil from production fields remote from energy users, the gas is
+allowed to escape into the atmosphere.
+The IPCC Guidelines classify emissions from venting and flaring as fugitive
+emissions.
+See also Flaring.
+Volatile solids
+The amount of organic material that disappears after drying.
+Water management regime
+A variety of practices used to classify rice production into categories for
+estimating emissions of methane. The three major water management
+regimes are irrigated, rainfed and deepwater.  Upland (dry) rice cultivation
+produces little or no methane, while the continuously flooded category is a
+significant source.
+White Spirit and SBP
+White Spirit and SBP are defined as refined distillate intermediates with a
+distillation in the naphtha/kerosene range.  They are sub-divided as:
+Industrial Spirit (SBP):  light oils distilling between 30°C and 200°C.  There
+are 7 or 8 grades of industrial spirit, depending on the position of the cut in
+the distillation range.  The grades are defined according to the temperature
+difference between the 5 per cent volume and 90 per cent volume
+distillation points (which is not more than 60°C).
+GLOSSARY
+G L O SSAR Y.18
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+White Spirit:  Industrial spirit with a flash point above 30°C.  The distillation
+range of white spirit is 135°C to 200°C.
+WMO
+The World Meteorological Organization of the United Nations.

@@ -1,0 +1,741 @@
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.21
+6.4 
+Methane from Industrial Wastewater
+and Sludge Streams
+Use WORKSHEET 6-3 METHANE EMISSIONS FROM INDUSTRIAL WASTEWATER AND
+SLUDGE HANDLING to enter data for this submodule.
+S T E P  1   E S T I M A T I N G  T O T A L  O R G A N I C
+W A S T E W A T E R  A N D  S L U D G E
+1 Enter Total Industrial Output for each industry in column A, in tonnes
+per year.
+2 Enter the Degradable Organic Component in kg COD/m3 wastewater in
+column B.  Default values are provided in Table 6-6.
+3 Enter the Wastewater Produced per unit product by industry in
+m3/tonnes of product in column C.
+4 Enter the Fraction of Degradable Organic Component Removed as
+Sludge in column D.  The default fraction is zero.
+5 Multiply the values in columns A, B, C, and one minus the value in
+column D.  Enter the product in column E.  This is the Total Organic
+Wastewater from Industrial Source.
+6 Multiply the values in columns A, B, C, and D.  Enter the product in
+column F.  This is the Total Organic Sludge from Industrial Source.
+S T E P  2   E S T I M A T E  E M I S S I O N  F A C T O R S  F O R
+I N D U S T R I A L  W A S T E W A T E R  H A N D L I N G
+S Y S T E M S
+Determine the Aggregate MCF for the industrial wastewater stream.
+1 Enter the name of the industrial wastewater source on the ‘Source’ line.
+2 In column A, enter the types of Wastewater Handling Systems used for
+the selected wastewater source.
+3 In column B, enter the Fraction of Wastewater Treated by the Handling
+System in column A.
+4 In column C, enter the Methane Conversion Factor for the Handling
+System in column A.
+5 Multiply the values in columns B and C.  Enter the Product in column D.
+6 Enter the sum of the products in the bottom of column D.
+7 Enter the Maximum Methane Producing Capacity for the wastewater in
+the bottom of column E.  The default (theoretical) value for Bo is 0.25 kg
+CH4/kg BOD.
+8 Calculate the average Emission Factor for the Industrial Wastewater
+Source by multiplying the value in the bottom of column D by the value
+in the bottom of column E.  Enter the product in the bottom of
+column F.
+USING THE WORKSHEET
+• 
+Copy the Worksheet at the
+end of this section to complete
+the inventory.
+• 
+Keep 
+the 
+original 
+of 
+the
+worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+WASTE
+6.22
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+S T E P  3   E S T I M A T E  E M I S S I O N  F A C T O R S  F O R
+I N D U S T R I A L  S L U D G E  H A N D L I N G  S Y S T E M S
+Determine the Aggregate MCF for the industrial sludge stream.
+1 Enter the name of the industrial sludge source on the ‘Source’ line.
+2 In column A, enter the types of Sludge Handling System used for the
+selected sludge source.
+3 In column B, enter the Fraction of Sludge Treated by the handling
+system in column A.
+4 In column C, enter the Methane Conversion Factor for the handling
+system in column A.
+5 Multiply the values in columns B and C.  Enter the Product in column D.
+6 Enter the sum of the products in the bottom of column D.
+7 Enter the Maximum Methane Producing Capacity for the sludge in the
+bottom of column E.  The default (theoretical) value for Bo is 0.25 kg
+CH4/kg BOD.
+8 Calculate the average Emission Factor for the Industrial Sludge Source
+by multiplying the value in the bottom of column D by the value in the
+bottom of column E.  Enter the product in the bottom of column F.
+ 
+S T E P  4   E S T I M A T E  M E T H A N E  E M I S S I O N S
+F R O M  I N D U S T R I A L  W A S T E W A T E R  A N D
+S L U D G E
+1 In column A, rows 1 and 2, copy the Total Organic Wastewater from
+Industrial Source value from column E of Worksheet 6-3, Sheet 1, and
+the Total Organic Sludge from Industrial Source value from column F of
+Worksheet 6-3, Sheet 1.
+2 In column B, copy the average Emission Factor for Industrial
+Wastewater value from column F of Worksheet 6-3, Sheet 2 and the
+average Emission Factor for Industrial Sludge Source from column F of
+Worksheet 6-3, Sheet 3.
+3 Multiply the values of columns A and B.  Enter the product in column C.
+4 Enter the total amount of Methane Recovered and/or Flared from the
+industrial wastewater and sludge source in column D in kg CH4.  If no
+data are available, the default is zero.
+5 Subtract the value in column D from the product in column C.  Multiply
+by 10-6 to convert emissions to gigagrams.  Enter the difference in
+column E.  Sum the values in both rows of column E at the bottom of
+the column.  This is the Net CH4 Emissions from the selected industrial
+wastewater and sludge source.
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.23
+6.5 
+Nitrous Oxide from Human Sewage
+E S T I M A T E  
+I N D I R E C T  
+N I T R O U S  
+O X I D E
+E M I S S I O N S  F R O M  H U M A N  S E W A G E
+Use WORKSHEET 6-4  INDIRECT NITROUS OXIDE EMISSIONS FROM HUMAN
+SEWAGE to enter date for this submodule.
+1 In column A, enter, average annual Per Capita Protein Consumption in
+the country (Protein in kg/person/yr).
+2 In column B, enter the Population in country (number)(where number
+equals NRPEOPLE).
+3 In column C, enter the Fraction of Nitrogen in Protein (FracNPR). The
+default value is 0.16 kg N/kg protein.  (Table 4-19 in Agriculture
+Chapter.)
+4 In column D, enter the Emission Factor, EF6.  The default factor is 0.01
+kg N2O-N/kg sewage-N produced.  (Table 4-18 in Agriculture Chapter.)
+5 Multiply the values in columns A, B, C and D, and then multiply by the
+conversion ratio 44/28 and by 10-6 to convert to gigagrams.  Enter the
+product in column E. This value is the Total Annual N2O Emissions from
+human sewage.
+For a detailed description of this methodology see Section 4.5.4 of the
+Reference Manual.
+6
+WASTE
+Re v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+6.25
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM SOLID WASTE DISPOSAL SITES
+WORKSHEET
+6-1
+SHEET
+1 OF 1
+STEP 1
+STEP 2
+STEP 3
+STEP 4
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+Total
+Annual
+MSW
+Disposed to
+SWDSs
+(Gg MSW)
+Methane
+Correction
+Factor
+(MCF)
+Fraction of
+DOC in
+MSW
+Fraction of
+DOC which
+Actually
+Degrades
+Fraction of
+Carbon
+Released as
+Methane
+Conversion
+Ratio
+Potential Methane
+Generation Rate
+per Unit of Waste
+(Gg CH4/Gg MSW)
+Realised
+(Country-
+specific)
+Methane
+Generation
+Rate per Unit
+of Waste
+(Gg CH4/
+Gg MSW)
+Gross
+Annual
+Methane
+Generation
+(Gg CH4)
+Recovered
+Methane
+per Year
+(Gg CH4)
+Net  Annual
+Methane
+Generation
+(Gg CH4)
+One Minus
+Methane
+Oxidation
+Correction
+Factor
+Net Annual
+Methane
+Emissions
+(Gg CH4)
+G= (C x D x E x F)
+H= (B x G)
+J= (H x A)
+L= (J - K)
+N= (L x M)
+16/12
+WASTE
+6.26
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+WASTE
+SUBMODULE
+QUANTITY OF MSW DISPOSED OF IN SOLID WASTE DISPOSAL SITES
+USING COUNTRY DATA
+WORKSHEET
+6-1A (SUPPLEMENTAL)
+SHEET
+1 OF 1
+A
+B
+C
+D
+E
+Population whose
+Waste goes to
+SWDSs
+ (Urban or Total)
+(persons)
+MSW Generation
+Rate
+(kg/capita/day)
+Annual Amount of
+MSW Generated
+(Gg MSW)
+Fraction of MSW
+Disposed to
+SWDSs (Urban or
+Total)
+Total Annual MSW
+Disposed to SWDSs
+(Gg MSW)
+C = (A x B x 365)/106
+E = (C x D)
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.27
+MODULE
+WASTE
+SUBMODULE
+QUANTITY OF MSW DISPOSED OF IN SOLID WASTE
+DISPOSAL SITES USING DISPOSAL RATE DEFAULT
+DATA
+WORKSHEET
+6-1B (SUPPLEMENTAL)
+SHEET
+1 OF 1
+A
+B
+C
+Population whose Waste goes to
+SWDSs (Urban or Total)
+(persons)
+MSW Disposal Rate to
+SWDSs
+(kg/capita/day)
+Total Annual MSW
+Disposed to SWDSs
+(Gg MSW)
+C = (A x B x 365)/106
+WASTE
+6.28
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+WASTE
+SUBMODULE
+METHANE CORRECTION FACTOR
+WORKSHEET
+6-1C (SUPPLEMENTAL)
+SHEET
+1 OF 1
+W
+X
+Y
+Type of Site
+Proportion of Waste
+(by weight) for Each
+Type of SWDSs
+Methane
+Correction Factor
+(MCF)
+Weighted Average
+MCF for Each Type
+of SWDS
+Y = W x X
+Managed
+1.0
+Unmanaged - deep
+ (≥ 5m waste)
+0.8
+Unmanaged-shallow
+(< 5m waste)
+0.4
+Total
+0.6
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.29
+MODULE WASTE
+SUBMODULE METHANE EMISSIONS FROM DOMESTIC AND COMMERCIAL WASTEWATER AND SLUDGE
+TREATMENT
+WORKSHEET 6- 2
+SHEET 1 OF 4   ESTIMATION OF ORGANIC WASTEWATER AND SLUDGE
+STEP 1
+A
+Region or City
+B
+Population
+(1,000 persons)
+C
+Degradable
+Organic
+Component
+(kg BOD/1000
+persons/yr)
+D
+Fraction of
+Degradable
+Organic
+Component
+Removed as
+Sludge
+E
+Total
+Domestic/Commercial
+Organic Wastewater
+(kg BOD/yr)
+F
+Total
+Domestic/Commercial
+Organic Sludge
+(kg BOD/yr)
+E = [B x C x (1-D)]
+F = (B x C x D)
+Total:
+WASTE
+6.30
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM DOMESTIC AND COMMERCIAL WASTEWATER TREATMENT
+WORKSHEET
+6- 2
+SHEET
+2 OF 4   ESTIMATION OF EMISSION FACTOR FOR WASTEWATER HANDLING SYSTEMS
+STEP 2
+A
+Wastewater
+Handling
+System
+B
+Fraction of
+Wastewater
+Treated by the
+Handling
+System
+C
+Methane
+Conversion
+Factor for the
+Handling
+System
+D
+Product
+E
+Maximum
+Methane
+Producing
+Capacity
+(kg CH4/kg BOD
+F
+Emission Factor for
+Domestic/Commercial
+Wastewater
+(kg CH4/kg BOD)
+D = (B x C)
+F = (D x E)
+Aggregate
+MCF:
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.31
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM DOMESTIC AND COMMERCIAL WASTEWATER TREATMENT
+WORKSHEET
+6- 2
+SHEET
+3 OF 4 ESTIMATION OF EMISSION FACTOR FOR SLUDGE HANDLING SYSTEMS
+STEP 3
+A
+Sludge
+Handling
+System
+B
+Fraction of
+Sludge
+Treated by the
+Handling
+System
+C
+Methane
+Conversion
+Factor for  the
+Handling
+System
+D
+Product
+E
+Maximum Methane
+Producing Capacity
+(kg CH4/kg BOD)
+F
+Emission Factor for
+Domestic/
+Commercial Sludge
+(kg CH4/kg BOD)
+D = (B x C)
+F = (D x E)
+Aggregate
+MCF:
+WASTE
+6.32
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM DOMESTIC AND COMMERCIAL WASTEWATER AND SLUDGE TREATMENT
+WORKSHEET
+6- 2
+SHEET
+4 OF 4   ESTIMATION OF METHANE EMISSIONS FROM DOMESTIC/COMMERCIAL WASTEWATER AND
+SLUDGE
+STEP 4
+A
+Total Organic
+Product
+(kg BOD/yr)
+B
+Emission Factor
+(kg CH4/kg BOD)
+C
+Methane
+Emissions
+Without
+Recovery/Flaring
+D
+Methane
+Recovered
+and/or Flared
+(kg CH4)
+E
+Net Methane
+Emissions
+(Gg CH4)
+from Worksheet
+6-2, Sheet 1
+from Worksheet
+6-2, Sheets 2 and 3
+C = (A x B)
+E = (C - D) x 10-6
+Wastewater
+Sludge
+Total:
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.33
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM INDUSTRIAL WASTEWATER AND SLUDGE HANDLING
+WORKSHEET
+6-3
+SHEET
+1 OF 4  TOTAL ORGANIC WASTEWATER AND SLUDGE
+STEP 1
+A
+Total
+Industrial
+Output
+(t/yr)
+B
+Degradable
+Organic
+Component
+(kg COD/m3
+wastewater)
+C
+Wastewater
+Produced
+(m3/tonne
+product)
+D
+Fraction of
+Degradable
+Organic
+Component
+Removed as
+Sludge
+E
+Total Organic
+Wastewater from
+Industrial Source
+(kg COD/yr)
+F
+Total Organic Sludge
+from Industrial Source
+ (kg COD/yr)
+E = [A x B x C x(1-D)]
+F = (A x B x C x D)
+Iron and Steel
+Non-ferrous metals
+Fertiliser
+Food &
+Beverage
+Canneries
+Beer
+Wine
+Meatpacking
+Dairy products
+Sugar
+Fish processing
+Oil & grease
+Coffee
+Soft drinks
+Other
+Paper & Pulp
+Paper
+Pulp
+Other
+Petroleum
+refining/Petrochemicals
+Bleaching
+Dying
+Other
+Rubber
+Other
+Total
+WASTE
+6.34
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM INDUSTRIAL WASTEWATER TREATMENT
+SOURCE
+WORKSHEET
+6- 3
+SHEET
+2 OF 4   ESTIMATION OF EMISSION FACTOR FOR WASTEWATER HANDLING SYSTEMS
+STEP 2
+A
+Wastewater
+Handling System
+B
+Fraction of
+Wastewater
+Treated by the
+Handling
+System
+C
+Methane
+Conversion
+Factor
+ (MCF)
+D
+Product
+E
+Maximum
+Methane
+Producing
+Capacity
+(kg CH4/kg BOD)
+F
+Emission Factor for
+Industrial Wastewater
+Source
+(kg CH4/kg BOD)
+D = (B x C)
+F = (D x E)
+Aggregate
+MCF:
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.35
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM INDUSTRIAL WASTEWATER TREATMENT
+SOURCE
+WORKSHEET
+6- 3
+SHEET
+3 OF 4   ESTIMATION OF EMISSION FACTOR FOR SLUDGE HANDLING SYSTEMS
+STEP 3
+A
+Sludge Handling
+System
+B
+Fraction of
+Sludge
+Treated by
+the Handling
+System
+C
+Methane
+Conversion
+Factor
+ (MCF)
+D
+Product
+E
+Maximum
+Methane
+Producing
+Capacity
+(kg CH4/kg
+COD)
+F
+Emission Factor for
+Industrial Sludge
+Source
+(kg CH4/kg COD)
+D = (B x C)
+F = (D x E)
+Aggregate
+MCF:
+WASTE
+6.36
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+WASTE
+SUBMODULE
+METHANE EMISSIONS FROM INDUSTRIAL WASTEWATER AND SLUDGE TREATMENT
+WORKSHEET
+6- 3
+SHEET
+4 OF 4   ESTIMATION OF METHANE EMISSIONS FROM INDUSTRIAL WASTEWATER AND
+SLUDGE
+STEP 4
+A
+Total Organic
+Product
+(kg BOD/yr)
+B
+Emission Factor
+(kg CH4/kg BOD)
+C
+Methane
+Emissions without
+Recovery/Flaring
+D
+Methane
+Recovered
+and/or Flared
+(kg CH4)
+E
+Net Methane
+Emissions
+(Gg CH4)
+Worksheet 6-3,
+Sheet 1
+Worksheets 6-3,
+Sheets 2 and 3
+C = ( A x B)
+E = (C - D) x
+10-6
+Wastewater
+Sludge
+Total:
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.37
+MODULE
+WASTE
+SUBMODULE
+INDIRECT NITROUS OXIDE EMISSIONS FROM HUMAN SEWAGE
+WORKSHEET
+6-4
+SHEET
+1 OF 1
+A
+B
+C
+D
+E
+Per Capita Protein
+Consumption
+(Protein in
+kg/person/yr)
+Population
+(number)
+ Fraction of
+Nitrogen in
+Protein FracNPR
+(kg N/kg protein)
+ Emission factor
+EF6 (kg N2O-
+N/kg sewage-N
+produced)
+Total Annual
+N2O Emissions
+(Gg N2O/yr)
+E = (A x B x C x D) x
+44/28 x 10-6
+Total

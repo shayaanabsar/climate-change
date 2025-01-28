@@ -1,0 +1,1596 @@
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.1 
+CHAPTER 7  
+WETLANDS  
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Peatland Section 
+Dominique Blain (Canada), Clark Row (USA), Jukka Alm (Finland), Kenneth Byrne (Ireland), and Faizal Parish 
+(Global Environment Centre, Malaysia) 
+Flooded Land Section 
+Section based on the IPCC Good Practice Guidance for LULUCF 
+Appendix 2 – Possible approach for estimating CO 2 emissions from lands converted to 
+permanently Flooded Land: Basis for future methodological development 
+Éric Duchemin (Canada), Jari T. Huttunen (Finland), Alain Tremblay (Canada), Robert Delmas (France), and 
+Carlos Frederico Silveira Menezes (Brazil) 
+Appendix 3 CH 4 Emissions from Flooded Land: Basis for future methodological 
+development 
+Éric Duchemin (Canada), Jari T. Huttunen (Finland), Alain Tremblay (Canada), Robert Delmas (France), and 
+Carlos Frederico Silveira Menezes (Brazil) 
+Contributing Authors 
+Tatiana Minayeva (Russian Federation), Luis Pinguelli Rosa (Brazil), and Andrey Sirin (Russian Federation) 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3 
+Contents 
+7 
+Wetlands 
+7.1 
+Introduction...........................................................................................................................................7.5 
+7.2 
+Managed Peatlands................................................................................................................................7.8 
+7.2.1 
+Peatlands Remaining Peatlands.....................................................................................................7.8 
+7.2.1.1 
+CO2 emissions from Peatlands Remaining Peatlands ..............................................................7.8 
+7.2.1.2 
+Non-CO2 emissions from Peatlands Remaining Peatlands....................................................7.14 
+7.2.1.3 
+Uncertainty assessment..........................................................................................................7.16 
+7.2.2 
+Land Being Converted for Peat Extraction..................................................................................7.17 
+7.2.2.1 
+CO2 emissions on lands being converted for peat extraction.................................................7.17 
+7.2.2.2 
+Non-CO2 emissions from lands being converted to managed peatlands................................7.19 
+7.2.2.3 
+Uncertainty assessment..........................................................................................................7.19 
+7.3 
+Flooded Land ......................................................................................................................................7.19 
+7.3.1 
+Flooded Land Remaining Flooded Land.....................................................................................7.20 
+7.3.2 
+Land Converted to Flooded Land................................................................................................7.20 
+7.3.2.1 
+CO2 emissions from Land Converted to Flooded Land.........................................................7.20 
+7.3.2.2 
+Non-CO2 emissions from Land Converted to Flooded Land.................................................7.21 
+7.3.2.3 
+Uncertainty assessment..........................................................................................................7.21 
+7.4 
+Completeness, Time series consistency, and QA/QC .........................................................................7.21 
+7.4.1 
+Completeness ..............................................................................................................................7.21 
+7.4.2 
+Developing a consistent time series.............................................................................................7.21 
+7.4.3 
+Quality Assurance and Quality Control (QA/QC).......................................................................7.22 
+7.4.4 
+Reporting and Documentation.....................................................................................................7.22 
+7.5 
+Future methodological development.................................................................................................. 7.22 
+References 
+ 
+...............................................................................................................................................7.23 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equations 
+Equation 7.1 
+CO2 emissions from wetlands................................................................................................7.7 
+Equation 7.2 
+CO2 emissions in peatlands during peat extraction................................................................7.9 
+Equation 7.3 
+CO2 –C emissions from managed peatlands (Tier 1).............................................................7.9 
+Equation 7.4 
+On-site soil CO2–C emissions from managed peatlands  (Tier 1) .......................................7.11 
+Equation 7.5 
+Off-site CO2–C emissions from managed peatlands  (Tier 1) .............................................7.11 
+Equation 7.6 
+On-site CO2–C emissions from managed peatlands (Tiers  2 and 3)...................................7.12 
+Equation 7.7 
+N2O emissions from peatlands during peat extraction.........................................................7.15 
+Equation 7.8 
+CO2 –C emissions in peatland being drained for peat extraction.........................................7.17 
+Equation 7.9 
+CO2 –C emissions from soils in peatland being drained for  peat extraction.......................7.18 
+Equation 7.10 Annual change in carbon stocks in living biomass on land converted to  
+permanently Flooded Land..................................................................................................7.20 
+Figure 
+Figure 7.1 
+Decision tree to estimate CO2–C and N2O emissions from Peatlands  
+Remaining Peatlands ...........................................................................................................7.10 
+Tables 
+Table 7.1 
+Sections  addressing  major greenhouse gas emissions from managed wetlands..................7.5 
+Table 7.2 
+Guidance on emissions from wetlands managed for  other uses ...........................................7.6 
+Table 7.3 
+Ramsar classes of human-made wetlands..............................................................................7.6 
+Table 7.4 
+Emission factors for CO2–C and associated uncertainty for lands managed  
+for peat extraction, by climate zone.....................................................................................7.13 
+Table 7.5 
+Conversion  factors for CO2–C for volume and weight production data.............................7.13 
+Table 7.6 
+Default emission factors for N2O emissions from managed peatlands................................7.16 
+ 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.5 
+7 WETLANDS 
+7.1 
+INTRODUCTION 
+This chapter provides guidance on estimating and reporting greenhouse gas (GHG) emissions from managed 
+wetlands. Wetlands include any land that is covered or saturated by water for all or part of the year, and that does 
+not fall into the Forest Land, Cropland, or Grassland categories. Managed wetlands will be restricted to wetlands 
+where the water table is artificially changed (e.g., drained or raised) or those created through human activity 
+(e.g., damming a river). Emissions from unmanaged wetlands are not estimated.   
+Methodologies are provided for: 
+ 
+Peatlands cleared and drained for production of peat for energy, horticultural and other uses (Section 7.2). 
+The estimation methodology, although essentially the same as in the IPCC report on Good Practice 
+Guidance for Land use, Land-Use Change and Forestry (GPG-LULUCF), now includes emissions from the 
+use of horticultural peat. 
+ 
+Reservoirs or impoundments, for energy production, irrigation, navigation, or recreation (Section 7.3).  The 
+scope of the assessment now includes CO2 emissions from all lands converted to permanently Flooded 
+Lands. Flooded Lands exclude regulated lakes and rivers unless a substantial increase in water area has 
+occurred. 
+For simplicity, the remainder of this section will refer to peatlands managed for peat extraction as peatlands, and 
+lands flooded in reservoirs as Flooded Lands. Table 7.1 clarifies the scope of the assessment, and the 
+corresponding sections of this chapter. 
+ 
+TABLE 7.1 
+SECTIONS  ADDRESSING  MAJOR GREENHOUSE GAS EMISSIONS FROM MANAGED WETLANDS 
+Land-use category/GHG 
+Peatlands 
+Flooded Land 
+Wetlands Remaining Wetlands 
+CO2 
+Section 7.2.1.1 
+No Guidance 1 
+CH4 
+No Guidance 2 
+Appendix 3 
+N2O 
+Section 7.2.1.2 
+No Guidance 3 
+Lands Converted to Wetlands 
+CO2 
+Section 7.2.2.1 
+Section 7.3.2.1 and 
+Appendix 2 
+CH4 
+No Guidance 2 
+Appendix 3 
+N2O 
+Section 7.2.2.2 
+No Guidance 3 
+NOTES: 
+1 CO2 emissions from Flooded land Remaining Flooded land are covered by carbon stock change estimates of land 
+uses and land-use change (e.g., soils) upstream of the Flooded Land. 
+2 Methane emission from peatlands is negligible after drainage during conversion and peat extraction. 
+3 N2O emissions from Flooded Land are included in the estimates of indirect N2O from agricultural or other run-off, 
+and waste water. 
+ 
+Wetlands are frequently managed for other uses, such as forest and grassland management, or croplands. 
+Scientific level of knowledge on greenhouse gas balances of different kind of wetlands is still, in general, rather 
+low and uncertain, but the area is continuously studied further (e.g., see papers in Boreal Env. Res. 11, 2006). 
+Table 7.2 indicates where to find the guidance relative to these managed wetlands. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.2 
+GUIDANCE ON EMISSIONS FROM WETLANDS MANAGED FOR  OTHER USES 
+Land-use category 
+Volume/Section in these Guidelines 
+Wetlands already converted or being converted to: 
+ 
+Cropland, including “bogs” for cranberry and 
+other ericaceous fruits 
+Volume 4, Chapter 5 (Section 5.3) 
+Managed Grassland 
+Volume 4, Chapter 6 (Section 6.3) 
+Managed Forest Land, including drained or 
+undrained forested wetlands according to national 
+definitions 
+Volume 4, Chapter 4 (Section 4.3) 
+Rice cultivation 
+Volume 4, Chapter 5 (Section 5.5) 
+ 
+Some uses of wetlands are not covered, because adequate methodologies are not available. These include manure 
+management ponds, industrial effluent ponds, aquaculture ponds, and rewetting of previously drained wetlands 
+or wetland restoration (see Section 7.5, Future methodological development). Countries where these activities 
+are significant should consider research to assess their contribution to greenhouse gas emissions or removals. 
+N2O emissions from wetlands managed for the filtration of non-point source agricultural effluents, such as 
+fertilizers and pesticides, are included in indirect emissions from soil amendments (Volume 4, Chapter 11).  
+Most ecological classifications of wetlands, including those of the Ramsar Convention on Wetlands, consider 
+many of these lands as Wetlands, even those disturbed by human activities or artificially built. The Wetlands 
+classification adopted by the Ramsar Convention (Ramsar, 1996) is widely used to address management issues. 
+Table 7.3 relates wetland classes in this report to selected definitions in the Ramsar Convention.   
+ 
+TABLE 7.3 
+RAMSAR CLASSES OF HUMAN-MADE WETLANDS 
+RAMSAR class 
+Corresponding wetlands sub-categories 
+in the IPCC terminology 
+Methodological 
+guidance 
+Aquaculture 
+Flooded Land 
+No 1 
+Ponds 
+Flooded Land 
+No 1 
+Irrigated land (if cultivated) 
+Cropland 
+No 2 
+Seasonally flooded agricultural land  
+Rice Cultivation 
+Yes (Vol. 4, Chapter 5) 
+Salt exploitation sites 
+--- 
+No 1 
+Water storage areas 
+Flooded Land 
+Yes (this chapter) 
+Excavations (partly) 
+Peatlands managed for peat extraction 
+Yes (this chapter) 
+Wastewater treatment areas 
+“Constructed wetlands” or Waste Sector 
+No 3 
+Canals and drainage channels, ditches. 
+-- 
+No 3 
+NOTES:  
+1 No suitable default methodologies are available for these sources. 
+2 The Cropland Chapter includes this source. 
+3 Emissions of CH4 and N2O from wastewater discharges to canals, rivers, lakes, seas, and drainage channels or ditches, as well as 
+wastewater treatment areas, are covered in Volume 5, Chapter 3 though any additional emissions from new wetlands are not. 
+Emissions of N2O from leachate of nitrogenous fertilisers are covered in Volume 4, Chapter 11. 
+Source: Ramsar, 1996 
+ 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.7 
+Greenhouse gas emissions and removals from wetlands 
+Wetlands are ecosystems where the biological and geochemical processes, and resulting greenhouse gas 
+emissions and removals, are controlled by the degree of water saturation as well as climate and nutrient 
+availability.  
+As in other ecosystems, a net carbon flux to or from the atmosphere is a result from the balance between carbon 
+uptake from the atmosphere by photosynthesis and its release as a result of decomposition. Both the rates of C 
+uptake and decay losses are influenced by climate, nutrient availability, water saturation or oxygen availability. 
+In aerobic conditions (abundant oxygen), which are prevalent in most upland ecosystems, decomposition 
+releases CO2; while CH4 emissions prevail in anaerobic conditions (Moore and Knowles, 1989).  
+In most wetlands, some 90 percent of the carbon in gross primary production returns to the atmosphere by decay 
+(Cicerone and Oremland, 1988). The undecayed material sinks to the bottom of the water body and accumulates 
+on top of previously deposited material.  
+Under saturated conditions 1 or in flooded environments, the activity of aerobic bacteria and other decay 
+organisms is limited by oxygen availability. Anoxic (oxygen-depleted) conditions commonly found at the 
+bottom of water bodies prevent further organic matter decomposition by these organisms.  Other bacteria, 
+methanogens, sulfurgens and others, are able to decompose at least part of the organic matter, which results in 
+emissions of CH4 and other gases. If the methane diffuses up through the water column or top layer of aerated 
+soil, still another group of bacteria, methanotrophs, partially oxidize the methane into CO2, before it escapes. 
+Generally, wetlands are a natural source of CH4, with estimated emissions of 55-150 Tg CH4 yr-1 (Watson et al., 
+2000).   
+Generally, N2O emissions from saturated ecosystems are very low, unless there is a sustained supply of 
+exogenous nitrogen. When wetlands, especially peatlands, are drained, N2O emission rates are largely controlled 
+by the provision of nitrogen by mineralization, hence by soil fertility. In minerotrophic (nutrient-rich) conditions, 
+other controls such as pH, temperature and water level will regulate the nitrification of mineral nitrogen, and its 
+subsequent reduction into N2O (Klemedtsson et al., 2005; Martikainen et al., 1995). 
+In summary, wetland drainage results in a reduction of CH4 emissions, an increase in CO2 emissions due to 
+increased oxidation of soil organic material, and an increase in N2O emissions in minerotrophic wetlands.  
+Conversely, the creation of wetlands through flooding alters the pattern of greenhouse gas emissions towards 
+greater CH4 emissions and less CO2 emissions.  Depending on climate and reservoir characteristics, both CO2 
+and CH4 can be emitted from the decay of submerged biomass, and the decomposition of inundated soil organic 
+matter and other dissolved organic matter particles.  
+Methodological issues more specific to the two types of managed wetlands are discussed in the corresponding 
+sections of this chapter.  
+Summary of what to report   
+Total CO2 emissions from wetlands are estimated as the sum of emissions from the two types of managed 
+wetlands (Equation 7.1).  
+EQUATION 7.1 
+CO2 EMISSIONS FROM WETLANDS 
+Wflood
+Wpeat
+W
+CO
+CO
+CO
+2 _
+2 _
+2 _
++
+=
+ 
+Where: 
+CO2_W = CO2 emissions from wetlands, Gg CO2 yr-1 
+CO2_Wpeat = CO2 emissions from peatlands managed for peat production, Gg CO2 yr-1 
+CO2_Wflood  = CO2 emissions from (lands converted to) Flooded Land, Gg CO2 yr-1  
+Because of the nature of organic soils, saturated soils, and water-covered surfaces, the CO2 estimation 
+methodology generally relies on the development of emission factors and information on biomass stocks on land 
+prior to flooding. Some activities, e.g., vegetation removal and its subsequent burning on Land Being Converted 
+for Peat Extraction, result in emissions that can be estimated as carbon stock changes, in which case reference is 
+provided to the generic methods of Chapter 2.  
+A default methodology for N2O emissions is provided only for peatlands managed for peat extraction.  
+                                                           
+1 The soil is saturated when all the air space between soil particles is filled with water, resulting in anaerobic conditions. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.2 
+MANAGED PEATLANDS  
+Peat accumulates in wetlands when the annual generation of dead organic matter exceeds the amount that decays.  
+The pattern of peat deposit development varies with climate and hydrology and the succession of peatland types 
+on any area may be complex (Mitsch and Gosselink, 2000). Carbon sequestration may be only 20 to 50 kg/ha per 
+year (Watson et al., 2000), which is rather small as compared with crop harvest yields. Most peat deposits have 
+been accumulating for several thousand years, and many have been accumulating since the last ice-age glacial 
+retreat more than 8000 years ago. 
+The production cycle on a peatland area has three phases (Canadian Sphagnum Peat Moss Association, 2004; 
+Nilsson and Nilsson, 2004): 
+(i) 
+Land conversion in preparation for peat extraction:  Conversion begins by constructing main and 
+secondary draining ditches that allow the water to drain out of the area. Once the water table starts 
+dropping, the surface biomass, including any trees or shrubs and the living layer of peat-producing 
+vegetation, is removed and destroyed.  This phase may take several years. Peat extraction areas are 
+also established on areas drained previously for other purposes. In general, this needs only some 
+improvement or refining of the drainage pattern. The major greenhouse gas flux in this process is 
+CO2 emission from the removal of biomass and the decay of the drained peat. This phase 
+correspond to land conversion to peatlands, and is covered in Section 7.2.2. 
+(ii) 
+Extraction:  One type of extraction annually “mills” or breaks up the surface of the peat into 
+particles, which then dry during the summer months.  The air-dried peat particles are then collected 
+and transported from the area to stockpiles.  An older type of extraction cuts the surface of the peat 
+deposit into small blocks that are allowed to dry.  Regardless of the extraction technology, the rate 
+of drying and annual peat production increase with the frequency of dry weather conditions.  
+Extraction may continue 20 to 50 years before the economic depth of the peat deposit is reached. 
+The major greenhouse gas emissions in this phase are those from the decay of peat, both on-site 
+(drained, exposed peat) and off-site (peat extracted and used elsewhere). This phase correspond to 
+Peatlands Remaining Peatlands, and is treated in Section 7.2.1.  
+Since emissions from peatlands undergoing extraction differ substantially in scale and type from 
+emissions from Land Being Converted for Peat Extraction, countries with an active peat industry 
+should separate their managed peatlands accordingly. 
+(iii) Abandonment, restoration or conversion to other use:  Peat extraction stops when it is no longer 
+profitable to extract peat from the deposit. Generally, greenhouse gas emissions from these lands 
+continue and should be reported following the guidance of Section 7.2.1 as long as the land is not 
+converted to another use.  Since no methodology is provided to estimate greenhouse gas emissions 
+or removals from restored peatlands, countries with extensive restored peatlands may consider 
+developing or gathering the scientific information to support the development of greenhouse gas 
+estimation methodologies (see Section 7.5 Future Methodological Development). Cut-over 
+peatlands that are afforested or cultivated should be reported under Land Converted to Forest Land 
+(Chapter 4, Section 4.3) and Land Converted to Cropland (Chapters 5, Section 5.3).  
+Peatlands undergoing extraction (i.e., Peatlands Remaining Peatlands) will be considered first, similar to other 
+chapters but contrary to the usual sequence of peat production as mentioned above. 
+7.2.1 
+Peatlands Remaining Peatlands  
+This section covers emissions from peatlands undergoing active peat extraction. Use of peat is widely distributed: 
+about half is used for energy; the remainder for horticultural, landscape, industrial waster water treatment, and 
+other purposes (International Peat Society, 2004).  Techniques for extracting the peat from deposits are similar, 
+and all on-site sources of greenhouse gas emissions should be reported under this category regardless of the end-
+use of peat. Emissions from the off-site energy use of peat should be reported in the Energy Sector, and are not 
+considered in this chapter. 
+7.2.1.1 
+CO2 EMISSIONS FROM PEATLANDS REMAINING 
+PEATLANDS 
+Estimating CO2 emissions from lands undergoing peat extraction has two basic elements: on-site emissions from 
+peat deposits during the extraction phase, and off-site emissions from the horticultural (non-energy) use of peat 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.9 
+(Equation 7.2).  Peat extraction starts with vegetation clearing (Section7.1), which prevents further carbon 
+sequestration, so only CO2 emissions are considered. 
+ 
+EQUATION 7.2 
+CO2 EMISSIONS IN PEATLANDS DURING PEAT EXTRACTION 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎟⎠ • ⎛
+⎞
+⎜⎝
+⎛
+−
++
+−
+=
+−
+−
+12
+44
+2
+2
+2
+peaton site
+site
+peatoff
+WWpeat
+WW
+WW
+C
+CO
+C
+CO
+CO
+ 
+Where: 
+CO2 WWpeat = CO2 emissions from land undergoing peat extraction, Gg CO2 yr-1  
+CO2–CWW peatoff-site = off-site CO2–C emissions from peat removed for horticultural use, Gg C yr-1  
+CO2–CWWpeat on-site = on-site CO2–C emissions from drained peat deposits, Gg C yr-1 
+Off-site CO2–C emissions are associated to the horticultural (non-energy) use of peat extracted and removed. 
+Off-site emissions from peat used for energy should be reported in the Energy Sector, and is therefore not 
+included here. 
+Regardless of the end-use of peat, the choice of method, emission factors, and activity data for estimating the on-
+site emissions can be the same, so long as the data are disaggregated for type of peat, which is closely associated 
+with nutrient level (rich and poor), and if appropriate climate zone. 
+CHOICE OF METHOD 
+Figure 7.1 presents the decision tree to estimate greenhouse gas emissions from peatlands. 
+Tier 1 
+A default methodology is provided that covers on-site CO2 emissions (without distinction between the phases of 
+peat production), and the horticultural use of peat (Equations 7.3 to 7.5).  
+ 
+EQUATION 7.3 
+CO2 –C2 EMISSIONS FROM MANAGED PEATLANDS (TIER 1) 
+ 
+ 
+peaton site
+site
+peatoff
+peat
+WW
+WW
+WW
+C
+CO
+C
+CO
+C
+CO
+−
+−
+−
++
+−
+=
+−
+2
+2
+2
+ 
+Where: 
+CO2–CWWpeat = CO2 –C emissions from managed peatlands, Gg C yr-1  
+CO2–C WW peat on-site   = on-site emissions from peat deposits (all production phases), Gg C yr-1 
+CO2–C WW peat off-site = off-site emissions from peat removed for horticultural use, Gg C yr-1 
+ 
+Equation 7.4 is applied to the total area of managed peatlands, including land being converted to peatlands and 
+abandoned peatlands, unless abandoned peatlands were converted to another use, in which case emissions should 
+be attributed to the new land use, e.g., Cropland or Forest Land.  
+The Tier 1 methodology considers only emissions from biomass clearing. When the total area of managed 
+peatlands increases, conversion to peatland is occurring. The conversion of peatlands for peat extraction involves 
+clearing and removal of vegetation. The term ∆CWW peat B of Equation 7.4 is estimated as ΔCconversion, using 
+Equation 2.16 (Chapter 2 of this Volume). Other changes in C stocks in living biomass on managed peat lands 
+are assumed to be zero. 
+ 
+                                                           
+2 CO2–C refers to carbon emitted as CO2 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 7.1 
+Decision tree to estimate CO2–C and N2O emissions from Peatlands 
+Remaining Peatlands 
+ 
+Start
+Are
+managed peatlands
+a key category1?
+Are
+historical
+and current data
+available on the area of managed 
+peatlands and on peat
+production?
+Estimate emissions using
+country-specific
+methodology and
+emission factors (Tier 3).
+Collect or compile historical
+and current data from the national 
+peat industry, government 
+agency, or from the International 
+Peat Society
+Estimate emissions 
+using default method 
+and country-specific 
+data (Tier2).
+No
+Yes
+Yes
+Note:
+1: See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Were
+domestic studies
+done on GHG emissions/ 
+removals on industrial
+peatlands?
+Is detailed
+information available on
+land conversion for peat extraction, 
+extraction methods, peat use, fertility, 
+and on-site
+emissions?
+No
+No
+Yes
+Yes
+Estimate emissions
+using default emission
+factors and activity data
+(Tier 1).
+Estimate emissions 
+using default method 
+and emission factors 
+and national activity 
+data (Tier1).
+No
+Box 1: Tier 1
+Box 2: Tier 1
+Box 3: Tier 2
+Box 4: Tier 3
+ 
+ 
+ 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.11 
+EQUATION 7.4 
+ON-SITE SOIL CO2–C EMISSIONS FROM MANAGED PEATLANDS  (TIER 1) 
+ 
+B
+peat
+peatPoor
+peatRich
+peaton site
+WW
+CO
+peatPoor
+CO
+peatRich
+WW
+C
+EF
+A
+EF
+A
+C
+CO
++ Δ
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+•
++
+•
+=
+−
+−
+1000
+)
+(
+)
+(
+2
+2
+2
+ 
+Where: 
+CO2–C WW peat on-site = on-site CO2–C emissions from peat deposits (all production phases), Gg C yr-1 
+ApeatRich 
+= area of nutrient-rich peat soils managed for peat extraction (all production phases), ha 
+ApeatPoor 
+= area of nutrient-poor peat soils managed for peat extraction (all production phases), ha 
+EFCO2peatRich = CO2 emission factors for nutrient-rich peat soils managed for peat extraction or abandoned 
+after peat extraction, tonnes C ha-1 yr-1 
+EFCO2peatPoor = CO2 emission factors for nutrient-poor peat soils managed for peat extraction or abandoned 
+after peat extraction, tonnes C ha-1 yr-1 
+∆CWW peat B  = CO2–C emissions from change in carbon stocks in biomass due to vegetation clearing, Gg C 
+yr-1 
+Off-site emission estimates are derived by converting the annual peat production data (either volume or air-dry 
+weight) to the weight of carbon (Equation 7.5).  All carbon in horticultural peat is assumed to be emitted during 
+the extraction year. Countries may modify this assumption at higher tiers. 
+ 
+EQUATION 7.5 
+OFF-SITE CO2–C EMISSIONS FROM MANAGED PEATLANDS  (TIER 1) 
+ 
+1000
+)
+(
+_
+_
+2
+peat
+wt
+peat
+dry
+WW
+Cfraction
+Wt
+C
+CO
+site
+off
+peat
+•
+=
+−
+−
+ 
+or 
+1000
+)
+(
+_
+_
+2
+peat
+vol
+peat
+dry
+WW
+Cfraction
+Vol
+C
+CO
+site
+off
+peat
+•
+=
+−
+−
+ 
+ 
+Where: 
+CO2–C WW peat off-site = off-site CO2–C emissions from peat removed for horticultural use, Gg C yr-1 
+Wtdry_peat = air-dry weight of extracted peat, tonnes yr-1 
+Voldry_peat = volume of air-dry peat extracted, m3 yr-1 
+Cfractionwt_ peat = carbon fraction of air-dry peat by weight, tonnes C (tonne of air-dry peat)-1 
+Cfractionvol_peat = carbon fraction of air-dry peat by volume, tonnes C (m3 of air-dry peat)-1 
+ 
+Tier 2  
+Tier 2 calculations use country-specific emission factors and parameters, spatially disaggregated to reflect 
+regionally important practices and dominant ecological dynamics. It may be appropriate to subdivide activity 
+data and emission factors according to extraction practices (e.g., the technology used to dry and extract peat), 
+peat fertility and composition as influenced by previous vegetation cover, and the carbon fraction of air-dry peat 
+under local climates. Generally, peatland drainage leads to peat compaction and subsidence as well as oxidation 
+and carbon losses other than as CO2. The acrotelm (upper, oxic zone of the peat) is susceptible to seasonal 
+variations in volumetric moisture content especially if the peat structure has been altered (Waddington & Price, 
+2000). Hence, measurements of carbon stock changes in peat soils are difficult to make and are unlikely to 
+estimate correctly CO2 fluxes from these soils, and are therefore not recommended unless data are carefully 
+calibrated.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 2 methodologies involve separating peatlands being converted for peat extraction from those already 
+producing commercial peat. Section 7.2.2 describes estimation methodologies for Land Being Converted for 
+Peat Extraction. Care should be taken not to double-count CO2 emissions from biomass clearing.  
+Tier 3 
+A Tier 3 approach involves a comprehensive understanding and representation of the dynamics of CO2 emissions 
+and removals on managed peatlands, including the effect of site characteristics, peat type and depth, extraction 
+technology, and the phases of peat extraction described at the beginning of Section 7.2. The methodology will 
+include all the known on-site sources of CO2 (Equation 7.6).  The term CO2–CWW peatconversion of Equation 7.6 
+refers to emissions from the land conversion, including changes in biomass carbon stock and soil emissions. The 
+term CO2–CWW peatextraction corresponds to on-site emissions to be reported under Tier 1 (less the biomass term, 
+now included in CO2–CWW peatconversion). Emissions from stockpiles of drying peat (variable CO2–CWW peat stockpiling) 
+are much more uncertain.  Higher temperatures may cause stockpiles to release more CO2 than the excavation field, 
+but data are not at present sufficient to provide guidance. CO2 emission patterns from abandoned peatlands (CO2–
+CWW peatpost) vary with restoration techniques and the rates of soil respiration and vegetation regrowth (Petrone et 
+al., 2003; Waddington & McNeil, 2002; Komulainen et al., 1999); these patterns are therefore quite site-specific. 
+As in Tier 2, direct measurements of soil C stock changes are not recommended.  Countries with a significant 
+peat extraction industry and restoration activities should undertake to document separately the three on-site 
+sources of CO2 of Equation 7.6. 
+ 
+EQUATION 7.6 
+ON-SITE CO2–C EMISSIONS FROM MANAGED PEATLANDS (TIERS  2 AND 3) 
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+−
++
+−
++
+−
++
+−
+=
+−
+−
+peat post
+stockpiling
+peat
+peatextraction
+conversion
+peat
+peaton site
+WW
+WW
+WW
+WW
+WW
+C
+CO
+C
+CO
+C
+CO
+C
+CO
+C
+CO
+2
+2
+2
+2
+2
+ 
+Where: 
+CO2–CWW peat on-site   = on-site CO2–C emissions from peat deposits, Gg C yr-1
+ 
+CO2–CWW peatconversion = on-site CO2–C emissions from lands conversion for peat extraction, Gg C yr-1
+ 
+CO2–CWW peatextraction = CO2–C emissions from the surface of peat extraction area, Gg C yr-1 
+CO2–CWW peatstockpiling= CO2–C emissions from peat stockpiles prior to off-site removal, Gg C yr-1 
+CO2–CWW peatpost        = CO2–C emissions from soils of abandoned, cut-over peatlands, Gg C yr-1 
+ 
+CHOICE OF EMISSION FACTORS 
+Tier 1 
+Implementation of Tier 1 method requires the application of default on-site emission factors EFCO2peatRich and 
+EFCO2peatPoor , and default carbon fractions of peat by weight (Cfractionwt_peat ) or by volume (Cfractionvol_peat,) to 
+estimate off-site emissions from production data in weight or volume, respectively. Default values of 
+EFCO2peatRich and EFCO2peatPoor are provided in Table 7.4. Default carbon fractions of peat are provided in Table 7.5. 
+Nutrient-poor bogs predominate in boreal regions, while in temperate regions, nutrient-rich fens and mires are 
+more common. Types of peatlands can be inferred from the end-use of peat: sphagnum peat, dominant in 
+oligotrophic (nutrient-poor) bogs, is preferred for horticultural uses, while sedge peat, more common in 
+minerotrophic (nutrient rich) fens, is more suitable for energy generation. Boreal countries that do not have 
+information on areas of nutrient-rich and nutrient-poor peatlands should use the emission factor for nutrient-poor 
+peatlands. Temperate countries that do not have such data should use the emission factor for nutrient-rich 
+peatlands. Only one default factor is provided for tropical regions, so disaggregating peatland area by soil 
+fertility is not necessary for tropical countries using the Tier 1 method.  
+ 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.13 
+TABLE 7.4 
+EMISSION FACTORS FOR CO2–C AND ASSOCIATED UNCERTAINTY FOR LANDS MANAGED FOR PEAT EXTRACTION, BY 
+CLIMATE ZONE 
+Climate zone 
+Emission factor 
+(tonnes C ha-1 yr-1) 
+Uncertainty a 
+(tonnes C ha-1 yr-1) 
+Reference/Comment b 
+Boreal and Temperate 
+Nutrient – Poor 
+EFCO2peatPoor 
+0.2 
+0 to 0.63 
+Laine and Minkkinen, 1996; Alm et al., 
+1999; Laine et al., 1996; Minkkinen et al., 
+2002 
+Nutrient – Rich 
+EFCO2peatRich  
+1.1 
+0.03 to 2.9 
+Laine et al., 1996; LUSTRA, 2002; 
+Minkkinen et al., 2002; Sundh et al., 2000 
+Tropical 
+EFCO2peat 
+2.0 
+0.06 to 7.0 
+Calculated from the relative difference 
+between temperate (nutrient-poor) and 
+tropical  
+a Range of underlying data 
+b The boreal and temperate values have been developed as the mean from a review of paired plot measurements, assuming that 
+conditions on organic soils converted to peat extraction are lightly drained only. Most of the data are from European peatlands not 
+necessarily under production. 
+ 
+TABLE 7.5 
+CONVERSION  FACTORS FOR CO2–C FOR VOLUME AND WEIGHT PRODUCTION DATA 
+Climate zone 
+Cfractionwt_ peat 
+[tonnes C (tonne air-dry peat)-1] 
+Cfractionvol_peat 
+(tonnes C m-3 air-dry peat) 
+Boreal and Temperate 
+ 
+ 
+   Nutrient –Poor 
+0.45 
+0.07 
+   Nutrient –Rich 
+0.40 
+0.24 
+Tropical 
+ 
+ 
+   Tropical humus 
+0.34 
+0.26 
+Computed from US Geological Survey (2004): survey average bulk density, and typical moisture content and carbon contents. Based on 
+a 35-55% moisture content of air-dry peat. 
+  
+Tiers 2 and 3 
+The uncertainty of emission factors can be reduced by measuring the moisture content and carbon fraction of 
+extracted peat under local climates and extraction practices, taking into account interannual climate variability. 
+Spatially disaggregated CO2 flux measurements should be used to develop more precise on-site emission factors, 
+correcting for carbon losses through leaching of dissolved organic carbon or runoff. In boreal zones, winter 
+emissions can account for 10-30% of net annual emissions (Alm et al., 1999); and should be estimated. 
+Disaggregated CO2 flux measurements from peat stockpiles, abandoned and restored peat excavation sites would 
+assist in reducing further estimate of uncertainties. The literature is sparse and countries are encouraged to share 
+data, when peat quality, environmental conditions and extraction practices are similar.  
+CHOICE OF ACTIVITY DATA 
+All Tiers require data on areas of peatlands managed for peat extraction (ApeatRich and/or ApeatPoor) and peat 
+production data by weight or volume of air-dry peat (Wtdry_peat or Voldry_peat). 
+Tier 1 
+The default methodology assumes that a country has estimates of the total area on which peat is currently and 
+was extracted, including former commercial peatlands that have not been converted to other uses. In temperate 
+and boreal regions, this area should, where possible, be separated into nutrient-rich and nutrient-poor with the 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+default assumption consistent with the advice above on selection of emission factors. In addition, the quantity 
+(by dry weight or volume) or peat extracted annually must be known to estimate off-site CO2 emissions.  
+International data sets on peat extraction sites and production vary in quality and consistency. The sources of 
+production and area data may not be the same and different definitions and years between sources and countries 
+will likely introduce inconsistencies.  Because peat extraction methods rely on dry and sunny days for drying 
+peat, the annual production varies depending on suitable summer weather.  For the purpose of estimating off-site 
+emissions, peat production data should be separated according to end-use, i.e., horticultural peat and combustion 
+peat, since the estimation methods of this Chapter only require the production of horticultural peat. If it is 
+impossible to separate the quantity of peat produced by end-use, emissions from peat consumption should be 
+accounted under the inventory sector corresponding to the predominant end-use of domestically produced peat. 
+Useful area data can be found in Joosten (2004); Joosten & Clarke (2002); Sirin & Minayeva (2001); 
+Lappalainen (1996); and inventories published by Wetlands International (http://www.wetlands.org/). Data on 
+peat production are available from World Energy Council (2004) (for combustion peat) and the United States 
+Geological Survey (http://minerals.usgs.gov/minerals/pubs/commodity/peat/). Additional information may be 
+obtained from the International Peat Society (http://www.peatsociety.org/) or the International Mire 
+Conservation Group (http://www.imcg.net/).  
+When either areas or production data are missing, it may be possible to derive one from the other by using a 
+default conversion factor equal to an average production rate provided by the local industry. In a mature, 
+industrialized peat industry, block-cut methods can yield up to 1750 tonnes of air-dry peat per hectare annually, 
+while the vacuum method can extract up to 100 tonnes per hectare per year (Cleary et al., 2005). Air-dry peat 
+contains between 35% and 55% moisture (World Energy Council, 2004).  
+Tiers 2 and 3 
+Countries using higher Tiers should obtain national peat production data and the corresponding peatland areas.  
+In boreal and temperate regions, these area data need to be disaggregated by soil fertility to correspond to 
+appropriate emission factors. Possible sources of such data are national energy statistics, peat extraction firms, 
+peat industry associations, landscaping industry associations, and government ministries responsible for land use 
+or geological surveys. If it is not possible to stratify by peat fertility, countries may rely on expert judgment. 
+Boreal climates tend to promote nutrient-poor raised bogs, while temperate and oceanic climates tend to promote 
+the formation of nutrient-rich peatlands. Priorities for the development of country-specific activity data include:  
+i) areas of organic soils currently and formerly managed for peat extraction and disaggregated based on nutrient 
+status if relevant; ii) peat production data; iii) local moisture content that will reflect ambient conditions at the 
+time of peat extraction; and iv) country-specific carbon content, preferably by peat type.  
+More sophisticated estimation methodologies will require the determination of areas in each of the three phases 
+of the peat extraction cycle, including abandoned areas on which drainage or the effects of former peat extraction 
+are still present; and if warranted, areas characterized by different peat extraction technology, peat types and 
+extraction depths. If site restoration is underway, countries are encouraged to report separately the areas of 
+restored organic soils formerly managed for peat extraction and estimate emissions and removals from these 
+lands. In addition, countries with a significant production of horticultural peat may develop data to monitor the 
+off-site fate of extracted peat in order to develop time-sensitive decay curves.  
+7.2.1.2 
+NON-CO2 EMISSIONS FROM PEATLANDS REMAINING 
+PEATLANDS 
+METHANE  
+When peatlands are drained in preparation for peat extraction, the natural production of CH4 is largely reduced, 
+but not entirely shut down (Strack et al., 2004), as the methanogen bacteria thrive only in anaerobic conditions.  
+Under Tier 1, methane emissions are assumed to be insignificant in these drained peatlands. At higher tiers, 
+countries are encouraged to examine the pattern of CH4 emissions from topographic lows and drainage ditches, 
+which can contribute a significant proportion of the total greenhouse gas emissions from these managed 
+peatlands (Sundh et al., 2000).  
+NITROUS OXIDE   
+Depending on site fertility, peat deposits may contain significant amounts of organic nitrogen in inactive form.  
+Drainage allows bacteria to convert the nitrogen into nitrates, which then leach into the surface where they are 
+reduced to N2O. In drained peatlands, the potential quantity of N2O emitted depends on the nitrogen content of 
+the peat.  At C:N ratios exceeding 25,  the  N2O emissions may be considered insignificant (Klemedtsson et al., 
+2005).  
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.15 
+Currently, there are no estimation methods that would allow separation of N2O emissions from organic matter 
+decay during the off-site use of horticultural peat. Nitrogen fertilizers are commonly added to horticultural peat 
+before use, and this source would likely dominate N2O emission patterns. In order to avoid double-counting N2O 
+emitted from the use of fertilizers, the default approach for estimating N2O emissions from lands managed for 
+peat extraction excludes emissions from the decay of organic nitrogen in horticultural peat. 
+Choice of method 
+Use the decision tree of Figure 7.1 to determine the appropriate methodological tier for N2O emissions. 
+Tier 1 
+The Tier 1 method for estimating N2O emissions from drained wetlands is similar to that described for drained 
+organic soils for agriculture or forestry, but emission factors are generally lower. The default methodology only 
+considers nutrient-rich peatlands.  
+    
+EQUATION 7.7 
+N2O EMISSIONS FROM PEATLANDS DURING PEAT EXTRACTION 
+ 
+(
+)
+6
+2
+10
+28
+44
+2
+−
+−
+•
+•
+•
+=
+peatRich
+peatExtraction
+N O N
+peatRich
+WW
+EF
+A
+N O
+ 
+Where: 
+N2OWWpeat Extraction = direct N2O emissions from peatlands managed for peat extraction, Gg N2O yr-1 
+ApeatRich = area of nutrient-rich peat soils managed for peat extraction, including abandoned areas in which 
+drainage is still present, ha 
+EFN2O–Npeat Rich = emission factor for drained nutrient-rich wetlands organic soils, kg N2O–N ha-1 yr-1 
+ 
+ 
+Tier 2 
+Under Tier 2, the activity data are disaggregated by additional factors such as peat type and fertility, phase of 
+peat extraction, and time since the onset of drainage activities. The corresponding emission factors are country-
+specific and take into account conditions and practices of peat extraction, drainage depth, and changes in the C:N 
+ratio down the peat profile.   
+Tier 3 
+Tier 3 methods involve a comprehensive understanding and representation of the dynamics of N2O emissions 
+and removals on managed peatlands, including the effect of site characteristics, peat type and depth, extraction 
+technology, and the phases of peat extraction as described at the beginning of Section 7.2. The methodology will 
+include all the relevant sources of N2O. Both on-site and off-site emissions will be considered, and take into 
+account the rate of peat decay under common extraction and utilization conditions. Methods should be consistent 
+with the estimation procedures for CO2 emissions, e.g., the same off-site decay rates should be used.  If process-
+based models are used, they should be calibrated and validated against independent measurements which are 
+representative of the national conditions. 
+Choice of emission/removal factors 
+Tier 1 
+Default emission factors for the Tier 1 method are provided in Table 7.6.  
+Tiers 2 and 3 
+Countries applying Tier 2 methods develop country-specific emission factors, which may be able to differentiate 
+emission rates during land conversion to peat land and the ongoing emissions during peat extraction. Tiers 2 and 
+3 require country-specific emission data that account for site characteristics, peat type and depth, extraction 
+technology, the phases of peat extraction or other relevant factor. Peat type is especially relevant to its 
+decomposability and the ensuing N2O emissions. Emissions from the off-site use of horticultural peat should be 
+included in Tier 3 methods. Currently, the literature is sparse and results are sometimes contrasting. Countries 
+are encouraged to share comparable data, when environmental conditions and extraction practices are similar. 
+  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.6 
+DEFAULT EMISSION FACTORS FOR N2O EMISSIONS FROM MANAGED PEATLANDS  
+Climate zone  
+Emission factor 
+EFN2O 
+(kg N2O-N ha-1 
+yr-1) 
+Uncertainty 
+range 
+(kg N2O-N 
+ ha-1 yr-1) 
+Reference/ Comments 
+Boreal and Temperate Climate 
+ 
+ 
+ 
+   Nutrient-poor organic Soil 
+negligible 
+negligible 
+   Nutrient-rich organic Soil 
+1.8 
+0.2 to 2.5 
+Alm et al., 1999; Laine et al., 1996; 
+Martikainen et al., 1995; Minkkinen et 
+al., 2002; Regina et al., 1996 
+Tropical Climate 
+3.6 
+0.2 to 5.0 
+The value for tropical areas is twice that 
+for northern climates, based on the 
+relative difference between temperate and 
+tropical N2O EF in Table 11.1, Chapter 
+11. 
+Most of the data are from European peatlands not necessarily under production. Climate zones are as described in Chapter 3.  
+ 
+Choice of activity data 
+Tier 1 
+The same activity data should be used for estimating CO2 and N2O emissions from managed peatlands. 
+Information on obtaining these data is provided in Section 7.2.1 above. For countries in boreal and temperate 
+regions using the Tier 1 method, area data should be stratified by soil fertility, since only nutrient-rich peat soils 
+are considered. If the available information does not allow stratification by peat fertility, countries may rely on 
+expert judgment. Boreal climates tend to promote nutrient-poor raised bogs or fens, while temperate and oceanic 
+climates tend to promote the formation of nutrient-rich peatlands. Low fertility peatlands are generally acidic 
+(with low pH). Under Tier 1, additional uncertainty arises from the use of unique default CO2 and N2O emission 
+factors, applied to both Land Being Converted for Peat Extraction and Peatlands Remaining Peatlands, as the 
+nitrogen content and bioavailability of organic C and N may change with depth. 
+Tiers 2 and 3 
+Priorities for the development of country-specific activity data include areas of organic soils managed for peat 
+extraction, disaggregated based on nutrient status if relevant, and annual peat production data. More 
+sophisticated estimation methodologies will require the determination of areas in each of the three phases of the 
+peat extraction cycle, including abandoned areas on which drainage or the effects of former peat extraction are 
+still present; and if warranted, areas characterized by different peat extraction technology, peat types and 
+extraction depths. If site restoration is underway, countries should report separately the areas of restored organic 
+soils formerly managed for peat extraction and estimate emissions and removals from these lands. In addition, 
+countries with a significant production of horticultural peat may develop data to monitor the off-site fate of 
+extracted peat in order to develop time-sensitive decay curves (see also Section 7.2.1). 
+7.2.1.3 
+UNCERTAINTY ASSESSMENT 
+Emission factors 
+For both CO2 and N2O, the key uncertainties in Tier 1 estimation procedures are the default emission factors 
+(Tables 7.4 and 7.6), and other parameters such as moisture content of air-dry peat. Emission factors and 
+parameters have been developed from only a few (less than 10) data points, mostly in temperate and boreal 
+regions, and may not be representative for large areas or climate zones. The standard deviation of the emission 
+factors easily exceeds 100% of the mean, but underlying probability functions are likely to be non-normal. The 
+variability in peat specific gravity and its moisture holding capacity accounts for a significant component of this 
+uncertainty. Depending on peat characteristics, the interannual variability in precipitation can alter the rate of 
+organic matter decay by 25% to 100% (Waddington et al., 2002). Variability in peat moisture content and peat 
+quality accounts for a 20% uncertainty on the carbon content of air-dry peat. In general, countries are encouraged 
+to use the range rather than the standard deviation.  
+Many organic soils have been drained and converted to other uses, e.g., agricultural or forestry production. These 
+soils are frequently on more fertile sites, and thus emission factors are higher. In addition to drainage, 
+management activities will alter the distribution of organic matter along the soil profile, and consequently the 
+greenhouse gas emission patterns. Hence, greenhouse gas emission patterns from organic soils under different 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.17 
+land management practices are expected to differ. When country-specific factors are developed, countries should 
+use sufficient sample sizes and techniques to minimize standard errors. Ideally, probability density functions (i.e., 
+providing mean and variance estimates) should be derived for all country-defined parameters. At a minimum, 
+Tier 2 approaches should provide error ranges for each country-defined parameter. Such data can be used in 
+advanced uncertainty analyses such as Monte Carlo simulations.  
+Under Tier 3, emission factors and their associated probability density functions are used to develop means and 
+confidence intervals for the entire category, with advanced procedures (e.g., Monte-Carlo).  Process-based 
+models will in principle provide more realistic estimates but need to be calibrated and validated against 
+measurements. Uncertainties arising from the use of models need to be quantified with similar procedures. Refer 
+to Volume 1, Chapter 3 of these Guidelines for guidance on developing such analyses. 
+Activity data 
+Countries that used aggregated activity data for managed peatlands should factor in an uncertainty of 50% in 
+Europe and North America, but a factor of 2 in the rest of the world. Uncertainty can be higher if managed 
+peatland areas are based on total (managed and unmanaged) peatlands, or on production data, since peat 
+production strongly depends on good weather conditions. Under Tiers 2 and 3, the spatial disaggregation of 
+peatland areas by relevant eco-climatic parameters and/or management practices, information on the end-use of 
+peat, and the distinction between recently converted peatlands and those under ongoing production and 
+restoration, will enable more accurate estimation procedures.  
+ 7.2.2 
+Land Being Converted for Peat Extraction 
+Under a Tier 1 approach, the activity data do not distinguish between peatlands under peat extraction (Peatlands 
+Remaining Peatlands), and those being converted for peat extraction (see the beginning of Section 7.2 for a 
+description of the three phases of peat extraction). Countries using such an approach should refer to Section 7.2.1 
+for methodological guidance.  Countries using a Tier 2 methodology should make the separation. This section 
+provides guidance specific to peatlands being drained and converted for peat extraction.  
+7.2.2.1 
+CO2 EMISSIONS ON LANDS BEING CONVERTED FOR PEAT 
+EXTRACTION  
+As described in the introduction of Section 7.2, the peat extraction cycle has three phases, the first one of which 
+being the development or conversion for peat extraction, characterized by extensive drainage work (if the area 
+was not already drained for other purposes), but little peat extraction. This conversion phase typically lasts for 2 
+to 5 years. In contrast with other land-use conversions in these Guidelines, the recommended default transition 
+period for Land Being Converted for Peat Extraction is five years.  
+Greenhouse gas emissions from lands being cleared and drained for peat extraction are significantly different 
+from the emissions of lands currently undergoing peat extraction or have been exhausted and abandoned.  The 
+major emissions during the conversion process arise from the removal and destruction of the living biomass of 
+the peatland ecosystem, and from soils during drainage. Since these lands are not yet into production, there is no 
+peat extraction and therefore no off-site emissions from extracted peat.  
+Equation 7.8 represents the main sources of CO2–C emissions during land conversion for peat extraction. 
+EQUATION 7.8 
+ CO2 –C EMISSIONS IN PEATLAND BEING DRAINED FOR PEAT EXTRACTION 
+ 
+(
+)
+(
+)
+drainage
+peat
+peatDOM
+peatB
+peat on site
+LW
+WW
+WW
+LW
+C
+CO
+C
+C
+C
+CO
+_
+_
+2
+2
+−
++
+− Δ
++
+= − Δ
+−
+−
+ 
+Where: 
+CO2–CLWpeat_on-site  = CO2–C emissions from land being converted for peat extraction, Gg C yr-1 
+∆CWWpeat B = CO2–C emissions from change in carbon stocks in living biomass, Gg C yr-1   
+∆CWWpeatDOM = CO2–C emissions from change in carbon stocks in dead organic matter pool, Gg C yr-1  
+CO2–CLWpeat drainage = CO2–C emissions from soils during drainage, Gg C yr-1 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHOICE OF METHOD 
+Tier 2 
+None of the procedures for estimating these quantities is unique to this category, except for emissions from soils 
+during drainage.  If pre-clearing standing vegetation is Forest Land or Grassland, the estimation procedures for 
+emissions from the living biomass from the conversion of Forest Land or Grassland to Cropland is discussed in 
+Chapter 5, Section 5.3. Where fires are used to clear vegetation, emissions of non-CO2 gases, i.e., CH4 and N2O 
+will also occur. These emissions can be estimated following guidance also provided in Chapter 2.  Biomass 
+burning and decay of unburned biomass and dead organic matter can be estimated, if country-specific emission 
+factors are available. The areas of land being drained can be broken down according to peat fertility, peat type, 
+and previous land-use or land cover. Countries may be able to refine emission factors accordingly.  
+Equation 7.9 provides the general approach to estimate emissions from soil during drainage. Conceptually, it is 
+the same as Equation 7.6 used to determined CO2–C WW peaton-site for managed peatlands.  
+EQUATION 7.9 
+CO2 –C EMISSIONS FROM SOILS IN PEATLAND BEING DRAINED FOR  PEAT EXTRACTION 
+(
+)
+(
+)
+⎥
+⎥
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎢
+⎢
+⎣
+⎡
+•
++
+•
+=
+−
+1000
+_
+_
+_
+_
+2
+2
+2
+_
+Poor
+Poor
+Rich
+Rich
+peat drainage
+peat
+CO drained
+peat
+drained
+peat
+CO drained
+peat
+drained
+LW
+EF
+A
+EF
+A
+C
+CO
+ 
+Where: 
+CO2–CLW peat _drainage = CO2–C emissions from soils on lands converted for peat extraction, Gg C yr-1
+ 
+Adrained peatRich = area of nutrient-rich peat soils being drained, ha 
+Adrained peatPoor = area of nutrient-poor peat soils being drained, ha 
+EFCO2drained peatRich = emission factors for CO2–C from nutrient-rich peat soils being drained, tonnes C ha-1 
+yr-1 
+EFCO2 drained peatPoor = emission factors for CO2–C from nutrient-poor peat soils being drained, tonnes C ha-1 
+yr-1 
+ 
+Tier 3 
+Tier 3 methods involve a comprehensive understanding and representation of the dynamics of CO2 emissions 
+and removals on Land Being Converted for Peat Extraction, including the effect of peat type and fertility, site 
+characteristics such as blanket or raised bogs, and previous land-use or land cover if relevant, which could be 
+combined with appropriate emission factors and/or process-based models. The methodology includes the fate of 
+C in all pools, C transfers between pools upon conversion (e.g., biomass to dead organic matter), and 
+distinguishes immediate and delayed emissions. Estimates based on changes in stocks should be corrected for 
+carbon losses due to the leaching of dissolved organic carbon, losses of dead organic matter through runoff, or as 
+CH4 emissions.  
+CHOICE OF EMISSION/REMOVAL FACTORS 
+Tier 2 
+Countries applying Tier 2 methods will develop country-specific emission factors EFCO2drained peatRich and EFCO2 
+drained peatPoor to differentiate emission rates during land conversion, from the ongoing emissions during the peat 
+extraction phase. It may be possible to differentiate emission factors further by type of peat, its fertility, and 
+drainage depth, previous land use or land cover, and climatic zones.  
+Tier 3 
+Under Tier 3, all parameters should be country-specific. The literature is sparse and it is good practice to derive 
+country-specific emission factors and data should be shared between countries with similar environmental 
+conditions.  
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.19 
+CHOICE OF ACTIVITY DATA 
+Tier 2 
+The basic activity data required are the area of organic soils converted for peat extraction and disaggregated by 
+nutrient status (or fertility). Possible sources of area data are peat extraction firms, peat industry associations, and 
+government ministries responsible for land information. Under Tier 2, countries can also incorporate information 
+based on the original land use, peat type and peat fertility of the lands being converted. This information could 
+be gathered from regular updates of the national peatland inventory.  
+Tier 3 
+Under Tier 3, detailed information on the original land use, peat type, and peat fertility of areas converted for 
+peat extraction, is needed. More specific data needs may be defined depending on the estimation procedures.  
+7.2.2.2 
+NON-CO2 EMISSIONS FROM LANDS BEING CONVERTED TO 
+MANAGED PEATLANDS 
+The discussion of methodological issues in Section 7.2.1.2 “Non-CO2 Emissions from Peatlands Remaining 
+Peatlands” will also apply here with the exception of non-CO2 emissions from the off-site decay of horticultural 
+peat; since there is no peat extraction during the phase of land conversion and preparation. Under higher tiers, 
+methane emissions may no longer be assumed negligible on lands being drained. Equation 7.7 of Section 7.2.1 
+also describes the default approach to estimate N2O emissions.  
+7.2.2.3 
+UNCERTAINTY ASSESSMENT 
+Emission factors 
+Refer to the discussion on emission factor uncertainties in Section 7.2.1.3  
+Uncertainty attached to the carbon content of pre-conversion vegetation cover, as affected by the previous land 
+use, should be included in the uncertainty assessment of CO2 estimates. The uncertainty probability distribution 
+of the emissions is likely to be non-normal, so the 95% interval of a log-normal distribution is assumed here as 
+default uncertainty (see Tables 7.4 and 7.6). It is recommended to use this range rather than a symmetrical 
+standard deviation. 
+Activity data 
+Agencies providing area data should have information on area uncertainties; otherwise default uncertainty data 
+associated with the advice on area estimation in Chapter 3 can be used. 
+7.3 
+FLOODED LAND 
+Flooded Lands are defined as water bodies where human activities have caused changes in the amount of surface 
+area covered by water, typically through water level regulation. Examples of Flooded Land include reservoirs for 
+the production of hydroelectricity, irrigation, and navigation.  Regulated lakes and rivers that do not have 
+substantial changes in water area in comparison with the pre-flooded ecosystem are not considered as Flooded 
+Lands. Some rice paddies are cultivated through flooding of land, but because of the unique characteristics of 
+rice cultivation, rice paddies are addressed in Chapter 5 (Cropland) chapter of the Guidelines. 
+Flooded Lands may emit CO2, CH4 and N2O in significant quantities, depending on a variety of characteristic 
+such as age, land-use prior to flooding, climate, and management practices. Emissions vary spatially and over 
+time.  
+While there is evidence, especially in tropical areas, of increased CH4 emissions due to flooding, the high 
+temporal and spatial variability of CH4 emissions has so far precluded the development of default emission 
+factors for all climatic regions.  The available information regarding CH4 emissions is provided in Appendix 3. 
+Nitrous oxide emissions from Flooded Lands are typically very low, unless there is a significant input of organic 
+or inorganic nitrogen from the watershed. It is likely that such inputs would result from anthropogenic activities 
+such as land-use change, wastewater treatment or fertilizer application in the watershed. In order to avoid 
+double-counting N2O emissions already captured in the greenhouse gas budget of these anthropogenic sources, 
+and in light of the very limited contribution of N2O emissions from Flooded Lands reported in the literature, the 
+current section will not consider these emissions. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3.1 
+Flooded Land Remaining Flooded Land 
+No methodologies are provided for Flooded Land Remaining Flooded Land. As explained above, it is assumed 
+that CO2 and N2O emissions occurring on flooded lands are already covered by methodologies described in other 
+sectors. The default methodology for Land Converted to Flooded Land provides guidance for estimation of CO2 
+emission due to flooding. Available information on CH4 emissions is provided in Appendix 3 but it is not 
+possible, at present, to recommend a default methodology. Countries seeking to report CH4 emissions from 
+flooded lands should, where feasible, develop domestic emission factors. Guidance on the development of such 
+factors is provided in Appendix 2, Box 2a.1. 
+7.3.2 
+Land Converted to Flooded Land 
+For reasons already explained, this section provides guidance only on estimation of CO2 emissions from Land 
+Converted to Flooded Land.  
+7.3.2.1 
+CO2 EMISSIONS FROM LAND CONVERTED TO FLOODED 
+LAND 
+CHOICE OF METHOD AND EMISSION FACTOR 
+The method for estimating carbon stock change due to land conversion to permanently flooded land is shown in 
+Equation 7.10. The carbon stock of the land prior to conversion can be estimated following the method for living 
+biomass described for various land-use categories in other sections of this volume. Here, it is assumed that the 
+carbon stock after conversion is zero.  
+EQUATION 7.10 
+ANNUAL CHANGE IN CARBON STOCKS IN LIVING BIOMASS ON LAND CONVERTED TO 
+PERMANENTLY FLOODED LAND 
+12
+44
+)
+(
+2 _
+• −
+Δ
+=
+•
+⎥⎦
+⎤
+⎢⎣
+⎡
+−
+•
+=
+Δ
+∑
+LB
+i
+i
+LB
+LWflood
+LWflood
+Before
+i
+After
+i
+LWflood
+C
+CO
+CF
+B
+B
+A
+C
+ 
+Where: 
+ΔCLWfloodLB = annual change in carbon stocks in biomass on Land Converted to Flooded Land, tonnes C 
+yr-1 
+Ai = area of land converted annually to Flooded Land from original land use i, ha yr-1 
+BAfteri = biomass immediately following conversion to Flooded Land, tonnes d.m. ha-1 (default = 0) 
+BBeforei = biomass in land immediately before conversion to Flooded Land, tonnes d.m. ha-1 
+CF = carbon fraction of dry matter (default = 0.5), tonnes C (tonne d.m.)-1 
+CO2_LWflood = annual CO2 emissions on Land Converted to Flooded Land, tonnes CO2 yr-1 
+ 
+It is possible that the carbon remaining on the converted land prior to flooding may be emitted over several years 
+after flooding.  
+No guidance is provided on carbon stock changes from soils due to land conversion to Flooded Land at this time.  
+The stock change method assumes that all the carbon in biomass that existed prior to flooding is emitted and this 
+may lead to overestimates. Countries are encouraged to develop higher tier country-specific methods based on 
+models, measurements and associated parameters. A possible approach is given in Appendix 2. Generic guidance 
+on the development of country-specific methods based on models and measurements is available in Chapter 2, 
+Section 2.5. 
+Emissions of non-CO2 gases from Land Converted to Flooded Land are covered in Appendix 3. 
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.21 
+CHOICE OF ACTIVITY DATA 
+Countries can obtain their flooded land area from a drainage basin cover analysis, from a national dam database, 
+from the International Commission on Large Dams (ICOLD, 1998) or from the World Commission on Dams 
+report (WCD, 2000). 
+7.3.2.2 
+NON-CO2 EMISSIONS FROM LAND CONVERTED TO 
+FLOODED LAND 
+Available information on CH4 emissions for Land Converted to Flooded Land can be found in Appendix 3.  
+7.3.2.3 UNCERTAINTY ASSESSMENT 
+National statistical information on the flooded area retained behind large dams (> 100km2) should be available 
+and will probably be accurate to within 10 percent. Where national database on dams are not available, and other 
+information is used, the flooded land areas retained behind dams will probably have an uncertainty of more than 
+50 percent, especially for countries with large flooded land areas. Detailed information on the location, type and 
+function of smaller dams may be also difficult to obtain, though statistical inference may be possible based on 
+the size distribution of reservoirs for which data are available. Reservoirs are created for a variety of reasons that 
+influence the availability of data, and, consequently, the uncertainty on surface area is dependent on country 
+specific conditions. 
+Uncertainty in biomass stocks is discussed in Chapters 4, 5 and 6. 
+7.4 
+COMPLETENESS, TIME SERIES 
+CONSISTENCY, AND QA/QC 
+7.4.1 
+Completeness 
+Complete greenhouse gas inventories will include estimates of emissions from the two types of managed 
+wetlands as described in Sections 7.2 and 7.3 above, unless these wetland types do not occur on the national 
+territory.   
+As in other land categories, countries are encouraged to monitor the fate of managed wetlands, and avoid double-
+counting with lands in other categories. It is good practice to document the extent of reservoir areas. Once 
+peatlands are brought under peat extraction, they remain managed peatlands even after peat extraction activities 
+have ceased, until they are converted to another use. Rewetting of soils, or the return of the water table to pre-
+drainage levels, do not change the status of peatlands. See Section 7.5 “Future Methodological Development” for 
+additional discussion of restored peatlands. 
+Countries using advanced methods and data should take care not to report greenhouse gas emissions already 
+accounted for in other AFOLU chapters, or in other Volumes of these guidelines. In particular, wetlands may 
+receive non-point source effluents and sediments with high nutrient contents; organic or inorganic N, and 
+organic C emitted from these wetlands may have already been included in the estimation methodologies for 
+Forest Land or Cropland, or the Waste Sector. When there is evidence of such non-point source of carbon or 
+nitrogen to wetlands, it is good practice to ensure that the associated greenhouse gas emissions are reported 
+under the proper inventory sectors and categories; countries are encouraged to develop, compile or use the 
+available information in order to avoid biased estimates.   
+7.4.2 
+Developing a consistent time series 
+General guidance on consistency in time series can be found in Volume 1, Chapter 5 (Time Series Consistency). 
+The emission estimation method should be applied consistently to every year in the time series, at the same level 
+of spatial disaggregation. Moreover, when country-specific data are used, national inventories agency should use 
+the same measurement protocol (sampling strategy, method, etc.) throughout the time series. If this is not 
+possible, the guidance on interpolation techniques and recalculation in Volume 1, Chapter 5 should be followed. 
+Differences in emissions between inventory years should be explained, e.g., by demonstrating changes in areas 
+of peatlands or flooded lands, by updated emission factors.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.4.3 
+Quality Assurance and Quality Control (QA/QC) 
+Quality assurance/quality control (QA/QC) procedures should be developed and implemented as outlined in 
+Volume 1, Chapter 6 of this report. The development of additional, category-specific quality control and quality 
+assurance activities may also be applicable (Volume 1, Chapter 6), particularly if higher tier methods are used to 
+quantify emissions from this source category. Where country-specific emission factors are being used, they 
+should be based on high quality experimental data, developed using a rigorous measurement programme, and be 
+adequately documented.  
+It is, at present, not possible to crosscheck emissions estimates from organic soils managed for peat extraction 
+with other measurement methods. However, the inventory agency should ensure that emission estimates undergo 
+quality control by: 
+• 
+cross-referencing reported country-specific emissions factors with default values, and values published in 
+the scientific literature or reported by other countries; 
+• 
+checking the accuracy of activity data with data of peat industries and peat production; and 
+• 
+assessing the plausibility of estimates against those of other countries with comparable circumstances. 
+7.4.4 
+Reporting and Documentation  
+It is appropriate to document and archive all information required to produce the national emission/removal 
+inventory estimates as outlined in Volume 1, Chapter 8 of these Guidelines.  
+EMISSION FACTORS 
+The scientific basis of new country-specific emission factors, parameters and models should be fully described 
+and documented. This includes defining the input parameters and describing the process by which the emission 
+factors, parameters and models were derived, as well as describing sources of uncertainties. 
+ACTIVITY DATA 
+Sources of all activity data used in the calculations (data sources, databases and soil map references) should be 
+recorded, plus (subject to any confidentiality considerations) communication with industry.  This documentation 
+should cover the frequency of data collection and estimation, and estimates of accuracy and precision, and 
+reasons for significant changes in emission levels.  
+TREND ANALYSIS 
+Significant fluctuations in emissions between years should be explained. A distinction should be made between 
+changes in activity levels and changes in emission factors, parameters and methods from year to year, and the 
+reasons for these changes documented. If different emission factors, parameters and methods are used for 
+different years, the reasons for this should be explained and documented. 
+7.5 
+FUTURE METHODOLOGICAL DEVELOPMENT 
+Other types of managed wetlands may emit or sequester significant amounts of greenhouse gases, notably 
+restored or constructed wetlands. Restored wetlands are wetlands which have been drained and perhaps 
+converted to other uses in the past, but have recently been restored back to functioning wetland ecosystems by 
+raising the water table to pre-drainage levels.  In recent decades, public, non-profit and other programs in 
+numerous countries have begun to restore former wetlands and construct others from uplands.  A primary 
+purpose is to reduce the runoff from agricultural fields and settlements which causes eutrophication, algal 
+blooms, and hypoxic dead zones in lakes, estuaries, and enclosed bays and seas.  Other important benefits 
+include reducing flood damage, stabilizing shorelines and river deltas, retarding saltwater seepage, recharging 
+aquifers, and improving wildlife, waterfowl, and fish habitat.   
+Most operational wetland restorations have occurred since 1990. The technical literature describes programs or 
+projects in some 15 countries in North America, Europe, Asia, and Australia and New Zealand, in particular the 
+river deltas. This literature suggests that wetland ecosystems can be restored, but over variable periods of time 
+and with variable resemblance to natural wetland ecosystems. Currently, there is no available compilation of the 
+global area of wetland restoration and construction. The IPCC Special Report on Land Use, Land-Use Change 
+and Forestry estimates that maximum areas available for restoration are in the range of 30 to 250 Mha (Watson 
+et al., 2000).   
+Chapter 7: Wetlands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.23 
+At the time of preparation of these Guidelines, published studies based on observational data are too recent and 
+limited to develop default emission factors for any of the major greenhouse gases--- CO2, CH4 or N2O. Better 
+understanding of the biogeochemical fluxes within drainage basins will be needed to prevent double-counting 
+emissions due to fertilizer application and waste treatment. Hence, the estimation of greenhouse gas emissions 
+and removals from restored or constructed wetlands remains an area for further development.   
+An increase in CH4 emissions is expected to occur upon the rewetting of organic soils. A first approximation of 
+CH4 emissions on rewetted organic soils with a forest cover is from 0 to 60 kg CH4 ha-1 yr-1 in temperate and 
+boreal climates, and from 280 to 1260 kg CH4 ha-1 yr-1 in tropical climates (Bartlett and Harriss, 1993).  
+However, in the short term these emissions may not return to their pre-drainage levels (Tuittila et al., 2000; 
+Komulainen et al, 1998). 
+The effect of non-point nutrient sources to flooded lands (reservoirs) also remains poorly documented. Countries 
+using advanced, domestic approaches should implement cross-sectoral checks, ideally using mass-balance, to 
+ensure that the fate of all carbon and nitrogen released in a watershed is properly accounted for. The lack of 
+observational data from reservoirs in Asia is a notable gap in the data samples used to develop CO2 emission 
+factors for flooded land. It may be possible, in future editions of these guidelines, to incorporate more 
+information from this region.  
+References 
+SECTION 7.1: INTRODUCTION & SECTION 7.2:  PEATLANDS MANAGED OR BEING 
+CONVERTED FOR PEAT EXTRACTION 
+Alm, J., Saario, S., Nykänen, H., Silvola, J. and Martikainen, P.J. (1999). Winter CO2, CH4, and N2O fluxes on 
+some natural and drained boreal peatlands. Biogeochemistry 44: 163-186. 
+Bartlett, K.B. and Harriss, R.C. (1993). Review and assessment of methane emissions from wetlands. 
+Chemosphere 26:261-320. 
+Canadian Sphagnum Peat Moss Association (2004). Harvesting Peat in Canada http://www.peatmoss.com/  
+Cicerone, R.J. and Oremland, R.S. (1988). Biogeochemical aspects of atmospheric methane. Global 
+Biogeochemical Cycles 2: 288-327. 
+Cleary, J., Roulet, N.T. and Moore, T.R. (2005). Greenhouse gas emissions from Canadian peat extraction, 
+1990-2000: A life-cycle analysis. Ambio 34(6):456-461. 
+IPCC (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Penman J., Gytarsky M., 
+Hiraishi T., Krug, T., Kruger D., Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F. 
+(Eds).Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+International Peat Society (2004). Environmental Assessment of Peat Production  www.peatsociety.fi  
+Joosten, H. (2004). The IMCG Global Peatland Database. http://www.imcg.net/gpd/ 
+Joosten, H. and Clarke, D. (2002). Wise Use of Mires and Peatlands.Internation Mire Conservation Group and 
+International Peat Society, Saarijarvi, Finland, 304 p. 
+Klemedtsson, L., Von Arnold, K., Weslien, P. and Gundersen, P. (2005). Soil CN ratio as a scalar parameter to 
+predict nitrous oxide emissions.  Global Change Biology 11:1142-1147 
+Komulainen, V.-M., Nykänen, H., Martikainen, P.J. and Laine, J. (1998). Short-term effect of restoration on 
+vegetation change and methane emissions from peatlands drained for forestry in Southern Finland. Can. J. 
+For. Res. 28:402-411. 
+Komulainen, V-M., Tuittila, E-S., Vasander, H. and Laine, J. (1999). Restoration of drained peatlands in 
+southern Finland : initial effects on vegetation change and CO2 balance. J. Appl. Ecol. 36:634-648. 
+Laine, J. and Minkkinen, K. (1996). Effect of forest drainage on the carbon balance of a mire--a case study. 
+Scandinavian Journal of Forest Research. 11: 307-312. 
+Laine, J., Silvola, J., Tolonen, K., Alm, J., Nykänen, H., Vasander, H., Sallantaus, T., Savolainen, I., Sinisalo, J. 
+and Martikainen, P.J. (1996). Effect of water-level drawdown on global climatic warming--northern 
+peatlands. Ambio. 25: 179-184. 
+Lappalainen, E.  (1996). Global Peat Resources.International Peat Society Saarijarvi, Finland, 368 p. 
+LUSTRA (2002). Land-use Strategies for Reducing Net Greenhouse Gas Emissions. Annual Report 2002 
+Uppsala, Sweden.162 p. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+7.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Martikainen, P.J., Nykänen, H., Alm, J. and Silvola, J. (1995). Change in fluxes of carbon dioxide, methane, and 
+nitrous oxide due to forest drainage of mire sites of diferent trophy, . Plant and Soil 169: 571-577. 
+Minkkinen, K., Korhonen, R., Savolainen, I. and Laine, J. (2002). Carbon balance and radiative forcing of 
+Finnish peatlands   1990-2100 the impact of forestry drainage. Global Change Biology 8: 785-799. 
+Mitsch, W.J. and Gosselink, J.G. (2000). Wetlands.3rd ed, . Wiley, New York, 920 p. 
+Moore, T.R. and Knowles, R. (1989). The influence of water table levels on methane and carbon dioxide 
+emissions from peatland soils. Canadian Journal of Soil Science 69 (1): p. 33-38.  
+Nilsson, K. and Nillson, M.  (2004).  The Climate Impact of Energy Peat Utilsation in Sweden--the Effect of 
+Former Land-Use and After Treatment.  IVL Swedish Environmental Research Institute. Report 
+B1606.  Stockholm,  91 p. 
+Petrone, R.M., Waddington, J.M. and Price, J.S. (2003). Ecosystem-scale flux of CO2 from a restored vacuum 
+harvested peatland. Wetlands Ecology and Management 11:419-432. 
+Ramsar (1996).  The Ramsar Convention definition of "wetland" and classification system for wetland 
+type.  Appendix A of Strategic framework and guidelines for the future development of the list of 
+wetlands of international Importance of the Convention on Wetlands (Ramsar, Iran, 1971).  Available at 
+www.ramsar.org/key_guide_list_e.htm. 
+Regina, K., Nykänen, H., Silvola, J. and Martikainen, P.J. (1996). Fluxes of nitrous oxide from boreal peatlands 
+as affected by peatland type, water table level and nitrification capacity. Biogeochemistry 35: 401-418. 
+Sirin, A and Minayeva, T. eds (2001). Peatlands of Russia: towards the analyses of sectoral information GEOS, 
+Moscow, 190 pp. (in Russian). 
+Strack, M.,  Waddington, J.M. and Tuittila, E.-S. (2004). Effect of water table drawdown on northern peatland 
+methane dynamics: implications for climate change. Global Biogeochemical Cycles 18, GB4003. 
+Sundh, I., Nilsson, M., Mikkala, C., Granberg, G. and Svensson, B.H. (2000). Fluxes of methane and carbon 
+dioxide on peat-mining areas in Sweden. Ambio. 29: 499-503. 
+US Geological Survey (2004). US Minerals Yearbook. www.usgs.gov/minerals/pubs/commodity/peat 
+Waddington, J.M. and McNeil, P. (2002). Peat oxidation in an abandoned cutover peatland. Can.J.Soil Sci. 
+82:279-286. 
+Waddington, J.M., Warner, K.D. and Kennedy, G.W. (2002). Cutover peatlands: a persistent source of 
+atmospheric CO2. Global Biogeochemical Cycles 16(1) 10:1029é2001GB001398 
+Waddington, J.M. and Price, J.S. (2000). Effect of peatland drainage, harvesting, and restoration on atmospheric 
+water and carbon exchange. Physical Geography 21(5):433-451. 
+Watson, R.T., Noble, I.R., Bolin, B., Ravindranath, N.H., Verardo D.J. and Dokken D.J. (Eds.) (2000).  Special 
+Report of the IPCC on Land Use, Land-Use Change, and Forestry. Cambridge University Press, UK. pp 
+375  
+World Energy Council (2004).  http://www.worldenergy.org/wec-geis/publications/reports/ser/peat/peat.asp 
+SECTION 7.3:  FLOODED LAND 
+Bartlett, K.B. and Harriss, R.C. (1993). Review and assessment of methane emissions from wetlands. 
+Chemosphere 26:261-320. 
+International Commission on Large Dams (ICOLD) (1998). World register of Dams 1998. Paris. International 
+Comittee on large Dams (Ed.). Metadatabase.  
+Komulainen, V-M., Tuittila, E-S., Vasander, H. and Laine, J. (1999). Restoration of drained peatlands in 
+southern Finland : initial effects on vegetation change and CO2 balance. J. Appl. Ecol. 36:634-648. 
+Tuittila, E-S., Komulainen, V-M.,  Vasander, H., Nykänen, H., Martikainen, P.J. and Laine, J. (2000). Methane 
+dynamics of a restored cut-away peatland. Global Change Biology, 6: 569 
+Watson, R.T., Noble, I.R., Bolin, B., Ravindranath, N.H., Verardo, D.J. and Dokken, D.J. (Eds.) (2000).  Special 
+Report of the IPCC on Land Use, Land-Use Change, and Forestry. Cambridge University Press, UK. pp 
+375  
+WCD (2000). Dams and Development a new framework for Decision-Making, The report of the World 
+Commission on Dams, Earthscan Publications Ltd, London and Sterling, VA, 356 p. 

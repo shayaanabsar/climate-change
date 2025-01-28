@@ -1,0 +1,1510 @@
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.41
+TABLE B-1 (CONTINUED)
+FEED INTAKE AND MANURE PRODUCTION FOR CATTLE
+Region
+Livestock
+Category
+Sub-Population
+Mass
+(kg)
+Feed
+Digestibility
+(%)
+Energy
+Intake
+(MJ/day)
+Feed Intake
+(kg/day)
+Category
+Population
+%
+Manure
+(kg/h/d dm)
+VS
+(kg/h/d)
+Bo
+ (m3 CH4/kg
+VS)
+Africa & Middle East Dairy Cattle
+Average
+275
+60%
+92.8
+5.0
+100%
+2.01
+1.85
+0.13
+Non-dairy Cattle
+Mature Females
+200
+55%
+73.2
+4.0
+13%
+1.79
+1.64
+0.10
+Mature Males Draft
+275
+55%
+93.2
+5.1
+13%
+2.27
+2.09
+0.10
+Mature Females
+Grazing
+200
+55%
+93.6
+5.1
+5%
+2.28
+2.10
+0.10
+Mature Males Grazing
+275
+55%
+112.3
+6.1
+25%
+2.74
+2.52
+0.10
+Young
+75
+60%
+36.2
+2.0
+44%
+0.78
+0.72
+0.10
+Avg. Non-dairy Cattle
+173
+57%
+70.6
+3.8
+100%
+1.68
+1.54
+0.10
+Asia
+Dairy Cattle
+Average
+350
+60%
+141.6
+7.7
+100%
+3.07
+2.82
+0.13
+Non-dairy Cattle
+Mature Females
+Farming
+325
+55%
+113.2
+6.1
+27%
+2.76
+2.54
+0.10
+Mature Females
+Grazing
+300
+60%
+105.0
+5.7
+9%
+2.28
+2.09
+0.10
+Mature Males Farming
+450
+55%
+134.9
+7.3
+24%
+3.29
+3.03
+0.10
+Mature Males Grazing
+400
+60%
+112.5
+6.1
+8%
+2.44
+2.24
+0.10
+Young
+200
+60%
+79.3
+4.3
+32%
+1.72
+1.58
+0.10
+Avg. Non-dairy Cattle
+319
+57%
+106.8
+5.8
+100%
+2.49
+2.29
+0.10
+Indian
+Dairy Cattle
+Average Dairy Cow
+275
+55%
+117.7
+6.4
+100%
+2.87
+2.64
+0.13
+Subcontinent
+Non-dairy Cattle
+Mature Females
+125
+50%
+63.8
+3.5
+40%
+1.73
+1.59
+0.10
+Mature Males
+200
+50%
+83.7
+4.5
+10%
+2.27
+2.09
+0.10
+Young
+80
+50%
+43.2
+2.3
+50%
+1.17
+1.08
+0.10
+Avg. Non-dairy Cattle
+110
+50%
+55.5
+3.0
+100%
+1.50
+1.38
+0.10
+Ash content estimated at 8%.  Cattle characteristics from Gibbs and Johnson (1993).
+AGRICULTURE
+4.42
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-2
+FEED INTAKE AND MANURE PRODUCTION FOR SWINE AND BUFFALO
+Region
+Livestock
+Category
+Sub-Population
+Mass
+(kg)
+Feed
+Digestibility
+ (%)
+Energy
+Intake
+(MJ/day)
+Feed Intake
+(kg/day)
+Category
+Population
+%
+Manure
+(kg/h/d
+dm)
+VS
+(kg/h/d)
+Bo
+(m3CH4/kg VS)
+Developing Countries Swine
+Average
+28
+50%
+13.0
+0.7
+100%
+0.35
+0.34
+0.29
+Developed Countries Swine
+Average
+82
+75%
+38.0
+2.1
+100%
+0.51
+0.50
+0.45
+Indian Subcontinenta
+Buffalo
+Adult Males
+450
+55%
+134.5
+7.3
+14%
+3.28
+3.02
+ 0.10
+Adult Females
+350
+55%
+139.0
+7.5
+40%
+3.39
+3.12
+0.10
+Young
+200
+55%
+74.0
+4.0
+46%
+1.80
+1.66
+0.10
+Average
+295
+55%
+108.0
+5.9
+100%
+2.65
+2.43
+0.10
+Rest of Worldb
+Buffalo
+Adult Males
+450
+55%
+134.5
+7.3
+45%
+3.28
+3.02
+0.10
+Adult Females
+350
+55%
+114.0
+6.2
+45%
+2.78
+2.56
+0.10
+Young
+200
+55%
+74.0
+4.1
+10%
+1.80
+1.66
+0.10
+Average
+380
+55%
+119.0
+6.5
+100%
+2.91
+2.68
+0.10
+a  Estimates based on data for India.
+b  Estimates based on data for China.
+Ash content taken as 8% for buffalo and 2% and 4% for swine in developed and developing countries, respectively.
+Sources: Buffalo characteristics from Gibbs and Johnson (1993).  Swine feed intake estimates from Crutzen et al. (1986).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.43
+TABLE B-3
+MANURE MANAGEMENT EMISSION FACTOR DERIVATION FOR DAIRY CATTLE
+Climate
+Manure Management System MCFs
+Lagoon
+Liquid/
+Slurry
+Solid
+Storage
+Drylot
+Pasture/
+Range
+Daily
+Spread
+Digester
+Burned
+for Fuel
+Other
+Cool
+90%
+10%
+1%
+1%
+1%
+0.1%
+10%
+10%
+1%
+Temperate
+90%
+35%
+1.5%
+1.5%
+1.5%
+0.5%
+10%
+10%
+1%
+Warm
+90%
+65%
+2%
+5%
+2%
+1%
+10%
+10%
+1%
+Region
+Dairy Cattle Characteristics
+Manure Management System Usage (MS%)
+EMISSION FACTORS
+kg CH4 / hd / yr
+Massa
+(kg)
+Bo
+(m3CH4/kg Vs)
+VSb
+(kg/hd/day)
+Cool
+Temperate
+Warm
+North America
+600
+0.24
+5.2
+10%
+23%
+18%
+5%
+0%
+37%
+0%
+0%
+7%
+36
+54
+76
+Western Europe
+550
+0.24
+5.1
+0%
+40%
+18%
+0%
+19%
+20%
+0%
+2%
+1%
+14
+44
+81
+Eastern Europe
+550
+0.24
+4.1
+0%
+18%
+68%
+0%
+13%
+1%
+0%
+0%
+0%
+6
+19
+33
+Oceania
+500
+0.24
+3.5
+16%
+1%
+0%
+0%
+76%
+8%
+0%
+0%
+0%
+31
+32
+33
+Latin America
+400
+0.13
+2.9
+0%
+1%
+1%
+0%
+36%
+62%
+0%
+0%
+0%
+0
+1
+2
+Africa
+275
+0.13
+1.9
+0%
+0%
+1%
+0%
+83%
+5%
+0%
+6%
+4%
+1
+1
+1
+Middle East
+275
+0.13
+1.9
+0%
+1%
+2%
+0%
+80%
+2%
+0%
+17%
+0%
+1
+2
+2
+Asia
+350
+0.13
+2.8
+4%
+38%
+0%
+0%
+20%
+29%
+2%
+7%
+0%
+7
+16
+27
+Indian Subcontinent
+275
+0.13
+2.6
+0%
+1%
+0%
+0%
+27%
+19%
+1%
+51%
+0%
+5
+5
+6
+a  Average dairy cow mass for each region.
+b  Average VS production for per head per day for the average dairy cow.
+Emission Factors (EF) for a climate region, k, are calculated as follows:
+EF
+=  B
+VS
+365 
+MS%
+MCF
+k
+o
+j
+j=1
+all manure systems
+jk
+×
+×
+×
+×
+∑
+AGRICULTURE
+4.44
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-4
+MANURE MANAGEMENT EMISSION FACTOR DERIVATION FOR NON-DAIRY CATTLE
+Climate
+Manure Management System MCFs
+Lagoon
+Liquid /
+Slurry
+Solid
+Storage
+Drylot
+Pasture /
+Range
+Daily
+Spread
+Digester
+Burned
+for Fuel
+Other
+Cool
+90%
+10%
+1%
+1%
+1%
+0.1%
+10%
+10%
+1%
+Temperate
+90%
+35%
+1.5%
+1.5%
+1.5%
+0.5%
+10%
+10%
+1%
+Warm
+90%
+65%
+2%
+5%
+2%
+1%
+10%
+10%
+1%
+Region
+Non-dairy Cattle
+Characteristics
+Manure Management System Usage (MS%)
+EMISSION FACTORS
+kg CH4 / hd / yr
+Massa
+(kg)
+Bo
+(m3CH4
+/kg VS)
+VSb
+(kg/hd/day)
+Cool
+Temperate
+Warm
+North America
+357
+0.17
+2.4
+0%
+1%
+0%
+14%
+84%
+0%
+0%
+0%
+1%
+1
+2
+3
+Western Europe
+405
+0.17
+2.7
+0%
+50%
+0%
+2%
+38%
+0%
+0%
+2%
+8%
+6
+20
+38
+Eastern Europe
+391
+0.17
+2.7
+0%
+28%
+0%
+0%
+26%
+0%
+0%
+0%
+46%
+4
+13
+23
+Oceania
+330
+0.17
+3.0
+3%
+0%
+0%
+6%
+91%
+0%
+0%
+0%
+0%
+5
+6
+7
+Latin America
+305
+0.10
+2.5
+0%
+0%
+0%
+0%
+99%
+0%
+0%
+0%
+1%
+1
+1
+1
+Africa
+173
+0.10
+1.5
+0%
+0%
+0%
+1%
+95%
+1%
+0%
+3%
+0%
+0
+1
+1
+Middle East
+173
+0.10
+1.5
+0%
+0%
+0%
+1%
+79%
+2%
+0%
+17%
+2%
+1
+1
+1
+Asia
+319
+0.10
+2.3
+0%
+0%
+0%
+46%
+50%
+2%
+0%
+2%
+0%
+1
+1
+2
+Indian Subcontinent
+110
+0.10
+1.4
+0%
+1%
+0%
+4%
+22%
+20%
+1%
+53%
+0%
+2
+2
+2
+a  Average non-dairy cow mass for each region.
+b  Average VS production for per head per day for the average non-dairy animal.
+Emission Factors (EF) for a climate region, k, are calculated as follows:
+EF =  B
+VS
+365 
+MS%
+MCF
+k
+o
+j
+j=1
+all manure systems
+jk
+×
+×
+×
+×
+∑
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.45
+TABLE B-5
+MANURE MANAGEMENT EMISSION FACTOR DERIVATION FOR BUFFALO
+Climate
+Manure Management System MCFs
+Liquid/
+Slurry
+Drylot
+Pasture/
+Range
+Daily Spread
+Digester
+Burned for
+Fuel
+Other
+Cool
+10.0%
+1.0%
+1.0%
+0.1%
+10.0%
+10.0%
+1.0%
+Temperate
+35.0%
+1.5%
+1.5%
+0.5%
+10.0%
+10.0%
+1.0%
+Warm
+65.0%
+5.0%
+2.0%
+1.0%
+10.0%
+10.0%
+1.0%
+Region
+Buffalo Characteristics
+Manure Management System Usage (MS%)
+EMISSION FACTORS
+kg CH4 / hd / yr
+Massa
+kg
+Bo
+m3CH4
+/kg VS
+VSb
+kg/hd/day
+Cool
+Temperate
+Warm
+North America
+(not applicable)
+Western Europe
+380
+0.10
+3.9
+20%
+79%
+0%
+0%
+0%
+0%
+0%
+3
+8
+17
+Eastern Europe
+380
+0.10
+3.9
+24%
+0%
+29%
+0%
+0%
+0%
+47%
+3
+9
+16
+Oceania
+(not applicable)
+Latin America
+380
+0.10
+3.9
+0%
+0%
+99%
+0%
+0%
+0%
+1%
+1
+1
+2
+Africa
+(not applicable)
+Middle East
+380
+0.10
+3.9
+0%
+0%
+20%
+19%
+0%
+42%
+19%
+4
+5
+5
+Asia
+380
+0.10
+3.9
+0%
+41%
+50%
+4%
+0%
+5%
+0%
+1
+2
+3
+Indian
+Subcontinent
+295
+0.10
+3.1
+0%
+4%
+19%
+21%
+1%
+55%
+0%
+4
+5
+5
+a  Average buffalo mass for each region.
+b  Average VS production for per head per day for the average buffalo.
+Emission Factors (EF) for a climate region, k, are calculated as follows:
+EF =  B
+VS
+365 
+MS%
+MCF
+k
+o
+j
+j=1
+all manure systems
+jk
+×
+×
+×
+×
+∑
+AGRICULTURE
+4.46
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-6
+MANURE MANAGEMENT EMISSION FACTOR DERIVATION FOR SWINE
+Climate
+Manure Management Systems MCFs
+Lagoon
+Liquid/
+Slurry
+Solid
+Storage
+Drylot
+Pit
+ <1 month
+Pit
+>1 month
+Daily
+Spread
+Digester
+Other
+Cool
+90%
+10%
+1%
+1%
+5%
+10%
+0.1%
+10%
+1%
+Temperate
+90%
+35%
+1.5%
+1.5%
+18%
+35%
+0.5%
+10%
+1%
+Warm
+90%
+65%
+2%
+5%
+33%
+65%
+1%
+10%
+1%
+Region
+Swine Characteristics
+Manure Management System Usage (MS%)
+EMISSION FACTORS
+kg CH4 / hd / yr
+Massa
+kg
+Bo
+m3CH4
+/kg VS
+VSb
+kg/hd/day
+Cool
+Temperate
+Warm
+North America
+82
+0.45
+0.5
+24%
+1%
+2%
+16%
+10%
+26%
+0%
+0%
+19%
+10
+14
+18
+Western Europe
+82
+0.45
+0.5
+0%
+0%
+21%
+2%
+3%
+73%
+0%
+0%
+1%
+3
+10
+19
+Eastern Europe
+82
+0.45
+0.5
+8%
+0%
+39%
+14%
+19%
+19%
+0%
+0%
+1%
+4
+7
+11
+Oceania
+82
+0.45
+0.5
+54%
+0%
+3%
+15%
+0%
+0%
+0%
+0%
+28%
+20
+20
+20
+Latin America
+28
+0.29
+0.3
+0%
+8%
+10%
+41%
+0%
+0%
+2%
+0%
+40%
+0
+1
+2
+Africa
+28
+0.29
+0.3
+0%
+6%
+6%
+87%
+1%
+0%
+0%
+0%
+0%
+0
+1
+2
+Middle East
+28
+0.29
+0.3
+0%
+14%
+0%
+69%
+0%
+17%
+0%
+0%
+0%
+1
+3
+6
+Asia
+28
+0.29
+0.3
+0%
+40%
+0%
+54%
+0%
+0%
+0%
+7%
+0%
+1
+4
+7
+Indian
+Subcontinent
+28
+0.29
+0.3
+9%
+22%
+16%
+30%
+3%
+0%
+9%
+8%
+3%
+3
+4
+6
+a  Average swine mass for each region.
+b  Average VS production for per head per day for the average swine.
+Emission Factors (EF) for a climate region, k, are calculated as follows:
+EF =  B
+VS
+365 
+MS%
+MCF
+k
+o
+j
+j=1
+all manure systems
+jk
+×
+×
+×
+×
+∑
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.47
+TABLE B-7
+MANURE MANAGEMENT EMISSION FACTOR DERIVATION FOR OTHER LIVESTOCK
+Animal
+Animal Characteristics
+Manure Management System
+MCFsa
+Emission Factorsa
+kg CH4 / hd / yr
+Mass
+ (kg)
+Digest
+(%)
+Intake/d
+(kg Feed)
+% Ash
+(Dry Basis)
+VS/day
+(kg VS)
+Bo
+(m3/kg VS)
+MCF
+Cool
+MCF
+Temperate
+MCF
+Warm
+Cool
+Temperate
+Warm
+Sheep
+Developed Countries
+43
+60%
+1.08
+8.0
+0.40
+0.19
+1%
+1.5%
+2%
+0.19
+0.28
+0.37
+Developing Countries
+28
+50%
+0.70
+8.0
+0.32
+0.13
+1%
+1.5%
+2%
+0.10
+0.16
+0.21
+Goats
+Developed Countries
+30
+60%
+0.76
+8.0
+0.28
+0.17
+1%
+1.5%
+2%
+0.12
+0.18
+0.23
+Developing Countries
+30
+50%
+0.76
+8.0
+0.35
+0.13
+1%
+1.5%
+2%
+0.11
+0.17
+0.22
+Camels
+Developed Countries
+217
+50%
+5.42
+8.0
+2.49
+0.26
+1%
+1.5%
+2%
+1.59
+2.38
+3.17
+Developing Countries
+217
+50%
+5.42
+8.0
+2.49
+0.21
+1%
+1.5%
+2%
+1.28
+1.92
+2.56
+Horses
+Developed Countries
+238
+70%
+5.96
+4.0
+1.72
+0.33
+1%
+1.5%
+2%
+1.39
+2.08
+2.77
+Developing Countries
+238
+70%
+5.96
+4.0
+1.72
+0.26
+1%
+1.5%
+2%
+1.09
+1.64
+2.18
+Mule/Asses Developed Countries
+130
+70%
+3.25
+4.0
+0.94
+0.33
+1%
+1.5%
+2%
+0.76
+1.14
+1.51
+Developing Countries
+130
+70%
+3.25
+4.0
+0.94
+0.26
+1%
+1.5%
+2%
+0.60
+0.90
+1.19
+Poultryb
+Developed Countries
+1.1
+NRc
+NR
+NR
+0.10
+0.32
+1%
+1.5%
+2%
+0.078
+0.117
+0.157
+Developing Countries
+NR
+NR
+NR
+NR
+0.02
+0.24
+1%
+1.5%
+2%
+0.012
+0.018
+0.023
+a  The range of estimates reflects cool to warm climates.  Cool climates have an average annual temperature below 15°C; temperate climates have an average annual temperature between 15°C and
+25°C; and warm climates have an average annual temperature above 25°C.
+b  Poultry include chickens, ducks, and turkeys.
+c  Not reported.
+Sources: Except for poultry, emission factors were developed from: feed intake values and feed digestibilities used to develop the enteric fermentation emission factors (see Appendix A); MCF, and Bo
+values reported in Woodbury and Hashimoto (1993).  All manure is assumed to be managed in dry systems, which is consistent with the manure management system usage reported in Woodbury
+and Hashimoto (1993). Emission factors for poultry are based on Safley et al. (1992) and Woodbury and Hashimoto (1993).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.49
+Appendix C
+Derivation of Tier 2 Enteric Fermentation
+Equations For Methane
+This appendix summarises the derivation of the relationship between net energy (NE) and
+digestible energy (DE) that is used to estimate total feed-intake requirements for cattle.
+This derivation is drawn from Gibbs and Johnson (1993).
+As described in the main text, the relationship among the energy values of feed consumed
+by cattle can be summarised as follows:
+Digestible Energy
+=
+Gross Energy - Faecal Losses
+Metabolisable Energy
+=
+Digestible Energy - Urinary and Combustible Gas
+Losses
+Net Energy
+=
+Metabolisable Energy - Heat Increment
+-------------------------------------------------------------------------------------------------------
+----
+Net Energy
+=
+Gross Energy - Faecal Losses - Urinary and
+Combustible Gas Losses - Heat Increment
+NRC (1984) presents the following quantitative relationships among these energy values:
+ME
+=
+0.82 x DE
+(C.1)
+NEm
+=
+(1.37 x ME) - (0.138 x ME2) + (0.0105 x ME3) - 1.12
+(C.2)
+NEg
+=
+(1.42 x ME) - (0.174 x ME2) + (0.0122 x ME3) - 1.65
+(C.3)
+where:
+DE
+=
+digestible energy in Mcal/kg (dry matter basis);
+ME
+=
+metabolisable energy in Mcal/kg (dry matter basis);
+NEm
+=
+net energy for maintenance in Mcal/kg (dry matter basis); and
+NEg
+=
+net energy for growth in Mcal/kg (dry matter basis).
+Using these relationships, the ratio of NEm and NEg to ME or DE can be derived as
+follows:
+NE/DE =
+1.123 - (4.092 x 10-3 x DE%) + (1.126 x 10-5 x (DE%)2) - 25.4/DE%
+(C.4)
+NEg/DE =
+1.164 - (5.160 x 10-3 x DE%) + (1.308 x 10-5 x (DE%)2) - 37.4/DE%
+(C.5)
+where:
+NE/DE =
+the ratio of net energy consumed for maintenance, lactation, work and
+pregnancy to digestible energy consumed;
+NEg/DE =
+the ratio of net energy consumed for growth to digestible energy
+consumed; and
+DE%
+=
+digestible energy as percentage of gross energy, expressed in per cent
+(e.g., 65%).
+AGRICULTURE
+4.50
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Graph C-1 shows the relationships in graphical form.  As shown in the graph, the ratio of
+NE to DE is non-linear, with an increasing slope with decreasing DE.  These relationships
+imply that at lower values of DE, cattle are able to recover a decreasing portion of the
+energy to use for maintenance or growth.
+For the purpose of estimating methane emissions from cattle, applying these relationships
+to cattle consuming relatively low-quality feeds (such as cattle in many tropical countries)
+may be inappropriate because the relationships were developed based on analyses of the
+higher-quality feeds typically found in the United States temperate agriculture system.
+Consequently, the experimental basis for extrapolating the non-linear relationships to low
+levels of DE is not very strong.
+In examining other energy systems, it is seen that they also indicate that the rate of net
+energy retention declines at lower values of digestible energy.  Unlike the NRC system,
+however, many imply a linear relationship between NE and DE.  The UK energy system
+(ARC, 1980), which is typical of the energy systems used in Europe, has a slope for the
+linear NEm:DE relationship that is similar to the slope of the non-linear NRC relationship
+in the range of 65-70 per cent digestibility.  In the same way, the slope of the UK NEg:DE
+relationship is similar to the slope of the non-linear NRC relationship in the range of
+60-65 per cent digestibility.
+To avoid possible biases in estimating feed-intake requirements in this study, the
+relationships were extrapolated linearly for DE values below 65 per cent using the
+average slopes of the NRC relationships between 60 and 70 per cent DE.  The derived
+equations are as follows:
+NE/DE  =  0.298 + 0.00335 x DE%(C.6)
+NEg/DE = -0.036 + 0.00535 x DE%(C.7)
+Graph C-2 shows the extrapolated linear relationships along with the non-linear
+estimates.  As expected, the linear extrapolations fall above the original non-linear
+estimates.
+The implication of making this adjustment to the NRC (1984) relationship for the global
+emissions estimate is relatively minor.  Gibbs and Johnson (1993) report that using the
+non-linear relationship to estimate global emissions from cattle increases the 1990
+emissions estimate by 1000 Gg, from  58,100 Gg to 59,100 Gg.  Considering the wide
+range of factors that contribute to uncertainty in the estimates, including characterisation
+of animal populations, this adjustment has a minor influence on the estimates.

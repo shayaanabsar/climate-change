@@ -1,0 +1,1309 @@
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.1 
+CHAPTER 5 
+TIME SERIES CONSISTENCY 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Jongikhaya Witi (South Africa), Daniela Romano (Italy) 
+Francesco Tubiello (USA and Italy), Justin Goodwin (UK) 
+Contributing Authors 
+Suvi Monni (Finland), Cody Alsaker (USA), Sandro Federici (Italy)
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.3 
+Contents 
+5     Time Series Consistency ............................................................................................................................... 5.5 
+5.1     Introduction .......................................................................................................................................... 5.5 
+5.2     Ensuring a consistent time series .......................................................................................................... 5.5 
+5.2.1     Recalculations due to methodological changes and refinements ................................................. 5.5 
+5.2.2     Adding new categories ................................................................................................................. 5.6 
+5.2.3     Tracking increases and decreases due to technological change and other factors ....................... 5.7 
+5.3     Resolving data gaps .............................................................................................................................. 5.8 
+5.3.1     Issues with data availability ......................................................................................................... 5.8 
+5.3.2     Non-calendar year data ................................................................................................................ 5.9 
+5.3.3     Splicing techniques ...................................................................................................................... 5.9 
+5.4     Reporting and Documentation of trend information ........................................................................... 5.17 
+5.5     Time series consistency QA/QC ......................................................................................................... 5.18 
+References…………………………………………………………….. ............................................................ 5.19 
+Equations 
+Equation 5.1 
+Recalculated emission or removal estimate computed using the overlap method 5.10 
+Figures 
+Figure 5.1 
+Consistent overlap ................................................................................................. 5.11 
+Figure 5.2 
+Inconsistent overlap .............................................................................................. 5.11 
+Figure 5.3 
+Linear interpolation ............................................................................................... 5.13 
+Tables 
+Table 5.0 (New) 
+Examples of surrogate data by sector .................................................................... 5.13 
+Table 5.1 (Updated) 
+Summary of splicing techniques ........................................................................... 5.17 
+Table 5.2 (Updated) 
+Category-specific documentation of recalculations .............................................. 5.18 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Boxes 
+Box 5.1 (Updated) 
+Recalculation in the Agriculture, Forestry and Other Land Use (AFOLU) Sector . 5.6 
+Box 5.1a (New) 
+Time series consistency when using facility level data from new legislation (e.g. 
+data from emissions trading scheme or other national data reporting programmes) 5.9 
+Box 5.1b (New) 
+Case study of overlap method for methane emissions from charcoal production in 
+Godonia ................................................................................................................. 5.12 
+Box 5.2a (New) 
+Case study of interpolating data for carbon dioxide emissions from fossil liquid 
+incineration in Godonia ......................................................................................... 5.14 
+Box 5.2b (New) 
+Case study of non-linear interpolation of data direct soil N2O emissions from 
+manure on non-federal grasslands ......................................................................... 5.16 
+ 
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.5 
+5 TIME SERIES CONSISTENCY 
+Users are expected to go to Mapping Tables in Annex 1, before reading this chapter. This is required to correctly 
+understand both the refinements made and how the elements in this chapter relate to the corresponding chapter 
+in the 2006 IPCC Guidelines. 
+5.1 
+INTRODUCTION 
+No refinement. 
+5.2 
+ENSURING A CONSISTENT TIME SERIES  
+5.2.1 
+Recalculations due to methodological changes and 
+refinements 
+A methodological change in a category is a switch to a different tier from the one previously used. Methodological 
+changes are often driven by the development of new and different data sets. An example of a methodological 
+change is the new use of a higher tier method instead of a Tier 1 default method for an industrial category because 
+a country has obtained site-specific emission measurement data that can be used directly or for development of 
+national emission factors. 
+A methodological refinement occurs when an inventory compiler uses the same tier to estimate emissions but 
+applies it using a different data source or a different level of aggregation. An example of a refinement would be if 
+new data permit further disaggregation of a livestock enteric fermentation model, so that resulting animal 
+categories are more homogenous or applies a more accurate emission factor. In this case, the estimate is still being 
+developed using a Tier 2 method, but it is applied at a more detailed level of disaggregation. Another possibility 
+is that data of a similar level of aggregation but higher quality data could be introduced, due to improved data 
+collection methods. 
+Both methodological changes and refinements over time are an essential part of improving inventory quality. It is 
+good practice to change or refine methods when: 
+• Available data have changed: The availability of data is a critical determinant of the appropriate method, and 
+thus changes in available data may lead to changes or refinements in methods. As countries gain experience 
+and devote additional resources to preparing greenhouse gas inventories, it is expected that data availability 
+will improve.0F1 
+• The previously used method is not consistent with the IPCC Guidelines for that category: Inventory compilers 
+should review the guidance for each category in Volumes 2-5. 
+• A category has become key: A category might not be considered key in a previous inventory year, depending 
+on the criteria used, but could become key in a future year. For example, many countries are only beginning to 
+substitute HFCs and PFCs for ozone depleting substances being phased out under the Montreal Protocol. 
+Although current emissions from this category are low, they could become key in the future based on trend or 
+level. Countries anticipating significant growth in a category may want to consider this possibility before it 
+becomes key.  
+• The previously used method is insufficient to reflect mitigation activities in a transparent manner: As 
+techniques and technologies for reducing emissions are introduced, inventory compilers should use methods 
+that can account for the resulting change in emissions or removals in a transparent manner. Where the 
+previously used methods are insufficiently transparent, it is good practice to change or refine them. See Section 
+5.2.3 for further guidance. 
+• The capacity for inventory preparation has increased: Over time, the human or financial capacity (or both) to 
+prepare inventories may increase. If inventory compilers increase inventory capacity, it is good practice to 
+change or refine methods to produce more accurate, complete and transparent estimates, particularly for key 
+categories. 
+ 
+1 Sometimes collection of data may be reduced which can result in a less rigorous methodological outcome.  
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• New inventory methods become available: In the future, new inventory methods may be developed that take 
+advantage of new technologies or improved scientific understanding. For example, remote-sensing technology 
+improvements in emission monitoring technology may make it possible to monitor directly more types of 
+emission sources. 
+• Availability of new EFs in the IPCC Guidelines that could be different from previous IPCC Guidelines: From 
+time to time, the IPCC GHG Inventory Guidelines are to be subjected to a refinement process in an effort to 
+introduce new methodologies and emission factors based on the latest available science. Under these 
+circumstances, the inventory compiler has to carefully consider the emission factors presented in the most 
+recent available IPCC Guidelines and make a determination of the appropriateness of such emission factors to 
+the category in question for the full time series. If the emission rate changes over time, the inventory compiler 
+might consider the appropriateness of the EF in relation to changes in the emission rate for specific periods of 
+the time series. When such changes occur, they should be properly documented. Changes in emission rates 
+might be triggered by changes in process/technology changes. In such cases, it is possible for the inventory 
+compiler to apply the old EFs in one set of the time series and the latest EFs for other parts of the time series.   
+• Correction of errors: It is possible that the implementation of the QA/QC procedures described in Chapter 6, 
+Quality Assurance and Quality Control and Verification, will lead to the identification of errors or mistakes in 
+the inventory. As noted in that chapter, it is good practice to correct errors in previously submitted estimates. 
+In a strict sense, the correction of errors should not be considered a methodological change or refinement. This 
+situation is noted here, however, because the general guidance on time series consistency should be taken into 
+consideration when making necessary corrections. 
+BOX 5.1 (UPDATED) 
+RECALCULATION IN THE AGRICULTURE, FORESTRY AND OTHER LAND USE (AFOLU) SECTOR 
+It is anticipated that the use of recalculation techniques in the AFOLU Sector will be particularly 
+important. The development of inventory methods and interpolation/extrapolation tools (models) for 
+this sector is ongoing and it is anticipated that changes to the methods of many countries will occur 
+over time due to the complexity of the processes involved. In simple cases, sampling or 
+experimentation may provide country-specific emission factors, which might require a time series 
+recalculation. Situations that are more complicated can also arise. For example: 
+• 
+The instruments used to collect activity data may change through time, and it is impossible to 
+go back in time to apply the new instrument. For example, land-clearing events can be estimated 
+by the use of satellite imagery, but the satellites available for this work change or degrade 
+through time. In this case, the overlap method described in Section 5.3.3.1 is most applicable. 
+• 
+Some data sources such as forest inventories required for AFOLU categories may not be 
+available annually because of resource constraints. In this case, interpolation between years or 
+extrapolation for years external to the available times series of data may be the most appropriate 
+method to apply, possibly using a proxy. Extrapolated data may be recalculated when final data 
+become available (see Sections 5.3.3.3 and 5.3.3.4 on interpolation and extrapolation). 
+• 
+Emissions and removals in AFOLU typically depend on past land use activity (GPG-LULUCF 
+2003). Thus, data must cover a large historical period (20-100 years), and the quality of such data 
+will often vary through time. Overlap, interpolation or extrapolation techniques may be necessary 
+in these cases. 
+• 
+The calculation of emission factors and other parameters in AFOLU may require a combination 
+of sampling and modelling work. Time series consistency must be applied to the modelling 
+work as well. Models can be viewed as a way of transforming input data to produce output 
+results. In most cases where changes are made to the data inputs or mathematical relationships 
+in a model, the entire time series of estimates should be recalculated. In circumstances where 
+this is not feasible due to available data, variations of the overlap method could be applied. 
+5.2.2 
+Adding new categories 
+The addition to the inventory of a new category or subcategory requires the calculation of an entire time series, 
+and estimates should be included in the inventory from the year emissions or removals start to occur in the country. 
+A country should make every effort to use the same method and data sets for each year. It may be difficult to 
+collect data for previous years, however, in which case countries should use the guidance on splicing in Section 
+5.3.3 to construct a consistent time series. 
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.7 
+A country may add new categories or new gases to the inventory for a variety of reasons: 
+• A new emission or removal activity is occurring: Some emission processes, particularly in the IPPU Sector, 
+only occur as a result of specific technological processes. For example, the use of substitutes for ozone-
+depleting substances (ODS substitutes) has been phased in at very different rates in different parts of the world. 
+Some applications may only now be starting to occur in some countries. 
+• Rapid growth in a very small category: A category that previously was too small to justify resources for 
+inclusion in the national inventory, could experience sudden growth and should be included in future 
+inventories. 
+• New IPCC categories: The 2006 IPCC Guidelines contain some categories and subcategories that were not 
+covered in the Revised 1996 IPCC Guidelines (IPCC, 1997). As a result, countries may include new estimates 
+in future national inventories. Countries should include estimates for new categories and subcategories for the 
+entire time series. 
+• Country-specific categories: In cases where the 2006 IPCC Guidelines and its 2019 Refinement do not provide 
+guidance on allocation and methodological guidance for a specific category and country deems the category to 
+be significant (according to its national definition) to its national emissions total (e.g. CH4 emissions from and 
+removals by agricultural soils or forest ecosystem in low forest cover countries). 
+• Additional inventory capacity: A country may be able to use more resources or employ additional experts over 
+time, and thus include new categories and subcategories in the inventory. 
+If a new emission-causing activity began after the base year, or if a category previously regarded as insignificant, 
+for reasons of not estimating emissions/removals from an existing source/sink, has grown to the point where it 
+should be included in the inventory, it is good practice to document the reason for not estimating the entire time 
+series.  
+5.2.3 
+Tracking increases and decreases due to technological 
+change and other factors 
+Emission inventories can track changes in emissions and removals through changing activity levels or changing 
+emission rates, or both. The way in which such changes are included in methodologies can have a significant 
+impact on time series consistency.  
+Changes in activity levels 
+National statistics typically will account for significant changes in activity levels. For example, fuel switching 
+from coal to natural gas in electricity generation will be reflected in the national fuel consumption statistics. Further 
+disaggregation of activity data can provide more transparency to indicate specifically where the change in activity 
+is occurring. This approach is relevant when changes are taking place in one or more subcategories, but not 
+throughout the entire category. To maintain time series consistency, the same level of disaggregation into 
+subcategories should as far as possible be used for the entire time series, even if the change began recently.  
+Changes in emission rates  
+Research may indicate that the average rate of emissions/removals per unit of activity has changed over the time 
+series. In some cases, the factors leading to a technological change may also make it possible to use a higher tier 
+method. For example, an aluminium plant manager who introduces measures to reduce the frequency and intensity 
+of anode effects may also collect plant-specific parameters that can be used to estimate a new emission factor. This 
+new factor might not be appropriate for estimating emissions for earlier years in the time series, before the 
+technological change occurred. In these cases, it is good practice to use the updated emission factor or other 
+estimation parameters or data to reflect these changes. Since a general assumption is that emission factors or other 
+estimation parameters do not change over time unless otherwise indicated, countries should clearly document the 
+reason for using different factors or parameters in the time series. This is particularly important if sampling or 
+surveying occurs periodically and emission factors or estimation parameters for years in between are interpolated 
+rather than measured. Changes in process/management practices/technologies can be used as a guide to trigger 
+commissioning of periodic surveys. 
+Changes in data sources for different years of the time series  
+A change in data availability or a gap in data is different from periodically available data because there is unlikely 
+to be an opportunity to recalculate the estimate later using better data. In some cases, countries will improve their 
+ability to collect data over time, so that higher tier methods can be applied for recent years, but not for earlier years. 
+This is particularly relevant to categories in which it is possible to implement direct sampling and measurement 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+programs because these new data may not be indicative of conditions in past years. Some countries may find that 
+the availability of certain data sets decreases over time as a result of changing priorities within governments, 
+economic restructuring, or limited resources. For example, a land cover map for the latest time step in the time 
+series might be developed from a new satellite imagery product with higher imagery resolution and different image 
+processing procedures to derive land cover classes compared to the satellite imagery used to generate a land cover 
+map in the base year or other year within a time series. This implies that different land cover maps produced for 
+the time series will have varying resolution and methods for deriving land cover classes. Differences in these 
+attributes (imagery resolution and image processing procedures, etc.) might introduce inconsistencies and errors 
+in activity data derived from various land cover maps used in the time series. Changes in livestock management 
+techniques will have an impact on annual emissions and assumptions and EFs. In such cases, EFs should be applied 
+from the year the changes took place (i.e. they cannot be applied prior to the year of change). Technologies and 
+practices of livestock management may be applied to different levels for different years but have to be applied 
+appropriately across the time series. Section 4.4.2 in Volume 4, Chapter 4 provides an example on how to ensure 
+methodological consistency when more sophisticated extrapolation is done in the forest land category, based on 
+“functional relationships” among various interrelated variables.  
+Capture, destruction, or combustion of emissions 
+Larger point sources such as chemical manufacturing facilities or power plants might generate emissions but 
+prevent them from being released to the atmosphere through capture and storage (e.g., CO2), destruction (e.g., 
+HFC-23) or combustion (e.g., CH4). These activities do not necessarily change the average emissions generated 
+per unit of activity, and therefore it is not good practice to use different emission factors for different years. Instead, 
+the inventory compiler should estimate total emissions generated and emissions reduced separately, and then 
+subtract reductions from the total generation to arrive at an estimate for total emissions to the atmosphere. However, 
+for mitigation actions that take place across numerous facilities in the same way, a stratification of the facility 
+population into two groups, one with mitigation and another group without mitigation, should be considered and 
+separate emission factors applied for each group. For example, methane emissions from the oil and gas systems 
+are impacted by flaring and other activities/technologies. The fraction of oil or gas production with and without 
+these activities/technologies can be determined and distinct emission factors can be applied to each population.  
+5.3 
+RESOLVING DATA GAPS 
+5.3.1 
+Issues with data availability 
+For a complete and consistent time series, it is necessary to determine the availability of data for each year. 
+Recalculating previous estimates using a higher tier method, or developing estimates for new categories will be 
+difficult if data are missing for one or more years. Examples of data gaps are presented below:  
+• Periodic data: Natural resource or environmental statistics, such as national forest inventories and waste 
+statistics, may not cover the entire country on an annual basis. Instead, they may be carried out at intervals such 
+as every fifth or tenth year, or region-by-region, implying that national level estimates can only be directly 
+obtained once the inventory in every region has been completed. When data are available less frequently than 
+annual, several issues arise. First, the estimates need to be updated each time new data become available, and 
+the years between the available data need to be recalculated. The second issue is producing inventories for 
+years after the last available data point and before new data are available. In this case, new estimates should be 
+extrapolated based on available data, and then recalculated when new data become available. 
+• Changes and gaps in data availability: A change in data availability or a gap in data is different from 
+periodically available data because there is unlikely to be an opportunity to recalculate the estimate later using 
+better data. In some cases, countries will improve their ability to collect data over time, so that higher tier 
+methods can be applied for recent years, but not for earlier years. This is particularly relevant to categories in 
+which it is possible to implement direct sampling and measurement programs because these new data may not 
+be indicative of conditions in past years. Some countries may find that the availability of certain data sets 
+decreases over time as a result of changing priorities within governments, economic restructuring, or limited 
+resources. Some countries with economies in transition no longer collect certain data sets that were available 
+in the base year, or if available, these data sets may contain different definitions, classifications and levels of 
+aggregation. Box 5.1a presents an example of time series consistency associated with using available industrial 
+reporting information. 
+ 
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.9 
+BOX 5.1A (NEW) 
+TIME SERIES CONSISTENCY WHEN USING FACILITY LEVEL DATA FROM NEW LEGISLATION (E.G. DATA FROM 
+EMISSIONS TRADING SCHEME OR OTHER NATIONAL DATA REPORTING PROGRAMMES)  
+Availability of data and details of information may change over the period of the time series due to 
+new legislation establishing regular data collection and emission monitoring systems at facility level. 
+Examples are the requirements of data collected in the context of the European Emissions Trading 
+Scheme, the European Pollutant Release and Transfer Register, other facility monitoring programs 
+in Australia and the USA. Therefore, inventory compilers will be able to implement higher tier 
+methods for recent years but have difficulty in applying the same methods historically.  
+As far as feasible, the inventory compiler should make use of the most accurate emissions and other 
+parameters collected within the relevant contexts. In addition, it is important that when using these 
+data, either partially or totally, the consistency of time series in the preparation of the national 
+inventory is ensured to the extent practicable.  
+Something to check is whether the sectoral coverage of the category to be estimated is complete and 
+the data collected have undergone a validation process before communication. 
+Then the expert should decide how to integrate these data in the national inventory (graduating from 
+a Tier 1 to a Tier 2, or from a Tier 2 to a Tier 3), and from which point of the time series the use of 
+such data starts.  
+The most recent information is usually more accurate or at least can be more transparently 
+documented than the older one so judgement from sectoral experts, relevant associations and other 
+experts in the field should be taken into account to decide if new data and information apply also to 
+the past. For instance, discrepancies from old and new emission factors may be justified by the 
+change in technologies and/or best practices, or they may be affected by incorrect assumptions and 
+methods to ensure data consistency that need to be applied. When the same method is not used along 
+the time series relevant techniques should be selected to ensure the consistency of the time series (or 
+the appropriate documentation has been provided to justify the trend, e.g. change in technical 
+conditions due to the introduction of mitigation technology/recovered emissions). 
+This issue is relatively common in the IPPU sector. Although the relationship between emissions 
+estimated from the Tier 3 and the Tier 2 methods should be relatively constant over time for a given 
+plant this may vary if the industry has changed significantly over time. In some cases if technologies 
+and practices in the industry have not changed much, the expert should evaluate if emission factors 
+derived from recent data may also be appropriate for historical years or if a splicing technique should 
+be applied to ensure time series consistency.  
+For instance, if emissions and other data are collected from a certain point of the time series onwards 
+in the context of a facility level reporting program, the expert should evaluate if an average emission 
+factor or parameter deriving from this collection may also be applied to the time series backward 
+(ensuring the consistency of the time series). There may be cases where the expert uses two different 
+tiers (Tier 2 and Tier 3), and the expert should clearly document that the use of two different methods 
+does result in the most appropriate EFs. 
+5.3.2 
+Non-calendar year data  
+No refinement.  
+5.3.3 
+Splicing techniques 
+Splicing in this context refers to the combining or joining of more than one method to form a complete time series. 
+Several splicing techniques are available if it is not possible to use the same method or data source in all years. 
+This section describes techniques that can be used to combine methods to minimise the potential inconsistencies 
+in the time series. Each technique can be appropriate in certain situations, as determined by considerations such as 
+data availability and the nature of the methodological modification. Selecting a technique requires an evaluation 
+of the specific circumstances, and a determination of the best option for the particular case. It is good practice to 
+perform the splicing using more than one technique before making a final decision and to document why a 
+particular method was chosen. The principal approaches for ensuring time series consistency are summarised in 
+Table 5.2. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.3.3.1 OVERLAP 
+The overlap technique is often used when a new method is introduced but data are not available to apply the new 
+method to the early years in the time series, for example when implementing a higher tier methodology. If the new 
+method cannot be used for all years, it may be possible to develop a time series based on the relationship (or 
+overlap) observed between the two methods during the years when both can be used. Essentially, the time series 
+is constructed by assuming that there is a consistent relationship between the results of the previously used and 
+new method. The emission or removal estimates for those years when the new method cannot be used directly are 
+developed by proportionally adjusting the previously developed estimates, based on the relationship observed 
+during the period of overlap. In this case, the emissions or removals associated with the new method are estimated 
+according to Equation 5.1:1F2 
+EQUATION 5.1 
+RECALCULATED EMISSION OR REMOVAL ESTIMATE COMPUTED USING THE OVERLAP METHOD 
+0
+0
+1
+1
+n
+i
+i m
+i
+y
+y
+x
+n
+m
+x
+=
+
+
+=
+•
+•
+
+
+−
++
+
+
+∑
+ 
+Where:  
+y0 
+= the recalculated emission or removal estimate computed using the overlap method 
+x0 
+= the estimate developed using the previously used method 
+yi and xi  are the estimates prepared using the new and previously used methods during the period of overlap, 
+as denoted by years m through n 
+A relationship between the previously used and new methods can be evaluated by comparing the overlap between 
+only one set of annual estimates, but it is preferable to compare multiple years. This is because comparing only 
+one year may lead to bias and it is not possible to evaluate trends.  
+Figure 5.1 shows a hypothetical example of a consistent overlap between two methods for the years in which both 
+can be applied. In Figure 5.2, there is no consistent overlap between methods and it is not good practice to use the 
+overlap technique in such a case.   
+Other relationships between the old and new estimates may also be observed through an assessment of overlap. 
+For example, a constant difference may be observed. In this case, the emissions or removals associated with the 
+new method are estimated by adjusting the previous estimate by the constant amount equal to the average 
+difference in the years of overlap. 
+ 
+2 Overlap Equation 5.1 is preferred to the equation described in Good Practice Guidance for National Greenhouse Gas 
+Inventories (GPG, 2000; IPCC, 2000):  
+0
+0
+n
+n
+i
+i
+i m
+i m
+y
+x
+y
+x
+=
+=
+
+
+=
+
+
+
+
+∑
+∑
+
+ 
+because the latter gives more weight to overlapping years with the highest emissions. However in practical cases the results 
+will often be very similar and continued use of the previous equation is consistent with good practice where its use gives 
+satisfactory results.  
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.11 
+Figure 5.1 Consistent overlap 
+ 
+Figure 5.2 Inconsistent overlap 
+ 
+Before applying the overlapping technique, the expert should be aware of the relationship between the old and the 
+new method applied to estimate emissions and able to understand the differences to be sure that the new method 
+actually improves the accuracy of emission estimates.   
+Box 5.1b provides a practical example were the inventory compiler should evaluate the application of the overlap 
+approach to estimate GHG emissions for the years 2001–2003. 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 5.1B (NEW) 
+CASE STUDY OF OVERLAP METHOD FOR 
+METHANE EMISSIONS FROM CHARCOAL PRODUCTION IN GODONIA 
+Consider the example below where we should evaluate the application of the overlap approach to 
+estimate GHG emissions for the years 2001–2003.   
+ 
+ 
+Step 1. For each year, calculate the ratio between Tier 2 and Tier 1 (e.g. in 2010: 4790/5000 = 0.96): 
+ 
+ 
+Step 2. Calculate average and standard deviation of the differences:  
+1
+4035
+4598
+4410
+4500
+4320
+4513
+4790
+0.93
+(2010
+2004 1)
+4200
+4800
+4900
+5000
+4800
+4900
+5000
+
+
+
+
+•
++
++
++
++
++
++
+=
+
+
+
+
+−
++
+
+
+
+
+ 
+• 
+Average = 0.93 (correction factor to be multiplied by the estimate developed based on the 
+previously used method as per equation 5.1). For simplicity, the average has been rounded to 
+two decimal places. 
+2
+2
+2
+2
+2
+2
+2
+1 ((0.96
+0.93)
+(0.96
+0.93)
+(0.90
+0.93)
+(0.90
+0.93)
+(0.90
+0.93)
+(0.92
+0.93)
+(0.96
+0.93) )
+0.028
+7
+−
++
+−
++
+−
++
+−
++
+−
++
+−
++
+−
+=
+  
+• 
+Standard deviation = 0.028 (low variability  overlap approach seems appropriate). Please refer 
+to Box 3.0a in Chapter 3, Volume 1 for guidance in the interpretation of standard deviation for 
+a normal distribution.   
+ 
+Step 3. Apply average to calculate missing data:  
+• 
+Year 2001: 4,000 • 0.93 = 3,720 
+• 
+Year 2002: 4,000 • 0.93 = 3,720 
+• 
+Year 2003: 4,100 • 0.93 = 3,813 
+ 
+ 
+ 
+ 
+ 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+Tier 1 quantified 
+4,000 
+4,000 
+4,100 
+4,200 
+4,800 
+4,900 
+5,000 
+4,800 
+4,900 
+5,000 
+Tier 2 quantified 
+ 
+ 
+ 
+4,035 
+4,598 
+4,410 
+4,500 
+4,320 
+4,513 
+4,790 
+ 
+ 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+Tier 1 quantified 
+4,000 
+4,000 
+4,100 
+4,200 
+4,800 
+4,900 
+5,000 
+4,800 
+4,900 
+5,000 
+Tier 2 quantified 
+ 
+ 
+ 
+4,035 
+4,598 
+4,410 
+4,500 
+4,320 
+4,513 
+4,790 
+Ratio Tier 2:Tier 1 
+ 
+ 
+ 
+0.96 
+0.96 
+0.90 
+0.90 
+0.90 
+0.92 
+0.96 
+ 
+ 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+Tier 1 quantified 
+4,000 
+4,000 
+4,100 
+4,200 
+4,800 
+4,900 
+5,000 
+4,800 
+4,900 
+5,000 
+Tier 2 quantified 
+3,720 
+3,720 
+3,813 
+4,035 
+4,598 
+4,410 
+4,500 
+4,320 
+4,513 
+4,790 
+Ratio Tier 2:Tier 1 
+ 
+ 
+ 
+0.96 
+0.96 
+0.90 
+0.90 
+0.90 
+0.92 
+0.96 
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.13 
+5.3.3.2 
+SURROGATE DATA 
+Table 5.0 presents examples of surrogate data that could be applied when using the surrogate data method. 
+TABLE 5.0 (NEW) 
+EXAMPLES OF SURROGATE DATA BY SECTOR 
+Energy 
+IPPU 
+AFOLU 
+Waste 
+• 
+Gross-domestic 
+product  
+• 
+Population statistics 
+• 
+Vehicle fleet 
+• 
+Fuel sales data 
+(taking into account 
+import/export) 
+• 
+Annual Income 
+ 
+• 
+Commodity 
+Production statistics 
+• 
+Gross-domestic 
+product (of each 
+specific category 
+where available) 
+• 
+Plant-specific 
+parameters 
+ 
+• 
+Crop sales data 
+(taking into account 
+import/export) 
+• 
+Crop productivity 
+and harvested area 
+• 
+Milk production data 
+• 
+Animals slaughtered 
+• 
+Gross-domestic 
+product of each 
+specific category 
+• 
+Fuelwood 
+consumption data 
+(taking into account 
+import/export) 
+• 
+Gross-domestic product 
+• 
+Population statistics 
+• 
+Annual Income 
+• 
+Protein intake data 
+• 
+Ratio of domestic/ 
+industrial wastewater 
+ 
+5.3.3.3 
+INTERPOLATION 
+In some cases, it may be possible to apply a method intermittently throughout the time series. For example, 
+necessary detailed statistics may only be collected every few years, or it may be impractical to conduct detailed 
+surveys on an annual basis. In this case, estimates for the intermediate years in the time series can be developed 
+by interpolating between the detailed estimates. If information on the general trends or underlying parameters is 
+available, then the surrogate method is preferable. 
+Figure 5.3 shows an example of linear interpolation. In this example, data for 1994 and 1995 are not available. 
+Emissions were estimated by assuming a constant annual growth in emissions from 1993-1996. This technique is 
+appropriate in this example because the overall trend appears stable, and it is unlikely that actual emissions for 
+1994 and 1995 are substantially different from the values predicted through interpolation. For categories that have 
+volatile emission trends (i.e., they fluctuate significantly from year to year), interpolation will not be according to 
+good practice and surrogate data will be a better option. It is good practice to compare interpolated estimates with 
+surrogate data as a QA/QC check. 
+Figure 5.3 Linear interpolation 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 5.2A (NEW) 
+CASE STUDY OF INTERPOLATING DATA FOR 
+CARBON DIOXIDE EMISSIONS FROM FOSSIL LIQUID INCINERATION IN GODONIA 
+Annually, the Statistical Office of Godonia collects activity data on the amounts of fossil liquid 
+waste incinerated by all industrial waste incineration companies. The Statistical office uses this 
+activity data to estimate CO2 emissions from incineration of fossil liquid waste. However, these data 
+were not available for the years 2004-2006 due to temporary closure of the unit with the Statistical 
+Office responsible for collecting waste data. Hence, the time series emission estimates for this 
+category are incomplete in the national GHG inventory of Godonia and require that a data gap filling 
+method is applied. The steps involved in filling the data gaps in the time series are described below. 
+ 
+Step 1. Determine whether any factors might have affected the activities that give rise to emissions 
+for the emission category of interest. This step is important to ensure that the interpolation method 
+is not applied in cases where the activity was prohibited for certain years of the time series (e.g. due 
+to legislation prohibiting certain activities, disruptions such as conflicts/economic performance, 
+etc.). 
+Step 2. Analyze data and assess applicability and type of interpolation technique desired. This 
+exercise can be achieved by fitting a trend line on the data and assessing the value of R2 (the 
+regression coefficient). The closer to unity the regression coefficient is, the more appropriate the 
+interpolation methodology is. In the example above, fitting a linear trend line is more appropriate as 
+the time series is linear.  
+Step 3. Calculate difference in GHG emissions between last year before the gap and first year after 
+the gap:  
+ 
+Step 4. Calculate the length of the gap: 2007 – 2003 = 4 years. 
+Step 5. Calculate average change in emissions per gap year = 420/4 = 105 Gg CO2. 
+Step 6. Calculate total emissions for gap year by adding the average change per year. 
+Step 7. Use results obtained in step 6 to calculate the missing emissions data in the time series: 
+• 
+year 2004: 4,235 + 105 = 4,340 Gg CO2 
+• 
+year 2005: 4,340 + 105 = 4,445 Gg CO2 
+• 
+year 2006: 4,445 + 105 = 4,550 Gg CO2 
+Step 8. Transparently report results: 
+ 
+5.3.3.4 TREND EXTRAPOLATION 
+No refinement.  
+ 
+ 
+ 
+ 
+ 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+GHG emission source x 
+3,800 
+3,920 
+4,030 
+4,135 
+4,235 
+ 
+ 
+ 
+4,655 
+4,770 
+4,880 
+4,975 
+ 
+ 
+ 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+GHG emission source x 
+3,800 
+3,920 
+4,030 
+4,135 
+4,235 
+ 
+ 
+ 
+4,655 
+4,770 
+4,880 
+4,975 
+4,655 (2007) – 4,235 (2003) = 420 
+ 
+ 
+ 
+ 
+ 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+GHG emission source x 
+3,800 
+3,920 
+4,030 
+4,135 
+4,235 
+4,340 
+4,445 
+4,550 
+4,655 
+4,770 
+4,880 
+4,975 
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.15 
+5.3.3.5 OTHER TECHNIQUES 
+No refinement. 
+5.3.3.5A   NON-LINEAR TREND ANALYSIS 
+In some cases, particularly for emission categories influenced by economic activity, time series consistency is best 
+represented by multiplicative (exponential) rather than additive (linear) relationships. In these cases, it is better to 
+construct a polynomial through all the given data points. The resultant polynomial can be used to fill data gaps in 
+the time series. There are a number of non-linear methods for interpolating within a set of known data. For example, 
+inventory compilers can apply the Newton’s interpolation method or the Lagrange’s interpolation method. Both 
+methodologies are widely available in literature and yield the same interpolating polynomial (Ouyed & Dobler 
+2010). The Richard extrapolation and Padé approximation methods can also be applied for trend extrapolation. 
+Inventory compilers should exercise caution when applying trend extrapolation methods. For example, a high-
+order polynomial may provide a very good fit to a data set over its range of validity. However, if higher powers 
+than needed are included, the polynomial may diverge rapidly from smooth behaviour outside range of the data. 
+When countries use models or measurements to estimate GHG emissions the X2 statistical method would be useful 
+for testing whether a difference is significant from a statistical perspective or not. Such testing would help to 
+increase accuracy and time-series consistency of imputing missing data. 
+An example of filling data gaps with a non-linear trend is given in Box 5.2b. In this example, there is one year of 
+missing data for direct soil N2O emissions from manure on non-federal grasslands. However, a plot of the data 
+indicates that a linear trend fit is clearly inappropriate. Therefore, a polynomial will be fit to the data and used to 
+impute the missing year. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 5.2B (NEW) 
+CASE STUDY OF NON-LINEAR INTERPOLATION OF DATA 
+DIRECT SOIL N2O EMISSIONS FROM MANURE ON NON-FEDERAL GRASSLANDS 
+The annual greenhouse gas inventory requires direct soil N2O emissions in kt N2O-N from manure 
+on non-federal grasslands to be part of the emission estimates. This annual greenhouse gas inventory 
+is calculated for the years 1990 to the most recent year and is reported to the United Nations 
+Framework Convention on Climate Change. However, the time series for N2O emissions below is 
+missing data for 2002. To fill this data gap a non-linear trend analysis is conducted. All of the steps 
+required to complete the time series are described below. 
+Step 1. Plot the known data to determine the most appropriate gap-filling method to apply. The 
+figure below contains a plot of the data. However, the data do not follow a linear trend, but a 
+polynomial should fit the data well.  
+ 
+Step 2. Determine the order of the polynomial most appropriate for the data. The goal is to find a 
+polynomial with the lowest order that still adequately fits the data. Start by fitting a polynomial of 
+order 2 then incrementally increase the order until an adequate fit is found. Beware of overfitting the 
+data. Statistical tests comparing the nth and the (n+1)th order polynomial fit can be useful. For these 
+data, a fourth order polynomial is the most appropriate fit.  
+ 
+Step 3. Use the polynomial determined in Step 2 to estimate the missing data. The polynomial 
+obtained via least-squares regression is given by: 
+2
+3
+4
+7.8752
+3.986
+0.4072
+0.023
+0.0013
+t
+t
+t
+t
++
+−
++
+−
+  
+ 
+ 
+Step 4. Transparently report results: 
+ 
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+Emissions
+11.34
+14.89
+16.23
+18.22
+19.78
+20.89
+19.69
+19.57
+19.21
+16.43
+14.23
+9.32
+0
+5
+10
+15
+20
+25
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+Non-linear Trend
+Emissions
+Year
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.17 
+5.3.3.6 SELECTING THE MOST APPROPRIATE TECHNIQUE 
+A number of splicing techniques are presented below to address time series consistency issues. The choice of 
+splicing technique involves expert judgement, and depends on an expert assessment of the volatility of emissions 
+trend, the availability of data for two overlapping methods, the adequacy and availability of surrogate data sets, 
+and the number of years of missing data. Table 5.1 summarises the requirements for each technique and suggests 
+situations in which they may or may not be appropriate. Countries should use Table 5.1 as a guide rather than a 
+prescription. 
+TABLE 5.1 (UPDATED) 
+SUMMARY OF SPLICING TECHNIQUES 
+Splicing Technique 
+Applicability 
+Comments 
+Overlap 
+Data necessary to apply both the 
+previously used and the new method 
+must be available for at least one year, 
+preferably more. 
+• 
+Most reliable when the overlap between two or 
+more sets of annual estimates can be assessed. 
+• 
+If the trends observed using the previously 
+used and new methods are inconsistent, this 
+approach is not good practice. 
+Surrogate Data 
+Emission factors, activity data or other 
+estimation parameters used in the new 
+method are strongly correlated with 
+other well-known and more readily 
+available indicative data. 
+• 
+Multiple indicative data sets (singly or in 
+combination) should be tested in order to 
+determine the most strongly correlated. 
+• 
+Should not be done for long periods. 
+Interpolation 
+Data needed for recalculation using the 
+new method are available for 
+intermittent years during the time 
+series.  
+• 
+Estimates can be linearly interpolated for the 
+periods when the new method cannot be 
+applied. 
+• 
+The method is not applicable in the case of 
+large annual fluctuations. 
+Trend Extrapolation 
+Data for the new method are not 
+collected annually and are not available 
+at the beginning or the end of the time 
+series. 
+• 
+Most reliable if the trend over time is constant. 
+• 
+Should not be used if the trend is changing (in 
+this case, the surrogate method may be more 
+appropriate). 
+• 
+Should not be applied for long periods. 
+Non-Linear Trend 
+Analysis 
+(Interpolation/ 
+Extrapolation) 
+In cases where time series consistency 
+is best represented by multiplicative 
+(exponential) rather than additive 
+(linear) relationships  
+• 
+Most reliable for trend analysis of model 
+outputs. 
+• 
+Applicable in the case of large annual 
+fluctuations with observed high standard 
+deviations (see Box 3.0a, Chapter 3, Volume 1 
+of the 2019 Refinement for guidance on 
+standard deviation values. 
+Other Techniques 
+The standard alternatives are not valid 
+when technical conditions are changing 
+throughout the time series (e.g., due to 
+the introduction of mitigation 
+technology). 
+• 
+Document customised approaches thoroughly. 
+• 
+Compare results with standard techniques. 
+5.4 
+REPORTING AND DOCUMENTATION OF 
+TREND INFORMATION 
+If the same method and data sources are used throughout the time series, and there have been no recalculations, 
+then following the reporting guidance for each category should be sufficient to ensure transparency. Generally, 
+countries should explain inventory trends for each category, giving particular attention to outliers, trend changes, 
+and extreme trends. Countries should provide additional documentation if they have recalculated previous 
+estimates and if they have used the techniques in this chapter to splice methodologies.  
+Recalculations: In addition to following the category-specific guidance on each category provided in Volumes 2-
+5, countries should clearly document any recalculations. The documentation should explain the reason for the 
+recalculation and the effect of the recalculation on the time series. Countries can also include a graph that shows 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+5.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+the relationship between the previous data trend and the new data trend. Table 5.3 provides an example of how 
+recalculations can be documented either for reporting purposes or for internal tracking.  
+TABLE 5.2 (UPDATED) 
+CATEGORY-SPECIFIC DOCUMENTATION OF RECALCULATIONS 
+Category/Gas 
+Emissions and Removals (Gg) 
+1990 
+1991 
+1992 
+1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+Previous Data (PD) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Latest Data (LD) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Difference in percent 
+=100●[(LD–PD)/PD] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Documentation: 
+• 
+Reason for application of time-series splicing techniques (e.g. gap filling, revised AD, new methodology); 
+• 
+Data source used; 
+• 
+Selection and justification of the method employed; 
+• 
+Assumptions used to reconstruct time series (e.g. rationale for choice of surrogate data). 
+Splicing techniques: Countries should provide documentation of any splicing techniques used to complete a time 
+series. The documentation should identify the years in which data for the method were not available, the splicing 
+technique used, and any surrogate or overlap data used. Graphical plots, such as those shown in Section 5.3 can 
+be useful tools for documenting and explaining the application of splicing techniques. 
+Mitigation: The category-specific guidance in Volumes 2-5 provide targeted guidance on specific information 
+that should be reported for each category, including mitigation and reductions. Generally, countries should 
+document the approach used to track mitigation activities and provide all relevant parameters such as abatement 
+utilisation, destruction efficiency, updated emission factors etc. 
+5.5 
+TIME SERIES CONSISTENCY QA/QC 
+No refinement.
+ 
+Chapter 5: Time Series Consistency 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.19 
+References 
+References copied from the 2006 IPCC Guidelines 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories, Houghton, J.T., Meira Filho, 
+L.G., Lim B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, B.A. (Eds). Intergovernmental 
+Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories, 
+Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., Emmanuel, S., Buendia, L., Hoppaus, R., 
+Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change (IPCC), 
+IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (2003). Good Practice Guidance for Land Use, land-Use Change and Forestry, Intergovernmental Panel on 
+Climate Change, Penman, J., Gytarsky, M., Hiraishi, T., Kruger, D., Pipatti, R., Buendia, L., Miwa, K., Ngara, 
+T., Tanabe, K. and Wagner, F. (Eds), IPCC/IGES, Hayama, Japan. 
+US EPA (2004). Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2003, United States Environmental 
+Protection Agency (US EPA), National Service Center for Environmental Publications (NSCEP). 
+http://www.epa.gov/globalwarming/publications/emissions.  
+References newly cited in the 2019 Refinement 
+Ouyed, R. and Dobler, W. (2010) Computational Physics: Chapter 4 - Interpolation/Extrapolation Techniques. 
+(1st Edition): 47-68.2F3  
+ 
+3 Available at: https://www.coursehero.com/file/23549186/Ouyed-Chapter-4-Interpolation-Extrapolation-Techniques/. 

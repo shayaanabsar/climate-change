@@ -1,0 +1,344 @@
+Chapter 9: Other Land 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9.1 
+CHAPTER 9  
+OTHER LAND 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+9.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Jennifer C. Jenkins (USA), Hector D. Ginzo (Argentina), and Stephen Ogle (USA) 
+ 
+Chapter 9: Other Land 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9.3 
+Contents 
+9 
+Other Land 
+9.1 
+Introduction...........................................................................................................................................9.4 
+9.2 
+Other Land Remaining Other Land.......................................................................................................9.4 
+9.3 
+Land Converted to Other Land..............................................................................................................9.4 
+9.3.1 
+Biomass.........................................................................................................................................9.4 
+9.3.1.1 
+Choice of method.....................................................................................................................9.4 
+9.3.1.2 
+Choice of emission/removal factors.........................................................................................9.5 
+9.3.1.3 
+Choice of activity data.............................................................................................................9.5 
+9.3.1.4 
+Uncertainty assessment............................................................................................................9.6 
+9.3.2 
+Dead organic matter ......................................................................................................................9.6 
+9.3.3 
+Soil carbon.....................................................................................................................................9.7 
+9.3.3.1 
+Choice of method.....................................................................................................................9.7 
+9.3.3.2 
+Choice of stock change and emission factors ..........................................................................9.7 
+9.3.3.3 
+Choice of activity data.............................................................................................................9.8 
+9.3.3.4 
+Uncertainty assessment............................................................................................................9.8 
+9.4 
+Completeness, Time series, QA/QC, and Reporting.............................................................................9.9 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+9.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9 OTHER LAND 
+9.1 
+INTRODUCTION 
+Chapter 3 of this Volume defines Other Land to include bare soil, rock, ice, and all land areas that do not fall into 
+any of the other five land-use categories treated in Chapters 4 to 8. Other Land is often unmanaged, and in that 
+case changes in carbon stocks and non-CO2 emissions and removals are not estimated. Guidance is provided for 
+the case of Land Converted to Other Land. This is because the conversion is associated with changes in carbon 
+stocks or non-CO2 emissions, most importantly those associated with conversions from Forest Land. Emissions 
+and removals from this land should continue to be estimated following the conversion, as described below. 
+Inclusion also enables checking the overall consistency of land area and tracking conversions to and from Other 
+Land. 
+9.2 
+OTHER LAND REMAINING OTHER LAND 
+Emissions and removals on Land Converted to Other Land class are estimated using the methods described 
+below, which also cover land remaining Other Land after conversion. All areas of Other Land Remaining Other 
+Land should be included in the land-use change matrix as described in Chapter 3 as a check on the overall area. 
+Emissions from land converted to bare soil as a result of development of settlements should of course be 
+included in the Settlements land-use category (See Chapter 8, Settlements). 
+9.3 
+LAND CONVERTED TO OTHER LAND  
+This section provides guidance on methods for estimating carbon stock changes for Land Converted to Other 
+Land. In general this is unlikely to be a key category, if it takes place at all, but land can be converted to Other 
+Land, e.g., as a result of deforestation with subsequent severe degradation, release of carbon stocks and 
+associated emissions. Figure 1.3 in Chapter 1 provides the decision tree which can be used to identify the 
+appropriate tier-level for Land Converted to Other Land.  
+The fundamental equation for estimating change in carbon stocks associated with land-use conversions was 
+introduced in Section 2.3.1.2 in Chapter 2.  This basic method can be applied to estimate change in carbon stocks 
+in Forest Land, Cropland, Grassland, Wetlands, and Settlements converted to Other Land. Extensions to the 
+method are provided for the subsequent treatment of these land areas following the transition period to the Other 
+Land category. 
+9.3.1 
+Biomass 
+The method requires estimates of carbon in biomass stocks prior to conversion, based on estimates of the areas 
+of land converted during the period between land-use surveys. As a result of conversion to Other Land, it is 
+assumed that the dominant vegetation is removed entirely, resulting in no carbon remaining in biomass after 
+conversion. The difference between initial and final biomass carbon pools is used to calculate change in carbon 
+stocks due to land-use conversion. In subsequent years, accumulations and losses in living biomass in Other 
+Land is considered to be zero. Figure 2.2 provides the decision tree for identification of appropriate tier to 
+estimate changes in carbon stocks in biomass.  
+9.3.1.1 
+CHOICE OF METHOD 
+The basic method (Equation 2.16 in Chapter 2) summarises how to estimate the change in carbon stocks in 
+biomass on Land Converted to Other Land. Average change in carbon stocks on a per area basis are estimated to 
+be equal to the change in carbon stocks due to the removal of living biomass from the initial land uses.  
+Tier 1 
+A Tier 1 method follows the approach in Equation 2.16 in Chapter 2 where the amount of above-ground biomass 
+that is removed is estimated by multiplying the area (e.g., forest area) converted annually to Other Land by the 
+average carbon content of biomass in the land prior to conversion (BBEFORE). In this case, BAFTER  in Equation 
+Chapter 9: Other Land 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9.5 
+2.16 is set to zero by default.  The default assumption for the Tier 1 calculation is that all carbon in biomass (less 
+harvested wood products removed from the area) is released to the atmosphere immediately (i.e., in the first year 
+after conversion) through decay processes either on- or off-site.  
+Tier 2 
+A Tier 2 method can be developed and used if country-specific data on carbon stocks before conversion to Other 
+Land (i.e., BBEFORE in Equation 2.16) are obtainable. BAFTER remains at zero. In addition, under Tier 2, carbon 
+losses can be apportioned to specific conversion processes, such as burning or harvesting. This allows for more 
+accurate estimation of non-CO2 greenhouse gas emissions. A portion of biomass removed is sometimes used as 
+wood products or as fuel wood. Chapter 2, Section 2.4 provides the basic method for estimating non-CO2 
+greenhouse gas emissions from biomass burning. Chapter 12 provides guidance for estimation techniques for 
+carbon stored in harvested wood products.  
+Tier 3 
+A Tier 3 method requires more detailed data/information than the Tier 2 approach, e.g.,:  
+• 
+Geo-referenced disaggregated areas converted annually are used for each land use converted to Other Land; 
+• 
+Carbon densities are based on locally specific information and; and 
+• 
+Biomass stock values are based on inventories and/or the model estimations.  
+• 
+Where data are available, Tier 3 methods may be used to track the dynamic behaviour of carbon stocks and 
+greenhouse gas emissions following conversion. Where the land remains in a vegetation-free state (due to 
+severe degradation), there will generally be a continuing decline in carbon stocks. If this is not the case, 
+countries should consider whether the land should be classified under another land use, as indicated in 
+Chapter 3. 
+9.3.1.2 
+CHOICE OF EMISSION/REMOVAL FACTORS 
+Tier 1 
+Default parameters are provided for biomass stocks before conversion to enable countries with limited data 
+resources to estimate emissions and removals from this source. The method requires the estimation of carbon 
+stocks before conversion for the initial land use (BBEFORE) and assumes that the carbon stock after conversion 
+(BAFTER) is zero. Tables provided in Chapters 4, 5, 6, 7 and 8 of this report, for average above-ground biomass 
+volume  and below-ground to above-ground biomass ratio in different land uses,  can be used to estimate carbon 
+stocks before conversion.  
+Tier 2 
+The Tier 2 method requires country-specific information, which may be obtained, for example, through 
+systematic studies of biomass carbon stocks in the various land-use categories. The default carbon stock values 
+mentioned above can be applied to some parameters in a Tier 2 approach. Default parameters for emissions from 
+biomass burning are provided in Chapter 2 Section 2.4. However, inventory compilers are encouraged to develop 
+country-specific coefficients to improve the accuracy of estimates. BAFTER is set to zero.  
+Tier 3 
+Under Tier 3, all model parameters should be country-specific and at a disaggregated level, and/or biomass 
+stocks derived from periodic inventories should be used.   
+9.3.1.3 
+CHOICE OF ACTIVITY DATA 
+All tiers require estimate of the area of land converted to Other Land over a time period that is consistent with 
+land-use surveys and the period used for conversions in the land-use change matrix.  Chapter 3 provides 
+guidance on the use of different types of data representing land so that they are applied as appropriately and 
+consistently as possible in inventory calculations. The same aggregate area estimates should be used for both 
+biomass and soil in the calculations of change in carbon stocks on land converted to Other Land. As described 
+below, higher tiers require greater specificity of areas.  
+Tier 1 
+For a Tier 1 approach, activity data on areas of different land-use categories converted to Other Land are needed. 
+If countries do not have these data, partial samples may be extrapolated to the entire land base, or historic 
+Volume 4: Agriculture, Forestry and Other Land Use 
+9.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+estimates of conversions may be extrapolated over time based on expert judgment. Forest areas converted to 
+Other Land are particularly important. 
+Tier 2 
+Under Tier 2, inventory compilers should use actual area estimates for transitions from various land-use 
+categories to Other Land. Full coverage of land areas can be accomplished either through analysis of periodic 
+remotely sensed images of land-use and land cover patterns, through periodic ground-based sampling of land-use 
+patterns, or hybrid inventory systems (Chapter 3, Annex 3A.3 provides guidance on sampling).  
+Tier 3 
+The activity data used should allow full accounting of all land-use category transitions to Other Land and should 
+be disaggregated to account for different conditions within a country. Disaggregation can occur along political 
+boundaries (county, province, etc.), biome, climate, or on a combination of these parameters. In many cases, 
+information on multi-year trends in land conversion may be available (from periodic sample-based or remotely 
+sensed inventories of land use and land cover). 
+9.3.1.4 
+UNCERTAINTY ASSESSMENT 
+Tier 1 
+Under Tier 1, the sources of uncertainty are the use of global or national averages for biomass carbon stocks in 
+Forest Land or Other Land uses before conversion, and coarse estimates of areas converted to Other Land. Areas 
+should be estimated using the methods outlined in Chapter 3. Carbon stocks will have the uncertainties 
+associated with their estimation in the relevant section of the Guidelines. In the absence of other estimates, a 
+default uncertainty level of +75% of the estimated mean CO2 emission may be assumed. 
+Tier 2 
+Actual area estimates for Land Converted to Other Land will enable more transparent accounting and allow 
+experts to identify gaps and double counting of land areas. The Tier 2 method uses at least some country-specific 
+values, which will improve the accuracy of estimates, provided they better represent conditions relevant to the 
+country. When country-specific values are developed, inventory compilers should use sufficient sample sizes and 
+techniques to minimize standard errors. Probability density functions (i.e., providing mean and variance 
+estimates) can be derived for all country-parameters. Such data can be used in more advanced uncertainty 
+analyses such as Monte Carlo simulations. Volume 1, Chapter 3 of this report can be referred for guidance on 
+developing such analyses. At a minimum, Tier 2 approaches should provide error ranges for each country-
+specific parameter.  
+Tier 3 
+Activity data should provide a basis to assign estimates of uncertainty to areas associated with land conversion. 
+Combining emission/removal factors and activity data and their associated uncertainties can be done using 
+Monte Carlo procedures to estimate means and confidence intervals for the overall inventory.  
+9.3.2 
+Dead organic matter 
+Tiers 1 and 2 
+For Tiers 1 and 2, it is assumed that no carbon remains in biomass or dead organic matter after conversion to 
+Other Land. All biomass carbon stocks are assumed to be emitted in the year of conversion, thus there is no 
+accumulation of DOM stocks.  Under Tier 1, DOM in the various land-use categories are not estimated and thus 
+there are no emissions or removals by sinks related to DOM to be estimated with conversions to Other Land.  
+Under Tier 2, if countries estimate DOM stocks for land-use categories that are subject to conversion to Other 
+Land, then (as for biomass) all DOM is assumed to be emitted in the year of conversion to Other Land.   
+Tier 3 
+At Tier 3, estimates should incorporate country-specific data on DOM.   
+Chapter 9: Other Land 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9.7 
+9.3.3 
+Soil carbon  
+For Land Converted to Other Land, inventory compilers should estimate the change in carbon stocks in mineral 
+soils under the initial land use relative to Other Land. Conversion of land to Other Land will result in a release of 
+organic carbon previously held in soil if the conversion is to impervious surfaces such as bare rock.   
+General information and guidance on estimating changes in soil C stocks are provided in Chapter 2, Section 
+2.3.3 (including equations), and needs to be reviewed before proceeding with a consideration of specific 
+guidelines below. The total change in soil C stocks for land converted to Grassland is estimated using Equation 
+2.24 for the change in soil organic C stocks for mineral soils and organic soils; and stock changes associated 
+with soil inorganic C pools (Tier 3 only).  This section provides specific guidance for estimating mineral soil 
+organic C stock changes.  It is assumed that the stock changes in organic soils are minimal because drainage is 
+unlikely in “Other Lands”  However, methods are provided in Section 2.3.3 (Chapter 2) to estimate stock 
+changes for organic soils in addition to soil inorganic C. 
+9.3.3.1 
+CHOICE OF METHOD 
+Inventories can be developed using a Tier 1, 2 or 3 approach, with each successive tier requiring more detail and 
+resources than the previous one.  Decision trees are provided for mineral soils (Figure 2.4, in Chapter 2) to assist 
+inventory compilers with selection of the appropriate tier. The approach at Tier 1 is that soil carbon stocks will 
+decline to zero after conversion. If this is not the case, then the land should probably be classified under one of 
+the Other Land uses. For Tier 2, country-specific estimates for C stocks on land that has been converted to Other 
+Land should be used or the dynamics of carbon stocks in soils can be tracked at Tier 3 using country-specific 
+data. 
+Mineral soils 
+Tier 1 
+Using Equation 2.25 in Chapter 2, the change in soil organic C stocks are estimated for mineral soils accounting 
+for the impact of land-use conversion to Other Land.  Annual rates of emissions (source) or removals (sink) are 
+estimated based on the difference in stocks (over time) for the initial and last year divided by the time 
+dependence of the stock change factors (D, default is 20 years).   
+Tier 2 
+The Tier 2 method for mineral soils also uses Equation 2.25, but involves country- or region-specific reference C 
+stocks and/or stock change factors and more disaggregated land-use activity and environmental data.  
+Tier 3 
+Tier 3 methods will involve more detailed and country-specific models and/or measurement-based approaches 
+along with highly disaggregated land-use and management data. It is good practice that Tier 3 approaches 
+estimating soil C change from land-use conversions to Other Land, employ models, data sets and/or monitoring 
+networks that are capable of representing transitions over time from other land uses, including Forest Land, 
+Grassland, Cropland, and possibly Settlements. Tier 3 methods should, where possible, be integrated with 
+estimates of biomass removal and the post-clearance treatment of plant residues (including woody debris and 
+litter), as variation in the removal and treatment of residues (e.g., burning, site preparation) will affect C inputs to 
+soil organic matter formation and C losses through decomposition and combustion.  
+9.3.3.2 
+CHOICE OF STOCK CHANGE AND EMISSION FACTORS 
+Mineral soils 
+Tier 1 
+The initial (pre-conversion) soil organic C stock (SOC(0-T)) is computed from the default reference soil organic C 
+stock (SOCREF) and stock change factor for land-use systems (FLU). The reference C stock at the end of the 20 
+year default transition period is assumed to be zero.  See the appropriate section for specific information 
+regarding the derivation of pre-conversion stock change factors for other land-use sectors (Forest Land in 
+Section 4.2.3.2, Cropland in 5.2.3.2, Grassland in 6.2.3.2, and Settlements in 8.2.3.2). 
+Volume 4: Agriculture, Forestry and Other Land Use 
+9.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 2 
+A Tier 2 approach can be implemented in which country-specific data are used to derive reference C stock and 
+stock change factors (SOC(0-T), FLU, FMG, FI) that better represent conditions in different types of Other Land.  
+Country-specific reference stocks at the end of the 20 year period can also be applied. Subsequently, emissions 
+and removals are set to zero.  See the appropriate section for specific information regarding the derivation of pre-
+conversion stock change factors for other land-use sectors (Forest Land in Section 4.2.3.2, Cropland in 5.2.3.2, 
+Grassland in 6.2.3.2, and Settlements in 8.2.3.2). 
+Reference values should be consistent across land-use sectors (i.e., Forest Land, Cropland, Grassland, 
+Settlements, and Other Land), which requires coordination among the various teams conducting soil C 
+inventories for AFOLU. 
+Tier 3 
+Model parameters will be determined using country-specific data or soil stocks measures; using soil inventories 
+with representative sampling as set out in Chapter 3. 
+9.3.3.3 
+CHOICE OF ACTIVITY DATA 
+Mineral soils 
+Tiers 1 and 2 
+For purposes of estimating soil carbon stock change, area estimates of land-use conversions to Other Land 
+should be stratified according to major climate regions and soil types. If such information has not already been 
+compiled, an initial approach would be to overlay available land cover/land-use maps (of national origin or from 
+global datasets such as IGBP_DIS) with soil and climate maps of national origin or global sources, such as the 
+FAO Soils Map of the World and climate data from the United Nations Environmental Program. Detailed 
+descriptions of the default climate and soil classification schemes are provided in Chapter 3. Soil types are 
+classified based on taxonomic description and textural data, and climate regions are based on mean annual 
+temperatures and precipitation, elevation and potential evapotranspiration. See corresponding sections dealing 
+with each land-use category for sector-specific information on activity data (Forest Land in Section 4.2.3.3, 
+Cropland in 5.2.3.3, Grassland in 6.2.3.3, and Settlements in 8.2.3.3).   
+Activity data gathered using Approach 2 or 3 (see Chapter 3) provide the underlying basis for determining the 
+previous land use for Land Converted to Other Land, but in its basic form at least, aggregate data (Approach 1) 
+do not reveal specific transitions. In this case, conversions to Other Land will be reported with the Other Land 
+Remaining Other Land and in effect transitions become step changes across the landscape. This makes it 
+particularly important to achieve coordination among categories of land use to ensure consistency over time.   
+Tier 3 
+For application of dynamic models and/or a direct measurement-based inventory in Tier 3, similar or more 
+detailed data on the combinations of climate, soil, topographic and management data are needed, relative to Tier 
+1 or 2 methods, but the exact requirements will be dependent on the model or measurement design.  
+9.3.3.4 
+UNCERTAINTY ASSESSMENT 
+Uncertainties in estimating soil C stock changes in Land Converted to Other Land are due to: (i) uncertainties in 
+land-use and management activity prior to conversion; (ii) uncertainties in reference soil C stocks if using a Tier 
+1 or 2 approach for mineral soils only; and (iii) uncertainties in the stock change/emission factors for Tier 1 or 2 
+approaches (or equivalently for Tier 3, uncertainties due to model structure or parameter values, or in 
+measurements with sample-based inventories).  Uncertainties may be large at Tier 1 where global or nationally 
+aggregated statistics on land conversion are used, and because of reliance on default reference carbon stocks. 
+Table 3.7 in Chapter 3 provides default uncertainties ranges associated with the different approaches to area 
+estimation, and the uncertainty in carbon stock estimation could exceed  +50% at Tier 1.  
+Chapter 9: Other Land 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9.9 
+9.4 
+COMPLETENESS, TIME SERIES, QA/QC, AND 
+REPORTING 
+COMPLETENESS 
+The total area of Other Land covered by the inventory methodology is the sum of Other Land Remaining Other 
+Land and Land Converted to Other Land during the time period. Inventory compilers are encouraged to track 
+through time the total area of land classified as Other Land within country boundaries, keeping transparent 
+records on which portions are used to estimate change in carbon stocks. All land area in a country should be 
+included in the reporting even if an inventory of emissions and removals has not been compiled for a portion of 
+the land base, such as Other Land.  
+DEVELOPING A CONSISTENT TIME SERIES 
+To maintain a consistent time series, it is good practice for countries to apply the same inventory methods over 
+the entire reporting time period, including definitions for land uses, area included in a C inventory, and 
+calculation method.  It is good practice to keep transparent records of any changes, and then re-calculate the C 
+stock changes over the entire inventory time period. Guidance on re-calculation under these circumstances is 
+given in Volume 1, Chapter 5.  Consistent estimation and reporting of “Other Lands” also requires common 
+definitions of climate and soil types across the entire time series for the period of the inventory. 
+INVENTORY QUALITY ASSURANCE/QUALITY CONTROL (QA/QC) 
+It is good practice to implement quality control checks and external expert review of inventory estimates and 
+data. Specific attention should be paid to country-specific estimates of stock change factors and emission factors 
+to ensure that they are based on high quality data and verifiable expert opinion. 
+REPORTING AND DOCUMENTATION 
+It is good practice to maintain and archive all information used to produce national inventory estimates. 
+Metadata and data sources for information used to estimate country-specific parameters should be documented, 
+and both mean and variance estimates provided. Actual databases and procedures used to process the data (e.g., 
+statistical programs) to estimate country-specific factors should be archived. Activity data and definitions used to 
+categorise or aggregate the activity data should be documented and archived.  
+REPORTING TABLES AND WORKSHEETS 
+The categories described in this section can be reported using the reporting tables in Volume1, Chapter 8. The 
+estimates for carbon dioxide emissions and removals from soils resulting from Land Converted to Other Land 
+are reported in IPCC Reporting Category 5D, changes in soil carbon.  Worksheets are provided in Annex 1 for 
+calculating emissions and removals of CO2 from Land Converted to Other Land.  
+ 

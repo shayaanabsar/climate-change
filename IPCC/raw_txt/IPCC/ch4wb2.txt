@@ -1,0 +1,1159 @@
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.21
+TABLE 4-10
+SCALING FACTORS FOR METHANE EMISSIONS FOR RICE ECOSYSTEMS RELATIVE
+TO CONTINUOUSLY FLOODED FIELDS
+ (WITHOUT ORGANIC AMENDMENTS)
+Category
+Sub-Categorya
+Scaling Factors (relative to
+emission factors for
+continuously flooded fields)
+Upland
+None
+0
+Lowland
+Irrigated
+Continuously flooded
+1.0
+Intermittently
+floodedb
+Single
+aeration
+0.5 (0.2-0.7)
+Multiple
+aeration
+0.2 (0.1-0.3)
+Rainfed
+Flood prone
+0.8 (0.5-1.0)
+Drought prone
+0.4 (0-0.5)
+Deep water
+Water depth  50-100 cm
+0.8 (0.6-1.0)
+Water depth > 100 cm
+0.6 (0.5-0.8)
+a other rice ecosystem categories, like swamps, inland saline or tidal wetlands may be discriminated within each sub-category
+according to local emission measurements.
+b  defined as > 3 days aeration during the vegetative period.  
+Note: For irrigated and continuously flooded, lowland rice ecosystems, the default seasonally integrated methane emission is
+20 g/m2 (see Table 4-11) for soils ‘without organic amendments’.  For conversion to methane emissions from soils ‘with organic
+amendments’, apply a default correction factor of 2 (Range 2-5) to the corresponding rice ecosystem for the ‘without organic
+amendment’ category.
+AGRICULTURE
+4.22
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 4-11
+SEASONALLY INTEGRATED METHANE EMISSION FACTORS FOR CONTINUOUSLY FLOODED RICE WITHOUT
+ORGANIC FERTILISER IN VARIOUS LOCATIONS OF THE WORLD
+Country
+Seasonally Integrated Emission
+Factor, EFa
+ (g/m2)
+Literature/Remarks
+Australia
+22.5
+NGGIC, 1996
+China
+13 (10-22)
+Wassman et al., 1993a
+India
+10 (5 - 15)
+Mitra et al., 1996
+Parashar et al., 1996
+Indonesia
+18 (5 - 44)
+Nugroho et al., 1994a,b
+Italy
+36 (17-54)
+Schütz et al., 1989a
+Japan
+15
+Minami, 1995
+Republic of Korea
+15
+Shin et al., 1995
+Philippines
+(25 - 30)
+Neue et al., 1994; Wassman et al.,
+1994
+Thailand
+16 (4 - 40)
+Towpryaoon et al., 1993
+USA (Texas)
+25 (15 - 35)
+Sass and Fisher, 1995
+Arithmetic Meanb
+20 (12-28)
+-
+a It is recognised that the emission factors presented in Table 4-11 will need to be periodically updated as better data become
+available.  However, this dataset represents the best available information at the time of compilation.
+b The arithmetic mean of the seasonally integrated emission factor, EF, is derived from the values shown in Table 4-11.  The
+range of emission factors is defined as the standard deviation about the mean.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.23
+4.4 
+Prescribed Burning of Savannas
+4 . 4 . 1  I n t r o d u c t i o n
+Savannas are tropical and subtropical formations with continuous grass coverage.
+The growth of savannas is controlled by alternating wet and dry seasons: most of
+the growth occurs during the wet season.  Man-made and/or natural fires
+frequently occur during the dry season, resulting in nutrient recycling and
+regrowth.  Large scale burning takes place primarily in the humid savannas
+because the arid savannas lack sufficient grass cover to sustain fire.  Savannas are
+burned every one to four years on average, with the highest frequency in the
+humid savannas of Africa.
+The burning of savannas results in instantaneous emissions of carbon dioxide.
+However, because the vegetation regrows between the burning cycles, the
+carbon dioxide released to the atmosphere is reabsorbed during the next
+vegetation growth period.  Therefore, this Workbook assumes that CO2 net
+emissions are zero.
+The burning of savannas also releases gases other than CO2, including
+methane, carbon monoxide, nitrous oxide and oxides of nitrogen.  Unlike
+CO2 emissions these are net anthropogenic emissions and should be
+accounted for.
+4 . 4 . 2  D a t a  s o u r c e s
+There are no routinely published data on the amount of savanna burned, but
+several assessment papers have been published.  The FAO Forest Resource
+Assessment 1990: Tropical Countries (FAO 1993) provides country estimates
+of savanna (grassland) area and the Greenhouse Gas Inventory Reference Manual
+provides additional references.
+4 . 4 . 3  M e t h o d o l o g y
+The non-CO2 trace gas emissions from savanna burning may be estimated
+through a series of simple calculations using either locally available data or
+defaults provided in the tables in this Workbook.
+First the quantity of biomass that actually burns is calculated by multiplying
+area of savanna burned by average biomass density and by the fraction of
+exposed biomass which actually burns.
+Second, carbon released is calculated multiplying quantity of biomass burned
+by fraction oxidised and then by carbon fraction.
+The second calculation can be greatly improved by first dividing the quantity
+of biomass burned into living and dead fractions.  The calculation is then
+carried out for each of these fractions using different fractions oxidised and
+carbon contents for the living and dead fractions.
+DEGRADED SAVANNAS
+Although the default assumption is
+that biomass burned on savannas
+regrows in a short period, this may
+not always be the case.  Sometimes
+savannas are burned too often, or
+for other reasons fail to recover
+completely.  Over time savannas can
+degrade significantly as a result of
+human intervention.  In this case
+there will be a long-term loss of
+carbon in aboveground biomass and
+soils.  If this is occurring, the annual
+carbon loss should be accounted for,
+if possible, in addition to the
+information 
+requested 
+in 
+the
+Workbook.
+NON-METHANE VOLATILE
+ORGANIC COMPOUNDS
+NMVOCs are emitted in significant
+quantities from biomass burning.
+These emissions should be estimated
+using the same approach provided
+for other non-CO2 gases.  However,
+the default information has not yet
+been developed to include this class
+of gases in the Workbook.  This is an
+area to be considered in future
+improvements to the Guidelines.
+AGRICULTURE
+4.24
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+Third, several ratios are applied to total carbon released to derive estimates
+of non-CO2 trace gas emissions, as follows:
+•
+a nitrogen-carbon ratio is applied to estimate total nitrogen content
+•
+ratios for CH4 and CO as fractions of total carbon
+•
+ratios of N2O and NOx as fractions of total nitrogen
+The resulting estimates of emissions are converted to total weight (i.e., from
+CH4 as C to CH4 total) using standard factors.
+One country may possess more than one type of savanna with different
+characteristics; burns may vary in efficiency; and burns may take place at
+different times during the dry season, causing the burning to vary with the
+state of the vegetation (such as the moisture content and whether the
+biomass is alive or dead).
+If data are locally available savanna burned should be subdivided into relevant
+subcategories reflecting these variations and entered into the worksheet.  If
+you are relying on the default values in this Workbook you will only be able
+to carry out calculations at a national level.
+C o m p l e t i n g  t h e  W o r k s h e e t
+S T E P  1  E S T I M A T I N G  T O T A L  B I O M A S S  T H A T
+A C T U A L L Y  B U R N S
+Use WORKSHEET 4-3 PRESCRIBED BURNING OF SAVANNAS at the end of this
+module to record inventory data.  You should do this for a single national
+average category or subdivide if data are locally available for each relevant
+subcategory of savanna.
+1
+For each category of savanna, enter the Area Burned (in kilohectares) in
+column A.
+If possible use locally available data for hectares of savanna burned
+annually.  If this is not possible, a crude default approach is to determine
+the total savanna area and multiply by typical regional defaults for
+percentage burned annually from Table 4-12 (below).
+FRACTIONS
+In order to determine the amount of
+savanna biomass that actually oxidises
+to release carbon to the atmosphere,
+several fractions must be applied
+sequentially.  To start with, the
+quantity of biomass exposed to fire is
+calculated by multiplying the area of
+savanna burned in the inventory year
+by the average biomass density (in
+tonnes of dry matter per hectare).
+The fractions are then applied as
+follows.
+Fraction which Actually Burns
+Under 
+normal 
+open 
+burning
+conditions all biomass in each hectare
+does not actually burn.  The Fraction
+which Actually Burns (generally 0.80 -
+0.85 but may be higher in very dry
+regions) is applied to derive the
+kilotonnes of dry matter which
+actually burn.
+Fraction Oxidised
+This next fraction to be applied
+expresses the biomass that oxidises.
+Not all of the burning biomass
+oxidises - a small fraction may remain
+as charcoal.  The fraction oxidised is
+usually 0.8 to 1.0.
+Carbon Fraction
+The last fraction to be applied
+determines the amount of carbon
+that is released from the fraction of
+biomass which has oxidised.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.25
+TABLE 4-12
+REGIONAL SAVANNA STATISTICS
+Region
+Fraction of
+Total Savanna
+Burned
+Annually
+Aboveground
+Biomass Density
+(t dm/ha)
+Fraction of
+Biomass Actually
+Burned
+Fraction of
+Aboveground
+Biomass that
+is Living
+Tropical America
+0.50
+6.6 ±1.8
+Tropical Asia
+0.50
+4.9
+Tropical Africa
+Sahel zone
+North Sudan zone
+South Sudan zone
+Guinea zone
+0.75
+0.05-0.15
+0.25-0.50
+0.25-0.50
+0.60-0.80
+6.6 ±1.6
+0.5-2.5*
+2-4*
+3-6*
+4-8*
+0.95
+0.85
+0.85
+0.90-1.0
+0.20
+0.45
+0.45
+0.55
+Australia
+0.05-0.70
+2.1-6
+Regional defaults are for seasonal average densities which should be used for emissions calculations.
+Values marked with * are maximum, season end densities which are appropriate defaults for these very
+dry sub-regions.
+Note: These are ecological zones that do not correspond directly to areas with political boundaries of the
+same name.  For example, the North and South Sudan Zones include countries other than Sudan and run
+East-West across the African continent.
+See the Greenhouse Gas Inventory Reference Manual for sources of these figures.
+2 
+For each category of savanna, enter the Biomass Density of the Savanna (in
+tonnes of dry matter per hectare) in column B.  Table 4-12 provides
+available summary information by region which can be used as default data.
+3
+Multiply the Area Burned by the Biomass Density of the Savanna to give
+the Total Biomass Exposed to Burning (in gigagrams of dry matter,
+which is the same as kilotonnes dm).  Enter the result in column C.
+4
+Enter the Fraction of Biomass Actually Burned in column D.
+Use locally available data if available.  You can use a general default figure
+in the range 0.80 - 0.85.  Some specific values for African sub-regions
+are given in Table 4-12.
+5
+Multiply Total Biomass Exposed to Burning (column C) by the Fraction
+Actually Burned (column D) to give the Quantity Actually Burned.
+Enter the results in column E.
+S T E P  2  E S T I M A T I N G  T H E  P R O P O R T I O N S  O F
+L I V I N G  A N D  D E A D  B I O M A S S
+1
+Enter the Fraction of Living Biomass burned in column F.
+Some default figures are in Table 4-12 for specific sub-regions in
+Africa.  In other regions users must provide these values.  If no
+information is available, users can do the calculation using "combined
+values" (see margin box: categories of savannas).
+CATEGORIES OF SAVANNAS
+A number of users of the draft
+Guidelines, particularly in Africa, have
+suggested that savannas should be
+divided into woody savannas and
+grasslands if possible.  For woody
+savannas, the aboveground biomass
+densities prior to burning would be
+higher and the fraction oxidised
+should be lower, as much of the
+standing woody biomass would not
+be burned.  Other subcategories by
+region, time of burning, etc. may also
+be useful.
+AGRICULTURE
+4.26
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2
+Multiply the Quantity Actually Burned by the Fraction of Biomass
+Living to give the quantity of Living Biomass Burned (in gigagrams of
+dry matter).  Enter the result in column G.
+3
+Subtract the Living Biomass Burned from the Quantity of Biomass
+Actually Burned to give the quantity of Dead Biomass Burned (in
+gigagrams of dry matter).  Enter the result in column H.
+S T E P  3  E S T I M A T I N G  T H E  T O T A L  C A R B O N
+R E L E A S E D
+1
+For each category of savanna, enter the Fraction Oxidised for living
+and dead biomass.  Enter the results in the appropriate boxes in
+column I.  Default figures are in Table 4-13.
+TABLE 4-13
+GENERAL DEFAULT VALUES
+Fraction
+Oxidised
+Carbon
+Fraction
+Living
+Fraction
+0.80
+0.45
+Dead
+Fraction
+1.0
+0.40
+Combined
+0.90
+0.45
+2
+For each category of savanna multiply the Living Biomass Burned by
+the Fraction Oxidised for living biomass.  Also, multiply Dead Biomass
+Burned by the Fraction Oxidised for dead biomass.  Enter the results,
+in gigagrams of dry matter, in the appropriate boxes in column J.
+3
+For each category of savanna, living and dead, enter the Carbon
+Fraction (of dry matter) of living and dead biomass in column K.
+Default figures are in Table 4-13.
+4
+Multiply the Total Biomass Burned by the Carbon Fraction for each
+category of savanna, living and dead, to give the Total Carbon
+Released.  Enter the results in column L in gigagrams of carbon.
+5
+Add the totals in column L and enter the result in the Total box at the
+bottom of the column.  Carry the result forward to column L at the
+start of sheet 3 on the next page.
+COMBINED VALUES
+From this point on in the worksheet,
+each original category is split into two
+parts - living and dead - for which
+calculations are made separately.  Each
+row in the worksheet splits into living
+and dead rows for columns I through J.
+If users are not able to report living and
+dead fractions, the default calculation
+can be done using "combined" values
+from Table 4-13.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.27
+S T E P  4  E S T I M A T I N G  N O N - C O 2  T R A C E  G A S
+E M I S S I O N S  F R O M  S A V A N N A  B U R N I N G
+1
+Enter the Nitrogen-Carbon Ratio in column M.
+If no data specific to biomass type are locally available, use the general
+default value for savannas, which is 0.006.
+2
+Multiply Total Carbon Released (column L) by the Nitrogen-Carbon
+Ratio to give the Total Nitrogen Content (in gigagrams of Nitrogen).
+Enter the result in the appropriate box in column N.
+3
+For each gas - methane (CH4), carbon monoxide (CO), nitrous oxide (N2O)
+and nitrogen oxides (NOx) - enter an Emission Ratio in column O.
+Table 4-14 shows the default ratios.
+TABLE 4-14
+EMISSION RATIOS AND RANGES FOR SAVANNA BURNING
+CALCULATIONS
+Compound
+Default value
+Range
+CH4
+0.004
+0.002 - 0.006
+CO
+0.06
+0.04 - 0.08
+N2O
+0.007
+0.005 - 0.009
+NOx
+0.121
+0.094 - 0.148
+Note: Ratios for carbon compounds are mass of carbon released as CH4 or
+CO (in units of C) relative to mass of total carbon released from burning
+(in units of C); those for the nitrogen compounds are expressed as the
+ratios of mass of nitrogen compounds released relative to the total mass of
+nitrogen released from the fuel.
+See the Greenhouse Gas Inventory Reference Manual for sources.
+4
+Multiply Total Carbon Released (column L) (for CH4 and CO), or Total
+Nitrogen Content (column N) (for N2O and NOx) by the emissions
+ratios in column O to give the total emissions for each gas.  Enter the
+results in column P.
+S T E P  5  C O N V E R T  E M I S S I O N S  O F  C A R B O N
+A N D  N I T R O G E N  I N T O  M E T H A N E ,  C A R B O N
+M O N O X I D E ,  N I T R O U S  O X I D E  A N D
+N I T R O G E N  O X I D E  E M I S S I O N S .
+1 Multiply the emissions of each gas expressed as C or N by the
+appropriate Conversion Ratio2 in column Q to give the Emissions from
+Savanna Burning for each gas emitted.  Enter the results in column R.
+                                                     
+     2 The molecular weight ratios given above for the emitted gases are with
+respect to the weight of nitrogen or carbon in the molecule.  Thus for N2O
+the ratio is 44/28 and for NOx it is 46/14.  NO2 has been used as the
+reference molecule for NOx.
+AGRICULTURE
+4.28
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.5 
+Field Burning of Agric ult ural
+Residues
+4 . 5 . 1  I n t r o d u c t i o n
+Large quantities of agricultural residues are produced from farming systems
+world-wide.  Burning of crop residues in the fields is a common agricultural
+practice, particularly in developing countries.  It has been estimated that as
+much as 40 per cent of the residues produced in developing countries may
+be burned in fields, while the percentage is lower in developed countries.  It
+is important to note that some crop residues are removed from the fields
+and burned as a source of energy, especially in developing countries.
+Emissions from this type of burning are calculated in the Energy module of
+this Workbook.  Users should ensure that residue burning is properly
+allocated to these two components and not double counted.
+This submodule deals exclusively with emissions of methane, carbon
+monoxide, nitrous oxide and nitrogen oxides from crop residues.  In this
+Workbook, field burning of crop residues is not treated as a net source of
+carbon dioxide because it is assumed that the carbon released to the
+atmosphere is reabsorbed during the next growing season.  However crop
+residue burning is a significant net source of emissions of methane, carbon
+monoxide, nitrous oxide and nitrogen oxides.
+4 . 5 . 2  D a t a  s o u r c e s
+Annual crop production statistics by country for most of the crops from
+which residues are burned may be found in FAO Production Year Books
+(e.g., FAO, 1991).  Crop specific data for each country on ratios of residue
+to crop production, fraction of residue burned, dry matter content of
+residue and carbon and nitrogen contents of residue should be provided by
+individual countries if available.  Table 4-15 Selected Crop Residue Statistics
+shows default data for crop residues.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.29
+TABLE 4-15
+SELECTED CROP RESIDUE STATISTICS
+Product
+Residue /
+Crop Ratio
+Dry Matter
+Fraction
+Carbon
+Fraction
+Nitrogen-
+Carbon
+Ratio
+Wheat
+1.3
+0.78-0.88
+0.4853
+0.012
+Barley
+1.2
+0.78-0.88
+0.4567
+Maize
+1
+0.30-0.50
+0.4709
+0.02
+Oats
+1.3
+Rye
+1.6
+Rice
+1.4
+0.78-0.88
+0.4144
+0.014
+Millet
+1.4
+0.016
+Sorghum
+1.4
+0.02
+Pea
+1.5
+Bean
+2.1
+Soya
+2.1
+0.05
+Potatoes
+0.4
+0.30-0.60
+0.4226
+Feedbeet
+0.3
+0.10-0.20a
+0.4072a
+Sugarbeet
+0.2
+0.10-0.20a
+0.4072a
+Jerusalem artichoke
+0.8
+Peanut
+1
+Note: Crop statistics in this table are not complete.  For values not specified you
+should use values for the most similar crop type as defaults.
+See the Greenhouse Gas Inventory Reference Manual for sources.
+a These statistics are for beet leaves.
+C o m p l e t i n g  t h e  W o r k s h e e t
+S T E P  1  C A L C U L A T I N G  T H E  A M O U N T  O F
+R E S I D U E
+Use WORKSHEET 4-4 FIELD BURNING OF AGRICULTURAL RESIDUES to enter
+data for this module.
+1 Specify the important crops which produce residues burned in fields and
+enter these as categories on the Worksheet.
+2 For each type of crop, enter Annual Production in gigagrams, which is
+the same as kilotonnes, of crop product in column A.
+3 Enter the Residue to Crop Ratio for each crop type in column B.  Use
+Table 4-15 above if there are no local statistics.
+4 Multiply the Annual Production of each crop by the Residue to Crop
+Ratio to give the Quantity of Residue.  Enter the result in column C.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make further copies if necessary
+AGRICULTURE
+4.30
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+S T E P  2  E S T I M A T I N G  T H E  A M O U N T  O F  D R Y
+R E S I D U E
+1 Enter Dry Matter Fraction for each crop type in column D.
+Default values for some crop types are shown in Table 4-15.
+2 Multiply the Quantity of Residue by the Dry Matter Fraction to give the
+Quantity of Dry Residue in gigagrams of dry matter.  Enter the result in
+column E.
+S T E P  3  E S T I M A T I N G  T O T A L  B I O M A S S
+B U R N E D
+1 Enter the Fraction Burned in Fields for each crop type in column F.
+ 
+Values should reflect an average of practices for the individual country.
+No default data are available.
+2 Enter the Fraction Oxidised for each crop type in column G (default
+value 0.90).
+3 Multiply the Quantity of Dry Residue by the Fraction Burned in Fields
+and the Fraction of Biomass Oxidised to give the Total Biomass Burned
+(in gigagrams of dry matter).  Enter the result in column H.
+S T E P  4  C A L C U L A T I N G  T H E  T O T A L  C A R B O N
+R E L E A S E D
+1 Enter the Carbon Fraction of each residue in column I.
+ 
+Default values for some crop types are shown in Table 4-15.  If no other
+information is available, use the general default for live biomass, which is 0.5.
+2 Multiply the Total Biomass Burned by the Carbon Fraction of each
+residue to give the Total Carbon Released in gigagrams of carbon.  Enter
+the results in column J.
+3 Add the totals for each crop type in column J and enter the result in the
+Total box at the bottom of the column.
+S T E P  5  E S T I M A T I N G  T O T A L  N I T R O G E N
+R E L E A S E D
+1 Enter the Nitrogen-Carbon Ratio for each crop type in column K.
+The general default Nitrogen-Carbon ratio for crops is 0.01- 0.02.  Some
+specific values for individual crops are given in Table 4-15.
+2 Multiply the Total Carbon Released (column J) by the Nitrogen-Carbon
+Ratio (column K) to give the Total Nitrogen Released.  Enter the result
+in column L.
+3 Add the Total Nitrogen Released for each crop type and enter the result
+in the Total box at the bottom of column L.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.31
+S T E P  6  E S T I M A T I N G  N O N - C O 2  T R A C E  G A S
+E M I S S I O N S
+1 Enter Emission Ratios in the relevant boxes in column M.  Table 4-16
+shows default emission ratios and ranges.
+TABLE 4-16
+DEFAULT EMISSION RATES FOR AGRICULTURAL RESIDUE
+BURNING CALCULATIONS
+Ratios
+Gas
+Default
+Range
+CH4
+0.005
+0.003-0.007
+CO
+0.06
+0.04-0.08
+N2O
+0.007
+0.005-0.009
+NOx
+0.121
+0.094-0.148
+Note: Ratios for carbon compounds are mass of carbon released as CH4 or
+CO (in units of C) relative to mass of total carbon released from burning (in
+units of C); those for the nitrogen compounds are expressed as the ratios of
+mass of nitrogen compounds released relative to the total mass of nitrogen
+released from the fuel.
+See the Greenhouse Gas Inventory Reference Manual for sources.
+2 Multiply Carbon Released (Total from column J) by the Emission Ratios
+for CH4 or CO (column M) to give the Emissions of Carbon as methane
+and carbon monoxide.  Enter the results in the appropriate boxes in
+column N.
+3 Multiply Nitrogen Released (Total from column L) by the Emission Ratios
+for N2O or NOx (column M) to give the Emissions of Nitrogen as
+nitrous oxide and nitrogen oxides.  Enter the results in the appropriate
+boxes in column N.
+4 For each gas, multiply by the Conversion Ratio3 in column O to give the
+amount of Emissions from Burning Agricultural Residues.  Enter the
+results, in gigagrams of each gas, in the appropriate boxes in column P.
+                                                     
+     3 The molecular weight ratios given above for the emitted gases are with
+respect to the weight of nitrogen or carbon in the molecule.  Thus for N2O
+the ratio is 44/28 and for NOx it is 46/14.  NO2 has been used as the
+reference molecule for NOx.
+AGRICULTURE
+4.32
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.6 
+Agric ult ural Soils
+4 . 6 . 1  I n t r o d u c t i o n
+Adequate information exists to calculate N2O emissions from agricultural
+systems including (1) direct emissions of N2O from agricultural soils
+(including glasshouse systems farming and excluding effects of grazing
+animals) (2) direct soil emissions of N2O from animal production and (3)
+indirect emissions of N2O from nitrogen used in agriculture.  The
+calculations can be performed in 9 steps in Worksheet 4-5.
+4 . 6 . 2  D a t a  S o u r c e s
+All input data can be obtained from FAO databases.
+The following input data are needed:
+• Total use of synthetic fertiliser in country (NFERT, in kg N/yr).
+• Number of livestock in country for the following categories: non-dairy
+cattle, dairy cattle, poultry, sheep, swine and other animals; N(T).
+• Dry pulses and soybeans produced in country (CropBF, in kg/yr).
+• Dry production of other crops in country (Crop0, kg/yr).
+• Area of cultivated organic soils (Histosols) in country (FOS, ha).
+4 . 6 . 3  M e t h o d o l o g y
+Total N2O–N emissions from a country (kg N2O–N/yr) are:
+N2O = N2ODIRECT + N2OANIMALS + N2OINDIRECT
+C o m p l e t i n g  t h e  W o r k s h e e t s
+Use WORKSHEET 4-5, AGRICULTURAL SOILS at the end of this module to
+record the data.
+E S T I M A T I N G  D I R E C T  N I T R O U S  O X I D E
+E M I S S I O N S  F R O M  A G R I C U L T U R A L  F I E L D S
+S T E P  1  A M O U N T  O F  N  I N P U T
+1 Calculation of synthetic fertiliser use (FSN)
+The Worksheet calculations require the total synthetic fertiliser, FSN, used in
+the country excluding emissions of NH3 and NOx (FSN).  This can be
+calculated from the following equation.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.33
+EQUATION 1
+FSN = NFERT x (1-FracGASF)
+where:
+NFERT
+=
+total use of synthetic fertiliser in country (kg N/yr);
+FracGASF
+=
+fraction of total synthetic fertiliser nitrogen that is
+emitted as NOx + NH3 (kg N/kg N) (see Table 4-17).
+Enter FSN in Worksheet 4-5, sheet 1 in column A.
+2 Calculation of nitrogen from animal waste (FAW)
+The data needed are: livestock numbers in country for the following
+categories: non-dairy cattle, dairy cattle, poultry, sheep, swine and other
+animals, N(T).
+Using nitrogen excretion factors as listed in Table 4-6, total nitrogen
+excretion by livestock can be calculated from livestock numbers.  Table 4-7
+shows the percentage of the manure-N used as fuel (FracFUEL), and from
+grazing animals (Pasture range and Paddock) (FracGRAZ).
+EQUATION 2
+FAW = (Nex (1-(FracFUEL + FracGRAZ + FracGASM))
+EQUATION 3
+Nex = ∑ [N(T) x Nex(T)]
+EQUATION 4
+Nex(AWMS) = ∑ [N(T) x Nex(T) x AWMS(T)]
+where:
+AWMS(T)
+=
+fraction of Nex(T) that is produced in the different
+distinguished animal waste management systems in
+country (from Tables 4-6 and 4-7);
+FAW
+=
+manure nitrogen used as fertiliser in country, corrected
+for NH3 and NOx emissions and excluding manure
+produced during grazing (kg N/yr);
+FracFUEL
+=
+fraction of livestock nitrogen excretion contained in
+excrements burned for fuel (kg N/kg N totally
+excreted);
+AGRICULTURE
+4.34
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+FracGRAZ
+=
+fraction of livestock nitrogen excreted and deposited
+onto soil during grazing (kg N/kg N excreted); country
+estimate;
+FracGASM
+=
+fraction of total nitrogen excretion that is emitted as
+NOx or NH3 (kg N/kg N) (see Table 4-17);
+N(T)
+=
+number of animals per Type of animal in country;
+Nex
+=
+total nitrogen excretion by animals in country (kg N/yr);
+Nex(T)
+=
+nitrogen excretion per Type of animal in country (kg/yr)
+(see Table 4-6);
+Nex(AWMS)
+=
+nitrogen excretion per Animal Waste Management
+System (kg/yr).
+ 
+Worksheet 4-5A (Supplemental) MANURE NITROGEN USED AS FERTILISER
+Use Worksheet 4-5A (Supplemental) to calculate Manure Nitrogen Used as
+fertiliser, corrected for NH3 and NOx emissions and excluding manure
+produced during grazing.
+1 Enter  the Total Nitrogen Excretion, Nex for all AWMS from column A,
+sheet 3 Worksheet 4-1, into column A.
+2 Enter the Fraction of Nitrogen burned for Fuel, FracFUEL,  in column B.
+See Table 4-17 for default data.
+3 Enter the Fraction of Nitrogen Excreted during Grazing, FracGRAZ, in
+column C. See Table 1 in Appendix A, Pasture Range and Paddock.
+4 Enter the Fraction of Nitrogen Excreted Emitted as NOx and NH3,
+FracGASM, in column D.  See Table 4-17 for default data. Note that the
+data in Appendix A are in per cent. Divide these values by 100 to obtain
+the Fraction of Nitrogen Excreted during Grazing.
+5 Sum columns B, C and D and subtract the total from one. Enter this
+figure in column E.
+6 Multiply columns A and E, and enter the result into column F to obtain
+the Manure Nitrogen Used (corrected for NH3 and NOx emission and
+excluding manure produced during grazing), FAW, into column F.
+7 Enter FAW in Worksheet 4-5, sheet 1 in column A.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.35
+TABLE 4-17
+SUMMARY OF DEFAULT VALUES FOR PARAMETERS
+FracBURN
+=
+0.25 in developing countries 0.10 or less in developed countries (kg N/kg crop-N)
+FracFUEL
+=
+0.0 kg N/kg nitrogen excreted a
+FracGASF
+=
+0.1 kg NH3–N + NOx–N/kg of synthetic fertiliser nitrogen applied
+FracGASM
+=
+0.2 kg NH3–N + NOx–N/kg of nitrogen excreted by livestock
+FracGRAZ
+=
+See Table A-1, Appendix A (Column Pasture Range and Paddock).a
+FracLEACH
+=
+0.3 kg N/kg nitrogen of fertiliser or manure
+FracNCRBF
+=
+0.03 kg N/kg of dry biomass
+FracNCR0
+=
+0.015 kg N/kg of dry biomass
+FracR
+=
+0.45 kg N/kg crop-N
+a Countries are recommended to obtain country specific data.
+3. Calculation of total nitrogen input in N-fixing crops (FBN)
+Nitrogen input from N-fixing crops (FBN, kg N/yr) can be calculated from dry
+biomass production of pulses and soybean in country, CropBF (kg/yr;):
+EQUATION 5
+FBN = 2 x CropBF x FracNCRBF
+where:
+CropBF
+=
+production 
+of 
+pulses 
++ 
+soybeans 
+in 
+country
+(kg dry biomass/yr);
+FracNCRBF
+=
+fraction of nitrogen in N-fixing crop (kg N/kg of dry
+biomass) (see Table 4-17).  The factor 2 converts the
+FAO crop production to total crop biomass.
+Enter FBN in Worksheet 4-5, sheet 1 in column A.
+4. Calculation of nitrogen input from crop residues (FCR)
+Data needed to calculate nitrogen input from crop residues (FCR) are:
+• Dry biomass production of pulses and soybean in country, CropBF (kg/yr)
+• Dry biomass production of other crops in country, Crop0 (kg/yr)
+These numbers can be obtained from FAO databases.
+AGRICULTURE
+4.36
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+Crop residue returned to soils (FCR, in kg N/yr) is calculated as:
+EQUATION 6
+FCR = 2 x [Crop0 x FracNCR0 + CropBF x FracNCRBF] x (1-FracR)
+x (1-FracBURN)
+where:
+CropBF
+=
+production 
+of 
+pulses 
++ 
+soybeans 
+in 
+country
+(kg dry biomass/yr);
+Crop0
+=
+production 
+of 
+non-N-fixing 
+crops 
+in 
+country
+(kg dry biomass/yr);
+FracNCRBF
+=
+fraction 
+of 
+nitrogen 
+in 
+N-fixing 
+crops
+(kg N/kg of dry biomass) (see Table 4-17);
+FracNCR0
+=
+fraction 
+of 
+nitrogen 
+in 
+non-N-fixing 
+crops
+(kg N/kg of dry biomass) (see Table 4-17);
+FracR
+=
+fraction of crop residue that is removed from the field
+as crop (kg N/kg crop-N) (see Table 4-17);
+FracBURN
+=
+fraction of crop residue that is burned rather than left
+on field (see Table 4-17).
+The factor 2 converts edible crop production to total crop biomass
+production.
+Worksheet 4-5B (Supplemental) NITROGEN INPUT FROM CROP RESIDUES
+Use Worksheet 4-5B (Supplemental) to calculate Nitrogen input from Crop
+Residues.
+1 Enter the Production of non-N-fixing crops, Crop0, in a country into
+column A. If production data are not available as dry biomass, multiply
+Crop0 by (1-0.15) to account for crop water content.
+2 Enter the Fraction of Nitrogen of non-N-fixing crops, FracNCR0, into
+column B. See Table 4-17 for default values.
+3 Enter the Production of Pulses and Soybeans, CropBFN, into column C. If
+production data are not available as dry biomass, multiply Crop0 by (1-
+0.15) to account for crop water content.
+4 Enter the Fraction of Nitrogen in N-fixing crops, FracNCRBF into
+column D. See Table 4-17 for default data.
+5 Subtract the Fraction of Crop Residue Removed from Field, FracR, from
+one, and enter the result in column F. See Table 4-17 for default data.
+6 Subtract the Fraction of Crop Residue Burnt, FracBURN, from one, and
+enter the result in column G. See Table 4-17 for default data.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.37
+7 Multiply columns A and B, and columns C with D. Sum the products, and
+multiply the result with the values in columns F and G. Multiply the result
+by 2 and enter the result into column H to obtain the nitrogen input
+from crop residues, FCR.
+8 Enter FCR in Worksheet 4-5, sheet 1 in column A.
+S T E P  2  E S T I M A T I N G  D I R E C T  N I T R O U S
+O X I D E  E M I S S I O N S  E X C L U D I N G
+C U L T I V A T I O N  O F  H I S T O S O L S
+1 Enter Emission Factors for Direct Emissions in column B.  Use default
+values for emission factor EF1 provided in Table 4-18 or more precise
+locally available data.
+ 
+2 Multiply the Amount of N input (column A) by the Emission Factor for
+Direct Emissions (column B) to give the Direct Soil emissions of N2O.
+Multiply the final result by 10-6 to express it as gigagrams.  Enter the
+results in column C.
+ 
+3 Sum the Direct Soil Emissions and enter the total in the bottom of the
+column C.
+S T E P  3  E S T I M A T I N G  D I R E C T  N 2 O
+E M I S S I O N S  F R O M  C U L T I V A T I O N  O F
+H I S T O S O L S
+1 Enter Area of Cultivated Organic Soils, Fos , in column D.
+ 
+2 Enter Emission Factor for Direct Soil Emissions in column E.  Use default
+values for Emission Factor, EF2 provided in Table 4-18 or more precise
+locally available data.
+ 
+3 Multiply the Area of Cultivated Organic Soils (column D) by Emission
+Factor for Direct Soil Emissions (column E) to give the total Direct
+Emissions from Histosols.  Multiply the final result by 10-6 to express it
+as gigagrams.  Enter the result in column F.
+TABLE 4-18
+SUMMARY OF DEFAULT EMISSION FACTORS
+FOR AGRICULTURAL EMISSIONS OF N2O
+EF1
+=
+0.0125 (0.0025-0.0225) kg N2O–N/kg nitrogen input
+EF2
+=
+5 temperate and 10 tropical (2-15) (kg N/ha/yr)
+EF3
+=
+see Table 4-8
+EF4
+=
+0.01 (0.002-0.02) kg N2O–N per kg NH3–N and NOx–N emitted
+EF5
+=
+0.025 (0.002-0.12) kg N2O–N per kg nitrogen leaching/runoff
+EF6
+=
+0.01 (0.002-0.12) kg N2O–N per kg sewage-N produced
+AGRICULTURE
+4.38
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+S T E P  4  E S T I M A T I N G  T O T A L  D I R E C T  N 2 O
+E M I S S I O N S
+Direct N2O emissions can be calculated from the following equation:
+EQUATION 7
+N2ODIRECT (kg N/yr) = [FSN + FAW + FCR + FBN] x EF1 + FOS x EF2
+1 Add the two totals from columns C and F together and then multiply by
+the conversion ratio 44/28 to give the Total Direct N2O Emissions.
+Enter the result in column G.
+S T E P  5  E S T I M A T I N G  S O I L  E M I S S I O N S  O F
+N 2 O  F R O M  G R A Z I N G  A N I M A L S
+Only emissions from pasture range and paddock are reported here.  The
+N2O emissions from other Waste Management Systems are reported under
+Manure Management (Worksheet 4-1, sheet 2).  N2O emissions from
+grazing animals (N2OANIMALS in kg N/yr) can be calculated as follows:
+EQUATION 8
+N2OANIMALS = N2O(AWMS)=∑ (T)[ N(T) x Nex(T) x AWMS(T) x EF3(AWMS)]
+where:
+N2OANIMALS
+=
+N2O emissions from animal production in a
+country (kg N/yr);
+N2O(AWMS)
+=
+N2O emissions from Animal Waste Management
+Systems in the country (kg N/yr);
+=
+[N(T=1) x Nex(T=1) x AWMS(T=1) x EF3(AWMS)]+ ...
++ [N(T=TMAX) x Nex(T=TMAX) x AWMS(T=TMAX) x
+EF3(AWMS)] ;
+N(T)
+=
+number of animals of type T in the country;
+Nex(T)
+=
+N excretion of animals of type T in the country
+(kg N/animal /yr); (see Table 4-6);
+AWMS(T)
+=
+fraction of Nex(T) that is managed in one of the
+different distinguished animal waste management
+systems for animals of type T in the country; (see
+Table 4-7);
+EF3(AWMS)
+=
+N2O emission factor for an AWMS (kg
+N2O-N/kg of Nex in AWMS); (see Table 4-8);
+T
+=
+type of animal category;
+TMAX
+=
+maximum types of animals distinguished in the
+country.
+4
+AGRICULTURE
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4.39
+1 Enter Nitrogen Excretion, Nex(AWMS), value for Pasture Range and
+Paddock (from Worksheet 4-1 Supplemental) into column A.
+ 
+2 Enter Emission Factor for AWMS in column B.  Use default values for
+Emission Factors, EF3, provided in Table 4-18 or more precise locally
+available data.
+ 
+3 Multiply Nex(AWMS) (column A) by the Emission Factor (column B) and
+then by the conversion ratio 44/28 to give Emissions of Nitrous Oxide
+from Grazing Animals.  Multiply the final result by 10-6 to express it as
+gigagrams.  Enter the result in column C.
+S T E P  6   E S T I M A T I N G  I N D I R E C T  E M I S S I O N S
+F R O M  A T M O S P H E R I C  D E P O S I T I O N  O F  N H 3
+A N D  N O X
+1 Enter the total amount of Synthetic Fertiliser N Applied to Soil, N(FERT), in
+column A.
+ 
+2 Enter the Fraction of Synthetic Fertiliser N Applied that Volatilizes (Frac
+GASFS) in column B.  Use default values provided in Table 4-17 or more
+precise locally available data.
+ 
+3 Multiply the total Amount of Synthetic Fertiliser Applied in the country
+(column A) by the Fraction of Synthetic Fertiliser N Applied that
+Volatilizes (column B) to give the total Amount of Synthetic Fertiliser
+Applied to Soil that Volatilizes.  Enter the result in column C.
+ 
+4 Enter the Total N Excretion by Livestock (Nex) calculated using
+equation 3 in column D.
+ 
+5 Enter the Fraction of Total Manure N Excreted that Volatilizes
+(FracGASM) in column E.  Use default values provided in Table 4-17 or
+more precise locally available data.
+ 
+6 Multiply the Total N Excretion by Livestock, (Nex), (column D) by
+Fraction of Total Manure N Excreted that Volatilizes, FracGASM, (column
+E).  Enter the result in column F.
+ 
+7 Enter Emission Factor,  EF4, in column G.  Use default values provided in
+Table 4-18 or more precise locally available data.
+ 
+8 Add columns C and F and then multiply by Emission Factor, EF4,
+(column G) to give Nitrous Oxide Emissions.  Multiply the final result by
+10-6 to express it as gigagrams.  Enter the result in column H.
+ 
+AGRICULTURE
+4.40
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+S T E P  7   E S T I M A T I N G  I N D I R E C T  E M I S S I O N S
+F R O M  L E A C H I N G
+1 Enter the total amount of Synthetic Fertiliser Use in the country N(FERT)
+in column I.
+ 
+2 Enter the total Livestock N Excretion (Nex), calculated using Equation 3,
+in column J.
+ 
+3 Enter the Fraction of N that Leaches, Frac LEACH, in column K.  Use
+default values provided in Table 4-17 or more precise locally available
+data.
+ 
+4 Enter the Emission Factor, EF5,  in column L.  Use default values provided
+in Table 4-18 or more precise locally available data.
+ 
+5 Add total amount of Synthetic Fertiliser Use in the country N(FERT)
+(column I) to Nex (column J).  Multiply by Frac LEACH (column K) and
+then by EF5 (column L) to give the indirect Nitrous Oxide Emissions
+from Leaching.  Multiply the final result by 10-6 to express it as gigagram.
+Enter the result in column M.
+S T E P  8   E S T I M A T I N G  I N D I R E C T  E M I S S I O N S
+Indirect N2O emissions (kg/yr) can now be calculated in Worksheet 4-5,
+Sheets 1 (atmospheric deposition), and 2 (leaching and runoff) as:
+EQUATION 9
+N2OINDIRECT = N2O(G) + N2O(L)
+where:
+N2O(G)
+=
+(NFERT x FracGASF + Nex FracGASM) x EF4;
+N2O(L)
+=
+(NFERT + Nex) x FracLEACH x EF5.
+where:
+FracLEACH
+=
+fraction of nitrogen input to soils that is lost
+through leaching and runoff (kg N/kg of nitrogen
+applied); (see Table 4-19);
+N2OINDIRECT
+=
+indirect N2O emissions from country (kg N/yr);
+N2O(G)
+=
+N2O emissions from country due to atmospheric
+deposition of NH3 and NOx (kg N/yr);
+N2O(L)
+=
+N2O emissions from country due to nitrogen
+leaching and runoff (kg N/yr).
+1 Sum the two totals in columns H and M and then multiply by the
+conversion ratio 44/28 to give the Total Indirect Nitrous Oxide
+Emissions. Enter the result in column N.

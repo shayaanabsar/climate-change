@@ -1,0 +1,355 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+O V E R V I E W.1
+O V E R V I E W  O F  T H E  I P C C
+G U I D E L I N E S
+This document is one volume of the Revised 1996 IPCC Guidelines for
+National Greenhouse Gas Inventories.
+The series consists of three books:
+•
+THE GREENHOUSE GAS INVENTORY REPORTING INSTRUCTIONS
+•
+THE GREENHOUSE GAS INVENTORY WORKBOOK
+•
+THE GREENHOUSE GAS INVENTORY REFERENCE MANUAL
+These books together provide the range of information needed to plan,
+carry out and report results of a national inventory using the IPCC system.
+The Reporting Instructions (Volume 1) provides step-by-step directions for
+assembling, documenting and transmitting completed national inventory data
+consistently, regardless of the method used to produce the estimates.
+These instructions are intended for all users of  the IPCC Guidelines and
+provide the primary means of ensuring that all reports are consistent and
+comparable.
+The Workbook (Volume 2) contains suggestions about planning and getting
+started on a national inventory for participants who do not have a national
+inventory available already and are not experienced in producing such
+inventories. It also contains step-by-step instructions for calculating
+emissions of carbon dioxide (CO2) methane (CH4), nitrous oxide (N2O),
+halocarbons (HFCs, PFCs), sulphur hexafluoride (SF6), ozone and aerosol
+precursors, from six major emission source categories. It is intended to
+help experts in as many countries as possible to start developing inventories
+and become active participants in the inventories programme.
+The Reference Manual (Volume 3) provides a compendium of information on
+methods for estimation of emissions for a broader range of greenhouse
+gases and a complete list of source types for each. It summarises a range of
+possible methods for many source types. It also provides summaries of the
+scientific basis for the inventory methods recommended and gives extensive
+references to the technical literature. It is intended to help participants at
+all levels of experience to understand the processes which cause
+greenhouse gas emissions and removals to occur and the estimation
+methods used in compiling inventories.
+OVERVIEW
+O V E R V I E W.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+Contents of the IPCC Guidelines
+All three volumes begin with the following sections:
+Acknowledgements
+Preface
+Overview of the IPCC Guidelines
+The contents of each volume are as follows:
+Volume 1:  Greenhouse Gas Inventory Reporting Instructions
+Introduction to the Reporting Instructions
+Chapter 1:  Understanding the Common Reporting Framework
+Chapter 2:  Reporting the National Inventory
+Tables:  
+Sectoral Report Tables
+     
+Summary Report Tables
+Overview Table
+Annex 1:  Managing Uncertainties
+Annex 2:  IPCC and CORINAIR Source Categories
+Glossary
+Volume 2:  Greenhouse Gas Inventory Workbook
+Introduction to the Workbook
+Module 1:  Energy
+Module 2:  Industrial Processes
+Module 3:  Solvent and Other Product Use
+Module 4:  Agriculture
+Module 5:  Land-Use Change and Forestry
+Module 6:  Waste
+Volume 3:  Greenhouse Gas Inventory Reference Manual
+Introduction to the Reference Manual
+Chapter 1:  Energy
+Chapter 2:  Industrial Processes
+Chapter 3:  Solvent and Other Product Use
+Chapter 4:  Agriculture
+Chapter 5:  Land-Use Change & Forestry
+Chapter 6:  Waste
+OVERVIEW
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+O V E R V I E W.3
+Before you start...
+This diagram explains the stages needed to make a national inventory which
+meets IPCC standards.
+Aggregate/transform 
+data and put into 
+standard format as 
+outlined in the Reporting 
+Instructions
+Use software and 
+Workbook
+Use manual work
+sheets in Workbook
+Plan inventory
+Assemble data
+Reporting recommendations
+- documentation
+- verification
+- uncertainty
+Use Reporting Instructions
+Final National Inventory
+Do you want to use
+IPCC Computer Software
+Do you have a detailed
+National Inventory?
+Yes
+Yes
+No
+No
+OVERVIEW
+O V E R V I E W.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+The flow diagram above illustrates how the different types of users
+(working at different levels of inventory detail) can use the various volumes
+of the Guidelines. You should recognise that reality is more complex than
+this simple explanatory chart. Many countries may have some parts of the
+inventory complete at a high level of detail but may only be getting started
+on other parts. It is quite likely that some users will need to do several
+iterations of the thinking process reflected in the diagram with regard to
+different parts of their inventory.
+The stages outlined in the flow diagram are:
+Question 1
+Do you have a detailed national inventory?
+Answer: Yes
+If your country already has a complete national inventory, you should
+transform the data it contains into a form suitable for use by IPCC. This
+means transforming it into a standard format. In order to do this, use
+Volume 1 of the IPCC Guidelines, Reporting Instructions. This gives details of
+the way in which data should be reported and documented.
+Answer: No
+You should start to plan your inventory and assemble the data you will
+need to complete the Worksheets in this book. Refer to the Getting Started
+section of the Workbook.
+Question 2
+Do you want to use the IPCC computer software?
+Answer: Yes
+If you want to use the IPCC software, you will still follow the instructions
+included in the Workbook to assemble the data you have collected into an
+inventory (see margin box). You will use the software instead of the printed
+worksheets to enter data.
+Answer: No
+If you do not use the IPCC software, use the Workbook and the
+Worksheets it contains to assemble the data you have collected into an
+inventory.
+Finally...
+Inventory data should be returned to IPCC in the form recommended in
+the Reporting Instructions. It is important that, where you have used a
+methodology other than the IPCC Default Methodology, it is properly
+documented. This will ensure that national inventories can be aggregated
+and compared in a systematic way in order to produce a coherent regional
+and global picture.
+General Notes on the Guidelines
+Scope:
+• 
+The IPCC Guidelines are designed to estimate and report on national
+inventories of anthropogenic greenhouse gas emissions and removals.
+AVAILABILITY/USE OF COMPUTER
+SOFTWARE
+IPCC computer software is available
+with the IPCC Guidelines.  The
+software includes the same simple
+default methods as presented in the
+Workbook and the Sectoral and
+Summary 
+Tables 
+for 
+reporting
+inventories, as presented in the
+Reporting Instructions.  It is available
+in English only.
+This version of the software is being
+produced in Excel 5.0.
+If you would like to receive a copy
+of the software, send a letter or fax
+to:
+IPCC UNIT FOR GHG
+INVENTORIES
+Pollution Prevention and Control
+Division
+OECD, Environment Directorate
+2, rue André-Pascal
+75775 PARIS CEDEX 16
+FRANCE
+FAX:  (33-1) 45 24 78 76
+OVERVIEW
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+O V E R V I E W.5
+In general terms “anthropogenic” refers to greenhouse gas emissions
+and removals that are a direct result of human activities or are the
+result of natural processes that have been affected by human activities.
+Users may include any human-induced emissions and removals in their
+inventory as long as they can be clearly documented and quantified.
+• 
+National inventories should include greenhouse gas emissions and
+removals taking place within national (including administered)
+territories and offshore areas over which the country has jurisdiction.
+There are, however, four qualifications of this principle in the
+Guidelines:
+(a) Emissions based upon fuel sold to ships or aircraft engaged in
+international transport should not be included in national totals
+but reported separately.
+(b) Emissions from road vehicles should be attributed to the country
+where the fuel is loaded into the vehicle.  The error in national
+emissions introduced in the case of road transport is expected to
+be small.
+(c) Emissions from the combustion or decay of wood and wood
+products are assumed to take place in the country in which the
+wood was harvested and within a year of harvesting.  This is
+because it has been determined that the most workable approach
+to estimating CO2 emissions and removals from forests is to
+account for changes in stocks of standing biomass in forests and
+other locations.  The simple assumption is that wood removed
+from stocks releases CO2 emissions in the year and in the country
+where the wood was removed.  While the IPCC method allows
+for accounting of exports and carbon stored in products, it does
+not yet provide a methodology, which is a priority for future work.
+(d) In line with the principle of national emissions, the IPCC
+methodology accounts for the bulk of greenhouse gas emissions
+related to fuel combustion in the country in which those emissions
+are released.  The IPCC methodology for carbon stored in non-
+fuel products manufactured from fuels as raw materials takes into
+account emissions released from those products during their use
+or destruction.  Emissions are attributed to the country where the
+conversion to non-energy products takes place, even when the
+products are traded internationally.  This is believed to be a
+relatively small net error, but it is also a priority for future work.
+Data Quality and Time Frame:
+• 
+The data available to estimate anthropogenic greenhouse gas emissions
+resulting from fuel combustion are generally of a better quality than the
+data available to estimate greenhouse gas emissions and removals in the
+areas of agriculture and land use change/forestry.  Accordingly, while
+the IPCC Guidelines request an emission figure for a single year in most
+source/sink sectors, three-year averages (with the base year in the
+middle) are preferred in the areas of agriculture and land use
+change/forestry.  In addition, the IPCC Guidelines recognise that
+greenhouse gas emissions and removals in the area of land use
+change/forestry can occur over an extended period of time once the
+activity has been completed.  For example, when estimating emissions
+OVERVIEW
+O V E R V I E W.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+from the abandonment of forests and grasslands, users are requested
+to estimate emissions related to two time periods of previous activity:
+(a) 0 - 20 years ago, and (b) 20 - 100 years ago.
+Default Method:
+• 
+The IPCC Guidelines contain “default” methodologies for the estimation
+of greenhouse gas emissions and removals.  Users are encouraged to
+go beyond these minimum default methods where possible, and report
+the results.
+The IPCC Guidelines also include a number of “default” assumptions and
+data for use in the estimation of greenhouse gas emissions and
+removals.  This default information is included primarily to provide
+users with a starting point from which they can develop their own
+national assumptions and data.  Indeed, national assumptions and data
+are always preferred because the default assumptions and data may not
+always be appropriate for specific national contexts.
+In general, therefore, default assumptions and data should be used only
+when national assumptions and data are not available.  Section 2 of the
+Introduction to the IPCC Greenhouse Gas Inventory Workbook
+provides information on the quality of the default data available in
+different greenhouse gas source/sink categories.  When it is indicated
+that the data available are of low quality, users should recognise that
+the default data do not provide a basis for the development of a
+definitive inventory of that source/sink category.
+• 
+Many of the categories of greenhouse gas emissions and removals can
+be estimated only with large ranges of uncertainty. Quite naturally,
+some national experts have developed methods which are designed to
+produce ranges of estimates rather than point estimates for highly
+uncertain categories. The IPCC Guidelines, however, require that users
+provide a single point estimate for each gas and emissions/removal
+category. This is simply to make the task of compilation, comparison
+and evaluation of national reports manageable. Users are encouraged
+to provide uncertainty ranges or other statements of confidence or
+quality along with the point estimates. The procedures for reporting
+uncertainty information are discussed in the Greenhouse Gas Inventory
+Reporting Instructions.
+Double Counting of Emissions:
+The methods proposed for the estimation of emissions sometimes simplify
+the inventory construction in order to use data which are more readily
+available than those needed for a detailed and more precise approach.  In
+certain cases this may cause or increase the risk of double counting
+emissions.  There are two areas where this may occur in the Guidelines.
+1)
+All countries preparing CO2 inventories using the IPCC Guidelines
+are asked to estimate the emissions from fuel combustion using the IPCC
+Reference Approach either as the primary means of preparing the
+inventory or as a verification stage following the preparation of an inventory
+using national methods. The Reference Approach is a simple procedure
+which demands relatively little data and lends itself to wide-spread
+application as a "common denominator".
+OVERVIEW
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+O V E R V I E W.7
+The Reference Approach provides an upper bound to CO2 emissions
+inferred from the country's supply of fossil fuels by identifying the carbon
+content, subtracting from it the carbon stored in non-energy products and
+products made from fuels used as raw material, adjusting for carbon which
+remains unburnt and multiplying by 44/12. It is an upper bound1 because
+some of the carbon will be emitted in forms other than CO2, in part
+because fuel combustion is not always complete but also because fuels may
+leak or evaporate.  Consequently the CO2 emissions figure obtained from
+the Reference Approach will include carbon emitted as CH4, CO or
+NMVOC.  At the same time the Guidelines encourage countries to estimate
+separate inventories for these gases and when this is done these gases are
+reported twice, in their emitted form and as CO2.  It is in this sense that
+they are "double counted".
+Use of the Reference Approach carries with it two consequences which
+should be carefully noted.
+Because the Reference Approach uses fossil fuel supply statistics as a basis
+for determining the carbon supply
+•
+Not all carbon based emissions from fossil fuel are reported twice.
+The Reference Approach CO2 estimate will not include emissions
+from combustion or release of fossil fuels for which the corresponding
+quantities (activity data) are not included in national production or
+import figures.  Notable examples of activities which lead to emissions
+not included are the venting of natural gases from coal mining and
+handling and oil and gas production.  Emissions from the flaring of
+natural gases are also excluded.  As a result, when emissions from
+these activities are included in the relevant inventories using the
+fugitive emissions methodologies recommended in the Guidelines no
+"double counting" occurs.
+•
+CO2 emissions from biomass used as fuels are excluded from the total
+CO2 emissions figure.  The restriction of the Reference Approach to
+fossil fuels results from the sustainable nature of biofuels.  The CO2
+emissions are, however, reported for information purposes.  Note
+that non-CO2 emissions from biofuels are included in their respective
+inventories.
+2)
+Double counting may also occur when calculated emissions from
+the manufacture of products from fuels used as raw materials or from the
+use of fuels for their physical properties (e.g. lubricants) include emissions
+produced from the later destruction of these products.   The double count
+will be with any separate reporting within the Waste module of the
+Guidelines of emissions from destruction.
+3) 
+When a national CO2 inventory is constructed from emissions
+estimated for each source category using emission factors derived from
+measurements on combustion plant, care should be taken to include the
+CO2 equivalent of other fossil carbon based emissions from the source
+                                                  
+     1 In practice, because of inaccuracies in the supply statistics and/or
+emission factors, CO2 estimates from the Reference Approach may be less
+than those obtained by summing all CO2 emissions from the combustion of
+fuel.
+OVERVIEW
+O V E R V I E W.8
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+category.  In this manner, the resulting total CO2 emissions can be
+compared with the result of the CO2 Reference Approach as part of the
+inventory verification stage.  If, however, CO2 emission factors, derived
+from the carbon content of the fuel, are used then no addition of the CO2
+equivalent of carbon gases is required.

@@ -1,0 +1,287 @@
+ 
+ 
+ 
+2019 Refinement to the 
+2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories 
+ 
+ 
+ 
+Edited by Eduardo Calvo Buendia, Kiyoto Tanabe, Andrej Kranjc, 
+Baasansuren Jamsranjav, Maya Fukuda, Sekai Ngarize,  
+Akira Osako, Yurii Pyrozhenko, Pavel Shermanau and Sandro Federici 
+ 
+ 
+ 
+Task Force on National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+A report prepared by the Task Force on National Greenhouse Gas Inventories (TFI) of the IPCC and accepted by 
+the Panel but not approved in detail. 
+ 
+Whilst the information in this IPCC Report is believed to be true and accurate at the date of going to press, neither 
+the authors nor the publishers can accept any legal responsibility or liability for any errors or omissions. Neither 
+the authors nor the publishers have any responsibility for the persistence of any URLs referred to in this report and 
+cannot guarantee that any content of such web sites is or will remain accurate or appropriate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published by the Intergovernmental Panel on Climate Change. 
+© The Intergovernmental Panel on Climate Change (IPCC), 2019. 
+When using the guidelines please cite as: 
+IPCC 2019, 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Calvo 
+Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., 
+Shermanau, P. and Federici, S. (eds). Published: IPCC, Switzerland. 
+ 
+IPCC Task Force on National Greenhouse Gas Inventories 
+Technical Support Unit 
+ 
+℅ Institute for Global Environmental Strategies 
+2108 -11, Kamiyamaguchi 
+Hayama, Kanagawa 
+JAPAN, 240-0115 
+nggip-tsu@iges.or.jp 
+www.ipcc-nggip.iges.or.jp 
+ 
+ 
+ISBN 978-4-88788-232-4 
+ 
+The designations employed and the presentation of material on maps do not imply the expression of any opinion 
+whatsoever on the part of the Intergovernmental Panel on Climate Change concerning the legal status of any 
+country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. 
+Contents 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+iii 
+Contents 
+ 
+Foreword 
+Preface 
+Dedication 
+Overview 
+Glossary 
+List of Contributors 
+ 
+Volume 1 General Guidance and Reporting 
+Volume 2 Energy 
+Volume 3 Industrial Processes and Product Use 
+Volume 4 Agriculture, Forestry and Other Land Use 
+Volume 5 Waste 
+ 
+Foreword 
+iv 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+Foreword 
+National greenhouse gas inventories are essential tools for countries to transparently report their anthropogenic 
+emissions and removals of greenhouse gases. They provide a fundamental basis for mutual trust and confidence 
+among countries that are needed for effective implementation of international agreements to address climate 
+change. They are also essential tools in developing policies and in monitoring impact. They provide invaluable 
+information for those developing policies related to climate change. 
+The Parties to the United Nations Framework Convention on Climate Change (UNFCCC) develop, periodically 
+update and publish their national greenhouse gas inventories, using comparable methodologies to be agreed upon 
+by the Conference of the Parties. The “comparable methodologies” agreed on are those produced by the 
+Intergovernmental Panel on Climate Change (IPCC). Further, the Parties to the Paris Agreement decided in 
+December 2018 that each Party shall use the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, and 
+shall use any subsequent version or refinement of the IPCC guidelines agreed upon by the Conference of the Parties 
+serving as the meeting of the Parties to the Paris Agreement (CMA). 
+The 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2019 Refinement) 
+has been produced by the IPCC Task Force on National Greenhouse Gas Inventories (TFI) and adopted/accepted 
+by the IPCC at its 49th Session in May 2019. Its overall aim is to provide an updated and sound scientific basis for 
+supporting the preparation and continuous improvement of national greenhouse gas inventories. It provides 
+supplementary methodologies for sources and sinks of greenhouse gases where gaps have been identified, where 
+new technologies and production processes have emerged requiring elaborated methodologies, or for sources and 
+sinks that are not well covered by the 2006 IPCC Guidelines. It also provides updated default values of emission 
+factors and other parameters based on the latest available science. Wherever possible, it provides additional or 
+alternative up-to-date information and guidance, as clarification or elaboration of existing guidance in the 2006 
+IPCC Guidelines. 
+This report is the result of almost three years of work by over 280 scientists and experts from 47 countries. Its 
+development has depended on the expertise, knowledge and co-operation of the Coordinating Lead Authors, Lead 
+Authors, Review Editors and Contributing Authors. We wish to thank these authors for their commitment, time 
+and efforts in preparing this report throughout all the drafting and reviewing stages of the IPCC process. We also 
+wish to thank the governments and agencies that hosted the Lead Author meetings for this Methodology Report, 
+namely: the Governments of Australia, Italy, Japan, Spain, and Zimbabwe; the Basque country government with 
+the assistance of the Basque Center for Climate Change and the University of the Basque Country; and the Food 
+and Agriculture Organization of the United Nations.  
+The steering group led by the TFI Co-Chairs Eduardo Calvo Buendia and Kiyoto Tanabe has guided the 
+development of these guidelines, ensuring consistency across all the volumes and continuity with the 2006 IPCC 
+Guidelines. We would therefore wish to thank them for their considerable efforts in leading and guiding the report 
+preparation, as well as the members of the TFI Bureau for their support. In addition, the TFI Technical Support 
+Unit (TSU) worked extensively with the authors especially in the editing of the various drafts and preparing of the 
+final version, and the IPCC Secretariat provided assistance and support in enabling this project to meet its tight 
+deadlines. We thank them for their excellent work. 
+ 
+ 
+ 
+ 
+Petteri Taalas 
+ 
+ 
+ 
+ 
+ 
+Inger Andersen 
+Secretary-General 
+ 
+ 
+ 
+ 
+Executive Director 
+World Meteorological Organisation  
+ 
+ 
+United Nations Environment Programme 
+Preface 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+v 
+Preface 
+The Task Force on National Greenhouse Gas Inventories (TFI) was established by the Intergovernmental Panel 
+on Climate Change (IPCC) at its 14th Session (October 1998) to oversee the IPCC National Greenhouse Gas 
+Inventories Programme. 
+The Bureau of the IPCC TFI (TFB) concluded at its 28th meeting in August 2014 that: 
+• 
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC Guidelines) provide a 
+technically sound methodological basis of national greenhouse gas inventories, and therefore fundamental 
+revision is unnecessary. 
+• 
+To maintain the scientific validity of the 2006 IPCC Guidelines, certain refinements may be required, taking 
+into account scientific and other technical advances that have matured sufficiently since 2006. 
+Following these conclusions by the TFB and approval by the IPCC at its 40th Session in October 2014, the TFI 
+started a technical assessment of IPCC Inventory Guidelines through an on-line questionnaire survey and four 
+expert meetings in 2015 and 2016. The technical assessment revealed that there had been abundant new scientific 
+and empirical knowledge published since 2006 that the IPCC should take into account, particularly with respect 
+to data for emission factor development for some categories and gases. 
+Based on the decision of the IPCC at its 43rd Session in April 2016, a Scoping Meeting was held in Minsk, Belarus, 
+in August 2016, to prepare an outline of the Methodology Report to refine the 2006 IPCC Guidelines.  
+The conclusions of this Scoping Meeting were submitted to the IPCC for consideration at its 44th Session in 
+October 2016. At this session, IPCC decided to prepare a Methodology Report with the following title and format: 
+• 
+The format should be one single Methodology Report comprising an Overview Chapter and five volumes 
+following the format of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC 
+Guidelines). 
+• 
+The title of the Methodology Report should be “2019 Refinement to the 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories”.  
+Its overall aim was to provide an updated and sound scientific basis for supporting the preparation and continuous 
+improvement of national greenhouse gas inventories. 
+The 2019 Refinement does not revise the 2006 IPCC Guidelines, but update, supplement and/or elaborate the 2006 
+IPCC Guidelines where gaps or out-of-date science have been identified. It will not replace the 2006 IPCC 
+Guidelines. It should be used in conjunction with the 2006 IPCC Guidelines.  
+This report was produced fully in accordance with the Appendix A to the Principles Governing IPCC Work: 
+Procedures for the Preparation, Review, Acceptance, Adoption, Approval and Publication of IPCC Reports. More 
+than 280 scientists and experts from 47 countries contributed for three years to development of this report. 
+Completion of this report was not possible without the expertise, knowledge and co-operation of the Coordinating 
+Lead Authors, Lead Authors, Review Editors and Contributing Authors as well as the overall guidance provided 
+by the steering group1. We wish to thank these authors and experts for their commitment, time and efforts in 
+preparing this report throughout all the drafting and reviewing stages of the IPCC process.  
+Lead Author meetings were held in 2017 and 2018 in Bilbao (Spain)2, Victoria Falls (Zimbabwe)3, Cairns 
+(Australia)4 and Rome (Italy)5. In addition, small meetings of authors were held in 2019 in Kyoto (Japan)6, 
+                                                           
+1 The steering group consisted of TFI Co-Chairs and G. H. Sabin Guendehou, Bundit Limmeechokchai, Riitta Kristiina Pipatti, 
+Yasna Rojas, Rob Sturgiss and Thomas Charles Wirth. 
+2 Hosted by the government of Spain and the Basque country government with the assistance of the Basque Center for Climate 
+Change and the University of the Basque Country. 
+3 Hosted by the government of Zimbabwe. 
+4 Hosted by the government of Australia. 
+5 Hosted by the Food and Agriculture Organization of the United Nations and the government of Italy. 
+6 Hosted by the government of Japan. 
+Preface 
+vi 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+preparatory to the 49th Session of the IPCC where this report was adopted/accepted. We would therefore like to 
+thank the host countries and agencies for organizing these meetings. We would also like to thank all governments 
+that supported authors and reviewers, without their contributions, the production of this report might not have been 
+possible. 
+Three reviews of these guidelines were made in 2017, 2018 and 2019. The first, an expert review, produced close 
+to 5000 comments, the second, a combined governmental and expert review, resulted in over 4000 comments, 
+while the third, government review, brought an additional almost 1600 comments. The efforts of the reviewers 
+and their comments have contributed greatly to the quality of the final report and we wish to thank them 
+accordingly. Furthermore, the Review Editors have ensured the appropriate consideration of all the comments 
+received, so we would also like to thank them for their work. 
+In addition, the TFI Technical Support Unit (TSU: Head: Andrej Kranjc (until June 2019), Sandro Federici (from 
+July 2019); Senior Programme Officer: Baasansuren Jamsranjav; Programme Officers: Maya Fukuda, Sekai 
+Ngarize, Akira Osako, Yurii Pyrozhenko and Pavel Shermanau; IT Officer: Toru Matsumoto; and Administrative 
+Officers: Koh Mikuni and Eriko Nakamura) has provided guidance and assistance as well as technical and 
+organisational support for the project. They worked extensively with the authors especially in the editing of the 
+various drafts and preparing of the final version, and we wish to congratulate them for their excellent work. We 
+would also like to express our gratitude to the Government of Japan as well as the Institute for Global 
+Environmental Strategies (IGES) for its generous support for the TSU, without which this report might not have 
+been completed. 
+We would also like to thank the IPCC Secretariat (Jesbin Baidya, Laura Biagioni, Annie Courtin, Oksana Ekzarkho, 
+Judith Ewa, Joelle Fernandez, Jonathan Lynn, Nina Peeva, Sophie Schlingemann, Mxolisi Shongwe and Werani 
+Zabula) for their assistance and support in enabling this project to meet its tight deadlines. 
+Finally, we would like to thank IPCC Chair Hoesung Lee, IPCC Secretary Abdalah Mokssit, IPCC Deputy 
+Secretary Kerstin Stendahl, and the TFB members: Fahmuddin Agus, Dominique Blain, Fatma Betül Demirok, 
+Darío Gómez, Ghislain Hippolyte Sabin Guendehou, Bundit Limmeechokchai, Riitta Kristiina Pipatti, Yasna 
+Rojas, Batouli Said Abdallah, Rob Sturgiss, Thomas Charles Wirth, and Irina Yesserkepova for their support. 
+ 
+ 
+  
+ 
+ 
+ 
+Eduardo Calvo Buendia 
+ 
+ 
+ 
+ 
+Kiyoto Tanabe 
+Co-Chair 
+ 
+ 
+ 
+ 
+ 
+Co-Chair 
+Task Force on National Greenhouse Gas Inventories 
+ 
+Task Force on National Greenhouse Gas Inventories 
+Intergovernmental Panel on Climate Change  
+ 
+Intergovernmental Panel on Climate Change 
+ 
+Dedication 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+vii 
+Dedication 
+ 
+ 
+James Michael Penman 
+(5 June 1950 – 8 September 2016) 
+ 
+The 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories of the 
+Intergovernmental Panel on Climate Change (IPCC) is dedicated to the memory of James Michael Penman, an 
+outstanding scientist with over thirty years of national and international experience in science, energy and 
+environment. 
+Dr. Jim Penman was one of the first members of the Task Force Bureau, where he played a key role in the work 
+of the Climate Panel’s Task Force on National Greenhouse Gas Inventories. His soft, constructive and reasoned 
+views in Task Force work were highly respected by all the Task Force Bureau members and experts who 
+participated in Task Force activities. 
+He was the Interim Co-Chair of the Task Force Bureau’s first session in 1999, and continued as a Bureau member 
+till 2015. He co-chaired the project that produced the IPCC Good Practice Guidance and Uncertainty Management 
+in National Greenhouse Gas Inventories published in 2000. He was a member of the steering group that produced 
+the IPCC’s Good Practice Guidance for Land Use, Land-Use Change and Forestry published in 2003.  
+Jim was a member of the steering group that produced the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories, which Annex I Parties to the UNFCCC use to estimate emission and removals of greenhouse gases in 
+their national inventory submissions.  
+Jim was also one of the leading members of the group that led the production of the Climate Panel’s latest 
+Methodology Reports: the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories: Wetlands and the 2013 Revised Supplementary Methods and Good Practice Guidance Arising from 
+the Kyoto Protocol.  
+He was awarded an OBE (Officer of the Most Excellent Order of the British Empire) in 2009 in recognition of his 
+work on establishing the United Kingdom emissions mitigation evidence base, and in international negotiations.  
+He is greatly missed by the scientific community both in the UK and internationally.   
+ 
+ 

@@ -1,0 +1,3923 @@
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.1 
+ANNEX 1 
+WORKSHEETS 
+Volume 3: Industrial Processes and Product Use 
+A1.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Contents 
+Annex 1 
+Worksheets 
+2A 
+Mineral Industry ............................................................................................................................A1.4 
+2A1 
+Cement Production.....................................................................................................................A1.4 
+2A2 
+Lime Production.........................................................................................................................A1.4 
+2A3 
+Glass Production ........................................................................................................................A1.5 
+2A4 
+Other Process Uses of Carbonates..............................................................................................A1.5 
+2B 
+Chemical Industry..........................................................................................................................A1.6 
+2B1 
+Ammonia Production .................................................................................................................A1.6 
+2B2 
+Nitric Acid Production ...............................................................................................................A1.6 
+2B3 
+Adipic Acid Production..............................................................................................................A1.7 
+2B4 
+Caprolactam, Glyoxal and Glyoxylic Acid Production..............................................................A1.7 
+2B5 
+Carbide Production.....................................................................................................................A1.7 
+2B6 
+Titanium Dioxide Production.....................................................................................................A1.9 
+2B7 
+Soda Ash Production................................................................................................................A1.10 
+2B8 
+Petrochemical and Carbon Black Production...........................................................................A1.10 
+2B9 
+Fluorochemical Production ......................................................................................................A1.15 
+2C 
+Metal Industry..............................................................................................................................A1.17 
+2C1 
+Iron and Steel Production.........................................................................................................A1.17 
+2C2 
+Ferroalloys Production .............................................................................................................A1.18 
+2C3 
+Aluminium Production.............................................................................................................A1.19 
+2C4 
+Magnesium Production.............................................................................................................A1.20 
+2C5 
+Lead Production .......................................................................................................................A1.21 
+2C6 
+Zinc Production........................................................................................................................A1.21 
+2D 
+Non-Energy Products from Fuels and Solvent Use .....................................................................A1.22 
+2D1 
+Lubricant Use...........................................................................................................................A1.22 
+2D2 
+Paraffin Wax Use .....................................................................................................................A1.22 
+2E 
+Electronics Industry.....................................................................................................................A1.23 
+2E1 
+Integrated Circuit or Semiconductor ........................................................................................A1.23 
+2E2 
+TFT Flat Panel Display ............................................................................................................A1.24 
+2E3 
+Photovoltaics............................................................................................................................A1.24 
+2E4 
+Heat Transfer Fluid ..................................................................................................................A1.25 
+2F 
+Product Uses as Substitutes for Ozone Depleting Substances.....................................................A1.26 
+2F1 
+Refrigeration and Air Conditioning..........................................................................................A1.26 
+2F2 
+Foam Blowing Agents..............................................................................................................A1.26 
+2F3 
+Fire Protection..........................................................................................................................A1.27 
+2F4 
+Aerosols....................................................................................................................................A1.27 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.3 
+2F5 
+Solvents....................................................................................................................................A1.28 
+2F6 
+Other Applications ...................................................................................................................A1.28 
+2G 
+Other Product Manufacture and Use............................................................................................A1.29 
+2G1 
+Electrical Equipment ................................................................................................................A1.29 
+2G2 
+SF6 and PFCs from Other Product Uses...................................................................................A1.31 
+2G3 
+N2O from Product Uses............................................................................................................A1.34 
+ 
+ 
+The worksheets in this annex are designed to enable users to perform at least the Tier 1 (and in some cases Tier 
+2) emission estimation for each category under IPPU Sector. 
+Volume 3: Industrial Processes and Product Use 
+A1.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Mineral Industry - Cement Production 
+Category Code 
+2A1 
+Sheet 
+1 of 2 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+Individual Type of 
+Cement Produced1) 
+ 
+Mass of Individual Type 
+of Cement Produced 
+Clinker Fraction in 
+Cement 
+Mass of Clinker in the 
+Individual Type of 
+Cement Produced 
+ 
+(tonne) 
+(fraction) 
+(tonne) 
+ 
+ 
+ 
+C = A * B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+Insert additional rows if more than two types of cement are produced. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Mineral Industry - Cement Production 
+Category Code 
+2A1 
+Sheet 
+2 of 2 
+ 
+ 
+ 
+ 
+D 
+E 
+F 
+G 
+H 
+I 
+Imports for 
+Consumption 
+of Clinker 
+Exports 
+of Clinker 
+Mass of Clinker 
+Produced in the 
+Country 
+Emission Factor for 
+the Clinker in the 
+Particular Cement 
+CO2 
+Emissions 
+CO2 
+Emissions
+(tonne) 
+(tonne) 
+(tonne) 
+(tonne CO2/ 
+ tonne clinker) 
+(tonne CO2) 
+(Gg CO2)
+ 
+ 
+F = C – D + E 
+ 
+H = F * G 
+I = H/103 
+ 
+ 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Mineral Industry - Lime Production 
+Category Code 
+2A2 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Lime 
+Produced1), 2) 
+Mass of Lime 
+Produced 
+Emission Factor for Lime 
+Production 
+CO2 
+Emissions 
+CO2 Emissions
+ 
+(tonne) 
+(tonne CO2/ tonne lime) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+1) 
+Insert additional rows if more than two types of lime are produced. 
+2) 
+When country-specific information on lime production by type is not available, apply the default emission factor to 
+national level lime production data. (See Equation 2.8 in Chapter 2 of this volume.) 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.5 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Mineral Industry - Glass Production 
+Category Code 
+2A3 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Total Glass 
+Production 
+Emission Factor 
+for Glass 
+Production 
+Average Annual 
+Cullet Ratio  
+ 
+CO2 Emissions 
+CO2 Emissions
+(tonne) 
+(tonne CO2/ 
+tonne glass)  
+(fraction) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+D = A * B * (1 – C) 
+E = D/103 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Mineral Industry - Other Process Uses of Carbonates1) 
+Category Code 
+2A4 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Use 
+Mass of Carbonate  
+Consumed 
+Emission Factor 
+for Carbonate 
+Consumption3), 4)
+CO2 Emissions 
+CO2 
+Emissions 
+ 
+(tonne) 
+(tonne CO2/  
+tonne carbonate)
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Ceramics 
+ 
+ 
+ 
+Other Uses of 
+Soda Ash 
+ 
+ 
+ 
+Non Metallurgical 
+Magnesia 
+Production 
+ 
+ 
+ 
+Other2) 
+ 
+ 
+ 
+1) 
+Limestone and other carbonate materials also are consumed in a variety of other industries not covered in Chapter 2 
+of Volume 3. Examples include carbonates used as fluxes and slagging agents in metals smelting and refining (e.g., 
+iron and steel production and base metals such as copper), and as inputs to the chemical industry (e.g., fertiliser). The 
+methods outlined here for estimating emissions from the use of carbonates are applicable to these other industries as 
+well. It is good practice to allocate emissions from the use of limestone, dolomite and other carbonates to the industrial 
+source category where they are emitted (e.g., iron and steel production).  
+2) 
+This row should contain estimates of emissions that do not fit into any of the major sources presented in Table 2.7 in 
+Chapter 2 of Volume 3. Insert additional rows, if necessary. 
+3) 
+For the Tier 1 method, it is consistent with good practice for inventory compilers to assume that 85 percent of 
+carbonates consumed are limestone and 15 percent of carbonates consumed are dolomite. For the Tier 1 method for 
+soda ash use (Other Uses of Soda Ash), this default fraction (0.85:0.15) should not be applied, and the default value 
+for sodium carbonate should be used. (For default emission factors for various carbonates, see Table 2.1 in Chapter 2 
+of Volume 3. 
+4) 
+It is suggested that inventory compilers ensure that data on carbonates reflect pure carbonates and not carbonate 
+rock. If data are only available on carbonate rock, a default purity of 95% can be assumed. For clays a default 
+carbonate content of 10% can be assumed, if no other information is available. 
+Volume 3: Industrial Processes and Product Use 
+A1.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Ammonia Production 
+Category Code 
+2B1 
+Sheet 
+1 of 2 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Amount of 
+Ammonia 
+Produced 
+Fuel Requirement for 
+Ammonia Production 
+Carbon 
+Content of 
+Fuel 
+Carbon 
+Oxidation 
+Factor of Fuel 
+CO2 Generated 
+(tonne) 
+(GJ/ tonne ammonia 
+produced) 
+(kg C/GJ) 
+(fraction) 
+(kg CO2) 
+ 
+ 
+ 
+ 
+E = (A * B * C * D) 
+* 44/12 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Ammonia Production 
+Category Code 
+2B1 
+Sheet 
+2 of 2 
+ 
+ 
+ 
+ 
+F 
+G 
+H 
+I 
+Amount of Urea 
+Produced 
+CO2 Recovered for 
+Urea Production 
+CO2 Emissions 
+CO2 Emissions 
+(kg) 
+(kg CO2) 
+(kg CO2) 
+(Gg CO2) 
+ 
+G = F * 44/60 
+H = E – G 
+I = H/106 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Nitric Acid Production 
+Category Code 
+2B2 
+Sheet 
+1 of 1  
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of Nitric 
+Acid Production 
+Emission Factor 
+N2O Emissions 
+N2O Emissions 
+(tonne) 
+(kg N2O/tonne nitric acid 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.7 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Adipic Acid Production 
+Category Code 
+2B3 
+Sheet 
+1 of 1  
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of Adipic Acid 
+Production 
+Emission Factor 
+N2O Emissions 
+N2O Emissions 
+(tonne) 
+(kg N2O/tonne adipic 
+acid produced) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Caprolactam, Glyoxal and Glyoxylic Acid Production 
+Category Code 
+2B4 
+Sheet 
+1 of 1  
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Chemical 
+Amount of 
+Chemical 
+Production 
+Emission Factor 
+N2O Emissions 
+N2O 
+Emissions 
+ 
+(tonne) 
+(kg N2O/tonne 
+chemical produced)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+Caprolactam 
+ 
+ 
+ 
+Glyoxal 
+ 
+ 
+ 
+Glyoxylic Acid 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Carbide Production 
+Category Code 
+2B5 
+Sheet 
+1 of 6  CO2 Emissions (calculation based on raw material used) 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Carbide 
+Produced/ 
+Raw Material 
+(Petroleum Coke) 
+Consumption 
+Emission Factor1) 
+CO2 
+Emissions 
+CO2 
+Emissions 
+ 
+(tonne) 
+(tonne CO2/tonne 
+raw material used)
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Silicon Carbide (SiC) 
+ 
+Calcium Carbide (CaC2)
+ 
+1) 
+The emission factor needs to be adjusted to account for the carbon contained in the product. See Section 3.6.2.1 of 
+Volume 3. 
+Note: Inventory compilers should use either this sheet (1 of 6) or the next sheet (2 of 6), not both. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Carbide Production 
+Category Code 
+2B5 
+Sheet 
+2 of 6  CO2 Emissions (calculation based on carbide produced) 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Carbide 
+Produced 
+Carbide 
+Produced
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+ 
+(tonne) 
+(tonne CO2/tonne 
+carbide produced)
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Silicon Carbide (SiC) 
+ 
+Calcium Carbide (CaC2) 
+ 
+Note: Inventory compilers should use either this sheet (2 of 6) or the previous sheet (1 of 6), not both. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Carbide Production 
+Category Code 
+2B5 
+Sheet 
+3 of 6  CO2 Emissions from Use of CaC2 in Acetylene Production 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Calcium Carbide Used in 
+Acetylene Production 
+Emission Factor 
+CO2 Emissions 
+CO2 
+Emissions 
+(tonne) 
+(tonne CO2/tonne carbide used) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Carbide Production 
+Category Code 
+2B5 
+Sheet 
+4 of 6  CO2 Emission (Total) 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+CO2 Emissions from 
+Silicon Carbide (SiC) 
+Production 
+CO2 Emissions from 
+Calcium Carbide (CaC2) 
+Production 
+CO2 Emissions from 
+Use of CaC2 in 
+Acetylene Production 
+Total CO2 
+Emissions 
+(Gg CO2) 
+(Gg CO2) 
+(Gg CO2) 
+(Gg CO2) 
+From D in Sheet 1 of 6 or 
+D in Sheet 2 of 6 
+From D in Sheet 1 of 6 or D 
+in Sheet 2 of 6 
+From D in Sheet 3 of 6 
+D = A + B+ C
+ 
+ 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.9 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Carbide Production 
+Category Code 
+2B5 
+Sheet 
+5 of 6  CH4 Emissions from Silicon Carbide (SiC) Production 
+(calculation based on raw material used) 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Raw Material 
+(Petroleum Coke) 
+Consumption 
+Emission Factor 
+CH4 Emissions 
+CH4 Emissions
+(tonne) 
+(kg CH4/tonne raw material used) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+Note: Inventory compilers should use either this sheet (5 of 6) or the next sheet (6 of 6), not both. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Carbide Production 
+Category Code 
+2B5 
+Sheet 
+6 of 6  CH4 Emissions from Silicon Carbide (SiC) Production 
+(calculation based on carbide produced) 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Carbide Produced 
+Emission Factor 
+CH4 Emissions 
+CH4 Emissions
+(tonne) 
+(kg CH4/tonne carbide produced) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+Note: Inventory compilers should use either this sheet (6 of 6) or the previous sheet (5 of 6), not both. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Titanium Dioxide Production 
+Category Code 
+2B6 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of production 
+Amount of 
+Production 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+ 
+(tonne) 
+(tonne CO2/tonne 
+produced) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Titanium Slag 
+ 
+ 
+Synthetic Rutile 
+ 
+ 
+Rutile TiO2 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Soda Ash Production 
+Category Code 
+2B7 
+Sheet 
+1 of 2  Natural Soda Ash (calculation based on trona used) 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of Trona 
+Utilised 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+(tonne) 
+(tonne CO2/tonne trona utilized) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+Note: Inventory compilers should use either this sheet (1 of 2) or the next sheet (2 of 2), not both. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry -Soda Ash Production 
+Category Code 
+2B7 
+Sheet 
+2 of 2  Natural Soda Ash (calculation based on production) 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of Natural 
+Soda Ash Produced 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+(tonne) 
+(tonne CO2/tonne natural soda 
+ash produced) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+Note: Inventory compilers should use either this sheet (2 of 2) or the previous sheet (1 of 2), not both. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+1 of 12  CO2 Emissions from Methanol Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process/Type 
+of Feedstock1), 2) 
+Amount of Methanol 
+Produced 
+Emission Factor 
+CO2 
+Emissions 
+CO2 
+Emissions
+ 
+(tonne) 
+(tonne CO2/tonne 
+methanol produced) 
+(tonne 
+CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Type of Process = [                                                              ] (please specify) 
+Feedstock = [           ] 
+(Please specify) 
+ 
+Type of Process = [                                                              ] (please specify) 
+Feedstock = [           ] 
+(Please specify) 
+ 
+Total 
+ 
+1) 
+For details of process types and feedstock types, see Table 3.12 in Chapter 3 of Volume 3. For the default process 
+type and the default feedstock, see Table 3.11 in Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.11 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+2 of 12  CH4 Emissions from Methanol Production 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of 
+Methanol Produced 
+Emission Factor 
+CH4 Emission 
+CH4 Emission 
+(tonne) 
+(kg CH4/tonne methanol 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+3 of 12  CO2 Emissions from Ethylene Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Type of 
+Feedstock1), 2) 
+(please specify) 
+Amount of 
+Ethylene 
+Produced 
+Emission Factor 
+Geographic 
+Adjustment 
+Factor3)  
+CO2 
+Emissions 
+CO2 
+Emissions
+ 
+(tonne) 
+(tonne CO2/tonne 
+ethylene produced)
+(%) 
+(tonne 
+CO2) 
+(Gg CO2)
+ 
+ 
+ 
+ 
+D = A * B * 
+C/100 
+E = D/103
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+1) 
+For details of feedstock types, see Table 3.14 in Chapter 3 of Volume 3.  For the default feedstock, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+3) 
+For geographic adjustment factors, see Table 3.15 in Volume 3. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+4 of 12  CH4 Emissions from Ethylene Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Feedstock1), 2) 
+Amount of Ethylene 
+Produced 
+Emission Factor 
+CH4 
+Emissions 
+CH4 
+Emissions
+(please specify) 
+(tonne) 
+(kg CH4/tonne ethylene 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of feedstock types, see Table 3.14 in Chapter 3 of Volume 3.  For the default feedstock, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+5 of 12  CO2 Emissions from Ethylene Dichloride/Vinyl Chloride 
+Monomer Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 2) 
+(please specify) 
+Amount of Ethylene 
+Dichloride (EDC) or Vinyl 
+Chloride Monomer (VCM) 
+Produced3) 
+Emission Factor 
+CO2 
+Emissions 
+CO2 
+Emissions
+ 
+(tonne EDC produced) or 
+(tonne VCM produced) 
+(tonne CO2/tonne 
+EDC produced) or 
+(tonne CO2/tonne 
+VCM produced) 
+(tonne 
+CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 3.17 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+3) 
+Inventory compilers should use either EDC production or VCM production (not both) as activity data.  
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+6 of 12  CH4 Emissions from Ethylene Dichloride / Vinyl Chloride Monomer 
+Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 
+2) 
+(please specify) 
+Amount of Ethylene 
+Dichloride (EDC) or Vinyl 
+Chloride Monomer (VCM) 
+Produced3) 
+Emission Factor 
+CH4 
+Emission 
+CH4 
+Emission 
+ 
+(tonne EDC produced) or 
+(tonne VCM produced) 
+(kg CH4/tonne EDC 
+produced) or  
+(kg CH4/tonne VCM 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+1) 
+For details of process types, see Tables 3.11 and 3.19 in Chapter 3 of Volume 3. For the default process type, see 
+Table 3.11 in Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+3) 
+Inventory compilers should use either EDC production or VCM production (not both) as activity data.  
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.13 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+7 of 12  CO2 Emissions from Ethylene Oxide Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 2) 
+(please specify) 
+Amount of 
+Ethylene Oxide 
+Produced 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions 
+ 
+(tonne ethylene 
+oxide 
+produced) 
+(tonne CO2/tonne 
+ethylene oxide 
+produced) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 3.20 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+8 of 12  CH4 Emissions from Ethylene Oxide Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 2) 
+(please specify) 
+Amount of 
+Ethylene Oxide 
+Produced 
+Emission Factor 
+CH4 Emissions 
+CH4 Emissions 
+ 
+(tonne ethylene 
+oxide 
+produced) 
+(kg CH4/tonne 
+ethylene oxide 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 3.21 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+9 of 12  CO2 Emissions from Acrylonitrile Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 2) 
+(please specify) 
+Amount of 
+Acrylonitrile 
+Produced 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+ 
+(tonne 
+acrylonitrile 
+produced) 
+(tonne CO2/tonne 
+acrylonitrile 
+produced) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 3.22 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+10 of 12  CH4 Emissions from Acrylonitrile Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 2) 
+(please specify) 
+Amount of 
+Acrylonitrile 
+Produced 
+Emission Factor 
+CH4 Emissions 
+CH4 Emissions
+ 
+(tonne 
+acrylonitrile 
+produced) 
+(kg CH4/tonne 
+acrylonitrile 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+Total 
+ 
+1) 
+For details of process types, see Table 3.22 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.15 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+11 of 12  CO2 Emissions from Carbon Black Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of Carbon 
+Black Produced 
+Emission Factor 
+CO2 
+Emissions 
+CO2 
+Emissions 
+Type of Process1), 2) 
+(please specify) 
+(tonne carbon 
+black produced) 
+(tonne CO2/tonne 
+carbon black produced)
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 3.23 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Petrochemical and Carbon Black Production 
+Category Code 
+2B8 
+Sheet 
+12 of 12  CH4 Emissions from Carbon Black Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of Carbon 
+Black Produced 
+Emission Factor 
+CH4 
+Emissions 
+CH4 
+Emissions 
+Type of Process1), 2) 
+(please specify) 
+(tonne carbon black 
+produced) 
+(kg CH4/tonne carbon 
+black produced) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 3.24 in Chapter 3 of Volume 3.  For the default process type, see Table 3.11 in 
+Chapter 3 of Volume 3. 
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Fluorochemical Production 
+Category Code 
+2B9 
+Sheet 
+1 of 3  HFC-23 Emissions from HCFC-22 Production 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of HCFC-22 
+Produced 
+Emission Factor 
+HFC-23 Emissions 
+HFC-23 
+Emissions 
+(kg) 
+(kg HFC-23/kg HCFC-22 
+produced) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Fluorochemical Production 
+Category Code 
+2B9 
+Sheet 
+2 of 3  By-product Emissions from Production of Other Fluorinated 
+Compounds 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Fluorinated 
+Compound Emitted 
+as By-product and 
+Principal Fluorinated 
+Compound Produced 
+Amount of 
+Principal 
+Fluorinated 
+Compound 
+Produced 
+Byproduct Emission 
+Factor 2) 
+Emissions 
+Emissions 
+(Please specify such 
+as “xxx from yyy 
+production”) 1) 
+(kg) 
+(kg by-product gas 
+emitted/kg F-
+compound produced)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+ 
+ 
+1) 
+Insert additional rows if necessary. 
+2) 
+For sources that are not key categories, fugitive and by-product emissions are considered the same and those 
+emissions are calculated using the next sheet (3 of 3). 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Chemical Industry - Fluorochemical Production 
+Category Code 
+2B9 
+Sheet 
+3 of 3  Fugitive Emissions from Production of Other Fluorinated 
+Compounds 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Fluorinated 
+Compound Produced 
+Amount of 
+Fluorinated 
+Compound 
+Produced 
+Fugitive Emission 
+Factor 2) 
+Emissions 
+Emissions 
+(Please specify) 1) 
+(kg) 
+(kg fugitive gas 
+emitted/kg F-
+compound produced)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+ 
+ 
+1) 
+Insert additional rows if necessary. 
+2) 
+For sources that are not key categories, fugitive and by-product emissions are considered the same. For Tier 1, in the 
+absence of abatement measures, a default emission factor of 0.5 percent of production, not counting losses in 
+transport and transfer of materials, is suggested for HFCs and PFCs,  
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.17 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Iron and Steel Production 
+Category Code 
+2C1 
+Sheet 
+1 of 2  CO2 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Steelmaking 
+Method, etc 
+Amount of Steel or 
+Iron Production 
+Emission 
+Factor 
+CO2 
+Emissions 
+CO2 
+Emissions 
+ 
+(tonne crude steel 
+produced, pig iron, 
+DRI, sinter or pellet)
+(tonne 
+CO2/tonne 
+production) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Basic Oxygen Furnace 
+ 
+Electric Arc Furnace 
+ 
+Open Hearth Furnace 
+ 
+Pig Iron Production (not 
+converted into steel) 
+ 
+Direct Reduced Iron 
+(DRI) Production 
+ 
+Sinter Production 
+ 
+Pellet Production 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Iron and Steel Production 
+Category Code 
+2C1 
+Sheet 
+2 of 2  CH4 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Production 
+Amount of 
+Production 
+Emission Factor 
+CH4 
+Emissions 
+CH4 
+Emissions 
+ 
+(tonne sinter, DRI 
+or pig iron) 
+(kg CH4/tonne 
+production) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+Sinter Production 
+ 
+Direct Reduced Iron 
+(DRI) Production 
+ 
+Pig Iron Production 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Ferroalloys Production 
+Category Code 
+2C2 
+Sheet 
+1 of 2  CO2 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Ferroalloy1), 2) 
+Amount of 
+Ferroalloy 
+Production 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+(please specify) 
+(tonne ferroalloy 
+produced) 
+(tonne CO2/tonne 
+ferroalloy produced)
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of ferroalloy types, see Table 4.5 in Chapter 4 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Ferroalloys Production 
+Category Code 
+2C2 
+Sheet 
+2 of 2  CH4 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Ferroalloy1), 2) 
+Amount of 
+Ferroalloy 
+Production 
+Emission Factor 
+CH4 Emissions 
+CH4 Emissions
+(please specify) 
+(tonne ferroalloy 
+produced) 
+(kg CH4/tonne 
+ferroalloy produced)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of ferroalloy types, see Table 4.7 in Chapter 4 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.19 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Aluminium Production 
+Category Code 
+2C3 
+Sheet 
+1 of 3  CO2 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Technology 
+Amount of Aluminium 
+Production 
+Emission Factor 
+CO2 
+Emissions 
+CO2 
+Emissions 
+ 
+(tonne aluminium 
+produced) 
+(tonne CO2/tonne 
+aluminium produced)
+(tonne) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Prebake 
+ 
+Soderberg 
+ 
+Total 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Aluminium Production 
+Category Code 
+2C3 
+Sheet 
+2 of 3  CF4 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Technology 
+Amount of Aluminium 
+Production 
+Emission Factor 
+CF4 
+Emissions 
+CF4 
+Emissions 
+ 
+(tonne aluminium 
+produced) 
+(kg CF4/tonne 
+aluminium produced)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+CWPB 
+ 
+SWPB 
+ 
+VSS 
+ 
+HSS 
+ 
+Total 
+ 
+  
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Aluminium Production 
+Category Code 
+2C3 
+Sheet 
+3 of 3  C2F6 Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Technology 
+Amount of Aluminium 
+Production 
+Emission Factor 
+C2F6 
+Emissions 
+C2F6 
+Emissions 
+ 
+(tonne aluminium 
+produced) 
+(kg C2F6/tonne 
+aluminium produced)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/106 
+CWPB 
+ 
+SWPB 
+ 
+VSS 
+ 
+HSS 
+ 
+Total 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Magnesium Production 
+Category Code 
+2C4 
+Sheet 
+1 of 2  CO2 Emissions from Primary Production 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Raw Material Source 
+Amount of Primary 
+Magnesium 
+Production 
+Emission Factor 
+CO2 
+Emissions 
+CO2 
+Emissions 
+ 
+(tonne primary 
+magnesium 
+produced) 
+(tonne CO2/tonne 
+primary magnesium 
+produced) 
+(tonne) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+Dolomite 
+ 
+Magnesite 
+ 
+Total 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Magnesium Production 
+Category Code 
+2C4 
+Sheet 
+2 of 2  SF6 Emissions from Magnesium Casting Processes 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Amount of 
+Magnesium Casting 
+Emission Factor 
+SF6 Emissions 
+SF6 Emissions 
+(tonne magnesium 
+casting) 
+(kg SF6/tonne magnesium 
+casting) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+Note: As regards HFC 134-a, FK 5-1-12 and their decomposition products (e.g., PFCs), no Tier 1 method is provided 
+because the industrial experience in using these compounds (HFC 134-a and FK 5-1-12) for magnesium protection 
+purposes is yet very limited.  However, if the greenhouse gas emission from the use of magnesium cover gases is a 
+national key category, it is good practice, for inventory preparation purposes, to collect direct measurements of these 
+greenhouse gas emissions. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.21 
+ 
+Sector 
+Metal Industry 
+Category 
+Metal Industry - Lead Production 
+Category Code 
+2C5 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Source and Furnace 
+Type1), 2) 
+Amount of 
+Lead 
+Production 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+(please specify) 
+(tonne lead 
+produced) 
+(tonne CO2/tonne 
+lead produced) 
+(tonne) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of source and furnace types, see Table 4.21 in Chapter 4 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Metal Industry - Zinc Production 
+Category Code 
+2C6 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of Process1), 2) 
+Amount of 
+Zinc 
+Production 
+Emission Factor 
+CO2 Emissions 
+CO2 Emissions
+(please specify) 
+(tonne zinc 
+produced) 
+(tonne CO2/tonne 
+zinc produced) 
+(tonne) 
+(Gg) 
+ 
+ 
+ 
+C = A * B 
+D = C/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1) 
+For details of process types, see Table 4.24 in Chapter 4 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Non-Energy Products from Fuels and Solvent Use - Lubricant Use 
+Category Code 
+2D1 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Amount of 
+Lubricant 
+Consumed 
+Lubricant Carbon 
+Content 
+Fraction Oxidized 
+During Use 
+(ODU factor) 
+CO2 
+Emissions 
+CO2 
+Emissions 
+(TJ) 
+(tonne-C/TJ) 
+(fraction) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+D = A * B * C * 
+44/12  
+E = D/103 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Non-Energy Products from Fuels and Solvent Use – Paraffin Wax 
+Use 
+Category Code 
+2D2 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Amount of Paraffin 
+Waxes Consumed 
+Paraffin Waxes 
+Carbon Content 
+Fraction Oxidized 
+During Use 
+(ODU factor) 
+CO2 
+Emissions 
+CO2 
+Emissions 
+(TJ) 
+(tonne-C/TJ) 
+(fraction) 
+(tonne CO2) 
+(Gg CO2) 
+ 
+ 
+D = A * B * C * 
+44/12  
+E = D/103 
+ 
+ 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.23 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Electronics Industry - Integrated Circuit or Semiconductor 
+Category Code 
+2E1 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Fraction of 
+Annual 
+Plant 
+Production 
+Capacity 
+Utilization1) 
+Annual 
+Manufacturing 
+Design 
+Capacity1) 
+Tier 1 
+Default FC 
+Emission 
+Factor2) 
+CO2 
+Equivalent 
+Conversion 
+Factor3) 
+FC 
+Emissions4)
+(fraction) 
+(Gm2 of silicon 
+processed) 
+(kg FC/m2 
+of silicon 
+processed)
+(tonne CO2 
+/tonne FC) 
+(Gg CO2 
+equivalent)
+ 
+Fluorinated 
+Compounds  
+(FCs) 
+ 
+ 
+ 
+ 
+E = A * B * 
+C * D * 103
+CF4 
+ 
+0.9
+ 
+C2F6 
+ 
+1
+ 
+CHF3 
+ 
+0.04
+ 
+C3F8 
+ 
+0.05
+ 
+NF3 
+ 
+0.04
+ 
+SF6 
+ 
+0.2
+ 
+Total 
+ 
+ 
+1) 
+The same value should be entered in each row. 
+2) 
+In using Tier 1, inventory compilers should not modify, in any way, the set of the FCs assumed here. Inventory 
+compilers should not combine emissions estimated using Tier 1 method with emissions estimated using the Tier 2 or 3 
+methods. Neither may inventory compilers change the values of any factors in this column. 
+3) 
+Typically, global warming potential (100 year time horizon) identified in the IPCC Assessment Report can be used. 
+These factors should be the same as those used for other sectors/categories to ensure that they are all internally 
+consistent in the inventory. 
+4) 
+The Tier 1 method, unlike the Tier 3 or 2 methods, is designed to give an aggregated estimate of FC emissions 
+although its methodology appears to produce gas-specific emissions. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Electronics Industry - TFT Flat Panel Display 
+Category Code 
+2E2 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Fraction of 
+Annual Plant 
+Production 
+Capacity 
+Utilization1) 
+Annual 
+Manufacturing 
+Design 
+Capacity1) 
+Tier 1 
+Default FC 
+Emission 
+Factor2) 
+CO2 
+Equivalent 
+Conversion 
+Factor3) 
+FC 
+Emissions4)
+(fraction) 
+(Gm2 of glass 
+processed) 
+(g FC/m2 of 
+glass 
+processed)
+(tonne CO2 
+/tonne FC) 
+(Gg CO2 
+equivalent)
+ 
+Fluorinated 
+Compounds  
+(FCs) 
+ 
+ 
+ 
+ 
+E = A * B * 
+C * D 
+CF4 
+ 
+0.5
+ 
+NF3 
+ 
+0.9
+ 
+SF6 
+ 
+4
+ 
+Total 
+ 
+ 
+1) 
+The same value should be entered in each row. 
+2) 
+In using Tier 1, inventory compilers should not modify, in any way, the set of the FCs assumed here. Inventory 
+compilers should not combine emissions estimated using Tier 1 method with emissions estimated using the Tier 2 or 3 
+methods. Neither may inventory compilers change the values of any factors in this column. 
+3) 
+Typically, global warming potential (100 year time horizon) identified in the IPCC Assessment Report can be used. 
+These factors should be the same as those used for other sectors/categories to ensure that they are all internally 
+consistent in the inventory. 
+4) 
+The Tier 1 method, unlike the Tier 3 or 2 methods, is designed to give an aggregated estimate of FC emissions 
+although its methodology appears to produce gas-specific emissions. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Electronics Industry - Photovoltaics 
+Category Code 
+2E3 
+Sheet 
+1 of 2 
+ 
+ 
+ 
+A 
+B 
+C 
+Fraction of Annual 
+Plant Production 
+Capacity Utilization1) 
+Annual Manufacturing 
+Design Capacity1) 
+Fraction of PV 
+manufacture that uses 
+fluorinated 
+compounds 
+(fraction) 
+(Mm2 of substrate 
+processed) 
+(fraction) 
+ 
+Fluorinated 
+Compounds  
+(FCs) 
+ 
+ 
+ 
+CF4 
+C2F6 
+Total 
+1) 
+The same value should be entered in each row. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.25 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Electronics Industry - Photovoltaics 
+Category Code 
+2E3 
+Sheet 
+2 of 2 
+ 
+ 
+ 
+ 
+D 
+E 
+F 
+Tier 1 Default FC 
+Emission Factor1) 
+CO2 Equivalent 
+Conversion Factor2) 
+FC Emissions3) 
+(g FC/m2 of substrate 
+processed) 
+(tonne CO2 
+/tonne FC) 
+(Gg CO2 equivalent)
+ 
+Fluorinated 
+Compounds  
+(FCs) 
+ 
+ 
+F = A * B * C * D * E 
+/ 103 
+CF4 
+5
+C2F6 
+0.2
+Total 
+1) 
+In using Tier 1, inventory compilers should not modify, in any way, the set of the FCs assumed here. Inventory 
+compilers should not combine emissions estimated using Tier 1 method with emissions estimated using the Tier 2 or 3 
+methods. Neither may inventory compilers change the values of any factors in this column. 
+2) 
+Typically, global warming potential (100 year time horizon) identified in the IPCC Assessment Report can be used. 
+These factors should be the same as those used for other sectors/categories to ensure that they are all internally 
+consistent in the inventory. 
+3) 
+The Tier 1 method, unlike the Tier 3 or 2 methods, is designed to give an aggregated estimate of FC emissions 
+although its methodology appears to produce gas-specific emissions. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Electronics Industry  - Heat Transfer Fluid 
+Category Code 
+2E4 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Fraction of 
+Annual Plant 
+Production 
+Capacity 
+Utilization 
+Annual 
+Manufacturing 
+Design 
+Capacity 
+Tier 1 Default 
+FC Emission 
+Factor1) 
+CO2 
+Equivalent 
+Conversion 
+Factor2) 
+FC 
+Emissions3)
+(fraction) 
+(Gm2 of silicon 
+consumed) 
+(kg C6F14/m2 
+of silicon 
+consumed) 
+(tonne CO2 
+/tonne 
+C6F14) 
+(Gg CO2 
+equivalent)
+ 
+Fluorinated 
+Compounds  
+(FCs) 
+ 
+ 
+ 
+ 
+E = A * B * 
+C * D * 103
+C6F14 
+ 
+0.3
+ 
+1) 
+Tier 1 default emission factor assumes heat transfer fluids have the same GWP and C6F14 represents a suitable proxy. 
+Inventory compilers should not change this value in using Tier 1 method. 
+2) 
+Typically, global warming potential (100 year time horizon) identified in the IPCC Assessment Report can be used. 
+These factors should be the same as those used for other sectors/categories to ensure that they are all internally 
+consistent in the inventory. 
+3) 
+The Tier 1 method, unlike the Tier 3 or 2 methods, is designed to give an aggregated estimate of FC emissions 
+although its methodology appears to produce gas-specific emissions. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Product Uses as Substitutes for Ozone Depleting Substances – 
+Refrigeration and Air Conditioning 
+Category Code 
+2F1 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Bank in  
+Inventory 
+Year1) 
+Average 
+Emission 
+Factor from 
+installed base
+Agent in 
+Retired 
+Equipment in 
+Inventory Year
+Emissions in Inventory 
+Year 
+(tonne) 
+(%) 
+(tonne) 
+(tonne) 
+HFCs/PFCs 
+(please specify) 
+ 
+ 
+ 
+D = A * B/100 + C 
+HFC-23 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+1) 
+In reality, it is necessary in the refrigeration and air conditioning application to deal with the development 
+and tracking of banks. This means that an historical time series of country-specific or globally or 
+regionally derived activity data is required dating back to the introduction of any new HFC or PFC. In 
+order to do this, inventory compilers will need to implement spreadsheet calculations. A typical example, 
+which is workable and inventory compilers could use, can be found in the 2006 Guidelines CDROM. 
+(V3_An1_Calculation_example_for_2F1.xls) 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Product Uses as Substitutes for Ozone Depleting Substances – Foam 
+Blowing Agents 
+Category Code 
+2F2 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Original Charge in 
+Each of Previous 
+Years1) 
+Annual 
+Losses 
+Emission 
+Factor 
+First Year Loss 
+in Inventory 
+Year2) 
+Emissions in 
+Inventory Year 
+(tonne) 
+(%) 
+(tonne) 
+(tonne) 
+HFCs/PFCs 
+(please specify) 
+ 
+ 
+ 
+D = A * B/100 + C 
+HFC-245fa 
+ 
+ 
+… 
+ 
+ 
+1) 
+In reality, it is necessary in the foam application to deal with the historical time series of country-specific 
+or globally or regionally derived activity data dating back to the introduction of any new HFC or PFC. In 
+order to do this, inventory compilers will need to implement spreadsheet calculations. A typical example, 
+which is workable and inventory compilers could use, can be found in the 2006 Guidelines CDROM. 
+(V3_An1_Calculation_example_for_2F2.xls) 
+2) 
+For details on the first year loss emission factor, see Table 7.5 in Chapter 7 of this volume. In the case of 
+open-cell foams, the first year loss emission factor is typically 100 %. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.27 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Product Uses as Substitutes for Ozone Depleting Substances – Fire 
+Protection 
+Category Code 
+2F3 
+Sheet 
+1 of 1   
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Bank in  
+Inventory 
+Year1) 
+Average 
+Emission 
+Factor from 
+installed 
+base 
+Agent in 
+Retired 
+Equipment 
+in Inventory 
+Year 
+Rate of 
+Recovery of 
+the Agent in 
+Retired 
+Equipment 
+Emissions in 
+Inventory Year 
+(tonne) 
+(%) 
+(tonne) 
+(%) 
+(tonne) 
+HFCs/PFCs 
+(please specify) 
+ 
+ 
+ 
+ 
+E = A * B/100 + 
+C * (1 – D/100) 
+HFC-23 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+1) 
+In reality, it is necessary in the fire protection application to deal with the development and tracking of 
+banks. This means that an historical time series of country-specific or globally or regionally derived 
+activity data is required dating back to the introduction of any new HFC or PFC. In order to do this, 
+inventory compilers will need to implement spreadsheet calculations. A typical example, which is 
+workable and inventory compilers could use, can be found in the 2006 Guidelines CDROM. 
+(V3_An1_Calculation_example_for_2F3.xls) 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Product Uses as  Substitutes for Ozone Depleting Substances 
+- Aerosols 
+Category Code 
+2F4 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Quantity of HFCs/PFCs 
+Contained in Aerosol 
+Products Sold in Inventory 
+Year 
+Quantity of 
+HFCs/PFCs 
+Contained in 
+Aerosol 
+Products Sold 
+in Prior Year 
+Emission 
+Factor (Loss 
+of Current 
+Year's Use)
+Emissions of 
+HFCs/PFCs from 
+Aerosol Products 
+Emissions of 
+HFCs/PFCs from 
+Aerosol Products
+Chemical1),  2) 
+(tonne) 
+(tonne) 
+(fraction) 
+(tonne) 
+(Gg) 
+(please 
+specify) 
+ 
+ 
+ 
+D = A * C + B * (1 
+– C) 
+E = D/103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1) 
+For chemicals that are used for this application, see Table 7.1 in Chapter 7 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.28 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Product Uses as  Substitutes for Ozone Depleting Substances 
+- Solvents 
+Category Code 
+2F5 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Quantity of Solvents 
+(HFCs/PFCs) Sold in 
+Inventory Year 
+Quantity of 
+Solvents 
+(HFCs/PFCs) 
+Sold in Prior 
+Year 
+Emission 
+Factor (Loss 
+of Current 
+Year's Use)
+Emission of 
+HFCs/PFCs from 
+Solvents 
+Emission of 
+HFCs/PFCs 
+from 
+Solvents 
+Chemical1),  2) 
+(tonne) 
+(tonne) 
+(fraction) 
+(tonne) 
+(Gg) 
+(please 
+specify) 
+ 
+ 
+ 
+D = A * C + B * (1 – C) 
+E = D/103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1) 
+For chemicals that are used for this application, see Table 7.1 in Chapter 7 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Product Uses as  Substitutes for Ozone Depleting Substances 
+– Other Applications 
+Category Code 
+2F6 
+Sheet 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Quantity of HFCs/PFCs 
+Sold in Inventory Year 
+Quantity of 
+HFCs/PFCs 
+Sold in Prior 
+Year 
+Emission 
+Factor (Loss 
+of Current 
+Year's Use)
+Emission of 
+HFCs/PFCs from Other 
+Applications 
+Emission of 
+HFCs/PFCs 
+from Other 
+Applications
+Chemical1),  2) 
+(tonne) 
+(tonne) 
+(fraction) 
+(tonne) 
+(Gg) 
+(please 
+specify) 
+ 
+ 
+ 
+D = A * C + B * (1 – C) 
+E = D/103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1) 
+For chemicals that are used for this application, see Table 7.1 in Chapter 7 of Volume 3.  
+2) 
+Insert additional rows if necessary. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.29 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - Electrical Equipment 
+Category Code 
+2G1 
+Sheet 
+1 of 5  Manufacturing Emissions of SF6
+1)  
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+Type of Equipment 
+Total SF6 Consumption by 
+Equipment Manufacturers 
+Manufacturing 
+Emission Factor2)  
+Manufacturing 
+Emissions  
+ 
+(tonne SF6) 
+(fraction) 
+(tonne SF6) 
+ 
+ 
+ 
+C = A * B 
+Sealed-Pressure 
+ 
+ 
+ 
+Closed-Pressure 
+ 
+ 
+ 
+Gas-Insulated 
+Transformers 
+ 
+ 
+ 
+Total 
+ 
+1) 
+Emissions of PFCs can be estimated by the same calculation procedure. 
+2) 
+Default emission factors depend on region for which emissions are being estimated.  See Tables 8.2 through 8.4 in 
+Chapter 8 of this volume. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - Electrical Equipment 
+Category Code 
+2G1 
+Sheet 
+2 of 5  Equipment Installation Emissions of SF6
+1)  
+ 
+ 
+ 
+ 
+ 
+D 
+E 
+F 
+Type of Equipment 
+Total Nameplate Capacity of 
+New Equipment Filled on Site 
+(not at the factory) 
+Installation Emission 
+Factor2) 
+Equipment 
+Installation 
+Emissions  
+ 
+(tonne SF6) 
+(fraction) 
+(tonne SF6) 
+ 
+ 
+ 
+F = D * E 
+Sealed-Pressure 
+ 
+ 
+ 
+Closed-Pressure 
+ 
+ 
+ 
+Gas-Insulated 
+Transformers 
+ 
+ 
+ 
+Total 
+ 
+1) 
+Emissions of PFCs can be estimated by the same calculation procedure. 
+2) 
+Default emission factors depend on region for which emissions are being estimated.  See Tables 8.2 through 8.4 in 
+Chapter 8 of this volume. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.30 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - Electrical Equipment 
+Category Code 
+2G1 
+Sheet 
+3 of 5  Equipment Use Emissions of SF6
+1)  
+ 
+ 
+ 
+ 
+ 
+G 
+H 
+I 
+Type of Equipment 
+Total Nameplate Capacity of 
+Installed Equipment 
+Use Emission 
+Factor2), 3) 
+Equipment Use 
+Emissions  
+ 
+(tonne SF6) 
+(fraction) 
+(tonne SF6) 
+ 
+ 
+ 
+I = G * H  
+Sealed-Pressure 
+ 
+ 
+ 
+Closed-Pressure 
+ 
+ 
+ 
+Gas-Insulated 
+Transformers 
+ 
+ 
+ 
+Total 
+ 
+1) 
+Emissions of PFCs can be estimated by the same calculation procedure. 
+2) 
+Default emission factors depend on region for which emissions are being estimated.  See Tables 8.2 through 8.4 in 
+Chapter 8 of this volume. 
+3) 
+The ‘use emission factor’ includes emissions due to leakage, servicing, maintenance, and equipment failures. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - Electrical Equipment 
+Category Code 
+2G1 
+Sheet 
+4 of 5  Equipment Disposal Emissions of SF6
+1)  
+ 
+ 
+ 
+ 
+ 
+J 
+K 
+L 
+Type of Equipment 
+Total Nameplate Capacity of 
+Retiring Equipment 
+Fraction of SF6 
+Remaining at 
+Retirement2) 
+Equipment 
+Disposal 
+Emissions  
+ 
+(tonne SF6) 
+(fraction) 
+(tonne SF6) 
+ 
+ 
+ 
+L = J * K  
+Sealed-Pressure 
+ 
+ 
+ 
+Closed-Pressure 
+ 
+ 
+ 
+Gas-Insulated 
+Transformers 
+ 
+ 
+ 
+Total 
+ 
+1) 
+Emissions of PFCs can be estimated by the same calculation procedure. 
+2) 
+Default emission factors depend on region for which emissions are being estimated.  See Tables 8.2 through 8.4 in 
+Chapter 8 of this volume. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.31 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - Electrical Equipment 
+Category Code 
+2G1 
+Sheet 
+5 of 5  Total Emissions of SF6
+1)  
+ 
+ 
+ 
+ 
+M 
+N 
+Total Emissions 
+Total Emissions 
+Type of Equipment 
+(tonne SF6) 
+(Gg SF6) 
+ 
+M = C + F + I + L 
+N = M/103 
+Sealed-Pressure 
+ 
+ 
+Closed-Pressure 
+ 
+ 
+Gas-Insulated 
+Transformers 
+ 
+ 
+Total 
+1) 
+Emissions of PFCs can be estimated by the same calculation procedure. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+1 of 7  SF6 Emissions from Military Applications (AWACS) 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+National AWACS 
+Fleet 
+Emission Factor 
+SF6 Emissions 
+SF6 Emissions 
+(number of 
+AWACS) 
+(kg SF6/plane) 
+(kg) 
+(Gg) 
+ 
+ 
+C = A * B 
+D = C/106 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+2 of 7  SF6 Emissions from University and Research Particle 
+Accelerators 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+F 
+Number of 
+University and 
+Research Particle 
+Accelerators in the 
+Country 
+SF6 Use 
+Factor 
+SF6 Charge 
+Factor 
+SF6 
+Emission 
+Factor 
+SF6 Emissions 
+SF6 
+Emissions
+(number) 
+(fraction) 
+(kg SF6/particle 
+accelerator) 
+(fraction) 
+(kg) 
+(Gg) 
+ 
+ 
+ 
+ 
+E = A * B * C * D 
+F = E/106 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.32 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+3 of 7  SF6 Emissions from Industrial and Medical Particle 
+Accelerators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+Process Description 
+Number of 
+Particle 
+Accelerators 
+that use SF6 
+by Process 
+Description in 
+the Country 
+SF6 Charge 
+Factor 
+SF6 
+Emission 
+Factor 
+SF6 Emissions 
+SF6 
+Emissions
+ 
+(number) 
+(kg SF6/particle 
+accelerator) 
+(fraction)
+(kg) 
+(Gg) 
+ 
+ 
+ 
+ 
+D = A * B * C 
+E = D/106
+Industrial 
+Accelerator (High 
+Voltage: 0.3-23 MV) 
+ 
+ 
+ 
+Industrial 
+Accelerator (Low 
+Voltage: <0.3 MV) 
+ 
+ 
+ 
+Medical 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+4 of 7  SF6 Emissions1) from Adiabatic Uses 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+Type of 
+Applications2), 3) 
+Sales into application in year t-3
+SF6 Emissions in year t 
+SF6 Emissions 
+in year t 
+(please specify) 
+(tonne) 
+(tonne) 
+(Gg) 
+ 
+ 
+B = A 
+C = B/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+1) 
+Emissions of PFCs can be estimated by the same calculation procedure. 
+2) 
+For example, car tires, sport shoe soles and tennis balls. 
+3) 
+Insert additional rows, if necessary. 
+ 
+Annex 1: Worksheets 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.33 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+5 of 7  SF6 Emissions from Sound-Proof Glazing 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+F 
+SF6 Purchased to 
+Fill Windows 
+Assembled in 
+Inventory Year 
+Assembly 
+Emission 
+Factor 
+Assembly 
+Emissions  
+Capacity of 
+Existing 
+Windows in 
+Inventory Year
+Leakage 
+Emission 
+Factor 
+Leakage 
+Emissions 
+(tonne SF6) 
+(fraction) 
+(tonne SF6) 
+(tonne SF6) 
+(fraction) 
+(tonne SF6)
+ 
+ 
+C = A * B  
+ 
+ 
+F = D * E 
+ 
+ 
+ 
+ 
+ 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+6 of 7  SF6 Emissions from Sound-Proof Glazing 
+ 
+ 
+ 
+ 
+ 
+G 
+H 
+I 
+J 
+K 
+Amount Left in 
+Windows at End of 
+Lifetime (Disposed 
+of in Inventory 
+Year) 
+Recovery 
+Factor1) 
+Disposal 
+Emissions 
+Total Emissions  
+Total 
+Emissions 
+(tonne SF6) 
+(fraction) 
+(tonne SF6) 
+(tonne SF6) 
+(Gg SF6) 
+ 
+ 
+I = G * (1 – H) 
+J = C + F + I  
+K = J/103 
+ 
+ 
+ 
+1) 
+Recovery factor is assumed to be zero unless country-specific information is available. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - SF6 and PFCs from Other Product 
+Uses 
+Category Code 
+2G2 
+Sheet 
+7 of 7  Emissions of SF6 and PFCs from Other Prompt Emissive 
+Applications 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+Type of 
+Applications 
+1), 2) 
+Sales into 
+application in 
+year t 
+Sales into 
+application in year 
+t-1 
+Emissions in year t 
+Emissions in 
+year t 
+(please specify) 
+(tonne) 
+(tonne) 
+(tonne) 
+(Gg) 
+ 
+ 
+ 
+C = 0.5 * (A + B) 
+D = C/103 
+ 
+ 
+ 
+ 
+Total 
+ 
+1) 
+For example, tracers and use in production of optical cables. 
+2) 
+Insert additional rows, if necessary. 
+ 
+Volume 3: Industrial Processes and Product Use 
+A1.34 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - N2O from Product Uses 
+Category Code 
+2G3 
+Sheet 
+1 of 2  
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+Type of Applications 
+Quantity of N2O Supplied 
+in this Application Type in 
+Year t 
+Quantity of N2O Supplied 
+in this Application Type 
+in Year t-1 
+Emission 
+Factor 
+ 
+(tonne) 
+(tonne) 
+(fraction) 
+ 
+ 
+ 
+ 
+Medical Applications 
+ 
+Propellant in Aerosol 
+Products 
+ 
+Other (please specify) 1) 
+ 
+Total 
+ 
+1) 
+Insert additional rows, if necessary. 
+ 
+Sector 
+Industrial Processes and Product Use 
+Category 
+Other Product Manufacture and Use - N2O from Product Uses 
+Category Code 
+2G3 
+Sheet 
+2 of 2  
+ 
+ 
+ 
+ 
+D 
+E 
+Type of Applications 
+N2O Emission 
+N2O Emission 
+ 
+(tonne) 
+(Gg) 
+ 
+D = (0.5 * A + 0.5 * B) * C 
+E = D/103 
+Medical Applications 
+Propellant in Aerosol 
+Products 
+Other (please specify) 1) 
+Total 
+1) 
+Insert additional rows, if necessary. 
+ 

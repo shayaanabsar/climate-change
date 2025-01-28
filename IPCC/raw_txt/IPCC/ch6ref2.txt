@@ -1,0 +1,967 @@
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.21
+determine MCFs.  If no data are available, as a default, use 0 for aerobic systems, and
+1.0 for anaerobic.4
+Since aerobic and anaerobic handling are the only handling systems considered, the CH4
+conversion rate can be used to characterise a broad range of systems falling between
+aerobic and anaerobic handling systems.
+Equation 10 presents the emission factor calculation for wastewater:
+EQUATION 10
+EFi = Boi x ∑ (WSix x MCFx )
+where:
+EFi
+=
+emission factor (kg CH4 /kg DC) for wastewater type (e.g., fertiliser
+industry, domestic, etc.)
+Boi
+=
+maximum methane producing capacity (kg CH4/kg DC) for
+wastewater type i
+WSix
+=
+fraction of wastewater type i treated using wastewater handling
+system x
+MCFx
+=
+methane conversion factors of each wastewater system x
+Equation 11 presents the emission factor calculation for sludge:
+EQUATION 11
+EFj = Boj x ∑(SSjy x MCFy)
+where:
+EFj
+=
+emission factor (kg CH4 /kg DC) for sludge type j (e.g., fertiliser
+industry wastewater, domestic wastewater, etc.)
+Boj
+=
+maximum methane producing capacity (kg CH4/kg DC) for sludge type 
+j
+SSjy
+=
+fraction of sludge type j treated using sludge handling system y
+MCFy
+=
+methane conversion factors of each sludge handling system y (See
+footnote 4)
+                                                  
+     4 If sludge is disposed of in landfills then the resulting emissions are already accounted
+for in the IPCC/OECD SWDS emission methodology (Section 6.2.4).  If sludge is
+incinerated or burned as part of an energy recovery system, then the resulting emissions
+should be reported for in the Energy Chapter, classified as an industrial waste fuel.  In
+these cases, to ensure that emissions are not counted twice an “MCF” of zero should be
+used in this methodology for sludge disposed in SWDSs or incinerated, or burned as part
+of an energy recovery system.  In all other cases, an appropriate MCF value should be
+selected based on the specific characteristics of the system used to dispose of the sludge.
+WASTE
+6.22
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Step 3 - Wastewater Emissions
+To estimate total emissions from wastewater, the selected emissions factors are multiplied
+by the associated organic wastewater production and summed.  Subtract the amount of
+CH4, if any, that is recovered and thus not emitted into the atmosphere for each handling
+method.  If no data are readily available, the default assumption is that this amount is zero.
+Sum the results for each handling method to determine total CH4 emissions from
+wastewater.  In equation form, the estimate of total CH4 emissions from wastewater
+handling is as follows:
+EQUATION 12
+WM = Σi (TOWi x EFi - MRi)
+where:
+WM
+=
+total methane emissions from wastewater in kg CH4
+TOWi
+=
+total organic waste for wastewater type i in kg DC/yr.  For domestic
+streams, the DC is BOD; for industrial streams it is the COD (Step
+1)
+EFi
+=
+emission factor for wastewater type i in kg CH4/kg DC (Step 2)
+MRi
+=
+total amount of methane recovered or flared from wastewater type i
+in kg CH4.  If no data are available, use the default value of zero
+Step 4 - Sludge Emissions
+To estimate total emissions from sludge, the selected emissions factors are multiplied by
+the associated organic sludge production and summed.  Subtract the amount of CH4, if
+any, that is recovered and thus not emitted into the atmosphere for each handling
+method.  If no data are readily available, the default assumption is that this amount is zero.
+Sum the results for each handling method to determine total CH4 emissions from
+wastewater.  In equation form, the estimate of total CH4 emissions from sludge handling is
+as follows:
+EQUATION 13
+SM = ∑j (TOSj x EFj - MRj)
+where:
+SM
+=
+total methane emissions from sludge in kg CH4
+TOSj
+=
+total organic waste for sludge type j in kg DC/yr.  For domestic
+streams, the DC is BOD; for industrial streams it is COD (Step 1)
+EFj
+=
+emission factor for sludge type j in kg CH4/kg DC (Step 2)
+MRj
+=
+total amount of methane recovered or flared from sludge type j in kg
+CH4.  If no data are available, the default is zero
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.23
+Step 5 - Total Emissions
+Total emissions from wastewater and sludge can be determined by summing the results of
+Steps 3 and 4.  This is expressed as follows in Equation 14:
+EQUATION 14
+TM = WM + SM
+where:
+TM
+=
+total methane from wastewater and sludge handling in kg CH4
+WM
+=
+total methane emissions from wastewater in kg CH4
+SM
+=
+total methane emissions from sludge in kg CH4
+6 . 3 . 6  U n c e r t a i n t i e s
+The quality of CH4 emissions estimates for wastewater handling is directly related to the
+quality and availability of the waste management data used to derive these estimates.
+Country specific data on wastewater quantities, characteristics, and wastewater
+management methods are very limited.  The principal sources of uncertainty are described
+below.
+Organic Wastewater Quantity and Composition
+Often the amount of degradable organic wastewater that is produced and the volumes
+handled in the various systems is not well known.  Consequently, limitations exist for
+quantifying the fraction of wastewater subject to specific systems.
+Physical and Chemical Data
+Country-specific data on wastewater characteristics are very limited.  For example,
+reported organic component values in industrial source categories are averages from
+several processes.  Accurate and detailed data on the chemical characteristics and volumes
+of process wastewater streams could improve the emissions estimates.
+Wastewater Handling Facility Efficiency and Output
+Aerobically treated wastewater by handling plants may be subject to anaerobic conditions
+due to poorly managed and functioning facilities.  This contributes to an underestimate of
+emissions.  Additionally, current estimates from wastewater handling lagoons are relatively
+uncertain due to the limited available data.  Work is on-going to develop better emission
+factors from these sources.
+TABLE 6-5
+ESTIMATED BOD5 VALUES IN DOMESTIC WASTEWATER BY REGION
+Region
+BOD5 Value
+ (kg/cap/day)
+BOD5 Value
+ (kg/1000 persons/yr)
+Africa
+0.037
+13,505
+Asia, Middle East, Latin America
+0.04
+14,600
+N. America, Europe, Former USSR, Oceania
+0.05
+18,250
+Source: IPCC (1994)
+WASTE
+6.24
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 6-6
+INDUSTRIAL WASTEWATER DATA BY REGION
+Industry  Type and Region
+Wastewater
+Produced
+(m3/tonnes of
+product)
+COD Value
+(kg COD/m3
+wastewater)
+Country
+Beverage - Distilled & Industry
+Generic - ethanol
+13 m3/ m3 ethanol
+40
+Generic - ethanol
+NAV
+5,000 kg/ m3 ethanol
+South America
+NAV
+22
+Brazil
+Western Europe
+NAV
+4.0 - 5.0
+Netherlands
+Beverage - Malt & Beer
+Generic
+5 m3/ m3 beer
+17
+Generic
+5-9 m3/ m3 beer
+2.0 - 7.0
+Western Europe
+NAV
+1.0 - 1.5
+Netherlands
+Food - Meat & Poultry
+Generic
+1.4 m3/animal
+NAV
+Western Europe
+NAV
+2.9
+Netherlands
+North America
+NAV
+15.0
+USA
+Food - Fish
+North America
+NAV
+2.5
+USA
+Food - Coffee
+North America
+NAV
+3.0 - 14.0
+USA
+Food - Dairy Products
+Generic
+2.8
+NAV
+Western Europe
+NAV
+1.5
+Netherlands
+Food - Fruits & Vegetables
+Generic (cannery)
+26
+NAV
+Generic Tomato processing
+26
+NAV
+North America, potatoes
+NAV
+3.0
+USA
+Western Europe, bean blanching
+NAV
+5.2
+Netherlands
+Western Europe, sauerkraut
+NAV
+10.0 - 20.0
+Netherlands
+Food - Oils
+Generic - Vegetable oil
+1.6
+0.3
+Middle East
+NAV
+42
+Turkey
+Asia
+NAV
+25
+Malaysia
+Food - Sugar
+Central America (cane)
+NAV
+98
+Mexico
+Iron And Steel
+South America
+0.1
+NAV
+Brazil
+Organic Chemicals
+Western Europe
+NAV
+20- 40
+Netherlands
+Pharmaceuticals
+Middle East
+NAV
+1.3
+Egypt
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.25
+TABLE 6-6  (CONTINUED)
+INDUSTRIAL WASTEWATER DATA BY REGION
+Industry Type and Region
+Wastewater Produced
+(m3/tonnes of
+product)
+COD Value
+(kg COD/m3
+ wastewater)
+Country
+Starch
+Generic, potato starch
+NAV
+4.0 - 16
+Generic, wheat starch
+NAV
+2.0 - 42
+Generic, corn starch
+NAV
+10
+Petroleum Production
+North America
+NAV
+0.3 -0.4
+USA
+North America
+NAV
+1.8
+Canada
+Pulp & Paper
+Generic (pulp)
+58
+2.0 - 15
+North America pulp mill
+140
+NAV
+USA
+Generic (paper)
+NAV
+2.0 - 8.0
+North America (virgin paper)
+97
+1.6
+USA
+North America (recycled paper)
+44
+3.0
+USA
+Western Europe (paper)
+NAV
+1.0 - 3.0
+Netherlands
+Textiles
+Rayon
+501
+NAV
+Greece
+NAV
+0.09
+North America, textile mills
+NAV
+1.0
+USA
+Leather Tanning
+North America, generic
+NAV
+5.8
+USA
+Source: Doorn and Eklund (1995).  For a detailed list of references for each wastewater category, see Doorn and
+Eklund (1995).  Wastewater production of COD values are not available (NAV) for every country and region.
+Research is ongoing to develop wastewater production and COD values for these countries and regions.  Note
+that these data are currently undergoing revision and updating.
+TABLE 6-7
+DOMESTIC WASTEWATER TREATMENT EMISSIONS FACTOR DERIVATION DATA
+Region
+Type of Treatment
+Fraction of Wastewater
+Treated
+ (%)
+MCF
+  (%)
+Africa
+Kenya
+Lagoons
+50
+NAV
+Tunisia
+Lagoons
+20
+NAV
+Zimbabwe
+Activated Sludge
+50
+NAV
+Other Africa
+Lagoons
+5
+80
+Asia
+Indonesia
+not specified
+1
+NAV
+Singapore
+not specified
+1
+NAV
+South Korea
+not specified
+1
+NAV
+Taiwan
+not specified
+1
+NAV
+Other Asia
+not specified
+5
+75
+Latin America And Caribbean
+not specified
+10
+80
+Australia And New Zealand
+not specified
+80
+70
+Source: Doorn and Eklund (1995).  For a detailed list of references for each region, see Doorn and Eklund (1995).  Methane
+correction factor (MCF) data are not available (NAV) for some countries and regions.  Research is ongoing to provide MCF
+estimates for these countries and regions.  Note that these data are currently undergoing revision and updating.
+WASTE
+6.26
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 6-8
+INDUSTRIAL WASTEWATER TREATMENT EMISSIONS FACTOR DERIVATION
+Region
+Type of
+Industry
+Type of
+Treatment
+Fraction of Wastewater
+Treated
+ (%)
+MCF
+ (%)
+Africa
+Kenya
+textiles
+Lagoons
+60
+NAV
+Kenya
+coffee
+production
+Lagoons
+5
+NAV
+Other Africa
+All
+Lagoons
+10
+90
+Asia
+Indonesia
+All
+not specified
+10
+NAV
+Malaysia
+palm oil
+not specified
+90
+NAV
+Singapore
+All
+not specified
+10
+NAV
+South Korea
+All
+not specified
+10
+NAV
+Taiwan
+All
+not specified
+10
+NAV
+Thailand
+breweries
+activated sludge
+50
+NAV
+Other Asia
+All
+not specified
+20
+90
+North America
+Canada
+All
+not specified
+90
+70
+USA
+All
+not specified
+90
+70
+Latin America & Caribbean
+All
+not specified
+20
+90
+Australia & New Zealand
+All
+not specified
+95
+70
+Source: Doorn and Eklund (1995).  For a detailed list of references for each region, see Doorn and Eklund (1995).  Methane
+correction factor (MCF) data are not available (NAV) for some countries and regions.  Research is ongoing to provide MCF
+estimates for these countries and regions.  Note that these data are currently undergoing revision and updating.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.27
+TABLE 6-9
+UNSPECIFIED WASTEWATER TYPE EMISSIONS FACTOR DERIVATION DATA
+Region
+Type of Treatment
+Fraction of
+Wastewater
+Treated
+ (%)
+MCF
+ (%)
+Africa
+South Africa
+not specified
+10
+NAV
+Asia
+Afghanistan
+not specified
+1
+NAV
+Latin America And Caribbean
+Colombia
+Lagoons
+3
+NAV
+Argentina
+Lagoons
+3
+NAV
+Europe
+Albania
+not specified
+1-92
+NAV
+Austria
+not specified
+65
+NAV
+Belgium
+not specified
+85
+NAV
+Bulgaria
+not specified
+10-100
+NAV
+Belarus
+not specified
+10-80
+NAV
+Croatia
+not specified
+57
+NAV
+Czech Rep
+not specified
+10-5
+NAV
+Denmark
+not specified
+90
+NAV
+Estonia
+not specified
+10-80
+NAV
+Finland
+not specified
+68
+NAV
+France
+not specified
+50-85
+NAV
+Germany
+not specified
+90
+NAV
+Hungary
+not specified
+44
+NAV
+Ireland
+not specified
+66
+NAV
+Italy
+not specified
+92
+NAV
+Latvia
+not specified
+10-80
+NAV
+Lithuania
+not specified
+10-80
+NAV
+Moldavia
+not specified
+10-80
+NAV
+Netherlands
+not specified
+90
+NAV
+Norway
+not specified
+94
+NAV
+Poland
+not specified
+10-50
+NAV
+Portugal
+not specified
+42
+NAV
+Romania
+not specified
+10-46
+NAV
+Russia
+not specified
+10-80
+NAV
+Serbia
+not specified
+57
+NAV
+Slovenia
+not specified
+87
+NAV
+Spain
+not specified
+67
+NAV
+Sweden
+not specified
+98
+NAV
+Switzerland
+not specified
+88
+NAV
+Turkey
+not specified
+38
+NAV
+Ukraine
+not specified
+10-80
+NAV
+United Kingdom
+not specified
+90
+NAV
+Slovakia
+not specified
+10-65
+NAV
+Source: Doorn and Eklund (1995).  Methane correction factor (MCF) data are not available (NAV).  Research is ongoing
+to provide MCF estimates for these and other wastewater treatment systems.  Note that these data are currently
+undergoing revision and updating.
+WASTE
+6.28
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.4 
+Nitrous Oxide from Human Sewage
+Since N2O emissions from human sewage are closely linked to the agricultural N cycle,
+the method is further discussed in the Agriculture Chapter.  For a detailed description of
+the proposed methodology, the reader is referred to Section 4.5.4 (on indirect N2O
+emissions from nitrogen used in agriculture).
+The emissions of N2O from human sewage are calculated as follows:
+EQUATION 15
+N2O(S) = Protein x FracNPR x NRPEOPLE x EF6
+where:
+N2O(s)
+=
+N2O emissions from human sewage (kg N2O-N/yr)
+Protein
+=
+annual per capita protein intake (kg/person/yr)
+NRPEOPLE
+=
+number of people in country
+EF6
+=
+emissions factor (default 0.01 (0.002-0.12) kg N2O-N/kg sewage-
+N produced) (See Table 4-18 in Agriculture Chapter)
+FracNPR
+=
+fraction of nitrogen in protein (default = 0.16 kg N/kg protein)
+(See Table 4-19 in Agriculture Chapter)
+6.5 
+Emissions from Waste Incineration
+6 . 5 . 1  I n t r o d u c t i o n
+Waste incineration like other types of combustion, is a source of GHG emissions.  Few
+data have been compiled on the global emissions from waste incineration.  Preliminary
+indicators are that this source represents a small percentage of the total GHG output
+from the waste source category.
+6 . 5 . 2  E m i s s i o n s
+Certainly waste incineration produces CO2, but it is difficult to identify the portion which
+should be considered net emissions.  A large fraction of the carbon in waste combusted
+(e.g., paper, food waste) is derived from biomass raw materials which are replaced by
+regrowth on an annual basis.  These emissions should not be considered net
+anthropogenic CO2 emissions in the IPCC Methodology.  If the agricultural or forestry
+sources are not being sustainably managed, net CO2 emissions (equivalent to reductions
+in biomass stocks) should be accounted for in those source categories.  On the other
+hand, some carbon in waste is in the form of plastics or other products based on fossil
+fuel.  Combustion of these materials, like fossil fuel combustion, releases net CO2
+emissions.  In estimating emissions from waste incineration, the desired approach is to
+separate carbon in the incinerated waste into biomass and fossil fuel based fractions.
+Only the fossil based portion should be considered net carbon emissions.  Any such
+detailed analysis should ensure that carbon emissions are not double counted in the
+treatment of stored carbon under energy emissions.  See Overview to the IPCC Guidelines.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.29
+A recent Belgian analysis (Debruyn and Van Rensbergen, 1994) offers an example of a
+very detailed approach.
+Other relevant gases released from combustion are net GHG emissions.  Methane
+emissions from waste incineration are highly uncertain.  An expert working group
+recognised waste incineration as a source of methane production, but was not able to
+give global estimates or default emissions factors.  Although this source is considered to
+be relatively small compared to the other CH4 sources in waste, it was recognised as an
+area for further research in the future (Berdowski et al., 1993).
+Recent studies have also shown that N2O may be an important GHG produced from
+incineration.  Table 6-10 provides data from studies of several incineration plants and the
+N2O produced from the waste incineration (de Soete, 1993).  Studies in Belgium (IPCC,
+1993), Japan (Tanaka et al., 1992) and Norway (Rosland, 1993) have estimated N2O
+production from their waste incineration processes.  It has also been found that the
+emission level depends on the nature of the waste burned.  Research in Japan has noted
+that while all types of incineration produce N2O, sludge incinerators produce the highest
+emissions rates (Tanaka et al., 1992).
+Traditional air pollutants from combustion - NOx, CO, NMVOC - are characterised in
+existing emissions inventory systems.  The IPCC does not provide a new methodology for
+these gases, but recommends that national experts use existing published methods.  Some
+key examples of the current literature providing methods are: Default Emission Factor
+Handbook (CORINAIR, 1994), as well as the US EPA's Compilation of Air Pollutant
+Emissions Factors (AP-42) (US EPA, 1985) and Criteria Pollutant Emission Factors for the
+1985 NAPAP Emissions Inventory (Stockton and Stelling, 1987).
+TABLE 6-10
+NITROUS OXIDE EMISSIONS FROM WASTE INCINERATION
+N2O Emission
+Nature of Waste
+(reference)
+Facility
+ToC
+ppmva
+min.
+ppmva
+average
+ppmva
+max.
+O2
+(%)
+g N2O /
+tonne
+waste
+Municipal refuse
+10 furnaces (65-300 tonnes/day)
+1.2
+8
+18
+Municipal refuse
+Stepgrate
+Stepgrate
+Fluid. bed
+780-880
+780-980
+830-850
+0.8
+4
+6.7
+4.9
+24
+10.5
+10
+8-14
+13-15
+11-43
+40-220
+14-123
+Municipal solid waste 5 stokers (20-400 tonnes/day)
+3
+7
+12
+26-270
+3 Fluid. bed
+5.6
+9.8
+17.1
+97-293
+rot. koln (120 tonnes/day)
+10.2
+11.1
+12.1
+35-165
+Sewage-sludge
+4 incin. (150-300 tonnes/day)
+57
+87
+125
+Sludge
+Rotary grate
+Fluid. bed
+Fluid. bed
+Fluid. bed
+Fluid. bed
+750
+770-812
+838-854
+834-844
+853-887
+270
+135
+100
+45
+50.7
+600
+292
+320
+145
+227
+580-1528
+684-1508
+275-886
+101-307
+Source: de Soete, 1993.
+ a ppmv = parts per million by volume
+WASTE
+6.30
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.6 
+References
+Aitchison, E.M, M.P. Meadows, M.J. Wenborn, I.T. Marlowe, M. Mikkelson, M. Milton, C.
+Harries and R. Pocock (1996) ‘’ A Methodology for Updating  Routinely the
+Annual Estimate of Methane Emissions from Landfill Sites in the UK. ‘’ ETSU,
+AEA Technology, Report RYWA/18678001/R4.
+Berdowski, J.J.M., L. Beck, S. Piccot, J.G.J. Oliver and C. Veldt (1993), “Working Group
+Report: Methane emissions from fuel combustion and industrial processes.” In:
+Proceedings of an International IPCC Workshop on Methane and Nitrous Oxide:
+Methods in National Emissions Inventories and Options for Control.  A.R. van Amstel
+(ed.),  RIVM Report No. 481507003, Bilthoven, The Netherlands, pp. 231-237.
+Bingemer, H.G. and P.J. Crutzen (1987), “The production of methane from solid wastes.”
+Journal of Geophysical Research, 92 (D2): 2181-2187.
+CORINAIR, 1994. Technical Annexes Volume 2 - Default emission factors handbook EUR
+Report 12586, Office for Official Publications of the European Communities,
+Luxembourg. (Originally published in 1992 by EEATF.)
+Debruyn W. and J. Van Rensbergen (1994), Greenhouse Gas Emissions from Municipal and
+Industrial Wastes, ENE.RA9410, VITO, Energy Division, Belgium.
+de Soete, G. (1993), “Nitrous oxide from combustion and industry: chemistry, emissions,
+and control”, pp. 324-325. Working Group Report: Methane Emissions from
+Biomass Burning.  In : Proceedings of an International IPCC Workshop on Methane
+and Nitrous Oxide: Methods in National Emissions Inventories and Options for Control.
+A.R. van Amstel (ed.), RIVM Report No. 481507003, Bilthoven, The Netherlands.
+Doorn, M. and M.A. Barlaz (1995), Estimate of Global Methane Emissions from Landfills and
+Open Dumps.  Prepared for US EPA Office of Research and Development,
+February 1995, EPA-600/R-95-019.
+Doorn, M. and B. Eklund (1995), Greenhouse Gases from Wastewater Treatment: Collection
+and Review of Country-Specific Data and Preliminary Emission Models.  Prepared for
+US EPA Office of Research and Development,
+EMEP/CORINAIR (1996), Joint Atmospheric Emission Inventory Guidebook (1st edition).
+Environment Canada (1992), Canada's Greenhouse Gas Emissions: Estimates for 1990.
+Report EPS 5/AP/4.
+Gloyna, E.F. (1971), Waste Stabilization Ponds.  World Health Organization, Geneva,
+Switzerland.
+IPCC (1992), Climate Change 1992. The Supplementary Report to the IPCC Scientific
+Assessment.  (J.T. Houghton, G.J. Jenkins and J.J. Ephraums (eds)).  Published for
+The Intergovernmental Panel on Climate Change (IPCC), World Meteorological
+Organization/United Nations Environment Programme, Cambridge University
+Press, UK.
+IPCC (1993), Parts I & II: National GHG Inventories: Transparency in Estimation and
+Reporting. Part III: Preliminary IPCC National GHG Inventories: In-Depth Review.
+Prepared by The Intergovernmental Panel on Climate Change (IPCC) and
+Organisation 
+for 
+Economic 
+Co-operation 
+and 
+Development, 
+World
+Meteorological Organization/United Nations Environment Programme.
+IPCC (1994), “IPCC Guidelines for National Greenhouse Gas Inventories, 3 Volumes: Volume 1,
+Reporting Instructions; Volume 2, Workbook; Volume 3, Draft Reference Manual.”
+Intergovernmental Panel of Climate Change.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.31
+IPCC (1995), “IPCC Guidelines for National Greenhouse Gas Inventories, 3 Volumes: Volume 1,
+Reporting Instructions; Volume 2, Workbook; Volume 3, Reference Manual.”
+Intergovernmental Panel of Climate Change.
+IPCC (1996), Climate Change 1995. The Science of Climate Change.  (J.T. Houghton, L.G.
+Meira Filho, B.A. Callander, N. Harris, A. Kattenberg and K. Maskell (eds)).
+Published for The Intergovernmental Panel on Climate Change (IPCC), World
+Meteorological 
+Organization/United 
+Nations 
+Environment 
+Programme,
+Cambridge University Press, UK.
+LANDTEC (1994), “Coursewares” material provided at Landfill Gas System Engineering
+Design Seminars.
+Lexmond M.J. and G. Zeeman (1995), Potential of Uncontrolled Anaerobic Wastewater
+Treatment in Order to Reduce Global Emissions of the Greenhouse Gases Methane
+and Carbon Dioxide, Department of Environmental Technology, Agricultural
+University of Wageningen, Wageningen, The Netherlands.  Report No. 95-1.
+OECD (1995), OECD Environmental Data Compendium 1995.  Organisation for Economic
+Co-operation and Development.
+Rosland, A. (1993), Greenhouse Gas Emissions in Norway: Inventories and Estimation Methods,
+pp.14.  Prepared for the Norwegian Ministry of the Environment, Oslo, Norway.
+Stockton, M.B. and J.H.E. Stelling (1987), Criteria Pollutant Emission Factors for the 1985
+NAPAP Emissions Inventory.  US EPA Washington, Ouverage, EPA-600/7-87-015
+XV-211.
+Tabasaran, O. (1981), “Gas production from landfill”.  In Household Waste Management in
+Europe, Economics and Techniques, A.V. Bridgewater and Lidgren K. (eds.), Van
+Nostrand Reinhold Co., New York, USA, pp. 159-175.
+Tanaka, M., M. Miyazaki and I. Watanabe (1992), “CH4 and N2O Emission from Waste
+Disposal Facilities in Japan”, pp. 18-19. Presented at the CH4 and N2O Workshop
+held by the National Institute of Agro-Environmental Sciences (NIAES), Tsukuba,
+Japan, March 25-26,1992.
+UK department of the Environment (1993), An Assessment of Methane Emissions from
+UK landfills.   UK DoE report CWM 063/93.
+US Environmental Protection Agency, Office of Air Quality Planning and Standards
+(1985), Compilation of Air Pollutant Emission Factors (Fourth Edition), Volume I:
+“Stationary Point and Area Sources.” EPA-AP-42 (GPO 055-000-00251-7),
+Research Triangle Park, North Carolina, USA.
+US Environmental Protection Agency (1991), Air Emissions from Municipal Solid Waste
+Landfills - Background Information for Proposed Standards and Guidelines.  EPA-
+450/3-90-011a, US EPA, Research Triangle Park, North Carolina, USA.
+US Environmental Protection Agency (1994), International Anthropogenic Methane Emissions
+Report to Congress.  EPA Office of Policy, Planning and Evaluation, EPA 230-R-93-
+010.
+US Environmental Protection Agency (1995), Section 2.4, Landfills, in Compilation of Air
+Pollutant Emission Factors, Volume 1: Stationary Point and Area Sources, Fifth Edition,
+AP-42.  US EPA Office of Air Quality Planning and Standards, Research Triangle
+Park, North Carolina, USA.
+WASTE
+6.32
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Van Amstel, A.R., R.J. Swart, M.S. Krol, J.P. Beck, A.F. Bouwman and K.W. Van der Hoek
+(1993), Methane, the Other Greenhouse Gas..  Research and policy in the
+Netherlands.  RIVM Report No. 481507001.
+Westlake, K. (1990), “Landfill microbiology”.  In Proceedings of the International Conference:
+Landfill Gas: Energy and Environment '90.  Bournemouth, UK.

@@ -1,0 +1,3542 @@
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.1 
+CHAPTER 3 
+CONSISTENT REPRESENTATION OF 
+LANDS 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Shanti Reddy (Australia), Luis Panichelli (Argentina), Robert Michael Waterworth (Australia), Sandro Federici 
+(San Marino), Carly Green (Australia), Inge Jonckheere (Belgium), Serah Kahuri (Kenya), Werner Alexander 
+Kurz (Canada), Robert de Ligt (Australia), Jean Pierre Ometto (Brazil), Hans Petersson (Sweden), Endo Takahiro 
+(Japan), Thomas Paul (New Zealand), Jason Tullis (USA), Zoltan Somogyi (Hungary), Mehul Pandya (India), 
+Marcelo Theoto Rocha (Brazil), Kei Suzuki (Japan). 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.3 
+Contents 
+3 
+Consistent Representation of land 
+3.1 
+Introduction .......................................................................................................................................... 3.5 
+3.2 
+Land-use categories .............................................................................................................................. 3.6 
+3.3 
+Representing land-use areas ............................................................................................................... 3.11 
+3.3.1 Three Approaches ......................................................................................................................... 3.13 
+3.3.2 Data of Land Representation ........................................................................................................ 3.19 
+3.3.3 Methods for Land-Use and Land-Use Change Estimation ........................................................... 3.21 
+3.3.4 Combining Multiple Data Sources ............................................................................................... 3.24 
+3.3.5 Derivation of IPCC Land-Use Categories from Land Cover Information .................................... 3.25 
+3.3.6 Stratification of land-use data ....................................................................................................... 3.27 
+3.3.7 Preparing area data for emissions and removals estimation ......................................................... 3.29 
+3.4 
+Matching Land Areas With Factors For Estimating Greenhouse Gas Emissions And Removals ..... 3.29 
+3.4.1 Use of different approaches and methodological Tiers when estimating emissions and removals 
+due to land-use change ................................................................................................................. 3.30 
+3.5 
+Uncertainties Associated With The Approaches ................................................................................ 3.31 
+Annex 3A.1 
+Examples of international land cover datasets ........................................................................ 3.35 
+Annex 3A.2 
+Development of land-use databases ........................................................................................ 3.37 
+Annex 3A.3 
+Sampling ................................................................................................................................. 3.45 
+Annex 3A.4 
+Overview of potential methods for developing Approach 3 datasets ...................................... 3.45 
+Annex 3A.5 
+Default climate and soil classifications ................................................................................... 3.45 
+Annex 3A.6 
+Example process for allocating lands to IPCC land-use classes using Approach 3 wall-to-wall 
+methods ................................................................................................................................... 3.51 
+References ........................................................................................................................................................... 3.53 
+Figures 
+Figure 3.1 
+Decision tree for preparation of land-use area data ................................................................ 3.21 
+Figure 3A.5.1 (Updated) Delineation of major climate zones, updated from the 2006 IPCC Guidelines. ........ 3.47 
+Figure 3A.5.2 
+Classification scheme for default climate regions .................................................................. 3.48 
+Figure 3A.5.3 
+Classification scheme for mineral soil types based on USDA taxonomy .............................. 3.49 
+Figure 3A.5.4 
+Classification scheme for mineral soil types based on World Reference Base for Soil Resources 
+(WRB) classification .............................................................................................................. 3.50 
+Figure 3A.6.1 (New) Decision tree for classifying land-use and land-use change through time ........ in Approach 3
+ ............................................................................................................................................... 3.52 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+Table 3.1 
+Example stratifications with supporting data for Tier 1 emissions estimation methods ........ 3.11 
+Table 3.2 
+Example of Approach 1: Available  land  use data with complete national  coverage .......... 3.14 
+Table 3.3 
+Illustrative example of stratification of data for approach 1 .................................................. 3.15 
+Table 3.4 
+Illustrative example of tabulating all land-use conversion for approach 2 including nationally 
+defined Strata ......................................................................................................................... 3.17 
+Table 3.5 
+Illustrative example of approach 2 data in a land-use conversion matrix with category 
+stratification ........................................................................................................................... 3.18 
+Table 3.6 
+Simplified land-use conversion matrix for approach 2 example ............................................ 3.18 
+Table 3.6a (New)  Examples of different data inputs and methods to derive IPCC land-use classes and the 
+resulting approaches (1, 2 or 3) .............................................................................................. 3.20 
+Table 3.6b (New)  Examples of auxiliary data and possible assumptions that can help to determine and stratify 
+land-use .................................................................................................................................. 3.28 
+Table 3.7 
+Summary of uncertainties under approaches 1 to 3 ............................................................... 3.32 
+Table 3A.1.1 (Updated) Examples of global land cover datasets in 2017 ......................................................... 3.35 
+Box 
+Box 3.1a (New) Examples of assigning IPCC land-use and land-use change categories ...................................... 9 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.5 
+3 CONSISTENT REPRESENTATION OF LANDS 
+3.1 
+INTRODUCTION 
+This chapter provides guidance on using different types of data to represent land-use categories, and conversions 
+between land-use categories, so that they are applied as appropriately and consistently as possible in inventory 
+calculations.  
+Countries use various methods to obtain data, including annual census, periodic surveys and remote sensing. Each 
+of these methods of data collection will yield different types of information (e.g., maps or tabulations), at different 
+reporting frequencies, and with different attributes. Guidance is provided on the use of three generic approaches.   
+Approach 1 identifies the total area for each individual land-use category within a country, but does not provide 
+detailed information on the nature of conversions between land uses. Approach 2 introduces tracking of 
+conversions between land-use categories. Approach 3 extends Approach 2 by allowing land-use conversions to be 
+tracked through time on a spatially explicit basis. Countries may use a mix of Approaches for different regions 
+over time. 
+The guidance presented here is intended to assist countries in making the best use of available data and reducing, 
+as far as practicable, possible overlaps and omissions in reporting. The guidance allows informed decisions on the 
+appropriate use of data of different types by those preparing greenhouse gas inventories, but is not intended to be 
+prescriptive on how data may be collected.  Generally, all data should be:  
+• adequate, i.e., capable of representing land-use categories, and conversions between land-use categories, as 
+needed to estimate carbon stock changes and greenhouse gas emissions and removals;  
+• consistent, i.e., capable of representing land-use categories consistently over time, without being unduly 
+affected by artificial discontinuities in time-series data; 
+• complete, which means that all land within a country should be included, with increases in some areas balanced 
+by decreases in others, recognizing the bio-physical stratification of land if needed (and as can be supported 
+by data) for estimating and reporting emissions and removals of greenhouse gases; and 
+• transparent, i.e., data sources, definitions, methodologies and assumptions should be clearly described. 
+• The descriptions of land use follow the framework of:  
+• land-use category - is the broad land use (one of the six land-use categories described below) reported as either 
+land remaining in a land-use category (i.e., remaining in the same use throughout the inventory time-series) or 
+land converted to a new land-use category (representing a change in land use).  
+• sub-category - refers to special circumstances (e.g., areas of grazing within Forest Land) that are estimated and 
+reported separately but do not duplicate land in the broad land-use category.  
+• Land-use categories and sub-categories may be further stratified on the basis of land-use practices and bio-
+physical characteristics in order to create more homogeneous spatial units as may be used for emissions 
+estimation (see Table 3.1 for examples). 
+Using the above approaches and framework, consistent representation of lands at the national level for inventory 
+purposes is achieved by following the main steps outlined below: 
+1. provide country-specific definitions of land-use categories (see Section 3.2); 
+2. decide which Approaches and methods to use to develop activity data (see Sections 3.3.1 and 3.3.3), 
+considering the methods to be used for estimating greenhouse gas emissions and removals (see Section 3.4) 
+and for estimating uncertainties (see Section 3.5).; 
+3. stratify the entire land area of the country as appropriate (see Section 3.3.6); 
+4. obtain data for these categories ensuring that the data cover the total land area of the country (see Section 3.2 
+and 3.3); 
+5. where needed, develop rules to translate land cover information into IPCC land-use and land-use change 
+categories, using auxiliary information as appropriate (see Section 3.3.5); 
+6. collect additional information if required (e.g., in situ or ground reference data, sampling, land use statistics 
+etc.); 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7. develop area estimates for land-use and land-use change categories according to good practice ensuring that 
+all IPCC requirements for completeness, avoidance of double-counting, accuracy and time-series consistency 
+(Chapter 5, Volume 1), are met; 
+8. develop uncertainty estimates for the area estimates (see section 3.5). 
+3.2 
+LAND-USE CATEGORIES 
+While the terms “land-use” and “land cover” are sometimes used interchangeably, they are not the same. Land 
+cover refers to the bio-physical coverage of land (e.g., bare soil, rocks, forests, buildings and roads or lakes). Land-
+use refers to the socioeconomic use that is made of the land (e.g. agriculture, commerce, residential use or 
+recreation) (UNEP/FAO 1993). The definitions of land-use categories may incorporate management options and 
+predominance over other land-uses when a land is subject to multiple uses.  
+Attribution is the process of associating observed land cover and cover changes with land-use and land use change. 
+Because different management and disturbance types have different impacts on carbon stocks and GHG emissions, 
+knowledge of the cause of disturbance is needed not only to estimate areas of land-use and land-use change but 
+also to estimate the associated GHG emissions and removals.  
+The six broad land-use categories described below form the basis for estimating and reporting greenhouse gas 
+emissions and removals from land-use and land-use conversions. The land-uses may be considered as top-level 
+categories for representing all land-use areas, with sub-divisions describing specific circumstances significant to 
+emissions estimation. The categories are broad enough to classify all land areas in most countries and to 
+accommodate differences in national land-use classification systems, and may be readily stratified (e.g., by climate 
+or ecological zones). The categories (and sub-categories) are intended to be identified through the use of 
+Approaches for representing land-use area data described in subsequent sections.  
+The land-use categories for greenhouse gas inventory reporting are listed below. These definitions are provided 
+for the IPCC land-use categories because they are:  
+• robust as a basis for emissions and removals estimation; 
+• implementable; and  
+• complete, in that all land areas in a country may be classified by these categories without duplication. 
+(i) Forest Land 
+This category includes all land with woody vegetation consistent with thresholds used to define Forest Land in the 
+national greenhouse gas inventory. It also includes systems with a vegetation structure that currently fall below, 
+but in situ could potentially reach the threshold values used by a country to define the Forest Land category. 
+(ii) Cropland  
+This category includes cropped land, including rice fields, and agro-forestry systems where the vegetation structure 
+falls below the thresholds used for the Forest Land category.  
+(iii) Grassland  
+This category includes rangelands and pasture land that are not considered Cropland. It also includes systems with 
+woody vegetation and other non-grass vegetation such as herbs and bushes that fall below the threshold values 
+used in the Forest Land category. The category also includes all grassland from wild lands to recreational areas as 
+well as agricultural and silvi-pastural systems, consistent with national definitions. 
+(iv) Wetlands  
+This category includes areas of peat extraction and land that is covered or saturated by water for all or part of the 
+year (peatlands and other wetland types) and that does not fall into the Forest Land, Cropland, Grassland or 
+Settlements categories. It includes reservoirs as a managed sub-division and natural rivers and lakes as unmanaged 
+sub-divisions. Further definitions of wetlands sub-divisions are provided in the IPCC Wetland Supplement (IPCC 
+2014). 
+(v) Settlements  
+This category includes all developed land, including transportation infrastructure and human settlements of any 
+size, unless they are already included under other categories. This should be consistent with national definitions. 
+(vi) Other Land 
+This category includes bare soil, rock, ice, and all land areas that do not fall into any of the other five categories. 
+It allows the total of identified land areas to match the national area, where data are available.  
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.7 
+If data are available, countries are encouraged to classify unmanaged lands by the above land-use categories (e.g., 
+into Unmanaged Forest Land, Unmanaged Grassland, and Unmanaged Wetlands). This will improve transparency 
+and enhance the ability to track land-use conversions from specific types of unmanaged lands into the categories 
+above. 
+Countries can apply other definitions within the IPCC categories, which may or may not refer to internationally 
+accepted definitions, such as those proposed by FAO, Ramsar1, SEEA2, WCA3 and others. However, where there 
+are inconsistencies between these other definitions and the IPCC land-use categories definitions, the data should 
+be adjusted to fit within the IPCC categories. To ensure and show consistency and completeness of the land 
+representation reported, it is good practice to map the relationship between IPCC land-use categories and any other 
+land-use and land cover classification systems4 from which data for the land representation are derived. All 
+definitions and classifications of land-use categories (and sub-categories) should be specified at the national level, 
+described in a transparent manner, and be applied consistently over time. To avoid double-counting of land areas 
+or misallocation of lands, each land unit is only reported in one category (or sub-division) in each year. 
+When moving unmanaged land to managed land, it is good practice to describe the processes that lead to the re-
+categorization. Managed land generally cannot become unmanaged as the legacy effects of past management can 
+continue for extended periods, and such moves could result in anthropogenic emissions and removals being 
+unreported. 
+Where countries choose to develop country-specific methods for addressing issues of interannual variability (IAV), 
+it is good practice to describe the methods used to identify lands subject to natural disturbances (see Section 2.6, 
+Chapter 2, Volume 4) and to transparently report the area of these lands together with the rest of the lands in the 
+same land use category.  
+LAND-USE CONVERSIONS 
+Full application of the guidance requires estimation of land-use conversions that take place between data collection 
+intervals, particularly when different carbon stock estimates and different emission and removal factors are 
+associated with lands before and after a transition. Applicable land-uses and land-use conversions are shown below: 
+FF 
+= 
+Forest land Remaining Forest land 
+ 
+LF 
+= 
+Land Converted to Forest land 
+CC 
+= 
+Cropland Remaining Cropland 
+ 
+LC 
+= 
+Land Converted to Cropland 
+GG 
+= 
+Grassland Remaining Grassland 
+ 
+LG 
+= 
+Land Converted to Grassland 
+ 
+ 
+ 
+WW 
+= 
+Wetlands Remaining Wetlands 
+ 
+LW 
+= 
+Land Converted to Wetlands 
+SS 
+= 
+Settlements Remaining Settlements 
+ 
+LS 
+= 
+Land Converted to Settlements 
+OO 
+= 
+Other Land Remaining Other Land 
+ 
+LO 
+= 
+Land Converted to Other Land 
+Where detailed data about the origin of land converted to a category are available (which will depend on the 
+Approach available to a country to represent land-use areas), countries can specify the land-use conversion. For 
+example, LC can be sub-divided into Forest Land Converted to Cropland (FC) and Grassland Converted to 
+Cropland (GC). While both land areas end up in the Cropland category, the differences in their emissions and 
+removals of greenhouse gases due to their origin should be represented and reported wherever possible. When 
+applying these land-use category conversions, countries should classify land under only one (end land-use) 
+category to prevent double counting. The reporting category is therefore the end-use category, not the category of 
+origin prior to the land-use conversion.  
+If a country's national land-use classification system does not match categories (i) to (vi) as described above, the 
+land-use classifications should be combined or disaggregated in order to represent the categories presented here. 
+(See Section 3.3.5 “Derivation of IPCC Land-Use Categories from Land Cover Information” in this Chapter). 
+Countries should report on the procedure adopted for the reallocation. The national definitions for all categories 
+used in the inventory and any threshold or parameter values used in the definitions should be specified. Where 
+ 
+1  Refers to Ramsar Convention on Wetlands. The Convention on Wetlands, signed in Ramsar, Iran, in 1971, is an 
+intergovernmental treaty which provides the framework for national action and international cooperation for the conservation 
+and wise use of wetlands and their resources. 
+2 System of Environmental Economic Accounting (SEEA) - https://seea.un.org/  
+3 World Programme for the Census of Agriculture (WCA) - http://www.fao.org/world-census-agriculture/en/ 
+4 The relationship between IPCC, SEEA, WCA and FAO land cover and land-use classifications can be found at: 
+http://www.fao.org/economic/ess/ess-standards 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+national land classification systems are being changed or developed for the first time, compatibility with land-use 
+classes (i) to (vi) above should be sought. 
+The broad land-use categories listed above may be further stratified (as described in Section 3.3.6) by climate or 
+ecological zone, soil and vegetation type, etc., as necessary, to match land areas with the methods for assessing 
+carbon stock changes and greenhouse gas emissions and removals described in Chapters 2 and 4 to 9 of this 
+Volume. Default climate and soil classification schemes are provided in Annex 3A.5. Examples of stratifications 
+that are used for Tier 1 emissions and removals estimation are summarized in Table 3.1. Specific stratification 
+systems vary by land use and carbon pools and are used in the estimation methods later in this Volume. Guidance 
+on stratifying land-use areas to match data needs for estimating emissions and removals is provided in Section 
+3.3.6 of this chapter.  
+The method of determining areas of land-use and land-use change should be capable of representing lands 
+according to the definitions applied by the country, and ensure that losses or gains smaller than the minimum 
+mapping unit do not lead to bias in emission and removal estimates. 
+In some cases, the spatial resolution of existing maps or sample units may be coarser than the definitions used to 
+describe some of the land-use categories (e.g., if the Forest Land definition applied by a country includes a 
+minimum area of, say, one hectare, yet the available land-use data has a minimum mapping unit of five hectares). 
+This may lead to a situation where:  
+• small areas of one or more land-use categories are reported under another category; and,  
+• areas of land-use change are either under or overestimated.  
+Where this occurs, it is good practice to assess the extent of under or over reporting and, where necessary, 
+supplement the results with further samples or auxiliary information (e.g., concession boundaries, subsidies for 
+land use changes or land management) that reflect the chosen definitions to validate the results and/or correct for 
+these errors.  Where data are not available, techniques provided in Chapter 5 of Volume 1: Time Series Consistency 
+can be used to address the data gaps. 
+When land cover change information is used, auxiliary data is commonly required to allocate land cover change 
+to the underlying cause of disturbance and to assign lands to the IPCC land-use categories through time. This 
+process of attribution typically requires a combination of information including, but not limited to, past and current 
+land cover, management practices and country-specific decisions on a series of reporting rules (see Box 3.1a). 
+Moreover, reporting rules can also be applied to help countries determine how land-use change is categorized (Box 
+3.1a).  
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.9 
+BOX 3.1A (NEW) 
+EXAMPLES OF ASSIGNING IPCC LAND-USE AND LAND-USE CHANGE CATEGORIES 
+IPCC land-
+use categories 
+Key elements that may 
+need to be considered 
+Examples 
+Forest Land 
+Definition of Forest 
+Land to be applied to 
+determine areas of 
+Forest Land.  
+While countries can set their own definitions, Forest Land should 
+include all land with woody vegetation that meets country specific 
+thresholds (e.g., a combination of minimum canopy cover, minimum 
+height and minimum area) used to define Forest Lands. 
+Reporting lands 
+converted to Forest 
+Land but where the 
+vegetation structure 
+currently does not 
+necessarily meet the 
+national definition of 
+Forest Land.  
+When establishing new forests (e.g., reforestation, forest restoration) it 
+is often the case that the vegetation will not meet the national 
+definition of Forest Land for some years. However, this land can be 
+classed as Forest Land at the point of conversion. 
+Determining if the land has the ‘potential’ to reach the national 
+definitions can consider criteria such as 1) that a woody vegetation 
+type exists on the land (e.g., newly planted or regrowing trees), and 2) 
+it will be able to reach the Forest Land definition thresholds (e.g., the 
+forest type will be able meet the Forest Land definition on that land).  
+Countries typically document the assumptions used to assess if land 
+meets these criteria. Countries also often include the time period within 
+which the land should reach the Forest Land definition thresholds 
+following the conversion. 
+Reporting Forest Land 
+areas that in a specific 
+inventory year or years 
+fall below the country 
+definition of Forest 
+Land.  
+There are typically two reasons that Forest Land temporarily falls 
+below the country definition: 1) forest harvesting 2) other disturbances 
+(e.g., fire, pest attack). When cover loss is only temporary countries 
+generally continue to report these areas under Forest Land. Countries 
+may use tenure or forest type maps to determine if a loss of cover is 
+due to harvest or clearing. For other disturbances data on the type of 
+disturbance can be obtained from maps or statistical information.  
+It is possible that some areas of temporarily destocked Forest Land will 
+not recover to meet the definition of Forest Land. Countries can decide 
+how long an area of Forest Land can remain temporarily destocked 
+before it should be moved to a conversion category. The time chosen 
+typically depends on expected recovery rates and may vary by, for 
+example, forest type, land conditions and management practices and 
+tenure. 
+Cropland  
+Reporting lands that are 
+under opportunistic or 
+rotational 
+cropping/grazing/fallow 
+practices. 
+Management of agricultural lands often moves opportunistically 
+between cropping-pasture/grazing systems or fallow depending on 
+climate, soils and market conditions. Where this occurs countries may 
+choose to either 1) keep reporting these lands under the predominant 
+Land use, if any, or 2) transfer the lands between land use categories 
+each reporting year. Countries using option 1 still apply the methods 
+and emissions factors relevant for the actual land use and management 
+system for estimating emissions and removals. 
+Countries using option 1 typically document the land management 
+practices and how they are grouped into a land use. They also may 
+define the number of years after which if the land has not been cropped 
+the land is moved to Grassland.  
+Reporting of orchards, 
+agroforestry or other 
+woody crops. 
+Depending on the definition of Forest Land used, some areas of 
+orchards, agroforestry and woody crops can meet the definition of 
+Forest Land. Countries typically document which woody crops meet 
+the Forest Land definition and may also create sub-divisions under 
+Cropland or Forest Land to separate these lands.  
+Grassland 
+Reporting of wooded 
+areas and other non-
+grass vegetation such as 
+herbs and brushes that 
+fall below the threshold 
+values used in the 
+Forest Land category.  
+Where areas of wooded grasslands meet the national definition of 
+Forest Land, they are reported under Forest Land. There may also be 
+some areas of wooded grassland that are considered woody crops, such 
+as naturally occurring areas of fruit or nut trees. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 3.2A. (NEW) (CONTINUED) 
+EXAMPLES OF ASSIGNING IPCC LAND-USE AND LAND-USE CHANGE CATEGORIES 
+IPCC land-use 
+categories 
+Key elements that may 
+need to be considered 
+Examples 
+Wetlands 
+Separating different 
+types of Wetlands and 
+water bodies. 
+Wetlands include a range of different lands and waterways that 
+occur within a national boundary.  
+Countries typically adopt national definitions of Wetlands. Some 
+also use globally available products such as maps of wetlands 
+reported under the Ramsar [1] convention to assist with sub-
+categorisation. 
+Determining the 
+boundary between land 
+and marine systems. 
+In many areas there is an indistinct boundary between land and 
+marine ecosystems (e.g., mangroves).  
+To remain consistent with other areas of the inventory, countries 
+typically use the agreed national border to separate land from marine 
+systems. Emissions occurring in the marine ecosystem outside of the 
+national borders are not captured under the AFOLU sector. 
+Settlements 
+Reporting of areas that 
+could also be classified 
+as other land-uses. 
+Settlements may also contain lands with a cover that could be 
+included in other land uses, such as urban parks, lawns and small 
+semi-urban farms.  
+Where an area of land meets the national definition of Forest Land 
+then the land is reported as Forest Land. Other areas, such as lawns, 
+may be included under Settlements unless they meet the definition 
+applied for the other land uses, such as Grassland or Cropland. For 
+example, urban areas with a land cover of scattered trees and grass 
+are often classed as Settlements as they do not meet the definition of 
+Forest Land and are not managed in line with the national definitions 
+for other land use categories. 
+[1] https://www.ramsar.org/ 
+ 
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.11 
+TABLE 3.1 
+EXAMPLE STRATIFICATIONS WITH SUPPORTING DATA FOR TIER 1 EMISSIONS ESTIMATION METHODS 
+Factor 
+Strata 
+CLIMATE 
+(see Annex 3A.5) 
+Boreal 
+Cold temperate dry 
+Cold temperate wet 
+Warm temperate dry 
+Warm temperate moist 
+Tropical dry 
+Tropical moist 
+Tropical wet 
+SOIL 
+(see Annex 3A.5) 
+High activity clay 
+Low activity clay 
+Sandy 
+Spodic 
+Volcanic 
+Wetland 
+Organic 
+BIOMASS (ECOLOGICAL ZONE) 
+(see Figure 4.1, in Chapter 4 Forest 
+Land) 
+Tropical rainforest 
+Tropical moist deciduous forest 
+Tropical dry forest 
+Tropical shrubland 
+Tropical desert 
+Tropical mountain systems 
+Subtropical humid forest 
+Subtropical dry forest 
+Subtropical steppe 
+Subtropical desert 
+Subtropical mountain systems 
+Temperate oceanic forest 
+Temperate continental forest 
+Temperate steppe 
+Temperate desert 
+Temperate mountain systems 
+Boreal coniferous forest 
+Boreal tundra woodland 
+Boreal mountain systems 
+Polar 
+MANAGEMENT PRACTICES (more 
+than one may be applied to any land 
+area) 
+Intensive tillage/Reduced till/No-till 
+Long term cultivated 
+Perennial tree crop 
+Liming 
+High/Low/Medium Input Cropping Systems 
+Improved Grassland 
+Unimproved Grassland 
+3.3 
+REPRESENTING LAND-USE AREAS 
+This section describes three Approaches that may be used to represent areas of land-use using the categories 
+defined in the previous section. The Approaches are presented below in order of increasing information content. 
+Approach 1 identifies the total change in area for each individual land-use category within a country but does not 
+provide information on the nature and area of conversions between land-uses. Approach 2 introduces tracking of 
+land-use conversions between categories, but it does not allow land-use conversions to be tracked through time. 
+Approach 3 extends Approach 2 by allowing land-use conversions to be tracked through time on a spatially explicit 
+basis. 
+The Approaches are not presented as a hierarchical system. When considering which Approach to adopt countries 
+should consider their national circumstances, including data availability and quality, patterns of land use and land-
+use change, land management, ecosystem characteristics and the emissions estimation methods to be used. Using 
+activity data that are not consistent with the emissions estimation methods can decrease accuracy of carbon stock 
+changes and the associated emissions and removals estimates. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+The Approaches are not mutually exclusive, and a country can use a mix of Approaches for different regions of 
+the country and/or land uses based on national circumstances. In all cases, it is good practice to describe how the 
+approaches are used together and demonstrate how approaches applied cover all the land uses and land use changes, 
+provide consistent time-series and prevent misallocation of lands within and between land use categories. 
+All data should reflect the historical trends in land-use area, as needed for the inventory methods described in 
+Chapters 2 and 4 to 9 of this Volume. The commencement time for the historical data required is based on the 
+amount of time needed for dead organic matter and soil carbon stocks to reach equilibrium following land-use 
+conversion (20 years is recommended as a default, but can e.g. be longer, e.g., for temperate and boreal systems). 
+After the period to reach equilibrium has passed, land that was added to a land-use conversion category needs to 
+be transferred to “land remaining in a land-use category”. The time-series data on land-use conversion is therefore 
+also used to determine the annual transfer of area from the category “land converted to category” to “land 
+remaining in a land-use category”.  
+TIME-SERIES 
+Inventories require data on land-use area for at least two points in time relevant to the inventory year.  For 
+Approach 1 (identifying only the net national change in area of each land-use category, but not the transfers 
+between them), the historical land-use may still not be known. In such circumstances countries should either infer 
+the previous land-use (see Section 3.3.7 below) or assume that the land has remained in the land-use category for 
+all time prior to the land-use conversion. This assumption may underestimate removals where conversions to land-
+uses with higher carbon contents predominate, or underestimate emissions in the opposite case. 
+It is important that there is a consistent time-series in the preparation of land-use category and conversion data so 
+that artefact from method change is not included as an actual land-use conversion. Care should also be taken to 
+ensure that the areas of managed and unmanaged land are both defined and estimated consistently. The following 
+section details how to deal with changes in managed land areas (and consequent changes in carbon stock) when 
+using stock change methods for emissions estimation. 
+CONSISTENT USE OF LAND AREA IN CARBON STOCK ESTIMATES 
+Over the time-series of a national inventory, it is likely that the total area of managed lands will increase as 
+unmanaged lands are converted to managed land. In this case, where the land area is used to estimate the carbon 
+stock (when using a stock-difference method of emissions estimation), it is possible that the entry of additional 
+land into the inventory (by changing from an unmanaged to managed status) will incorrectly appear as a carbon 
+stock increase. This could wrongly be inferred as a removal from the atmosphere, whereas in reality it is only an 
+increase due to the expanded land-use area over the inventory time-series. To separate carbon stock increases 
+arising from changes in area from true carbon stock changes, carbon stock estimates should be recalculated for the 
+complete inventory time-series area whenever the total area of managed land changes in an annual inventory.  
+The maximum area of land (and associated carbon stock) at any point in the time-series should be used as the basis 
+for emissions and removals estimation throughout the inventory time-series. Carbon stocks on unmanaged lands 
+can be assumed to remain constant (thus, carbon stock changes would be zero) until the year in which land is 
+classified as a managed use. The recalculation will therefore change the initial carbon stock estimate in the year 
+the land entered the inventory but will not affect the estimation of carbon stock change over the inventory time-
+series until the relevant land becomes managed. 
+DATA AVAILABILITY 
+For many countries, implementing these inventory guidelines may require new data collection. Annex 3A.2.4 
+provides guidance on remote sensing techniques, Annex 3A.3 provides general guidance on sampling techniques 
+and Annex 3A.4 on spatially explicit (Approach 3) datasets. Where the data needed to apply these inventory 
+guidelines on land-use are not available nationally, data on land categories may be derived from global datasets. 
+For instance, FAO has such datasets, however, care should be taken as these are compiled with national data, 
+(primary data), or secondary data gathered by a third party. More examples are provided in Annex 3A.1, but 
+generally report on the basis of land cover only, and not land-use (See Section 3.3.5). It is preferable that data used 
+should be capable of producing input to uncertainty calculations (See Section 3.5).  
+When using land-use data, inventory compilers should: 
+• Harmonize definitions between the existing independent databases as well as with the land-use categories to 
+minimize gaps and overlaps. For example, overlaps might occur if woodland on farms were included both in 
+forestry and agricultural datasets. In order to harmonize data, the woodland should be counted only once for 
+greenhouse gas inventory purposes, taking into account the forest definition adopted nationally (See Section 
+“Multiple land-uses in a single unit of land”). Information on possible overlaps for the purposes of 
+harmonization should be available from agencies responsible for surveys. Harmonization of definitions does 
+not mean that agencies should abandon definitions that are of use to them but should establish the relationship 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.13 
+between definitions in use with the aim of eliminating double counting and omissions. This should be done 
+throughout the dataset to maintain time-series consistency. 
+• Ensure that the land-use categories used can identify all relevant activities. For example, if a country needs to 
+track a managed land-use category such as Forest Land, then the classification system must distinguish 
+managed from unmanaged Forest Land. 
+• Ensure that data acquisition methods are reliable, well documented methodologically, timely, at an appropriate 
+scale, and from reliable sources.  
+• Ensure the consistent application of category definitions between time periods. For example, countries should 
+check whether the definition of forest has changed over time in terms of tree crown cover and other parameters. 
+If changes are identified, use the corrected data for recalculation consistently throughout the time-series, and 
+report on actions taken. Guidance on recalculation can be found in Volume 1 Chapter 5. 
+• Prepare uncertainty estimates for those land-use areas and conversions in area that will be used in the estimation 
+of carbon stock changes, greenhouse gas emissions and removals. 
+• Ensure that the national land area is consistent across the inventory time-series; otherwise stock changes will 
+reflect false C increases or decreases due to a change in total land area accounted for when using a stock change 
+emissions estimation method.  
+• Assess whether the sum of the areas in the land classification databases is consistent with the total national 
+area, given the level of data uncertainty. If coverage is complete, then the net sum of all the changes in land 
+area between two time periods should be zero to within the uncertainties involved. In cases where coverage is 
+incomplete, the difference between the area covered and the national area should, in general, be stable or vary 
+slowly with time, again to within the uncertainties expected in the data. If the balancing term varies rapidly, or 
+(in the case of complete coverage) sums are not equal, inventory compilers should investigate, explain, and 
+make any corrections necessary. These checks on the total area should take into account the uncertainties in 
+the annual or periodic surveys or censuses involved. Information on uncertainties should be obtained from the 
+agencies responsible for the surveys. Remaining differences between the sum of areas accounted for by the 
+available data and the national area should be within the expected uncertainty for area estimation. 
+For some activities reported, such as the application of nitrogen fertilizer, liming and harvested wood products, 
+only national aggregate data may be available. Where emissions and removals estimation methods are applied at 
+a national level, it is appropriate to use such data without categorization by land-use 
+3.3.1 
+Three Approaches 
+APPROACH 1: 
+TOTAL LAND-USE AREA, NO DATA ON 
+CONVERSIONS BETWEEN LAND-USES 
+Approach 1 represents land-use area totals within a defined spatial unit, which is often defined by political 
+boundaries, such as a country, province or municipality. Another characteristic of Approach 1 data is that only the 
+net changes in land-use area can be tracked through time. Consequently, the exact location or pattern of the land-
+uses is not known within the spatial unit, and moreover the exact changes in land-use categories cannot be 
+ascertained. Datasets are likely to have been prepared for other purposes, such as forestry or agricultural statistics. 
+Frequently, several datasets will be combined to cover all national land classifications and regions of a country. In 
+this case the absence of a unified data system can potentially lead to double counting or omission, since the 
+agencies involved may use different definitions of specific land-use for assembling their databases. Ways to deal 
+with this are suggested below.  
+Tables 3.2 and 3.3 show summary land-use area data for a hypothetical country (with a national land area of 140 
+million ha) using locally relevant land classifications. Table 3.2. is prepared at the level of the broad land-use 
+categories. Table 3.3 depicts the same information with example stratifications to estimate the effect of various 
+activities using the emissions estimation methods described elsewhere in this Volume.  
+Determination of the area of land-use conversion in each category is based on the difference in area at two points 
+in time, either with partial or full land area coverage. No specification of inter-category conversions (i.e., ‘land 
+remaining in a land-use category’ and ‘land converted to a new land-use category’) is possible under Approach 1 
+unless supplementary data are available (which would then introduce a mix with Approach 2).  
+The land-use area data may come originally from periodic sample survey data, maps or censuses (such as 
+landowner surveys), but will probably not be spatially explicit. The sum of all land-use category areas may or may 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+not equal the total area of the country or region under consideration, and the net result of land-use conversions 
+may or may not equal zero, depending on the consistency in data collection and application in the inventories for 
+each land-use category. The final result of this Approach is a table of land-use at given points in time.  Because 
+the total land base that is reported each year for all land-use categories should remain constant, a table similar to 
+Table 3.3 should be generated as a QA/QC measure.  If inconsistencies are found, it is good practice to identify 
+and correct the problem(s) for future inventories. This may require closer coordination among inventory teams for 
+separate land-use categories (if analysed separately) or possibly new surveys or other types of data collection. 
+Other parts of this Volume require information on land area in each land-use category presented in Table 3.3 to be 
+broken down into the categories “land remaining in the same land-use category” and “land converted to a new 
+land-use category”. This is dependent on methodological requirements in other chapters of this Volume. If land-
+use data are not sufficient to support Approach 2 (see below), where the total (gross) land conversion areas can be 
+quantified, the emissions and removals may be reported in the “land remaining in the same land-use category” (as 
+specified in Table 3.2). This is because the data may only be sufficient to identify the net change in area of each 
+land-use category, and not the total effect of all land conversions. However, in general the methods for both soils 
+and biomass related emissions estimation require land area data categorized by “lands remaining” and “converted 
+to” categories and thus it is desirable to do this if possible, even if this is done using expert judgment.   
+Note that by reporting only in the “land remaining” category, emissions and removals will include, but not 
+explicitly reflect a changing land base within a land-use category (different areas, e.g., by the net transition in areas 
+to and from the Forest Land category) over time. This may overestimate or underestimate emissions for that 
+particular “land remaining” category. However, a complete inventory will tend to counter-balance this with 
+emissions and removals from another “land remaining” category in the inventory.  
+It is acceptable to report non-CO2 emission by source category without attribution to land-uses if emissions are 
+estimated based on national statistics, without reference to individual land-uses (e.g., N2O emissions from soils).  
+Methods outlined in this Volume frequently estimate emissions using national statistics in this manner. 
+TABLE 3.2 
+EXAMPLE OF APPROACH 1: AVAILABLE LAND USE DATA WITH COMPLETE NATIONAL  COVERAGE 
+Time 1 
+Time 2 
+Net land-use conversion  
+between Time 1 and Time 2 
+F 
+= 
+18 
+F 
+= 
+19 
+Forest Land 
+= 
++1 
+G 
+= 
+84 
+G 
+= 
+82 
+Grassland 
+= 
+-2 
+C 
+= 
+31 
+C 
+= 
+29 
+Cropland 
+= 
+-2 
+W 
+= 
+0 
+W 
+= 
+0 
+Wetlands 
+= 
+0 
+S 
+= 
+5 
+S 
+= 
+8 
+Settlements 
+= 
++3 
+O 
+= 
+2 
+O 
+= 
+2 
+Other Land 
+= 
+0 
+Sum 
+= 
+140 
+Sum 
+= 
+140 
+Sum 
+= 
+0 
+Note: F = Forest Land, G = Grassland, C = Cropland, W = Wetlands, S = Settlements, O = Other Land. Numbers represent 
+area units (Mha in this example). 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.15 
+TABLE 3.3 
+ILLUSTRATIVE EXAMPLE OF STRATIFICATION OF DATA FOR APPROACH 1 
+Land-use category/ 
+strata 
+Initial land area 
+(million ha) 
+Final land area 
+(million ha) 
+Net Change in area 
+(million ha) 
+Status 
+Forest Land total 
+18 
+19 
+1 
+ 
+Forest Land 
+(Unmanaged) 
+5 
+5 
+0 
+Not included in the 
+inventory estimates 
+Forest Land 
+(temperate 
+continental forest; 
+converted to 
+another land-use 
+ 
+7 
+ 8 
+1 
+Estimates should be 
+prepared on the 8 
+million ha 
+Forest Land (boreal 
+coniferous)   
+6 
+6 
+0 
+No land-use 
+conversion. Could 
+require stratification 
+for different 
+management 
+regimes etc. 
+Grassland total 
+84 
+82 
+-2 
+ 
+Grassland 
+(Unimproved)  
+65 
+63 
+-2 
+Fall in area 
+indicates land-use 
+conversion. Could 
+require stratification 
+for different 
+management 
+regimes etc. 
+Grassland 
+(Improved)  
+19 
+19 
+0 
+No land-use 
+conversion. Could 
+require stratification 
+for different 
+management 
+regimes etc. 
+Cropland total 
+31 
+29 
+-2 
+Fall in area 
+indicates land-use 
+conversion. Could 
+require stratification 
+for different 
+management 
+regimes etc. 
+Wetlands total 
+0 
+0 
+0 
+ 
+Settlements total 
+5 
+8 
+3 
+ 
+Other Land total 
+2 
+2 
+0 
+Unmanaged - not in 
+inventory estimates 
+TOTAL 
+140 
+140 
+0 
+Note: areas should 
+reconcile 
+Note: “Initial” is the category at a time previous to the date for which the assessment is made and “Final” is the category 
+at the date of assessment. Activities for which location data are not available should be identified by further sub-
+categorisation of an appropriate land category. 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+APPROACH 2: 
+TOTAL LAND-USE AREA, INCLUDING CHANGES 
+BETWEEN CATEGORIES 
+The essential feature of Approach 2 is that it provides an assessment of both total losses and gains in the area of 
+specific land-use categories and what these conversions represent (i.e., changes both from and to a category). Thus, 
+Approach 2 differs from Approach 1 in that it includes information on conversions between categories, but is still 
+only tracking those changes across two points in time. Tracking land-use conversions in this manner will normally 
+require estimation of initial and final land-use categories for all conversion types, as well as of total area of 
+unchanged land by category. The final result of this Approach can be presented as a non-spatially-explicit land-
+use conversion matrix. The matrix form is a compact format for representing the areas that have come under 
+different conversions between all possible land-use categories. Existing land-use databases may have sufficient 
+detail for this Approach, or it may be necessary to obtain data through sampling or other methods. The input data 
+may or may not have originally been spatially-explicit (i.e., mapped or otherwise geographically referenced). 
+For Approach 2, emission and removal factors can be chosen to reflect differences in the rate of changes in carbon 
+according to the conversions between any two categories, and differences in initial carbon stocks associated with 
+different land-uses can be taken into account. For example, the rate of soil organic carbon loss will commonly be 
+much higher from cropping than from pasture. 
+Approach 2 is illustrated in Table 3.4 using the data from the Approach 1 example (Table 3.3) by adding 
+information on all the conversions taking place. Such data can be written in the more compact form of a matrix 
+and this is presented in Table 3.5. To illustrate the added value of Approach 2 and this land-use conversion matrix 
+format, the data of Table 3.5 is given in Table 3.6 without the stratification of the land-use categories. This can be 
+compared with the more limited information from Approach 1 in Table 3.2. In Table 3.6, the conversions into and 
+out of land categories can be tracked, whereas in Table 3.2 only the net changes in a broad land-use category are 
+detectable.    
+In Tables 3.5 and 3.6, the area in the diagonal cells represents the area in each land-use category that was not 
+affected by land-use conversion in this inventory year. In preparation for the greenhouse gas emission and removal 
+estimations described elsewhere in this Volume, this area should be further sub-divided into the area that has 
+remained in the land-use category and area that has been affected by a land-use conversion (i.e., the land converted 
+to a different land-use category) in the previous Y years (where Y is the time period during which C pools are 
+expected to reach equilibrium (the IPCC default is 20 years, based on soil C pools typical time to equilibrium after 
+land-use conversion).  
+Therefore, under the default assumption in every inventory year, the area converted to a land-use category should 
+be added to the category “land converted to” and the same area removed from the land remaining in the land-use 
+category. The area of land that entered that “land converted to” category, 21 years ago (if using the default 20 year 
+period), should be removed and added to the category “land remaining land”. For example, in Table 3.5 if data 
+indicated that four of the 56 Mha in the Grassland category had been converted from Forest Land 21 years ago, 
+then four Mha of land should be moved from the category Land Converted to Grassland to the category Grassland 
+Remaining Grassland in this annual inventory. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.17 
+TABLE 3.4 
+ILLUSTRATIVE EXAMPLE OF TABULATING ALL LAND-USE CONVERSION FOR APPROACH 2 INCLUDING NATIONALLY 
+DEFINED STRATA 
+Initial land-use 
+Final land-use 
+Land area, Mha 
+Inclusions/Exclusions 
+Forest Land (Unmanaged) 
+Forest Land (Unmanaged) 
+5 
+Excluded from GHG inventory 
+Forest Land (Managed, 
+temperate continental) 
+Forest Land (Managed, 
+temperate continental) 
+ 4 
+Included in GHG inventory 
+Forest Land (Managed, 
+temperate continental) 
+Grassland (Unimproved) 
+2 
+Included in GHG inventory 
+Forest Land (Managed, 
+temperate continental) 
+Settlements 
+1 
+Included in GHG inventory 
+Forest Land (Managed, 
+boreal coniferous) 
+Forest Land (Managed, 
+boreal coniferous) 
+6 
+Included in GHG inventory 
+Grassland (Unimproved) 
+Grassland (Unimproved) 
+61 
+Included in GHG inventory 
+Grassland (Unimproved) 
+Grassland (Improved) 
+2 
+Included in GHG inventory 
+Grassland (Unimproved) 
+Forest Land (Managed, 
+temperate continental) 
+1 
+Included in GHG inventory 
+Grassland (Unimproved) 
+Settlements 
+1 
+Included in GHG inventory 
+Grassland (Improved) 
+Grassland (Improved) 
+17 
+Included in GHG inventory 
+Grassland (Improved) 
+Forest Land (Managed, 
+temperate continental) 
+2 
+Included in GHG inventory 
+Cropland 
+Cropland 
+29 
+Included in GHG inventory 
+Cropland 
+Forest Land (Managed, 
+temperate continental) 
+1 
+Included in GHG inventory 
+Cropland 
+Settlements 
+1 
+Included in GHG inventory 
+Wetlands 
+Wetlands 
+0 
+Included in GHG inventory 
+Settlements 
+Settlements 
+5 
+Included in GHG inventory 
+Other Land 
+Other Land 
+2 
+Excluded from GHG inventory 
+TOTAL 
+ 
+140 
+ 
+Note: Data are a stratified version of those in Table 3.3. Sub-categories are nationally defined and are illustrative only. 
+“Initial” indicates the category at a time previous to the date for which the assessment is made and “Final” the category 
+at the date of assessment. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 3.5 
+ILLUSTRATIVE EXAMPLE OF APPROACH 2 DATA IN A LAND-USE CONVERSION MATRIX WITH CATEGORY STRATIFICATION  
+ 
+         Initial  
+ 
+ 
+Final 
+Forest 
+Land 
+(unman-
+aged) 
+Forest Land 
+(managed, 
+temperate 
+continental) 
+Forest Land 
+(managed, 
+boreal 
+coniferous) 
+Grasslan
+d (unim-
+proved) 
+Grass-
+land (im-
+proved) 
+Croplan
+d 
+Wetland
+s 
+ 
+Settle-
+ments 
+Other 
+Land 
+Final 
+area 
+Forest Land 
+(unman-
+aged) 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Forest Land 
+(managed, 
+temperate 
+continental) 
+ 
+4 
+ 
+1 
+2 
+1 
+ 
+ 
+ 
+8 
+Forest Land 
+(managed, 
+boreal 
+coniferous) 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Grassland  
+(unim-
+proved) 
+ 
+2 
+ 
+61 
+ 
+ 
+ 
+ 
+ 
+63 
+Grassland 
+(improved) 
+ 
+ 
+ 
+2 
+17 
+ 
+ 
+ 
+ 
+19 
+Cropland 
+ 
+ 
+ 
+ 
+ 
+29 
+ 
+ 
+ 
+29 
+Wetlands 
+ 
+ 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+0 
+Settlements 
+ 
+1 
+ 
+1 
+ 
+1 
+ 
+5 
+ 
+8 
+Other Land 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+Initial area 
+5 
+7 
+6 
+65 
+19 
+31 
+0 
+5 
+2 
+140 
+Net change 
+0 
+1 
+0 
+-2 
+0 
+-2 
+0 
++3 
+0 
+0 
+Note: Column and row totals show net conversion of land-use as presented in Table 3.3. “Initial” indicates the category at a 
+time previous to the date for which the assessment is made and “Final” the category at the date of assessment. Net changes 
+(bottom row) are the final area minus the initial area for each of the (conversion) categories shown at the head of the 
+corresponding column.   Blank entry indicates no land-use conversion for this transition. 
+ 
+TABLE 3.6 
+SIMPLIFIED LAND-USE CONVERSION MATRIX FOR APPROACH 2 EXAMPLE 
+Gross and Net land-use conversion matrix 
+                 Initial    
+Final 
+F 
+G 
+C 
+W 
+S 
+O 
+Final sum 
+F 
+15 
+3 
+1 
+ 
+ 
+ 
+19 
+G 
+2 
+80 
+ 
+ 
+ 
+ 
+82 
+C 
+ 
+ 
+29 
+ 
+ 
+ 
+29 
+W 
+ 
+ 
+ 
+0 
+ 
+ 
+0 
+S 
+1 
+1 
+1 
+ 
+5 
+ 
+8 
+O 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+Initial sum 
+18 
+84 
+31 
+0 
+5 
+2 
+140 
+Note:  
+F   = Forest Land,      G   = Grassland,      C   = Cropland,       W  = Wetlands, 
+S   = Settlements,     O  = Other Land 
+Numbers represent area units (Mha in this example). 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.19 
+APPROACH 3: 
+SPATIALLY-EXPLICIT LAND-USE CONVERSION 
+DATA 
+The key defining characteristic of Approach 3 is that it is both spatially and temporally consistent and explicit. 
+Sample-based, survey-based and wall-to-wall methods can be considered Approach 3 depending on the design of 
+the sampling/mapping program and the way the data is processed and analysed (Table 3.6A). The decision to use 
+sample based, survey based or wall-to-wall methods, and how to process them, depends on national circumstances 
+and the method applied to estimate carbon stock changes and the associated emissions and removals.  
+Approach 3 data can be summarized in tables similar to Tables 3.5 and 3.6. The main advantage of spatially-
+explicit data is that analysis tools such as Geographic Information Systems can be used to link multiple spatially-
+explicit data sets (such as those used for stratification) and describe in detail the conditions on a particular piece 
+of land prior to and after a land-use conversion. This analytical capacity can improve emissions estimates by better 
+aligning land-use categories (and conversions) with strata mapped for classification of carbon stocks and emission 
+factors by soil type, vegetation type. This may be particularly applicable for Tier 3 emission estimation 
+methodologies. However, issues of compatible and comparable spatial resolutions need to be taken into account. 
+An overview of potential methods for developing Approach 3 datasets is provided in Annex 3A.4. 
+3.3.2 
+Data of Land Representation 
+Figure 3.1 is a decision tree to assist in describing and/or obtaining the data on land-use areas. It provides guidance 
+on which Approach and method a country can use for representing lands depending on the availability of primary 
+and secondary datasets. Approach 3 method, for example, can be applied if spatially explicit land-use data is 
+available for the whole country including complete time series coverage. Geographically mixed Approach (1, 2 & 
+3) can be used where limited spatial data is available. As shown in this figure, where data is missing new data can 
+be collected or international datasets can be used to minimise gaps in geographical coverage. Similarly, 
+interpolation or extrapolation techniques can be used where complete time series is not available and new data 
+cannot be collected. This will ensure all lands are represented consistently using one of the three generic 
+approaches. Lastly, it is important to document the choice of methods applied for land representation. 
+All three Approaches can, if implemented appropriately and consistently, be used to produce robust greenhouse 
+gas emission and removal estimates. However, it should be noted that Approach 1 will probably not detect changes 
+in biomass, such as those due to the full extent of deforestation and reforestation on separate areas of land, but 
+only those due to the net conversion of land-use area from a forest to a non-forest use. In general, only Approach 
+3 will allow for the spatial representation required as an input to spatially-based carbon models.  
+Different Approaches may be more effective over different time periods or may be required for different reporting 
+purposes. Methods to carry out matching of the time-series between the different periods or uses should be applied.  
+There are numerous sources of data and methods to process data that can be used to derive activity data. It is not 
+necessarily the data itself that determines of the approach. For example, depending on how the data is used, a time-
+series of data could be used to generate information at Approaches 1, 2 or 3. Other data, such as single surveys or 
+sample processes used in isolation can only generate activity data at Approach 1. Where the data available allow 
+for the application of approach higher than approach 1 it is good practice to do so to ensure that uncertainties are 
+minimized as far as practicable. Table 3.6A provides some examples of different data and methods and the 
+resulting Approach.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 3.6A (NEW) 
+EXAMPLES OF DIFFERENT DATA INPUTS AND METHODS TO DERIVE IPCC LAND-USE CLASSES AND THE RESULTING 
+APPROACHES (1, 2 OR 3)1 
+Method 
+Approach 1 
+Approach 2 
+Approach 3 
+Sample-
+based 
+methods 
+• 
+Single sample 
+• 
+Temporary sample 
+units 
+• 
+Samples 
+collected 
+from 
+permanent units but changes 
+only 
+tracked 
+across 
+two 
+consecutive sample periods. 
+• 
+Permanent and consistent 
+georeferenced ground plots. 
+• 
+Continuous and consistent 
+samples 
+using 
+remote 
+sensing data. 
+Survey-
+based 
+methods 
+• 
+Single census at one 
+point in time. 
+• 
+Repeat census but 
+without reference to 
+previous censuses. 
+• 
+General surveys between two 
+periods. 
+• 
+National census data that can 
+refer a past period. 
+• 
+Specific survey designs that 
+identify activities through 
+time for each land unit within 
+a known region. 
+Wall-to-
+Wall 
+methods 
+• 
+Single map 
+• 
+Inconsistent 
+maps 
+developed 
+at 
+different times. 
+• 
+Inconsistent maps through time 
+combined with Approach 2-type 
+samples (e.g. using maps as 
+stratifications). 
+• 
+Maps developed using consistent 
+methods changes tracked across 
+two consecutive maps only not 
+tracked through a time-series of 
+maps. 
+• 
+Tracking pixels / land units 
+using time-series consistent 
+data. 
+1 These examples assume that only one type of data and process is used. In many cases the data inputs and processes can be combined 
+resulting in a higher quality of the land representation than can be achieved with any one single data source. 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.21 
+Figure 3.1 
+Decision tree for preparation of land-use area data 
+ 
+3.3.3 
+Methods for Land-Use and Land-Use Change 
+Estimation 
+The three main methods for estimating areas of land-use and land-use change are sample-based, survey-based and 
+wall-to-wall. These methods are not mutually exclusive; for example, wall-to-wall methods typically require 
+samples for calibration, validation and uncertainty analysis, and some sample methods require wall-to-wall maps 
+for scaling as well as for dimensioning the sample size and designing the sample grid. The method itself does not 
+Identify a primary 
+existing land - use  
+dataset   for the country  
+( e . g . ,  FAO data ). 
+Collect 
+spatial 
+information  
+where 
+required . 
+Obtain and use the 
+additional spatial 
+information . 
+Modify primary 
+dataset to use 
+mixed Approaches 
+( 1 ,  2 , &  3 ) ,  if needed . 
+Primary dataset 
+acceptable  
+for use . 
+Use  
+international 
+datasets to 
+minimize  
+gaps in  
+coverage  
+and document  
+results . 
+Collect new data for  
+the gaps in area coverage 
+. 
+Combine primary 
+and secondary 
+datasets . 
+( Modified )  Primary dataset  
+acceptable for coverage 
+. 
+Use  
+techniques for  
+interpolation  
+and  
+extrapolation  
+to estimate  
+fluxes for  
+missing years . 
+Collect new data for 
+the gaps in the time - 
+series using guidance  
+in this chapter . 
+Use a mix of 
+Approaches to build 
+a complete time   series . 
+Document the choice 
+of methods  ( Approaches ). 
+Are 
+spatially  
+explicit data  
+available ,   if  
+needed ? 
+Can 
+new data be  
+collected to  
+complete the time   
+series ? 
+Can 
+data  for missing 
+years be supplemented  
+with existing  
+secondary data  
+sets ? 
+Does 
+the  ( modified ) 
+primary dataset provide  
+a complete time   series  
+for the  
+country ? 
+Can 
+the gaps in the 
+area coverage be 
+filled using other 
+existing data 
+sets ? 
+Can 
+new data be 
+collected to fill the 
+gaps in area 
+coverage ? 
+Does 
+the  ( modified ) 
+primary dataset 
+cover the whole 
+country ? 
+Does 
+the dataset  
+have any  
+underlying 
+spatial infor - 
+mation ? 
+Are 
+spatial  
+data for 
+a geographically 
+mixed Approach  
+( 1 ,  2 , &  3 ) 
+available ? 
+Are 
+spatially 
+explicit data  
+needed for  
+some or any  
+land  
+areas ? 
+Yes 
+Yes 
+Yes 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes 
+No 
+No 
+No 
+Yes 
+No 
+Yes 
+No 
+No 
+Yes 
+No 
+Yes 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+determine the Approach and all these methods can be used to develop land-use information at Approaches 1, 2 or 
+3 (see Table 3.6A).  
+Wall-to-wall methods 
+The continually increasing volume and improving quality of data available from remote sensing allows countries 
+to develop wall-to-wall maps of land cover and land cover change that, when combined with other data, can be 
+used to generate land-use and land-use change information. There are numerous potential applications for remote 
+sensing products to derive consistent land use and land use change estimates: 
+• 
+identifying land cover and land cover change (e.g., forest cover change and multiple land cover change types); 
+• attribution of land cover change to specific disturbances (e.g., harvesting, clearing, fire) and processes (e.g., 
+biomass growth) to determine land use; and, 
+• stratification of land-use categories into logical units that facilitate the estimation of emissions and removals, 
+such as forest condition, growth stage, time since disturbance and forest type.  
+Although there is an ever-increasing focus on and availability of remote sensing data for wall-to-wall mapping, it 
+is also possible to generate wall-to-wall methods using traditional mapping processes. For example, some countries 
+have access to detailed maps of forest stands or agricultural areas with associated records of human interventions 
+(such as harvesting) and other disturbances, such as fire. Combining these maps and records can produce time-
+series consistent activity data. Where maps are not available, the record data can still be used in a survey type 
+approach.  
+There are two broad wall-to-wall methods:  
+1. a consistent time-series of data using the same or similar sensors, common analysis methods and time-series 
+processing methods; and,  
+2. one or more maps developed using different sensors and methods, and not applying time-series consistent 
+processes.  
+When using Approach 3, wall-to-wall methods it is good practice to: 
+• minimize the influence of misalignment of images or artefacts in data (e.g., cloud cover); 
+• ensure the data will be consistent with the methods for estimating emissions and removals 
+• ensure the time-series is dense enough to identify activities that drive emissions and removals (e.g., if the period 
+between two points in time (i.e. the change detection period) is 5 years, but forest cover following clearing or 
+harvesting recovers in 2 years, then management events affecting emissions and removals may be missed, 
+depending on the method applied); 
+• demonstrate that, in cases where the time between maps differ (e.g., a 5-year gap, followed by a 2-year gap), 
+this does not bias results by changing detection rates; 
+• use that the sensor data used in the maps does not cross over the mapping time period. For example, when 
+creating composite products (e.g., to remove cloud or sensor errors) ensure that the images selected for one 
+year are not the same or cross over image dates in the previous or following years (cross over occurs when e.g., 
+a 2005 map uses data from 2002-2008 and a 2010 map uses data from 2007-2013);  
+• demonstrate that the changes tracked through time are consistent and to report on any corrected biases and 
+known uncertainties of the analysis.  
+• ensure that any improvements made to any single map in the time-series are consistently applied to the other 
+maps in the time-series and the results are recalculated, in particular when new maps are added to the time-
+series; and 
+• evaluate the final products to ensure consistent representation of land-use with no double counting or omission 
+of lands. 
+An example of an Approach 3 wall-to-wall approach can be found in Australia’s national inventory report 
+(Department of the Environment and Energy 2018). 
+It is challenging to maintain a spatially consistent time series where different land cover maps have been developed 
+using different data (e.g., different sensors) or methods (different algorithms or operators using visual 
+interpretation). In such cases it may not be possible to use this data in an Approach 3 context, since it is difficult 
+to ensure that the land-uses will be spatially consistent through time in the time series. However such data may be 
+used to stratify samples used in the application of Approach 2 (GFOI 2016).  
+When using wall-to-wall Approach 2 methods it is good practice to: 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.23 
+• describe the difference between the land cover data in the time series; 
+• apply sample-based methods to determine uncertainties and correct for bias; and 
+• describe how areas with potential multiple changes in land-use through time are addressed in estimating 
+emissions and removals using the data. 
+Sample based methods 
+Sample based methods directly estimate land-use and land-use change from repeated samples. Samples may be 
+obtained from ground surveys (such as a national forest inventory or national land survey) or remote sensing (e.g., 
+satellite imagery, aerial photography or lidar or a combination of both). Well-designed sample-based methods 
+provide an accurate statistical representation of land-use and land-use change but do not provide information on 
+every specific area of the land territory (i.e. is not wall-to-wall spatially explicit). 
+The two most common sampling methods applied are: 
+• permanent sampling methods, where the same sample area is measured or analysed through time using 
+consistent methods and processes; and, 
+• temporary sampling methods, where data is collected for only one point in time or, if repeated measurements 
+are taken through time, these are not taken for the same locations. 
+Within these two broad methods there are a range of options countries can apply, including combining permanent 
+and temporary sampling methods.  
+Where permanent sample methods have been applied it is possible to use these data in an Approach 3 system by 
+tracking each sample unit through time and determining the history and scaling appropriately. These units could 
+also be used in an Approach 2 method by only determining land use and land use change between two consecutive 
+periods. An example of Approach 3 sample based method for estimating land-use and land-use change can be 
+found in Sweden’s national inventory report (Swedish Environmental Protection Agency 2016). 
+Where only temporary sample units are used without repeat measurements, it is not possible to apply Approach 2 
+or 3 methods unless temporary sample data is combined with other data (auxiliary data or permanent plots). 
+A key issue when selecting a sampling design is that the sampling methods must be able to be applied over the 
+whole area of interest and the sample size must be large enough to produce sufficiently accurate estimates of land-
+use and land-use change categories and sub-divisions, given the policy requirement and the costs involved. No 
+matter what type of sample method applied (ground or remote sensing), it is good practice to ensure: 
+• a sufficient number of samples are used with repeat measurements over time to identify both land-use and land-
+use changes with a desired level of uncertainty; 
+• where samples are used to determine land cover, that these data are used with other information, if necessary, 
+to identify the land-use category; 
+• samples are collected or re-measured with sufficient temporal frequency to ensure land-use changes and 
+management events affecting emissions and removals are identified; 
+• samples are collected with sufficient temporal consistency that detection rates of change do not alter due to 
+differences in sampling frequency;  
+• where sampling methods have changed through time, these changes do not lead to inconsistencies in the 
+reporting of areas of land-use and land-use change; and 
+• the sample assessment protocols are well documented. 
+Survey based methods 
+Statistical survey methods involve obtaining information on land-use and land-use change and land management 
+practices either through national programs or through targeted requests to land holders, land management agencies 
+and companies.  
+There are two broad methods for statistical surveys: 
+• surveys that collect information on land management practices through time for a specific area or land use; 
+and, 
+• surveys that aim to collect information on land use and management practices in a specific period only, or only 
+on land use without information on land management. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Surveys can provide inventory compilers with access to lists of stands or land areas subject to different land-use 
+and activities. These lists can provide detailed information on land areas and their management but may or may 
+not include information on the exact location of the land unit. For example, within a region, information on the 
+area, species, type and management of all forest areas (stands) may be available to the inventory compiler as a 
+table, but the exact location of the stand is unavailable (e.g., due to privacy, commercial or political reasons). This 
+data can be particularly accurate for land-uses with high-commercial value as detailed data is collected on these. 
+However, these types of survey data do have temporal consistency and known geographic boundaries and can be 
+considered Approach 2 or 3 depending on whether the land use changes are tracked across time or not. When using 
+this method, it is good practice to: 
+• ensure that the area of the land units surveyed is consistent with the area of the entire land use category and 
+other land uses, in particular where the land units do not cover all the land-use categories (i.e., where a mix of 
+Approaches are applied); and 
+• where possible, compare the area estimates obtained from other methods, such as sample-based methods. 
+Surveys that provide an estimate of the area of land use for a single point in time or where land use and activities 
+cannot be assigned to any land unit only can be used to develop Approach 1 land representation. This data is often 
+used in combination with other data to develop a complete land use estimate. An example of an Approach 3 survey 
+based approach for estimating land-use and land-use change can be found in Canada’s national inventory report 
+(Environment and Climate Change Canada 2018). 
+3.3.4 
+Combining Multiple Data Sources 
+Remote sensing products are increasingly being used by countries as a source of information to estimate land-use 
+and land-use change (GFOI 2016). The most common use of these products is to detect land cover and cover 
+change. There are few cases where one single data source or method are used to develop area estimates for land-
+use and land-use change for all strata, sub-strata and reporting categories. For instance, while remote sensing data 
+is useful for identifying land cover and where a change in cover has occurred, the resulting products often do not 
+provide information on the drivers that occurred to cause the change, the actual land uses and the likely associated 
+emissions and removals. Combining remote sensing data products with other data sources is often required to 
+obtain all the required information for estimating emissions and removals and to correctly allocate lands to the 
+IPCC land-use categories over time. 
+Typically, countries will combine a variety of different data sources and approaches to estimate areas of land-use. 
+This could include multiple remote sensing products (including wall-to-wall and sampling approaches), census, 
+survey, farmer interviews, field observations, expert knowledge, or some combination of these sources (Ogle et 
+al. 2013; GFOI 2016). Combinations of data sources may also occur within a type of data. (e.g., national and 
+regional or local statistics may be combined when national data is incomplete). These may occur for several 
+reasons, including that the time-series is incomplete (i.e. some years are missing and are supplemented with other 
+statistics), a land-use class or stratum is missing (e.g. sugarcane area is missing in the national cropland area 
+statistics), more accurate statistics are available (e.g. from a different data provider). 
+When combining different data types and sources it is good practice to: 
+• report the spatial and temporal scales of the data sources;  
+• ensure consistency between different temporal or spatial scales in the data sources; 
+• verify spatial datasets conform to national mapping standards (e.g., appropriate equal area projections) to 
+ensure accurate area calculations, and that raster and/or vector layers align and are within official national 
+boundaries; 
+• ensure that land conversion areas are consistent with each other across the entire time-series. For example, 
+losses in the area of Forest Land categories are consistent with gains in the areas of Forest Land converted to 
+Cropland, Grassland, Settlements, Wetlands, and Other Land; 
+• ensure that the land conversion period is applied consistently across all land-use categories (i.e., that the same 
+number of years is used before lands in a ‘converted to’ sub-category move to the ‘remaining’ sub-category); 
+• establish a hierarchy among various data sources and proceed to their integration accordingly (i.e., higher 
+quality data prevail to other data when an inconsistency appears among them); 
+• fill data gaps to derive consistent time-series of land-use and land-use change (See Section 5.3, Chapter 5 
+Volume 1); and, 
+• report uncertainties of land-use and land-use change estimates. 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.25 
+Spatially explicit approaches are commonly combined with other spatial data (e.g., forest and/or soil types, climate 
+data) to produce emissions estimates. When using multiple spatial data layers, especially when combining vector 
+and raster data sources of different spatial and temporal resolutions (Merchant & Narumalani 2009) it is good 
+practice to ensure that: 
+• all data layers are registered to a common projection, and that the layers align as far as possible, to prevent 
+errors due to misalignment such as slivers or areas of false change along the edges of boundaries between 
+different land-use categories; 
+• reprojection of spatial data do not cause errors if applied correctly using appropriate type of projection for a 
+given location (Seong 2003); 
+• when combining data of different pixel sizes (e.g., climate data at 1km, with satellite land cover data at 25m) 
+that the pixels align with ground coordinates; and, 
+• if pixels are resampled (e.g., resampling of Landsat pixels from nominal 30 m to 25 m) this is done prior to 
+classification. 
+3.3.5 
+Derivation of IPCC Land-Use Categories from Land 
+Cover Information 
+Inferring land use from land cover at a specific point in time can lead to misclassification of the predominant land-
+use. It is good practice to clearly document the country-specific rules applied in the inventory to consistently 
+derive land-use from land cover, both spatially and temporally, including predominance among land use categories. 
+When deriving IPCC land-use and land-use change categories from land cover data, the following generic steps 
+should be considered: 
+• translate remote sensing data to land cover types using decision rules and image classification; 
+• develop rules to translate land cover and cover change types to land-use and land-use change categories (i.e., 
+attributing land cover information to land-use) using well-defined specific supplementary information 
+• collect any required supplementary information and apply the developed rules. 
+Existing national data 
+Existing national data can be used for estimating land areas, alone or in combination with other data to derive 
+IPCC land-use categories. Defining the equivalence between national land-use categories and IPCC land-use 
+categories may not be straightforward, as national datasets are often developed for other purposes and do not 
+necessarily match the IPCC definitions. For example, the definition of forest cover in some existing remote sensing 
+products may differ from the nationally adopted definition for Forest Land. Even where the definitions are the 
+same, existing forest type maps generally cannot compare to new remote sensing products due to differences in 
+spectral and geometrical resolutions and the methods applied for land-use classification. This is particularly the 
+case for older forest type maps derived from visual interpretation compared to semi-automated and automated 
+methods. 
+In developing IPCC land-use information, it is good practice to: 
+• define the national land-use categories and develop rules to track them in the inventory, where needed; 
+• describe how multiple data sources are combined to classify land-use and how the methods ensure consistent 
+representation of lands; 
+• demonstrate that the land-use categories definitions cover the entire variability of land-uses of the country 
+territory, and do not overlap; 
+• report an equivalence table between the categories used in the national land-use classification scheme and the 
+IPCC land-use categories defined in Section 3.2, and 
+• report which land cover elements and classification rules are used to identify land-use categories and 
+attributions, including predominance among land uses. The applied classification rules need to be explained 
+by reporting additional information used and any assumptions made to match land-use categories for the 
+national classification system and the IPCC Guidelines discussed in this Chapter.  
+Global datasets for land-use classification 
+Accuracy of global products (Table 3.A.1.1) varies regionally due to factors including differential sensitivity of 
+detection at biome and eco-regional scales, limited availability of regional data to calibrate algorithms and limited 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+validation of outputs. Furthermore, many global products only produce estimates of land cover not land-use, with 
+definitions that may not match national country definitions. Because of these issues, using global maps for 
+inventory reporting can lead to inconsistencies in data and tend to produce activity data estimates with lower 
+accuracy and higher uncertainty than are attainable by national mapping (GFOI 2016). Conversely, national 
+products can be tuned to national circumstances and land-use definitions using knowledge and auxiliary data 
+available at the national/international level. Therefore, when using global data sets, it is good practice to:  
+• assess the consistency of the global dataset with national definitions of land-use and suitability for reporting 
+(e.g., time-series consistency, spatial scales, update processes); 
+• assess the accuracy of the products for the mapped land-use categories and correct for bias by using ground or 
+other reference data; and, 
+• ensure that the accuracy assessment processes represent not just the IPCC land-use categories, but also the 
+strata (e.g., by forest types, areas impacted by disturbances, soil classes) used to estimate emissions and 
+removals. 
+National assessment of the relative advantages of global and national maps to generate national level estimates of 
+land-use and change are also related to: 1) preferences for national ownership of the process; 2) whether national 
+mapping capacity already exists and 3) national needs for a land cover map (e.g. related to forest definition and 
+land cover classifications, for integration with domestic planning). 
+The relationship between global data and the national land-use definitions is important and in comparing national 
+estimates and global products, it is good practice to: 
+• ensure that products are applied to the same geographic extent and time period; 
+• ensure that the land-use area and changes derived from the global data correspond as nearly as possible to the 
+national definitions and legend; 
+• use reference observations consistent with the national definition. If the reference data are stratified, e.g. by 
+accessibility or biomass quantity, strata should be applied consistently over time irrespective of whether 
+national or global map products are being used; and, 
+• reduce common inconsistencies between global data and national definitions which are related to e.g. the 
+minimum canopy cover thresholds, detailed consideration of land-use, the minimum size of land-use areas, and 
+the minimum tree height. 
+Addressing gaps in remote sensing data  
+National inventories require annual estimates of emissions and removals and ideally, annual data would enable the 
+generation of annual estimates of change for all land-uses. In practice, such data is not always available for all 
+land-uses for every year and the cost of obtaining and processing the data may be too high. Consequently, inventory 
+compilers will likely need to decide which data to collect, how frequently and to apply methods, such as splicing 
+techniques, to cover these gaps. 
+When covering data gaps from unavailable land-use and land cover data, it is good practice to: 
+• define, document and report the years where remote sensing data are missing. When the number of years 
+between data availability varies, demonstrate that the land-use change detected across the time series is 
+consistent and not influenced by the change in frequency of observations; 
+• justify the choice of the methods used to fill the data gap, and describe the method used for interpolation or 
+extrapolation consistent with the guidance provided in Chapter 5, Volume 1. When using interpolation methods, 
+if the land-use category on a sample unit or on a land use changes between consecutive inventories the year of 
+conversion should be identified. If this is not possible a random year for the conversion should be selected.   
+When extrapolating missing data based on trends and proxies, justify the length of the time-series used to 
+develop the trend. Whenever possible use functional proxies (i.e. driver of changes) for extrapolation or 
+interpolation; and 
+• report the limitations and consequences of filling land cover data gaps with the chosen method. Whenever 
+possible, estimate, document and report the uncertainty linked to the remote sensing annual data available and 
+the uncertainty linked to the periods where this data is not available. 
+Further, in the case of remote sensing data, some areas of land may not be covered with data in every period. This 
+often occurs due to persistent cloud or haze, errors in the satellite or due to limited acquisitions in some areas. 
+These areas are often removed from the analysis and classed as ‘no data’. Where wall-to-wall approaches are used, 
+these gaps may lead to errors in the estimates of land-use and land-use change. This problem increases with 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.27 
+increasing temporal density of the data. As such it is good practice to apply methods that can accurately fill these 
+data gaps in a time-series consistent manner (See Annex 3A.2.4 for examples). 
+3.3.6 
+Stratification of land-use data 
+Once land-use and land-use conversion areas have been established, it is necessary to consider the capacity and 
+need for further stratification.  
+Stratification is the process of disaggregating a land-use category (e.g. Forest Land, Cropland, Grassland) into 
+logical, typically homogenous, sub-divisions (e.g. tropical/dry forest, crop types, improved or unimproved 
+pastures). This process is commonly applied to reduce the uncertainty of emissions and removals estimates as it is 
+useful to: 
+• estimate emissions and removals for key land-use sub-categories; 
+• enable tailoring of specific methods or data collection processes in different strata. For example, due to weather 
+conditions and cloud effects, it is much more difficult to measure Forest Land converted to other land uses 
+using multispectral remote sensing data in fragmented dryland forests than contiguous moist tropical forests; 
+• track areas under conversion across time-series, especially to deal with subsequent changes; 
+• assist in the management of uncertainties and plan continuous improvement of the inventory; 
+• increase the flexibility in reporting of monitored data, such as the effectiveness of policies tailored to specific 
+strata (e.g. forest types, risk types). 
+Stratification may be needed to locate relevant data from subsequent chapters for emissions factors, carbon stocks, 
+etc.  Table 3.1 shows the typical stratifications for which data are available for the application of Tier 1 emissions 
+and removals estimation. Throughout the default tables used to populate equations to calculate a Tier 1 inventory, 
+specific data cells are highlighted that represented the pre-defined stratifications applied to Tier 1 inventories. That 
+is, Tier 1 default data (tables) conform to a consistent stratification so that there is no further calculation or 
+ambiguity in the appropriate selection of default data to populate equations. Where countries are preparing Tiers 
+2 and 3 inventories, it is likely that stratification schemes may differ based on country-specific information and 
+selection, manipulation or supplementation of default data may be required. 
+Common strata include layers such as soils, site class, topography, aspect, dominant tree species or species clusters 
+are commonly used for stratification. However, unless all land-use area and stratification data are spatially-explicit 
+(Approach 3), the development of rules for allocations to strata may be required. Table 3.6B provides some 
+examples of possible data types and assumptions to stratify land-use and land cover. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 3.6B (NEW) 
+EXAMPLES OF AUXILIARY DATA AND POSSIBLE ASSUMPTIONS THAT CAN HELP TO DETERMINE AND STRATIFY LAND-USE.  
+Issue 
+Data 
+Possible assumptions1 
+Separate forest cover change due to 
+management activities from land 
+use changes 
+Maps of forest management 
+areas 
+Data on forest management 
+practices and harvesting 
+plans 
+ 
+Areas of cover change in Forest Land are due 
+to harvesting (i.e., not land use change) 
+Separate cover changes between 
+those associated with natural 
+disturbances (these are only cover 
+changes)l and those due to human 
+intervention (e.g. land use changes 
+or harvesting) 
+Maps of disturbances, such 
+as fire or pest extent maps  
+Maps of National parks and 
+protected areas 
+Changes in cover that occur at the same time 
+as fire or pest attack may be considered due 
+to these causes unless otherwise noted. 
+In certain circumstances, cover changes under 
+certain tenures (such as national parks) may 
+be due to natural processes, but these still 
+need to be assessed. 
+Determine if the forest type is 
+natural or plantation  
+Maps of plantation 
+management areas, private 
+plantation areas.  
+Knowledge of new planting 
+areas and policies 
+Soils and climate 
+Forest areas within the plantation areas can be 
+considered plantations. 
+Areas of newly established forest classes 
+depending on known planting types 
+Commercial plantations only occur on 
+specific soils or in climatic ranges 
+Separate crop types and 
+management practices 
+Climate (rainfall, 
+temperature etc), soil 
+characteristics or soils types 
+Known crop products by 
+region (agricultural stats) 
+Certain crops and management practices can 
+occur in certain regions (e.g. no crops in a 
+desert, no-tillage cultivation in low organic 
+matter soils) 
+Use product offtake to determine the types of 
+crops being grown 
+Separate pasture from rangelands 
+Livestock statistics 
+Agricultural census data 
+Land with a certain concentration of animals 
+are pastures 
+Producers in a certain region use pastures 
+(e.g. in cropland rotation).  
+Source: based on (GFOI 2016). 
+1 the validity of these assumptions will vary by country, so all assumptions should be clearly justified 
+To establish and report consistent land-use stratification scheme it is good practice to:  
+• assess the availability of reliable data to classify land-use categories into sub-divisions that are available over 
+time; 
+• ensure that strata can be sufficiently distinct to be identifiable and establish clear definitions for land-use strata; 
+• ensure that strata area cover the total land area of the category being stratified; as the boundaries of strata can 
+change over time e.g. if the frontier of disturbance moves into areas of previously undisturbed forest. 
+• ensure that the strata have the attributes required to develop estimates of emissions and removals (e.g., 
+emissions factors or model parameters); and, 
+• review the effect of the stratification to determine if further stratification would improve the estimates of 
+emissions and removals.  
+For example, Approach 1 land-use data are stratified by climate and soil type to estimate soil C stock changes.  
+Optimally, the land-use data can be down-scaled to capture the proportion of land-uses in each climate or soil type, 
+with   auxiliary information and expert knowledge. If re-scaling is not possible, inventory estimation can still 
+proceed, but the emissions and removals estimates should reflect uncertainties in the assignment of emission/stock 
+change factors (and associated parameters) that vary by climate and/or soil.  
+Management data may only be available in an Approach 1 format (e.g., expert knowledge or periodic surveys of 
+different sets of land owners) even if Approach 2 or 3 data are available for land-use categories. In this case, 
+management can be summarized as a proportion of the management practice (e.g., % no till, intensive tillage and 
+reduced tillage) in each “lands remaining” and “lands converted” land-use category. This will be a limiting 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.29 
+assumption if the management classes are not evenly distributed as the impact of management on the emission or 
+removal depends on land-use category.  
+Tiers 2 and 3 methods may also evaluate interactions between management practices that affect emission/stock 
+change factors. Determining the appropriate combinations of management is another issue that needs careful 
+consideration.  Tier 1 methods typically do not address the temporal trends in emissions/stock change factors 
+(assuming a linear change) or capture interactions among management practices on a specific land-use, but rather 
+represent an average effect. Consequently, assignment of emission/stock change factors may become more 
+complicated with higher Tier methods and require careful explanation of the scaling processes that were used to 
+delineate the appropriate combinations of the climate, soil, ecological zones, and/or management systems. 
+In some cases, management data may not cover the entire territory, being available only for specific regions, and 
+so up-scaling of the data may be required to obtain national average coverage. A typical example is using project 
+and activities data (e.g. mitigation actions/activities at the sub-national/corporate/project: see Box 2.0A, Chapter 
+2, Volume 4) to derive extrapolation methods to transform local data into consistent national level data and report 
+description of these methods. In other cases, statistical/auxiliary information may be available at the aggregated 
+national level, so down-scaling of attributes may occur to assign management practices to particular land units.  
+3.3.7 
+Preparing area data for emissions and removals 
+estimation 
+Preparing a greenhouse gas inventory for AFOLU requires the integration of land-use area with data of land 
+management and biomass, dead organic matter and soil carbon stock pools, in order to estimate carbon stock 
+changes and CO2 and non-CO2 emissions and removals associated with land-use. Depending on the type of data 
+available (Approach 1, 2 or 3), there are implications for the subsequent use of the data in the preparation of 
+estimates of emissions and removals according to the land-use conversion framework represented in the reporting 
+tables. 
+Countries that only have access to Approach 1 data have two options for reporting land-use category conversions. 
+Total areas for categories of “land remaining in a land-use” may include some portion of land that was converted 
+to that land-use since the last inventory. Countries should wherever possible apportion change in land-use areas 
+over time to inferred land-use conversion categories for the purposes of determining appropriate carbon stock and 
+emission factor estimates. For example, a country with 1 Mha of forest, 1,000 ha deforestation and 1,000 ha 
+afforestation has a zero net change in Forest Land area (presuming these changes occurred on managed land), but 
+will have a reduction in forest biomass C stocks, at least until sufficient regrowth occurs. Subsequent decisions 
+will be needed to relate these inferred area conversions between land-use categories to appropriate land 
+management, biomass and soil C stocks and emission factors. Where this is done, countries should report the basis 
+for these decisions, and any methods of verification or cross-checking of estimates that have been applied, and the 
+effects on inventory uncertainty. If this apportioning is not done, then countries should state this, and report the 
+effect on uncertainties associated with doing so.  
+For countries with Approach 2 data, where information on the areas of each land-use conversion is known but is 
+not spatially-explicit, these area estimates still need to be linked to appropriate initial carbon stocks, emissions 
+factors, etc. In some cases, this may require the assignment of the land-use conversion data to climate, and/or 
+vegetation type, soil and management strata. Again, this can be done by some form of sampling, scaling or expert 
+judgement. Countries should report the basis for these decisions, and any methods of verification or cross-checking 
+of estimates that have been applied. 
+For countries using Approach 3 data, it is possible to apportion areas of land-use conversion by spatially 
+intersecting the data with other spatial datasets, such as those on climate, and/or vegetation type, soil and 
+management strata. However, it is likely that inference, for example, based on survey data and expert judgement, 
+will be needed to apportion the land-use conversion and biophysical data by management practices as data on 
+management practices are rarely available in spatially explicit formats. 
+3.4 
+MATCHING LAND AREAS WITH FACTORS 
+FOR ESTIMATING GREENHOUSE GAS 
+EMISSIONS AND REMOVALS 
+This section provides brief guidance on matching the land-use area data with carbon stocks, emissions factors and 
+other relevant data (e.g., forest biomass stocks, average annual net increment) to estimate greenhouse gas emissions 
+and removals. An initial step in preparing national inventory estimates is to assemble the required activity data 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(i.e., land-use areas) and match them with appropriate carbon stock, emissions and removal factors, Tier 3 models 
+and other relevant data.  
+This Volume provides default data (specifically marked) needed to make Tier 1 estimates for all AFOLU 
+categories according to specified climate and ecological zone stratifications. In addition, countries may develop 
+country-specific carbon stock, emission and removal factors and other relevant data (Tiers 2 and 3 inventory 
+methods). The following summarizes the principles to be followed when matching activity data with carbon stock, 
+emission and removal factors and other relevant data: 
+• match national land-use area classifications to as many land-use categories as possible;  
+• when national land-use classifications do not conform to the land-use categories of these guidelines, document 
+the relationship between classification systems; 
+• use classifications consistently through time and, when necessary, document any modifications made to 
+classification system; 
+• document definitions of land categories, land-use area estimates, and how they correspond to emission and 
+removal factors; and,  
+• match each land-use category or sub-category to the most suitable carbon stock estimates, emission and 
+removal factors and other relevant data. 
+Following are the recommended steps for matching land areas with emission and removal factors: 
+1. Start with the most disaggregated land-use area stratification as well as the most detailed available emission 
+and removal factors needed to make an estimate. For example, the Forest Land methodologies, described in 
+Chapter 4 of this Volume, provide a default factor for above-ground biomass stocks in forest plantations that 
+is disaggregated at the most detailed stratification, relative to other factors (i.e., forest type, region, species 
+group, age class, and climate). These strata would be used as an initial base stratification. 
+2. Include only those strata applicable in your country and use this as a base stratification. 
+3. Match land-use area estimates to the base stratification at the most disaggregated level possible.  Countries 
+may need to use expert judgment to align the best available land-use area estimates with the base stratification. 
+4. Map emission and removal factors onto the base stratification by matching them as closely as possible to the 
+stratification categories. Note that many of the default stock change and emissions factors and other parameters 
+in Tier 1 (default) equations were statistically derived for specifically defined strata (e.g., climate type, soil 
+type) so that countries wishing to use Tier 1 methods for these emissions and removals should stratify land-use 
+categories using the definitions as specified for Tier 1 change factors and parameters. 
+If a national land-use classification is fitted to the land-use categories (and sub-categories) this facilitates matching 
+of emission and removal factors that follow the same classification. For example, default soil carbon factors for 
+Forest Land, Cropland, and Grassland are disaggregated by the same climate regions (see Annex 3A.5). Therefore, 
+the same land area classification can be used to estimate soil carbon changes in each of the land-use categories, 
+enabling consistent tracking of lands and carbon fluxes on lands resulting from land-use category conversions. 
+Countries may find that national land classifications change over time as national circumstances change and more 
+detailed activity data and emission/removal factors become available. In some cases, the stratification will be 
+elaborated with the addition of more detailed emission and removal factors. In other cases, new stratifications 
+systems will be established when countries implement new forest inventories or remote sensing sampling designs.  
+When changes to the stratification system occur, countries should recalculate the entire time-series of estimates 
+using the new stratification if possible. 
+3.4.1 
+Use of different approaches and methodological Tiers 
+when estimating emissions and removals due to land-
+use change 
+Emissions and removals of CO2 for the AFOLU sector are calculated from estimates of the total changes in carbon 
+stocks for each land-use category. The overarching calculation process is described in Chapter 2, Volume 4.  
+The change in carbon stocks can be estimated using emissions factors (Tier 1 and 2), models (Tier 3 gain-loss 
+methods) or direct measurements (Tier 3 stock difference) or any logical and consistent combination of all three. 
+As the different Approaches provide different levels of detail, the methods for estimating emissions and removals 
+need to be tailored to the available land-use data. When considering how to apply methods for estimating GHG 
+emissions and removals using activity data from different Approaches, it is important to differentiate between: 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.31 
+• emissions and removals that occur in the year of the activity, such as fire or biomass loss from harvesting or 
+clearing of land and emissions from drainage of organic soils and removals from forest growth; and, 
+• lagged emissions/removals that may occur for years after an activity or change in land-use occurs, such as 
+forest regrowth, decay/accumulation of soil organic matter or decay of carbon stock in forest products. 
+As Approach 1 does not produce estimates for changes in land use, estimates for lagged emissions from carbon 
+pools following transitions might produce emission and removals estimates that are different from those that can 
+be calculated using Approach 2 or 3 (see Boxes 2.1 and 2.2). This limitation needs to be considered where 
+Approach 1 data are being used in countries where land use change is occurring.  
+Approach 2 data allow for the use of estimation methods that account for emissions and removals both in the year 
+of the activity and also lagged emissions and removals from past activities. Approach 2 data can be used with any 
+combination of Tier 1 and 2 emissions factors or Tier 3 models. Approach 2 does not allow for the tracking of 
+multiple changes (>2) in land use on a single land unit through time. As such, when using Approach 2 methods it 
+is good practice to stratify land into appropriate age or condition classes that can address these issues. For example, 
+when using Tier 1 methods in forest land, stratifying into young forest land (less than 20 years) and mature forests 
+(older than 20 years) can enhance the estimate of a land use change occurring in forest land. Similarly, a 
+stratification into forest types or condition classes can enhance the accuracy of GHG estimates since the conversion 
+of a mature forest typically results in higher C stock losses and associated GHG emissions than the conversion of 
+a young, heavily disturbed or plantation forest. The same considerations apply to Approach 1 land representation. 
+Approach 3 uses the time-series of data for land units to capture multiple changes in land-use increases the 
+complexity of Tier 3 modelling systems for estimating emissions and removals. While it is possible to use different 
+emissions estimation methods in spatially explicit approaches, it is important to ensure that all the estimation 
+methods are applied consistently. For some carbon pools, such as biomass, using different methods and models 
+for different land uses or sub-divisions of land use (e.g., forest type) will not create any inconsistencies even when 
+land-use changes. However, other pools, in particular soil carbon, require that the estimation methods be consistent. 
+For example, if two or more methods are used for estimating soil carbon changes for different land-uses, then the 
+stocks and estimated stock changes need to be handled consistently when the land-use changes. Where multiple 
+methods are applied for estimating changes in carbon stocks within and between land-uses it is good practice to 
+describe how these models work consistently across land-uses. These issues are addressed in more depth in Chapter 
+2.5, Volume 4. 
+For Approach 3 gain-loss methods, the quantity of information on land-use and change through time often makes 
+it difficult to use spreadsheets to calculate emissions and removals. Advanced methods using integrating tools 
+(Brack et al. 2006; Kurz & Apps 2006) are typically used is such circumstances. These tools estimate emissions 
+and removals for each uniquely identified land unit, assign the land unit to an IPCC land-use category then sum 
+the results for reporting. 
+Use of biomass maps with approach 3 data 
+There is active research ongoing on methods to estimate biomass in tropical forests using remote sensing 
+techniques, including analysis of spectral indices and use of SAR and lidar data. Information on the current state 
+of biomass maps is provided in Chapter 2 Volume 4.  
+The use of biomass maps needs to be considered in the context of the national inventory system to ensure that 
+reporting of carbon stock changes for all pools and across land-uses is consistent. If biomass maps are used then 
+it is good practice to demonstrate how the maps are consistent with national land-use classification system, in 
+particular how they are integrated with the land-use data chosen by the country. 
+3.5 
+UNCERTAINTIES ASSOCIATED WITH THE 
+APPROACHES 
+Uncertainties should be quantified and reduced as far as practicable. Land-use area uncertainty estimates are 
+required as an input to overall uncertainty analysis. Although the uncertainty associated with the Approaches (1 to 
+3) obviously depends on how well they are implemented, it is possible to give an indication of what can be achieved 
+in practice. Table 3.7 sets out the sources of uncertainty (not the significance) for different Approaches. This 
+provides a guide to sources of uncertainties, indicative levels of uncertainty under certain conditions that might be 
+encountered, and a basis for reducing uncertainties. 
+The number of potential sources of uncertainty in area estimates will tend to increase from Approach 1 to Approach 
+3, because successively more data are brought into the assessment. This does not imply that uncertainty increases, 
+however, because of the additional cross-checks that are made possible by the new data, and because of the general 
+reduction in uncertainties due to cancellation of errors. The main difference between Approach 1 and Approaches 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2 and 3 is that percentage uncertainties on conversion between land-uses are likely to be greater in Approach 1 (if 
+known at all). This is because in Approach 1 land-use conversions are derived from differences (net change) in 
+total areas. The effect of this Approach 1 uncertainty on emissions and removals from conversions will depend on 
+the relative amount of land conversion in the country as a fraction of total land area. Approach 3 produces detailed 
+spatially-explicit information; which may be required e.g., for some spatial modelling approaches to emissions 
+estimation. 
+TABLE 3.7 
+SUMMARY OF UNCERTAINTIES UNDER APPROACHES 1 TO 3 
+ 
+Sources of uncertainty 
+Ways to reduce uncertainty 
+Indicative uncertainty 
+following checks 
+Approach 1 
+Sources of uncertainty may 
+include some or all of the 
+following, depending on the 
+nature of the source of data: 
+Error in census returns 
+Differences in definition 
+between agencies 
+Sampling design 
+Sampling error variability 
+Interpretation of samples 
+Only net change in area is 
+known 
+In addition: 
+Cross-checks on area changes 
+between categories cannot be 
+conducted under Approach 1 and 
+this will tend to increase 
+uncertainties. 
+Check for consistent 
+relationship with national 
+area  
+Correct for differences in 
+definitions 
+Consult statistical agencies on 
+likely uncertainties involved 
+Compare with international 
+datasets 
+Order of a few % to order of 
+10% for total land area in 
+each category.  
+ 
+Greater % uncertainty for 
+changes in area derived from 
+successive surveys. 
+ 
+Systematic errors may be 
+significant when data 
+prepared for other purposes is 
+used. 
+Approach 2 
+As Approach 1, but gross 
+changes in area are known, and 
+with ability to carry out cross-
+checks  
+As above, plus consistency 
+checks between inter-
+category changes within the 
+matrix 
+Order of a few % to order of 
+10% for total land area in 
+each category, and greater for 
+changes in area, since these 
+are derived directly 
+Approach 3 
+As Approach 2 plus uncertainties 
+linked to interpretation of remote 
+sensing data where used, and 
+minus any sampling uncertainty  
+As Approach 2 plus formal 
+analysis of uncertainties using 
+principles set out in Volume 1 
+Chapter 3  
+  
+As Approach 2, but areas 
+involved can be identified 
+geographically. However, for 
+Approach 3, the amount of 
+uncertainty can be estimated 
+more accurately than for 
+Approach 2 because errors are 
+mapped and can be tested 
+against independent data/field 
+checked.  
+Evaluation of land-use and land-use change information generated from remote 
+sensing techniques and estimation of uncertainties  
+Accuracy assessments on the land cover inputs can be useful in understanding the influence these inputs have on 
+overall uncertainty, but alone such assessments are unlikely to be representative of the total uncertainty of the data 
+used in estimating emissions and removals.  
+When using remote sensing data to generate estimates of land use and land use change, it is good practice to ensure 
+that:  
+• uncertainty estimates are specific for the relevant land-use and land-use change categories, not for interim 
+products;  
+• uncertainty estimates include consideration of all sources of potential error 
+• uncertainty assessment methods can be applied through the entire time-series, either as a single value or for set 
+periods;  
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.33 
+• evaluation and uncertainty estimation methods are relevant to the Approach;  
+• when using remote sensing data to assess accuracy, validation data of higher quality (e.g., greater spatial 
+resolution or spectral range) are used; 
+• analysis should be consistent with the discussion in Chapter 3 of Volume 1: Uncertainties.  
+Collection of validation data  
+Validation data (also called reference or accuracy assessment data) used in accuracy assessments can be collected 
+using direct observations of ground conditions by field crews or from other remote sensing sources, such as high-
+resolution satellite data or aerial imagery including drone surveys.  
+Many biophysical features of interest can be collected on the ground to support the development and evaluation 
+of land area estimates. However, ground measurements can be time consuming and expensive. Additionally, 
+certain features are difficult to measure accurately from the ground but can be achieved relatively easily using 
+high-resolution satellite data or aerial imagery. Also, it is important to consider spatial variability and plot size 
+when ground information is used for validating pixel level data.    
+Remote sensing data are typically available at lower cost, allowing for more samples to be collected rapidly and 
+often are available for the entire time series to create a suitable validation dataset. Use of high-resolution remote 
+sensing data can be cost effective to validate medium resolution remote sensing outputs. As such, many countries 
+will use a combination of ground and remotely sensed reference data to make best use and advantage of each data 
+source (GFOI 2016).  
+It is good practice to ensure that validation data is:  
+• of at least the same quality as the calibration data; 
+• collected close to the time of the images used in the maps; and 
+• of sufficient size and positional accuracy compared to the spatial resolution of the maps. 
+When designing the validation sampling strategy countries may also consider assessing other spatial input data 
+used to estimate emissions (e.g., underlying strata used in emissions estimation, such as soil type maps).   
+Evaluation of sample-based method  
+Remote sensing data can be used in a sample-based method. In these cases, the remote sensing data can often be 
+treated in a similar manner to point based ground samples and uncertainties estimated using standard methods 
+outlined in Chapter 3 of Volume 1: Uncertainties. However, unlike ground measurements, additional steps are 
+often required to create land-use data as the remote sensing samples will represent land cover. As such, some of 
+the methods used to develop wall-to-wall methods will be applicable for sample approaches as well.  
+When using sample-based methods where the sample units are large (e.g., greater than 1km2) but the spatial 
+assessment unit is small (e.g., a 30 m pixel), it may be appropriate to apply the same methods used to evaluate 
+wall-to-wall methods to the sample unit to assess accuracy of the sample units themselves.  
+Evaluation of wall-to-wall methods  
+Wall-to-wall maps of land-use and land-use change data can be derived from remote sensing and other data. 
+Multiple steps are required to develop time-series consistent maps of land-use and land-use change data; including 
+but not limited to developing time-series consistent maps of land cover, attributing cover and cover changes to 
+specific activities then applying country specific policy rules of assigning lands to an IPCC land-use category 
+through time. 
+Wall-to-wall mapping products are a form of census. Census approaches are subject to two types of error within 
+each IPCC category: errors of inclusion (commission errors) and errors of exclusion (omission errors). Wall-to-
+wall methods typically do not apply a sample-based estimator and therefore there is no estimate of bias. However, 
+it cannot be assumed that wall-to-wall methods are free of bias, as errors will occur through all the processes of 
+developing the land-use maps.  
+Classification accuracy refers to the percentage of sample units correctly classified and can be calculated as 
+commission and omission errors for each mapped category as well as an overall accuracy for all categories. 
+Confusion or error matrices and map accuracy indices, can inform issues of systematic errors and precision in the 
+maps, but do not produce the information necessary to construct confidence intervals (GFOI 2016). 
+A statistical estimator corresponding to the sampling design (see Chapter 3 of Volume 1: Uncertainties) can be 
+used to assess (and adjust for) bias and construct confidence intervals. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+To assess map accuracy and create information that can be used for estimating the uncertainty of emissions and 
+removals estimates it is good practice to collect and use validation data relevant to the estimation of emissions and 
+removals, noting that:  
+• the method and Tier adopted for generating emissions and removals estimates may influence how and when 
+bias in activity data is addressed; and,  
+• activity data accuracy needs to be assessed at the scale and for the strata used to develop the emissions and 
+removals estimates otherwise the resulting emissions and removals estimates may still be biased. 
+For transparency purposes it is good practice to clearly document the sampling methods (including sample sizes), 
+how the samples relate to the classification system, and the QA/QC processes applied in sampling.  
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.35 
+Annex 3A.1 
+Examples of international land cover datasets 
+In recent decades, satellite remote sensing has become the primary source of data for developing for global 
+estimates of land cover. Several global products are currently available (Table 3A.1.1.) and more are under 
+development. Countries considering the use global products should refer to the issues raised in Annex 3A.2.1. 
+ 
+ 
+TABLE 3A.1.1 (UPDATED) 
+EXAMPLES OF GLOBAL LAND COVER DATASETS IN 2017 
+ 
+(A) 
+(B) 
+(C) 
+(D) 
+Dataset name 
+ESA Climate Change 
+Initiative – Global 
+Land Cover Products 
+(CCI – LC) 
+Global Forest Change  
+Global Forest Watch 
+MODIS Land Cover 
+Type Product 
+(MCD12Q1) 
+Global PALSAR-
+2/PALSAR/JERS-
+1 Forest/Non-
+Forest Map 
+Author 
+European Space 
+Agency (ESA) 
+University of Maryland 
+(UMD) 
+World Resources 
+Institute (WRI)   
+NASA / US 
+Geological Survey 
+Japan Aerospace 
+Exploration 
+Agency (JAXA) 
+Brief 
+description of 
+contents 
+Consistent global 
+land cover maps at 
+300 m spatial 
+resolution on an 
+annual basis from 
+1992 to 2015.  
+Global forest extent, 
+forest cover loss and 
+gain based on land 
+cover information from 
+2000 to 2017 using 
+Landsat.  
+Time-series analysis 
+of MODIS data at 
+500 m spatial 
+resolution to 
+characterize global 
+land cover from 
+2001-2013. 
+The global 
+forest/non-forest 
+map (FNF) 
+generated by 
+classifying the 
+backscattering 
+intensity values at 
+25 m spatial 
+resolution using 
+PALSAR-
+2/PALSAR 
+mosaic 
+Classification 
+scheme 
+The system uses a 
+hierarchical 
+classification, which 
+allows adjusting the 
+thematic detail of the 
+legend to the amount 
+of information 
+available to describe 
+each land cover 
+class, whilst 
+following a 
+standardized 
+classification 
+approach. 
+This dataset captures 
+vegetation taller than 5 
+m in height and tree 
+canopy cover (0 to 
+100%) for year 2000, 
+global forest cover gain 
+(2000-2012), year of 
+gross forest cover loss 
+event defined as stand 
+replacement 
+disturbance, data mask 
+and cloud free Landsat 
+mosaics for 2000 and 
+2017. 
+Contains five 
+classification 
+schemes derived 
+from yearly Terra 
+and Aqua MODIS 
+data. The primary 
+land cover scheme 
+identifies 17 land 
+cover classes defined 
+by the IGBP. This 
+includes 11 natural 
+vegetation classes, 3 
+developed and 
+mosaicked land 
+classes and 3 non-
+vegetated classes. 
+Forest is defined 
+with an area larger 
+than 0.5 ha and 
+forest canopy 
+cover over 10% 
+(FAO definition). 
+Remote sensing 
+data type 
+Optical 
+Optical 
+Optical 
+Radar 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 3A.1.1 (CONTINUED) 
+EXAMPLES OF GLOBAL LAND COVER DATASETS IN 2017 
+ 
+(A) 
+(B) 
+(C) 
+(D) 
+Data acquisition 
+year 
+Annual from 1992 to 
+2015 
+Annual from 2000 to 
+2017 
+Annual from 2001 to 
+2013 
+2007, 2008, 2009, 
+2010, 2015, 2016 
+Spatial 
+resolution or 
+grid size 
+300 m 
+(1100m for 1992-
+1999 years using 
+AVHRR) 
+30 m 
+500 m 
+25 m, 100 m, 1000 
+m and 0.25 degree 
+Revision 
+interval (for 
+time-series 
+datasets) 
+Annual (1992-2015) 
+– baseline 10-year 
+global land cover 
+map 
+Annual time-series 
+from 2000 to 2017 
+Annual time-series 
+from 2001 to 2013 
+PALSAR - 2007, 
+2008, 2009, 2010, 
+2015 and 2016 
+JERS-1 1993, 
+1994, 1995, 1996, 
+1997 & 1998 (for 
+tropics only); 
+Global-1996 
+Quality 
+description 
+The land cover maps 
+are delivered along 
+with four quality 
+flags which 
+document the 
+reliability of the 
+classification and 
+change detection. 
+Data mask shows areas 
+of no data, mapped land 
+surface and permanent 
+water bodies.  
+Contains quality 
+control flags for each 
+pixel. Use latest 
+collection of MODIS 
+data processing.   
+The overall 
+agreement with 
+forest/non-forest 
+assessments from 
+PALSAR data 
+using the Degree 
+Confluence 
+Project, the Forest 
+Resource 
+Assessment and 
+Google Earth 
+images was 85%, 
+91% and 95% 
+respectively. 
+Contact address 
+and reference 
+URL 
+http://maps.elie.ucl.a
+c.be/CCI/viewer/dow
+nload.php 
+ 
+http://earthenginepartne
+rs.appspot.com/science-
+2013-global-forest 
+https://www.globalfore
+stwatch.org/ 
+http://glcf.umd.edu/d
+ata/lc/ 
+ 
+http://www.eorc.ja
+xa.jp/ALOS/en/pal
+sar_fnf/fnf_index.
+htm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.37 
+Annex 3A.2 
+Development of land-use databases 
+There are three broad sources of data for the land-use databases needed for greenhouse gas inventories:  
+• databases prepared for other purposes;  
+• collection by sampling; and 
+• complete land inventory.  
+The following subsections provide general advice on the use of these types of data. Greenhouse gas inventory 
+preparers might not be involved in the detailed collection of remote sensing data or ground survey data but can 
+use the guidance provided here to help plan inventory improvements and communicate with experts in these areas. 
+3A.2.1 Use of data prepared for other purposes 
+Two types of available databases may be used to classify land. In many countries, national datasets of the type 
+discussed below will be available. Otherwise, inventory compilers may use international datasets. Both types of 
+databases are described below. 
+NATIONAL DATABASES 
+These will usually be based on existing data, updated annually or periodically. Typical sources of data include 
+forest inventories, agricultural census and other surveys, censuses for urban and natural land, land registry data 
+and maps.  
+INTERNATIONAL DATABASES  
+Several projects have been undertaken to develop international land-use and land cover datasets at regional to 
+global scales (Annex 3A.1 lists some of these datasets). Almost all of these datasets are stored as raster data 
+generated using different kinds of satellite remote sensing imagery, complemented by ground reference data 
+obtained by field survey or comparison with existing statistics/maps. These datasets can be used for: 
+• Estimating spatial distribution of land-use categories. Conventional inventories usually provide only the total 
+sum of land-use area by classes. Spatial distribution can be reconstructed using international land-use and land 
+cover data as auxiliary data where national data are not available. 
+• Reliability assessment of the existing land-use datasets. Comparison between independent national and 
+international datasets can indicate apparent discrepancies and understanding these may increase confidence in 
+national data and/or improve the usability of the international data, if required for purposes such as 
+extrapolation. 
+• When using an international dataset, inventory compilers should consider the following:  
+(i) The classification scheme (e.g., definition of land-use classes and their relations) may differ from that 
+in the national system. The equivalence between the classification systems used by the country and the 
+systems described in Section 3.2 (Land-use categories) therefore needs to be established by contacting 
+the international agency and comparing their definitions with those used nationally. 
+(ii) Spatial resolution (typically 1km nominally but sometimes an order of magnitude more in practice) may 
+be coarse, so national data may need aggregating to improve comparability. 
+(iii) Classification accuracy and errors in geo-referencing may exist, though several accuracy tests are 
+usually conducted at sample sites. The agencies responsible should have details on classification issues 
+and tests undertaken. 
+(iv) As with national data, interpolation or extrapolation will probably be needed to develop estimates for 
+the time periods to match the dates required for reporting. 
+3A.2.2 Collection of new data by sampling methods 
+Sampling techniques for estimating areas and area changes are applied in situations where total tallies by direct 
+measurements in the field or assessments by remote sensing techniques are not feasible or would provide 
+inaccurate results. Sampling concepts that allow for estimation procedures that are consistent and unbiased, and 
+result in estimates that are precise, should be used.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Sampling usually involves a set of sampling units that are located on a regular grid within the inventory area. A 
+land-use class is then assigned to each sampling unit. Sampling units can be used to derive the proportions of land-
+use categories within the inventory area. Multiplying the proportions by the total area provides estimates of the 
+area of each land-use category. Where the total area is not known it is assumed that each sampling unit represents 
+a specific area. The area of the land-use category can then be estimated via the number of sampling units that fall 
+into this category. 
+Where sampling for areas is repeated at successive occasions, area changes over time can be derived to construct 
+land-use conversion matrices. 
+Applying a sample-based type for area assessment enables the calculation of sampling errors and confidence 
+intervals that quantify the reliability of the area estimates in each category. Confidence intervals can be used to 
+verify if observed category area changes are statistically significant and reflect meaningful changes. 
+Annex 3A.3 provides more information on sampling. 
+3A.2.3 Collection of new data in complete inventories 
+A complete inventory of land-use of all areas in a country will entail obtaining maps of land-use throughout the 
+country at regular intervals. This can be achieved by using remote sensing techniques. As outlined under Approach 
+3, the data will be most easily used in a GIS based on a set of grid cells or polygons supported by ground truth 
+data needed to achieve unbiased interpretation. Coarser scale data can be used to build data for the whole country 
+or appropriate regions. 
+A complete inventory can also be achieved by surveying all landowners and each would need to provide suitable 
+data where they own many different blocks of land. Inherent problems in the method include obtaining data at 
+scales smaller than the size of the owner’s land as well as difficulties with ensuring complete coverage with no 
+overlaps. 
+3A.2.4 Tools for data collection  
+REMOTE SENSING (RS) TECHNIQUES 
+An increasingly remarkable array of remote sensing and other geospatial data, methods, and tools have become 
+available in the last decade for consistent country-specific representation of land-use and land-use change. 
+Advances in a) spatial and temporal higher coverage leading to increased availability of remotely sensed data 
+routinely collected through earth observation satellites, b) time-series classification algorithms and related geodata 
+processing workflows, and c) geographic information system (GIS)-based integration of in situ, collateral, and 
+remote sensing data can be leveraged by inventory compilers for this purpose. Increased coordination and 
+collaboration between the international space agencies such as NASA, JAXA, ESA, etc., have led to improved 
+global remote sensing data collection and free availability and open access of high and moderate resolution datasets. 
+Determination of fitness for use of remote sensing and other geospatial data, products, and tools is the 
+responsibility of the user; the producer of remote sensing data on the other hand should provide the user with 
+sufficient metadata to help make such a determination. The current geospatial metadata standard is based on ISO 
+19115 which includes workflow provenance or lineage information. Provenance is vital to understand the exact 
+sources, nature, and order of processing steps taken to generate a remote sensing product, and is required to 
+understand how errors are expressed and propagated during the product’s creation (Tullis et al. 2015). Expertise 
+in remote sensing systems and data processing (Jensen 2016) is necessary to interpret fitness for use in this context, 
+and collaboration with a national or regional geospatial laboratory in the development of seamless remote sensing 
+derived products is strongly encouraged. It should be noted that relevant remote sensing theory and applications 
+have developed over more than a century (e.g., Thenkabail (2015); Jensen (2016)), and a detailed treatment cannot 
+be replicated here. Instead, key aspects will be highlighted relative to the point of view of an inventory compiler. 
+Determination of fitness for use may change over time as new sensors, methods, and workflows are developed and 
+become available. This process is punctuated as earth observation satellites are decommissioned at their end of life 
+and international investments are made in new launches with superior observation capacity. 
+There is no a priori restriction on which remote sensing products may contribute to a consistent representation of 
+lands, and no methodological requirement to maintain historical tradition. On the contrary, increased transparency, 
+replicability, and accuracy in representation of land-use activity data benefits from the development of new and 
+innovative geospatial workflows. Ensuring that land-use (of interest due to human activity) is consistently and 
+accurately represented over time is more important than the specific methods that are ultimately selected. To aid 
+compilers or reviewers in fitness for use determinations associated with remote sensing data and products, it is 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.39 
+suggested that remote sensing resolutions, time-series consistency, compatibility with forest and other land-use 
+definitions, and attribution of land-use change all be considered. 
+Remotely sensed data, as discussed here, are those acquired using sensors (e.g., optical, radar or lidar) on board 
+satellites, or airborne. Before these data can be effectively used to generate land-use activity data, various forms 
+of calibration and harmonization may be required. Classification can be accomplished either through expert visual 
+interpretation of the remotely sensed imagery, or by digital methods, or by some combination of the two. Some 
+remote sensing approaches produce reliable sample datasets while others generate wall-to-wall maps for each 
+epoch in the time-series of interest. Reliable reference data samples including (where possible) in situ or ground 
+survey data is utilized to both improve land-use products (e.g., to refine area estimates) as well as to estimate 
+accuracy of products incorporated in subsequent stages of the inventory process. 
+The strengths of remote sensing come from its ability to provide spatially explicit information for land 
+representation and repeated coverage, including the possibility of covering large and/or remote areas that are 
+difficult to access in situ. Archives of remote sensing data also span several decades and can therefore be used to 
+reconstruct historical time-series of land-use information. Remote sensing is particularly useful for obtaining area 
+estimates of land-use categories and for assisting in the identification of relatively homogeneous strata that can 
+guide the selection of sampling schemes and the number of samples to be collected. The challenges of remote 
+sensing are related to interpretation: the images need to be consistently and reliably translated into meaningful 
+information on land-use. Depending on the satellite sensor(s) involved, the data acquisition may be impaired by 
+the presence of atmospheric clouds, smoke and haze. Another concern, particularly when comparing data over 
+long time periods, is that remote sensing quality and resolutions may change over time. Further guidance is 
+provided to address these challenges in the context of common remote sensing definitions, state of the art methods 
+and approaches, and future possibilities particularly relevant to inventory compilers. 
+Remote sensing resolutions 
+Spatial 
+Spatial resolution refers to the approximate ground-projected dimensions of remotely sensed image pixels. Landsat 
+8 Operational Land Imager (OLI), for example, has a spatial resolution of 30 m, while the Sentinel 2 multispectral 
+instrument has higher spatial resolutions of 10 m and 20 m, depending on the band. In choosing appropriate spatial 
+resolution for land representation, it is critical to consider the minimum mapping unit (MMU), the smallest size 
+which determines whether a feature is captured from a remotely sensed image. Pixel area and detectability are two 
+important factors in assessing MMU suitability. A commonly accepted criterion is that the pixel area should not 
+exceed 1/4 MMU. For example, if MMU is 0.5 ha (5,000 m2) then Landsat data at 30 m spatial resolution (900 m2 
+pixel area) would meet the MMU criteria as there will be at least 5 Landsat pixels within the MMU. In contrast, 
+using MODIS sensor data at 250m pixel (62,500 m2 pixel area) would fail the MMU criteria as the area covered 
+by a single pixel is greater than the MMU. Spatial resolution is generally inversely related to spatial coverage; 
+higher spatial resolution sensors cover smaller areas and vice versa. This relationship has direct implications for 
+required processing time and expertise required and thus influences the total cost of the inventory. 
+Spectral 
+Spectral resolution describes the ability of a sensor to define wavelength intervals. As spectral resolution increases, 
+there is a greater number of possible channels or bands, and corresponding wavelength ranges for those bands are 
+narrower. Often a specific sensor’s spectral resolution is fixed and thus its potential applications are limited. In 
+general, the higher the spectral resolution, the greater the ability of the sensor to separate different variables and 
+to detect change. However, narrow wavelength ranges mean that less electromagnetic energy is available to 
+impinge upon the detectors, which can decrease signal to noise ratio (SNR). Given this principle, many of the 
+higher spatial resolution commercial satellites have relatively lower spectral resolutions. In general, there should 
+be a good balance between the amount of spectral bands and the spatial resolution depending on the application. 
+Temporal 
+Temporal resolution refers to the length of time required for a satellite to revisit a land area of interest. Temporal 
+resolution is related to image coverage and spatial resolution; i.e., sensors that cover the Earth more frequently, on 
+the order of a day (e.g., MODIS) or 16 days (e.g., Landsat 8), have higher coverage and lower spatial resolution. 
+However, this is changing with recent and planned satellite constellations (e.g., small satellites from Planet; 
+RADARSAT Constellation Mission, etc.). Due to some degree of overlap in the imaging swaths of adjacent orbits 
+and an increase in this overlap with latitude, some areas of the Earth tend to be re-imaged more frequently. Also, 
+some satellite systems can point off-nadir to image the same area between different satellite passes separated by 
+periods from one to five days. Adequate temporal resolution is critical for the development of image time-series 
+that contain information relevant to human activity. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.40 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Radiometric 
+Radiometric resolution is related to the sensitivity of the detector elements in a sensor. In general, higher 
+radiometric sensitivity leads to better discrimination of land cover and ultimately land use. Due to introduction of 
+noise from a variety of sources, consistent sensor radiometric resolution may be somewhat less than the bit-depth 
+reported in sensor specifications and may vary between bands due in part to the limitations of wavelength-
+dependent irradiance and atmospheric transmittance. Noticeable improvements in radiometric resolution and in its 
+reliability, has been observed in recent years as a function of sensor technology, such as the increase from the 8-
+bit specification in Landsat 5 TM, 12-bits in Landsat 8 OLI, and 14-bits in Landsat 9 OLI-2 (planned for launch 
+in 2020). 
+Types of remote sensing data 
+Commonly used types of remote sensing data are: 1) aerial imagery, 2) satellite imagery using visible and/or 
+infrared bands, 3) satellite or airborne radar imagery and, 4) satellite or airborne lidar data. Combinations of 
+different types of remote sensing data (e.g., visible/infrared and radar; different spatial or spectral resolutions) 
+might very well be used for assessing different land-use categories or regions. A complete remote sensing system 
+for tracking land-use conversions can include multiple sensor and data type combinations at a variety of resolutions, 
+with appropriate processing methods to ensure sensor system-related variables do not introduce classification 
+errors. 
+Important criteria for selecting remote sensing data and products are: 
+• Adequate land-use categorisation scheme; 
+• Appropriate spatial resolution and image extent;  
+• Appropriate temporal resolution for estimating of land-use conversion; 
+• Capability to perform accuracy assessment; 
+• Transparent methods applied in data acquisition and processing; and 
+• Consistency and availability over time. 
+1. Aerial photographs 
+Analysis of aerial photographs and most recently very high-resolution digital air photos can reveal forest tree 
+species and forest structure from which relative age distribution and tree health (e.g., needle loss in coniferous 
+forests, leaf loss and stress in deciduous forests) may be inferred. In agriculture, analysis can show crop species, 
+crop stress, and tree cover in agro-forestry systems. The smallest spatial unit possible to assess depends on the 
+type of aerial photos used, but for standard products it is often as small as 1 square meter.  
+2. Satellite images in visible and near infrared wavelengths 
+Complete land-use or land cover of large areas (national or regional) may be facilitated by the use of satellite 
+images. The possibility exists of obtaining long time-series of data from the desired area since the satellite 
+continuously and regularly passes over it. The images usually generate a detailed mosaic of distinct categories, but 
+the labelling into proper land cover and land-use categories commonly requires ground reference data from maps 
+or field surveys. The smallest unit to be identified depends on the spatial resolution of the sensor and the scale of 
+work. The most common multispectral sensor systems used for regional to national land cover and land-use 
+mapping have a spatial resolution of 10 – 30 meters. At a spatial resolution of 30 meters, for example, units as 
+small as 1 ha can be identified. Data from higher spatial resolution satellites are now also widely available (e.g., 
+ESA Sentinel-2). 
+3. Radar imagery 
+The most common type of radar data is from the so-called Synthetic Aperture Radar (SAR) systems that operate 
+at microwave frequencies. A major advantage of such systems is that they can penetrate clouds and haze and 
+acquire data during night-time. They may therefore be the only reliable source of remote sensing data in many 
+areas of the world with quasi-permanent cloud cover. By using different wavelengths and different polarisations, 
+SAR systems may be able to distinguish land cover categories (e.g., forest/non-forest), or the biomass content of 
+vegetation, although there are at present some limitations at high biomass due to signal saturation. Reports from 
+Japan Aerospace Exploration Agency (2010; 2011; 2014) provide detailed examples of orbital SAR data analysis 
+in support of forest and wetland monitoring. 
+4. Lidar  
+Like SAR, light detection and ranging (lidar) is an active sensor technology (transmits and later detects its own 
+energy). Laser light at a specific wavelength (e.g., 532 nm, 1,064 nm) is transmitted to the surface and some portion 
+is reflected/scattered back to the instrument. However, in contrast to SAR, lidar is used mostly to determine the 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.41 
+distance to and position of the reflective surface from the precise time and angles the pulse takes to return to the 
+sensor. By using stream of pulses transmitted across the surface, the relative elevation of each reflecting target can 
+be derived, producing a 3-dimensional (3D) point cloud that can be analysed for surface elevation and vegetation 
+structure as well as composition. In addition, although currently less commonly implemented, the intensity of 
+reflected energy can be used to evaluate properties of the reflected surface. Lidar generally has a narrow swath 
+width, particularly with airborne systems which generate the most precise and detailed data. It therefore requires 
+significant time and expense to acquire full coverage of large areas. In dynamic landscapes where, higher temporal 
+resolution is needed, such data are best suited for high spatial resolution sample-based analysis. 
+Remote sensing data pre-processing 
+Imagery captured by airborne or spaceborne sensors must be corrected for radiometric, geometric and topographic 
+distortions prior to using this data for land cover and land-use classification. The type of pre-processing depends 
+on type of sensor system such as optical or radar. A detailed description of pre-processing methods can be found 
+in Jensen (2016) and Richards (2013). Availability of seamless radiometrically corrected data in recent years has 
+made it much easier to use this data for land cover and land-use change detection (Roy et al. 2010; Hansen & 
+Loveland 2012; Hansen et al. 2013; Teillet 2015). Optical imagery might be affected by cloud cover, which can 
+be removed by combining data from multiple images acquired in the same season. Ubiquitous cloud cover can 
+benefit from recent advances (e.g., Fmask; see Zhu et al. 2015). GFOI (2016) provides detailed guidance on cloud 
+removal including the effects of shadows.  
+Development of country-specific remote sensing pre-processing capabilities may not always be practical. 
+Fortunately, major remote sensing data suppliers such as US Geological Survey (USGS), European Space Agency 
+(ESA), Japan Aerospace Exploration Agency (JAXA), and others are increasingly offering analysis ready data 
+(ARD), which is most suitable for extraction of land-use categories required for national GHG inventories. For 
+example, USGS (2017) is beginning to offer Landsat ARD using harmonized collections from Landsat 4, 5, 7, and 
+8 between 1982 and the present. When using global or country-specific georeferenced datasets, it is good practice 
+to ensure they meet national geodetic mapping standards. 
+Time-series consistency 
+Methodological changes and improvements in satellite data processing and calibration over time is a normal 
+practice and often result in improved products for change detection. It is also common to source data from multiple 
+sources and sensors, which, if not accounted properly, may result in inconsistent products that are unsuitable for 
+detecting land use change. It is therefore good practice to reprocess time-series data when new data or methods 
+become available such as those identified below: 
+• Availability of improved ground control points (GCPs). For example, when using Landsat data from the USGS, 
+it is important to use data from the same collection and tier for the entire time series. Combining data from 
+different tiers may result in misregistration;  
+• Availability of improved calibration or recalibration of sensors in response to degradation of sensor 
+performance over time; 
+• Availability of new data and processing methods such as Data Cube (CEOS 2016; Lewis et al. 2017); and 
+cloud-based data processing platforms (FAO 2018); 
+• Correction of errors. 
+There are many new sensors and types of remote sensing data available in recent years to assess land cover and 
+land-use changes. Using data from multiple sensors and sources, which is increasingly common, requires 
+consistent processing of time-series remote sensing data following the principles discussed in Chapter 5 of Volume 
+1: Time-Series Consistency. Summary of splicing techniques applicable to remote sensing data processing are: 
+• Overlap techniques can be used when a new higher resolution sensor data becomes available in recent years, 
+but such data are not available in the past. In such cases, data from old and new sensors can be compared for 
+at least one year (preferably more) to establish a consistent relationship between the two products. This 
+technique can be used, for example, to construct a consistent time-series using historic Landsat sensors and the 
+more recent Sentinel-2 sensors (Zhang et al. 2018). 
+• Interpolation techniques can be used where availability of remote sensing data from historic archives is limited. 
+In such cases best available data for intermittent years in the time-series can be interpolated to fill gaps in the 
+missing data.  
+Other techniques such as merging of different spatial resolution data can be used to fill the data gaps. Pixel 
+compositing is also another proven technique to construct best quality cloud free composites for classification. It 
+is important to collect remote sensing data obtained in the same season throughout the time-series to minimise 
+errors due to seasonal changes.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.42 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ground reference data 
+To make use of remote sensing data for inventories, and in particular to relate land cover to land-use it is good 
+practice to complement remote sensing data with in situ or ground reference data (often mistakenly called ground 
+“truth” data even though it may also contain sources of error). Ground reference data can either be collected 
+independently or obtained from forest or agricultural inventories. Land-uses that are rapidly changing over the 
+estimation period or that have vegetation cover known to be easily misclassified should be more intensively ground 
+sampled than other areas. This can typically only be done by using ground reference data, preferably from field 
+surveys collected independently. High spatial resolution imagery obtained from aerial/drone or orbiting satellites 
+may also be useful for reference and verification purposes. 
+Integration of remote sensing and geographical information systems 
+Visual interpretation of images is often used for identifying sampling sites for forestry inventories. The method is 
+simple, and reliable. However, it is labour intensive and therefore restricted to limited areas and may be affected 
+by subjective interpretations by different operators. 
+Effective use of remote sensing data generally requires integration of the extensive coverage that remote sensing 
+can provide with ground-based measurements or map data to represent areas associated with particular land uses 
+in space and time. This is generally achieved most cost effectively using a geographic information system (GIS). 
+Use of a GIS is the most common approach to combine multiple data sources including field measurements, survey 
+and census data. This information is essential to train image classification or machine learning algorithms used for 
+extracting land cover and land-use change. A number of important factors should be considered when combining 
+multiple data sources as discussed in Section 3.3.4.  
+Land-Use classification using remote sensing data 
+Classification of land cover using remotely sensed data may be done by visual or digital (computer based) analysis. 
+Each approach presents advantages and disadvantages. Visual analysis of imagery allows for human inference 
+through the evaluation of overall characteristics of the scene (analysis of the contextual aspects in the image). 
+Digital classification, on the other hand, allows several manipulations to be performed with the data, such as 
+merging of different spectral data, which can help to improve modelling of the biophysical ground data (such as 
+tree diameter, height, basal area, biomass) using the remotely sensed data. In addition, digital analysis allows for 
+the immediate computation of areas associated with the different land categories. It has developed rapidly in recent 
+decades, along with the associated technical computer development, making hardware, software and satellite data 
+readily available at low cost in most countries. Capacity to use these data and facilities may have to be outsourced 
+(e.g., using cloud-based computing platforms), particularly in mapping at the national level. 
+There has also been extensive research on the best methods for image classification and as a result a wide variety 
+of choices are available. Common image classification and machine learning algorithms include maximum 
+likelihood, decision trees (e.g., random forest), support vector machines and neural networks. Many of these are 
+available in standard image processing and statistical software packages (Jensen 2016). 
+Image classification begins with the definition of the categories or classes to be included in the map. In supervised 
+classification, it is necessary to provide training samples of each of the classes to be included. These samples could 
+come from a variety of sources, including sample sites from a national forest inventory, or could be obtained from 
+high spatial resolution images (GFOI 2016). Often images from a single date are used for image classification. 
+However, multiple images from different seasons can also be used in image classification to try to capture classes 
+with seasonal dynamics. Multi-season satellite data is particularly useful for mapping croplands, grasslands and 
+fallow lands. As the level of stratification increases, alternative sources of reference data to train classifiers will 
+be needed, such as prior vegetation maps or field plots.  
+Extraction of information from satellite images can also be done by visual interpretation. This is best done by a 
+subject matter expert familiar with the area being interpreted. However, this method can be very human resource 
+intensive (GOFC-GOLD 2016) because the number of pixels may be very large, and the interpretations can largely 
+vary due to human judgement, since it is hard to maintain consistency and repeatability between interpreters. 
+Moreover, the minimum mapping unit for land classification is often less than 5 ha, which can be tedious to 
+implement using visual interpretation. Further, differencing visually interpreted maps to develop change estimates 
+by polygon overlay analysis typically results in gaps between polygons. It is also very difficult to make 
+improvements to the resulting maps, especially once the time-series includes more than 3 or 4 epochs.  
+This may be overcome by applying image classification algorithms to give consistent results in allocating a pixel 
+to a category or another, or to segment the data. Unsupervised approaches use classification algorithms to assign 
+image pixels into one of many unlabelled class groupings. Expert image interpreters then assign each of the 
+groupings of pixels a value corresponding to the desired land class. Supervised approaches use ground reference 
+data or expert knowledge of the region to train the classification algorithms which then identify and label areas 
+similar to the input training data. The approaches have different challenges which are best addressed by iterative 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.43 
+trials: supervised classification may wish to use more classes than are statistically separable; unsupervised methods 
+may generate fewer classes than are desired and a given cover type may be split between several groupings. In 
+both cases data analysts can check the accuracy of classification outputs.  
+Rarely does the first attempt at image classification result in the final product. Close examination of the 
+classification results often reveals issues and problems that can be resolved by changing or refining training data 
+in the classification process. There are many ways to try to improve the results of a classification with noticeable 
+problems, including the addition of more or improved training data. It may also be helpful to include additional 
+kinds of data in the classification, such as topographic or climatic data (GFOI 2016). Any improvements in data 
+processing methods should be reflected in the entire time-series to improve the accuracy and consistency of output 
+data.  
+While two dates of satellite imagery may be useful for quickly depicting land cover change, identification of 
+permanent land-use changes may require more data and analysis. It is therefore good practice to ensure that all 
+land cover changes identified by satellite data are verified using sufficient spatial and temporal resolution imagery, 
+ground reference and other auxiliary datasets to isolate permanent land-use change from that of temporary loss of 
+forest cover. This process, referred as attribution of satellite derived land cover change, helps to identify human 
+induced land-use change. Typical data sets used in attribution include those with information relating to fires, 
+forest management areas, agricultural areas, road coverage and urban areas (Mascorro et al. 2015). As data 
+processing algorithms detect increasingly diverse change processes, the need to distinguish among the agents 
+causing the change becomes critical. Not only do different change types have different impacts on natural and 
+anthropogenic systems, they also provide insight into the overall processes controlling landscape condition. 
+Reaching this goal requires overcoming two central challenges. The first is related to scale mismatch: change 
+detection in digital images occurs at the level of individual pixels but change processes in the real world operate 
+on areas larger or smaller than pixels, depending on the process. The second is related to separability: change 
+agents are defined by natural and anthropogenic factors that have no connection with the spectral space on which 
+the change is initially detected. Different change agents may have nearly identical spectral signatures of change at 
+the pixel and even the patch level, and must be distinguished by factors completely outside the realm of remote 
+sensing (Kennedy et al. 2007).  
+Detection of land-use conversion using remote sensing 
+Remote sensing can be used to detect locations of change. Methods for change detection can be divided into two 
+categories (Singh, 1989): 
+Post-classification change detection: This refers to techniques where two or more predefined land cover/use 
+classifications exist from different points in time, and where the changes are detected, usually by subtraction of 
+the datasets. The techniques are straightforward but are also sensitive to inconsistencies in interpretation and 
+classification of the land-use categories.  
+Pre-classification change detection: This refers to more sophisticated and biophysical approaches to change 
+detection. Differences between spectral response data from two or more points in time are compared by statistical 
+methods and these differences are used to provide information on land cover/use changes. This type is less sensitive 
+to interpretation inconsistencies and can detect much more subtle changes than the post-classification approaches 
+but is less straightforward and requires access to the original remotely sensed data. 
+There are also other viable methods. For example, one can use change enhancements and visual interpretation.  
+Areas of change are highlighted through display of different band combinations, band differences or derived 
+indices (e.g., vegetation indices). This focuses attention on potential land-use conversions sites that can then be 
+delineated and attributed through manual or automated techniques. These methods are subject to human interpreter 
+inconsistencies but are capable of detecting subtle changes and better detecting and mapping land-use conversion 
+where land cover, context and auxiliary information is needed to determine land-use conversion. 
+Change detection is one of the most common uses of remote sensing data, and many methods have been used, 
+tested and proposed in the literature. GOFC-GOLD (2016) includes descriptions and examples of several change 
+detection methods and is a useful resource when considering options for combinations of methods and remote 
+sensing data to be used for mapping change. In general, at least two dates of images (end-points) are necessary to 
+map change. Image classification methods are commonly used, in which case multiple images are used to make 
+the assignment to stable classes (places that have not changed) as well as change classes, such as Forest Land to 
+Grassland (Woodcock et al. 2001). Such methods use the change in a spectral bands or indices as the basis for 
+detecting change land cover (Lambin & Strahlers 1994; Coppin et al. 2004).  
+Time-series classification 
+Data processing methods that use many images, or a time-series of images, have been developed and tested (Chen 
+et al. 2004; Kennedy et al. 2007; Furby et al. 2008; Zhuravleva et al. 2013). These approaches have many 
+advantages, as they are not so dependent on the conditions at the time the individual images were collected. Use 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.44 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+of a time-series of images can help avoid some kinds of errors in the monitoring of forest change (GFOI 2016). 
+For example, classification of time-series data can help make the distinction between permanent land-use change 
+and temporary loss of forest due to harvesting. 
+Change detection using two images has some advantages but also has some limitations (Jensen 2016). Direct 
+mapping of change categories has important benefits. The Australia’s Commonwealth Scientific and Industrial 
+Research Organization (CSIRO) National Inventory System – Land Cover Change Project (NIS-LCCP) provides 
+an example of how change can be confirmed from time-series information (Shimabukuro et al. 1998; Caccetta et 
+al. 2007; Potapov et al. 2012; Hansen et al. 2013). 
+Emerging remote sensing-derived land surface phenology (Morisette et al. 2009) represents a future opportunity 
+for innovation in national inventories. Land surface phenology not only supports the extraction of land cover  
+classes (e.g., Zhong et al. 2012), but offers valuable information on homogeneous landscape units (e.g., Bunker et 
+al. 2016). Areas with unique forest and agricultural cycles characterized by both natural and anthropogenic 
+influence may be difficult to ascertain with only a few representative images from a time-series. For example, even 
+relatively coarse spatial resolution homogenous landscape units extracted from a relatively dense time-series (e.g., 
+from bi-monthly MODIS-derived vegetation index) may support adaptive land-use extraction methodologies (e.g., 
+based on finer spatial resolution Landsat-derived time-series) within entire countries or regions. 
+Analysis of dense time-series remote sensing data can help in identifying forest disturbance events such as extent, 
+type and year of disturbance, status of pre and post-disturbance land cover, disturbance intensity and rates of 
+recovery (White et al. 2017). 
+Evaluation of mapping accuracy 
+Whenever a map of land cover or land-use is being used, inventory compilers should acquire information about 
+the reliability of the map. When such maps are generated from classification of remote sensing data, it should be 
+recognised that the reliability of the map is likely to vary between the different land categories. Some categories 
+may be uniquely distinguished while others may be confounded with others. For example, coniferous forest is 
+often more accurately classified than deciduous forest because its reflectance characteristics are more distinct, 
+while deciduous forest may easily be confounded with, for example, Grassland or Cropland. Similarly, it is often 
+difficult to ascertain changes in land management practices through remote sensing. For example, it may be 
+difficult to detect a change from intensive to reduced tillage on a specific land area. 
+Inventory compilers should estimate the accuracy of land-use/land cover maps on a category-by-category basis. A 
+number of sample points on the map and their corresponding real-world categories are used to create a confusion 
+matrix (see footnote 5 in Annex 3A.4) with the diagonal showing the proportion of correct identification and the 
+off-diagonal elements showing the relative proportion of misclassification of a land category into one of the other 
+possible categories. The confusion matrix expresses not only the accuracy of the map but it is also possible to 
+assess which categories are easily confounded with each other. Based on the confusion matrix, a number of 
+accuracy indices can be derived (Congalton, 1991). Multi-temporal analysis (analysis of images taken at different 
+times to determine the stability of land-use classification) can also be used to improve classification accuracy, 
+particularly in cases where ground truth data are limited. 
+GROUND-BASED SURVEYS 
+Ground-based surveys may be used to gather and record information on land-use, and for use as independent 
+ground-truth data for remote sensing classification. Prior to the advent of remote sensing techniques such as aerial 
+photography and satellite imagery, ground-based surveys were the only means of generating maps. The process is 
+essentially one of visiting the area under study and recording visible and/or other physical attributes of the 
+landscape for mapping purposes. Digitisation of boundaries and symbolising attributes are used to make hard copy 
+field notes and historical maps useful in Geographical Information Systems (GIS). This is done via protocols on 
+minimum land area delineation and attribute categorization that are linked to the scale of the resultant map and its 
+intended use. 
+Very precise measurements of area and location can be made using a combination of survey equipment such as 
+theodolites, tape measures, distance wheels and electronic distance measuring devices. Development of satellite 
+navigation systems means that location information can be recorded in the field directly into electronic format 
+using portable computer devices. Data are downloaded to an office computer for registration and coordination with 
+other layers of information for spatial analysis. 
+Landowner interviews and questionnaires are used to collect socio-economic and land management information 
+but may also provide data on land-use and land-use conversion. With this census type, the data collection agency 
+depends on the knowledge and records of landowners (or users) to provide reliable data. Typically, the resident is 
+visited and interviewed by a representative of the collection agency and data are recorded in a predetermined 
+format, or a questionnaire is issued to the land-user for completion. The respondent is usually encouraged to use 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.45 
+any relevant records or maps they may have, but questions may also be used to elicit information directly (Swanson 
+et al. 1997). 
+Census surveys are probably the oldest form of data collection methods (Darby, 1970). Land-user surveys can be 
+conducted on the entire population or a sample of suitable size. Modern applications employ a full range of 
+validation and accuracy assessment techniques. The survey may be undertaken through personal visits, telephone 
+interviews (often with computer-assisted prompts) or mail-out questionnaires. Land-user surveys start with the 
+formulation of data and information needs into a series of simple and clear questions soliciting concise and 
+unequivocal responses. The questions are tested on a sample of the population in order to ensure that they are 
+understandable and to identify any local technical terminology variations. For sample applications, the entire study 
+area is spatially stratified by appropriate ecological and/or administrative land units, and by significant categorical 
+differences within the population (e.g., private versus corporate, large versus small, pulp versus lumber, etc.). For 
+responses dealing with land areas and management practices, some geographic location, whether precise 
+coordinates, cadastral description or at least ecological or administrative units should be required of the respondent. 
+Post-survey validation of results is conducted by searching for statistical anomalies, comparing with independent 
+data sources, conducting a sample of follow-up verification questionnaires or conducting a sample of on-site 
+verification surveys. Finally, presentation of results must follow the initial stratification parameters. 
+Annex 3A.3 
+Sampling 
+No refinement. 
+Annex 3A.4 
+Overview of potential methods for developing 
+Approach 3 datasets 
+No refinement. 
+Annex 3A.5 
+Default climate and soil classifications 
+Climate regions are classified in order to apply emission and stock change factors for estimating biomass, dead 
+organic matter and soil C stock changes.  The default climate classification, provided in Figure 3A.5.1 (updated), 
+has been derived using the classification scheme shown in Figure 3A.5.2 based on the gridded Climate Research 
+Unit (CRU) Time Series (TS) monthly climate data for the period from 1985 to 2015 following the methodology 
+described by Harris et al. 2014. This classification should be used for Tier 1 methods because the default emission 
+and stock change factors were derived using this scheme. Note that climate regions are further subdivided into 
+ecological zones to apply the Tier 1 method for estimating biomass C stock changes (see Table 4.1, Chapter 4).  
+Inventory compilers have the option of developing a country-specific climate classification based on local climate 
+data, updated annually, if using Tier 2 and 3 methods, along with country-specific emission and stock change 
+factors. It is good practice to apply the same classification, either default or country-specific, across all land-use 
+types.  Thus, stock change and emission factors are assigned to each pool in a national inventory using a uniform 
+classification of climate.  
+Soils are classified in order to apply reference C stocks and stock change factors for estimation of soil C stock 
+changes, as well as the soil N2O emissions (i.e., organic soils must be classified to estimate N2O emissions 
+following drainage).  Organic soils are found in wetlands or have been drained and converted to other land-use 
+types (e.g., Forest Land, Cropland, Grassland, Settlements). Soils having organic material (Histosols) are defined 
+as (WRB, 2015): 
+1. Starting at the soil surface and having a thickness of ≥ 10 cm and directly overlying: 
+a. Ice, or 
+b. Continuous rock or technic hard material, or 
+c. Coarse fragments, the interstices of which are filled with organic material; or 
+2. Starting ≤ 40 cm from the soil surface and having within ≤ 100 cm of the soil surface a combined thickness 
+of either: 
+a. ≥ 60 cm, if ≥ 75% (by volume) of the material consists of moss fibres; or 
+b. ≥ 40 cm in other materials 
+All other types of soils are classified as mineral. A default mineral soil classification is provided in Figure 3A.5.3 
+for categorizing soil types based on the USDA taxonomy (USDA, 1999) and Figure 3A.5.4 for the World 
+Reference Base for Soil Resources Classification (FAO, 1998) (Note: Both classifications produce the same 
+default IPCC soil types). The default mineral soil classification should be used with Tier 1 methods because default 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.46 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+reference C stock and stock change factors were derived according to these soil types. Inventory compilers have 
+the option of developing a country-specific classification for mineral and/or organic if applying Tiers 2 and 3 
+methods, in combination with developing country-specific reference C stocks and stock change factors (or 
+emission factors in the case of organic soils). It is good practice to use the same classification of soils across all 
+land-use types. 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.47 
+Figure 3A.5.1 (Updated) 
+Delineation of major climate zones, updated from the 2006 IPCC Guidelines. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.48 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 3A.5.2 
+Classification scheme for default climate regions.  The classification is 
+based on elevation, mean annual temperature (MAT), mean annual 
+precipitation (MAP), mean annual precipitation to potential 
+evapotransporation ratio (MAP:PET), and frost occurrence. 
+ 
+ 
+No
+MAT>18°C
+and ≤ 7 days of 
+frost/year 
+Start
+Yes
+No
+MAT > 10°C?
+Yes
+MAP : PET
+>1?
+Yes
+Warm
+Temperate
+Moist
+No
+Warm
+Temperate
+Dry
+MAT
+>0°C?
+Elevation
+>1000m?
+Yes
+Tropical
+Montane
+No
+MAP>
+2000mm?
+Yes
+Tropical Wet
+No
+MAP ≤
+2000 mm and 
+>1000mm? 
+Yes
+Tropical Moist
+No
+Tropical Dry
+No
+Each Mean Monthly 
+Temperature
+<10°C?
+Yes
+MAP : PET
+>1?
+Yes
+Cool
+Temperate
+Moist
+No
+Cool
+Temperate
+Dry
+No
+MAP : PET
+>1?
+Yes
+Boreal Moist
+No
+Boreal Dry
+Yes
+MAP : PET
+>1?
+Yes
+Polar Moist
+No
+Polar Dry
+Yes
+Yes
+Yes
+No
+Yes
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.49 
+Figure 3A.5.3 
+Classification scheme for mineral soil types based on USDA taxonomy 
+ 
+Start
+Greater
+than 70% sand
+and less than 8%
+clay?
+Spodisols?
+Andisols?
+Aquic
+Soil?
+No
+Yes
+Yes
+Yes
+No
+No
+No
+Yes
+Yes
+No
+Mollisols,
+Vertisols, High-base
+status, Alfisols, Aridisols,
+Inceptisols?
+High Activity
+Clay Soils
+Sandy Soils
+Spodic Soils
+Low Activity
+Clay Soils
+Volcanic
+Soils
+Wetland Soils
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.50 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 3A.5.4 
+Classification scheme for mineral soil types based on World Reference 
+Base for Soil Resources (WRB) classification. 
+Start
+Greater
+ than 70%  sand 
+and less than 8% 
+clay?
+Gleysols?
+Andosols?
+Podzols?
+Leptosols, 
+Vertisols, Kastanozems, 
+Chernozems, Phaeozems, Luvisols, 
+Alisols, Albeluvisols, Solonetz, 
+Calcisols, Gypsisols,
+Umbrisols, Cambisols,
+Regosols?
+Sandy Soils
+Wetland Soils
+Volcanic Soils
+Spodic Soils
+Low Activity 
+Clay Soils
+High Activity 
+Clay Soils
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+No
+Yes
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.51 
+Annex 3A.6 
+Example process for allocating lands to IPCC 
+land-use classes using Approach 3 wall-to-wall 
+methods. 
+Figure 3A.6.1 shows a decision tree for allocating lands to the IPCC land-use categories when using Approach 3 
+wall-to-wall methods (i.e., where every land unit is assumed to have information on land cover over time). This 
+method may also be applicable for some sample-based methods. The process is applied to each area of land (e.g., 
+per pixel or vector unit) for each year of the inventory. The process uses three key types of information: land cover 
+and cover change, auxiliary data and reporting rules. This approach is highly flexible and allows for numerous 
+iterations depending on country circumstance.  
+Land cover and cover change data are typically obtained from mapping such as from remote sensing (see Appendix 
+3Ap.2.4). Auxiliary information comprises maps or other spatial and/or non-spatial information (proxies) that 
+provide context to guide assessment of land use from the land cover data. Spatial auxiliary information typically 
+includes maps of management or political boundaries (such as forest management areas or settlements), 
+geophysical conditions (e.g., soils, climate) and disturbances (e.g., fires, harvesting). Spatial auxiliary data can 
+also include analysis of the land cover time-series, looking forward and backward from the current years’ data to 
+determine, for example, if the cover change is temporary or part of another land use type. Non-spatial auxiliary 
+data such as management practices by region can also provide valuable context. Finally, reporting rules are used 
+to assign each unit to an IPCC land-use category, including the subcategories of land-use 'remaining' land-use and 
+land-use 'converted to' land-use. These rules include the temporary land cover change period (i.e., the length of 
+time a new land cover type remains in place before the land is considered to have changed land-use). These periods 
+may change for each land use category or sub-category based on country circumstances. 
+The decision tree can be applied at each year of the inventory. The following clarifying text related to two key 
+decision points will assist in its application: 
+1. For the first year of data (not the first reporting year), the process assigns each land unit into an IPCC land-use 
+category. All lands are placed into the ‘remaining’ subcategory as there is no data on conversions prior to the 
+first year of analysis.  
+Although not represented in this decision tree, where the first year of data is also the first reporting year it may be 
+necessary to assign some lands to conversion categories using other auxiliary information.  For example: 
+• The cover is identified as grass, but auxiliary maps show the land is a park within a residential area. In this 
+case the land may assigned to Settlements.  
+• The land is identified as grass, but the auxiliary map shows the land is within a forest management area and 
+all the future cover data shows the cover as forest. In this case it is possible to assume that the cover is part 
+of a harvest cycle and the land can be assigned to Forest Land. 
+2. After the initial year, the cover and auxiliary data are analysed annually (even if the auxiliary data is not updated 
+annually). The process is similar to the first step but includes additional analyses to ensure the lands are placed 
+in the correct remaining or conversion sub-categories. There are two main processes for analysing land use and 
+land use change depending on the cover change. 
+Land cover does not change. 
+• Where the cover and auxiliary data do not change, the land remains in the current remaining category. 
+• Where cover does not change, but auxiliary data does (for example, grass cover remains, but the urban 
+expansion means that the land is now classed as Settlements), the land is placed into the appropriate 
+converted to or remaining sub-category depending on the country specific reporting rules 
+Land cover does change. 
+• Where cover changes and the auxiliary data suggest a land use change, analyse the time-series of cover data 
+and apply the appropriate reporting rules to allocate the land to the appropriate converted to or remaining 
+sub-category. 
+• Where the cover data changes but the auxiliary data suggests this is not a land use change (e.g., forest 
+harvesting), analyse the time-series of cover data, apply the temporary destocking reporting rules and 
+allocate the land to the appropriate converted to or remaining sub-category. 
+Both national data and global datasets can be used to derive IPCC land-use categories from land cover information.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.52 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+To accurately report the area of land-use change categories in the first year of the time-series of a GHG inventory 
+requires estimates of areas of land-use changes that occurred before the initial reporting year. Since the area to be 
+reported in a land-use change category is the cumulative area of conversions occurred in the period Y-X, where Y 
+is the reporting year and X is the transition period length, in years, it is good practice to report a land-use 
+conversion in an appropriate conversion category. The default length of X is 20 years but may vary depending on 
+country circumstances.  
+Figure 3A.6.1 (New) 
+Decision tree for classifying land-use and land-use change through time 
+in Approach 3 
+Is this the first year 
+of cover data?
+Has 
+the land-use
+ remained the same 
+for longer than the 
+‘land remaining’
+period?
+Has the cover type 
+change since the 
+initial timestep?
+Yes
+Yes
+No
+No
+Determine new land 
+use using correct 
+cover and auxiliary 
+information
+Classify as land 
+remaining land 
+based on the 
+auxiliary data
+Classify as land 
+remaining land for this 
+inventory year
+Classify as land 
+converted to land for 
+this inventory year
+Yes
+No
+Does the auxiliary 
+data show a change 
+in Land use?
+Yes
+No
+Yes
+No
+Assign cover types to possible 
+land uses, identify auxiliary data 
+and set reporting rules
+Classify as land 
+remaining land 
+based on the current 
+cover
+Does 
+the auxiliary data 
+allocated the cover 
+to an alternate 
+IPCC class?
+Does 
+the change  in 
+cover type and 
+auxiliary data result in 
+land use 
+change?
+Does 
+the new cover 
+type remain for longer 
+than the temporary 
+change 
+period?
+Yes
+No
+No
+Yes
+Start
+ 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.53 
+References 
+REFERENCES FROM THE 2006 IPCC GUIDELINES 
+Congalton, R.G. (1991). A review of assessing the accuracy of classifications of remotely sensed data. Remote 
+Sensing of Environment37(1), pp. 35-46. 
+Darby, H.C. (1970). Doomsday Book – The first land utilization survey. The Geographical Magazine42(6), pp. 
+416 – 423. 
+FAO (1995). Planning for Sustainable use of Land Resources: Towards a New Type. Land and Water Bulletin 2, 
+Food and Agriculture Organisation, Rome Italy, 60 pp. 
+Scott, C.T. and Kohl, M. (1994). Sampling with partial replacement and stratification. Forest Science40 (1):30-46. 
+Singh, A. (1989). Digital change detection techniques using remotely sensed data. Int. J. Remote Sensing10(6), pp. 
+989 – 1003.  
+Swanson, B.E., Bentz, R.,…and Sofranco, A.J. (Eds.). (1997). Improving agricultural extension. A reference 
+manual. Food and Agriculture Organization of the United Nations, Rome. 
+USGS (2001). http://edcdaac.usgs.gov/glcc/ 
+REFERENCES NEWLY CITED IN THE 2019 REFINEMENT 
+Brack, C., Richards, G. & Waterworth, R. (2006) Integrated and Comprehensive Estimation of Greenhouse Gas 
+Emissions from Land Systems. Sustainability Science 1(1): 91-106. 
+Bunker, B. E., Tullis, J. A., Cothren, J. D., Casana, J. & Aly, M. H. (2016) Object-based Dimensionality Reduction 
+in Land Surface Phenology Classification. AIMS Geosciences 2(4): 302-328. 
+Caccetta, P. A., Furby, S. L., O’Connell, J., Wallace, J. F. & Wu, X. (2007) Continental Monitoring: 34 Years of 
+Land Cover Change Using Landsat Imagery. In: 32nd International Symposium on Remote Sensing of 
+Environment, pp. 25-29. San José, Costa Rica. 
+CEOS. (2016) Committee on Earth Observation Satellites [WWW document]. URL http://ceos.org/. 
+Chen, J., Jönsson, P., Tamura, M., Gu, Z., Matsushita, B. & Eklundh, L. (2004) A Simple Method for 
+Reconstructing a High-quality NDVI Time-series Data Set Based on the Savitzky–Golay Filter. Remote 
+Sensing of Environment 91(3): 332-344. 
+Coppin, P., Jonckheere, I., Nackaerts, K., Muys, B. & Lambin, E. (2004) Digital Change Detection Methods in 
+Ecosystem Monitoring: a Review. International Journal of Remote Sensing 25(9): 1565-1596. 
+Department of the Environment and Energy. (2018) National Inventory Report 2016: The Australian Government 
+Submission to the United Nations Framework Convention on Climate Change [WWW document]. URL 
+https://unfccc.int/documents/65705. 
+Environment and Climate Change Canada. (2018) National Inventory Report 1990-2016: Greenhouse Gas Sources 
+and Sinks in Canada - Canada’s Submission to the United Nations Framework Convention on Climate Change 
+[WWW document]. URL https://unfccc.int/documents/65715. 
+FAO. (1995) Global and national soils and terrain digital databases (SOTER) [WWW Document]. URL 
+https://www.isric.org/explore/soter. 
+FAO. (2018) SEPAL: System for Earth Observations, Data Access, Processing & Analysis for Land Monitoring 
+[WWW document]. URL https://sepal.io/. 
+Furby, S. L., Caccetta, P. A., Wu, X. & Chia, J. (2008) Continental Scale Land Cover Change Monitoring in 
+Australia using Landsat Imagery [WWW document]. In: International Conference on Studying, Modeling and 
+Sense Making of Planet Earth, p. 8. Mytilene, Lesvos, Greece. 
+GFOI. (2016) Integration of Remote-sensing and Ground-based Observations for Emissions and Removals of 
+Greenhouse Gases in Forests: Methods and Guidance from the Global Forest Observations Initiative [WWW 
+Document]. URL http://www.gfoi.org/reddcompass. 
+GOFC-GOLD. (2016) A Sourcebook of Methods and Procedures for Monitoring and Reporting Anthropogenic 
+Greenhouse Gas Emissions and Removals Associated with Deforestation, Gains and Losses of Carbon Stocks 
+in Forests Remaining Forests, and Forestation. In: GOFC-GOLD Land Cover Project Office - Report version 
+COP22-1, p. 268. The Netherlands: Wageningen University. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+3.54 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Hansen, M. C. & Loveland, T. R. (2012) A Review of Large Area Monitoring of Land Cover Change Using Landsat 
+Data. Remote Sensing of Environment 122(Supplement C): 66-74. 
+Hansen, M. C., Potapov, P. V., Moore, R., Hancher, M., Turubanova, S. A., Tyukavina, A., Thau, D., Stehman, S. 
+V., Goetz, S. J., Loveland, T. R., Kommareddy, A., Egorov, A., Chini, L., Justice, C. O. & Townshend, J. R. G. 
+(2013) High-Resolution Global Maps of 21st-Century Forest Cover Change. Science 342(6160): 850-853. 
+Harris, I., Jones, P. D., Osborn, T. J. & Lister, D. H. (2014) Updated High-resolution Grids of Monthly Climatic 
+Observations – the CRU TS3.10 Dataset. International Journal of Climatology 34(3): 623-642. 
+IPCC. (2014) 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. 
+In: ed. T. Hiraishi, Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. , p. 354. 
+Switzerland: IPCC. 
+JAXA. (2010) Science Team Reports Phase 1 (2006-2008). In: The ALOS Kyoto & Carbon Initiative, p. 243. 
+Tsukuba-shi Ibaraki, Japan: Japan Aerospace Exploration Agency. 
+JAXA. (2011) Science Team Reports Phase 2 (2009-2011). In: The ALOS Kyoto & Carbon Initiative, p. 253. 
+Tsukuba-shi Ibaraki, Japan: Japan Aerospace Exploration Agency. 
+JAXA. (2014) Science Team Reports Phase 3 (2011-2014). In: The ALOS Kyoto & Carbon Initiative, p. 436. 
+Tsukuba-shi Ibaraki, Japan: Japan Aerospace Exploration Agency. 
+Jensen, J. R. (2016) Introductory Digital Image Processing: A Remote Sensing Perspecitve. Pearson Education. 
+Kennedy, R. E., Cohen, W. B. & Schroeder, T. A. (2007) Trajectory-based Change Detection for Automated 
+Characterization of Forest Disturbance Dynamics. Remote Sensing of Environment 110(3): 370-386. 
+Kurz, W. A. & Apps, M. J. (2006) Developing Canada's National Forest Carbon Monitoring, Accounting and 
+Reporting System to Meet the Reporting Requirements of the Kyoto Protocol. Mitigation Adaptation Strategies 
+for Global Change 11(1): 33-43. 
+Lambin, E. F. & Strahlers, A. H. (1994) Change-vector Analysis in Multitemporal Space: A Tool to Detect and 
+Categorize Land-cover Change Processes using High Temporal-resolution Satellite Data. Remote Sensing of 
+Environment 48(2): 231-244. 
+Lewis, L., Oliver, S., Lymburner, L., Evans, B., Wyborn, L., Mueller, N., Raevksi, G., Hooke, J., Woodcock, R., 
+Sixsmith, J., Wu, W., Tan, P., Li, F., Killough, B., Minchin, S., Roberts, D., Ayers, D., Bala, B., Dwyer, J., 
+Dekker, A., Dhu, T., Hicks, A., Ip, A., Purss, M., Richards, C., Sagar, S., Trenham, C., Wang, P. & Wang, L. 
+(2017) The Australian Geoscience Data Cube — Foundations and Lessons Learned. Remote Sensing of 
+Environment (202): 276-292. 
+Mascorro, V., Coops, N. C., Kurz, W. A. & Olguín, M. (2015) Choice of Satellite Imagery and Attribution of 
+Changes to Disturbance Type Strongly Affects Forest Carbon Balance Estimates. Carbon Balance 
+Management: 10-30. 
+Merchant, J. & Narumalani, S. (2009) Integrating Remote Sensing and Geographic Information Systems. In: The 
+SAGE Handbook of Remote Sensing, eds. T. A. Warner, D. M. Nellis & G. M. Foody, pp. 257-268. London, 
+UK: SAGE Publications. 
+Morisette, J. T., Richardson, A. D., Knapp, A. K., Fisher, J. I., Graham, E. A., Abatzoglou, J., Wilson, B. E., 
+Breshears, D. D., Henebry, G. M., Hanes, J. M. & Liang, L. (2009) Tracking the Rhythm of the Seasons in the 
+Face of Global Change: Phenological Research in the 21st Century. Frontiers in Ecology and the Environment 
+7(5): 253-260. 
+Ogle, S. M., Buendia, L., Butterbach-Bahl, K., Breidt, F. J., Hartman, M., Yagi, K., Nayamuth, R., Spencer, S., 
+Wirth, T. & Smith, P. (2013) Advancing National Greenhouse Gas Inventories for Agriculture in Developing 
+Countries: Improving Activity Data, Emission Factors and Software Technology. Environmental Research 
+Letters 8: 015030. 
+Potapov, P. V., Turubanova, S. A., Hansen, M. C., Adusei, B., Broich, M., Altstatt, A., Mane, L. & Justice, C. O. 
+(2012) Quantifying Forest Cover Loss in Democratic Republic of the Congo, 2000–2010, with Landsat ETM+ 
+Data. Remote Sensing of Environment 122(Supplement C): 106-116. 
+Richards, J. A. (2013) Remote Sensing Digital Image Analysis: An Introduction. Berlin Heidelberg, Germany: 
+Springer-Verlag. 
+Roy, D. P., Ju, J., Kline, K., Scaramuzza, P. L., Kovalskyy, V., Hansen, M., Loveland, T. R., Vermote, E. & Zhang, 
+C. (2010) Web-enabled Landsat Data (WELD): Landsat ETM+ Composited Mosaics of the Conterminous 
+United States. Remote Sensing of Environment 114(1): 35-49. 
+ 
+Chapter 3: Consistent Representation of Lands 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.55 
+Seong, J. C. (2003) Modelling the Accuracy of Image Data Reprojection. International Journal of Remote Sensing 
+24(11): 2309-2321. 
+Shimabukuro, Y. E., Batista, G. T., Mello, E. M. K., Moreira, J. C. & Duarte, V. (1998) Using Shade Fraction 
+Image Segmentation to Evaluate Deforestation in Landsat Thematic Mapper Images of the Amazon Region. 
+International Journal of Remote Sensing 19(3): 535-541. 
+Swedish Environmental Protection Agency. (2016) National Inventory Report Sweden 2016: Greenhouse Gas 
+Emission Inventories 1990-2014 - Submitted Under the United Nations Framework Convention on Climate 
+Change and the Kyoto Protocol. p. 543. Stockholm, Sweden: Swedish Environmental Protection Agency. 
+Teillet, P. M. (2015) Overview of Satellite Image Radiometry in the Solar-Reflective Optical Domain. In: Remotely 
+Sensed Data Characterization, Classification, and Accuracies, ed. P. S. Thenkabail, pp. 87-108. Boca Raton, 
+United States: CRC Press. 
+Thenkabail, P. S. (2015) Remotely Sensed Data Characterization, Classification, and Accuracies. Boca Raton, 
+United States: CRC Press. 
+Tullis, J. A., Cothren, J. D., Lanter, D. P., Shi, X., Limp, W. F., Linck, R. F., Young, S. G. & Alsumaiti, T. (2015) 
+Geoprocessing, Workflows, and Provenance. In: Remotely Sensed Data Characterization, Classification, and 
+Accuracies. Remote Sensing Handbook, ed. P. Thenkabail, pp. 401-421. Boca Raton, United States: CRC Press. 
+UNEP/FAO. (1993) Report of the UNEP/FAO Expert Meeting on Harmonizing Land Cover and Land-use 
+Classifications. In: GEMS Report Series, Geneva, Switzerland: UNEP/FAO. 
+USGS. (2017) Landsat Analysis Ready Data (ARD) [WWW document]. URL https://landsat.usgs.gov/ard. 
+White, J. C., Wulder, M. A., Hermosilla, T., Coops, N. C. & Hobart, G. W. (2017) A Nationwide Annual 
+Characterization of 25 Years of Forest Disturbance and Recovery for Canada using Landsat Time Series. 
+Remote Sensing of Environment 194: 303-321. 
+Woodcock, C. E., Macomber, S. A., Pax-Lenney, M. & Cohen, W. B. (2001) Monitoring Large Areas for Forest 
+Change using Landsat: Generalization Across Space, Time and Landsat Sensors. Remote Sensing of 
+Environment 78(1): 194-203. 
+Zhang, H. K., Roy, D. P., Yan, L., Li, Z., Huang, H., Vermote, E., Skakun, S. & Roger, J.-C. (2018) Characterization 
+of Sentinel-2A and Landsat-8 Top of Atmosphere, Surface, and Nadir BRDF Adjusted Reflectance and NDVI 
+Differences. Remote Sensing of Environment 215: 482-494. 
+Zhong, L., Gong, P. & Biging, G. (2012) Phenology-based Crop Classification Algorithm and its Implications on 
+Agricultural Water Use Assessments in California’s Central Valley. Photogrammetric Engineering & Remote 
+Sensing 78(8): 799-813. 
+Zhu, Z., Wang, S. & Woodcock, C. E. (2015) Improvement and Expansion of the Fmask Algorithm: Cloud, Cloud 
+Shadow, and Snow Detection for Landsats 4–7, 8, and Sentinel 2 Images. Remote Sensing of Environment 159: 
+269-277. 
+Zhuravleva, I., Turubanova, S., Potapov, P., Hansen, M., Tyukavina, A., Minnemeyer, S., Laporte, N., Goetz, S., 
+Verbelen, F. & Thies, C. (2013) Satellite-based Primary Forest Degradation Assessment in the Democratic 
+Republic of the Congo, 2000–2010. Environmental Research Letters 8(2): 024034. 

@@ -1,0 +1,968 @@
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.1 
+CHAPTER 5 
+NON-ENERGY PRODUCTS FROM 
+FUELS AND SOLVENT USE 
+Volume 3: Industrial Processes and Product Use 
+5.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Jos G. J. Olivier (Netherlands) 
+Domenico Gaudioso (Italy), Michael Gillenwater (USA), Chia Ha (Canada), Leif Hockstad (USA), Thomas 
+Martinsen (Norway), Maarten Neelis (Netherlands), Hi-chun Park (Republic of Korea), and Timothy Simmons 
+(UK) 
+Contributing Author 
+Martin Patel (Netherlands) 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.3 
+Contents 
+5 
+Non-Energy Products from Fuels and Solvent Use.......................................................................................5.5 
+5.1 
+Introduction...........................................................................................................................................5.5 
+5.2 
+Lubricant use.........................................................................................................................................5.6 
+5.2.1 
+Introduction...................................................................................................................................5.6 
+5.2.2 
+Methodological issues...................................................................................................................5.6 
+5.2.2.1 
+Choice of method.....................................................................................................................5.7 
+5.2.2.2 
+Choice of emission factors.......................................................................................................5.9 
+5.2.2.3 
+Choice of activity data.............................................................................................................5.9 
+5.2.2.4 
+Completeness...........................................................................................................................5.9 
+5.2.2.5 
+Developing a consistent time series.......................................................................................5.10 
+5.2.3 
+Uncertainty assessment ...............................................................................................................5.10 
+5.2.3.1 
+Emission factor uncertainties.................................................................................................5.10 
+5.2.3.2 
+Activity data uncertainties .....................................................................................................5.10 
+5.2.4 
+Quality Assurance and Quality Control (QA/QC), Reporting and Documentation.....................5.10 
+5.2.4.1 
+Quality Assurance and Quality Control.................................................................................5.10 
+5.2.4.2 
+Reporting and Documentation...............................................................................................5.10 
+5.3 
+Paraffin wax use..................................................................................................................................5.11 
+5.3.1 
+Introduction.................................................................................................................................5.11 
+5.3.2 
+Methodological issues.................................................................................................................5.11 
+5.3.2.1 
+Choice of method...................................................................................................................5.11 
+5.3.2.2 
+Choice of emission factors.....................................................................................................5.12 
+5.3.2.3 
+Choice of activity data...........................................................................................................5.12 
+5.3.2.4 
+Completeness.........................................................................................................................5.13 
+5.3.2.5 
+Developing a consistent time series.......................................................................................5.13 
+5.3.3 
+Uncertainty assessment ...............................................................................................................5.13 
+5.3.3.1 
+Emission factor uncertainties.................................................................................................5.13 
+5.3.3.2 
+Activity data uncertainties .....................................................................................................5.13 
+5.3.4 
+Quality Assurance and Quality Control (QA/QC), Reporting and Documentation ................... 5.13 
+5.3.4.1 
+Quality Assurance and Quality Control.................................................................................5.13 
+5.3.4.2 
+Reporting and Documentation...............................................................................................5.13 
+5.4 
+Asphalt production and use.................................................................................................................5.14 
+5.4.1 
+Introduction.................................................................................................................................5.14 
+5.4.2 
+Methodological issues.................................................................................................................5.15 
+5.4.3 
+Completeness ..............................................................................................................................5.16 
+5.4.4 
+Uncertainty assessment ...............................................................................................................5.16 
+5.4.5 
+Reporting and Documentation.....................................................................................................5.16 
+5.5 
+Solvent use ..........................................................................................................................................5.16 
+Volume 3: Industrial Processes and Product Use 
+5.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.5.1 
+Introduction.................................................................................................................................5.16 
+5.5.2 
+Completeness ..............................................................................................................................5.17 
+5.5.3 
+Developing a consistent time series.............................................................................................5.17 
+5.5.4 
+Uncertainty assessment ...............................................................................................................5.17 
+References 
+.....................................................................................................................................................5.18 
+Equations 
+Equation 5.1 
+Basic formula for calculating CO2 emissions from non-energy product uses .......................5.5 
+Equation 5.2 
+Lubricants – Tier 1 method ...................................................................................................5.7 
+Equation 5.3 
+Lubricants – Tier 2 method ...................................................................................................5.8 
+Equation 5.4 
+Waxes – Tier 1 method........................................................................................................5.11 
+Equation 5.5 
+Waxes – Tier 2 method........................................................................................................5.11 
+Figures 
+Figure 5.1 
+Sectoral allocation of emissions from lubricants and waxes .................................................5.7 
+Figure 5.2 
+Decision tree for CO2 from non-energy uses of lubricants....................................................5.8 
+Figure 5.3  
+Decision tree for CO2 from non-energy uses of paraffin waxes..........................................5.12 
+Tables 
+Table 5.1 
+Non-energy product uses of fuels and other chemical products............................................5.6 
+Table 5.2 
+Default oxidation fractions for lubricating oils, grease and lubricants in general .................5.9 
+Box 
+Box 5.1 
+Asphalt production and use .................................................................................................5.14 
+ 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.5 
+5 NON-ENERGY PRODUCTS FROM FUELS AND 
+SOLVENT USE  
+5.1 
+INTRODUCTION 
+This section provides methods for estimating emissions from the first use of fossil fuels as a product for primary 
+purposes other than i) combustion for energy purposes and ii) use as feedstock or reducing agent. Emissions 
+from the latter two uses are accounted for by methods described in the chemical industry (Chapter 3) and in 
+metal industry (Chapter 4). 
+The products covered here comprise lubricants, paraffin waxes, bitumen/asphalt, and solvents. Emissions from 
+further uses or disposal of the products after first use (i.e., the combustion of waste oils such as used lubricants) 
+are to be estimated and reported in the Waste Sector when incinerated or in the Energy Sector when energy 
+recovery takes place. 
+Generally, the methods for calculating carbon dioxide (CO2) emissions from non-energy product uses follow a 
+basic formula, in which the emission factor is composed of a carbon content factor and a factor that represents 
+the fraction of fossil fuel carbon that is Oxidised During Use (ODU), e.g., actual co-combustion of the fraction 
+of lubricants that slips into the combustion chamber of an engine). This concept is applied to oxidation during 
+first use only of lubricants and paraffin waxes and not to subsequent uses (e.g., energy recovery):  
+EQUATION 5.1 
+BASIC FORMULA FOR CALCULATING CO2 EMISSIONS FROM NON-ENERGY PRODUCT USES 
+(
+)
+44/12
+2
+•
+•
+•
+= ∑
+i
+i
+i
+i
+ODU
+CC
+NEU
+CO Emissions
+ 
+Where: 
+CO2 Emissions = CO2 emissions from non-energy product uses, tonne CO2 
+NEUi = non-energy use of fuel i, TJ 
+CCi = specific carbon content of fuel i, tonne C/TJ (=kg C/GJ) 
+ODUi = ODU factor for fuel i, fraction 
+44/12 = mass ratio of CO2/C 
+ 
+The production and use of asphalt for road paving and roofing and the use of solvents derived from petroleum 
+and coal are either not sources or are negligible sources of direct greenhouse gas emissions. They are, however, 
+included in this chapter since they are sometimes substantial sources of non-methane volatile organic compounds 
+(NMVOC) and carbon monoxide (CO) emissions which eventually oxidise to CO2 in the atmosphere. The 
+resulting CO2 input can be estimated from the emissions of these non-CO2 gases (see Section 7.2.1.5 of Volume 
+1). While almost negligible for asphalt, for solvent use this may have some significance. Emissions from any 
+other non-energy product of fossil fuels not described here should be reported under the subcategory 2D4 
+‘Other’.  
+There may be a risk that some of the CO2 emissions calculated for this source category could be partly accounted 
+for elsewhere. Cases where this may occur are clearly indicated in the subsequent sections and should be cross-
+checked to avoid double counting. 
+Methane (CH4) emissions from the activities covered in this chapter are expected to be minor or not to occur at 
+all. Although some CH4 emissions occur from asphalt production and use for road paving, no method to estimate 
+CH4 emissions is provided since these emissions are expected to be very negligible. 
+Section 1.4 of Chapter 1 of this volume provides guidance for assessing consistency and completeness of carbon 
+emissions from non-energy and feedstock use of fuels by (a) checking that non-energy use/feedstock 
+requirements of processes included in the inventory are in balance with the non-energy use/feedstock supply as 
+recorded in national energy statistics, (b) checking that total reported bottom-up calculated CO2 emissions from 
+non-energy use/feedstock sources at different subcategory levels are complete and consistent, (c) documenting 
+and reporting how these emissions are allocated in the inventory. The sources described in this chapter are part 
+of the verification of completeness of fossil CO2 from non-energy sources and reporting of their allocation. 
+Volume 3: Industrial Processes and Product Use 
+5.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 5.1 
+ NON-ENERGY PRODUCT USES OF FUELS AND OTHER CHEMICAL PRODUCTS 
+Gases covered in this chapter
+Types of fuels used 
+Examples of non-energy uses 
+CO2 
+NMVOC, CO
+Lubricants 
+Lubricants used in transportation and industry; 
+Section 5.2 
+X 
+ 
+Paraffin waxes 
+Candles, corrugated boxes, paper coating, board 
+sizing, adhesives, food production, packaging; 
+Section 5.3 
+X 
+ 
+Bitumen; road oil and other 
+petroleum diluents  
+Used in asphalt production for road paving and 
+e.g., in roofing; Section 5.4 
+ 
+X 
+White spirit1, kerosene2, some 
+aromatics 
+As solvent e.g. for surface coating (paint), dry 
+cleaning; Section 5.5 
+ 
+X 
+ 
+5.2 
+LUBRICANT USE 
+5.2.1 
+Introduction 
+Lubricants are mostly used in industrial and transportation applications. Lubricants are produced either at 
+refineries through separation from crude oil or at petrochemical facilities. They can be subdivided into (a) motor 
+oils and industrial oils, and (b) greases, which differ in terms of physical characteristics (e.g., viscosity), 
+commercial applications, and environmental fate.  
+5.2.2 
+Methodological issues 
+The use of lubricants in engines is primarily for their lubricating properties and associated emissions are 
+therefore considered as non-combustion emissions to be reported in the IPPU Sector. However, in the case of 2-
+stroke engines, where the lubricant is mixed with another fuel and thus on purpose co-combusted in the engine, 
+the emissions should be estimated and reported as part of the combustion emissions in the Energy Sector (see 
+Volume 2). 
+It is difficult to determine which fraction of the lubricant consumed in machinery and in vehicles is actually 
+combusted and thus directly results in CO2 emissions, and the fraction not fully oxidised that results firstly in 
+NMVOC and CO emissions (except for the use in 2-stroke engines, which is excluded here). For this reason, 
+these NMVOC and CO emissions are very seldom reported by countries in the emission inventories. Therefore, 
+for calculating CO2 emissions the total amount of lubricants lost during their use is assumed to be fully 
+combusted and these emissions are directly reported as CO2 emissions. 
+Regulations and policies for the disposal of used oil in most OECD countries often restrict landfilling and 
+dumping, and encourage the separate collection of used oil. A small proportion of lubricants oxidises during use, 
+but the main contribution to emissions is when the waste lubricants are collected at the end of their use, in 
+accordance with country-specific regulations, and subsequently combusted. These waste oil handling emissions, 
+however, are to be reported in the Waste Sector (or in the Energy Sector when energy recovery takes place). 
+Figure 5.1 illustrates this. 
+                                                           
+1  Also known as mineral turpentine, petroleum spirits, industrial spirit (‘SBP’). 
+2  Also known as paraffin or paraffin oils (UK, South Africa). 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.7 
+Figure 5.1 
+Sectoral allocation of emissions from lubricants and waxes 
+Lubricants and
+Waxes
+Primary Usage
+(i.e., lubrication or
+for coating)
+Emissions reported in
+Energy Sector
+Emissions reported in
+Waste Sector
+Emissions reported
+in IPPU Sector
+Carbon
+released to
+atmosphere
+Carbon remaining 
+in products
+Carbon released
+to atmosphere
+Carbon released 
+to atmosphere
+Secondary fate
+after Primary Usage
+(i.e., Combusted for
+useful Heat/Energy)
+(i.e., Disposed,
+landfilled, or 
+incinerated)
+ 
+Since CH4 and N2O emissions are very small in comparison to CO2, these can be neglected for the greenhouse 
+gas calculation. 
+5.2.2.1 
+CHOICE OF METHOD 
+There are two methodological tiers for determining emissions from the use of lubricants. Both Tier 1 and Tier 2 
+rely on essentially the same analytical approach, which is to apply emission factors to activity data on the 
+amount of lubricant consumption in a country (in energy units, e.g., TJ). The Tier 2 method requires data on the 
+quantities of different types of lubricants, excluding the amount used in 2-stroke engines, in combination with 
+type-specific Oxidised During Use (ODU) factors to activity data, preferably country-specific, while the Tier 1 
+method relies on applying one default ODU factor to total lubricant activity data (see decision tree, Figure 5.2). 
+Since the default ODU factor is four times smaller for greases than for lubricating oils, using a higher tier 
+method will primarily capture the impact of using actual fractions of oils and greases in the emission calculation. 
+It is considered good practice to use the Tier 2 method when this is a key category. 
+Tier 1: CO2 emissions are calculated according to Equation 5.2 with aggregated default data for the limited 
+parameters available and the ODU factor based on a default composition of oil and greases in total lubricant 
+figures (in TJ units): 
+EQUATION 5.2 
+LUBRICANTS – TIER 1 METHOD 
+44/12
+2
+•
+•
+•
+=
+Lubricant
+Lubricant
+ODU
+CC
+LC
+Emissions
+CO
+ 
+Where: 
+CO2 Emissions = CO2 emissions from lubricants, tonne CO2 
+LC = total lubricant consumption, TJ 
+CCLubricant = carbon content of lubricants (default), tonne C/TJ (= kg C/GJ) 
+ODULubricant = ODU factor (based on default composition of oil and grease), fraction 
+44/12 = mass ratio of CO2/C 
+Volume 3: Industrial Processes and Product Use 
+5.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 2: The Tier 2 method for lubricants relies on a similar equation, however detailed data on the quantities 
+consumed per type of lubricants use (in energy units, e.g., TJ) and, preferably, country-specific emission factors 
+should be used. The emission factors are composed of fuel type specific carbon content and the ODU factor: 
+EQUATION 5.3 
+LUBRICANTS – TIER 2 METHOD 
+(
+)
+44/12
+2
+•
+•
+•
+= ∑
+i
+i
+i
+i
+ODU
+CC
+LC
+CO Emissions
+ 
+Where: 
+CO2 Emissions = CO2 emissions from lubricants, tonne CO2 
+LCi = consumption of lubricant type i, TJ 
+CCi = carbon content of lubricant type i, tonne C/TJ (= kg C/GJ) 
+ODUi = ODU factor for lubricant type i, fraction 
+44/12 = mass ratio of CO2/C 
+Lubricant i refers to motor oils/industrial oils and greases separately, excluding the amount used in 2-stroke 
+engines.  
+In both tiers the carbon contents may be the default value for lubricants described in Volume 2 (Chapter 1, Table 
+1.3), or a country-specific value, if available. 
+Figure 5.2 
+Decision tree for CO2 from non-energy uses of lubricants 
+Start
+Are data collected for 
+non-energy uses of lubricants, motor oils 
+and greases?
+Yes
+Are country-specific
+statistics available on the fates and 
+composition of lubricants, motor oils 
+and greases?
+No
+Estimate CO2 emissions using country-
+specific quantities of lubricants, excluding 
+the amount used in 2-stroke engines (see
+Figure 5.1 in this Chapter and Volume 2, 
+Chapter 3 on road transportation)
+Box 2: Tier 2
+Estimate CO2 emissions using
+the IPCC default oxidation fraction.
+Collect data for the Tier 2 method.
+Box 1: Tier 1
+No
+Yes
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Collect activity data.
+Is Category 2D
+a key category1 and is Lubricant
+Use a significant
+subcategory?
+No
+Yes
+ 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.9 
+5.2.2.2 
+CHOICE OF EMISSION FACTORS 
+The emission factor is composed of a specific carbon content factor (tonne C/TJ) multiplied by the ODU factor. 
+A further multiplication by 44/12 (the mass ratio of CO2/C) yields the emission factor (expressed as tonne 
+CO2/TJ). For lubricants the default carbon contents factor is 20.0 kg C/GJ on a Lower Heating Value basis. (See 
+Table 1.3 in Chapter 1 of Volume 2. Note that kg C/GJ is identical to tonne C/TJ.) It is assumed that use is 
+combustion resulting in 100 percent oxidation to CO2, with no long-term storage of carbon in the form of ash or 
+post-combustion residue. A small fraction of lubricating oils is oxidised during use (see Table 5.2). An even 
+smaller fraction of greases are oxidised during use. Default ODU factors for oils (20 percent) and greases (5 
+percent) are based on limited available data (Table 5.2). 
+Tier 1: Having only total consumption data for all lubricants (i.e., no separate data for oil and grease), the 
+weighted average ODU factor for lubricants as a whole is used as default value in the Tier 1 method. Assuming 
+that 90 percent of the mass of lubricants is oil and 10 percent is grease, applying these weights to the ODU 
+factors for oils and greases yields an overall (rounded) ODU factor of 0.2 (Table 5.2). This ODU factor can then 
+be applied to an overall carbon content factor, which may be country-specific or the default value for lubricants 
+to determine national emission levels from this source when activity data on the consumption of lubricants is 
+known (Equation 5.2).  
+Tier 2: Those countries with specific details on the specific quantities of lubricants used as motor oils/industrial 
+oils and as greases can apply different ODU factors, either the default values of 0.2 and 0.05, respectively, or 
+their own ODU factors for lubricants and greases based on national knowledge. These default or country-specific 
+ODU factors can then be multiplied with the country-specific carbon content factors or the single default IPCC 
+carbon content factor for lubricants to determine national emission levels (Equation 5.3). 
+TABLE 5.2 
+DEFAULT OXIDATION FRACTIONS FOR LUBRICATING OILS, GREASE AND LUBRICANTS IN GENERAL 
+Lubricant / type of use 
+Default fraction in total lubricant a (%)
+ODU factor 
+Lubricating oil (motor oil /industrial oils) 
+90 
+0.2 
+Grease 
+10 
+0.05 
+IPCC Default for total lubricants b 
+ 
+0.2 
+a Excluding the use in 2-stroke engines. 
+b Assuming 90 percent lubricating oil consumption and 10 percent grease consumption and rounded to one significant digit. 
+Source: Rinehart (2000).  
+ 
+5.2.2.3 
+CHOICE OF ACTIVITY DATA 
+Data on the non-energy use of lubricants are required to estimate emissions, with activity data expressed in 
+energy units (TJ). To convert consumption data in physical units, e.g., in tonnes, into common energy units, e.g., 
+in TJ (on a Lower Heating Value basis), calorific values are required (for specific guidance see Section 1.4.1.2 of 
+Chapter 1 of Volume 2 on Energy). Basic data on non-energy products used in a country may be available from 
+production, import and export data and on the energy/non-energy use split in national energy statistics. 
+Additional information may need to be collected to determine the amount of lubricants being used in 2-stroke 
+engines, which should be excluded from the Tier 2 calculation in this source category. For the Tier 2 method, the 
+individual quantities applied as motor oil/industrial oils and as greases need to be separately known. For specific 
+guidance on the data collection for lubricants used for 2-stroke engines, see Chapter 3 on Road Transport of 
+Volume 2: Energy. 
+5.2.2.4 
+COMPLETENESS 
+Emissions from the use of lubricants in 2-stroke engines should be accounted for in the Energy Sector. Any 
+emissions that occur due to oxidation from post-use combustion or degradation after disposal should be 
+accounted for separately in the Waste Sector (or Energy Sector, if combustion is used for energy recovery). To 
+avoid double counting and to ensure completeness, the proper allocation of those emissions not related to the 
+non-combustion usage of lubricants in the Energy and Waste Sectors should be cross-checked. 
+Volume 3: Industrial Processes and Product Use 
+5.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.2.2.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+Emissions from lubricants should be calculated using the same method and data sets for every year in the time 
+series.  
+5.2.3 
+Uncertainty assessment 
+5.2.3.1 
+EMISSION FACTOR UNCERTAINTIES 
+The default ODU factors developed are very uncertain, as they are based on limited knowledge of typical 
+lubricant oxidation rates. Expert judgment suggests using a default uncertainty of 50 percent. 
+The carbon content coefficients are based on two studies of the carbon content and heating value of lubricants, 
+from which an uncertainty range of about ±3 percent is estimated (U.S.EPA, 2004).  
+5.2.3.2 
+ACTIVITY DATA UNCERTAINTIES 
+Much of the uncertainty in emission estimates is related to the difficulty in determining the quantity of non-
+energy products used in individual countries, for which a default of 5 percent may be used in countries with well 
+developed energy statistics and 10-20 percent in other countries, based on expert judgement of the accuracy of 
+energy statistics. If the amount of lubricants used in 2-stroke engines, which is to be subtracted from the total 
+consumption used here, is not known, the uncertainty in the activity data will be higher and biased (too high). In 
+countries where a large fraction of the use is in 2-stroke engines, the uncertainty range in the activity data in this 
+section is much higher at the lower end, and can be estimated from the estimated share of 2-stroke engines in the 
+national consumption total. 
+5.2.4 
+Quality Assurance and Quality Control (QA/QC), 
+Reporting and Documentation 
+5.2.4.1 
+QUALITY ASSURANCE AND QUALITY CONTROL 
+It is good practice to check the consistency of the total annual consumption figure with the production, import 
+and export data. In addition, it is recommended to compare the amounts discarded, recovered and combusted and 
+the amount used in 2-stroke engines, if available, with total consumption figures in the calculation to check the 
+internal consistency of activity data and ODU factors used in the calculation of different source categories across 
+sectors. 
+5.2.4.2 
+REPORTING AND DOCUMENTATION 
+It is good practice to report and document: 
+• 
+The total amount of lubricants produced, imported, exported, consumed, and discarded are to be reported 
+when available. In addition, the amount used for 2-stroke engines and subtracted should be reported. If the 
+latter information is not available or not used in the emission calculation this should be reported. 
+• 
+When using the Tier 2 method, the consumption data should be reported per type of lubricant used in the 
+calculation. 
+• 
+If the default ODU factor is used, this should be noted in the reporting documentation. 
+• 
+If a country-specific emission factor for lubricants was developed, in other words, if a country-specific ODU 
+factor and/or country-specific carbon contents fraction is used, the corresponding data should be provided 
+with an explanation of how this was measured. 
+• 
+The allocation of CO2 emissions from lubricants in Table 1.6 on the allocation of CO2 from non-energy use 
+of fossil fuels (see Chapter 1 of this volume). 
+ 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.11 
+5.3 
+PARAFFIN WAX USE 
+5.3.1 
+Introduction 
+The category, as defined here, includes such products as petroleum jelly, paraffin waxes and other waxes, 
+including ozokerite (mixtures of saturated hydrocarbons, solid at ambient temperature). Paraffin waxes are 
+separated from crude oil during the production of light (distillate) lubricating oils. Paraffin waxes are categorised 
+by oil content and the amount of refinement. 
+5.3.2 
+Methodological issues 
+Waxes are used in a number of different applications. Paraffin waxes are used in applications such as: candles, 
+corrugated boxes, paper coating, board sizing, food production, wax polishes, surfactants (as used in detergents) 
+and many others. Emissions from the use of waxes derive primarily when the waxes or derivatives of paraffins 
+are combusted during use (e.g., candles), and when they are incinerated with or without heat recovery or in 
+wastewater treatment (for surfactants). In the cases of incineration and wastewater treatment the emissions 
+should be reported in the Energy or Waste Sectors, respectively (see Figure 5.1).  
+5.3.2.1 
+CHOICE OF METHOD 
+There are two methodological tiers for determining emissions and storage from paraffin waxes. Both Tier 1 and 
+Tier 2 rely on essentially the same analytical approach, which is to apply emission factors to activity data on the 
+amount of paraffin waxes consumed in a country (in energy units, e.g., TJ). The Tier 2 method relies on 
+determining the actual use of paraffin waxes and applying a country-specific ODU factor to activity data, while 
+the Tier 1 method relies on applying default emission factors to activity data (see decision tree, Figure 5.3).  
+Tier1: CO2 emissions are calculated according to Equation 5.4 with aggregated default data for the limited 
+parameters available: 
+EQUATION 5.4 
+WAXES – TIER 1 METHOD 
+44 /12
+2
+•
+•
+•
+=
+Wax
+Wax
+ODU
+CC
+PW
+Emissions
+CO
+ 
+Where: 
+CO2 Emissions = CO2 emissions from waxes, tonne CO2 
+PW = total wax consumption, TJ 
+CCWax = carbon content of paraffin wax (default), tonne C/TJ (= kg C/GJ) 
+ODUWax = ODU factor for paraffin wax, fraction 
+44/12 = mass ratio of CO2/C 
+Tier 2: The Tier 2 method for paraffin waxes relies on a similar equation, however detailed data on the 
+quantities (possibly also on the types) of paraffin waxes produced (in energy units) and their respective use as 
+well as country-specific emission factors should be used: 
+EQUATION 5.5 
+WAXES – TIER 2 METHOD 
+(
+)
+44/12
+2
+•
+•
+•
+= ∑
+i
+i
+i
+i
+ODU
+CC
+PW
+CO Emissions
+ 
+Where: 
+CO2 Emissions = CO2 emissions from waxes, tonne CO2 
+PWi = consumption of was type i, TJ 
+CCi = carbon content of wax type i, tonne C/TJ (= kg C/GJ) 
+ODUi = ODU factor for wax type i, fraction 
+44/12 = mass ratio of CO2/C 
+Volume 3: Industrial Processes and Product Use 
+5.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 5.3  
+Decision tree for CO2 from non-energy uses of paraffin waxes  
+Start
+Are data collected for 
+non-energy uses of paraffin
+waxes?
+Yes
+Are country-specific
+statistics available on the fates 
+of waxes?
+No
+Estimate CO2 emissions using 
+a country-specific ODU factor.
+Box 2: Tier 2
+Estimate CO2 emissions using
+the IPCC default ODU factor.
+Collect data for the Tier 2 method.
+Box 1: Tier 1
+No
+Yes
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Collect activity data.
+Is Category 2D
+a key category1 and is Paraffin
+Wax Use a significant
+subcategory?
+No
+Yes
+ 
+5.3.2.2 
+CHOICE OF EMISSION FACTORS 
+A country-specific carbon content or default carbon content of 20.0 kg C/GJ (on a Lower Heating Value basis) 
+should be applied. (See Table 1.3 in Chapter 1 of Volume 2. Note that kg C/GJ is identical to tonne C/TJ.) This 
+default value is based on a combustion emission factor of 73.3 kg CO2/GJ (API, 2004). 
+Tier 1: It can be assumed that 20 percent of paraffin waxes are used in a manner leading to emissions, mainly 
+through the burning of candles, leading to a default ODU factor of 0.2 (Equation 5.4). 
+Tier 2: Those countries with specific details on the uses of paraffin waxes in the country can determine their 
+own country-specific ODU factors for waxes based on national knowledge of the combustion (Equation 5.5). 
+These factors can be combined with either the default carbon contents listed above or a country-specific carbon 
+contents if any are available. 
+5.3.2.3 
+CHOICE OF ACTIVITY DATA 
+Data on the use of paraffin waxes are required to estimate emissions, with activity data expressed in energy units 
+(TJ). To convert consumption data in physical units, e.g., in tonnes, into common energy units, e.g., in TJ (on a 
+Lower Heating Value basis), calorific values are required (for specific guidance see Section 1.4.1.2 of Chapter 1 
+of Volume 2 on Energy). Basic data on non-energy products used in a country may be available from production, 
+import and export data and on the energy/non-energy use split in national energy statistics. If the reported 
+national statistics do not contain this as a separate fuel category but instead only show this as part of an 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.13 
+aggregated ‘other oil products’ category, the national statistical agency should be contacted, since the oil product 
+statistics are often collected at a more detailed level. 
+5.3.2.4 
+COMPLETENESS 
+Emissions from incineration (without heat recovery) of wax coated boxes fall under the Waste Sector. Any 
+emissions from paraffin waxes that are produced due to energy recovery should be reported in the Energy Sector. 
+5.3.2.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+Emissions from paraffin waxes should be calculated using the same method and data sets for every year in the 
+time series. If a country-specific ODU factor is used, inventory compilers are encouraged to check whether the 
+mix of applications with emissive and storage fates changes significantly over time. If that is the case, the ODU 
+factors used per year should preferably reflect this change. 
+5.3.3 
+Uncertainty assessment 
+5.3.3.1 
+EMISSION FACTOR UNCERTAINTIES 
+The default emission factors are highly uncertain, because knowledge of national circumstances of paraffin wax 
+fates is limited. Ideally, a Tier 2 method would be employed in which national data on the use and fates of waxes 
+can be used as a surrogate to determine the quantities destined for an emissive fate versus storage fate. The 
+default carbon content coefficient is subject to an uncertainty range of ±5 percent (U.S.EPA, 2004). However, 
+the ODU factor is highly dependent on specific-country conditions and policies and the default value of 0.2 
+exhibits an uncertainty of about 100 percent. 
+5.3.3.2 
+ACTIVITY DATA UNCERTAINTIES 
+Much of the uncertainty in emission estimates is related to the difficulty in determining the quantity of non-
+energy products used and discarded in individual countries, for which a default of 5 percent may be used in 
+countries with well developed energy statistics and 10-20 percent in other countries, based on expert judgement 
+of the accuracy of energy statistics. 
+5.3.4 
+Quality Assurance and Quality Control (QA/QC), 
+Reporting and Documentation 
+5.3.4.1 
+QUALITY ASSURANCE AND QUALITY CONTROL 
+It is good practice to check the consistency of the total annual consumption figure with the production, import 
+and export data. In addition, the amounts discarded, recovered and combusted, if available, may be compared 
+with total consumption figures in the calculation to check the internal consistency of activity data and ODU 
+factors used in the calculation of different source categories across sectors. 
+5.3.4.2 
+REPORTING AND DOCUMENTATION 
+It is good practice to report and document country-specific emission factors, if these are used. 
+• 
+If a country-specific emission factor for waxes was developed, in other words, if a country-specific ODU 
+factor and/or country-specific carbon content fraction is used, the local value(s) with an explanation of their 
+derivation should be provided . 
+• 
+If the default ODU factor is used, this should be noted in the reporting documentation. 
+ 
+Volume 3: Industrial Processes and Product Use 
+5.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.4 
+ASPHALT PRODUCTION AND USE 
+5.4.1 
+Introduction 
+This source category comprises the non-combustion emissions from the production of asphalt in asphalt plants 
+other than refineries and its application (such as paving and roofing operations as well as subsequent releases 
+from the surfaces). It includes asphalt blowing for roofing. The production and use of asphalt results mainly in 
+emissions of NMVOC, CO, SO2 and particulate matter, while the fate of the remaining hydrocarbons are stored 
+in the product (much less than one per cent of the carbon is emitted). Emissions from the installation of roofing 
+materials are assumed negligible. Emissions from the combustion of fuels needed to supply heat to the asphalt 
+processes (production or heating of the asphalt mix) are covered under the Energy Sector. 
+Asphalt is commonly referred to as bitumen, asphalt cement, or asphalt concrete or road oil and is mainly 
+produced in petroleum refineries. In some countries the laid mixed product is also referred to as ‘asphalt’ but it 
+also known as ‘macadam’. In view of the ambiguities created by differing nomenclatures, a single set of terms 
+will be adopted here and applied uniformly in the text without implying any preferences for the terms used (see 
+Box 5.1). 
+BOX 5.1 
+ASPHALT PRODUCTION AND USE 
+The heavy black and very viscous organic liquid mainly produced from refineries and used as a 
+feedstock for the road paving and roofing materials will be termed bitumen, to distinguish it from 
+the products made from it. This also conforms to the terminology used in international energy 
+statistics, which may provide some of the data required for emissions estimation. At normal 
+temperatures bitumen is in a semi-solid state. It is processed and used as illustrated in the figure 
+below. 
+Aggregates
+Hot Mix 
+Asphalts
+Bitumen ex 
+refinery
+Blown 
+Asphalts
+Heat
+Liquefied 
+Asphalts
+Heat
+Air
+Roofing 
+materials
+Tack Coats
+Emulsified
+Cutback
+Diluents 
+(gas oil, fuel 
+oil, etc.)
+Water/
+Soaps
+Road paving
+ 
+ 
+The diagram shows that bitumen may be heated and mixed with aggregate of various sizes, diluted 
+with petroleum oils or water/soap emulsions, or heated and blown with air to polymerise/stabilise 
+it and make it suitable for e.g., the treatment of roofing materials. These will be termed ‘asphalt 
+processes’ and their products will be referred to as ‘asphalt products’ 
+ 
+Bitumen and aggregates are mixed in either a fixed or mobile plant, usually within 30 to 50 km of the road 
+surface paving site (EAPA, 2003). In industrialised countries typically 80 to 90 percent of bitumen is used for 
+the manufacture of road surface paving (U.S.EPA, 2004). However, in developing countries with rapid 
+infrastructural growth, the amount of bitumen used for roofing products may be of the same order of magnitude 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.15 
+as those used for road paving (UNFCCC, 2004). Other uses of asphalt products are as binder or sealant in the 
+production of roofing material, as a foundation sealant, and other industrial uses such as pipe coating. 
+Direct greenhouse gas emissions, e.g., CO2 or CH4, associated with the production and use of asphalt are 
+negligible since the majority of the light hydrocarbon compounds were extracted during the refining process to 
+produce commercial fuels. From the EMEP/CORINAIR guidebook it can be concluded that CH4 emissions from 
+hot mix asphalt and cutback asphalt and from the asphalt roofing industry are negligible (EEA, 2005). 
+Greenhouse gas emissions from the use of recycled asphalt pavements as aggregate for new road paving are also 
+negligible. 
+5.4.2 
+Methodological issues 
+Emission methodologies and default emission factors for NMVOC and CO are presented in the Road Paving 
+(SNAP code 040610), Roofing Materials (SNAP code 040611) and Asphalt Blowing (SNAP code 060310) 
+sections of the EMEP/CORINAIR Emission Inventory Guidebook (EEA, 2005). It is recommended that users 
+refer to the guidebook when developing detailed NMVOC and CO estimates. (See also Volume 1, Chapter 7 of 
+these Guidelines.) Note that in EMEP/CORINAIR the emissions from asphalt blowing for roofing are separately 
+accounted for (under miscellaneous chemical product manufacture with SNAP code 060310). 
+Limestone may be used as part of the aggregate in the asphalt. However, no CO2 is assumed to be released in the 
+heating process (see Section 2.5, Other Process Uses of Carbonates, under Chapter 2 of  this volume).  
+PRODUCTION AND USE OF ASPHALT FOR ROAD PAVING 
+Asphalt paving consist of a mix of aggregate, sand, filler, bitumen and occasionally a number of additives. 
+Asphalt road surfaces are, thus, composed of compacted aggregate and bitumen binder. Hot Mix Asphalt (HMA) 
+is by far the most widely used, generally over 80 percent, and produces very few emissions (EAPA, 2003). Other 
+types of road paving include cutback asphalt and emulsified asphalt, which are both liquefied asphalts (EEA, 
+2005). Cutback asphalts are liquefied by blending with petroleum solvents (diluents such as heavy residual oils, 
+kerosene or naphtha solvents) and therefore show a relatively high level of emissions of CO and NMVOC due to 
+the evaporation of the diluent. Therefore most emissions from road paving will arise from the use of cutback 
+asphalts. Depending on the evaporation rate, three types are distinguished: Rapid-Cure (RC), using a naphtha or 
+gasoline-type diluent of high volatility, Medium-Cure (MC) using a diluent of medium volatility and Slow-Cure 
+(SC) cutback asphalt which use oils of low volatility. This is in contrast to so-called emulsified asphalt that 
+contains mostly water and little or no solvent. The amount of diluent used is usually lower in warm countries 
+than in the cooler climates, and hence lower emission factors may be expected in warm countries. 
+Activity data for hot mix asphalt and production of cold mixes or ‘modified asphalt’ can be obtained for most 
+European and several other industrialised countries from the European Asphalt Pavement Association (EAPA) or 
+national paving and roofing associations such as the Asphalt Institute (EAPA, 2003; Asphalt Institute, 2004). 
+Hot mix asphalt typically contains about 8 percent asphalt cement (bitumen) (EEA, 2005), but this may differ 
+between countries (a figure of 5 percent has also been reported). For most industrialised countries the fraction of 
+cutback asphalt is a few per cent, however several show shares of 5 percent to 12 percent, and exceptional shares 
+up to 20 percent, or have none (EAPA, 2002; EAPA 2003; U.S. EPA, 2004). If the quantity of asphalt paved is 
+not known but rather the area paved, a conversion factor of 100 kg asphalt/m2 road surface may be used to 
+calculate the mass of asphalt produced. 
+Gases are emitted from the asphalt plant (hot mix, cutback or emulsified), the road surfacing operations and 
+subsequently by the road surface. The EMEP/CORINAIR Emission Inventory Guidebook provided process-
+specific uncontrolled emission factors for the different asphalt plants. 
+ASPHALT ROOFING 
+The asphalt roofing industry produces saturated felt, roofing and siding shingles, roll roofing and sidings:  
+asphalt shingles, smooth surfaced organic and asbestos felt roll roofing, mineral surfaced organic and asbestos 
+felt roll roofing and sidings, asphalt saturated organic and asbestos felts, asphalt saturated and/or coated sheeting 
+and asphalt compound. Most of these products are used in roofing and other building applications. Asphalt felt, 
+roofing and shingle manufacture involves the saturation or coating of felt. Key steps in the total process include 
+asphalt storage, asphalt blowing, felt saturation, coating and mineral surfacing, of which asphalt blowing is 
+included here. Direct greenhouse gas emissions from asphalt roofing products are negligible compared to 
+emissions such as NMVOC, CO and particulate matter. 
+Asphalt blowing is the process of polymerising and stabilising asphalt to improve its weathering characteristics. 
+Air blown asphalts are used in the production of asphalt roofing products. Blowing may take place in an asphalt 
+Volume 3: Industrial Processes and Product Use 
+5.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+processing plant or an asphalt roofing plant (or in a refinery)3. Asphalt blowing leads to the highest emissions of 
+NMVOC and CO, more than the other process steps. All asphalt used for non-paving applications has been 
+blown (EEA, 2005).   
+5.4.3 
+Completeness 
+If no emissions are (explicitly) available for this source category, it should be checked whether they are already 
+included elsewhere (e.g., in refinery emissions).  
+5.4.4 
+Uncertainty assessment 
+Although results from the use of more sophisticated methods are considered as the most accurate, the uncertainty 
+for NMVOC and CO emissions from road paving and asphalt roofing may be in the range of ±25 percent and 
+larger if the calculation was not based on detailed activity and control technology data (from −100 percent to +25 
+percent). 
+The emission factors for NMVOC and CO for batch mix and drum mix HMA production have an uncertainty 
+range of about ±50 percent, while the default factors for total HMA production and for cutback asphalt 
+production and use will be about ±100 percent uncertain (i.e., between -50 percent and +100 percent). When 
+country-specific emission factors are used for cutback asphalt production and paving, the uncertainty in the 
+emission factors may be considerably smaller, e.g. in the range of ±50 percent. 
+Production data for HMA and cutback asphalt may be as accurate as ±10 percent, when based on data compiled 
+by the asphalt production or construction industry. However, when activity data on cutback asphalt needs to be 
+extrapolated, the uncertainties are very large, since it has been observed for a number of countries that the 
+amount of cutback asphalt used can vary substantially from year to year; factors of two or more are not rare 
+(EAPA, 2002; EAPA 2003; U.S. EPA, 2004). Also data on the mix of HMA production plant types and control 
+technology applied as well as on the mix of cutback asphalt types (RC, MC, SC) will generally be less accurate 
+than total production data. The uncertainty in production statistics of asphalt roofing material may be as accurate 
+as ±10 percent if accounting is complete. If that is not the case, the uncertainty at the high end of the range could 
+be as high as 100 percent or more. 
+The default fossil carbon content fraction of NMVOC from asphalt production and use for road paving varies 
+between 40 to 50 percent by mass and is about 80 percent for NMVOC from asphalt roofing (calculated from the 
+NMVOC speciation provided in the EMEP/CORINAIR Emission Inventory Guidebook). 
+5.4.5 
+Reporting and Documentation 
+The relatively small emissions from production and use of asphalt, including asphalt blowing, should be reported 
+under the subcategory 2D4 ‘Other’ of this source category 2D ‘Non-Energy Products from Fuels and Solvent 
+Use’. 
+ 
+5.5 
+SOLVENT USE 
+5.5.1 
+Introduction 
+The use of solvents manufactured using fossil fuels as feedstocks can lead to evaporative emissions of various 
+non-methane volatile organic compounds (NMVOC), which are subsequently further oxidised in the atmosphere. 
+Fossil fuels used as solvent are notably white spirit and kerosene (paraffin oil). White spirit is used as an 
+extraction solvent, as a cleaning solvent, as a degreasing solvent and as a solvent in aerosols, paints, wood 
+preservatives, lacquers, varnishes and asphalt products. In Western Europe about 60 percent of the total white 
+spirit consumption is used in paints, lacquers and varnishes. White spirit is the most widely used solvent in the 
+paint industry. 
+                                                           
+3  In UNECE inventories related emissions are accounted for under miscellaneous chemical product manufacture (separately 
+for asphalt roofing manufacture/application and for asphalt blowing, SNAP codes 040610 and 060310) or under fugitive 
+emissions from refineries (see EMEP/CORINAIR Emission Inventory Guidebook), but in the greenhouse gas inventory all 
+emissions, including the precursor emissions, should be reported under the subcategory 2D4 ‘Other’. 
+Chapter 5: Non-Energy Products from Fuels and Solvent Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.17 
+Methodologies for estimating these NMVOC emissions can be found in the EMEP/CORINAIR Emission 
+Inventory Guidebook (EEA, 2005). This source category ‘solvent use’ is treated as a separate category because 
+the nature of this source requires a somewhat different approach to emissions estimation than that used for 
+calculating other emission categories. For this reason the 2006 IPCC Guidelines treats this also as a separate 
+subcategory. In the EMEP/CORINAIR guidebook the subcategory ‘solvent and other product use’ group 6 of the 
+Selected Nomenclature for sources of Air Pollution (SNAP) and is subdivided into five subcategories. Excluding 
+the fifth: ‘other product use’ that refers to F-gases, N2O and ammonia, which are covered elsewhere in the IPPU 
+Volume these are: 
+• 
+SNAP 0601: Paint application; 
+• 
+SNAP 0602: Degreasing, dry cleaning and electronics; 
+• 
+SNAP 0603: Chemical products manufacturing or processing. Including the processing of polyester, PVC, 
+foams and rubber, manufacture of paints, inks, glues and adhesives and the finishing of textile 
+• 
+SNAP 0604: Other use of solvents and related activities. Including such activities as ‘enduction’ (i.e., 
+coating) of glass wool and mineral wool, printing industry, fat and oil extraction, uses of glues and 
+adhesives, wood preservation, domestic solvent use (other than paint application) and vehicle underseal 
+treatment and vehicle dewaxing. 
+Apart from emissions from road transport and, when occurring, production and handling of oil and biofuel 
+combustion, this source category is often the largest source of national NMVOC emissions and its share may 
+vary between 5 percent and 30 percent, with a  global average of about 15 percent (Olivier and Berdowski, 2001). 
+5.5.2 
+Completeness 
+Emissions from this source category can be estimated using either a production-based or consumption-based 
+approach. If total domestic sales figures of paints etc. are not available, apparent national consumption can be 
+inferred from production, imports and exports. However, if trade statistics are not complete, this may introduce a 
+significant uncertainty in the activity data. Thus, it is recommended that inventory compilers try to ensure that all 
+significant evaporative uses of solvent and other product use are addressed by NMVOC emission estimates. 
+5.5.3 
+Developing a consistent time series 
+Usually for this source category only small annual changes are expected. However, when environmental policies 
+are implemented to replace more toxic volatile compounds in solvents (e.g., with water,) both NMVOC 
+emissions and the fossil carbon content of the NMVOC emissions may change over time. 
+5.5.4 
+Uncertainty assessment 
+The uncertainty of the NMVOC emissions will generally be quite large, e.g., about ±50 percent, except for 
+countries that have developed a detailed inventory for these sources, in which case the uncertainty may be of the 
+order of 25 percent. The default fossil carbon content fraction of NMVOC is 60 percent by mass, based on 
+limited published national analyses of the speciation profile (U.S. EPA, 2002; Austria, 2004; Hungary, 2004; 
+Klein Goldewijk et al., 2005). It may vary between 50 and 70 percent carbon by mass, so having an uncertainty 
+of about ±10 percent. Country-specific fractions should have a lower uncertainty, e.g., ±5 percent. 
+ 
+Volume 3: Industrial Processes and Product Use 
+5.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+API (2004). Compendium of Greenhouse Gas Emissions Methodologies for the Oil and Gas Industry, American 
+Petroleum Institute (API), Table 4-2. Washington, DC, February 2004. 
+Asphalt Institute (2004). Website http://www.asphaltinstitute.org/ai_pages/links/, visited 19 November 2004. 
+Austria (2004). Austria’s National Inventory Report 2004. Submission under the United Nations Framework 
+Convention on Climate Change, Umweltbundesamt, BE-244, Vienna. 
+EAPA (2002). European Asphalt Pavement Association,, Asphalt in Figures 2002. Available at website 
+http://www.eapa.org, visited 19 November 2004. 
+EAPA (2003). European Asphalt Pavement Association,, Asphalt in Figures 2003. Available at website 
+http://www.eapa.org, visited 19 November 2004. 
+EEA (2005). “EMEP/CORINAIR. Emission Inventory Guidebook  - 2005”, European Environment Agency, 
+Technical report No 30. Copenhagen, Denmark, (December 2005). Available from web site see: 
+http://reports.eea.eu.int/EMEPCORINAIR4/en 
+Hungary (2004). Hungarian National Inventory Report for 2002. General Directorate for Environment, Nature 
+and Water, UN Framework Convention on Climate Change, Directorate for Environmental Protection, 
+Budapest. 
+Klein Goldewijk, K., Olivier, J.G.J., Peters, J.A.H.W., Coenen, P.W.H.G. and Vreuls, H.H.J. (2005). Greenhouse 
+Gas Emissions in the Netherlands 1990-2003. National Inventory Report 2005. RIVM Report no. 773201 
+009/2005. RIVM, Bilthoven. 
+Olivier, J.G.J. and Berdowski, J.J.M. (2001). Global emissions sources and sinks. In: Berdowski, J., Guicherit, R. 
+and B.J. Heij (eds.) "The Climate System", pp. 33-78. A.A. Balkema Publishers / Swets & Zeitlinger 
+Publishers, Lisse, The Netherlands. ISBN 90 5809 255 0. 
+Rinehart, T. (2000). Personal communication between Thomas Rinehart of U.S. Environmental Protection 
+Agency, Office of Solid Waste, and Randall Freed of ICF Consulting, July 2000. 
+UNFCCC 
+(2004). 
+Emissions 
+data 
+and 
+National 
+Inventory 
+Reports. 
+Website 
+http://unfccc.int/national_reports/annex_i_ghg_inventories/national_inventories_submissions/items/2761.
+php visited 19 November 2004. 
+U.S. EPA (2002). National Air Quality and Emissions Trends Report data, 1900-2000. United States 
+Environmental Protection Agency (U.S. EPA), Research Triangle Park, NC. 
+U.S. EPA (2004). Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2002. United States 
+Environmental Protection Agency (U.S. EPA), Washington, DC. 
+ 

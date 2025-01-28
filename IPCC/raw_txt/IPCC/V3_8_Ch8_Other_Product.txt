@@ -1,0 +1,2302 @@
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.1 
+CHAPTER 8 
+OTHER PRODUCT MANUFACTURE 
+AND USE 
+Volume 3: Industrial Processes and Product Use 
+8.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors  
+Sections 8.1, 8.2, and 8.3 
+Deborah Ottinger Schaefer (USA) 
+Friedrich Plöger (Germany), Winfried Schwarz (Germany), Sven Thesen (USA), Ewald Preisegger (Germany), 
+Ayite-Lo N. Ajavon (Togo), and Dadi Zhou (China) 
+Section 8.4 
+Nigel Harper (UK) 
+ 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.3 
+Contents 
+8 
+Other Product Manufacture and Use.............................................................................................................8.6 
+8.1 
+Introduction...........................................................................................................................................8.6 
+8.2 
+Emissions of SF6 and PFCs from electrical equipment.........................................................................8.6 
+8.2.1 
+Introduction...................................................................................................................................8.6 
+8.2.2 
+Methodological issues...................................................................................................................8.7 
+8.2.2.1 
+Choice of method.....................................................................................................................8.7 
+8.2.2.2 
+Choice of emission factors.....................................................................................................8.14 
+8.2.2.3 
+Choice of activity data...........................................................................................................8.17 
+8.2.2.4 
+Completeness.........................................................................................................................8.19 
+8.2.2.5 
+Developing a consistent time series.......................................................................................8.20 
+8.2.3 
+Uncertainty assessment ...............................................................................................................8.20 
+8.2.4 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................8.21 
+8.2.4.1 
+Quality Assurance/Quality Control........................................................................................8.21 
+8.2.4.2 
+Reporting and Documentation...............................................................................................8.22 
+8.3 
+Use of SF6 and PFCs in other products ...............................................................................................8.23 
+8.3.1 
+Introduction.................................................................................................................................8.23 
+8.3.2 
+Methodological issues.................................................................................................................8.23 
+8.3.2.1 
+Choice of method...................................................................................................................8.23 
+8.3.2.2 
+Choice of emission factors.....................................................................................................8.32 
+8.3.2.3 
+Choice of activity data...........................................................................................................8.33 
+8.3.2.4 
+Completeness.........................................................................................................................8.33 
+8.3.2.5 
+Developing a consistent time series.......................................................................................8.33 
+8.3.3 
+Uncertainty assessment ...............................................................................................................8.33 
+8.3.4 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................8.33 
+8.3.4.1 
+Quality Assurance/Quality Control........................................................................................8.33 
+8.3.4.2 
+Reporting and Documentation...............................................................................................8.34 
+8.4 
+N2O from product uses........................................................................................................................8.35 
+8.4.1 
+Introduction.................................................................................................................................8.35 
+8.4.2 
+Methodological issues.................................................................................................................8.36 
+8.4.2.1 
+Choice of method...................................................................................................................8.36 
+8.4.2.2 
+Choice of emission factors.....................................................................................................8.36 
+8.4.2.3 
+Choice of activity data...........................................................................................................8.37 
+8.4.2.4 
+Completeness.........................................................................................................................8.37 
+8.4.2.5 
+Developing a consistent time series.......................................................................................8.37 
+8.4.3 
+Uncertainty assessment ...............................................................................................................8.37 
+8.4.3.1 
+Emission factor uncertainties.................................................................................................8.37 
+Volume 3: Industrial Processes and Product Use 
+8.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.4.3.2 
+Activity data uncertainties .....................................................................................................8.38 
+8.4.4 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................8.38 
+References 
+.....................................................................................................................................................8.39 
+Annex 8A 
+Examples of Tier 3 national SF6 inventory systems....................................................................8.41 
+Equations 
+Equation 8.1 
+Default emission factor method.............................................................................................8.8 
+Equation 8.2 
+Equipment disposal emissions under country-specific emission factor method....................8.9 
+Equation 8.3 
+Tier 3 total emissions...........................................................................................................8.10 
+Equation 8.4A Equipment manufacturing emissions - pure mass-balance..................................................8.10 
+Equation 8.4B Equipment manufacturing emissions - hybrid.....................................................................8.11 
+Equation 8.5A Equipment installation emissions - pure mass-balance .......................................................8.11 
+Equation 8.5B Equipment installation emissions - hybrid...........................................................................8.11 
+Equation 8.6A Equipment use emissions - pure mass-balance....................................................................8.11 
+Equation 8.6B Equipment use emissions - hybrid.......................................................................................8.12 
+Equation 8.7A Equipment disposal and final use emissions - pure mass-balance.......................................8.12 
+Equation 8.7B Equipment disposal and final use emissions - hybrid..........................................................8.12 
+Equation 8.8 
+Emissions from recycling of SF6.........................................................................................8.13 
+Equation 8.9 
+Emissions from destruction of SF6 ......................................................................................8.13 
+Equation 8.10 Utility-level mass-balance approach....................................................................................8.14 
+Equation 8.11 Retiring nameplate capacity ................................................................................................8.18 
+Equation 8.12 Emissions from AWACS (default emission actor)..............................................................8.24 
+Equation 8.13 Emissions from AWACS (user mass-balance)....................................................................8.25 
+Equation 8.14 University and research particle accelerator emissions (country-level) ..............................8.27 
+Equation 8.15 University and research particle accelerator emissions  
+(accelerator-level emission factor) ......................................................................................8.28 
+Equation 8.16 Total research accelerator emissions ...................................................................................8.28 
+Equation 8.17 Research accelerator emissions (accelerator-level mass-balance).......................................8.28 
+Equation 8.18 Industrial/medical accelerator emissions (country-level) ....................................................8.30 
+Equation 8.19 Adiabatic property applications...........................................................................................8.31 
+Equation 8.20 Double-glazed windows: assembly .....................................................................................8.31 
+Equation 8.21 Double-glazed windows: use...............................................................................................8.31 
+Equation 8.22 Double-glazed windows: disposal.......................................................................................8.31 
+Equation 8.23 Prompt emissions.................................................................................................................8.32 
+Equation 8.24 N2O emissions from other product uses ..............................................................................8.36 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.5 
+Figures 
+Figure 8.1 
+Decision tree for SF6 from electrical equipment....................................................................8.8 
+Figure 8.2 
+Decision tree for SF6 from AWACS ...................................................................................8.24 
+Figure 8.3 
+Decision tree for SF6 from research accelerators.................................................................8.27 
+Figure 8.4 
+Decision tree for industrial and medical particle accelerators.............................................8.29 
+Figure 8A.1 
+Example of Tier 3 approach: Germany, High-Voltage equipment......................................8.42 
+Figure 8A.2 
+Example of Tier 3 approach: Germany, Medium-Voltage equipment ................................8.43 
+Tables 
+Table 8.1 
+Avoiding double-counting or overlooking emissions: two examples..................................8.13 
+Table 8.2 
+Sealed pressure electrical equipment (MV Switchgear) containing SF6: 
+default emission factors.......................................................................................................8.15 
+Table 8.3 
+Closed pressure electrical equipment (HV Switchgear) containing SF6: 
+default emission factors.......................................................................................................8.16 
+Table 8.4 
+Gas insulated transformers containing SF6: default emission factors..................................8.16 
+Table 8.5 
+Uncertainties for default emission factors and lifetime .......................................................8.21 
+Table 8.6 
+Good practice reporting information for SF6 emissions  
+from electrical equipment by tier.........................................................................................8.22 
+Table 8.7 
+SF6 emissions per plane per year.........................................................................................8.24 
+Table 8.8 
+National AWACS fleets ......................................................................................................8.25 
+Table 8.9 
+Average SF6 charge in a particle accelerator by process description...................................8.30 
+Table 8.10 
+Emission factor for each process description, (SF6 emissions from industrial 
+and medical particle accelerators) .......................................................................................8.30 
+Volume 3: Industrial Processes and Product Use 
+8.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8 OTHER PRODUCT MANUFACTURE AND USE 
+8.1 
+INTRODUCTION 
+This chapter outlines methods for estimating emissions of sulphur hexafluoride (SF6) and perfluorocarbons 
+(PFCs) from the manufacture and use of electrical equipment and a number of other products. It also provides 
+methods for estimating emissions of nitrous oxide (N2O) from several products. In most of these applications, 
+the SF6, PFC, or N2O is deliberately incorporated into the product to exploit one or more of the physical 
+properties of the chemical, such as the high dielectric strength of SF6, the stability PFCs, and the anaesthetic 
+effect of N2O. However, the applications discussed here have a wide range of emission profiles, ranging from 
+immediate and unavoidable release of all of the chemical (e.g., use of PFCs as atmospheric tracers) to largely 
+avoidable, delayed release from leak-tight products after 40 years of use (e.g., manufacture and use of sealed-
+pressure electrical equipment). The estimation methods presented in the chapter have been tailored to reflect 
+these differences in emission profiles. 
+Section 8.2 details methods for estimating SF6 and PFC emissions from electrical equipment. Section 8.3 details 
+methods for estimating emissions from the manufacture and use of a wide variety of other industrial, commercial, 
+and consumer products that contain SF6 and PFCs, excluding those discussed elsewhere in this volume (e.g., 
+PFC emissions from electronics manufacturing, which are discussed in Chapter 6). (Please see the introduction 
+to Section 8.3 for the list of excluded sources.) Finally, Section 8.4 discusses methods for estimating N2O 
+emissions from anaesthetics, propellants, and other product uses.  
+8.2 
+EMISSIONS OF SF6 AND PFCs FROM 
+ELECTRICAL EQUIPMENT 
+8.2.1 
+Introduction 
+Sulphur hexafluoride (SF6) is used for electrical insulation and current interruption in equipment used in the 
+transmission and distribution of electricity. Emissions occur at each phase of the equipment life cycle, including 
+manufacturing, installation, use, servicing, and disposal. Most of the SF6 used in electrical equipment is used in 
+gas insulated switchgear and substations (GIS) and in gas circuit breakers (GCB), though some SF6 is used in 
+high voltage gas-insulated lines (GIL), outdoor gas-insulated instrument transformers and other equipment. The 
+aforementioned applications may be divided into two categories of containment. The first category is ‘Sealed 
+Pressure Systems’ or ‘Sealed-for-life Equipment’, which is defined as equipment that does not require any 
+refilling (topping up) with gas during its lifetime and which generally contains less than 5 kg of gas per 
+functional unit.1 Distribution equipment normally falls into this category. The second category is ‘Closed 
+Pressure Systems’, which is defined to include equipment that requires refilling (topping up) with gas during its 
+lifetime. This type of equipment generally contains between 5 and several hundred kg per functional unit. 
+Transmission equipment normally falls into this category. Both categories of equipment have lifetimes of more 
+than 30 to 40 years. In Asia, significant quantities of SF6 are used in gas-insulated power transformers (GIT).  
+Electrical equipment is the largest consumer and most important use of SF6, globally. It significantly contributes 
+to worldwide SF6 emissions. However, the importance of this source varies considerably from region to region 
+and from country to country. The emissions from this category depend not only on the installed (banked) or 
+consumed quantities of SF6, but also very much on the tightness of the products and the handling processes 
+applied. Regional average emission rates presently vary between far less than 1 percent to more than 10 percent. 
+In general, emission rates have declined significantly since 1995. Targeted industry actions have reduced 
+emissions by 50 to 90 percent in Europe and Asia (Ecofys, 2005; Aoyama, 2004). These actions include (1) 
+                                                           
+1  Formal definitions of ‘sealed-pressure system’ and ‘closed-pressure system’ are contained in International Electro-
+technical Commission (IEC) Standard 60694. (IEC, 1996) 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.7 
+designing equipment to require a smaller charge of SF6 and to be more leak tight and (2) improving handling 
+processes and handling equipment for all life cycle stages.2  
+In some regions (e.g., North America and Japan), perfluorocarbons (PFCs) are used as dielectrics and heat 
+transfer fluids in power transformers. PFCs are also used for retrofitting CFC-113 cooled transformers. One PFC 
+used in this application is perfluorohexane (C6F14). In terms of both absolute and carbon-weighted emissions, 
+PFC emissions from electrical equipment are generally believed to be much smaller than SF6 emissions from 
+electrical equipment; however, there may be regional exceptions to this pattern.  
+8.2.2 
+Methodological issues 
+8.2.2.1 
+CHOICE OF METHOD 
+Emissions of SF6 from electrical equipment can be estimated in a variety of ways with varying degrees of 
+complexity and data intensity. This section describes good practice for using a Tier 1 method (the default 
+emission-factor approach), a Tier 2 method (the country-specific emission-factor approach), and a Tier 3 
+method (a hybrid that can use either mass-balance or emission-factor approaches for different life cycle stages, 
+depending on country-specific circumstances). Generally, emissions estimates developed using the Tier 3 
+method, which is implemented at the facility level, will be the most accurate. Estimates developed using the Tier 
+1 method will be the least accurate. 
+As is true for other emission sources, the tier selected will depend on data availability and whether or not the 
+category is key. Figure 8.1, Decision Tree for SF6 from Electrical Equipment, summarises the process for 
+choosing among Tiers 3, 2, and 1. Good practice in choosing between the mass-balance and emission-factor 
+variants of the Tier 3 approach is discussed in detail in Section 1.5 of Chapter 1. This choice will depend both on 
+data availability and on country-specific circumstances. As a first step in assessing the importance of SF6 
+emissions from electrical equipment and the other categories discussed in this chapter, inventory compilers are 
+encouraged to contact chemical producers and suppliers as well as electrical equipment manufacturers and 
+utilities and/or their industry associations. These organisations can provide basic information on chemical 
+consumption and on equipment stocks and applications that can help the inventory compiler estimate emissions 
+and identify sources that merit further investigation. They can also provide important advice and support in 
+establishing more extensive data collection systems to support Tier 2 and Tier 3 estimates.  
+                                                           
+2   International Council on Large Electric Systems (CIGRE) has published a guide on SF6 handling, Guide for the Preparation 
+of customized “Practical SF6 Handling Instructions,” Task Force B3.02.01, CIGRE Publication No.276, August 2005. 
+(CIGRE, 2005) 
+Volume 3: Industrial Processes and Product Use 
+8.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 8.1 
+Decision tree for SF6 from electrical equipment1 
+Estimate emissions
+using Tier 2 Country-
+Specific Emission
+Factor Approach.
+Start
+Can an
+annual survey
+of facilities that use SF6
+be completed, gathering
+data by lifecycle
+stage?
+Are
+country-specific
+emission factors
+available?
+Note:
+1. In selecting an estimation method, it is good practice also to consider the criteria presented in Table 1.7, Chapter 1, Section 1.5 of this 
+volume for choosing between the mass-balance and emission-factor variants of each tier.
+2. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+3. It is good practice to contact National/Regional associations of utilities/users and manufacturers to collect, check, and 
+aggregate actual and historical data.
+Box 2: Tier 2
+No
+No
+Is the
+Other Product
+Manufacture and Use a
+key category2, and is
+this subcategory
+significant?
+Estimate emissions
+using the Tier 1
+Default Emission
+Factor Approach.
+Box 1: Tier 1
+Yes
+Estimate emissions
+using Tier 3 Hybrid
+Life-Cycle Approach.
+Yes
+Yes
+Collect data for
+Tier 2 or 3
+approaches,3
+Box 3: Tier 3
+No
+ 
+ 
+TIER 1 METHOD – DEFAULT EMISSION FACTORS 
+The Tier 1 approach is the simplest approach for estimating SF6 and PFC emissions from electrical equipment. 
+(Henceforth in this section, ‘SF6’ will be used to denote ‘SF6 and/or PFCs.’) In this method, emissions are 
+estimated by multiplying default regional emission factors by, as appropriate, the SF6 consumption of equipment 
+manufacturers and/or by the nameplate SF6 capacity of the equipment at each life cycle stage beyond 
+manufacturing in the country. The term Installation Emissions may be omitted if (1) installation emissions are 
+not expected to occur (i.e., for closed-pressure equipment) or (2) installation emissions are included in the 
+emission factor for emissions from Manufacturing or Use. Default emission factors are given in Tables 8.2 to 8.4. 
+It is good practice to use the following equation: 
+EQUATION 8.1 
+DEFAULT EMISSION FACTOR METHOD 
+Total Emissions = Manufacturing Emissions + Equipment Installation Emissions  
+            + Equipment Use Emissions + Equipment Disposal Emissions 
+Where: 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.9 
+Manufacturing emissions = Manufacturing Emission Factor • Total SF6 consumption by equipment 
+manufacturers  
+Equipment installation emissions = Installation Emission Factor • Total nameplate capacity of new 
+equipment filled on site (not at the factory).  
+Equipment use emissions = Use Emission Factor • Total nameplate capacity of installed equipment. The 
+‘use emission factor’ includes emissions due to leakage, servicing, and maintenance as well as 
+failures 
+Equipment disposal emissions = Total nameplate capacity of retiring equipment • Fraction of SF6 
+remaining at retirement 
+ 
+TIER 2 METHOD – COUNTRY-SPECIFIC EMISSION FACTOR METHOD 
+The Tier 2 method uses the same basic equation as Tier 1, but requires reliable country-specific emission factors 
+for each life cycle stage. Country-specific emission factors will be more accurate because they reflect the unique 
+circumstances in which electrical equipment is used in a given country. In addition, if detailed data for 
+equipment retirement are available, emissions due to retirement can be estimated more accurately. The 
+expression for Equipment Disposal Emissions in the Tier 2 method includes terms accounting for SF6 recovery 
+at retirement and disposal, as follows: 
+EQUATION 8.2 
+EQUIPMENT DISPOSAL EMISSIONS UNDER COUNTRY-SPECIFIC EMISSION FACTOR METHOD 
+Equipment disposal emissions = Total nameplate capacity of retiring equipment • Fraction of SF6 
+remaining at retirement • (1 – fraction of retiring equipment whose SF6 is recovered • recovery 
+efficiency • fraction of recovered SF6 recycled, reused with no further treatment, or destroyed*) 
+*This final term is intended to account for emissions during chemical recycling and destruction. 
+Note that to be considered Tier 2, estimates must be developed using only country-specific emission factors. 
+ 
+TIER 3 HYBRID METHOD – EMISSIONS BY LIFE CYCLE STAGE OF 
+EQUIPMENT 
+The Tier 3 method is the most accurate approach for estimating actual emissions of SF6 from electrical 
+equipment. This method is detailed but flexible, accommodating a wide range of national circumstances. The 
+method is implemented at the facility level and includes separate equations for each phase of the life cycle of 
+equipment, including equipment manufacture, installation, use, and disposal. Depending on the type of 
+equipment, the life cycle stage, and country-specific circumstances, either a mass-balance approach or country- 
+(or facility-) specific emission factors may be used. In general, it is good practice to use the mass-balance 
+approach, except where (1) emission rates from a process are near or below the precision of the measurements 
+required for the mass-balance approach (e.g., 3 percent of nameplate capacity per year or less), (2) equipment is 
+never serviced during its lifetime (as is expected to be the case for sealed pressure equipment), or (3) equipment 
+stocks are growing very rapidly, as may be the case in countries where electrical equipment has been introduced 
+within the last 10-20 years.  
+The hybrid approach enhances accuracy by permitting use of the mass-balance approach for some processes and 
+life cycle stages and the emission-factor approach for other processes and life cycle stages. However, the 
+combination of different approaches also introduces opportunities for double-counting or overlooking emissions. 
+Inventory compilers need to be aware of this problem and take steps to avoid it. Table 8.1, Avoiding Double-
+Counting or Overlooking Emissions, provides examples of both the problem and some potential solutions.  
+The annex to this chapter (Annex 8A) briefly describes an example of the Tier 3 approach as it has been applied 
+in Germany. This example is intended to illustrate rather than prescribe; the precise approach taken by any given 
+country will depend on country-specific circumstances. 
+Ideally, data are obtained for every equipment manufacturer, electricity transmission and distribution facility 
+(utility), equipment disposer (which may be a manufacturer, electric utility, or other entity), and SF6 recycling or 
+destruction facility in the country, and the emissions of all manufacturers, utilities, disposers, and recycling or 
+destruction facilities are summed to develop the national estimate. The basic equation is: 
+Volume 3: Industrial Processes and Product Use 
+8.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+EQUATION 8.3 
+TIER 3 TOTAL EMISSIONS 
+∑
+∑
+∑
+∑
+∑
++
++
++
++
+=
+from SF Recycling and Destruction
+Emissions
+Disposal and Final Use Emissions
+Equipment
+Use Emissions
+Equipment
+Installation Emissions
+Equipment
+Equipment Manufacturing Emissions
+Emissions
+Total
+6
+ 
+Where: 
+Equipment Manufacturing Emissions at the facility level can be estimated by Equations 8.4A and 8.4B. 
+Equipment Installation Emissions at the facility level can be estimated by Equations 8.5A and 8.5B. 
+Equipment Use Emissions at the facility level can be estimated by Equations 8.6A and 8.6B. 
+Equipment Disposal and Final Use Emissions at the facility level can be estimated by Equations 8.7A and 
+8.7B. 
+Emissions from SF6 Recycling and Destruction at the facility level can be estimated by Equations 8.8 and 
+8.9. 
+In the above equation, national emissions for each phase are equal to the sum of the emissions of all equipment 
+manufacturers, equipment users, equipment disposers, or SF6 recyclers/destroyers at that phase. In practice, it is 
+not always possible to obtain data for every facility; in these cases countries may use one of the extrapolation 
+methods discussed in Section 8.2.2.3, Choice of Activity Data.  
+Equipment manufacturing emissions 
+Equipment manufacturing emissions can be estimated using either a pure mass-balance approach or a mixture 
+(hybrid) of a mass-balance approach for some processes and an emission-factor based approach for others. The 
+pure mass-balance approach is preferred except where a substantial fraction of a manufacturer’s emissions come 
+from processes whose emission rates fall below the precision of the measurements required for the mass-balance 
+approach (e.g., 3 percent of nameplate capacity per year or less). In these cases, it is good practice to use 
+emission factors to estimate emissions from the processes with very low emission rates and to use the mass-
+balance approach to estimate emissions from the other manufacturing processes. 
+Pure mass-balance approach: Using the pure mass-balance approach, the total emissions of each equipment 
+manufacturer can be estimated using the following equation: 
+EQUATION 8.4A 
+EQUIPMENT MANUFACTURING EMISSIONS - PURE MASS-BALANCE 
+6
+6
+6
+nts of SF
+Disburseme
+Acquisitions of SF
+Decrease in SF Inventory
+Manufacturing Emissions
+Equipment
+−
++
+=
+ 
+Where: 
+Decrease in SF6 Inventory = SF6 stored in containers at the beginning of the year – SF6 stored in 
+containers at the end of the year  
+Acquisitions of SF6 = SF6 purchased from chemical producers or distributors in bulk + SF6 returned by 
+equipment users or distributors with or inside of equipment + SF6 returned to site after off-site 
+recycling 
+Disbursements of SF6 = SF6 contained in new equipment delivered to customers + SF6 delivered to 
+equipment users in containers + SF6 returned to suppliers + SF6 sent off-site for recycling + SF6 
+destroyed 
+Hybrid approach: This method first requires that manufacturers separate the gas flows associated with processes 
+for which the mass-balance approach will be used from the gas flows associated with processes for which the 
+emission-factor approach will be used. Emissions from the former can then be estimated using the approach 
+outlined in Equation 8.4A. Emissions from the latter can be estimated by multiplying the total nameplate 
+capacity of equipment undergoing each process (e.g., filling) by the country- or facility-specific emission factor 
+for that process. Total emissions for each manufacturer are then estimated by summing the emissions from both 
+sets of processes, using the following equation: 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.11 
+EQUATION 8.4B 
+EQUIPMENT MANUFACTURING EMISSIONS - HYBRID 
+factor for that process
+Emission
+capacity of equipment undergoing each process
+Nameplate
+A
+Equation
+Manufacturing Emissions
+Equipment
+•
++
+=
+∑
+*
+4.8
+ 
+* Excluding that covered by Equation 8.4A 
+Equipment installation emissions 
+Equipment installation emissions may be estimated using either a mass-balance or an emission-factor approach. 
+Again, the mass-balance approach is preferred except where emission rates are very low. 
+Pure Mass-balance approach: Using the mass-balance approach, the total emissions of each equipment installer 
+can be estimated using the following equation: 
+EQUATION 8.5A 
+EQUIPMENT INSTALLATION EMISSIONS - PURE MASS-BALANCE 
+capacity of new equipment
+Nameplate
+SF used to fill equipment
+Installation Emissions
+Equipment
+−
+=
+6
+ 
+ 
+Hybrid approach: This method first requires that users separate the gas flows associated with equipment for 
+which the mass-balance approach will be used from the gas flows associated with equipment for which the 
+emission-factor approach will be used.  Emissions from the former can then be estimated using the approach 
+outlined in Equation 8.5A. Emissions from the latter can be estimated by multiplying the newly installed 
+nameplate capacity of each equipment type by the country- or facility-specific installation emission factor for 
+that type. Total emissions for each installer are then estimated by summing the emissions from both sets of 
+equipments, using the following equation: 
+EQUATION 8.5B 
+EQUIPMENT INSTALLATION EMISSIONS - HYBRID 
+Installation emission factor
+capacity of new equipment filled on site
+Nameplate
+Installation Emissions
+Equipment
+•
++
+=
+∑
+*
+Equation 8.5A
+ 
+* Excluding that covered by Equation 8.5A 
+Equipment use emissions 
+Equipment use emissions may be estimated using either a pure mass-balance or a hybrid approach. The pure 
+mass-balance approach is likely to be appropriate for countries where (1) electrical equipment that uses SF6 has 
+been in use for 10-20 years or more, and (2) emissions from sealed-pressure systems are likely to be negligible. 
+The hybrid approach is likely to be appropriate for other countries.  
+Pure mass-balance approach: Using the pure mass-balance approach, the total emissions of each equipment user 
+can be estimated using the following equation: 
+EQUATION 8.6A 
+EQUIPMENT USE EMISSIONS - PURE MASS-BALANCE 
+recovered from closed pressure equipment at servicing
+SF
+SF used to recharge closed pressure equipment at servicing
+Use Emissions
+Equipment
+6
+6
+−
+=
+ 
+ 
+Hybrid approach: This method first requires that users separate the gas flows associated with equipment for 
+which the mass-balance approach will be used from the gas flows associated with equipment for which the 
+emission-factor approach will be used. Emissions from the former can then be estimated using the approach 
+outlined in Equation 8.6A. Emissions from the latter can be estimated by multiplying the total nameplate 
+capacity of each type of equipment by the country- or facility-specific emission factor for that type of equipment. 
+The emission-factor approach is likely to be more accurate for sealed-pressure equipment everywhere and for all 
+Volume 3: Industrial Processes and Product Use 
+8.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+types of equipment in countries where electrical equipment has been used for less than 10-20 years. Total 
+emissions for each user are then estimated by summing the emissions from both sets of equipment, using the 
+following equation: 
+EQUATION 8.6B 
+EQUIPMENT USE EMISSIONS - HYBRID 
+Use emission factor
+capacity of equipment installed
+Nameplate
+Use Emissions
+Equipment
+•
++
+=
+∑
+*
+Equation 8.6A
+ 
+* Excluding that covered by Equation 8.6A 
+Equipment disposal and final use emissions 
+Equipment disposal and final use emissions may be estimated using either a pure mass-balance or a hybrid 
+approach, based on country-specific circumstances. In both the pure mass-balance and hybrid approaches, 
+emissions from closed-pressure equipment are estimated using a mass-balance equation. In the pure mass-
+balance approach, emissions from sealed-pressure systems are also estimated using a mass-balance equation. In 
+the hybrid approach, emissions from sealed-pressure systems are estimated using an emission-factor-based term.  
+Pure mass-balance approach: In countries where the gas-collection infrastructure (including recovery equipment, 
+technician training, and economic or legal incentives to recover) is not very well-developed or widely applied, it 
+is good practice to use the pure mass-balance approach, as follows: 
+EQUATION 8.7A 
+EQUIPMENT DISPOSAL AND FINAL USE EMISSIONS - PURE MASS-BALANCE 
+from sealed pressure equipment (MB)
+Emissions
+Emissions from closed pressure equipment
+and Final Use Emissions
+Disposal
+⋅
++
+⋅
+=
+ 
+Where: 
+Disposal and final use emissions from closed-pressure equipment = Nameplate capacity of retired closed-
+pressure equipment – SF6 recovered from retired closed-pressure equipment, and 
+Disposal and final use emissions from sealed-pressure equipment (MB) = Nameplate capacity of retired 
+sealed-pressure systems – SF6 recovered from retired sealed-pressure systems  
+Note that if the inventory compiler uses the emission-factor approach to estimate ‘use emissions’ from sealed-
+pressure equipment, a term should be subtracted from the second equation to avoid double counting. See Table 
+8.1, Avoiding Double-Counting or Overlooking Emissions: Two Examples, for this term. 
+Hybrid approach: In countries where the disposal of equipment is well controlled and understood (i.e., where an 
+efficient gas collection infrastructure is in place) and where emissions from use of sealed-pressure equipment are 
+accounted for under ‘use’ above, the hybrid approach may be used, as follows: 
+EQUATION 8.7B 
+EQUIPMENT DISPOSAL AND FINAL USE EMISSIONS - HYBRID 
+from sealed pressure equipment (EF)
+Emissions
+Emissions from closed pressure equipment
+and Final Use Emissions
+Disposal
++
+=
+ 
+Where: 
+Disposal and final use emissions from closed-pressure equipment = Nameplate capacity of retired closed-
+pressure equipment – SF6 recovered from retired closed-pressure equipment, and 
+Disposal emissions from sealed-pressure equipment (EF) = [(Nameplate capacity of retired sealed-
+pressure systems) – (Nameplate capacity of retired sealed-pressure systems • Use emission factor • 
+Lifetime of equipment)] • (1 – fraction of retiring equipment whose SF6 is recovered • recovery 
+efficiency) 
+As noted above, emissions estimated using the above approach should be periodically checked, e.g., by using a 
+pure mass-balance approach and/or assessing recovery frequency and practices. Inventory compilers should pay 
+particular attention to the fraction of retiring equipment whose SF6 is recovered and to the fraction of the charge 
+that is recovered when recovery is performed (‘recovery efficiency’). Even in countries where it is the norm to 
+recover SF6 from retiring equipment, some venting may occur, and the venting of just a few percent of the SF6 in 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.13 
+retiring equipment will drive emission rates far above the minimum that is technically achievable and that would 
+otherwise be a reasonable basis for an emission factor. 
+Emissions from SF6 recycling and destruction  
+Some SF6 emissions occur after the chemical is recovered. These emissions include (1) emissions associated 
+with recycling of SF6, and (2) emissions associated with the destruction of SF6. (Emissions associated with the 
+shipment of SF6 to off-site recyclers or destruction facilities are considered negligible.) Emissions from recycling 
+of SF6 are generally expected to be small — on the order of less than one percent of the total quantity fed into the 
+recycling process. However, these emissions may be higher if state-of-the art handling equipment and practices 
+are not used. In most cases, recycling is expected to occur on the site of the equipment manufacturer or user. In 
+other cases, recycling may take place at a centralised recycling facility that is not associated with a chemical 
+producer. Finally, recycling may take place on the premises of a chemical producer. Recycling emissions from 
+chemical producers will be accounted for under chemical production (see Section 3.10 of this volume) and 
+should not be included here.  
+Emissions associated with the destruction of SF6 depend on the destruction efficiency of the process and the 
+quantity of SF6 fed into the process. Given the high stability and dissociation temperature of SF6, the destruction 
+efficiency may be as low as 90 percent. Thus, up to 10 percent of the SF6 fed into the destruction process could 
+be emitted. The quantity of gas fed into the destruction process is generally expected to be small compared to 
+that recycled. However, this may vary from country to country.  
+It is good practice to develop country-specific emission factors for recycling and destruction that are based on 
+full consideration of country-specific logistics and practices for SF6 recycling and destruction. 
+Emissions from recycling of SF6 may be estimated using the following equation: 
+EQUATION 8.8 
+EMISSIONS FROM RECYCLING OF SF6* 
+Emissions from Recycling = Recycling emission factor • Quantity SF6 fed into recycling process  
+*Emissions from recycling that occurs at chemical production facilities should be excluded. 
+Emissions from destruction of SF6 may be estimated using the following equation: 
+EQUATION 8.9 
+EMISSIONS FROM DESTRUCTION OF SF6 
+Emissions from Destruction = Destruction emission factor • Quantity SF6 fed into destruction 
+process 
+ 
+TABLE 8.1 
+AVOIDING DOUBLE-COUNTING OR OVERLOOKING EMISSIONS: TWO EXAMPLES 
+Example 1 – Double Counting 
+Example 2 – Omission  
+Situation: An emission-factor approach is used to 
+estimate emissions from sealed-pressure equipment 
+during use, and a mass-balance approach is used to 
+estimate emissions during disposal of sealed-pressure 
+equipment.  
+Situation: A mass-balance approach is used to estimate 
+emissions during use of closed-pressure equipment, but 
+an emission-factor approach is used to estimate 
+emissions during disposal of closed-pressure. 
+Potential problem: Emissions during use may be 
+double-counted because some of the SF6 that is found to 
+be missing when the equipment is disposed has already 
+been counted as emitted during use.  
+ 
+Potential problem: Emissions that occur between the 
+final servicing of the equipment and its disposal may be 
+overlooked. These ‘final use’ emissions may account for 
+a significant fraction of total use emissions, particularly 
+if the equipment is refilled every 10 years or more. 
+Solution: Subtract lifetime use emissions (Nameplate 
+capacity of retired sealed-pressure systems • Use 
+emission factor • Lifetime of equipment) from emissions 
+during disposal. 
+Solution: Use the mass-balance approach for both the 
+use and disposal phases of the closed-pressure equipment 
+life cycle. 
+ 
+Volume 3: Industrial Processes and Product Use 
+8.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A special case of the Tier 3 method: the utility-level, pure mass-balance 
+approach 
+Countries that satisfy the good practice criteria for using the pure mass-balance approach beyond equipment 
+manufacturing (i.e., countries where emissions during equipment installation, use, and disposal account for 3 
+percent or more of facility-level gas flows, where electrical equipment has been used for 10-20 years or more, 
+and where emissions from sealed-pressure equipment are negligible), may, with little or no loss of accuracy, use 
+a simplified version of the Tier 3 method to estimate emissions during equipment use. When summed together 
+and reformulated in terms of facility-level gas flows, equations 8.5A, 8.6A, and 8.7A result in the following 
+equation: 
+EQUATION 8.10 
+UTILITY-LEVEL MASS-BALANCE APPROACH 
+User Emissions = Decrease in SF6 Inventory + Acquisitions of SF6 – Disbursements of SF6  
+– Net Increase in the Nameplate Capacity of Equipment  
+Where: 
+Decrease in SF6 Inventory = SF6 stored in containers at the beginning of the year – SF6 stored in 
+containers at the end of the year  
+Acquisitions of SF6 = SF6 purchased from chemical producers or distributors in bulk + SF6 purchased 
+from equipment manufacturers or distributors with or inside of equipment + SF6 returned to site after 
+off-site recycling 
+Disbursements of SF6 = SF6 contained in equipment that is sold to other entities + SF6 returned to 
+suppliers + SF6 sent off-site for recycling + SF6 destroyed 
+Net Increase in Nameplate Capacity of Equipment = Nameplate Capacity of New Equipment – 
+Nameplate Capacity of Retiring Equipment 
+Although the utility-level approach is less detailed than the full life cycle approach, it is simple, and for those 
+countries whose national circumstances permit its use, it provides estimates that are closely related to actual gas 
+loss. 
+SF6 EMISSIONS FROM MANUFACTURING OF ELECTRICAL COMPONENTS  
+Some electrical equipment components may contain 1 percent or less by weight of SF6 in the insulating medium 
+of the product. These components include but are not limited to medium voltage cast resin instrument 
+transformers and high voltage bushings. In medium voltage (up to 52 kV) cast resin instrument transformers, SF6 
+is used to fill up micro-cavities in the resin insulation to improve the dielectric quality and durability of the 
+product. In High Voltage (above 52 kV) bushings, SF6 is used as the blowing agent for the polyurethane resin in 
+certain parts of the insulation system to improve the dielectric quality and durability of the product. 
+SF6 emissions solely result from the casting/blowing process for the solid insulation of the product. All SF6 used 
+is assumed to be emitted at the manufacturing stage. To estimate emissions from this source, the pure mass-
+balance approach for equipment manufacturers (Equation 8.4A) may be used, setting the SF6 contained in new 
+equipment equal to zero.  
+Emission reduction measures focus on limiting losses/improving rate of recycling by suction devices and/or 
+improved casting processes. SF6 in this type of high voltage bushings may be replaced by another blowing agent 
+in the future. 
+8.2.2.2 
+CHOICE OF EMISSION FACTORS 
+Because emission rates can vary not only from country to country but from facility to facility, inventory 
+compilers using emission-factor based methods are encouraged to develop and use their own emission factors. 
+Surveying a representative sample of equipment manufacturers and utilities within the country is an effective 
+way to develop such factors. In general, it is good practice to document the evidence and reasoning supporting 
+the selected emission factors, and to review these factors at least every 5 years. 
+Factors that influence emission rates include the design of the equipment (which varies depending on when and 
+where the equipment was manufactured), SF6-handling practices, availability of state-of-the-art handling 
+equipment, SF6 prices, and regulations (e.g., recovery requirements). Variation of any one of these can change 
+emission rates over time or among countries. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.15 
+TIER 1 METHOD 
+Suggested default emission factors have been developed for some regions based on recent research. These 
+factors are shown in Tables 8.2-8.4 below.  
+It is good practice to select default emission factors from countries and regions with equipment designs and SF6-
+handling practices similar to those of the country whose emissions are being estimated. Because Japan and 
+Europe supply most of the global demand for electrical equipment, equipment designs are likely to be similar to 
+those of either Japan or Europe. With the exception of the factors for the U.S., regional default emission factors 
+are those documented for 1995, i.e., before any special industry actions for emission reduction were 
+implemented. In Japan in 1995, approximately 70 percent of the SF6 used to test equipment during manufacture 
+was recovered, and a similar percentage was recovered during equipment maintenance for equipment rated 110 
+kv or higher. (The 70 percent recovery fraction reflected recovery from an initial pressure of about 5 bars 
+absolute to a final pressure of 1 to 1.5 bars absolute.) No gas was recovered from equipment rated lower than 
+110 kV (Maruyama et al., 2000). In Europe in 1995, gas supply systems for equipment manufacture were usually 
+decentralised, and filling tubes were not self-closing. Gas was recovered to approximately 0.05 bars absolute 
+during manufacturing and maintenance (Ecofys, 2005).  
+ 
+TABLE 8.2 
+SEALED PRESSURE ELECTRICAL EQUIPMENT (MV SWITCHGEAR) CONTAINING SF6: 
+DEFAULT EMISSION FACTORS  
+Disposal 
+(Fraction Nameplate Capacity of Disposed 
+Equipment) 
+Phase 
+ 
+ 
+Region 
+Manufacturing 
+(Fraction SF6 
+Consumption by 
+Manufacturers) 
+Use (Includes leakage, 
+major failures/arc faults 
+and maintenance losses) 
+(Fraction per Year of 
+Nameplate Capacity of All 
+Equipment Installed) 
+Lifetime 
+(years) 
+Fraction of charge 
+remaining at retirement b 
+Europe a 
+0.07 
+0.002 
+>35 
+0.93 
+Japan c 
+0.29 
+0.007 
+Not reported 
+0.95 
+a Source: ‘Reductions of SF6 Emissions from High and Medium Voltage Electrical Equipment in Europe,’ Ecofys, June, 2005. 
+b This refers to the percentage of the original charge or nameplate capacity remaining in the equipment at end of life; it represents the 
+fraction of the nameplate capacity potentially emitted before the equipment is recycled or disposed. 
+c Based on data reported by the Federation of Electric Power Companies (FEPC) and the Japan Electrical Manufacturers’ Association 
+(JEMA) (FEPC and JEMA, 2004). These organisations did not distinguish among equipment types in reporting average emission 
+factors. The factors are therefore intended to be applied to all equipment types, including sealed pressure systems, closed pressure 
+systems, and gas-insulated transformers. 
+Note: The emission factors above reflect the practices and technologies in place in 1995, i.e., before mitigation measures were 
+implemented. References per footnotes a and c show how these developed further upon successive implementation of various voluntary 
+measures later on. Another reference (Schwarz, 2006) relates state-of–the-art emission factors to mitigation measures in Germany. 
+ 
+Volume 3: Industrial Processes and Product Use 
+8.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 8.3 
+CLOSED PRESSURE ELECTRICAL EQUIPMENT (HV SWITCHGEAR) CONTAINING SF6: 
+DEFAULT EMISSION FACTORS  
+Disposal 
+(Fraction Nameplate Capacity of Disposed 
+Equipment) 
+Phase 
+ 
+ 
+Region 
+Manufacturing 
+(Fraction SF6 
+Consumption by 
+Manufacturers) 
+Use (Includes leakage, 
+major failures/arc faults 
+and maintenance losses) 
+(Fraction per Year of 
+Nameplate Capacity of All 
+Equipment Installed) 
+Lifetime 
+(years) 
+Fraction of charge 
+remaining at retirement c 
+Europe a 
+0.085b 
+0.026 
+>35 
+0.95 
+Japan d 
+0.29 b 
+0.007 
+Not reported 
+0.95 
+U.S.e 
+f 
+0.14 g 
+>35 
+h 
+a Source: ‘Reductions of SF6 Emissions from High and Medium Voltage Electrical Equipment in Europe,’ Ecofys, June, 2005. 
+b Includes emissions from installation 
+c This refers to the percentage of the original charge or nameplate capacity remaining in the equipment at end of life; it represents the 
+fraction of the nameplate capacity emitted before the equipment is recycled or disposed.  
+d Based on data eported by the Federation of Electric Power Companies (FEPC) and the Japan Electrical Manufacturers’ Association 
+(JEMA) (FEPC and JEMA, 2004). These organisations reported average emission factors that include emissions from all equipment 
+types, including sealed pressure systems, closed pressure systems, and gas-insulated transformers. 
+e From the U.S. Inventory of Greenhouse Gases and Sinks, 1990-2002. (U.S. EPA, 2004). Value is from 1999, first year for which 
+representative country-specific data were available. 
+f No country-specific value available. 
+g Includes emissions from installation. 
+h Disposal emissions are included in use emission factor in the US. 
+Note: The emission factors above reflect the practices and technologies in place in 1995, i.e., before mitigation measures were 
+implemented. References per footnotes a and d show how these developed further upon successive implementation of various voluntary 
+measures later on. Schwarz (2006) relates state-of–the-art emission factors to mitigation measures in Germany. 
+ 
+TABLE 8.4 
+GAS INSULATED TRANSFORMERS CONTAINING SF6: DEFAULT EMISSION FACTORS  
+Disposal 
+(Fraction Nameplate Capacity of Disposed 
+Equipment) 
+Phase 
+ 
+ 
+Region 
+Manufacturing  
+(Fraction SF6 
+Consumption by 
+Manufacturers) 
+Use (Includes leakage, 
+major failures/arc faults 
+and maintenance losses) 
+(Fraction per Year of 
+Nameplate Capacity of All 
+Equipment Installed) 
+Lifetime 
+(years) 
+Fraction of charge 
+remaining at retirement a 
+Japan b 
+0.29 
+0.007 
+Not reported 
+0.95 
+a This refers to the percentage of the original charge or nameplate capacity remaining in the equipment at end of life; it represents the 
+fraction of the nameplate capacity emitted before the equipment is recycled or disposed 
+b Based on data reported by the Federation of Electric Power Companies (FEPC) and the Japan Electrical Manufacturers’ Association 
+(JEMA) (FEPC and JEMA, 2004). These organisations did not distinguish among equipment types in reporting average emission 
+factors. The factors are therefore intended to be applied to all equipment types, including sealed pressure systems, closed pressure 
+systems, and gas-insulated transformers. 
+Note: The emission factors above reflect the practices and technologies in place in 1995, i.e., before mitigation measures were 
+implemented. References per footnote b show how these developed further upon successive implementation of various voluntary 
+measures later on. Schwarz (2006) relates state-of–the-art emission factors to mitigation measures in Germany. 
+ 
+TIER 2 METHOD 
+Emission factors for the Tier 2 method are generally developed on the basis of data collected from representative 
+manufacturers and utilities that track emissions by life cycle stage, essentially using the Tier 3, pure mass-
+balance method at their facilities for at least one year. (The disposal emission factor should also account for 
+emissions that occur downstream of the utility site, as discussed below.) These emissions by life cycle stage are 
+then divided by the corresponding SF6 consumption or equipment capacity at that life cycle stage (i.e., SF6 
+consumption for manufacturing emissions, total existing equipment capacity for use emissions, and retiring 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.17 
+equipment capacity for final use and disposal emissions) to develop emission factors. For example, to develop an 
+emission factor for manufacturing, total emissions from the survey of manufacturers are summed and then 
+divided by the total SF6 consumption of surveyed manufacturers. This emission factor can then be applied to the 
+manufacturing sector as a whole, using national SF6 consumption by manufacturers. A similar approach can be 
+used to estimate and apply emission factors for equipment use.  
+The emission factor for disposal should fully account for three factors: (1) the recovery frequency (the fraction of 
+equipment whose charge is recovered), (2) the recovery efficiency (the fraction of charge recovered when 
+recovery is performed), and (3) the emissions from recycling and destruction of the recovered gas. The quantities 
+in (1) and (2) will be automatically accounted for in emission factors based on use of the Tier 3 mass-balance 
+method at representative utilities. However, the quantity in (3) reflects emissions that occur both on site and 
+downstream of the utility/user. Thus, it must be accounted for separately. See the Tier 3 Method discussion 
+below for guidance on estimating recycling and destruction emission factors.  
+The facility-level variant of the Tier 3 approach may also be used to develop emission factors, but these will be 
+applied at a more aggregated level, i.e., to equipment manufacturing and use (where the latter includes 
+installation, use, and disposal) rather than to each lifecycle stage.  
+TIER 3 METHOD 
+Because the Tier 3 method encourages the use of emission factors only when emission rates from processes are 
+quite low (e.g., 3 percent of nameplate capacity per year or less) or when electrical equipment has only recently 
+been introduced into a country, emission factors for this method may be difficult to measure directly using a 
+mass-balance approach. To estimate Tier 3 emission factors, therefore, engineering studies may be used, 
+identifying potential leak points and loss mechanisms and assigning probabilities and emission rates to these. 
+Expected losses from service and maintenance should be factored into overall emission rates, as should losses 
+from rare but catastrophic events that result in the loss of most of the equipment’s charge. Past experience with 
+similar processes and designs should be considered. To ascertain and verify emission factors for use, surveys of 
+equipment in the field may be carried out after several years of use, with the number of years determined by the 
+expected leak rate and the limit of detection of the measuring equipment. Manufacturer statistics on equipment 
+failure rates should be monitored to help ensure that catastrophic or gradual loss rates are not higher than 
+expected. Disposal emissions are extremely sensitive to recovery frequencies (the fraction of equipment whose 
+charge is recovered) and to recovery efficiencies (the fraction of charge recovered when recovery is performed, 
+which, due to time considerations, may be lower than what is technically achievable). Thus, these should be 
+monitored and documented carefully before establishing disposal emission factors.  
+Emission factors for recycling of recovered SF6 may be based on professional judgement. Emission factors for 
+destruction may be based on the rated destruction efficiency of the destruction technology, assuming that the 
+technology is maintained and operated in a way that maintains its rated destruction efficiency. 
+8.2.2.3 
+CHOICE OF ACTIVITY DATA 
+The activity data necessary to carry out the various estimation methods may be gathered from chemical 
+manufacturers, equipment manufacturers, equipment users, and equipment disposers and/or their industry 
+associations in the country or the region. The best source(s) of data vary depending upon the method and 
+national circumstances.  
+TIER 1 METHOD 
+SF6 consumption by equipment manufacturers: SF6 consumption by equipment manufacturers can be estimated 
+using information from the manufacturers on their purchases of SF6, their returns of SF6 to chemical producers, 
+and changes in their inventory of SF6 in containers. If information from equipment manufacturers is unavailable 
+or incomplete, information from chemical producers and/or distributors on their sales to equipment 
+manufacturers (less any returns) may be used. 
+Nameplate capacity of new and retiring equipment: Nameplate capacity can be estimated using one 
+or more of the following data sources: (1) information from equipment manufacturers/importers on the total 
+nameplate capacity of the equipment they manufacture or import and export, (2) information from utilities on the 
+total nameplate capacity of the equipment they install and retire each year, or (3) if information from (1) or (2) is 
+not available, information from chemical manufacturers/importers on their sales of SF6 to equipment 
+manufacturers. The first two data sources are preferable to the third, because gas sales to equipment 
+manufacturers will differ from the nameplate capacity of new equipment installed in the country, particularly if 
+equipment imports or exports are significant. In estimating the nameplate capacities of new and retiring 
+equipment, inventory compilers should include the nameplate capacity of imported equipment and exclude the 
+Volume 3: Industrial Processes and Product Use 
+8.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+nameplate capacity of exported equipment. (See Section 7.5, Refrigeration, Box 7.1, Accounting for Imports and 
+Exports of Refrigerant and Equipment, for a full discussion of how to treat imports and exports in estimating 
+these quantities. This guidance is directly applicable to this category.)  
+In the case of retiring equipment, capacity or sales information should be historical, starting in the year when the 
+current year’s retiring equipment was built. Typical values for the lifetime of electrical equipment range from 30 
+to 40 years. If information on the total nameplate capacity of retiring equipment is not available, it can be 
+estimated from new nameplate capacity, using the estimated annual growth rate of equipment capacity. In 
+estimating the growth rate, it is good practice to consider both the number of pieces of equipment sold each year 
+and the average nameplate capacity of the equipment.
+3  
+The following equation can be used to estimate retiring nameplate capacity, if this information is not available 
+directly:  
+EQUATION 8.11 
+RETIRING NAMEPLATE CAPACITY 
+Retiring Nameplate Capacity = New Nameplate Capacity / ( 1 + g )L 
+Where: 
+L = equipment lifetime 
+g = rate of growth 
+According to a 2004 global survey, the average annual growth rate of SF6 sales to equipment manufacturers 
+between 1970 and 2000 was approximately 9 percent. (Smythe, 2004). In the absence of country-specific 
+information, a default factor of 9 percent may be used.  
+Total nameplate capacity of installed equipment: The total nameplate capacity of equipment can be 
+estimated using the same data sources as are used to estimate the nameplate capacity for new and retiring 
+equipment. If data from equipment manufacturers is used, it should include data on sales over the full lifetime of 
+the equipment (30 to 40 years).  
+TIER 2 METHOD 
+Quantities can be estimated as for Tier 1 above. 
+TIER 3 METHOD 
+To implement the Tier 3 method, information must be gathered at two levels. At the facility level, gas flows 
+must be tracked correctly according to the Tier 3 method. At the national level, information from facilities 
+(manufacturers, users, and disposers of equipment) must be collected, checked, summed, and if necessary, 
+extrapolated to include estimates of emissions from facilities in the country that do not collect data. Guidance 
+regarding the information to be tracked by facilities is provided in the descriptions of the Tier 3 method above. 
+Gas consumption may be measured by weighing gas cylinders before and after filling or recovery operations or 
+at the beginning and end of the year or by using flow meters (e.g., during equipment manufacturing). At the 
+national level, trade associations for equipment manufacturers and utilities can be very helpful in disseminating 
+knowledge to their members regarding the Tier 3 approach and in helping their members to track and report data 
+consistently and transparently. Trade associations can also act as third parties to aggregate confidential or 
+sensitive data so that it can be released (in aggregate) to the public. Where trade associations are not active, 
+national inventory compilers can facilitate the collection of information at the facility level, as well as the 
+reporting and verification of this information, by developing model emission tracking protocols or by adopting 
+existing industry protocols that embody the Tier 3 approach. These protocols can then be distributed to the 
+manufacturers, users, and disposers of electrical equipment. Electronic protocols such as spreadsheets further 
+facilitate the tracking, documentation, and reporting of emissions and minimize opportunities for arithmetic error. 
+Because emission rates can vary from region to region and facility to facility, it is good practice to survey as 
+many facilities as practical. In addition to manufacturers and utilities, countries should survey industrial sites and 
+other non-utility sites if these contribute substantially to emissions from electrical equipment. If the number of 
+facilities in a country is large (e.g., over 50), it may be difficult to achieve complete reporting. In these cases, 
+countries may estimate emissions from non-reporting facilities by applying the Tier 2 method to these facilities 
+                                                           
+3  While the number of pieces of equipment sold each year has generally grown, the average nameplate capacity has generally 
+declined. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.19 
+or by using alternative activity data as described in Chapter 2 of Volume 1, Approaches to Data Collection. 
+Sector-specific considerations in selecting and using alternative activity data are discussed below. 
+For sealed pressure equipment (which is widely dispersed among industrial users as well as utilities), 
+manufacturers and distributors are likely to be the best source of complete information on national bank sizes 
+and emission rates. To develop an accurate estimate, inventory compilers should survey manufacturers regarding 
+their sales of equipment between the present and the time when currently retiring equipment was installed, or, if 
+equipment has not yet begun to be retired, between the present and the time when the equipment was introduced 
+into the country.  
+Sector-specific considerations in selecting and using alternative activity data 
+for Tier 3 
+As discussed above, even when implementing a Tier 3 method it may not be possible to obtain data from all 
+facilities. To obtain complete coverage of facilities, it is possible to use alternative activity data. For estimating 
+emissions from non-reporting manufacturers, it may be possible to use the manufacturing capacity and/or 
+collective market share (in terms of functional units) of the non-reporting manufacturers. For estimating 
+emissions from non-reporting utilities, possible alternative data sets or drivers include (but are not limited to) the 
+length of transmission lines, the combined length of transmission and distribution lines, or the number of 
+substations of the non-reporting utilities. Transmission kilometres are likely to be a good predictor of emissions 
+where most SF6 is used in high voltage transmission equipment, as in the U.S. (A discussion of how transmission 
+kilometres are used to estimate emissions in the U.S. can be found in Volume 1, Chapter 2, Approaches to Data 
+Collection.) Where a high percentage of SF6 is used in medium voltage distribution equipment or in gas-
+insulated substations, one of the other types of data may be appropriate.  
+Wherever alternative data sets are used, it is important to derive emission factors from a representative set of 
+facilities to ensure that the resulting estimate of national SF6 emissions is unbiased. Note that more than one 
+factor may be appropriate, e.g., for different size utilities or for utilities in urban vs. rural locations. Because SF6 
+use and emission patterns can change over time, it is good practice to update the analysis and emission factor(s) 
+at least every five years. (For example, emission rates may change as compact and leak-tight equipment replaces 
+larger, leakier equipment and as sealed pressure equipment grows in importance.) In some cases, countries may 
+be able to make use of emission factors developed in countries with similar electrical grids. In these cases, it is 
+good practice to document the similarities between the grids before applying the emission factor from the other 
+country.  
+8.2.2.4 
+COMPLETENESS 
+Completeness for this source category requires accounting for emissions during the manufacture, use, and 
+disposal of equipment, and during the recycling or destruction of SF6 recovered from equipment. Where Tier 3 
+methods are used, completeness requires that all significant SF6 users (manufacturers and utilities) be identified. 
+When facility-level emissions data are not available from all of these users, emission estimates should be 
+developed for them using one of the extrapolation methods described in Section 8.2.2.3, Choice of Activity Data. 
+In the manufacturing sector, this requires assessing emissions from: 
+• 
+Manufacture of gas insulated switchgear (GIS), gas circuit breakers (GCB), high voltage gas-insulated lines 
+(GIL), outdoor gas-insulated instrument transformers, reclosers, switches, and ring main units of both types 
+(sealed and closed pressure systems, respectively up to and above 52 kV), and other equipment including 
+but not limited to cast resin instrument transformers and certain types of bushings using SF6 either as gas for 
+the casting process or as a blowing agent; 
+• 
+Manufacturers of gas-insulated power transformers (GIT);  
+• 
+Minor SF6 users, including equipment remakers and servicing companies;  
+• 
+The SF6 distribution chain from producers and distributors to manufacturing facilities. 
+In the utility and disposal sector, this requires accounting for all SF6 losses associated with: 
+• 
+New electrical equipment installations; 
+• 
+Leakage, refill, maintenance, and equipment failures;  
+• 
+Disposal of discarded electrical equipment;  
+• 
+Recycling or destruction of SF6 recovered from equipment (but recycling emissions from chemical 
+producers should be counted under chemical production, which is covered in Section 3.10 of this volume). 
+Volume 3: Industrial Processes and Product Use 
+8.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+It is good practice to identify and include industrial, military and small-utility applications if these are believed 
+to contribute substantially to total emissions from the electrical equipment source category. 
+8.2.2.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+When estimating emissions from equipment users over a time series, it is necessary to consider SF6 emissions 
+associated with the full set equipment at users’ sites for the years of interest. Thus, when using approaches based 
+on banks and emission-factors (e.g., the Tier 2 approach), countries will require information on the capacity and 
+emission rate of equipment purchased and installed for 30 to 40 years preceding the years of interest.  
+In the user sector, if historical data are unavailable, good practice is to develop estimates using the top-down 
+method, i.e., develop a model based on professional judgement by industry experts and inventory compilers and 
+then calibrate as discussed below. Average leak rates for new equipment and the frequency of refill and routine 
+maintenance all decreased from 1970 to 1995, and this trend has continued to the present. It is not good practice 
+to apply current (post-2000) overall loss rates to historical years. Aggregate loss rates estimated from historical 
+sales can be used in this case as well. 
+On the manufacturing side, if historical data for developing base year emissions for 1990/1995 are not available, 
+the top-down method calibrated to more accurate estimates for current years may be applied. Since SF6 handling 
+practices of equipment manufacturers have changed substantially since 1995 (e.g., more gas is recovered), it is 
+not good practice to apply current loss rates to historical estimates. Aggregate loss rates determined from global 
+and regional sales and emission analyses may assist in providing an unbiased estimate for earlier years. It is good 
+practice to recalculate emissions according to the guidance provided in Volume 1, Chapter 5, with all 
+assumptions clearly documented. 
+8.2.3 
+Uncertainty assessment 
+When using the Tier 3 method, the resulting emissions estimates will have an accuracy of the order of ± 10 
+percent, and are likely to be more accurate than estimates developed using Tier 2 or Tier 1 methods.. If surveys 
+are incomplete, the associated uncertainty will be greater. Particular sources of uncertainty may include:  
+• 
+SF6 exported by equipment manufacturers (either in equipment or separately in containers);  
+• 
+SF6 imported by foreign equipment manufacturers (either in equipment or in containers); 
+• 
+SF6 returned to foreign recycling facilities; 
+• 
+Measurements of mass, density, and pressure (generally accurate to within one or two percent of the total 
+quantity massed, but if emission rates are low, this may be a substantial percentage of those rates); 
+• 
+Emission factors; 
+• 
+Time lag between emissions and servicing;4  
+• 
+Lifetime of the equipment;  
+• 
+Regression error associated with any extrapolative approaches. 
+The estimated uncertainties in the default emission factors for the Tier 1 method are shown in Table 8.5, 
+Uncertainties for Default Emission Factors for SF6 Emissions from Electrical Equipment. These values are based 
+on the variation observed in emission factors in Europe. If the factors in Tables 8.2-8.4 are applied outside the 
+countries and/or regions in which they were developed, uncertainties will be greater.  
+                                                           
+4  See Chapter 1 of this volume for a discussion of this issue. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.21 
+ 
+TABLE 8.5 
+UNCERTAINTIES FOR DEFAULT EMISSION FACTORS AND LIFETIME 
+Disposal 
+Phase 
+Equip 
+-ment Type 
+Manufacturi
+ng 
+Use (Includes leakage, 
+major failures/arc faults 
+and maintenance losses) 
+Lifetime (years)
+Fraction of charge 
+remaining at retirement
+Sealed-Pressurea 
+±20% 
+±20% 
+-20%/+40% 
+d 
+Closed-Pressureb 
+±30% 
+±30% 
+-10%/+40% 
+d 
+Gas Insulated 
+Transformers c 
+±30% 
+±30% 
+-10%/+40% 
+d 
+a Estimated from ‘Reductions of SF6 Emissions from High and Medium Voltage Electrical Equipment in Europe,’ Ecofys, June, 2005;no 
+uncertainties available from Japan; not relevant for USA..  
+b Estimated from ‘Reductions of SF6 Emissions from High and Medium Voltage Electrical Equipment in Europe,’ Ecofys, June, 2005; 
+U.S. emission factors have higher uncertainty for manufacturing (±70%) and slightly lower uncertainty for use (±15%) (U.S. 
+Inventory of Greenhouse Gases and Sinks (U.S. EPA, 2004)). No uncertainties available from Japan. 
+c Estimated by analogy with closed pressure systems; actual uncertainties may be somewhat higher. No uncertainties available from 
+Japan. 
+d No uncertainties available on fraction of charge remaining at retirement. 
+ 
+8.2.4 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+8.2.4.1 
+QUALITY ASSURANCE/QUALITY CONTROL 
+It is good practice to conduct quality control checks as outlined in Volume 1, Chapter 6, and an expert review of 
+the emissions estimates. Additional quality control checks as outlined in Volume 1, and quality assurance 
+procedures may also be applicable, particularly if higher tier methods are used to determine emissions from this 
+source category. Inventory compilers are encouraged to use higher tier QA/QC for key categories as identified in 
+Volume 1, Chapter 4. 
+Additional procedures specific to electrical equipment are outlined below: 
+Comparison of emissions estimates using different approaches 
+Inventory compilers should sum the facility-level data used as part of a bottom-up, Tier 3 method and cross-
+check the data against national level emissions calculated using country-level data (the Tier 2 method) and/or 
+country-level data with the IPCC default emission factors (the Tier 1 method). The Tier 2 method may similarly 
+be checked against the Tier 1 method. Countries may also compare their results to those derived using a country-
+level mass-balance approach, as described in Equations 7.3 and 7.9 of Chapter 7. If countries do not have 
+manufacturing facilities, they may also compare their estimates against potential emissions estimated using 
+national apparent consumption data.  
+Review of facility-level emissions data 
+In all instances where site-specific emissions data are obtained through surveys, inventory compilers should 
+compare the emission rates between sites (adjusting for relative size or capacity) to identify significant outliers. 
+They should investigate any outliers to determine if the differences can be explained or if there is an error in the 
+reported emissions. As noted in Section 8.2.2.3, national inventory compilers can facilitate both the collection 
+and verification of information at the facility level by distributing emission tracking protocols that embody the 
+Tier 3 approach. Electronic protocols such as spreadsheets are particularly useful, as they minimize opportunities 
+for arithmetic error. The calculations included in these protocols (whether electronic or not) can then be checked 
+after they are submitted.  
+Volume 3: Industrial Processes and Product Use 
+8.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Comparison of emission rates with those of other countries 
+Inventory compilers should compare effective emission factors (loss rates) with values reported by other 
+countries in the region, or with defaults published in the scientific literature for equipment with a similar design 
+and similar level of emissions control. Transparent reporting, as outlined above, is essential for making 
+international comparisons. 
+8.2.4.2 
+REPORTING AND DOCUMENTATION 
+It is good practice to document and archive all information required to produce the national emissions inventory 
+estimates as outlined in Volume 1, Section 6.11. It is not practical to include all documentation in the national 
+inventory report. However, the inventory should include summaries of methods used and references to source 
+data such that the reported emissions estimates are transparent and steps in their calculation may be retraced. 
+Some examples of specific documentation and reporting relevant to this source category ensuring transparency 
+in reported emissions estimates are provided in Table 8.6, Good Practice Reporting Information for SF6 
+Emissions from Electrical Equipment by tier. 
+Confidentiality issues may arise where there are limited numbers of manufacturers or utilities. In these cases, 
+aggregated reporting for the total electrical equipment sector, or even total national SF6 applications, may be 
+necessary. National or regional associations of users and manufacturers may be willing to collect, check, and 
+aggregate data, particularly when they have collected such data historically. They can then report the aggregated 
+information to the inventory compiler, resolving the problem of confidentiality. If survey responses cannot be 
+released as public information, third party review of survey data may be necessary to support data verification 
+efforts.  
+ 
+TABLE 8.6 
+GOOD PRACTICE REPORTING INFORMATION FOR SF6 EMISSIONS FROM ELECTRICAL EQUIPMENT BY TIER 
+Data 
+Tier 3 
+Tier 2 
+Tier 1 
+Annual, country-wide consumption of SF6 by 
+equipment manufacturers 
+ 
+X 
+X 
+Nameplate capacity of new equipment 
+X 
+X 
+X 
+Nameplate capacity of existing equipment 
+X* 
+X 
+X 
+Nameplate capacity of retiring equipment 
+X 
+X 
+X 
+SF6 destroyed 
+X 
+ 
+ 
+SF6 in inventory at beginning of year 
+X 
+ 
+ 
+SF6 in inventory at end of year 
+X 
+ 
+ 
+SF6 purchased by facility 
+X 
+ 
+ 
+SF6 sold or returned by facility 
+X 
+ 
+ 
+SF6 sent off-site for recycling 
+X 
+ 
+ 
+SF6 returned to site after recycling 
+X 
+ 
+ 
+SF6 used to fill new equipment 
+X 
+ 
+ 
+SF6 used to service equipment 
+X 
+ 
+ 
+SF6 recovered from retiring equipment 
+X 
+ 
+ 
+Emission/recovery factors 
+X* 
+X 
+ 
+Documentation for factors, if country-specific 
+X* 
+X 
+ 
+*Required for some variants of the methods. 
+ 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.23 
+8.3 
+USE OF SF6 AND PFCs IN OTHER PRODUCTS 
+8.3.1 
+Introduction 
+This source category excludes the following source categories that are addressed elsewhere in the 2006 
+Guidelines:  
+• 
+Production of SF6 and PFCs (Section 3.10); 
+• 
+Production and use of electrical equipment (Section 8.2); 
+• 
+Primary and secondary production of magnesium and aluminium (Chapter 4); and 
+• 
+Semiconductor and flat panel display manufacturing (Chapter 6). 
+ 
+Identified remaining applications in this source category include:  
+• 
+SF6 and PFCs used in military applications, particularly SF6 used in airborne radar systems, e.g., AWACS 
+(Airborne Warning and Control System), and PFCs used as heat transfer fluids in high-powered electronic 
+applications; 
+• 
+SF6 used in equipment in university and research particle accelerators;  
+• 
+SF6 used in equipment in industrial and medical particle accelerators; 
+• 
+‘Adiabatic’ applications utilising the low permeability through rubber of SF6 and some PFCs, e.g., car tires 
+and sport shoe soles;  
+• 
+SF6 used in sound-proof windows; 
+• 
+PFCs used as heat transfer fluids in commercial and consumer applications; 
+• 
+PFCs used in cosmetics and in medical applications; 
+• 
+Other uses e.g. gas-air tracer in research and leak detectors. 
+8.3.2 
+Methodological issues 
+8.3.2.1 
+CHOICE OF METHOD 
+The good practice method is to use either consumption data from users of SF6 or PFCs or top-down import, 
+export and consumption data from national SF6 producers and distributors, disaggregated by major type of SF6 or 
+PFC application. Acquiring this data will entail a survey of all producers and distributors of SF6 and PFCs to 
+identify total net SF6 and PFC consumption. Once the data are obtained, the amount of SF6 and PFC consumed 
+by application in this source category should be estimated. 
+ 
+MILITARY APPLICATIONS 
+SF6 EMISSIONS FROM OPERATION OF AWACS 
+SF6 is used as an insulating medium in the radar systems of military reconnaissance planes of the Boeing E-3A 
+type, commonly known as AWACS. The purpose of the SF6 is to prevent electric flashovers in the hollow 
+conductors of the antenna, in which high voltages of more than 135 kV prevail. When the plane ascends, SF6 is 
+automatically released from the system and into the atmosphere to maintain the appropriate pressure difference 
+between the system and the outside air. When the plane descends, SF6 is automatically charged into the system 
+from an SF6 container on board. Most emissions occur during the pressure-balancing process on ascent, but 
+emissions from system leakage can also occur during other phases of flight or during time on the ground. Annual 
+emissions per plane have been estimated to be 740 kg, while the charge of each system is approximately 13 kg.  
+Volume 3: Industrial Processes and Product Use 
+8.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 8.2 
+Decision tree for SF6 from AWACS 
+Use Emission-Factor
+Tier 1 approach.
+Start
+Are detailed
+acquisition and
+disbursement data available
+for this
+category?
+Is the Other
+Product Manufacture
+and Use a key category1, and is 
+this subcategory
+significant?
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Box 2: Tier 2
+No
+No
+Box 1: Tier 1
+Yes
+Use Mass-Balance
+Tier 2 approach.
+Yes
+Collect data for 
+Tier 2 method.
+ 
+ 
+Tier 1 method – SF6 emissions per plane 
+If a country does not have data on SF6 consumption by its AWACS, it may use a per-plane emission factor to 
+estimate emissions. An emission factor of 740 kg per plane per year is presented in Table 8.7 below; this figure 
+is based on estimates of SF6 emissions from NATO Boeing E-3As. Note that actual emissions per plane are 
+strongly influenced by the average number of sorties (take-offs) per plane per year. More frequent sorties will 
+raise the emission rate above 740 kg/plane; less frequent sorties will lower it. Leakage rates during flight or 
+during time on the ground will also affect the emission rate. 
+EQUATION 8.12 
+EMISSIONS FROM AWACS (DEFAULT EMISSION ACTOR) 
+User Emissions = 740 kg • Number of planes in AWACS fleet 
+ 
+TABLE 8.7 
+SF6 EMISSIONS PER PLANE PER YEAR 
+Emissions per plane per year (kg SF6) 
+Uncertainty 
+740 kg 
+±100 kg  
+Source: Schwarz (2005) 
+ 
+Table 8.8 includes information on national AWACS fleets world wide (Boeing, 2005); like other activity data, it 
+may quickly go out of date. Countries are in the best position to know the numbers of planes in their AWACS 
+fleets.  
+ 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.25 
+TABLE 8.8 
+NATIONAL AWACS FLEETS 
+Country/ 
+Organisation 
+USA 
+Japan 
+France 
+UK 
+Other 
+NATO 
+Saudi 
+Arabia 
+Total 
+No. AWACS 
+33 
+4 
+4 
+7 
+17 
+5 
+70 
+Source: Boeing (2005) 
+ 
+Tier 2 method – user mass-balance method 
+The most accurate method for estimating SF6 emissions from AWACS is to track SF6 consumption by the 
+systems. To do so, the following equations, which are similar to the utility-level variant of the Tier 3 method for 
+electrical equipment, may be used. Note that for AWACS, acquisitions and disbursements of SF6 containers are 
+likely to be considerably more important to the result than acquisitions and retirements of operating systems. 
+EQUATION 8.13 
+EMISSIONS FROM AWACS (USER MASS-BALANCE) 
+User Emissions = Decrease in SF6 Inventory + Acquisitions of SF6 – Disbursements of SF6 – Net 
+Increase in AWACS Fleet Charge 
+Where: 
+Decrease in SF6 Inventory = SF6 stored in containers at the beginning of the year – SF6 stored in 
+containers at the end of the year  
+Acquisitions of SF6 = SF6 purchased from chemical producers or distributors in bulk + SF6 purchased 
+from AWACS manufacturers or distributors with or inside of new planes + SF6 returned to site after 
+off-site recycling 
+Disbursements of SF6 = SF6 contained in AWACS that are transferred to other entities + SF6 returned to 
+suppliers + SF6 sent off-site for recycling + SF6 destroyed 
+Net Increase in AWACS Fleet Charge = 13 kg • (New AWACS – Retiring AWACS)  
+ 
+SF6 AND PFC EMISSIONS FROM OTHER MILITARY APPLICATIONS 
+There is wide range of military applications using PFCs or SF6.5 Military electronics are believed to be an 
+important and growing application of PFC heat transfer fluids, which are valued for their stability and dielectric 
+properties. The fluids are used in ground and airborne radar (klystrons), avionics, missile guidance systems, 
+ECM (Electronic Counter Measures), sonar, amphibious assault vehicles, other surveillance aircraft, lasers, SDI 
+(Strategic Defense Initiative), and stealth aircraft. PFCs may also be used to cool electric motors, particularly in 
+applications where noise reduction is valued, e.g., in ships and submarines. The specific PFCs used in these 
+applications are believed to be similar to those identified as heat transfer fluids in electronics manufacturing in 
+Chapter 6. Spray cooling, jet impingement cooling, and pool boiling appear to be the favoured systems for heat 
+removal. In all of these cooling applications, the PFC is contained in a closed system, and neither replacement 
+nor replenishment of the PFC liquid appears to be required. Thus, the greatest opportunities for emissions are the 
+manufacture, maintenance, and, especially, the disposal of the equipment. 
+SF6 is used in high-performance ground and airborne radar systems in their hollow conductors for transmission 
+of high-frequency energy pulses at high voltages from the klystron. Another application of SF6 is as an oxidant 
+of lithium in Stored Chemical Energy Propulsion System (SCEPS), e.g., in naval torpedoes and in infrared 
+decoys (Koch, 2004). Apparently, these applications of SF6, like those of the PFC heat transfer fluids 
+enumerated above, are generally more or less enclosed, but servicing and testing procedures may lead to 
+emission. The use of SF6 for the quieting of torpedo propellers has also been reported (NIST, 1997). 
+In addition, SF6 may be emitted as a by-product of the processing of nuclear material for the production of fuel 
+and nuclear warheads. SF6 is known to be emitted from neutralising excess fluorine during the production of 
+nuclear fuel for civilian applications (AREVA, 2005). 
+                                                           
+5  David Harris and James Hildebrandt, “Spray Cooling Electrical and Electronic Equipment,” COTS Journal, November 
+2003; C. Shepherd Burton, “Uses and Air Emissions of Liquid PFC Heat Transfer Fluids from the Electronics Sector,” 
+Draft report prepared for Scott C. Bartos, U.S. Environmental Protection Agency. 
+Volume 3: Industrial Processes and Product Use 
+8.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Although it is believed that the total amounts of SF6 and PFCs consumed and emitted in this sector may be 
+significant, no data on quantities are publicly available so far. Therefore, inventory compilers should try to 
+collect further information from the relevant authorities and, if possible, their suppliers. As noted above, the 
+greatest opportunities for emissions from many of these applications appear to be the manufacture, maintenance, 
+and disposal of the equipment. Thus, if inventory compilers can acquire information on emission rates during the 
+manufacture, maintenance, and disposal of the equipment, along with the quantities of equipment manufactured, 
+in use, and disposed, they can use the Tier 2 or Tier 3 method for electrical equipment to estimate emissions. For 
+applications with different emissions profiles (e.g., prompt emissions), the appropriate equation from Section 8.2 
+may be used.  
+ 
+SF6 EMISSIONS FROM UNIVERSITY AND RESEARCH PARTICLE 
+ACCELERATORS  
+SF6 is used in university and research operated particle accelerators as an insulating gas. Typically, high voltage 
+equipment is contained and operated within a vessel filled with SF6 at a pressure exceeding atmospheric pressure. 
+Charges range from five kilograms to over ten thousand kilograms, with typical charges falling between 500 and 
+3 000 kg. When the equipment requires maintenance, the SF6 is transferred into storage tanks. SF6 losses occur 
+primarily during gas recovery and transfer, when pressure relief valves are actuated, and through slow leaks. 
+Based on two recent studies annual SF6 losses range between 5 and 7 percent of vessel capacity per year and 
+generally depend on the vessel opening frequency plus the efficiency of the recovery and transfer equipment. 
+World banked capacity is roughly estimated to be 500 tonnes with annual SF6 emissions of 35 tonnes.  
+Switzerland has developed a voluntary program to reduce SF6 emissions from particle accelerators. Suggestions 
+and techniques for reducing SF6 emissions from these sources exist.  
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.27 
+Figure 8.3 
+Decision tree for SF6 from research accelerators 
+Use Accelerator-Level
+Emission-Factor approach.
+Start
+Are
+detailed acquisition
+and disbursement data 
+available for this 
+category?
+Are
+data on individual 
+accelerator charges 
+available?
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Box 3: Tier 3
+No
+Yes
+Box 1: Tier 1
+Yes
+Use Accelerator-Level
+Mass-Balance approach.
+No
+Collect data for Tier 3
+or Tier 2 method.
+Is the
+Other Product
+Manufacture and Use 
+a key category1, and is this
+subcategory
+significant?
+Box 2: Tier 2
+Use Country-Level
+approach.
+No
+Yes
+ 
+Tier 1 method – country-level method 
+In cases where individual user accelerator charge data is unavailable, one extremely rough method involves 
+determining the total number of university and research particle accelerators in the country and using several 
+factors to determine the country-level annual emission rate as noted in Equation 8.14. For this Tier 1 method, the 
+only data that requires collection is the total number of university and research particle accelerators in the given 
+country. 
+EQUATION 8.14 
+UNIVERSITY AND RESEARCH PARTICLE ACCELERATOR EMISSIONS (COUNTRY-LEVEL) 
+Emissions = (Number of university and research particle accelerators in the country) • (SF6 Use 
+Factor) • (SF6 Charge Factor, kg) • (SF6 university and research particle accelerator Emission Factor)  
+Where: 
+Number of university and research particle accelerators in the country = The total number of university 
+and research particle accelerators in the country. This rough method does not require countries to 
+determine the number of accelerators that use SF6. To determine if a country has a particle 
+accelerator, go to http://www-elsa.physik.uni-bonn.de/Informationen/accelerator_list.html 
+Volume 3: Industrial Processes and Product Use 
+8.28 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+SF6 Use Factor = 0.33 Approximately one third of university and research particle accelerators use SF6 as 
+an insulator. 
+SF6 Charge Factor = 2400 kg, SF6, the average SF6 charge in a university and research particle 
+accelerator. 
+SF6 university and research particle accelerator Emission Factor = 0.07, the average annual university 
+and research particle accelerator emission rate as a fraction of the total charge.  
+Tier 2 method – accelerator-level emission-factor approach 
+If data on the quantity of SF6 contained within each university and research accelerator are available, a default 
+emission factor of 7 percent may be multiplied by the total SF6 charge contained in university and research 
+accelerators in the country. The total country SF6 emission rate from university and research accelerators is 
+therefore calculated from Equation 8.15. 
+EQUATION 8.15 
+UNIVERSITY AND RESEARCH PARTICLE ACCELERATOR EMISSIONS (ACCELERATOR-LEVEL 
+EMISSION FACTOR) 
+Total Emissions =  SF6 university and research particle accelerator Emission Factor  
+• ∑  Individual Accelerator Charges 
+Where: 
+SF6 university and research particle accelerator Emission Factor = 0.07, the average annual university 
+and research particle accelerator emission rate as a fraction of the total charge. 
+Individual User Accelerator Charges = SF6 contained within each university and research accelerator. 
+Tier 3 method –accelerator-level mass-balance method 
+SF6 emissions from university and research facilities operating particle accelerators may be most accurately 
+determined at the user level on an accelerator-by-accelerator basis. Emission calculations are estimated by 
+tracking accelerator charge as well as SF6 consumption and disposal. As detailed in Equation 8.16, the total 
+emissions are equal to the sum of the individual users’ emissions. Note, under this method, as the overall SF6 
+emission rate from particle accelerators is small compared to other SF6 uses, the associated SF6 lost in 
+manufacturing is considered negligible and is not included in the calculation.  
+EQUATION 8.16 
+TOTAL RESEARCH ACCELERATOR EMISSIONS 
+= ∑
+Individual Accelerator Emissions
+Total Emissions
+ 
+Each particle accelerator’s emissions can be calculated as follows: 
+EQUATION 8.17 
+RESEARCH ACCELERATOR EMISSIONS (ACCELERATOR-LEVEL MASS-BALANCE) 
+Accelerator Emissions = Decrease in SF6 Inventory + Acquisitions of SF6 – Disbursements of SF6 
+– Net Increase in Accelerator Charge 
+Where: 
+Decrease in SF6 Inventory = SF6 stored in containers at the beginning of the year – SF6 stored in 
+containers at the end of the year  
+Acquisitions of SF6 = SF6 purchased from chemical producers or distributors in bulk + SF6 purchased 
+from accelerator manufacturers or distributors with or inside of new accelerator components + SF6 
+returned to site after off-site recycling 
+Disbursements of SF6 = SF6 contained in components transferred to other entities + SF6 returned to 
+suppliers + SF6 sent off-site for recycling + SF6 destroyed 
+Net Increase in Accelerator Charge = SF6 Charge of New Components – SF6 Charge of Retiring 
+Components  
+ 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.29 
+SF6 EMISSIONS FROM INDUSTRIAL AND MEDICAL PARTICLE 
+ACCELERATORS  
+SF6 is used as an insulating gas in two types of industrial particle accelerators (low and high voltage) and also in 
+medical (cancer therapy) particle accelerators, as is the case for university and research particle accelerators. 
+However, the emission and charge factors for industrial and medical particle accelerators are different from those 
+of university and research accelerators, as discussed below. 
+Global banked capacity for industrial particle accelerators is roughly estimated to be 500 tonnes with annual SF6 
+emissions of 35 tonnes. Global banked capacity for medical (radiotherapy) particle accelerators is roughly 
+estimated to be less than 5 tonnes with annual SF6 emissions of less than 5 tonnes. (Schwarz, 2005).  
+Figure 8.4 
+Decision tree for industrial and medical particle accelerators 
+Use User-Level Emission-
+Factor approach.
+Start
+Are detailed
+acquisition and disbursement 
+data available for this
+category?
+Are
+data on individual
+accelerator charges
+available?
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Box 3: Tier 3
+No
+Yes
+Box 1: Tier 1
+Yes
+Use User-Level Mass-
+Balance approach.
+No
+Collect data for Tier 3
+or Tier 2 method.
+Is the Other
+Product Manufacture
+and Use a key category1, and is
+this subcategory
+significant?
+Box 2: Tier 2
+Use Country-Level
+approach.
+No
+Yes
+ 
+Tier 1 method – country-level method 
+In cases where individual user accelerator charge data is unavailable, one extremely rough method involves 
+determining the total number of particle accelerators by process description in the country and using factors to 
+Volume 3: Industrial Processes and Product Use 
+8.30 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+determine the country level annual emission rate as noted in Equation 8.18. For this Tier 1 method, the only data 
+that requires collection is the total number of particle accelerators which contain SF6 by process description in 
+the given country. 
+EQUATION 8.18 
+INDUSTRIAL/MEDICAL ACCELERATOR EMISSIONS (COUNTRY-LEVEL) 
+Emissions = (Number of particle accelerators that use SF6 by process description in the country) • 
+(SF6 Charge Factor, kg) • (SF6 applicable particle accelerator Emission Factor)  
+Where: 
+Number of particle accelerators by type in the country = The total number of particle accelerators by type 
+(industrial high voltage, industrial low voltage and radiotherapy) that use SF6 in the country, 1, 2, etc. 
+(Only count particle accelerators that use SF6. This differs for the Tier 1 calculation for university 
+and research particle accelerators)  
+SF6 Charge Factor = The average SF6 charge in a particle accelerator by process description as noted 
+below. 
+SF6 particle accelerator Emission Factor = The average annual SF6 particle accelerator emission rate as a 
+fraction of the total charge by process description. 
+ 
+TABLE 8.9 
+AVERAGE SF6 CHARGE IN A PARTICLE ACCELERATOR BY PROCESS DESCRIPTION 
+Process Description 
+SF6 Charge Factor, kg 
+Industrial Particle Accelerators – high voltage (0.3-23 MV) 
+1300 
+Industrial Particle Accelerators –low voltage (<0.3 MV) 
+115 
+Medical (Radiotherapy) 
+0.5a 
+a This is the average of values ranging from 0.05 kg to over 0.8 kg, depending on model and manufacturer. 
+Source: Schwarz (2005) 
+ 
+Tier 2 method – user-level emission-factor approach 
+If data on the quantity of SF6 contained within each industry and medical accelerator are available, use the Tier 2 
+method for university and research facilities; however, multiply the emission factor for each process description 
+provided below by the total, country-specific SF6 charge for that process description. 
+TABLE 8.10 
+EMISSION FACTOR FOR EACH PROCESS DESCRIPTION, 
+(SF6 EMISSIONS FROM INDUSTRIAL AND MEDICAL PARTICLE ACCELERATORS) 
+Process Description 
+Emission Factor, kg /kg SF6 charge 
+Industrial Particle Accelerators – high voltage (0.3-23 MV) 
+0.07 
+Industrial Particle Accelerators – low voltage (<0.3 MV) 
+0.013 
+Medical (Radiotherapy) 
+2.0a 
+a This emission factor is the average of values ranging from 1 kg to 10 kg per kg charge, depending on model, manufacturer, and service 
+intervals. 
+Source: Schwarz (2005) 
+ 
+Tier 3 method – user-level mass-balance method 
+To calculate SF6 emissions from industrial and medical particle accelerators, use the same Tier 3 method as the 
+university and research facilities. The customer service organisations for manufacturers and distributors of the 
+equipment are likely to have information on equipment stocks, imports, and exports, and on the quantities of SF6 
+used to fill and refill the equipment. 
+ 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.31 
+EMISSIONS FROM OTHER APPLICATIONS OF SF6 AND PFCs  
+It is good practice to contact all gas producers/distributors to identify SF6 and PFC users and to investigate the 
+gas consumption of source categories other than those mentioned above. The key difference among the 
+applications discussed below is the typical delay between the purchase of the SF6 or PFC and the release of the 
+chemical. In some cases (e.g., SF6 used in sound-proof glazing, PFCs used as heat transfer fluids), the chemical 
+is fairly well contained during the life of the equipment or product, and most emissions are associated with the 
+manufacture and disposal of the product. In these cases, the delay between the purchase of the chemical and its 
+final emission depends on the lifetime of the product, ranging from three years for tyres and sport-shoes to 25 
+years for sound-proof glazing. In other cases (e.g., use of SF6 and PFCs as tracers or in medical applications), the 
+chemical is fully emitted within a year of its purchase. If, as a result of an initial survey, applications with 
+distinctive delayed emissions appear significant, then good practice is to use a source category-specific emission 
+calculation, taking into account the delay in emissions. 
+Adiabatic uses 
+Adiabatic uses of SF6 and some PFCs exploit the low permeability of these gases through rubber.  Historically, 
+SF6 has been the dominant gas in these applications; however, PFCs with similar molecular weights (such as 
+C3F8) have recently been used as well. Applications with a delay period of 3 years include or car tyres, sport 
+shoe soles and tennis balls (Schwarz et al., 1996). For applications with emissions that are delayed by three years, 
+the following formula can be used. 
+EQUATION 8.19 
+ADIABATIC PROPERTY APPLICATIONS 
+Emissions in year t = Sales in year (t – 3) 
+ 
+Sound-proof glazing 
+Double-glazed sound-proof windows: Approximately one-third of the total amount of SF6 purchased is released 
+during assembly (i.e., filling of the double glass window) (Schwarz/Leisewitz, 1999). For the stock of gas 
+remaining inside the window (capacity), an annual leakage rate of 1 percent is assumed (including glass 
+breakage). Thus, about 75 percent of initial stock remains at the end of its 25-year lifetime. The application of 
+SF6 in windows began in 1975, so disposal is only beginning to occur. Emissions from this source sub-category 
+should be calculated using Equations 8.20 to 8.22:  
+EQUATION 8.20 
+DOUBLE-GLAZED WINDOWS: ASSEMBLY 
+Assembly Emissions in year t = 0.33 • SF6 purchased to fill windows assembled in year t 
+ 
+EQUATION 8.21 
+DOUBLE-GLAZED WINDOWS: USE 
+Leakage Emissions in year t = 0.01 • Capacity of Existing Windows in year t 
+ 
+EQUATION 8.22 
+DOUBLE-GLAZED WINDOWS: DISPOSAL 
+Disposal Emissions in year t = Amount Left in Window at End of Lifetime in year t • (1 – 
+Recovery Factor) 
+ 
+Unless country-specific data are available, a default recovery factor value of zero should be assumed in Equation 
+8.22. If no specific information is available for these sub-source categories, good practice is to treat them as 
+prompt emissions. 
+ 
+Volume 3: Industrial Processes and Product Use 
+8.32 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+PFCs used as heat transfer fluids in consumer and commercial applications 
+PFCs are used as heat transfer fluids in a number of high-power-density commercial and consumer electronic 
+applications. Commercial applications include cooling for supercomputer, telecommunication, and airport radar 
+systems, as well as drive units (rectifiers) on high-speed trains (Burton, 2006). These applications consume much 
+smaller volumes of liquid PFCs than electronics manufacturing, but are believed to be significant among ‘niche’ 
+applications. Consumer applications include cooling kits for desktop computers that are operated at high voltages 
+to increase their processing speed. The specific PFCs used in these applications are believed to be similar to 
+those identified as heat transfer fluids in electronics manufacturing in Chapter 6. In all of these applications, the 
+liquid PFCs are used in closed modules, indicating that most emissions occur during the manufacture, 
+maintenance, and disposal of the product or equipment. Thus, if inventory compilers can acquire information on 
+emission rates during the manufacture, maintenance, and disposal of the equipment, along with the quantities of 
+equipment manufactured, used, and disposed each year, they can use the Tier 2 or Tier 3 method for electrical 
+equipment to estimate emissions. For applications with different emissions profiles (e.g., prompt emissions), the 
+appropriate equation from Section 8.2 may be used. 
+PFCs used in cosmetic and medical applications 
+PFCs with relatively large molecular weights (e.g., C10F18) are used in cosmetic and medical applications, 
+exploiting their ability to carry oxygen to living tissue (May, 2006). Cosmetic applications include anti-wrinkle 
+creams and are estimated to consume fairly small amounts. Current and potential medical applications include 
+storage of pancreatic tissue for transplants (using the ‘two-layer method’), eye surgery (to repair retinal tears), 
+pneumonectomy (lung therapy and diagnosis), use as a contrast agent in ultrasonic and MRI examinations, blood 
+extension, wound healing, and treatment of diseases of the middle ear. All but the first two medical applications 
+involve only small quantities and/or are at the research stage. Storage of pancreatic tissue is a small but growing 
+application. Emissions from medical uses are uncertain but are believed to be small. 
+In all of these applications, the PFC is believed to be emitted into the atmosphere within one year of its purchase. 
+Thus, emissions from these sources can be estimated using Equation 8.23 for prompt emissions.  
+Any other uses of SF6 and PFCs 
+Other applications for SF6 and PFCs that are not specifically addressed above include their use as tracers (in leak 
+detection, indoor and outdoor tracking of air-masses, and oil recovery6) and use of SF6 in the production of 
+optical cables (for fluorodoping of glass fibres7). Often the gases or liquids are emitted within one year of 
+purchase. In this case, good practice in calculating SF6 and PFC emissions from these ‘prompt’ emissive 
+applications is to use the following formula: 
+EQUATION 8.23 
+PROMPT EMISSIONS 
+Emissions in year t = (0.5 • Amount Sold in year t) + (0.5 • Amount Sold in year t – 1) 
+ 
+This equation is similar to the equation for prompt ODS Substitute applications (e.g., aerosols and solvents) 
+addressed in Chapter 7 of this volume. The equation covers more than one year because both sales and emissions 
+are assumed to be continuous over the year; that is, chemical sold in the middle of year t-1 is not fully emitted 
+until the middle of year t. 
+8.3.2.2 
+CHOICE OF EMISSION FACTORS 
+For ‘other’ source categories of SF6 and PFCs that contribute substantially to a country’s SF6 and PFCs 
+emissions, countries are encouraged to develop country-specific emission factors based on occasional surveys of 
+representative subsets of sources. It is good practice to clearly document such emission factors. Default emission 
+factors are provided above for AWACS, accelerators, prompt emissive applications and adiabatic applications, 
+including windows.  
+                                                           
+6  D. Vlachogiannis et al. (2005). This paper indicated that some fraction of injected PFCs and SF6 was destroyed during fuel 
+combustion, but the magnitude of this fraction (compared to the fraction of injected chemical that escaped before 
+combustion) was unclear. 
+7   See further information on this application in Schwarz (2005). 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.33 
+8.3.2.3 
+CHOICE OF ACTIVITY DATA 
+The activity data for these sub-source categories should be consistent with the data used in the calculation of SF6 
+emissions from other source categories (e.g., electrical equipment) to ensure that the estimate is complete and 
+there is no double counting. For medical linear accelerators, the customer service organisations for 
+manufacturers and distributors of the equipment are likely to have information on equipment stocks, imports, and 
+exports, and on the quantities of SF6 used to fill and refill the equipment. Guidance regarding possible sources of 
+activity data for other sources is provided under the method for each source category. 
+8.3.2.4 
+COMPLETENESS  
+Data per application on import, export and consumption from national SF6 and PFC producers and distributors 
+will suffice, provided that (i) all SF6 and PFC producers and distributors are identified, (ii) domestic consumers 
+only purchase SF6 and PFCs from national suppliers, and (iii) imports and exports in products (e.g., sport 
+attributes) are negligible. It is good practice to check regularly for additional distributors to ensure that no gas is 
+imported directly (in bulk) by end-users and that identified products containing SF6 or PFCs are not imported in 
+sizeable amounts. 
+Alternatively, if top-down data on chemical consumption is not available, countries may use information on the 
+number of accelerators, AWACS, windows, etc. in use in the country, applying the emission factors that are 
+supplied in the method for each source category. 
+8.3.2.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+For base year estimates, data may be needed for a few years prior to the base year; one year for prompt 
+emissions and more years for delayed emission applications. It is good practice to calculate emissions using the 
+same method for every year in the time series. Where data are unavailable to support a more rigorous method for 
+all years in the time series, it is good practice to recalculate according to the guidance provided in Volume 1, 
+Chapter 5. 
+8.3.3 
+Uncertainty assessment 
+If the survey of domestic sales per application by national gas producers and distributors is complete, then the 
+accuracy of annual apparent consumption data will be high. The uncertainty in emissions estimates will be 
+similarly small when the uses are all prompt emissions. In case of delayed emission applications, the 
+uncertainties are: 
+• 
+Default delay times in adiabatic property applications: 3±1 year; 
+• 
+Defaults for soundproof windows: 50±10% filling emissions and 1±0.5% leakage/breach emissions. 
+If gas consumption data are not available, uncertainties regarding the numbers and usage of accelerators and 
+AWACS, etc. become important. 
+• 
+For accelerators, the total SF6 charge and leak rate determine emissions and associated uncertainty 
+• 
+For use of SF6 in AWACS, the number of sorties per plane has a significant impact on emissions and 
+uncertainty. 
+8.3.4 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+8.3.4.1 
+QUALITY ASSURANCE/QUALITY CONTROL 
+It is good practice to conduct quality control checks as outlined in Volume 1, Chapter 6, and an expert review of 
+the emissions estimates. Additional quality control checks as outlined in Volume 1, and quality assurance 
+procedures may also be applicable, particularly if higher tier methods are used to determine emissions from this 
+Volume 3: Industrial Processes and Product Use 
+8.34 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+source category. Inventory compilers are encouraged to use higher tier QA/QC for key categories as identified in 
+Volume 1, Chapter 4. 
+Additional procedures specific to other sources of SF6 are outlined below:  
+Comparison of emissions estimates using different approaches 
+Inventory compilers should compare total national potential SF6 and PFC emissions (minus the amount allocated 
+to the source categories as per chapters 3.10, 4, 6 and 8.2) to the estimated SF6 and PFC emissions from other 
+uses. These adjusted potential national emissions can be used as an upper bound on emissions.  
+Activity data check 
+Inventory compilers should compare the activity data submitted by different producers and distributors, and, 
+adjusting for relative size or capacity of the companies, identify significant outliers. Any outliers should be 
+investigated to determine if the differences can be explained or if there is an error in the reported activity. 
+Comparison of emission rates with those of other countries 
+Inventory compilers should compare the emissions from other SF6 and PFC end-uses included in the national 
+inventory with information submitted by other similar countries. For each source, emissions per capita or per 
+unit of GDP should be compared with the corresponding emission rates of other countries. If national figures 
+appear to be relatively very high or very small, a justification should be provided.  
+8.3.4.2 
+REPORTING AND DOCUMENTATION 
+It is good practice to document and archive all information required to produce the national emissions inventory 
+estimates as outlined in Volume 1, Section 6.11. It is not practical to include all documentation in the national 
+inventory report. However, the inventory should include summaries of methods used and references to source 
+data such that the reported emissions estimates are transparent and steps in their calculation may be retraced. 
+For transparency, it is good practice to report both actual and potential emissions from the source category ‘other 
+uses’ separately from other SF6 and PFC emissions. In addition, providing information on the specific 
+applications that are included in this source category is useful for comparing (estimates of) national practices 
+with other countries, regionally, or globally. In addition, the methods applied and references should be 
+documented. For delayed emission sub-source categories, annual emissions, delay times and emission factors per 
+type of sub-source category should be reported. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.35 
+8.4 
+N2O FROM PRODUCT USES 
+8.4.1 
+Introduction 
+Evaporative emissions of nitrous oxide (N2O) can arise from various types of product use, including: 
+• 
+Medical applications (anaesthetic use, analgesic use and veterinary use); 
+• 
+Use as a propellant in aerosol products, primarily in food industry (pressure-packaged whipped cream, etc); 
+• 
+Oxidising agent and etchant used in semiconductor manufacturing; 
+• 
+Oxidising agent used, with acetylene, in atomic absorption spectrometry; 
+• 
+Production of sodium azide, which is used to inflate airbags; 
+• 
+Fuel oxidant in auto racing; and 
+• 
+Oxidising agent in blowtorches used by jewelers and others. 
+In general, medical applications and use as a propellant in aerosol products are likely to be larger sources than 
+others. It is good practice to estimate and report N2O emissions from these sources. Inventory compilers are 
+encouraged to estimate and report N2O emissions from the other sources as well, if data are available. 
+MEDICAL APPLICATIONS 
+Anaesthetic use of N2O 
+N2O for anaesthetic use is supplied in steel cylinders containing a minimum of 98 percent N2O. N2O is used 
+during anaesthesia for two reasons: a) as an anaesthetic and analgesic and as b) a carrier gas for volatile 
+fluorinated hydrocarbon anaesthetics such as isoflurane, sevoflurane and desflurane. The anaesthetic effect of 
+N2O is additive to that of the fluorinated hydrocarbon agents.  
+Not all anaesthetics require the use of N2O, and the use of N2O is contra-indicated in a small number of medical 
+situations. The carrier gas during anaesthesia may be either N2O and oxygen or a mixture of air and oxygen, in 
+which case N2O is avoided. 
+Inhaled anaesthetic agents are increasingly administered via breathing systems which re-circulate the exhaled 
+breath of the patient through a canister of carbon dioxide absorbent before directing the gases back to the patient. 
+Using this method the flow of carrier gas can be reduced considerably after the first few minutes of anaesthesia 
+when uptake by the patient is high. This technique is known as Low Flow Anaesthesia. Low Flow Anaesthesia 
+has the advantage of reducing emissions as well as reducing cost. 
+Some anaesthetics may avoid both N2O and the fluorinated hydrocarbon agents completely by employing a 
+technique in which an anaesthetic drug is continuously infused into a vein throughout the surgical procedure. 
+This technique is known as Total Intravenous Anaesthesia. 
+Analgesic use of N2O 
+Inhaled N2O is used to provide pain relief in certain situations. For example, it is supplied in steel cylinders 
+containing pre-mixed N2O 50 percent and oxygen 50 percent as premixed nitrous oxide and oxygen mixtures in 
+the UK. Premixed nitrous oxide and oxygen mixtures are used to provide pain relief in childbirth, and for painful 
+procedures of short duration, e.g. for dressings to be changed in burns patients. Premixed nitrous oxide and 
+oxygen mixtures are not used in countries with a very cold climate because the mixture can separate if the 
+cylinders are stored below –6 degrees centigrade, with the consequent risk of administering pure nitrous oxide to 
+patients with no oxygen. 
+Veterinary use of N2O 
+N2O is also used during animal anaesthesia. Administration methods are similar to those used in human 
+anaesthesia.  
+Volume 3: Industrial Processes and Product Use 
+8.36 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+USE AS A PROPELLANT IN AEROSOL PRODUCTS, PRIMARILY IN FOOD 
+INDUSTRY 
+N2O is also used as a propellant in aerosol products primarily in food industry. Typical usage is to make whipped 
+cream, where cartridges filled with N2O are used to blow the cream into foam. 
+8.4.2 
+Methodological issues 
+8.4.2.1 
+CHOICE OF METHOD 
+It is good practice to estimate N2O emissions from data of quantity of N2O supplied that are obtained from 
+manufacturers and distributors of N2O products according to Equation 8.24 below. There will be a time delay 
+between manufacture, delivery and use but this is probably small in the case of medical applications because 
+hospitals normally receive frequent deliveries to avoid maintaining large stores. Therefore, it is reasonable to 
+assume that the N2O products supplied will be used in one year. In the case of use as a propellant in aerosol 
+products, there is no reliable data that prove there is a significant time delay between manufacture, delivery and 
+use. Such being the case, it is considered practical to assume that the N2O products supplied will be used in one 
+year. Equation 8.24 covers more than one year because both supply and use are assumed to be continuous over 
+the year; that is, N2O supplied in the middle of year t–1 is not fully used and emitted until the middle of year t. 
+Different tiers could not be defined for this source category, because there is no other reliable estimation method. 
+For example, in the case of medical applications, estimations from numbers of anaesthetics given, number of 
+surgical beds or hours of anaesthesia could be considered but these methods are likely to be inaccurate. (See 
+Section 8.4.2.3, Choice of Activity Data.) 
+EQUATION 8.24 
+N2O EMISSIONS FROM OTHER PRODUCT USES 
+[
+]
+{
+}
+∑
+•
+−
+•
++
+•
+=
+i
+i
+i
+i
+N O
+EF
+A t
+A t
+t
+E
+)1
+(
+5.0
+( )
+5.0
+( )
+2
+ 
+Where: 
+EN2O(t) = emissions of N2O in year t, tonnes 
+Ai (t) = total quantity of N2O supplied in year t in application type i, tonnes 
+Ai (t-1) = total quantity of N2O supplied in year t-1 in application type i, tonnes 
+EFi = emission factor for application type i, fraction 
+8.4.2.2 
+CHOICE OF EMISSION FACTORS 
+MEDICAL APPLICATIONS 
+It is assumed that none of the administered N2O is chemically changed by the body, and all is returned to the 
+atmosphere. It is reasonable to assume an emission factor of 1.0. 
+USE AS A PROPELLANT IN AEROSOL PRODUCTS, PRIMARILY IN FOOD 
+INDUSTRY 
+For N2O used as a propellant in pressurized and aerosol food products, none of the N2O is reacted during the 
+process and all of the N2O is emitted to the atmosphere resulting in an emissions factor of 1.0 for this source. 
+OTHERS 
+For the other types of product use, it may not be appropriate to assume an emissions factor of 1.0. In case the 
+inventory compilers estimate and report N2O emissions arising from product use other than medical applications 
+and use as a propellant in aerosol products, they are encouraged to derive reasonable emission factors for that 
+source from literature or measurements. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.37 
+8.4.2.3 
+CHOICE OF ACTIVITY DATA 
+MEDICAL APPLICATIONS 
+Total quantity of N2O supplied by application type should be obtained from manufacturers and distributors of 
+N2O products. Alternatively, for medical applications, quantity of N2O usage may be obtained from the 
+pharmacy department in individual hospitals that usually have records of the number and capacity of nitrous 
+oxide cylinders purchased per annum. 
+The duration of hospital stay following a surgical procedure varies considerably from less than one day to 
+several days or weeks. Estimates of the number of anaesthetics administered which are calculated from the 
+surgical bed occupancy are likely to be inaccurate. 
+Because N2O is used in only a proportion of anaesthetics its use cannot be estimated reliably from the number of 
+anaesthetics given.  
+The flow of N2O (L/min) delivered by the anaesthetic apparatus may be varied by the anaesthetist during the 
+course of surgery, typically between zero and 6 L/min. Because of this considerable variability, estimates of 
+consumption based on duration of anaesthesia are likely to be inaccurate. 
+The proportion of anaesthetics in which N2O is used varies between countries and between individual 
+anaesthetists in a given country. Over the recent years there appears to be a general reduction in the proportion of 
+anaesthetics which incorporate N2O but data are sparse. 
+USE AS A PROPELLANT IN AEROSOL PRODUCTS, PRIMARILY IN FOOD 
+INDUSTRY 
+Total quantity of N2O supplied by application type should be obtained from manufacturers and distributors of 
+N2O products. 
+8.4.2.4 
+COMPLETENESS 
+Data per application on import, export and consumption from national N2O manufacturers and distributors will 
+suffice, provided that (i) all N2O manufacturers and distributors are identified, (ii) domestic consumers only 
+purchase N2O from national suppliers, and (iii) imports and exports in products (e.g. sport attributes) are 
+negligible. It is good practice to check regularly for additional distributors to ensure that no N2O is imported 
+directly (in bulk) by end users and that identified products containing N2O are not imported in sizeable amounts. 
+8.4.2.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+It is good practice to calculate emissions of N2O using the same method for every year in the time series. Where 
+data are unavailable to support a more rigorous method for all years in the time series, it is good practice to 
+recalculate according to the guidance provided in Volume 1, Chapter 5. 
+8.4.3 
+Uncertainty assessment 
+8.4.3.1 
+EMISSION FACTOR UNCERTAINTIES 
+In the published literature it is widely assumed that none of the N2O inhaled by a patient during anaesthesia is 
+metabolised. N2O is taken up continuously from the lungs as dissolved N2O in blood. The portion which is not 
+taken up is exhaled in the next breath. Uptake by the patient is high initially and falls progressively in a near-
+exponential fashion over time. It is reasonable to assume that all the administered N2O is eventually returned to 
+the atmosphere and the emission factor is 1.0. This is a pragmatic assumption because there are no reliable data. 
+Any error in the emission factor is likely to be extremely small in comparison with other uncertainties. 
+Also in the case of use as a propellant in aerosol products, N2O is not likely to be reacted during the process. 
+Therefore, it is a pragmatic assumption that emission factor is 1.0, and any error in the emission factor is likely 
+to be extremely small in comparison with other uncertainties. 
+Volume 3: Industrial Processes and Product Use 
+8.38 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+In case the inventory compilers estimate and report N2O emissions arising from product use other than medical 
+applications and use as a propellant in aerosol products, emission factor uncertainties may need to be carefully 
+considered. 
+8.4.3.2 
+ACTIVITY DATA UNCERTAINTIES 
+The uncertainties in quantity of N2O supplied by application type obtained from manufacturers and distributors 
+of N2O products may vary widely from country to country. If the uncertainty estimates are obtainable from the 
+manufacturers and distributors, those estimates should be used. Otherwise, activity data uncertainties should be 
+estimated by expert judgement. 
+8.4.4 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+It is good practice to document and archive all information required to produce the national emissions inventory 
+estimates as outlined in Volume 1, Chapter 6. It is not practical to include all documentation in the national 
+inventory report. However, the inventory should include summaries of methods used and references to source 
+data such that the reported emissions estimates are transparent and steps in their calculation may be retraced. 
+For transparency, providing information on the specific applications that are included in this source category is 
+useful for comparing (estimates of) national practices with other countries, regionally, or globally. In addition, 
+the methods applied and references should be documented.  
+It is good practice to conduct quality control checks and quality assurance procedures as outlined in Volume 1, 
+Chapter 6. Inventory compilers are encouraged to use higher tier QA/QC for key categories as identified in 
+Volume 1, Chapter 4. 
+Additional procedures specific to this source category are outlined below: 
+Activity data check 
+Inventory compilers should compare the activity data submitted by different manufacturers and distributors of 
+N2O, and, adjusting for relative size or capacity of the companies, to identify significant outliers. Any outliers 
+should be investigated to determine if the differences can be explained or if there is an error in the reported 
+activity. 
+Comparison of emissions with other countries 
+Inventory compilers should compare the N2O emissions from types of product use included in the national 
+inventory with information submitted by other similar countries. For each source, emissions per capita or per 
+unit of GDP with other countries should be compared. If national figures appear to be relatively very high or 
+very small, a justification should be provided. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.39 
+References 
+SECTIONS 8.1 - 8.3 
+Aoyama, T. (2004). Japan Electrical Manufacturers’ Association (JEMA), “The Situation of Reduction in SF6 
+Emissions from Gas-insulated Electrical Equipment In Japan” Paper and presentation delivered to the 
+Conference on SF6 and the Environment, Scottsdale, Arizona, December 1-3, 2004. 
+AREVA (2005). AREVA, World energy experts, Activity and Sustainable Development Report 2004. 
+(Registered office: rue Le Peletier – 75009 Paris – France, http://www.areva.com/), published in July 
+2005.  
+Boeing (2005). “E-3 AWACS in Service Worldwide”, March 2005. Boeing Integrated Defense Systems, P.O. 
+Box 516, St. Louis, MO 63166, (Available from http://www.boeing.com/defense-space/ic/awacs/docs/E-
+3AWACS_overview.pdf) 
+Burton, C. S. (2006). “Uses and Air Emissions of Liquid PFC Heat Transfer Fluids from the Electronics Sector,” 
+Report prepared for Scott C. Bartos, U.S. Environmental Protection Agency. 
+Ecofys (2005). Reductions of SF6 Emissions from High and Medium Voltage Electrical Equipment in Europe, Final Report 
+to CAPIEL, S, Wartmann and J. Harnisch, June 28, 2005  
+FEPC and JEMA (2004). Federation of Electric Power Companies (FEPC) and the Japan Electrical 
+Manufacturers’ Association (JEMA), “Japanese Emission Factors.” (Personal communication from Mr. 
+Kiyoshi Saitoh of Japan Electrical Manufacturers Association (JEMA) to Mr. Kiyoto Tanabe, IPCC 
+Technical Support Unit, November, 2004.) 
+Harris, D., and Hildebrandt, J. (2003). “Spray Cooling Electrical and Electronic Equipment,” COTS Journal, 
+November 2003. 
+CIGRE (2005). International Council on Large Electric Systems (CIGRE) Publication No.276: Guide for the 
+Preparation of customized “Practical SF6 Handling Instructions”, Task Force B3.02.01, August 2005. 
+IEC (1996). International Electro-technical Commission (IEC) Standard 60694: “Common specifications for 
+high-voltage switchgear and controlgear standards,” Second edition, 1996-05. Geneva, Switzerland. 
+Koch, E.C. (2004). “Special Materials in Pyrotechnics: III. Application of Lithium and its Compounds in 
+Energetic Systems;” Propellants, Explosives, Pyrotechnics, Volume 29, Issue 2, Pages 67 - 80, 2004 
+May, G. (2006). F2 Chemicals Limited. Personal communication with Deborah Ottinger Schaefer, January 23, 
+2006.  
+Maruyama, S. and Meguro, M. (2000). “SF6 Gas Emission Reduction From Gas-Insulated Electrical Equipment 
+in Japan.”, Paper presented at the Conference on SF6 and the Environment: Emission Reduction 
+Strategies in San Diego, USA (November 2000). 
+NIST (1997). Gases for Electrical Insulation and Arc Interruption: Possible Present and Future Alternatives to 
+Pure SF6; by L. G. Christophorou, J. K. Olthoff, D. S. Green; NIST Technical Note 1425, National 
+Institute of Standards, November 1997. 
+Schwarz, W. and Leisewitz, A. (1996). Current and future emissions of fluorinated compounds with global 
+warming effect in Germany (in German). Report UBA-FB 1060 1074/01, Umweltbundesamt, Berlin. 
+Schwarz, W. and Leisewitz, A. (1999). Emissions and reduction potentials of HFCs, PFCs, and SF6 in Germany. 
+Report UBA-FB 298 41 256, Umweltbundesamt, Berlin. 
+Schwarz, W. (2005). Emissions, Activity Data, and Emission Factors of Fluorinated Greenhouse Gases (F-Gases) 
+in Germany 1995-2002. Research Report 201 41 261/01, UBA-FB 000811/e, Umweltbundesamt, Berlin. 
+Schwarz, W. (2006). “The German Monitoring System for SF6 Emissions from Equipment for Electricity 
+Transmission and Distribution.” 
+Smythe, K. (2004). ‘Trends in SF6 Sales and End-Use Applications: 1961-2003.’ International Conference on 
+SF6 and the Environment: Emission Reduction Technologies, December 1-3, 2004, Scottsdale, AZ.  
+U.S. EPA (2004). U.S. Inventory of Greenhouse Gases and Sinks, 1990-2002. U.S. Environmental Protection 
+Agency, April, 2004. 
+Vlachogiannis, D., et al. (2005). Assessment of the impact of SF6 and PFCs reservoir tracers on global warming, 
+the AEOLOS study, Non-CO2 Greenhouse Gases (NCGG-4), coordinated by A. van Amstel, Rotterdam, 
+p. 389-396. 
+Volume 3: Industrial Processes and Product Use 
+8.40 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+SECTION 8.4 
+Austria [Umweltbundesamt] (2004), AUSTRIA’S NATIONAL INVENTORY REPORT 2004, Submission 
+under the United Nations Framework Convention on Climate Change 
+Beatty PCW, Kay B and Healy TEJ (1984), Measurement of the rates of nitrous oxide uptake and nitrogen 
+excretion in man. British Journal of Anaesthesia; 56: 223-232. 
+Environment Canada (2004), Canada’s Greenhouse Gas Inventory 1990-2002 
+Jordan M. (1996), Pharmacology in the Practice of Anaesthesia p 43. Arold, London. Edited by Kaufman L and 
+Tabener PV. 
+U.S. EPA (2004). U.S. Inventory of Greenhouse Gases and Sinks, 1990-2002. U.S. Environmental Protection 
+Agency, April, 2004. 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.41 
+Annex 8A 
+Examples of Tier 3 national SF6 inventory 
+systems 
+Figures 8A.1 and 8A.2 illustrate the Tier 3 Hybrid approach as it is currently applied in Germany for closed 
+pressure (high voltage) and sealed-pressure (medium voltage) equipment (Schwarz, 2006). In the diagram, ‘MB’ 
+indicates processes or life cycle stages for which the mass-balance approach is used, while ‘EF’ indicates 
+processes and life cycle stages for which emission factors are used. For example, in manufacturing, the mass-
+balance approach is used to estimate emissions from the filling of gas-insulated switchgear, while emission 
+factors are used to estimate emissions from the filling of bushings, instrument transformers, and circuit breakers. 
+In Germany, the latter processes have emission rates of 1 percent or less, making emissions difficult to measure 
+using mass-balance methods. Note that this diagram is intended to be an example only; when implementing the 
+Tier 3 approach, countries are encouraged to choose approaches and emission factors appropriate to their 
+national circumstances.  
+Volume 3: Industrial Processes and Product Use 
+8.42 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 8A.1 
+Example of Tier 3 approach: Germany, High-Voltage equipment 
+ 
+Legend for Emissions Estimation in HV 
+Mass Balance Approach 
+Symbol 
+Equation 
+MB I 
+Development Emissions = Consumption for Developing minus Return from Development Department 
+MB II 
+GIS Charging Emissions = Consumption for Charging minus Charge (nameplate capacities); also applicable to Gas 
+insulated Lines (GIL’s) 
+MB III 
+Operating Emissions I = Annually surveyed topping up by equipment operators 
+MB IV 
+Operating Emissions II = Nameplate capacity of decommissioned equipment minus gas recovered from this equipment  
+Emission Factor (EF) Approach 
+Symbol 
+Kind of Emission Factor (EF) 
+Multiplied by 
+EF 1 
+Factory Filling EF Bushings* 
+NC** of bushings filled in factory 
+EF 2 
+Factory Filling EF Outdoor Instrument Transformers (ITs) 
+NC of ITs filled in factory 
+EF 3 
+Factory Filling EF Gas Circuit Breakers (GCBs) 
+NC of GCBs filled in factory 
+EF 4 
+Site Erection EF GIS and GIL 
+NC of GIS and GIL filled on site 
+EF 5 
+Site Erection EF GCBs 
+NC of GCBs filled on site 
+EF 6 
+Site Erection EF Outdoor ITs 
+NC of Outdoor ITs filled on site 
+EF 7 
+Disposal EF  
+NC of decommissioned equipment 
+* Bushings are treated as integral parts of GIS as of Site erection. 
+**NC = Total nameplate capacity of equipment undergoing a given process 
+Chapter 8: Other Product Manufacture and Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.43 
+Figure 8A.2 
+Example of Tier 3 approach: Germany, Medium-Voltage equipment 
+ 
+ 
+Legend for Emissions Estimation in MV 
+Mass Balance Approach 
+Symbol 
+Equation 
+MB I 
+Development Emissions = Consumption for Developing minus Return from Development Department* 
+Emission Factor (EF) Approach 
+Symbol 
+Kind of Emission Factor (EF) 
+Multiplied by 
+EF 1 
+Factory Filling EF 
+NC** filled in factory 
+EF 2 
+Site Erection EF  
+NC*** filled on site 
+EF 3 
+Operating EF  
+NC of operating equipment (total bank from this and previous years) 
+EF 4 
+Disposal EF  
+NC decommissioned 
+* This mass balance approach also applies to manufacturing of Cast Resin Instrument Transformers (ITs). 
+**NC = Total nameplate capacity of equipment undergoing a given process. 
+*** In countries where MV equipment is already gas-filled in factories, site erection emissions are negligible. 

@@ -1,0 +1,1643 @@
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.53
+4.3 
+Methane Emissions from Rice Cultivation:
+Flooded Rice Fields
+4 . 3 . 1  O v e r v i e w
+Anaerobic decomposition of organic material in flooded rice fields produces methane
+(CH4), which escapes to the atmosphere primarily by diffusive transport through the rice
+plants during the growing season.  Upland rice fields, which are not flooded and therefore
+do not produce significant quantities of CH4, account for approximately 10 per cent of
+the global rice production and about 15 per cent of the global rice area under cultivation.
+The remaining area is grown for wetland rice, consisting of irrigated, rainfed, and
+deepwater rice.  The global wetland rice area harvested annually in the early 1980s was
+about 123.2 million hectares (total harvested area including upland rice is 144 Mha), over
+90 per cent of which was in Asia (Neue et al., 1990).14
+Of the wide variety of sources of atmospheric CH4, rice paddy fields are considered one
+of the most important.  The Intergovernmental Panel on Climate Change (IPCC, 1996)
+estimated the global emission rate from paddy fields at 60 Tg/yr, with a range of 20 to
+100 Tg/yr.  This is about 5-20 per cent of the total emission from all anthropogenic
+sources.  This figure is mainly based on field measurements of CH4 fluxes from paddy
+fields in the United States, Spain, Italy, China, India, Australia, Japan and Thailand.
+The measurements at various locations of the world show that there are large temporal
+variations of CH4 fluxes and that the flux differs markedly with soil type and texture,
+application of organic matter and mineral fertiliser (Neue and Sass, 1994).  The wide
+variations in CH4 fluxes also indicate that the flux is critically dependent upon several
+factors including climate, characteristics of soils and paddy, and agricultural practices,
+particularly water regime.  The parameters that affect methane emissions vary widely
+both spatially and temporally.  Multiple year data sets near the same location and under
+similar conditions can lead to substantial differences in seasonal methane emission levels,
+making it difficult to establish a single number as the methane emission level from a field,
+let alone at a regional or country level.  Thus, at the current level of understanding, a
+reported range in methane emission levels for a country is more realistic than a single
+number.
+Methane production processes
+The major pathways of CH4 production in flooded soils are the reduction of CO2 with
+H2, with fatty acids or alcohols as hydrogen donor, and the transmethylation of acetic acid
+or methanol by methane-producing bacteria (Takai, 1970; Conrad 1989).  In paddy fields,
+the kinetics of the reduction processes are strongly affected by the composition and
+texture of soil and its content of inorganic electron acceptors.  The period between
+flooding of the soil and the onset of methanogenesis can apparently be different for the
+various soils.  However, it is unclear if soil type also affects the rates of methanogenesis
+and CH4 emission when steady state conditions have been reached (Conrad, 1989).
+                                                  
+     14 The term "harvested area" has a different meaning from "cultivated area" in that the
+former accounts for double and triple cropping.  For example, if a country has 10 million
+hectares of land under rice cultivation, all of which are double-cropped (i.e., two crops of
+rice are grown on each hectare each year), then this country has 20 million hectares of
+rice area harvested annually.
+AGRICULTURE
+4.54
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+The redox15 potential is one important factor for production of CH4 in soils.  The Eh, or
+electron activity, of the soil gradually decreases after flooding.  Patrick (1981)
+demonstrated that the redox potential of a soil must be below approximately -150 mV in
+order to have CH4 production.  Yamane and Sato (1964) also showed that the evolution
+of CH4 from flooded paddy soils did not commence until the Eh fell below -150 mV.
+Carbon substrate and nutrient availability are also important factors.  Application of rice
+straw to paddy fields significantly increases the CH4 emission rate compared with
+application of compost prepared with rice straw or chemical fertiliser.
+Soil temperature is known to be an important factor in affecting the activity of soil micro-
+organisms.  This is to a certain extent related to the soil moisture content because both
+the heat capacity and the heat conductivity are lower for a dry soil than for a wet soil.
+Yamane and Sato (1961) have already found that CH4 formation reached a maximum at
+35
+oC in waterlogged alluvial soils.  The rate of methane formation was very small below
+20
+oC.
+Because the conversion rate of substrate to CH4 depends on the temperature, it is
+generally observed that the momentary local emission of CH4 from the soil to the
+atmosphere depends on the temperature.  However, the dependence of the seasonally
+integrated emissions of CH4 on temperature is much weaker.  That emission depends
+primarily on the total input of organic substrate: although the temperature determines
+the time it takes to convert the substrate to CH4, that time is generally short compared
+to a season.  Thus the methodology proposed here will be based on the seasonally
+integrated CH4 emission, whose temperature dependence can be neglected in first
+approximation.
+It is generally recognised that CH4 formation is only efficient in a narrow pH range
+around neutrality (pH from 6.4 to 7.8).  The effect of flooding is to increase the pH in
+acid soil, while it decreases the pH in alkaline soil.  The increase of pH in acid soils is
+mainly due to the reduction of acidic Fe3+ to Fe2+ which simultaneously reduces the Eh.
+The addition of nitrate as chemical fertiliser to flooded soils may suppress the production
+of CH4, because nitrate acts, as well as Fe3+, Mn4+, as a terminal electron acceptor in the
+absence of molecular oxygen during anaerobic respiration, and poises the redox potential
+of soils at values such that the activity of strict anaerobes is prevented.  The addition of
+sulphate may also inhibit methane production for similar reasons as nitrate.
+There are three processes of CH4 release into the atmosphere from rice fields.  Diffusion
+loss of CH4 across the water surface is the least important process.  Methane loss as
+bubbles (ebullition) from paddy soils is a common and significant mechanism, especially if
+the soil texture is not clayey.  During land preparation and initial growth of rice, ebullition
+is the major release mechanism.  The third process is CH4 transport through rice plants,
+which has been reported as the most important phenomenon (Seiler et al., 1984; Schütz
+et al., 1989b).
+Many researchers reported that more than 90 per cent of total CH4 emitted during the
+cropping season is released by diffusive transport through the aerenchyma system of the
+rice plants and not by diffusion or ebullition.  Emission through rice plant, may be
+expected to show great seasonal variations as a function of changes in soil conditions and
+variations in plant growth.
+                                                  
+     15 Redox (Eh) refers to oxidation-reduction, two processes that take place
+simultaneously.  Oxidation is the loss of an electron by an atom, and reduction is the gain
+of an electron by an atom.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.55
+Methane emission rates are also a function of the partial pressure of CH4 in the soil.  Part
+of the CH4 produced in the soil is consumed in the oxidised rhizosphere of rice roots or
+in the oxidised soil-floodwater interface.  It is known that soil methanotrophic bacteria
+can grow with CH4 as their sole energy source, and other soil bacteria, such as
+Nitrosomonas species are also able to consume CH4 (Conrad, 1993).  Methane is also
+leached to ground water, as a small part dissolves in water.  Therefore a reduction in soil
+methane does not necessarily mean that all this CH4 has been emitted into the
+atmosphere.
+Global emissions from rice fields
+The total harvested area of rice has increased from 86 Mha in 1935 to 144 Mha in 1985,
+which means an annual average increase of 1.05 per cent.  The average annual increase
+was 1.23 per cent between 1959 and 1985.  However, in the last few years, the rate of
+expansion of the total rice acreage has decreased (Minami, 1994).
+Table 4-9 provides a summary of measured emissions at a number of specific research
+sites around the world.  It should be noted that methane fluxes from paddy rice fields
+vary substantially from day to day, and during a day (e.g., day and night).  The data
+presented here are based on frequent measurements which capture the diurnal
+variations, and variations over the growing season.  Based on area and production
+statistics, with average emission values, a number of researchers have estimated global
+emissions from rice.
+AGRICULTURE
+4.56
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-9
+REPRESENTATIVE METHANE EMISSIONS FROM RICE PADDY FIELDS IN VARIOUS LOCATIONS OF THE WORLD
+ Country
+Location
+Range of CH4
+flux
+mg/m2/hr
+Season total
+g/m2
+Experimental
+Treatment
+Reference
+Australia
+Griffith
+2.8
+10
+-
+NGGIC, 1996
+China
+Beijing
+14.6 - 48.9
+27 - 91
+OM, WM
+Chen et al., 1993
+Beijing
+9.4 - 26.8
+12 - 39
+MF, OM, WM
+Yao and Chen, 1994a,
+1994b
+Beijing
+1.9 - 48.9
+5.3 - 100.9
+MF, OM, SO, WM
+Shao, 1993
+Hangzhou, Zhejiang
+6.9 - 50.6
+14 - 82
+MF, OM, SE
+Wassmann et al., 1993a
+Nanjing, Jiangsu
+2.6 - 14.3
+6 - 34
+MF, OM, WM
+Chen et al., 1993
+Taoyuan, Hunan
+6.5 - 56.2
+12 - 115
+MF, OM, SE
+Wassmann et al., 1993b
+Tuzhu, Sichuan
+58.0
+167
+Khalil et al., 1991
+Wuxian, Jiangsu
+3.2 - 6.2
+10 - 19
+CU, MF, OM, SE, WM
+Cai et al., 1994
+India
+Allahabad, Uttar Pradesh
+0.2
+0.5
+NAV
+Mitra, 1992
+Barrackpore, West
+Benegal
+0.7, 20.2
+1.8, 6.3
+NAV
+Mitra, 1992
+Cuttack, Orissa
+2.7-7.2
+7-19
+CU
+Mitra, 1992
+Faizabad, Uttar Pradesh
+0.8
+2
+NAV
+Mitra, 1992
+Garagacha, West
+Benegal
+11
+29
+NAV
+Mitra, 1992
+Jorhat, Assam
+18.1
+46
+NAV
+Mitra, 1992
+Kalyani, West Bengal
+4.1
+10.8
+NAV
+Mitra, 1992
+Koirapur, West Bengal
+6.1
+19
+NAV
+Mitra, 1992
+Madras, Tamil Nadu
+5.8
+11
+NAV
+ Mitra, 1992
+New Delhi
+0.02-0.21
+0.06-0.58
+MF
+Mitra, 1992
+Purulia, West Bengal
+4.2
+11
+NAV
+Mitra, 1992
+Trivandrum, Kerala
+5.1
+9
+NAV
+Mitra, 1992
+Indonesia
+Taman Bogo, Lampung
+18.0 - 27.1
+31 - 47
+MF, OM
+Nugroho et al., 1994a
+Taman Bogo, Lampung
+17.9 - 31.7
+30 - 50
+MF, OM
+Nugroho et al., 1994b
+Sukamandi, West Java
+8.7 - 20.2
+19 - 44
+WM, CU
+Husin et al., 1995
+Italy
+Vercelli
+5 - 28
+18 - 75
+MF, OM
+Schütz et al., 1989a
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.57
+TABLE 4-9 (CONT.)
+REPRESENTATIVE METHANE EMISSIONS FROM RICE PADDY FIELDS IN VARIOUS LOCATIONS OF THE WORLD
+ Country
+Location
+Range of CH4
+flux
+mg/m2/hr
+Season total
+g/m2
+Experimental
+Treatment
+Reference
+Japan
+Kawachi
+16.3
+45
+Yagi and Minami, 1990a;
+Minami, 1994
+Mito
+1.2 - 4.1
+4 -  13
+MF, OM
+Yagi and Minami, 1990a;
+Minami, 1994
+Ryugasaki
+2.8 - 15.4
+11 - 28
+MF, OM
+Yagi and Minami, 1990a;
+Minami, 1994,
+Ryugasaki
+1.9 - 7.9
+7 - 12
+WM
+Yagi and Minami, 1990a;
+Minami, 1994
+Taya
+7.0
+26
+Yagi and Minami, 1990a;
+Minami, 1994
+Tsukuba
+0.2 - 0.4
+<1.1
+OM
+Yagi and Minami, 1990a;
+Minami, 1994
+Korea
+Suwon
+0.66 - 4.55
+9 - 60
+OM, WM
+Shin et al., 1995
+Philippines
+Los Banos
+0.8 - 18.5
+2 - 42
+MF, OM
+Neue et al., 1994
+Los Banos
+3.3 - 7.9
+7 - 19
+SE
+Wassmann et al., 1994
+Spain
+Savilla
+4
+12
+Seiler et al., 1984
+Thailand
+Ayutthaya
+3.3 - 7.9
+13 - 20
+CU, OM, WM
+Siriratpiraya, 1990
+Bang Khen
+4.3 - 21.7
+16 - 55
+SE
+Minami, 1994;
+Yagi et al., 1994b
+Chai Nat
+1.6
+4
+Minami, 1994
+Yagi et al., 1994b
+Chiang Mai
+3.7 - 5.5
+9 - 13
+MF, OM
+Jermsawatdipong et al.,
+1994
+Chiang Mai
+9.0 - 9.5
+20 - 21
+CU
+Siriratpiriya et al 1995
+Khlong Luang
+3.8
+8
+Minami, 1994
+Yagi et al., 1994b
+Khon Kaen
+23.0
+76
+Minami, 1994; Yagi et al.,
+1994b
+AGRICULTURE
+4.58
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-9 (CONT.)
+REPRESENTATIVE METHANE EMISSIONS FROM RICE PADDY FIELDS IN VARIOUS LOCATIONS OF THE WORLD
+ Country
+Location
+Range of CH4
+flux
+mg/m2/hr
+Season total
+g/m2
+Experimental
+Treatment
+Reference
+Thailand
+(cont.)
+Nakompathom
+9.4-12.0
+25-32
+SE
+Tomprayoon et al., 1991
+Pathumthani
+1.9 - 4.6
+5 - 11
+MF, OM
+Jermsawatdipong et al., 1994
+Phitsanulok
+6.6 - 7.2
+17 - 18
+SE
+Katoh et al, 1995
+Phrae
+16.6 - 22.2
+51 - 69
+SE
+Minami, 1994; Yagi et al., 1994b
+Ratchaburi
+3.2 - 42.5
+9 - 117
+MF, OM
+Jermsawatdipong et al., 1994
+San Pa Tong
+10.4 - 16.1
+25 - 40
+SE
+Minami, 1994; Yagi et al., 1994b
+Surin
+15.0 - 24.5
+41 - 66
+MF, OM
+Jermsawatdipong et al., 1994
+Surin
+13.3
+41
+Jermsawatdipong et al., 1994
+Suphan Buri
+19.5 - 32.2
+51 - 75
+SE
+Minami, 1994; Yagi et al., 1994b
+USA
+Beaumont, Texas
+2.5 - 23.5
+5 - 36
+OM, SO
+Sass et al., 1990, 1991a, 1991b
+Beaumont, Texas
+0.6 - 6.3
+1 -15
+WM
+Sass et al., 1992
+Crowley, Louisiana
+10.2 - 17.9
+21 - 37
+MF
+Lindau et al., 1991
+Crowley, Louisiana
+12.6 - 85.0
+22 - 149
+MF, OM, SE
+Lindau and Bollich, 1993
+Crowley, Louisiana
+27 -  99
+60 - 220
+MF
+Lindau, 1994
+Davis, California
+3.4 - 10.4
+18
+Cicerone et al., 1983, 1992
+Knights Landing,
+California
+0.5 - 18.8
+1 - 58
+MF, OM
+Cicerone et al., 1992
+Experimental treatment: CU -  cultivars, MF - fertilisers, OM - organic matters, SE - seasons (early and late rices, or dry and rainy seasons), SO
+- soil types, WM - water management.
+NAV = not available
+Source: Modified from K Minami (1995)
+Global emissions of CH4 from rice paddies reported by several researchers are
+summarised in Table 4-10.  Extrapolation of emission rates to a global scale is very
+difficult, because the effects of variations in agricultural practices, number of crops per
+year, soil types and other factors discussed above are uncertain.
+The IPCC (IPCC, 1996) presented a candidate list of CH4 sources to the atmosphere as
+annual release rates.  The total annual source is constrained by the observed rate of
+atmospheric increase of concentrations and by the estimated atmospheric lifetime to be
+535 Tg CH4/yr.  Rice paddies are listed as a source of 60 ± 40 Tg CH4/yr.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.59
+TABLE 4-10
+REPRESENTATIVE GLOBAL ANNUAL METHANE EMISSIONS
+FROM RICE FIELDS AS ESTIMATED BY DIFFERENT AUTHORS
+*
+Reference
+Estimate (Tg CH4/yr)
+Koyama (1964)
+Ehhalt and Schmidt (1978)
+Cicerone and Shetter (1981)
+Khalil and Rasmussen (1983)
+Seiler et al (1984)
+Blake and Rowland (1988)
+Crutzen (1985)
+Holzapfel-Pschorn and Seiler (1986)
+Cicerone and Oremland (1988)
+Schütz et al. (1989a)
+Aselman and Crutzen (1989)
+Schütz et al. (1990)
+Wang et al. (1990)
+Neue et al. (1990)
+Bouwman (1990)
+Yagi and Minami (1990b)
+IPCC (1990)
+Minami(1994)
+Sass (1994)
+Parashar et al (1994)
+IPCC (1996)
+190
+280
+59
+95
+35-59
+142-190
+120-200
+70-170
+60-170
+50-150
+60-140
+50-150
+60-120
+25-60
+53-114
+22-73
+25-170
+12-113
+25-54
+20
+20-100
+Source: Modified from K. Minami (1994)
+AGRICULTURE
+4.60
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4 . 3 . 2  M e t h o d s  F o r  E s t i m a t i n g  E m i s s i o n s
+Emissions of methane from rice fields can be represented as follows:
+EQUATION 1
+Fc = EF × A × 10-12
+where:
+Fc
+=
+estimated annual emission of methane from a particular
+rice water regime and for a given organic amendment, in
+Tg per year;
+EF
+=
+methane emission factor integrated over integrated
+cropping season, in g/m2;
+A
+=
+annual harvested area cultivated under conditions defined
+above.  It is given by the cultivated area times the number
+of cropping seasons per year, i.e., in m2/yr.
+The seasonally integrated emission factor is evaluated from direct field measurements of
+methane fluxes for a single crop.
+In practice, it will be necessary to calculate the total annual emissions from a country as a
+sum of the emissions over a number of conditions.  Total rice production can be divided
+into subcategories based on different biological, chemical and physical factors that control
+methane emissions from rice fields.  In large countries, this may include different
+geographic regions.  To account for the different conditions, F is defined as the sum of Fc
+(see Equation 1).  This approach to emissions estimation can be represented as follows:
+EQUATION 2
+F = ∑i ∑j ∑k EFijk x 10-12
+where:
+•
+ijk: are categories under which methane emissions from rice fields may vary.
+For instance, i may represent water levels in the rice fields such as fields inundated for the
+duration of the growing season (flooded regime) or fields under water only
+intermittently.  This occurs either under managed irrigation when water is not readily
+available or when rains do not maintain flooded conditions throughout the growing
+season (intermittent regime) as given in Table 4-12.  j, k, may represent water regimes
+modified by other factors like organic inputs, soil textures, fertilisation regimes under
+each of the conditions represented by the index i, and so on.  As more factors are
+identified, more categories need to be included.  Inclusion of additional parameters should
+lead to an improvement of the estimate of the total emissions.  The summation should
+include all cropping seasons.
+The factors clearly identified by field experiments as being most important are (1) water
+regime with inorganic fertilisers (except sulphate-containing inorganic fertilisers which
+inhibit CH4 production); (2) organic fertiliser applications; (3) soil type, and soil texture;
+(4) cultivar; and (5) agricultural practices such as direct seeding or transplanting.  Data
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.61
+show that in continuously flooded fields, some types of organic fertilisers and certain
+cultivars lead to higher emissions compared to rice grown without organic amendments
+or intermittent or managed irrigation in which the fields are not continuously inundated
+and only where chemical fertilisers are used.
+At present there are insufficient data to incorporate most of these factors.  Nonetheless,
+the estimates can be improved substantially by incorporating the current knowledge on
+water regimes, organic amendments and soil types etc.  For some countries the effects of
+organic fertiliser can be included.
+4 . 3 . 3  S u m m a r y  o f  R e c o m m e n d e d  M e t h o d
+Basic Method
+Data on rice cultivation under different water management techniques should be available
+from most of the important rice-producing countries.  Therefore, the basic method for
+estimating emissions from each country includes estimates based on rice ecosystems
+(Kush,1984; Neue, 1989) relating to water regime (Table 4-12), namely:
+•
+Upland: Fields are never flooded for a significant period of time.
+•
+Lowland: Fields are flooded for a significant period of time.
+• Irrigated: Water regime is fully controlled.
+• Continuously flooded: Fields have standing water throughout 
+the rice growing season and may only dry for harvest.
+• Intermittently flooded : Fields have at least one aeration period of 
+more than 3 days during the cropping season.
+•  Single aeration: Fields have a single aeration during the 
+cropping season at any growth stage.
+•  Multiple aeration: Fields have more than one aeration 
+period during the cropping season.
+• Rainfed: Water regime depends solely on precipitation.
+• Flood prone: The water level may rise up to 50 cm during the 
+cropping season.
+• Drought prone: Drought periods occur during every cropping 
+season.
+• Deep water rice: Floodwater rises to more than 50 cm for a significant 
+period of time during the cropping season.
+• Fields inundated with water depth from 50-100 cm.
+• Fields inundated with water depth > 100 cm.
+The discussion refers to a single inventory (or base) year, (e.g., 1990) but an average over
+three years around the base year (e.g., 1989-1991) is recommended for the activity data,
+if possible.
+AGRICULTURE
+4.62
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+For the inventory year, a number of input data are required.
+•
+Area of rice cultivation by water management regime in square metres (m2).  As
+discussed above, that area is multiplied by the number of crops per year.  This
+includes areas counted for each crop.
+• 
+Seasonally integrated flux (EF) emission values for areas of different rice ecosystems
+(water regimes) without organic amendments.
+• 
+of enhancement factors for organic amendments.
+The result is methane emissions for each category.  The total emissions for the country is
+the sum of the individual results for each category.
+Default data
+In many cases, especially at the beginning of the process, there will be important rice-
+growing areas for which specific fluxes will not be available.  In such cases the regional
+and country-specific default data provided in Tables 4-12 and 4-13 can be used to carry
+out first order estimates.  These data may also be used by national experts for
+comparison.  Several ongoing activities to improve comparable measurement data have
+been identified.  See Appendix for further information.
+Area Statistics
+Table 4-11 contains information on harvested area of rice according to statistics from the
+FAO Yearbook (UN, 1992), China Agricultural Yearbook (1990), IRRI RICE Almanac
+(IRRI, 1994) and World Rice Statistics (IRRI, 1993).  Allocation of areas to categories, e.g.,
+irrigated, rainfed (flood prone and lowland rainfed) and upland rice for main rice-
+producing countries were based on the IRRI Rice Almanac (IRRI, 1994) and for other
+rice-producing countries these categories were based on IRRI (1990), Huke (1982) and
+Grist (1986).  Actual percentage of the irrigated, rainfed, and flood prone areas which are
+continuously flooded or have an aeration period greater than 3 days or multiple
+aerations, are to be obtained from the country specific data.
+Seasonally Integrated flux values
+Tables 4-12 and 4-13 provides default EF values for various categories of water regimes
+and multiplication factors for organic amendments.  Emissions from upland rice are
+assumed to be 0 and ignored in the emission calculations.
+For continuously flooded rice, a “model” average seasonally integrated emissions for rice-
+growing countries of the world was estimated from existing data (Table 4-13) to be
+20 g/m2.  These flux values are representative of flooded rice fields where organic
+fertiliser is not used.
+For intermittently flooded rice, a simple correction is  applied.  Fluxes are taken to be 50
+per cent of the flooded (non-organic) value of 20 g/m2 for single aeration and 20 per cent
+for multiple aeration.  For other water regimes new default values are given in Table 4-2.
+For irrigated and continuously flooded, lowland rice ecosystems, the default seasonally
+integrated methane emission is 20 g/m2 (see Table 4-13) for soils ‘without organic
+amendments’.  For conversion to methane emissions from soils ‘with organic
+amendments’, a default correction factor of 2 (Range 2-5) is applied to the corresponding
+rice ecosystems for the ‘without organic amendment’ category.  This is because organic
+amendments of flooded rice paddies increase methane emission to the atmosphere
+(Yagi and Minami, 1990a; Sass et al., 1991a, 1991b; Neue et al., 1994).  A comprehensive
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.63
+review of methane flux measurements over the past decade from a variety of countries
+and with different organic amendments and inorganic fertiliser treatments, is presented by
+Minami (1995).  The amount of methane that is emitted as a result of organic soil
+amendments depends greatly on the amount and condition of readily available
+decomposable carbon contained in the treatment.  Schütz et al (1989a) observed
+increases from a control value of 28.6 g CH4 m2/yr to 68.4 g CH4 m2/yr with added rice
+straw, (a factor of 2.4).  Cicerone et al. (1992) observed increases from a control value of
+1.4 g CH4 m2/yr to up to 58.2 g CH4 m2/yr with added straw, a factor of over 40 times
+higher.  In field studies in the Philippines, Denier van der Gon and Neue (1995) found
+that fields treated with green manure applied at a rate of 22 tonnes/ha emitted over twice
+as much methane as fields in which the application rate was 11 tonnes/ha.
+Methane emission rates are highly sensitive to water management.  Periodic drainage of
+irrigated rice paddies results in a significant decrease in methane emissions.  Yagi and
+Minami (1990a) reported a decrease in methane emission rates as a result of a
+mid-season drainage in Japanese rice fields.  Sass et al. (1992) found that a single
+midseason drain reduced seasonal emission rates by 50 per cent (from 9.27 g/m2 to
+4.86 g/m2).  In addition, multiple short periods of drainage (2-3 days) approximately every
+three weeks during the growing season reduced methane emissions  to an insignificant
+amount (1.15 g/m2) without decreasing rice grain yield.  Yagi et al. (1996) compared a
+continuously flooded plot with constant irrigation with an intermittently drained plot with
+short-term draining periods several times during the rice growing season.  Total seasonal
+methane emission rates during the cultivation period were 14.8 g/m2 and 8.6 g/m2 for
+1991 and 9.5 g/m2 and 5.2 g/m2 for 1993 in the continuously flooded and intermittently
+drained plots, respectively.  Scaling factors in Table 4-12 have been developed using the
+data from the literature.
+Default values in Tables 4-12 and 4-13 can be used for initial calculation where local
+measurements are not adequate.  However, national experts are encouraged to use
+locally available data if available.  If this is done it is important to ensure that these
+coefficients are based on a sufficient number of measurements to capture the variability
+and produce a representative seasonal average value, which is needed for inventory
+calculations (see Appendix).
+Possible Refinements
+National experts are encouraged to go beyond the basic method, and add as much detail
+as can be scientifically justified, based on laboratory and field experiments on various
+amendments and theoretical calculations, to arrive at the estimate of emissions from rice
+cultivation in their country.  These details should be incorporated into subcategories
+(indices j,k  in Equation 2) under each of the main water management categories in
+Equation 2 so that they can be compared at that level with data from other countries.
+For example:
+Where emission data are available for different fertiliser types, this may be
+incorporated into the calculations.  Each category, (e.g., continuously flooded) would
+be further divided as follows:
+F (continuously flooded) = F ( flooded chemical) + F (flooded/organic amendment)
+This procedure would then be repeated for as many separate subcategories as have been
+defined.  Each amendment may be incorporated in the same manner.
+AGRICULTURE
+4.64
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+In all cases, the emission inventory must be fully documented.  The documentation has
+two aspects.  First, method of calculation must be specified as in Equation 2.  Matrices of
+amendments must be delineated.  Second, all data and original sources must be
+referenced, if not included explicitly as part of the inventory report.  It is desirable in all
+cases to rely on published information, whether from the county’s government/scientific
+institutions  an international organisation such as the UN-FAO, or the scientific literature.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.65
+TABLE 4-11
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Americas
+USA
+1114
+100
+0
+0
+Belize
+2
+10
+90
+0
+Costa Rica
+53
+10
+90
+0
+Cuba
+150
+100
+0
+0
+Dominican Rep
+93
+98
+2
+0
+El Salvador
+15
+10
+90
+0
+Guatemala
+15
+10
+90
+0
+Haiti
+52
+40
+60
+0
+Honduras
+19
+10
+90
+0
+Jamaica
+0
+40
+60
+0
+Mexico
+123
+41
+59
+0
+Nicaragua
+48
+10
+90
+0
+Panama
+92
+5
+95
+0
+Puerto Rico
+0
+75
+25
+0
+Trinidad & Tobago
+5
+45
+55
+0
+Argentina
+103
+100
+0
+0
+Bolivia
+110
+25
+75
+0
+Brazil
+3945
+19
+75
+6 (0 + 6)
+Chile
+35
+79
+21
+0
+Columbia
+435
+67
+23
+10 (0 + 10)
+Ecuador
+266
+40
+10
+50
+Guyana
+68
+95
+5
+0
+Paraguay
+34
+50
+50
+0
+Peru
+185
+84
+16
+0
+Surinam
+58
+100
+0
+0
+Uruguay
+108
+100
+0
+0
+Venezuela
+119
+90
+10
+0
+AGRICULTURE
+4.66
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-11 (CONT.)
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Asia
+Brunei
+1
+79
+21
+0
+Hong Kong
+0
+100
+0
+0
+Syria
+0
+100
+0
+0
+Turkey
+52
+100
+0
+0
+India
+42321
+53 (16 + 37)
+15
+32 (16 + 16)
+Pakistan
+2113
+100
+0
+0
+Bangladesh
+10435
+22
+8
+70 (23 + 47)
+Myanmar
+4760
+18
+6
+76 (24 + 52)
+Nepal
+1445
+23
+3
+74 (8 + 66)
+Afghanistan
+173
+100
+0
+0
+Bhutan
+25
+50
+4
+46 (42 + 4)
+China 3
+33265
+93
+2
+5 (0 + 5)
+Indonesia
+10502
+72 (22 + 50)
+11
+17 (10 + 7)
+Iran
+570
+100
+0
+0
+Iraq
+78
+100
+0
+0
+Japan
+2074
+99 (2 + 97)
+1
+0
+Malaysia
+639
+66
+12
+22 (1 + 21)
+Philippines
+3319
+61
+2
+37 (2 + 35)
+Sri Lanka
+828
+37
+7
+56 (3 + 53)
+Taiwan
+700
+97
+3
+0
+Thailand
+9650
+7
+1
+92 (7 + 85)
+Kampuchea
+1800
+8
+2
+90 (42 + 48)
+Laos
+638
+2
+37
+61 (0 + 61)
+Vietnam
+6028
+53
+8
+39 (11 + 28)
+Democratic Republic of
+Korea
+670
+67
+13
+20
+Republic of Korea
+1242
+100 (9 + 91)
+0
+0
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.67
+TABLE 4-11 (CONT.)
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+ (%)
+Europe
+Albania
+2
+100
+0
+0
+Bulgaria
+11
+100
+0
+0
+France
+20
+100
+0
+0
+Greece
+15
+100
+0
+0
+Hungary
+11
+100
+0
+0
+Italy
+208
+100
+0
+0
+Portugal
+33
+100
+0
+0
+Romania
+37
+100
+0
+0
+Spain
+81
+100
+0
+0
+Former USSR
+624
+100
+0
+0
+Former Yugoslavia
+8
+100
+0
+0
+Pacific
+Australia
+102
+100
+0
+0
+Fiji
+13
+50
+50
+0
+Africa
+Algeria
+1
+100
+0
+0
+Angola
+18
+100
+0
+0
+Benin
+7
+10
+90
+0
+Burkina Faso
+19
+89
+11
+0
+Burundi
+12
+25
+75
+0
+Cameroon
+15
+25
+75
+0
+C African Rep
+10
+25
+75
+0
+Chad
+39
+25
+75
+0
+Comoros
+13
+100
+0
+0
+Congo
+4
+25
+75
+0
+Egypt
+436
+100
+0
+0
+Gabon
+0
+25
+75
+0
+Gambia
+14
+90
+10
+0
+Ghana
+85
+24
+76
+0
+Guinea Bissau
+57
+25
+75
+0
+Guinea
+608
+8
+47
+45
+AGRICULTURE
+4.68
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-11 (CONT.)
+DEFAULT ACTIVITY DATA - HARVESTED RICE
+Country or Region
+1990 Area
+(1000s ha)
+Irrigateda
+(%)
+Upland Rice
+(%)
+Rainfedb
+(%)
+Ivory Coast
+583
+6
+87
+7
+Kenya
+15
+25
+75
+0
+Liberia
+168
+0
+94
+6
+Madagascar
+1160
+10
+14
+76 (2 + 74)
+Malawi
+29
+25
+75
+0
+Mali
+222
+25
+75
+0
+Mauritania
+14
+100
+0
+0
+Morocco
+6
+100
+0
+0
+Mozambique
+109
+25
+75
+0
+Niger
+29
+35
+65
+0
+Nigeria
+1567
+16
+51
+33 (33 + 0)
+Rwanda
+3
+25
+75
+0
+Senegal
+73
+25
+75
+0
+Sierra Leone
+339
+1
+67
+32
+Somalia
+5
+50
+50
+0
+South Africa
+1
+100
+0
+0
+Sudan
+1
+50
+50
+0
+Swaziland
+0
+25
+75
+0
+Tanzania
+375
+3
+22
+75 (0 + 75)
+Togo
+21
+4
+96
+0
+Uganda
+37
+25
+75
+0
+Zaire
+393
+5
+90
+5
+Zambia
+11
+25
+75
+0
+Zimbabwe
+0
+25
+75
+0
+a Numbers in brackets indicate continuously flooded and intermittently flooded respectively.
+b Numbers in brackets indicate continuously flood-prone and drought-prone respectively.
+c Values are currently being updated.
+Sources: DeDatta (1975), Huke, (1982), Grist (1986), IRRI (1990), NGGIC (1996).
+Notes: Areas were taken from FAO Yearbook (UN, 1992), China Agricultural Yearbook (1990), World Rice Statistics (IRRI, 1990)
+and IRRI Rice Almanac 1993-1995 (IRRI, 1993).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.69
+TABLE 4-12
+SCALING FACTORS FOR METHANE EMISSIONS FOR RICE ECOSYSTEMS RELATIVE TO CONTINUOUSLY FLOODED FIELDS
+(WITHOUT ORGANIC AMENDMENTS)
+Category
+Sub-Categorya
+Scaling Factors (relative to emission
+factors for continuously flooded fields)
+Upland
+None
+0
+Lowland
+Irrigated
+Continuously flooded
+1.0
+Intermittently
+floodedb
+Single aeration
+0.5 (0.2-0.7)
+Multiple
+aeration
+0.2 (0.1-0.3)
+Rainfed
+Flood prone
+0.8 (0.5-1.0)
+Drought prone
+0.4 (0-0.5)
+Deep water
+Water depth 50-100 cm
+0.8 (0.6-1.0)
+Water depth  > 100 cm
+0.6 (0.5-0.8)
+a  Other rice ecosystem categories, like swamps and inland, saline or tidal wetlands may be discriminated within each sub-category according to local
+emisson measurements.
+b
+  Defined as > 3 days aeration during the vegetative period.   
+Note: For irrigated and continuously flooded, lowland rice ecosystems, the default seasonally integrated methane emission is 20 g/m2 (see Table 4-13)
+for soils ‘without organic amendments’.  For conversion to methane emissions from soils ‘with organic amendments’, apply a default correction factor of
+2 (Range 2-5) to the corresponding rice ecosystem for the ‘without organic amendment’ category.
+AGRICULTURE
+4.70
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-13
+SEASONALLY INTEGRATED METHANE EMISSION FACTORS FOR CONTINUOUSLY FLOODED RICE WITHOUT ORGANIC FERTILISER
+IN VARIOUS LOCATIONS OF THE WORLD
+Country
+Seasonally Integrated Emission
+Factor, EFa
+(g/m2)
+Literature/Remarks
+Australia
+22.5
+NGGIC, 1996
+China
+13 (10-22)
+Wassman et al., 1993a
+India
+10 (5 - 15)
+Mitra, 1996
+Parashar et al., 1996
+Indonesia
+18 (5 - 44)
+Nugroho et al., 1994a,b
+Italy
+36 (17-54)
+Schütz et al., 1989a
+Japan
+15
+Minami, 1995
+Republic of Korea
+15
+Shin et al., 1995
+Philippines
+(25 - 30)
+Neue et al., 1994; Wassman et al., 1994
+Thailand
+16 (4 - 40)
+Towpryaoon et al., 1993
+USA (Texas)
+25 (15 - 35)
+Sass and Fisher, 1995
+Arithmetic Mean b
+20 (12-28)
+-
+a It is recognised that the emission factors presented in Table 4-13 will need to be periodically updated as better data become available.  However, this
+dataset represents the best available information at the time of compilation.
+b The arithmetic mean of the seasonally integrated emission factor, EF, is derived from the values shown in Table 4-13.  The range of  emission factors
+is defined as the standard deviation about the mean.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.71
+Appendix
+Intercomparability 
+of 
+Methane 
+Emission
+Data from Rice Cultivation
+Chamber measurements
+Each laboratory should provide a standardised emission program of control flux
+measurements to ensure the intercomparibilty and intercalibration of extended data sets.
+An emission standardisation programme will consist of a specified experimental plan for
+seasonal and annual flux measurements along with specific accompanying data on location
+and climate, soil, water management, plant characteristics, fertiliser treatment and a
+detailed cropping calendar.
+• 
+Methane flux measurements should be recorded at least twice per week over an
+entire season.  Experiments should be continued during fallow and/or alternate
+cropping times as well as during the entire normal local rice growing season including
+land preparation.  In areas where double or triple cropping is practised, data should
+be collected for all growing seasons.
+• 
+Since emissions are strongly influenced by daily temperature changes, the diel pattern
+of emission (6-12 flux rates within a 24 hour period) should be determined at least
+three times during the season.
+• 
+A data log of all agricultural events should be kept., e.g., transplant date, panicle
+initiation, heading, anthesis, harvest, etc.  as well as fertilisation, water management
+schedule, weeding schedule, herbicide and pesticide treatments.
+• 
+At the time of each flux measurement, one should also collect the air temperature,
+flood water temperature, and the soil temperature.
+• 
+Fertilisation treatment in the standardisation (continuous irrigation) plots should be
+according to local practices, but limited to inorganic fertiliser.  The application rate as
+kg N ha-1 and number and timing of applications should be reported.
+• 
+Fertilisation treatment in other experimental areas, including organic fertilisers,
+should reflect local practices.  Amounts, type, and timing of applications should be
+reported for each phase of the cropping sequence at all scales.
+• 
+Standardisation chamber plots are to be kept flooded from shortly before
+transplanting until maturity.  During flood, the water should be kept at a 5 cm
+minimum constant depth.  A daily log should be kept of the amount of water added
+and when.
+ 
+Other water management regimes should be investigated when they are practised
+locally.  A daily log should be kept of times and durations of draining, the amounts of
+water added and other applicable data.
+For further information, see ‘Global Measurements Standards of methane emissions for
+irrigated rice cultivation’, IGAC (1994).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.73
+4.4 
+Greenhouse Gas Emissions from
+Agricultural Burning
+4 . 4 . 1  I n t r o d u c t i o n
+Where there is open burning associated with agricultural practices, a number of
+greenhouse gases (GHGs) are emitted from combustion.  All burning of biomass
+produces substantial CO2 emissions.  However, in agricultural burning, the CO2 released
+is not considered to be net emission.  The biomass burned is generally replaced by
+regrowth over the subsequent year.  An equivalent amount of carbon is removed from
+the atmosphere during this regrowth, to offset the total carbon released from
+combustion.  Therefore the long term net emissions of CO2 are considered to be zero.
+Agricultural burning releases other gases in addition to CO2 which are by-products of
+incomplete combustion: methane, carbon monoxide, nitrous oxide, and oxides of
+nitrogen, among others.  These non-CO2 trace gas emissions from biomass burning are
+net transfers from the biosphere to the atmosphere.  It is important to estimate these
+emissions in national inventories.16
+There are two major types of agricultural burning addressed in this section – savanna
+burning and field burning of crop residues.  The approach is essentially the same as that
+used for non-CO2 trace gases for all burning of unprocessed biomass, including traditional
+biomass fuels and open burning of cleared forests.  For all these activities, there is a
+common approach in the proposed methodology, in that crude estimates of non-CO2
+trace gas emissions can be based on ratios to the total carbon released.  The carbon
+trace gas releases (CH4 and CO) are treated as direct ratios to total carbon released.
+Non-methane volatile organic compounds (NMVOCs) can be treated in a similar way.
+However, no default values for NMVOC are provided in this version of the Guidelines.
+To handle nitrogen trace gases, nitrogen to carbon ratios are used to derive total
+nitrogen released and then emissions of N2O and NOx are estimated based on ratios of
+these gases to total nitrogen released.  Tables 4-15 and 4-16 provide suggested default
+values for non-CO2 trace gas emission ratios.  These are presented with ranges, which
+                                                  
+     16 For biomass combustion, CO2 emissions are frequently not considered net
+emissions, and this is the case for agricultural burning. One could argue, in such cases,
+that this burning could be considered a short term sink of CO2. That is, a portion of
+carbon in biomass is being released as net emissions of CH4 and CO, while regrowth is
+removing the full amount of the original carbon from the atmosphere in the next cycle.
+Each year plants take up a certain amount of carbon from the atmosphere. When they
+are burned some of that carbon is converted to CO, and CH4, so that an amount less
+than the total CO2 which was taken up by the plants is re-emitted as CO2. See Howden
+et al. (1996), for a more detailed discussion of this proposal. Treating emissions of CO
+and CH4 to the atmosphere, as a sink for atmospheric CO2, however, is inconsistent with
+the proposed IPCC emissions methodology.  In particular, the other carbon compounds
+emitted are converted back into CO2 in the atmosphere over periods of days up to a
+decade or so. Thus, over the time horizons of interest for CO2, (i.e. more than 100
+years) there is no sink of CO2.
+AGRICULTURE
+4.74
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+emphasise their uncertainty.  However, the basic calculation methodology requires that
+users select a best estimate value.17
+The calculation of immediate trace gas emissions, based on the default emission ratios
+provided in Tables 4-15 and 4-16, produces relatively crude estimates with substantial
+uncertainties.18  Use of specific emission ratios which vary by type of burning, region, etc.
+may allow for more precise calculations.  The calculations described here ignore the
+contemporary fluxes associated with past burning activities.  These delayed releases are
+known to exist, but are poorly understood at present.  This and other possible
+refinements are discussed at the end of this section.
+4.4.2 P r e s c r i b e d  B u r n i n g  o f  S a v a n n a s
+Background
+The term savanna refers to tropical and subtropical vegetation formations with a
+predominantly continuous grass cover, occasionally interrupted by trees and shrubs
+(Bouliere and Hadley 1970).  These formations exist in Africa, Latin America, Asia, and
+Australia.  The growth of vegetation in savannas is controlled by alternating wet and dry
+seasons: most of the growth occurs during the wet season; man-made and/or natural fires
+are frequent and generally occur during the dry season.  The global area of savannas is
+uncertain, in part due to lack of data and in part due to differing ecosystem classifications.
+Estimates of the areal extent of savannas range from 1300-1900 million hectares world-
+wide, about 60 per cent of which are humid savannas (annual rainfall of 700 mm or more)
+and 40 per cent are arid savannas (annual rainfall of less than 700 mm) (Bolin et al., 1979;
+Whittaker and Likens, 1975; Lanly, 1982; Lacey et al., 1982; and Hao et al., 1990).  Large-
+scale burning takes place primarily in the humid savannas because the arid savannas lack
+sufficient grass cover to sustain fire.  Humid savannas are burned every one to four years
+on average with the highest frequency in the humid savannas of Africa (as cited in Hao et
+al., 1990).
+                                                  
+     17 Emissions inventory developers are encouraged to provide estimates of uncertainty
+along with these best estimate values where possible or to provide some expression of
+the level of confidence associated with various point estimates provided in the inventory.
+Procedures for reporting this uncertainty or confidence information are discussed in
+Volume 1: Reporting Instructions.
+     18 Emission ratios used in this section and presented in the tables are derived from
+Crutzen and Andreae (1990), Delmas (1993), Delmas and Ahuja (1993) and Lacaux, et al.
+(1993). They are based on measurements in a wide variety of fires, including forest and
+savanna fires in the tropics and laboratory fires using grasses and agricultural wastes as
+fuel. In many cases these ratios are general averages for all biomass burning. Research will
+need to be conducted in the future to determine if more specific emission ratios, e.g.,
+specific to the type of biomass and burning  conditions, can be obtained. Also, emission
+ratios vary significantly between the flaming and smouldering phases of a fire. CO2, N2O,
+and NOx are mainly emitted in the flaming stage, while CH4 and CO are mainly emitted
+during the smouldering stage (Lobert et al., 1990). The relative importance of these two
+stages will vary between fires in different ecosystems and under different climatic
+conditions, and so the emission ratios will vary. As inventory methodologies are refined,
+emission ratios should be chosen to represent as closely as possible the ecosystem type
+being burned, as well as the characteristics of the fire.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.75
+Savannas are intentionally burned during the dry season primarily for agricultural
+purposes such as ridding the grassland of weeds and pests, promoting nutrient cycling,
+and encouraging the growth of new grasses for animal grazing.  Savanna burning may be
+distinguished from other biomass burning activities like open forest clearing because there
+is little net change in the ecosystem biomass in the savanna after the vegetation regrows
+during the wet season.  Consequently, while savanna burning results in instantaneous
+gross emissions of CO2, it is reasonable to assume that the net carbon dioxide released
+to the atmosphere is essentially zero because the vegetation typically regrows between
+burning cycles.19  Savanna burning does release several other important trace gases:
+methane (CH4), carbon monoxide (CO), nitrous oxide (N2O), oxides of nitrogen (NOx,
+i.e., NO and NO2) and non-methane volatile organic compounds (NMVOCs).
+Estimates of global emissions of these gases due to savanna burning have been based on
+estimates of the annual instantaneous gross release of carbon from this activity and on
+ratios of the other trace gases released from burning to the total carbon released by
+burning.  Estimates of the annual instantaneous gross release of carbon from savanna
+burning are highly uncertain because of lack of data on:
+•
+the aboveground biomass density of different savannas;
+•
+the savanna area burned annually;
+•
+the fraction of aboveground biomass which actually burns; and
+•
+the fraction which oxidises.
+The methodology that is proposed in the next section, although conceptually quite simple,
+takes these factors into account.  The approach allows for estimation of non-CO2 trace
+gases released by savanna burning, based on default data sets and on assumptions from
+average literature values for various regions and types of savannas.  It also allows for
+more accurate national estimates if data and assumptions can be developed to reflect
+national average conditions accurately.  Nonetheless, a wide variety of technical details
+and open scientific issues remain important research topics.
+Calculations
+There are two basic components to the calculation.  First, it is necessary to estimate the
+total amount of carbon released to the atmosphere from savanna burning.  These are not
+considered to be net emissions, but are needed to derive non-CO2 trace gas emissions,
+which are net emissions.  What is required is the annual area burned for the various
+types of savannas, where type is based primarily upon above and below ground biomass,
+and perhaps climatological conditions and nutrient status.  It is generally recommended
+for all emissions from agriculture that three-year averages of activity data (e.g., hectares
+burned) be used instead of a single year’s data where possible.  This is especially
+important for savanna burning which is highly variable from year to year.  This variability
+should also be taken into account  by national experts in planning data collection
+programmes to provide more accurate inputs to national inventory calculations.  If data
+are not directly available, estimates can be derived based on total savanna area20 and
+                                                  
+     19 If grazing pressure coupled with burning too often reduces biomass (i.e., degrades
+the quality of savannas), then this needs to be considered as a carbon dioxide source. This
+is not assumed in the basic calculations but could be included as a refinement if
+considered important.
+     20 Most countries with significant savanna area should have national statistics on the
+total area, but FAO publications (e.g. FAO, 1993) also provide country-specific estimates.

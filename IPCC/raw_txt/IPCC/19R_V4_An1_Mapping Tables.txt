@@ -1,0 +1,4938 @@
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.1 
+ANNEX 1 
+MAPPING TABLES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Contents 
+Annex 1  
+Relating 2019 Refinement to the 2006 IPCC Guidelines ............................................................... A1.3 
+Chapter 1  Introduction .................................................................................................................................... A1.3 
+Chapter 2  Generic Methods ............................................................................................................................ A1.4 
+Chapter 3  Consistent Representation of lands .............................................................................................. A1.10 
+Chapter 4  Forest Lands ................................................................................................................................. A1.13 
+Chapter 5  Croplands ..................................................................................................................................... A1.16 
+Chapter 6  Grasslands .................................................................................................................................... A1.22 
+Chapter 7  Wetlands ....................................................................................................................................... A1.25 
+Chapter 8  Settlements ................................................................................................................................... A1.29 
+Chapter 9  Other Lands .................................................................................................................................. A1.31 
+Chapter 10  Emissions from Livestock and Manure Management .................................................................. A1.32 
+Chapter 11  N2O Emissions from Managed Soils and CO2 Emissions from Lime and Urea Applications ..... A1.42 
+Chapter 12  Harvested wood products ............................................................................................................. A1.45 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.3 
+Annex 1 
+Relating the 2019 Refinement to the 2006 IPCC 
+Guidelines 
+This annex provides a road map for relating sections, equations, tables, figures and boxes in the 2019 Refinement 
+to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.  
+Type of Refinement: U – Update, NG – New Guidance, NR – No Refinement, R – Removed 
+CHAPTER 1 INTRODUCTION 
+Refinements in this chapter reflect the new guidance and updates that are made in other chapters of this volume. 
+Sections 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+U 
+1.1 
+1.1 
+Overview of greenhouse gas emissions and removals in the 
+AFOLU sector 
+U 
+1.2 
+1.2 
+Science background 
+U 
+1.2.1 
+1.2.1 
+Carbon pool definitions and non-CO2 gases 
+U 
+1.2.1 
+1.2.1 
+Overview of inventory preparation for the AFOLU sector 
+U 
+1.3 
+1.3 
+Land-use and management categories 
+U 
+1.3.1 
+1.3.1 
+Tier definitions for methods in AFOLU 
+U 
+1.3.2 
+1.3.2 
+Identification of key categories 
+NR 
+1.3.3 
+1.3.3 
+Steps in preparing inventory estimates 
+U 
+1.3.4 
+1.3.4 
+Organisation of Volume 4 in the 2019 Refinement to the 
+2006 IPCC Guidelines 
+U 
+1.4 
+1.4 
+Historical background on the IPCC greenhouse gas 
+inventory guidance for AFOLU sector 
+NR 
+1A 
+1A 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Definitions of carbon pools used in AFOLU for each land-
+use category 
+U 
+1.1 
+1.1 
+Land-use categories, carbon pools and non-CO2 gases to be 
+estimated under Tier 1, their relevance to AFOLU sections, 
+and the reference to Revised 1996 IPCC Guidelines 
+U 
+1.2 
+1.2 
+Figures 
+ 
+No refinement  
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Framework of tier structure for AFOLU methods 
+U 
+1.1 
+1.1 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 2 GENERIC METHODS 
+This section has several refinements including a) guidance on application of allometric model and biomass 
+density maps for estimation of biomass C; b) refinements on the guidance to estimate changes in dead organic 
+matter and updates to the factors; c) refinements to the description of methods and factors to estimate soil C 
+stock change in mineral soils, and the addition of a Tier 2 method to estimate the C stock changes from biochar 
+amendments; d) expanded guidance on application of Tier 3 methods; and e) methods for estimating the 
+influence of inter-annual variability on greenhouse gas emissions.  There was limited refinement to the methods 
+for estimating non-CO2 greenhouse gas emissions from biomass burning. 
+Sections 
+ Section 2.3.1 provides definitions and new guidance to inventory compilers on the use of allometric models 
+to estimate volume, biomass and carbon stocks in land uses containing vegetation at Tier 2 and 3 levels, 
+including a decision tree to select the appropriated one. The section also provides guidance on how to use of 
+biomass density maps for the estimation of carbon emissions at Tier 2 and Tier 3 levels. 
+ Section 2.3.2 provides updates on methods and factors for estimating changes in C for dead organic matter. 
+ Section 2.3.3 provides refinements for estimation of soil C stock changes in mineral soils including more 
+guidance about application of Tier 2 and 3 methods. For Tier 3, several examples are provided that describe 
+methods that have been applied for reporting soil C stock changes by countries. Guidance is provided on 
+using mass-equivalency methods and assessing the impact of soil erosion and deposition. Updates have been 
+made to the default reference C stocks for estimating C stock changes in mineral soils. New guidance is 
+provided to estimate the change in soil C stocks with biochar amendments to soils in grassland and cropland. 
+Biochar C has been intensively studied over the past decade and the recent research has provided a scientific 
+basis for developing a Tier 2 method. Tier 3 methods may also be developed to estimate impacts of biochar 
+amendments on soil C stocks in forest land, settlements, wetlands and other land. 
+ Section 2.4 is refined to provide a method for estimating mass of fuel in croplands that is consistent with the 
+method for estimating soil N2O emissions from crop residues (i.e., mass of residues). Ensuring consistency 
+among sources is considered a good practice and is the primary reason that the method for estimating mass of 
+fuel has been refined. 
+ Section 2.5 is revised to expand the guidance on how to parameterize and evaluate Tier 3 models, the 
+integration of data to models, and means to increase its transparency. Case studies have been included to 
+demonstrate how different countries have developed and worked with Tier 3 methods.   
+ Section 2.6 is added to provide an option that may be used to disaggregate Managed Land Proxy (MLP) 
+emissions and removals into those that are considered to result from human effects and those that are 
+considered to result from natural disturbances. 
+ An annex is provided to describe the data that have been used to estimate default reference C stocks for the 
+mineral soil method.  An annex is also provided describing the underlying scientific basis for developing Tier 
+2 and 3 methods to estimate soil C stock change from biochar C amendments to soils. 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+2.1 
+2.1 
+Inventory Framework 
+U 
+2.2 
+2.2 
+Overview of carbon stock change estimation 
+NR 
+2.2.1 
+2.2.1 
+Overview of non-CO2 emission estimation 
+NR 
+2.2.2 
+2.2.2 
+Conversion of C stock changes to CO2 emissions 
+NR 
+2.2.3 
+2.2.3 
+Generic methods for CO2 emissions and removals 
+NR 
+2.3 
+2.3 
+Change in biomass carbon stocks (above-ground biomass and 
+below-ground biomass) 
+NR 
+2.3.1 
+2.3.1 
+Land remaining in a land-use category 
+NR 
+2.3.1.1 
+2.3.1.1 
+Land converted to a new land-use category 
+NR 
+2.3.1.2 
+2.3.1.2 
+Additional generic guidance for tier 2 methods 
+NG 
+- 
+2.3.1.3 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.5 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Change in dead organic matter 
+NR 
+2.3.2 
+2.3.2 
+Land remaining in a land-use category 
+U 
+2.3.2.1 
+2.3.2.1 
+Land converted to a new land-use category 
+U 
+2.3.2.2 
+2.3.2.2 
+Change in carbon stocks in soils 
+NR 
+2.3.3 
+2.3.3 
+Soil organic C estimation methods (Land remaining in a 
+Land-use category and land conversion to a new land use) 
+U 
+2.3.3.1 
+2.3.3.1 
+Non-CO2 emissions 
+U 
+2.4 
+2.4 
+Additional generic guidance for tier 3 methods 
+U 
+2.5 
+2.5 
+Measurement-based tier 3 inventories 
+U 
+2.5.1 
+2.5.1 
+Model-based tier 3 inventories 
+U 
+2.5.2 
+2.5.2 
+Inter-annual variability 
+NG 
+- 
+2.6 
+Definitional issues 
+NG 
+- 
+2.6.1 
+Direct and indirect human effects, and natural effects 
+NG 
+- 
+2.6.1.1 
+Natural disturbances 
+NG 
+- 
+2.6.1.2 
+Relationship between different methodological approaches 
+and the representation of emissions and removals from inter-
+annual variability 
+NG 
+- 
+2.6.2 
+Optional approach for reporting of emissions and removals 
+from Natural Disturbances 
+NG 
+_ 
+2.6.3 
+Reporting the contribution of natural disturbances and 
+anthropogenic effects to the emissions and removals for 
+managed lands 
+NG 
+- 
+2.6.4 
+Default Mineral Soil Reference C Stocks 
+NG 
+- 
+2A.1 
+Additional Information for the Estimation of Soil Carbon 
+Stock Change from Biochar Amendments to Mineral Soils 
+Using Tier 2 and 3 Methods 
+NG 
+- 
+2A.2 
+Equations 
+ 
+Equation 2.25A has been added as part of the Tier 2 method guidance.  This equation is used to estimate the 
+annual change in soil C stock in mineral soils that are amended with biochar in grassland and cropland. 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation Number 
+2019 Refinement 
+Equation Number 
+Annual carbon stock changes for the entire AFOLU 
+Sector estimated as the sum of changes in all land-use 
+categories 
+NR 
+2.1 
+2.1 
+Annual carbon stock changes for a land-use category as a 
+sum of changes in each stratum within the category 
+NR 
+2.2 
+2.2 
+Annual carbon stock changes for a stratum of a land-use 
+category as a sum of changes in all pools 
+NR 
+2.3 
+2.3 
+Annual carbon stock change in a given pool as a function 
+of gains and losses (Gain-Loss Method) 
+NR 
+2.4 
+2.4 
+Carbon stock change in a given pool as an annual average 
+difference between estimates at two points in time (Stock-
+Difference Method) 
+NR 
+2.5 
+2.5 
+Non-CO2 emissions to the atmosphere 
+NR 
+2.6 
+2.6 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation Number 
+2019 Refinement 
+Equation Number 
+Annual change in carbon stocks in biomass in land 
+remaining in a particular land-use category (Gain-Loss 
+Method) 
+NR 
+2.7 
+2.7 
+Annual change in carbon stocks in biomass in land 
+remaining in the same land-use category (Stock-
+Difference Method) 
+NR 
+2.8 
+2.8 
+Annual increase in biomass carbon stocks due to biomass 
+increment in land remaining in same category 
+NR 
+2.9 
+2.9 
+Average annual increment in biomass 
+NR 
+2.10 
+2.10 
+Annual decrease in carbon stocks due to biomass losses in 
+land remaining in same category 
+NR 
+2.11 
+2.11 
+Annual carbon loss in biomass of wood removals 
+NR 
+2.12 
+2.12 
+Annual carbon loss in biomass of fuelwood removal. 
+NR 
+2.13 
+2.13 
+Annual carbon losses in biomass due to disturbances 
+NR 
+2.14 
+2.14 
+Annual change in biomass carbon stocks on land 
+converted to other land-use category (Tier 2) 
+NR 
+2.15 
+2.15 
+Initial change in biomass carbon stocks on land converted 
+to another land category 
+NR 
+2.16 
+2.16 
+Annual change in carbon stocks in dead organic matter 
+NR 
+2.17 
+2.17 
+Annual change in carbon stocks in dead wood or litter 
+(Gain-Loss Method) 
+NR 
+2.18 
+2.18 
+Annual change in carbon stocks in dead wood or litter 
+(Stock-Difference Method) 
+NR 
+2.19 
+2.19 
+Annual carbon in biomass transferred to dead organic 
+matter 
+NR 
+2.20 
+2.20 
+Annual biomass carbon loss due to mortality 
+NR 
+2.21 
+2.21 
+Annual carbon transfer to slash 
+NR 
+2.22 
+2.22 
+Annual change in carbon stocks in dead wood and litter 
+due to land conversion 
+NR 
+2.23 
+2.23 
+Annual change in carbon stocks in soils 
+NR 
+2.24 
+2.24 
+Annual change in organic carbon stocks in mineral soils 
+NR 
+2.25 
+2.25 
+Annual change in biochar carbon stock in mineral soils 
+receiving biochar additions 
+NG 
+- 
+2.25a 
+Annual carbon loss from drained organic soils (CO2) 
+NR 
+2.26 
+2.26 
+Estimation of greenhouse gas emissions from fire 
+NR 
+2.27 
+2.27 
+Estimation of Soil Organic Carbon Stocks 
+NG 
+- 
+2A.1.1 
+Tables 
+ Table 2.2 includes updates to the default values for litter and deadwood C stocks. 
+ Table 2.3 has been updated with new reference carbon stocks from Batjes (2011).  For a subset of soils types 
+and/or climate regions, new values are not provided in the analysis by Batjes (2011) so values from previous 
+IPCC guidance documents are retained.  Updated 95per cent confidence interval limits expressed as a 
+percentage of the mean organic carbon stock are also provided.  Where the number of samples used to 
+calculate the mean and confidence limits are known it included in the updated to table to provide an 
+indication of the level of data informing the new factors. 
+ Tables 2.4 and 2.6 provide updates for estimating mass of fuel associated with non-CO2 emissions from 
+agricultural residues burning.  
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.7 
+ Table 2.6A includes examples of documentation that may be provided by compilers to increase the 
+transparency of Tier 3 models that are used for inventories. 
+ Table 2.6B provides examples of documentation that may be provided to increase the transparency of model-
+based Tier 3 inventories. 
+ Table 2.6C indicates whether or not different estimation methods are able to distinguish between the impact 
+of the individual drivers on the interannual variability of reported annual emission and removal estimates 
+from managed land. 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Example of a simple matrix (Tier 2) for the impacts of 
+disturbances on carbon pools 
+NR 
+2.1 
+2.1 
+Tier 1 default values for litter and dead wood carbon stocks 
+U 
+2.2 
+2.2 
+Default reference (under native vegetation) soil organic C 
+stocks (SOCREF) for mineral soils (tonnes C ha-1 in 0-30 cm 
+depth) 
+U 
+2.3 
+2.3 
+Fuel (dead organic matter plus live biomass) biomass 
+consumption values (tonnes dry matter ha-1) for fires in a 
+range of vegetation types. 
+U 
+2.4 
+2.4 
+Emission factors for various types of burning 
+NR 
+2.5 
+2.5 
+Combustion factor values (proportion of prefire fuel biomass 
+consumed) for fires in a range of vegetation types 
+U 
+2.6 
+2.6 
+Examples of documentation to assemble in support of 
+transparent reporting of Tier 3 measurement-based 
+inventories 
+NG 
+- 
+2.6a 
+Examples of documentation to assemble in support of 
+transparent reporting of Tier 3 model-based inventories 
+NG 
+- 
+2.6b 
+General guidance on whether or not the estimation method is 
+able to distinguish between the impact of the individual 
+drivers below on the interannual variability of reported annual 
+emission and removal estimates 
+NG 
+- 
+2.6c 
+Figures 
+ Figure 2.4 includes a minor update by inserting the word “method” at the end of the first diamond in the 
+decision tree.   
+ Figure 2.6A summarizes the main factors that cause anthropogenic (i.e., direct and indirect human) effects 
+and natural effects on greenhouse gas emissions and removals, and their occurrences in managed and 
+unmanaged lands. 
+ Figure 2.6B is part of BOX.2I, and provides an example of the disaggregation of wildfire emissions in 
+Australia into ‘natural disturbance’ emissions and removals and the emissions and removals from fires due to 
+human activity. 
+ Figure 2.6C is part of BOX. 2J, and provides an example of the disaggregation of Canada’s FL-FL emissions 
+and removals into those occurring on lands dominated by natural disturbance impacts and those occurring in 
+the remaining managed forest.  
+ Figure 2.6D and 2.6E are part of BOX. 2K, and provide an example of methodological approach based on the 
+European legislation to estimate the contribution of natural disturbances to the emissions and removals 
+reported for managed lands. 
+ Figure 2.7 from the 2006 IPCC guidelines has been moved to Volume I, and expanded with additional 
+guidance for all sectors. 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Generalized carbon cycle of terrestrial AFOLU ecosystems 
+showing the flows of carbon into and out of the system as 
+well as between the five C pools within the system 
+NR 
+2.1 
+2.1 
+Generic decision tree for identification of appropriate tier to 
+estimate changes in carbon stocks in biomass in a land-use 
+category 
+NR 
+2.2 
+2.2 
+Generic decision tree for identification of appropriate 
+allometric models to estimate biomass or carbon stocks in 
+organic matter 
+NG 
+- 
+2.2a 
+Generic decision tree for identification of appropriate tier to 
+estimate changes in carbon stocks in dead organic matter for a 
+land-use category 
+NR 
+2.3 
+2.3 
+Generic decision tree for identification of appropriate tier to 
+estimate changes in carbon stocks in mineral soils by land-use 
+category 
+U 
+2.4 
+2.4 
+Generic decision tree for identification of appropriate tier to 
+estimate changes in carbon stocks in organic soils by land-use 
+category 
+NR 
+2.5 
+2.5 
+Generic decision tree for identification of appropriate tier to 
+estimate greenhouse gas emissions from fire in a land-use 
+category 
+NR 
+2.6 
+2.6 
+Conceptual illustration of how various anthropogenic (direct 
+and indirect) and natural factors affect land-related GHG 
+emissions and removals in managed and unmanaged lands 
+NG 
+- 
+2.6a 
+Example of the disaggregation of wildfire emissions in 
+Australia into natural ‘natural disturbance’ emissions and 
+removals and the emissions and removals from fires due to 
+human activity. 
+NG 
+- 
+2.6b 
+Example of the disaggregation of Canada’s FL-FL emissions 
+and removals into those occurring on lands dominated by 
+natural disturbance impacts and those occurring in the 
+remaining managed forest. 
+NG 
+- 
+2.6c 
+Time series of managed forest land total GHG net emission 
+(anthropogenic + natural disturbance (ND) and area burnt. 
+NG 
+- 
+2.6d 
+Time series of managed forest land GHG net emissions and 
+removals (Gg CO2e) 
+NG 
+- 
+2.6e 
+Boxes 
+ Box 2.0A provides information on how consistency and comparability could be maintained when applying 
+IPCC guidelines for AFOLU projects and activities. 
+ Box 2.0B provides information about definitions of allometric equations. 
+ Box 2.0C discusses emerging LIDAR technology for application in biomass C inventories. 
+ Box 2.0D discusses remote sensing technology for application in biomass C inventories. 
+ Box 2.0E provides an example for how biomass density maps are used to estimate biomass C stock change in 
+the Brazilian Amazon. 
+ Boxes 2.2A and 2.2E provides information about using equivalent mass methods in soil C inventories. 
+ Box 2.2B provides background on emissions associated with biochar production and application. 
+ Box 2.2C provides discussion about methods to address the impact of soil erosion and deposition on soil C 
+stocks. 
+ Box 2.2D provides several examples of Tier 3 methods that have been used by governments to report soil C 
+stock changes. 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.9 
+ Box 2.2F presents an example of model calibration, evaluation and improvement through data assimilation 
+(Canada’s Carbon Budget Model). 
+ Box 2.2G presents examples (Finland and Canada) of model evaluation and improvement. 
+ Box 2.2H presents examples (Canada and USA) of quantification of uncertainties in Tier 3 modelling 
+approaches. 
+ Box 2.2I provides an example of methodological approach developed by Australia to estimate the 
+contribution of natural disturbances to the emissions and removals reported for managed lands 
+ Box 2.2J provides an example of methodological approach developed by Canada to estimate the contribution 
+of natural disturbances to the emissions and removals reported for managed lands 
+ Box 2.2K provides an example of methodological approach based on European legislation to estimate the 
+contribution of natural disturbances to the emissions and removals reported for managed lands  
+ Box 2.2L provides an example of a table format that could be used for voluntary disaggregation of emissions 
+and removals reported for managed lands into anthropogenic and natural disturbance component. 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Consistency between AFOLU projects or activities and IPCC 
+inventory guidelines 
+NG 
+- 
+2.0a 
+Allometric Definitions 
+NG 
+- 
+2.0b 
+New Technology: Terrestrial LIDAR 
+NG 
+- 
+2.0c 
+Remote Sensing Technologies 
+NG 
+- 
+2.0d 
+Using a biomass map for GHG estimation: an example from 
+the Brazilian Amazon 
+NG 
+- 
+2.0e 
+Alternative Formulations of Equation 2.25 for Approach 1 
+Activity Versus Approach 2 or 3 Activity Data with 
+Transition Matrices 
+U 
+2.1 
+2.1 
+Comparison between use of approach 1 aggregate statistics 
+and approach 2 or 3 activity data with transition matrices 
+U 
+2.2 
+2.2 
+Using equivalent mass methods to derive mineral soil stock 
+change factors 
+NG 
+ 
+2.2a 
+GHG emission sources with biochar production 
+NG 
+- 
+2.2b 
+Representing the impact of soil erosion and deposition on soil 
+carbon stock changes 
+NG 
+ 
+2.2c 
+Examples of Tier 3 mineral soil C stock change methods 
+U 
+- 
+2.2d 
+Consideration of equivalent mass methods within Tier 3 
+modelling approaches 
+NG 
+- 
+2.2e 
+An example of model calibration, evaluation and 
+improvement through data assimilation 
+U 
+- 
+2.2f 
+Examples of model evaluation and improvement 
+U 
+- 
+2.2g 
+Examples of quantification of model uncertainty 
+U 
+- 
+2.2h 
+Australian approach to estimating interannual variability due 
+to natural disturbances 
+NG 
+- 
+2.2i 
+Canada’s approach to estimating interannual variability from 
+natural disturbances 
+NG 
+- 
+2.2j 
+Approach to estimating interannual variability from natural 
+disturbances based on the EU legislation 
+NG 
+- 
+2.2k 
+Example of the table format that could be used for voluntary 
+disaggregation of total estimated fluxes on Managed Lands 
+into anthropogenic and natural Disturbance components 
+NG 
+ 
+2.2l 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 3 CONSISTENT REPRESENTATION OF LANDS 
+In this chapter updates (U) and new guidance (NG) were introduced to provide a sound scientific basis for 
+representing land area, land-use change and related emissions and removals in the AFOLU sector. It treats 
+specifically how to combine different data sources and types of information (with a special focus on Remoting 
+Sensing (RS) data and products), the coherence between national land-use classification systems and IPCC land-
+use categories, uncertainty and accuracy of activity data, and the specificities of RS data.  
+Sections 
+ While No Refinement was mandated, an elaboration is introduced in Section 3.1 to outline the main steps 
+necessary to achieve consistent representation of lands at the national level for inventory purposes. The steps 
+are detailed in following sections. 
+ In Section 3.2 elaborations were introduced to further explain the terms “land-use” and “land cover”; the 
+consistency of national definitions with the IPCC land-use categories; the total area (managed and 
+unmanaged) consistency through the reporting period and to provide further guidance on assigning IPCC 
+land-use and land-use change categories. 
+ In Section 3.3. the 2006 text has been reviewed and refined to elaborate guidance on how to integrate 
+different data types and sources for the consistent representation of lands, in order to improve transparency, 
+consistency and accuracy of land-use, land-use change and related GHG emissions and removals estimates. 
+The refinement includes new guidance on how to combine the data, how to derive IPCC land-use categories 
+(including land-use classification and stratification processes) and tracking and distinguishing land-use 
+changes. 
+ Section 3.4 provide new guidance on how to use, combine and integrate different approaches and tiers to 
+derive consistent emissions and removals estimated from land-use change. A special reference is made to the 
+use of biomass maps. 
+ Even though “No Refinement” was mandated in Section 3.5 authors have decided to include the proposed 
+refinement on Activity Data uncertainty in this section. The elaborated text in this Section is to be read in 
+conjunction with Vol. 1_Ch 3 Uncertainties. 
+ Annex 3.A.1 has been updated with new land-use datasets 
+ Annex 3.A.2 have been refined, including the elaboration and updating of the existing text (e.g. RS data 
+preprocessing and classification methods) and new guidance on time series consistency in data processing). 
+ In Annex 3.A.5 only Figure 3.A.5.1 have being updated (Delineation of major climate zones, updated from 
+the 2006 IPCC Guidelines). 
+ An additional Annex (3A.6) was introduced (as part of the elaboration made in section 3.3.3) to provide an 
+example of a process for allocating lands to IPCC land-use classes using Approach 3 wall-to-wall methods 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+U 
+3.1 
+3.1 
+Land use categories 
+U 
+3.2 
+3.2 
+Representing land areas 
+U 
+3.3 
+3.3 
+Three approaches 
+U 
+3.3.1 
+3.3.1 
+Data for land representation 
+U 
+3.3.2 
+3.3.2 
+Methods for land-use and land-use change estimation 
+NG 
+- 
+3.3.3 
+Combining multiple data sources 
+NG 
+- 
+3.3.4 
+Derivation of IPCC land-use categories from land cover 
+information 
+NG 
+- 
+3.3.5 
+Stratification of land-use data 
+U,NG 
+3.3.2.1 
+3.3.6 
+Preparing are data for emissions and removals 
+NR 
+3.3.2.2 
+3.3.7 
+Matching land areas with factors for estimating greenhouse 
+gas emissions and removals 
+NR 
+3.4 
+3.4 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.11 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Use of different approaches and methodological tiers when 
+estimating emissions and removals due to land-use change 
+NG 
+- 
+3.4.1 
+Uncertainties associated with the Approaches 
+U 
+3.5 
+3.5 
+Examples of international land cover dataset 
+U 
+ 3A.1 
+ 3A.1 
+Development of land-use databases 
+U 
+ 3A.2 
+ 3A.2 
+Sampling 
+NR 
+ 3A.3 
+ 3A.3 
+Overview of potential methods for developing Approach 3 
+datasets 
+NR 
+ 3A.4 
+ 3A.4 
+Default climate and soil classifications 
+U 
+ 3A.5 
+ 3A.5 
+Example process for allocating lands to IPCC land-use 
+classes using Approach 3 wall-to-wall methods 
+NG 
+--- 
+ 3A.6 
+Equations 
+ No refinement 
+Tables 
+ A new Table 3.6A is provided with some examples of different data inputs and methods to derive IPCCC 
+land-use classes and the resulting approach. 
+ A new Table 3.6B is provided with examples of auxiliary data and possible assumptions that can help to 
+determine and stratify land-use. 
+ Table 3.A.1.1. was updated with examples of global land cover datasets in 2017 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Example stratifications with supporting data for Tier 1 
+emissions estimation methods 
+NR 
+3.1 
+3.1 
+Example of Approach 1: Available land use data with 
+complete national coverage 
+NR 
+3.2 
+3.2 
+Illustrative example of stratification of data for Approach 1 
+NR 
+3.3 
+3.3 
+Illustrative example of tabulating all land-use conversion for 
+Approach 2 including nationally defined Strata 
+NR 
+3.4 
+3.4 
+Illustrative example of Approach 2 data in a land-use 
+conversion matrix with category stratification 
+NR 
+3.5 
+3.5 
+Simplified land-use conversion matrix for Approach 2 
+example 
+NR 
+3.6 
+3.6 
+Examples of different data inputs and methods to derive 
+IPCC land-use classes and the resulting approaches (1,2 or 3) 
+NG 
+- 
+3.6a 
+Examples of auxiliary data and possible assumptions that can 
+help to determine and stratify land-use 
+NG 
+- 
+3.6b 
+Summary of uncertainties under Approaches 1 to 3 
+NR 
+3.7 
+3.7 
+Examples of international land cover dataset 
+U 
+3.A.1.1 
+3.A.1.1 
+Example of area estimation via proportions 
+NR 
+3.A.3.1 
+3.A.3.1 
+Figures 
+ The default climate classification provided in Figure 3A.5.1 has been updated using the classification scheme 
+shown in Figure 3A.5.2 based on the gridded Climate Research Unit (CRU) Time Series (TS) monthly 
+climate data for the period from 1985 to 2015. 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ A new Figure 3A.6.1 was introduced representing a decision tree for allocating lands to the IPCC land-use 
+categories when using Approach 3 wall-to-wall methods (i.e., where every land unit is assumed to have 
+information on land cover over time). This method may also be applicable for some sample-based methods.  
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Decision tree for preparation of land-use area data 
+NR 
+3.1 
+3.1 
+Principle of sampling 
+NR 
+3.A.3.1 
+3.A.3.1 
+Simple random layout of plots (left) and systematic layout 
+(right) 
+NR 
+3.A.3.2 
+3.A.3.2 
+Use of different configurations of permanent and temporary 
+sampling units for estimating changes 
+NR 
+3.A.3.3 
+3.A.3.3 
+Overview of Approach 3: Direct and repeated assessments of 
+land use from full spatial coverage 
+NR 
+3.A.4.1 
+3.A.4.1 
+Delineation of major climate zones, updated from the 2006 
+IPCC Guidelines 
+U 
+3.A.5.1 
+3.A.5.1 
+Classification scheme for default climate regions. The 
+classification is based on elevation, mean annual temperature 
+(MAT), mean annual precipitation (MAP), mean annual 
+precipitation to potential evapotransporation ratio 
+(MAP:PET), and frost occurrence 
+NR 
+3.A.5.2 
+3.A.5.2 
+Classification scheme for mineral soil types based on USDA 
+taxonomy 
+NR 
+3.A.5.3 
+3.A.5.3 
+Classification scheme for mineral soil types based on World 
+Reference Base for Soil Resources (WRB) classification 
+NR 
+3.A.5.4 
+3.A.5.4 
+Decision tree for classifying land-use and land-use change 
+through time in Approach 3 
+NG 
+- 
+3.A.6.1 
+Boxes 
+ Box 3.1A provides examples of auxiliary data required when land cover change information is used, to 
+allocate land cover change to the underlying cause of disturbance and to assign lands to the IPCC land-use 
+categories through time. 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+Examples of assigning IPCC land-use and land-use change 
+categories 
+NG 
+- 
+3.1A 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.13 
+CHAPTER 4 FOREST LANDS 
+Refinements in this chapter include updates to default factors for biomass, additional guidance on application of 
+methods to estimate soil C stock changes and time series consistency. There are no refinements to the guidance 
+on dead organic matter or non-CO2 greenhouse gas emissions from biomass burning. 
+Sections 
+ Section 4.2.3 is updated with current understanding of soil C changes deeper in the soil profile abased on a 
+review of the scientific literature. The level of stratification is also clarified for different tiers. 
+ Section 4.2.3.1 is refined with discussion on the limited scientific basis for quantification of effects of forest 
+management.  This is reason that default stock change factors are not provided in this chapter for 
+management impacts on soil C stocks.  
+ Section 4.2.3.2 provides new guidance on developing Tier 2 stock change factors for forest land in Box 4.3A. 
+Discussion is provided about soil depth for Tier 2 methods. Application of mass-equivalency methods is 
+clarified in accordance with updates in Chapter 2. 
+ Section 4.2.3.3 provides guidance for Tier 2 activity data with regard to forest land management. 
+ Section 4.2.3.5 is refined with new guidance on uncertainty assessments for Tier 3. 
+ Section 4.3.3.2 includes refinements with additional guidance on developing Tier 2 reference C stocks in 
+accordance with Chapter 2, and mass equivalency is discussed. 
+ Section 4.3.3.3 has new discussion about the implications of the type of activity data for land-use change, 
+consistent with Chapter 2. 
+ Section 4.4.2 further guidance on time series consistency is provided on how to ensure methodological 
+consistency in the case of the Forest Land category for gap filling and extrapolation. 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+4.1 
+4.1 
+Forest Land Remaining Forest Land 
+NR 
+4.2 
+4.2 
+Biomass 
+NR 
+4.2.1 
+4.2.1 
+Choice of method 
+NR 
+4.2.1.1 
+4.2.1.1 
+Choice of emission factors 
+NR 
+4.2.1.2 
+4.2.1.2 
+Choice of activity data 
+NR 
+4.2.1.3 
+4.2.1.3 
+Calculations steps for Tier 1 
+NR 
+4.2.1.4 
+4.2.1.4 
+Uncertainty assessment 
+NR 
+4.2.1.5 
+4.2.1.5 
+Dead organic matter 
+NR 
+4.2.2 
+4.2.2 
+Choice of method 
+NR 
+4.2.2.1 
+4.2.2.1 
+Choice of emission/removal factors 
+NR 
+4.2.2.2 
+4.2.2.2 
+Choice of activity data 
+NR 
+4.2.2.3 
+4.2.2.3 
+Calculations steps for Tier 1 
+NR 
+4.2.2.4 
+4.2.2.4 
+Uncertainty assessment 
+NR 
+4.2.2.5 
+4.2.2.5 
+Soil carbon 
+U 
+4.2.3 
+4.2.3 
+Choice of method 
+U 
+4.2.3.1 
+4.2.3.1 
+Choice of stock change and emission factors 
+U 
+4.2.3.2 
+4.2.3.2 
+Choice of activity data 
+U 
+4.2.3.3 
+4.2.3.3 
+Calculations steps for Tier 1 
+NR 
+4.2.3.4 
+4.2.3.4 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Uncertainty assessment 
+U 
+4.2.3.5 
+4.2.3.5 
+Non-CO2 greenhouse gas emissions from biomass burning 
+NR 
+4.2.4 
+4.2.4 
+Choice of method 
+NR 
+4.2.4.1 
+4.2.4.1 
+Choice of emission factors 
+NR 
+4.2.4.2 
+4.2.4.2 
+Choice of activity data 
+NR 
+4.2.4.3 
+4.2.4.3 
+Uncertainty assessment 
+NR 
+4.2.4.4 
+4.2.4.4 
+Land Converted to Forest Land 
+NR 
+4.3 
+4.3 
+Biomass 
+NR 
+4.3.1 
+4.3.1 
+Choice of method 
+NR 
+4.3.1.1 
+4.3.1.1 
+Choice of emission factors 
+NR 
+4.3.1.2 
+4.3.1.2 
+Choice of activity data 
+NR 
+4.3.1.3 
+4.3.1.3 
+Calculations steps for Tier 1 
+NR 
+4.3.1.4 
+4.3.1.4 
+Uncertainty assessment 
+NR 
+4.3.1.5 
+4.3.1.5 
+Dead organic matter 
+NR 
+4.3.2 
+4.3.2 
+Choice of method 
+NR 
+4.3.2.1 
+4.3.2.1 
+Choice of emission/removal factors 
+NR 
+4.3.2.2 
+4.3.2.2 
+Choice of activity data 
+NR 
+4.3.2.3 
+4.3.2.3 
+Calculations steps for Tier 1 
+NR 
+4.3.2.4 
+4.3.2.4 
+Uncertainty assessment 
+NR 
+4.3.2.5 
+4.3.2.5 
+Soil carbon 
+U 
+4.3.3 
+4.3.3 
+Choice of methods 
+NR 
+4.3.3.1 
+4.3.3.1 
+Choice of stock change and emission factors 
+U 
+4.3.3.2 
+4.3.3.2 
+Choice of activity data 
+U 
+4.3.3.3 
+4.3.3.3 
+Calculations steps for Tier 1 
+NR 
+4.3.3.4 
+4.3.3.4 
+Uncertainty assessment 
+NR 
+4.3.3.5 
+4.3.3.5 
+Non-CO2 greenhouse gas emissions from biomass burning 
+NR 
+4.3.4 
+4.3.4 
+Completeness, time series, QA/QC, and reporting 
+NR 
+4.4 
+4.4 
+Completeness 
+NR 
+4.4.1 
+4.4.1 
+Developing a consistent time series 
+U 
+4.4.2 
+4.4.2 
+Quality assurance and quality control 
+NR 
+4.4.3 
+4.4.3 
+Reporting and documentation 
+NR 
+4.4.4 
+4.4.4 
+Tables 
+U 
+4.5 
+4.5 
+Glossary for Forest Land 
+NR 
+ 4A-1 
+ 4A-1 
+Equations 
+ No refinement. 
+Tables 
+ Table 4.4 has updated values for ratio of below-ground biomass to above-ground biomass. 
+ Table 4.7 has updated values for above-ground biomass in natural forests. 
+ Table 4.8 has updated values for above-ground biomass in forest plantations. 
+ Table 4.9 has updated values for above-ground net biomass growth in natural forests. 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.15 
+ Table 4.10 has updated values for above-ground net biomass growth in tropical and sub-tropical plantation 
+forests.  
+ Table 4.11 has updated values for reported mean annual increment (growth rate of merchantable volume) for 
+some plantation forest species, and replace former Table 4.11A and 4.11B from the 2006 IPCC Guidelines. 
+ Table 4.12 has updated values from tables 7.7-4-10. 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Climate domains (FAO, 2001), climate regions (Chapter 3), 
+and ecological zones (FAO 2001) 
+NR 
+4.1 
+4.1 
+Forest and land cover classes 
+NR 
+4.2 
+4.2 
+Carbon fraction of aboveground forest biomass 
+NR 
+4.3 
+4.3 
+Ratio of below-ground biomass to above-ground biomass (R) 
+U 
+4.4 
+4.4 
+Default biomass conversion and expansion factors (BCEF), 
+tonnes biomass (m3 of wood volume)-1 
+NR 
+4.5 
+4.5 
+Emission factors for drained organic soils in managed forests 
+NR 
+4.6 
+4.6 
+Above-ground biomass in natural forests 
+U 
+4.7 
+4.7 
+Above-ground biomass in forest plantations 
+U 
+4.8 
+4.8 
+Above-ground net biomass growth in natural forests 
+U 
+4.9 
+4.9 
+Above-ground net biomass growth in tropical and sub-
+tropical plantation forests 
+U 
+4.10 
+4.10 
+Reported Mean Annual Increment (growth rate of 
+merchantable volume) values for some plantation forest 
+species [m3 ha-1 yr-1] 
+U 
+4.11a, 4.11b 
+4.11 
+Tier 1 estimated biomass values from Tables 4.7–4.11 
+U 
+4.12 
+4.12 
+Basic wood density (D) of tropical tree species 
+NR 
+4.13 
+4.13 
+Basic wood density (D) of selected temperate and boreal tree 
+taxa 
+NR 
+4.14 
+4.14 
+Figures 
+ No refinement. 
+Boxes 
+ Box 4.3a provides guidance for developing Tier 2 stock change factors for soil C.  
+ Box 4.3b provides example of how compilers may address forest data gaps. 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Levels of detail 
+NR 
+4.1 
+4.1 
+Biomass conversion and expansion factors for assessing 
+biomass and carbon in forests 
+NR 
+4.2 
+4.2 
+Examples of good practice approach in identification of lands 
+converted to Forest Land 
+NR 
+4.3 
+4.3 
+Developing Tier 2 stock change factors for forest lands 
+NG 
+- 
+4.3a 
+Example of resolving forest data gaps through extrapolation 
+based on functional relationships 
+NG 
+- 
+4.3b 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 5 CROPLANDS 
+Refinements in this chapter are associated with biomass and soil C sections, in addition to the rice cultivation 
+section of the guidance.  There are no refinements to the guidance for dead organic matter or non-CO2 
+greenhouse gas emissions from biomass burning. 
+The biomass C section refined guidance for Tier 1 methodologies for Croplands remaining Croplands by 
+clarifying how to use default factors for perennial crops above-ground woody biomass growth rate; and biomass 
+losses from removal, fuelwood and disturbance. The section also provides updated default factors, additional 
+examples of perennial cropland subcategories, and guidance on activity data required for carbon gain estimation.  
+There is also guidance on how to calculate ΔCG for Land converted to Cropland, and updated carbon stocks 
+default factors for present stocks after a year of conversion and updated the references to Chapter 4 and 6 for 
+carbon stocks removed by the conversion. 
+Refinements in the soil C sections is associated with updates to default factors, additional guidance on 
+developing Tier 2 stock change factors, new Tier 2 steady state method that can be used to estimate country-
+specific stock change factors, and guidance for estimating the impact of biochar C amendments on C stocks in 
+mineral soils.  There has been new research on land use change and tillage management since the 2006 IPCC 
+Guidelines was published that informed the derivation of new stock change factors. The updated factors are 
+based on a new literature review and analysis for land use factors including long-term cultivation, paddy rice 
+cultivation, and perennial woody crops, in addition to tillage management factors. See Annex 5A.1 for methods 
+that have been used to develop the new factors. The Tier 2 steady-state method provides an alternative method 
+for compilers to develop country-specific stock change factors. The activity data requirements of this method are 
+different and from the default method and may provide an opportunity for some countries to conduct an 
+inventory of soil C stock changes in mineral soils of croplands that is not feasible with the default method due to 
+the activity data requirements. Biochar C has been intensively studied over the past decade and provided the 
+basis for development of a Tier 2 method.   
+Refinements to estimation of CH4 emissions from rice cultivation include updates on the following: (i) baseline 
+emission factor (EFc) at a global scale (with new default values at regional scale); (ii) scaling factors for water 
+regimes before and during the cultivation periods; and (iii) default conversion factors for different types of 
+organic amendments. A new table on default cultivation periods, at global and regional scales, is provided, and a 
+new section showing an example of how to implement the Tier 1 method. Also included is a new box on good 
+practice guidance for developing EFc.  
+Sections 
+ Section 5.2.1 provides refinements associated with updated factors for coefficients for above and below 
+ground biomass and above-ground for harvest cycles in agroforestry systems, and biomass accumulation 
+rates for perennial cropland monocultures to estimate biomass, and further refinement to the Tier 1 methods 
+description based on the updated default factors. The guidance on activity data has also been updated.  
+ Section 5.2.3 has new stock change factors based on a review of the land use and tillage studies. An annex 
+has been updated with details about how the default stock change factors have been estimated. There is also a 
+new steady-state method that has been added as an alternative approach for developing country-specific stock 
+change factors.  The updates include parameters are provided for the new steady-state method, and  an annex 
+describing the parameterisation method. This section has new guidance on a Tier 2 method to estimate the 
+impact of biochar C amendments on soils in croplands. Guidance is also provided on the activity data 
+requirements for biochar C and steady-state methods. 
+ Section 5.3.1 includes clarification on how to estimate biomass resulting from the Land conversion to 
+croplands using Tier 1 methodologies. The section also updates the references to the updated tables in the 
+chapter 5 and updated tables contained in other chapters (4 and 6) to find the appropriated default factors for 
+carbon stocks present after the conversion and the carbon stocks removed by the conversion. In addition, 
+provides further guidance on how to deal with conversion of Forest Lands to Croplands for Tier 2 
+methodologies. 
+ Section 5.5 with guidance on rice cultivation has been updated by revising the equation to estimate the 
+“Adjusted Daily Emission Factor”. Two equations are provided to estimate this factor: the first equation is 
+applicable to Tier 1, while the second equation is for Tier 2. Description of the Tier 2 method has been 
+updated as appropriate. Examples are listed with references for countries that have used Tier 3 methods for 
+reporting CH4 emissions from rice cultivation. Updates to emission and scaling factors include default 
+cultivation periods, and a new water regime for the scaling factor, SFp (before cultivation period) has been 
+added and the scope of its application is further refined, particularly with regard to methane emissions that 
+occur before the cultivation period and after harvest. For Tier 2 factors, a reference has been added to Box 
+5.1A about how to develop a baseline emission factor for rice cultivation. A new Annex 5A.2 is included to 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.17 
+fully describe the background for developing the default emission factors and scaling factors for methane 
+emission from paddy field. A new Section 5.5.4 has been added to provide an example of how to calculate 
+methane emission from rice using the Tier 1 method.  The section on Uncertainty Assessment has been 
+updated with information on the conditions that influence methane emission and scaling factors, and how 
+uncertainty can be reduced. 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+5.1 
+5.1 
+Cropland Remaining Cropland 
+NR 
+5.2 
+5.2 
+Biomass 
+U 
+5.2.1 
+5.2.1 
+Choice of methods 
+U 
+5.2.1.1 
+5.2.2.1 
+Choice of emission factors 
+U 
+5.2.1.2 
+5.2.1.2 
+Choice of activity data 
+U 
+5.2.1.3 
+5.2.1.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+5.2.1.4 
+5.2.1.4 
+Uncertainty assessment 
+NR 
+5.2.1.5 
+5.2.1.5 
+Dead organic matter 
+NR 
+5.2.2 
+5.2.2 
+Choice of methods 
+NR 
+5.2.2.1 
+5.2.2.1 
+Choice of emission/removal factors 
+NR 
+5.2.2.2 
+5.2.2.2 
+Choice of activity data 
+NR 
+5.2.2.3 
+5.2.2.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+5.2.2.4 
+5.2.2.4 
+Uncertainty assessment 
+NR 
+5.2.2.5 
+5.2.2.5 
+Soil carbon 
+NR 
+5.2.3 
+5.2.3 
+Choice of methods 
+U 
+5.2.3.1 
+5.2.3.1 
+Choice of stock change and emission factors 
+U 
+5.2.3.2 
+5.2.3.2 
+Choice of activity data 
+U 
+5.2.3.3 
+5.2.3.3 
+Calculations steps for Tier 1 
+U 
+5.2.3.4 
+5.2.3.4 
+Uncertainty assessment 
+NR 
+5.2.3.5 
+5.2.3.5 
+Non-CO2 greenhouse gas emissions from biomass burning 
+NR 
+5.2.4 
+5.2.4 
+Choice of methods 
+NR 
+5.2.4.1 
+5.2.4.1 
+Choice of emission factors 
+NR 
+5.2.4.2 
+5.2.4.2 
+Choice of activity data 
+NR 
+5.2.4.3 
+5.2.4.3 
+Uncertainty assessment 
+NR 
+5.2.4.4 
+5.2.4.4 
+Land Converted to Cropland 
+U 
+5.3 
+5.3 
+Biomass 
+U 
+5.3.1 
+5.3.1 
+Choice of methods 
+U 
+5.3.1.1 
+5.3.1.1 
+Choice of emission factors 
+U 
+5.3.1.2 
+5.3.1.2 
+Choice of activity data 
+U 
+5.3.1.3 
+5.3.1.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+5.3.1.4 
+5.3.1.4 
+Uncertainty assessment 
+NR 
+5.3.1.5 
+5.3.1.5 
+Dead organic matter 
+NR 
+5.3.2 
+5.3.2 
+Choice of methods 
+NR 
+5.3.2.1 
+5.3.2.1 
+Choice of emission/removal factors 
+NR 
+5.3.2.2 
+5.3.2.2 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Choice of activity data 
+NR 
+5.3.2.3 
+5.3.2.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+5.3.2.4 
+5.3.2.4 
+Uncertainty assessment 
+NR 
+5.3.2.5 
+5.3.2.5 
+Soil carbon 
+NR 
+5.3.3 
+5.3.3 
+Choice of methods 
+U 
+5.3.3.1 
+5.3.3.1 
+Choice of stock change and emission factors 
+U 
+5.3.3.2 
+5.3.3.2 
+Choice of activity data 
+U 
+5.3.3.3 
+5.3.3.3 
+Calculations steps for Tier 1 
+U 
+5.3.3.4 
+5.3.3.4 
+Uncertainty assessment 
+NR 
+5.3.3.5 
+5.3.3.5 
+Non-CO2 greenhouse gas emissions from biomass burning 
+NR 
+5.3.4 
+5.3.4 
+Choice of methods 
+NR 
+5.3.4.1 
+5.3.4.1 
+Choice of emission factors 
+NR 
+5.3.4.2 
+5.3.4.2 
+Choice of activity data 
+NR 
+5.3.4.3 
+5.3.4.3 
+Uncertainty assessment 
+NR 
+5.3.4.4 
+5.3.4.4 
+Completeness, time series, QA/QC, and reporting 
+NR 
+5.4 
+5.4 
+Completeness 
+NR 
+5.4.1 
+5.4.1 
+Developing a consistent time series 
+NR 
+5.4.2 
+5.4.2 
+Quality assurance and quality control 
+NR 
+5.4.3 
+5.4.3 
+Reporting and documentation 
+NR 
+5.4.4 
+5.4.4 
+Methane emissions from rice cultivation 
+NR 
+5.5 
+5.5 
+Choice of methods 
+U 
+5.5.1 
+5.5.1 
+Choice of emission factors 
+U 
+5.5.2 
+5.5.2 
+Choice of activity data 
+NR 
+5.5.3 
+5.5.3 
+Example calculation for Tier 1 
+NG 
+- 
+5.5.4 
+Uncertainty assessment 
+U 
+5.5.4 
+5.5.5 
+Completeness, time series, QA/QC, and reporting 
+NR 
+5.5.5 
+5.5.6 
+Estimation of default stock change factors for mineral soil C 
+emissions/removals for cropland 
+U 
+ 5A.1 
+ 5A.1 
+Estimation of Default Emission Factors and Scaling Factors 
+for CH4 Emission from Rice Cultivation 
+NG 
+- 
+ 5A.2 
+Parameterisation of the Tier 2 – Steady State Method for 
+Mineral Soils 
+NG 
+- 
+ 5A.3 
+Equations 
+ Equations 5.0A to 5.0H are added to estimate country-specific C stock change factors for mineral soils based 
+on the steady state method.  These questions include methods for estimating the C input from cropland litter 
+and organic matter to soils.   
+ Equations 5.2 and 5.2A are provided for estimating “Adjusted Daily Emission Factor” for Tier 1 and 2 
+methods.  
+ Equations 5A.2.1 and 5A.2.2 are added in Annex 5A.2.2 to show the relationship of methane flux with 
+controlling factors; and (ii) to improve the transparency on how the default emission factor have been derived 
+for continuously flooded rice fields. 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.19 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation Number 
+2019 Refinement 
+Equation Number 
+Annual change in soil C stock for mineral soils using the 
+Steady State Method 
+NG 
+- 
+5.0a 
+Active Sub-Pool Soil C Stock for Mineral Soils using the 
+Steady-State Method 
+NG 
+- 
+5.0b 
+Slow Sub-Pool Soil C Stock for Mineral Soils using the 
+Steady-State Method 
+NG 
+- 
+5.0c 
+Passive Sub-Pool Soil C Stock for Mineral Soils using the 
+Steady-State Method 
+NG 
+- 
+5.0d 
+Temperature Effect on Decomposition for Mineral Soils 
+using the Steady-State Method 
+NG 
+- 
+5.0e 
+Water Effect on Decomposition for Mineral Soils using 
+the Steady-State Method 
+NG 
+- 
+5.0f 
+C Input to the Active Soil C Sub-Pool for Mineral Soils 
+using the Steady-State Method 
+NG 
+- 
+5.0g 
+Cropland C input to Soil for Steady-State Method 
+NG 
+- 
+5.0h 
+CH4 emissions from rice cultivation 
+NR 
+5.1 
+5.1 
+Adjusted daily emission factor (Tier 1) 
+U 
+5.2 
+5.2 
+Adjusted daily emission factor (Tier 2) 
+NG 
+5.2a 
+5.2a 
+Adjusted CH4 emission scaling factors for organic 
+amendments 
+NR 
+5.3 
+5.3 
+Effect of controlling variables on CH4 flux from rice 
+fields 
+NG 
+- 
+5A.2.1 
+Default emission factor for continuously flooded Rice 
+Fields 
+NG 
+- 
+5A.2.2 
+Tables 
+ Tables 5.1, 5.2 and 5.3 have updated default biomass parameters of biomass stocks and growth rates. 
+ Table 5.4 has been updated with more information about the classification of agroforestry systems. 
+ Tables 5.8 and Table 5.9 include updated factors for biomass estimation, and more complete information on 
+how to use BBefore to be consistent with assumptions in other chapters.  
+ Table 5.5 has updated stock changes factors for land use change and tillage management factors for the Tier 
+1 method to estimate soil C stock changes in mineral soils. 
+ Table 5.5B and 5.5C provide lignin and nitrogen content values for crops and organic amendments (i.e., 
+manure), which is needed for the Tier 2 steady-state method for mineral soils. 
+ Table 5.11 provides baseline emission factor (assuming no flooding for less than 180 days prior to rice 
+cultivation, and continuously flooded during rice cultivation without organic amendments); 
+ Table 5.12 provides updated scaling factors for water regimes during the cultivation period relative to 
+continuously flooded fields 
+ Table 5.13 provides updated scaling factors for water regimes before the cultivation period 
+ Table 5.14 provides updated factors on conversion factor for different types of organic amendment 
+ Tables 5.14A, 5.14B and 5.14C provide an example calculation of methane emissions from rice cultivation. 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Default coefficients for above-ground biomass and 
+harvest/maturity cycles in agroforestry systems containing 
+perennial species 
+U 
+5.1 
+5.1 
+Default coefficients for above- and below-ground biomass in 
+agroforestry systems containing perennial species 
+U 
+5.2 
+5.3 
+Default maximum and time-averaged mean above-ground 
+biomass and above ground biomass accumulation rate for 
+perennial cropland monocultures (tonnes ha-1) 
+U 
+5.3 
+5.3 
+Examples of Classification of agroforestry system 
+U 
+5.4 
+5.4 
+Relative stock change factors (FLU, FMG, and FI) (over 20 years) 
+for different management activities on cropland 
+U 
+5.5 
+5.5 
+Globally calibrated model parameters to be used to estimate soil 
+C stock Changes for Mineral Soils with the Tier 2 Steady-State 
+Method 
+NG 
+- 
+5.5a 
+Default values for Nitrogen and Lignin Contents in Crops for 
+Steady-State C Model 
+NG 
+- 
+5.5b 
+Default values for carbon to nitrogen ratios, nitrogen, and lignin 
+contents in livestock manure for the steady-state method 
+NG 
+- 
+5.5c 
+Annual emission factors (EF) for cultivated organic soils 
+NR 
+5.6 
+5.6 
+Example of a simple disturbance matrix (Tier 2) for the impacts 
+of land conversion activities on carbon pools 
+NR 
+5.7 
+5.7 
+Default biomass carbon stocks removed due to land conversion 
+to cropland 
+U 
+5.8 
+5.8 
+Default biomass carbon stocks present on Land Converted to 
+Cropland in the year following conversion 
+U 
+5.9 
+5.9 
+Soil stock change factors (FLU, FMG, FI) for land-use conversions 
+to Cropland 
+NR 
+5.10 
+5.10 
+Default CH4 baseline emission factor assuming no flooding for 
+less than 180 days prior to rice cultivation, and continuously 
+flooded during rice cultivation without organic amendments 
+U 
+5.11 
+5.11 
+Default Cultivation Period of Rice 
+NG 
+- 
+5.11a 
+Default CH4 emission scaling factors for water regimes during 
+the cultivation period relative to continuously flooded fields 
+U 
+5.12 
+5.12 
+Default CH4 emission scaling factors for water regimes before 
+the cultivation period 
+U 
+5.13 
+5.13 
+Default conversion factor for different types of organic 
+amendment 
+U 
+5.14 
+5.14 
+Calculation for total harvested area 
+NG 
+- 
+5.14a 
+Calculation for adjusted daily emission factor 
+NG 
+- 
+5.14b 
+Calculation for total methane emission from Rice Cultivation 
+NG 
+- 
+5.14c 
+Description of the selected variables that control CH4 
+emissions from rice fields 
+NG 
+- 
+5A.2-1 
+Studies that were used to evaluate the model sensitivities and 
+parameterise the Tier 2 steady state method for mineral soils 
+NG 
+- 
+5A.3-1 
+Sensitivity of Model Parameters, Parameter Values and 
+minimum and maximum values for the Tier 2 steady state 
+method for mineral soils 
+NG 
+- 
+5A.3-2 
+Covariance Matrix for the Tier2 Steady state method for mineral 
+soils 
+NG 
+- 
+5A.3-3 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.21 
+Figures 
+ No refinement. 
+Boxes 
+ Boxes 5.1A and 5.1B provide discussion about the basis for the Tier 2 steady-state method and a description 
+of the method.  
+ Table 5.2A provides guidance for developing Tier 2 emission factors associated with rice cultivation. 
+ Box 5.2 is updated by adding new references for research findings on the effects of water management and 
+organic amendment on methane emissions from rice cultivation. 
+ Box 5.2A is added to describe in detail good practice guidance for developing baseline emission factor (EFc) 
+for methane emissions from rice cultivation. 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Relevant carbon pools for cropland 
+NR 
+5.1 
+5.1 
+Understanding the basis for the Tier 2 steady- state method 
+NG 
+- 
+5.1a 
+Description of the Tier 2 steady-state method for estimating 
+mineral soil organic carbon stock changes 
+NG 
+- 
+5.1b 
+Conditions influencing CH4 emissions from rice cultivation 
+NR 
+5.2 
+5.2  
+Good Practice Guidance for Developing Baseline Emission 
+Factor (EFC) for Methane Emission from Rice Cultivation 
+NG 
+- 
+5.2a 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 6 GRASSLANDS 
+Refinements in this chapter are all associated with the soil C section of the guidance. The refinements include a 
+new classification scheme for grazing management systems, updates to the guidance for Tier 2 methods in the 
+soil section, and guidance for estimating the impact of biochar C amendments on C stocks in mineral soils. The 
+refinement to the grazing management system is associated with introducing a management system with high 
+intensity grazing to replace moderately degraded systems. Classifying high intensity grazing is more objective 
+and can be determined from local grassland production in many countries.  In addition, more studies are 
+available to estimate the impact of high intensity grazing compared to moderately degraded systems.  Biochar C 
+has been intensively studied over the past decade and provided the basis for development of a Tier 2 method for 
+grasslands. 
+There are no refinements to the guidance on biomass, dead organic matter, or non-CO2 greenhouse gas emissions 
+from biomass burning. 
+Sections 
+ Sections 6.2.3 and 6.3.3 with new guidance for estimating changes in soil C for mineral soils. The updates 
+include a revision to the classification for management systems and new management factors. There is also 
+new guidance on a Tier 2 method to estimate the impact of biochar C amendments on soils in grassland. 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+6.1 
+6.1 
+Grassland Remaining Grassland 
+NR 
+6.2 
+6.2 
+Biomass 
+NR 
+6.2.1 
+6.2.1 
+Choice of methods 
+NR 
+6.2.1.1 
+6.2.1.1 
+Choice of emission factors 
+NR 
+6.2.1.2 
+6.2.1.2 
+Choice of activity data 
+NR 
+6.2.1.3 
+6.2.1.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+6.2.1.4 
+6.2.1.4 
+Uncertainty assessment 
+NR 
+6.2.1.5 
+6.2.1.5 
+Dead organic matter 
+NR 
+6.2.2 
+6.2.2 
+Choice of methods 
+NR 
+6.2.2.1 
+6.2.2.1 
+Choice of emission/removal factors 
+NR 
+6.2.2.2 
+6.2.2.2 
+Choice of activity data 
+NR 
+6.2.2.3 
+6.2.2.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+6.2.2.4 
+6.2.2.4 
+Uncertainty assessment 
+NR 
+6.2.2.5 
+6.2.2.5 
+Soil carbon 
+NR 
+6.2.3 
+6.2.3 
+Choice of methods 
+U 
+6.2.3.1 
+6.2.3.1 
+Choice of stock change and emission factors 
+U 
+6.2.3.2 
+6.2.3.2 
+Choice of activity data 
+U 
+6.2.3.3 
+6.2.3.3 
+Calculations steps for Tier 1 
+U 
+6.2.3.4 
+6.2.3.4 
+Uncertainty assessment 
+NR 
+6.2.3.5 
+6.2.3.5 
+Non-CO2 greenhouse gas emissions from biomass burning 
+NR 
+6.2.4 
+6.2.4 
+Choice of methods 
+NR 
+6.2.4.1 
+6.2.4.1 
+Choice of emission factors 
+NR 
+6.2.4.2 
+6.2.4.2 
+Choice of activity data 
+NR 
+6.2.4.3 
+6.2.4.3 
+Uncertainty assessment 
+NR 
+6.2.4.4 
+6.2.4.4 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.23 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Land Converted to Grassland 
+NR 
+6.3 
+6.3 
+Biomass 
+NR 
+6.3.1 
+6.3.1 
+Choice of methods 
+NR 
+6.3.1.1 
+6.3.1.1 
+Choice of emission factors 
+NR 
+6.3.1.2 
+6.3.1.2 
+Choice of activity data 
+NR 
+6.3.1.3 
+6.3.1.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+6.3.1.4 
+6.3.1.4 
+Uncertainty assessment 
+NR 
+6.3.1.5 
+6.3.1.5 
+Dead organic matter 
+NR 
+6.3.2 
+6.3.2 
+Choice of methods 
+NR 
+6.3.2.1 
+6.3.2.1 
+Choice of emission/removal factors 
+NR 
+6.3.2.2 
+6.3.2.2 
+Choice of activity data 
+NR 
+6.3.2.3 
+6.3.2.3 
+Calculations steps for Tier 1 and Tier 2 
+NR 
+6.3.2.4 
+6.3.2.4 
+Uncertainty assessment 
+NR 
+6.3.2.5 
+6.3.2.5 
+Soil carbon 
+NR 
+6.3.3 
+6.3.3 
+Choice of methods 
+U 
+6.3.3.1 
+6.3.3.1 
+Choice of stock change and emission factors 
+U 
+6.3.3.2 
+6.3.3.2 
+Choice of activity data 
+U 
+6.3.3.3 
+6.3.3.3 
+Calculations steps for Tier 1 
+U 
+6.3.3.4 
+6.3.3.4 
+Uncertainty assessment 
+NR 
+6.3.3.5 
+6.3.3.5 
+Non-CO2 greenhouse gas emissions from biomass burning 
+NR 
+6.3.4 
+6.3.4 
+Choice of methods 
+NR 
+6.3.4.1 
+6.3.4.1 
+Choice of emission factors 
+NR 
+6.3.4.2 
+6.3.4.2 
+Choice of activity data 
+NR 
+6.3.4.3 
+6.3.4.3 
+Uncertainty assessment 
+NR 
+6.3.4.4 
+6.3.4.4 
+Completeness, time series, QA/QC, and reporting 
+NR 
+6.4 
+6.4 
+Completeness 
+NR 
+6.4.1 
+6.4.1 
+Developing a consistent time series 
+NR 
+6.4.2 
+6.4.2 
+Quality assurance and quality control 
+NR 
+6.4.3 
+6.4.3 
+Reporting and documentation 
+NR 
+6.4.4 
+6.4.4 
+Estimation of default stock change factors for mineral soil C 
+emissions/removals for grassland 
+U 
+ 6A.1 
+ 6A.1 
+Equations 
+ No refinement. 
+Tables 
+ Table 6.2 includes a new factor for estimating the impact of high intensity grazing on soil C stocks. High 
+intensity grazing systems (or cutting and removal of vegetation) results in shifts in vegetation composition 
+and possibly productivity but is not severely degraded.  High intensity grazing replaces moderately degraded 
+management systems in the classification scheme from the 2006 IPCC Guidelines. 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Default expansion factors of the ratio of below-ground 
+biomass to aboveground biomass (R) for the major grassland 
+ecosystems of the world 
+NR 
+6.1 
+6.1 
+Relative stock change factors for grassland management 
+U 
+6.2 
+6.2 
+Annual emission factors (EF) for drained grassland organic 
+soils 
+NR 
+6.3 
+6.3 
+Default biomass stocks present on grassland, after conversion 
+from other land use 
+NR 
+6.4 
+6.4 
+Figures 
+ Figure 6.1 has been updated with a revised classification scheme for grassland/grazing systems to include 
+heavy intensity grazing systems (or cutting and removal of vegetation), which leads to shifts in vegetation 
+composition and possibly productivity, but is not severely degraded. 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Classification scheme for grassland/grazing systems 
+NR 
+6.1 
+6.1 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.25 
+CHAPTER 7 WETLANDS 
+Refinements to this Chapter are development of Flooded Lands section on CO2 and CH4 emissions and removals 
+from Flooded Land Remaining Flooding Land and Land Converted to Flooded Land. The methods developed 
+are consistent with the managed land proxy, and include an optional approach to develop indicative estimates of 
+the anthropogenic component of total CO2 and non-CO2 emissions from flooded lands. Methods and emission 
+factors are presented for Reservoirs and Other constructed waterbodies. 
+There are no refinements to the sections on peatlands. 
+Sections 
+ Section 7.3 has been refined with new guidance for estimating greenhouse gas emissions from Flooded Land 
+Remaining Flooding Land and Land Converted to Flooded Land. 
+ Section 7.6, Future Methodological Development has been removed from the guidance because the methods 
+have been developed in the 2013 IPCC Wetlands Supplement and in this refinement. 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+7.1 
+7.1 
+Managed Peatlands 
+NR 
+7.2 
+7.2 
+Peatlands Remaining Peatlands 
+NR 
+7.2.1 
+7.2.1 
+CO2 emissions from Peatlands Remaining Peatlands 
+NR 
+7.2.1.1 
+7.2.1.1 
+Non-CO2 emissions from Peatlands Remaining Peatlands 
+NR 
+7.2.1.2 
+7.2.1.2 
+Uncertainty assessment 
+NR 
+7.2.1.3 
+7.2.1.3 
+Land Being Converted for Peat Extraction 
+NR 
+7.2.2 
+7.2.2 
+CO2 emissions on lands being converted for peat extraction 
+NR 
+7.2.2.1 
+7.2.2.1 
+Non-CO2 emissions from lands being converted to managed 
+peatlands 
+NR 
+7.2.2.2 
+7.2.2.2 
+Uncertainty assessment 
+NR 
+7.2.2.3 
+7.2.2.3 
+Flooded Land 
+NG 
+7.3 
+7.3 
+Flooded Land Remaining Flooded Land 
+NG 
+7.3.1 
+7.3.1 
+CO2 emissions from Land Remaining Flooded Land 
+NG 
+- 
+7.3.1.1 
+Non-CO2 emissions from Flooded Land remaining Flooded 
+Land 
+NG 
+- 
+7.3.1.2 
+Land Converted to Flooded Land 
+NG 
+7.3.2 
+7.3.2 
+CO2 emissions from Land Converted to Flooded Land 
+NG 
+7.3.2.1 
+7.3.2.1 
+Non-CO2 emissions from Land Converted to Flooded Land 
+NG 
+7.3.2.2 
+7.3.2.2 
+Approach to provide indicative estimates of the 
+anthropogenic component of total CO2 and non-CO2 
+emissions (optional) 
+NG 
+- 
+7.3.3 
+Uncertainty Assessment 
+U 
+7.3.2.3 
+7.3.4 
+Completeness, Time series consistency, and QA/QC 
+NR 
+7.4 
+7.5 
+Completeness 
+NR 
+7.4.1 
+7.5.1 
+Developing a consistent time series 
+NR 
+7.4.2 
+7.5.2 
+Quality Assurance and Quality Control (QA/QC) 
+NR 
+7.4.3 
+7.5.3 
+Reporting and Documentation 
+NR 
+7.4.4 
+7.5.4 
+Future methodological development 
+R 
+7.5 
+- 
+Estimation of Default Emission Factor(s) for greenhouse gas 
+emissions from Flooded Lands 
+NG 
+- 
+7.1 
+Equations 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ Equations 7.10 to 7.18 provide new guidance for Flooded Land Remaining Flooded Land, for Land 
+Converted to Flooded Land, and Other Constructed Waterbodies. The latter category has added agriculture 
+ponds, aquaculture ponds, canals, ditches and drainage channels where they are not covered in the 2013 
+Wetland Supplement. 
+ Annual change in carbon stocks in living biomass on land converted to permanently Flooded Land has been 
+removed due to changes in the methods associated with estimating the CO2 emissions from Flooded Lands. 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 
+Refinement 
+Equation 
+Number 
+CO2 emissions from wetlands 
+NR 
+7.1 
+7.1 
+CO2 emissions in peatlands during peat extraction 
+NR 
+7.2 
+7.2 
+CO2 –C emissions from managed peatlands (Tier 1) 
+NR 
+7.3 
+7.3 
+On-site soil CO2–C emissions from managed peatlands (Tier 
+1) 
+NR 
+7.4 
+7.4 
+Off-site CO2–C emissions from managed peatlands (Tier 1) 
+NR 
+7.5 
+7.5 
+On-site CO2–C emissions from managed peatlands (Tiers 2 
+and 3) 
+NR 
+7.6 
+7.6 
+N2O emissions from peatlands during peat extraction 
+NR 
+7.7 
+7.7 
+CO2 –C emissions in peatland being drained for peat 
+extraction 
+NR 
+7.8 
+7.8 
+CO2 –C emissions from soils in peatland being drained for 
+peat extraction 
+NR 
+7.9 
+7.9 
+Annual change in carbon stocks in living biomass on land 
+converted to permanently Flooded Land 
+R 
+7.10 
+- 
+Annual total CH4 emissions for Reservoirs >20 Years old 
+from Flooded Land Remaining Flooded Land 
+NG 
+- 
+7.10 
+Equation used to scale CH4 emission factors for the influence 
+of eutrophication using measured values of chlorophyll a 
+(Modified from Deemer et al (2016) 
+NG 
+- 
+7.11 
+Annual CH4 emission from Other Constructed Waterbodies 
+NG 
+- 
+7.12 
+Annual on-site CO2-C emissions/removals from Land 
+Converted to Flooded Land 
+NG 
+- 
+7.13 
+Annual CO2-C emissions/removals from Land Converted to 
+Flooded Land including soil carbon stocks 
+NG 
+- 
+7.14 
+Annual CH4 emissions for Reservoirs ≤ 20 years old  for Land 
+Converted to Flooded Land 
+NG 
+- 
+7.15 
+Indicative estimate of the anthropogenic component of total 
+annual CH4 emissions in Flooded Land Remaining Flooded 
+Land 
+NG 
+- 
+7.16 
+Indicative estimate of the anthropogenic component of total 
+annual CO2 emissions in land converted to flooded land 
+NG 
+ 
+7.17 
+Indicative estimates of the anthropogenic component of total 
+annual CH4 emissions in  Land Converted to Flooded Land 
+NG 
+- 
+7.18 
+CH4 diffusive emission (mg C m-2 d-1) 
+NG 
+- 
+7A.1 
+CH4 bubbling emission (mg C m-2 d-1) 
+NG 
+- 
+7A.2 
+CO2 diffusive emission (mg C m-2 d-1) 
+NG 
+- 
+7A.3 
+Emission factors for Land converted to Flooded Land  
+NG 
+- 
+7A.4 
+Emission factors for Flooded Land remaining Flooded Land 
+NG 
+- 
+7A.5 
+Tables 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.27 
+ Tables 7.1 and 7.3 are refined based on the new guidance regarding flooded lands. 
+ Tables 7.7 to 7.15 provide new guidance with the factors and associated information to estimate CO2 and 
+CH4 emissions from flooded land. 
+ Tables A1-A4 elaborate on the development of the emission factors provided in the guidance. 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Sections addressing major greenhouse gas emissions from 
+managed wetlands 
+U 
+7.1 
+7.1 
+Guidance on emissions from wetlands managed for other uses 
+NR 
+7.2 
+7.2 
+Ramsar classes of human-made wetlands 
+U 
+7.3 
+7.3 
+Emission factors for CO2–C and associated uncertainty for 
+lands managed 
+for peat extraction, by climate zone 
+NR 
+7.4 
+7.4 
+Conversion factors for CO2–C for volume and weight 
+production data 
+NR 
+7.5 
+7.5 
+Default emission factors for N2O emissions from managed 
+peatlands 
+NR 
+7.6 
+7.6 
+Types of Flooded Land, their human uses and greenhouse gas 
+emissions considered in this chapter 
+NG 
+- 
+7.7 
+Ramsar classes of human-made wetlands, IPCC terminology 
+used and methodological guidance provided 
+NG 
+- 
+7.8 
+CH4 emission factors for reservoirs older than 20 years (> 20 
+years) – Flooded Land Remaining Flooded Land 
+NG 
+- 
+7.9 
+Ratio of total downstream flux of CH4 (kg CH4 ha -1 yr-1) to 
+the flux of CH4 from a reservoir’s surface to the atmosphere 
+(kg CH4 ha -1 yr-1) – Rd 
+NG 
+- 
+7.10 
+Relationships between Trophic Index (TI), surface 
+concentrations of chlorophyll-a (Chl-a), total phosphorus 
+(TP), total nitrogen (TN), Secchi depth (SD), Trophic Class1  
+and Trophic State Adjustment Factor (αi) 
+NG 
+- 
+7.11 
+CH4 emission factors for Other Constructed Waterbodies 
+(freshwater ponds, saline ponds, canals, drainage channels 
+and ditches) 
+NG 
+- 
+7.12 
+CO2-C emission factors for reservoirs ≤ 20 years old – Land 
+converted to Flooded Land 
+NG 
+- 
+7.13 
+Scaling factor value Mj  [y-1] for equation 7.14, Annual on-
+site CO2-C emissions/removals from Land Converted to 
+Flooded Land.   
+NG 
+- 
+7.14 
+CH4 emission factors for reservoirs ≤ 20 years old – Land 
+converted to Flooded Land 
+NG 
+- 
+7.15 
+Number of reservoirs in the grand database in each IPCC 
+climate zone. 
+NG 
+- 
+7A.1 
+Aggregated climate zones based on differences in CH4 
+emissions between categories 
+NG 
+- 
+7A.2 
+Data sources used for modelling CH4 emissions from 
+reservoirs within different climate zones. 
+NG 
+- 
+7A.3 
+Reservoirs and citations for measured Rd values 
+NG 
+- 
+7A.4 
+Figures 
+ Figures 7.2 and 7.3 provide decision trees to guide compilers through the classification of waterbodies and 
+through methodological choices for flooded land.  
+ Figures A1 to A6 elaborate on the development of the emission factors provided in the guidance. 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Decision tree to estimate CO2–C and N2O emissions from 
+Peatlands Remaining Peatlands 
+NR 
+7.1 
+7.1 
+Decision tree for types of Flooded Land. 
+NG 
+- 
+7.2 
+Decision tree for choice of Tier level to estimate emissions of 
+CO2 and CH4 from waterbodies 
+NG 
+- 
+7.3 
+Methane related transport within and from waterbodies, 
+exemplified with a reservoir with an anoxic hypolimnion. For 
+explanations of numbered processes, see text 
+NG 
+- 
+7A.1 
+Location of the reservoirs in the GranD database and 
+shadowgram of their latitudinal distribution. 
+ 
+NG 
+- 
+7A.2 
+Box plots of model estimates (empty) and Field 
+measurements (filled) of CH4 emissions (note logarithmic 
+scale) in aggregated IPCC climate zones. 
+NG 
+- 
+7A.3 
+Comparison of measure CH4 emissions with estimates based 
+on the Emission Factors (EFs, Tables 7.10 and 7.18) of Tier 1 
+methodology. 
+NG 
+- 
+7A.4 
+Measured downstream (DN) CH4 emissions compared to 
+model estimates. The left and right panels model downstream 
+emissions using the median and mean Rd values collected 
+from the literature, respectively. 
+NG 
+- 
+7A.5 
+Relationship between CO2 surge estimates from the newly 
+flooded lands using the decay curve approach and the flooded 
+soil organic carbon stock approach. 
+NG 
+- 
+7A.6 
+Boxes 
+ Box 7.1 provides information about sedimentation and burial of carbon in reservoirs. 
+ Box 7.2 provides information about emissions that are driven by wastewater that occur in reservoirs. 
+ Box A7.1 describes the basis for developing indicative estimates of the anthropogenic component of total 
+emissions from flooded land. 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Additional information on sedimentation and carbon burial in 
+reservoirs 
+NG 
+- 
+7.1 
+Additional information on emissions arising from wastewater 
+within reservoirs 
+NG 
+- 
+7.2 
+Approach for developing indicative estimates of the 
+anthropogenic component of total emissions from flooded 
+land  
+NG 
+- 
+7A.1 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.29 
+CHAPTER 8 SETTLEMENTS 
+Refinements in this chapter are associated to the biomass estimations sections. Default values on crown cover 
+area and annual carbon accumulation per tree for Settlements remaining Settlements are updated. Guidance on 
+how to use the default values while using the three tier methodologies is also refined, including on how to 
+develop country specific values for Tier 3. Based on the update of table 8.4 on defaults for biomass carbon 
+stocks removed in the land conversion to Settlements, refined guidance for tier 2 and Tier 3 on the selection of 
+default emission factors is provided. In addition, steps on data collection for Tier 2 and 3 m3thodologies is 
+clarified. 
+There are no refinements to the guidance for dead organic matter or soil C. 
+Sections 
+ Section 8.2.1.2 includes updated default values in Table 8.1 and Table 8.2 and includes explanations about 
+how to apply the default values while estimating biomass using the Tier 2 methodologies. Also includes 
+refined guidance for Tier 3 methodologies on developing country specific biomass increment factors.  
+ Section 8.3 includes a short introduction on Land converted to Settlements. 
+ Section 8.3.1.1 provides guidance clarifying how to apply terms of BBefore, BAfter, ∆CG and ∆CL for Equation 
+2.15 and 2.16. 
+ Section 8.3.1.2 provides new guidance based on updates to Table 8.4 for Tier 2 and Tier 3 methodologies by 
+clarifying how to select and use of emission factors. 
+ Section 8.3.1.3 updates the guidance on the steps for data acquisition for Tier 2 and 3. 
+ Section 8.5 sentences that where found not relevant any more had been deleted.  
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+8.1 
+8.1 
+Biomass 
+NR 
+8.2.1 
+8.2.1 
+Choice of method  
+NR 
+8.2.1.1 
+8.2.1.1 
+Choice of emission/removal factors  
+U 
+8.2.1.2 
+8.2.1.2 
+Choice of activity data 
+NR 
+8.2.1.3 
+8.2.1.3 
+Uncertainty assessment  
+NR 
+8.2.1.4 
+8.2.1.4 
+Dead Organic Matter 
+NR 
+8.2.2 
+8.2.2 
+Choice of method  
+NR 
+8.2.2.1 
+8.2.2.1 
+Choice of emission/removal factors  
+NR 
+8.2.2.2 
+8.2.2.2 
+Choice of activity data 
+NR 
+8.2.2.3 
+8.2.2.3 
+Uncertainty assessment  
+NR 
+8.2.2.4 
+8.2.2.4 
+Soil Carbon 
+NR 
+8.2.3 
+8.2.3 
+Choice of method  
+NR 
+8.2.3.1 
+8.2.3.1 
+Choice of stock change and emission factors  
+NR 
+8.2.3.2 
+8.2.3.2 
+Choice of activity data  
+NR 
+8.2.3.3 
+8.2.3.3 
+Uncertainty assessment  
+NR 
+8.2.3.4 
+8.2.3.4 
+Land converted to Settlements 
+U 
+8.3 
+8.3 
+Choice of method  
+U 
+8.3.1.1 
+8.3.1.1 
+Choice of emission/removal factors  
+ 
+U 
+8.3.1.2 
+8.3.1.2 
+Choice of activity data  
+ 
+U 
+8.3.1.3 
+8.3.1.3 
+Uncertainty assessment  
+ 
+NR 
+8.3.1.4 
+8.3.1.4 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Dead organic matter 
+NR 
+8.3.2 
+8.3.2 
+Choice of method  
+NR 
+8.3.2.1 
+8.3.2.1 
+Choice of emission/removal factors  
+ 
+NR 
+8.3.2.2 
+8.3.2.2 
+Choice of activity data  
+ 
+NR 
+8.3.2.3 
+8.3.2.3 
+Uncertainty assessment  
+ 
+NR 
+8.3.2.4 
+8.3.2.4 
+Soil carbon 
+NR 
+8.3.3 
+8.3.3 
+Choice of method 
+NR 
+8.3.3.1 
+8.3.3.1 
+Choice of stock change and emission factor  
+ 
+NR 
+8.3.3.2 
+8.3.3.2 
+Choice of activity data  
+NR 
+8.3.3.3 
+8.3.3.3 
+Uncertainty assessment  
+ 
+NR 
+8.3.3.4 
+8.3.3.4 
+Completeness, time series consistency, QA/QC and reporting  
+NR 
+8.4 
+8.4 
+Basis for future methodological development  
+U 
+8.5 
+8.5 
+Equations 
+ No refinement. 
+Tables 
+ Tables 8.1 and 8.2 are updated with new default values from literature review. 
+ Table 8.4 is updated to provide more information on how to use BBefore. 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Tier 2A default crown cover area-based growth rates (CRW) 
+for urban tree crown cover by region 
+U 
+8.1 
+8.1 
+Tier 2B default average annual carbon accumulation per tree 
+in urban trees by species classes 
+U 
+8.2 
+8.2 
+Default activity data by potential natural vegetation (PNV) 
+type for percent tree cover 
+NR 
+8.3 
+8.3 
+Default biomass carbon stocks removed due to Land 
+conversion to settlements  
+U 
+8.4 
+8.4 
+Figures 
+ No refinement. 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.31 
+CHAPTER 9 OTHER LANDS 
+ No refinement. 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 10 EMISSIONS FROM LIVESTOCK AND MANURE 
+MANAGEMENT 
+Improvements to this Chapter were made to: i.) Update outdated emission factors and emission factors that could 
+be improved through new knowledge; ii.) Improve the treatment of the relationship between productivity and 
+emissions, focusing in particular on the ability to differentiate between commercial/industrial production systems 
+and local/subsistence systems and; iii.) Improving the consistency of methods among emission sources, to 
+facilitate the use of consistent activity data and livestock characterizations among sources and assure that the 
+calculation and transfers of parameters among enteric fermentation, volatile solid and manure methane estimates, 
+and nitrogen excretion, transfers and losses are consistent throughout the Chapter and with Chapter 11, Managed 
+soils. 
+Sections 
+ Section 10.2 Livestock population and feed characterisation. The Tier 1 method was updated by integrating 
+an advanced Tier 1a. This method is to be applied in cases where agricultural production systems may be 
+transitioning from low productivity local subsistence systems to higher productivity systems or may simply 
+have dual agricultural systems. In these cases, inventory compilers may wish to use the Tier 1a approach in 
+which they are able to better track the transitions and changes in the productivity of their agricultural systems 
+and related emissions over time.  
+ Various updates were made to text: i) Where references or information provided were dated; ii) To provide 
+suggestions for sources of activity data and parameters sources; iii) Crude protein and neutral detergent fibre 
+were added to the parameters to be collected for animal categories for the implementation of Tier 2 methods. 
+ The Tier 2 method was updated through the addition of parameters for a Tier 2 characterization of goat 
+production, resulting in modifications to many Tables and Figures. 
+ The Simplified Tier 2 approach was updated to be consistent with methods in the most recent National 
+Research Council publications and replace the Dairy cattle equations with a more recent method. 
+ Section 10.3 Methane emissions from enteric fermentation. The Tier 1 Emission Factors for Cattle, Buffalo, 
+Sheep and Goats were updated based on an extensive review of the literature and global production systems. 
+Emission factors for low and high productivity systems (Tier 1a EFs) for regions that have dual production 
+systems for cattle, sheep and goats were developed (the terms high and low productivity systems were 
+substituted for developed and developing countries used in the 2006 IPCC guidelines). Emission Factors for 
+minor animal categories were reviewed and updated where information was available. Guidance was 
+provided to implement the Tier 1a approach. 
+ The discussion and guidance to implement methane conversion rates (Ym) was updated. The values presented 
+for methane conversion rates were expanded to be consistent with different levels of productivity for Dairy 
+cows and to take into account differing diets used in other cattle production systems. Methane yields were 
+included to simplify the implementation of the simplified Tier 2 approach. 
+ Section 10.4 Methane emissions from manure management. The approach to implement Tier 1 emission 
+estimates was changed from a per head basis (kg CH4 head-1) to a per volatile solid (g CH4 kg VS-1) basis to 
+be consistent with the Tier 1 approach for nitrous oxide emissions. A Tier 1 approach for calculating volatile 
+solids was introduced with values derived using consistent data for enteric fermentation and nitrogen 
+excretion. Emission Factors were presented for high and low productivity systems based on the 2006 IPCC 
+guideline parameters and updated MCFs developed for the Tier 2 method. Per head emission factors for 
+minor livestock were reviewed and updated where new information was available.  
+ In the Tier 2 method, the MCFs developed for major livestock categories were changed from being derived 
+based on an annual temperature basis to being derived from monthly temperatures in climate zones and 
+considering manure storage duration. A simple model was developed for the calculation of MCFs based on 
+monthly temperature profiles and storage duration (presented in Annex A.3 and available for download). 
+New anaerobic digestion MCFs were developed for different qualities of digesters and considering the 
+storage of digestate. 
+ Section 10.5 N2O emissions from manure management. Direct Emissions: Nitrogen excretion values were 
+updated using data consistent with the derivation of enteric fermentation EFs and volatile solid EFs. 
+Emission Factors for direct emissions were reviewed and updated where possible. A Tier 2 method was 
+introduced for N excretion for swine and poultry.  
+ Indirect Emissions: Improved guidance was provided to calculate losses and transfers of N to managed soils 
+(Consistency of nitrogen flows, Section 10.5.6). A detailed Table consistent with other manure management 
+system tables for manure N loss was introduced. A Tier 1 leaching factor was introduced to account for loss 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.33 
+from manure management storage and changes were made to the approach to calculate total N loss, to assure 
+that all N is accounted for in the Tier 1 and Tier 2 methodology. 
+ Annex 10A – All data used in calculating Tier 1 parameters, enteric fermentation, volatile solids and nitrogen 
+excretion were compiled in Annexes 10A.1 and 10A.2 in Tables 10A.1 to 10A.4. Default values for animal 
+weights and manure management systems were compiled in Tables 10A.5 to 10A.9. An explanation of the 
+simple model that is presented for calculating MCFs considering monthly temperature profiles and manure 
+storage durations in Annex 10A.3. A series of equations is presented in Annex 10A.4 to calculate MCFs from 
+anaerobic digesters. A clear description of the equations required in the calculation of nitrogen movement 
+through the agricultural system is presented in Annex 10A.4 
+ Annex 10B – Brief explanations are provided that provide an overview or justification of how new 
+parameters were selected or developed for the Chapter. 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+10.1 
+10.1 
+Livestock population and feed characterisation 
+U 
+10.2 
+10.2 
+Steps to define categories and subcategories of livestock 
+NR 
+10.2.1 
+10.2.1 
+Choice of method 
+U 
+10.2.2 
+10.2.2 
+Uncertainty assessment 
+NR 
+10.2.3 
+10.2.3 
+Characterisation for livestock without species: specific 
+emission estimation methods 
+NR 
+10.2.4 
+10.2.4 
+Methane emissions from enteric fermentation 
+U 
+10.3 
+10.3 
+Choice of method 
+U 
+10.3.1 
+10.3.1 
+Choice of emission factors 
+U 
+10.3.2 
+10.3.2 
+Choice of activity data 
+NR 
+10.3.3 
+10.3.3 
+Uncertainty assessment 
+NR 
+10.3.4 
+10.3.4 
+Completeness, time series, quality assurance/ quality control 
+and reporting 
+NR 
+10.3.5 
+10.3.5 
+Methane emissions from manure management 
+U 
+10.4 
+10.4 
+Choice of method 
+U 
+10.4.1 
+10.4.1 
+Choice of emission factors 
+U 
+10.4.2 
+10.4.2 
+Choice of activity data 
+U 
+10.4.3 
+10.4.3 
+Uncertainty assessment 
+NR 
+10.4.4 
+10.4.4 
+Completeness, time series, quality assurance / quality control 
+and reporting 
+NR 
+10.4.5 
+10.4.5 
+N2O emissions from manure management 
+U 
+10.5 
+10.5 
+Choice of method 
+NR 
+10.5.1 
+10.5.1 
+Choice of emission factors 
+U 
+10.5.2 
+10.5.2 
+Choice of activity data 
+NR 
+10.5.3 
+10.5.3 
+Coordination with reporting for N2O emissions from 
+managed soils 
+U 
+10.5.4 
+10.5.4 
+Uncertainty assessment 
+NR 
+10.5.5 
+10.5.5 
+Completeness, time series, quality assurance/quality control 
+and reporting 
+U 
+10.5.6 
+10.5.6 
+Use of worksheets 
+NR 
+10.5.7 
+10.5.7 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Data underlying methane default emission factors for Enteric 
+Fermentation, Volatile solids, Nitrogen excretion and 
+retention fractions for Cattle and Buffalo 
+NG 
+ 10A.1 
+ 10A.1 
+Additional data and information for the calculation of 
+methane and nitrous oxide from Manure Management 
+NG 
+ 10A.2 
+ 10A.2 
+MCF spreadsheet example for the calculation of a country or 
+region specific MCFs 
+NG 
+- 
+ 10A.3 
+Calculations of Methane Conversion Factors (MCFs) factors 
+for biogas systems 
+NG 
+ 
+ 10A.4 
+Equations relating all direct and indirect N2O emissions from 
+manure along all stages in agricultural production for 
+livestock. 
+NG 
+- 
+ 10A.5 
+Additional data and information for the calculation of N2O 
+from manure management of other animal 
+NG 
+- 
+ 10A.6 
+Data and explanatory text for development of new parameters 
+in the 2019 refinement. 
+NG 
+ 
+ 10B 
+Raw data used to compile Annex A.1 enteric fermentation 
+Tier 1 emission factors, volatile solids and nitrogen excretion 
+for cattle and buffalo 
+ 
+ 
+ 10B.1 
+Estimation of default emission factor(s) for goat tier 2 
+parameters 
+NG 
+ 
+ 10B.2 
+Feed intake estimates using a simplified Tier 2 method 
+NG 
+ 
+ 10B.3 
+Estimation cattle/buffalo ch4 conversion factors (Ym) 
+NG 
+ 
+ 10B.4 
+Description and discussion of proposed changes to MCF 
+calculations for liquid/slurry. 
+NG 
+ 
+ 10B.5 
+Revision of methane from dung deposited onto pasture range 
+and paddocks (Table 10.17) 
+NG 
+ 
+ 10B.6 
+Estimation of default emission factors for MCF, CH4 values, 
+EF for direct N2O emissions, NH3, NO3 leaching and N2 
+emissions from solid storage and composting systems 
+NG 
+ 
+ 10B.7 
+Equations 
+ Equation 10.1 was updated to assure consistency in symbols throughout the chapter.  
+ All equations for calculating net energy were updated by adding parameters required to carry out Tier 2 
+emission factor development for goats.   
+ Tier 1 Equations in Sections 10.3, 10.4 and 10.5 were updated to introduce a subscript “p” that represents the 
+productivity level, that can be introduced to the calculation to carry out an advanced Tier 1 (i.e. Tier 1a). 
+ Equations for calculating the simplified Tier 2 were updated based on the most recent National Research 
+Council publications. 
+ A Tier 2 equation was added to calculate methane emissions using the parameters dry matter intake and 
+methane yield. (Equation 10.21A)  
+ A Tier 1 equation was introduced to calculate volatile solids based on animal weights. (Equation 10.21A). 
+ Tier 2 equations were added to calculate nitrogen excretion from swine and poultry and to clarify the Tier 2 
+calculation of N excretion from other animals. (Equations 10.31A and 10.32A – Equations 10.33A-33E). 
+ The equations to calculate N loss were updated Equation 10.34-10.34C to include codigestates and improve 
+N loss estimates. 
+ Annex equations 10A.1 to 10A.9 were introduced to calculate emission from anaerobic digestion. 
+ Annex equations 10A.10 to 10A.27 were introduced to detail transfers and losses of N from N excretion to 
+application to managed soils in Chapter 11. 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.35 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation Number 
+2019 Refinement 
+Equation Number 
+Annual average population 
+U 
+10.1 
+10.1 
+Coefficient for calculating net energy for maintenance 
+NR 
+10.2 
+10.2 
+Net energy for maintenance 
+NR 
+10.3 
+10.3 
+Net energy for activity (for cattle and buffalo) 
+NR 
+10.4 
+10.4 
+Net energy for activity (for sheep and goats) 
+U 
+10.5 
+10.5 
+Net energy for growth (for cattle and buffalo) 
+NR 
+10.6 
+10.6 
+Net energy for growth (for sheep and goats) 
+U 
+10.7 
+10.7 
+Net energy for lactation (for beef cattle, dairy cattle and 
+buffalo) 
+NR 
+10.8 
+10.8 
+Net energy for lactation for sheep and goats (milk 
+production known) 
+U 
+10.9 
+10.9 
+Net energy for lactation for sheep and goats (milk 
+production unknown 
+U 
+10.10 
+10.10 
+Net energy for work (for cattle and buffalo) 
+NR 
+10.11 
+10.11 
+Net energy to produce wool (for sheep and goats) 
+U 
+10.12 
+10.12 
+Net energy for pregnancy (for cattle/buffalo and sheep 
+and goats) 
+U 
+10.13 
+10.13 
+Ratio of net energy available in a diet for maintenance to 
+digestible energy 
+NR 
+10.14 
+10.14 
+Ratio of net energy available for growth in a diet to 
+digestible energy consumed 
+NR 
+10.15 
+10.15 
+Gross energy for cattle/buffalo, sheep and goats 
+U 
+10.16 
+10.16 
+Estimation of dry matter intake for calves 
+U 
+ 
+10.17 
+Estimation of dry matter intake for growing cattle 
+U 
+10.17 
+10.18 
+Estimation of dry matter intake for steers and bulls  
+Estimation of dry matter intake for heifers 
+U 
+- 
+10.18a 
+Estimation of dry matter intake for mature beef cattle 
+U 
+10.18a 
+- 
+Estimation of dry matter intake for lactating dairy cows 
+U 
+10.18b 
+10.18b 
+Enteric fermentation emissions from a livestock category 
+(Tier 1) 
+U 
+10.19 
+10.19 
+Total emissions from livestock enteric fermentation 
+U 
+10.20 
+10.20 
+Methane emission factors for enteric fermentation from a 
+livestock category 
+NR 
+10.21 
+10.21 
+Methane emission factors for enteric fermentation from a 
+livestock category 
+NG 
+- 
+10.21a 
+CH4 Emissions from manure management（Tier 1） 
+U 
+10.22 
+10.22 
+Annual Volatile Solid excretion rates 
+NG 
+- 
+10.22a 
+CH4 Emission Factor from manure management 
+U 
+10.23 
+10.23 
+Volatile solid excretion rates 
+U 
+10.24 
+10.24 
+Direct N2O emissions from manure management 
+U 
+10.25 
+10.25 
+N losses due to volatilisation from manure management  
+U 
+10.26 
+10.26 
+N losses due to leaching from manure management 
+systems 
+U 
+10.28 
+10.27 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Indirect N2O emissions due to volatilisation from manure 
+management  
+NR 
+10.27 
+10.28 
+Indirect N2O emissions due to leaching from manure 
+management  
+NR 
+10.29 
+10.29 
+Annual N excretion rates 
+U 
+10.30 
+10.30 
+Annual N excretion rates Option 1 (tier 2) 
+NR 
+10.31 
+10.31 
+Annual N excretion rates Option 2 (tier 2) 
+NG 
+ 
+10.31a 
+N intake rates for cattle 
+NR 
+10.32 
+10.32 
+N intake rates for swine and poultry 
+NG 
+- 
+10.32a 
+N retention rates for cattle (N retained rates for cattle in 
+2006) 
+NR 
+10.33 
+10.33 
+Annual N excretion rates for breeding sows 
+NG 
+- 
+10.33a 
+N Retained in weaned piglets 
+NG 
+ 
+10.33b 
+N retention rates for growing pigs 
+NG 
+- 
+10.33c 
+N excretion rates for layer type hens 
+NG 
+- 
+10.33d 
+Annual N excretion rates for pullets or broilers 
+NG 
+- 
+10.33e 
+Managed manure N available for application to managed 
+soils, feed, fuel or construction uses 
+U 
+10.34 
+10.34 
+Fraction of total animal manure N lost in manure 
+management systems for animal type t  
+NG 
+- 
+10.34a 
+Estimation of FracN2ms  
+NG 
+- 
+10.34c 
+Calculation of MCF for biogas digesters 
+NG 
+ 
+10A.1 
+Calculation of relative amount of potential off gas related 
+to B0 
+NG 
+ 
+10A.2 
+Calculation of relative amount of residual gas related to 
+B0 
+NG 
+ 
+10A.3 
+Calculation of relative amount of residual gas related to 
+CH4 production 
+NG 
+ 
+10A.4 
+Digester’s methane balance 
+NG 
+ 
+10A.5 
+Calculation of methane leakage rate of digester 
+NG 
+ 
+10A.6 
+Calculation of methane conversion factor 
+NG 
+ 
+10A.7 
+Calculation of methane conversion factor of residues 
+NG 
+ 
+10A.8 
+Calculation of methane conversion factor for the 
+combination “prestorage +  digester + digestate storage” 
+NG 
+ 
+10A.9 
+Total N2O emissions for animal type t 
+NG 
+ 
+10A.10 
+Total N2O emissions from manure management for 
+animal type t 
+NG 
+ 
+10A.11  
+10A.12 
+Total, direct and indirect N2O emissions from the 
+application of manure to managed soils for animal type t 
+NG 
+ 
+10A.13 
+10A.14 
+Total amount of animal manure N applied to soils other 
+than by grazing animals for animal type t 
+NG 
+ 
+10A.15 
+Fraction of total animal manure N lost in manure 
+management systems for animal type t 
+NG 
+ 
+10A.16 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.37 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Fraction of animal manure N available for application to 
+managed soils, applied to managed soils for animal type t 
+NG 
+ 
+10A.17 
+Total, direct and indirect n2o emissions from N in urine 
+and dung deposited by grazing animals on pasture, range 
+and paddock (tier 1) for animal type t 
+NG 
+ 
+10A.18 
+10A.19 
+Relationship between average annual nitrogen flows 
+associated with an individual animal [kg N animal-1 yr-1] 
+and the annual nitrogen flow for the animal population of 
+livestock category/species t in a country [kg N yr-1] 
+NG 
+ 
+10A.20 
+Total manure-N excreted 
+NG 
+ 
+10A.21 
+Nitrogen excretion calculated either using a default 
+fraction of retention (tier 1) or directly from retention 
+data 
+NG 
+ 
+10A.22  
+10A.23 
+Total manure-n in manure management and storage 
+systems 
+NG 
+ 
+10A.24 
+Manure-n managed in system s 
+NG 
+ 
+10A.25 
+Manure-n deposited by grazing animals, with x=cpp,so 
+NG 
+ 
+10A.26 
+N in bedding material added to managed manure 
+NG 
+ 
+10A.27 
+Tables 
+ In Section 10.2, Table 10.1 added high and low productivity systems and identified the enhanced livestock 
+definitions that would go with them while Table 10.2 was modified to update information in it, such that the 
+values were consistent with production systems in 2019.  
+ Modifications to Tables 10.3 to 10.7 provide additional values required to calculate Tier 2 estimates for goat 
+production and clarify elements that were raised during the Guidance review process.  
+ In the simplified Tier 2 methodology a new Table 10.8A was added for mature cattle DMI estimates. 
+ In Section 10.3, Tables 10.10 and 10.11 Tier 1 emission factors were updated and Tier 1a emission factors 
+were developed.  The methane conversion rate (Ym) Table 10.12 was expanded to integrate Yms for different 
+productivity levels and feeding systems and Sheep and Goat Yms were updated (Table 10.13). 
+ In Section 10.4, Table 10.14 was developed with emission factors based on volatile solids replacing two 
+Tables with Emission factors expressed on a per head basis. Table 13A was added to calculate Tier 1 volatile 
+solids.  Table 16 moved the maximum methane potentials (B0) which were previously in the Annex in the 
+main text of the Chapter. 
+ The Table 10.17 was updated with MCFs based on climate zones and manure storage durations. 
+ In Section 10.5, N excretion (Table 10.19) values and N retention (Table 10.20) values were updated and 
+some N2O emission Factors (Table 10.21) were updated. N loss factors (Table 10.22) were presented in a 
+consistent manner with all other manure management systems and default leaching factors were added. 
+Finally, a Table was added for use in the estimation of denitrification (Table 10.23). 
+ In the Annexes all information for the calculation of Tier 1 Enteric Fermentation emission factors, volatile 
+solids and nitrogen excretion for cattle and buffalo were presented in a series of four Tables. All default 
+information required to carry out Tier 1 emission estimates for manure management are presented in Tables 
+10A.5 to 10A.9. Tables 10A.10 through 10A.18 provide supporting material for the development of the 
+revisions to guidance presented in this refinement. 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Table Title 
+Type of Refinement 
+2006 IPCC 
+Guidelines 
+Table 
+Number 
+2019 
+Refinement 
+Table 
+Number 
+Representative livestock categories  
+U 
+10.1 
+10.1 
+Representative feed digestibility for various livestock 
+categories 
+U 
+10.2 
+10.2 
+Summary of the equations used to estimate daily gross 
+energy intake for cattle, buffalo and sheep and goats 
+U 
+10.3 
+10.3 
+Coefficients for calculating net energy for maintenance 
+(NEm) 
+U 
+10.4 
+10.4 
+Activity coefficients corresponding to animal’s 
+feeding situation 
+U 
+10.5 
+10.5 
+Constants for use in calculating NEg for sheep and 
+goats 
+U 
+10.6 
+10.6 
+Constants for use in calculating NEp in equation 10.13 
+U 
+10.7 
+10.7 
+DMI required by mature non-dairy cows based on 
+forage quality 
+NG 
+ 
+10.8 
+Coefficients for calculating net energy for maintenance 
+(NEm) 
+U 
+10.4 
+10.4 
+Activity coefficients corresponding to animal’s 
+feeding situation 
+U 
+10.5 
+10.5 
+Constants for use in calculating NEg for sheep and 
+goats 
+U 
+10.6 
+10.6 
+Constants for use in calculating NEp in equation 10.13 
+U 
+10.7 
+10.7 
+DMI required by mature non-dairy cows based on 
+forage quality 
+NG 
+ 
+10.8 
+Examples of NEmf content of typical diets fed to cattle 
+for estimation of dry matter intake in equations 10.17 
+and 10.18 
+U 
+10.8 
+10.8a 
+Suggested emissions inventory methods for enteric 
+fermentation 
+U 
+10.9 
+10.9 
+Enteric fermentation emission factors for tier 1 
+method1 (kg CH4 head-1 yr-1) 
+U 
+10.10 
+10.10 
+Tier 1 and Tier 1a enteric fermentation emission 
+factors for cattle and buffalo 
+U 
+10.11 
+10.11 
+Cattle/Buffalo methane conversion factors (Ym) 
+U 
+10.12 
+10.12 
+Sheep and goats CH4 conversion factors (Ym) 
+U 
+10.13 
+10.13 
+Default values for volatile solid excretion rate (kg VS 
+(1000 kg animal mass-1) day-1) 
+NG 
+- 
+10.13a 
+Methane Emission Factors by animal category, manure 
+management system and climate zone  
+U 
+ 
+10.14 
+Manure management methane emission factors by 
+temperature for Cattle, Swine and Buffalo,  
+R 
+10.14 
+- 
+Manure management methane emission factors by 
+temperature for Sheep, Goats, Camels Horses, Mules 
+and Asses and Poultry 
+R 
+10.15 
+- 
+Manure management methane emission factors for 
+deer, reindeer, rabbits, and fur-bearing animals 
+U 
+10.16 
+10.15 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.39 
+Table Title 
+Type of Refinement 
+2006 IPCC 
+Guidelines 
+Table 
+Number 
+2019 
+Refinement 
+Table 
+Number 
+Default values for maximum methane potentials (B0) 
+(m3 CH4 kg-1 VS) 
+U 
+10A.4, 
+10A.5, 
+10A.6, 
+10A.7, 
+10A.8, 10A.9 
+10.16 
+Methane Conversion Factors for manure management 
+systems 
+U 
+10.17 
+10.17 
+Definitions of manure management systems 
+U 
+10.18 
+10.18 
+Default values for nitrogen excretion rate (kg N (1000 
+kg animal mass)-1 day-1) 
+U 
+10.19 
+10.19 
+Default values for the fraction of nitrogen in feed 
+intake of livestock that is retained by the different 
+livestock species/categories (fraction n-intake retained 
+by the animal) 
+U 
+10.20 
+10.20 
+Calculation of N retention in breeding swine from 
+different production systems. 
+NG 
+- 
+10.20a 
+Default values for Ngain by growth stage 
+NG 
+- 
+10.20b 
+Default Emission Factors for direct N2O emissions 
+from manure management 
+U 
+10.21 
+10.21 
+Default values for nitrogen loss due to volatilisation of 
+NH3 and NOx and leaching of nitrogen from manure 
+management 
+U 
+10.22 
+10.22 
+Default values for total nitrogen loss from manure 
+management 
+R 
+10.23 
+- 
+Default value for molecular nitrogen (N2) loss from 
+manure management 
+NG 
+- 
+10.23 
+Data for estimating enteric fermentation emission 
+factors for dairy cattle (Tier 1) 
+R 
+10A.1 
+ 
+Data for estimating Tier 1 and Tier 1A Enteric 
+Fermentation CH4 Emission Factors, Volatile solid 
+excretion and N excretion rates, and  N retention 
+fraction rates for Dairy Cattle 
+NG 
+ 
+10A.1 
+Data for estimating Tier 1 enteric fermentation CH4 
+emission factors for Other Cattle in Table 10.11 
+R 
+10A.2 
+ 
+Data for estimating Tier 1 Enteric Fermentation CH4 
+Emission Factors, Volatile Solid and Nitrogen 
+excretion rates and N retention fraction for Other cattle 
+NG 
+ 
+10A.2 
+Data for estimating Tier 1A Enteric Fermentation CH4 
+Emission Factors, Volatile Solid and Nitrogen 
+excretion rates and N retention fraction for Other cattle 
+NG 
+ 
+10A.3 
+Data for estimating Tier 1 enteric fermentation CH4 
+emission factors for Buffalo 
+R 
+10A.3 
+ 
+Data for estimating Tier 1 Enteric Fermentation CH4 
+Emission Factors, Volatile solid and Nitrogen 
+excretion rates, and N retention fraction rates for 
+Buffalo 
+NG 
+ 
+10A.4 
+Manure management methane emission factor 
+derivation for Dairy Cows 
+R 
+10A.4 
+ 
+Manure management methane emission factor 
+derivation for Other Cattle 
+R 
+10A.5 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.40 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Table Title 
+Type of Refinement 
+2006 IPCC 
+Guidelines 
+Table 
+Number 
+2019 
+Refinement 
+Table 
+Number 
+Manure management methane emission factor 
+derivation for Other Cattle 
+R 
+10A.5 
+ 
+Manure management methane emission factor 
+derivation for Buffalo 
+R 
+10A.6 
+ 
+Manure management methane emission factor 
+derivation for Market Swine 
+R 
+10A.7 
+ 
+Manure management methane emission factor 
+derivation for Breeding Swine 
+R 
+10A.8 
+ 
+Manure management methane emission factor 
+derivation for Other Animals 
+R 
+10A.9 
+ 
+Default values for Live weights for animal categories 
+(kg)  
+NG 
+ 
+10A.5 
+Animal waste management system (AWMS) regional 
+averages for Cattle and Buffalo  
+NG 
+ 
+10A.6 
+Animal waste management system (AWMS) regional 
+averages for Swine  
+NG 
+ 
+10A.7 
+Animal waste management system (AWMS) regional 
+averages for Sheep and Goats 
+NG 
+ 
+10A.8 
+Animal waste management system (AWMS) regional 
+averages for Poultry and Other Animals  
+NG 
+ 
+10A.9 
+Comparison of manure storage type definitions used 
+by the IPCC and by the EMEP/EEA air pollutant 
+emission inventory guidebook 2016 
+NG 
+ 
+10A.10 
+Methane conversion factor (MCFDG) including biogas 
+digester and storage 
+NG 
+ 
+10A.11 
+Summary statistics from Niu et al. (2018) database  
+NG 
+ 
+10A.12 
+Threshold calculation based on NDF correction  
+NG 
+ 
+10A.13 
+Summary of Data compiled for the compilation of Ym 
+values for cattle and buffalo  
+NG 
+ 
+10A.14 
+Mean, median, maximum, minimum and quartile 1 and 
+3 (Q1 and Q3) values for a selection feed diet 
+composition, feed intake, body weight and milk 
+productivity 
+NG 
+ 
+10A.15 
+Mean, median, maximum, minimum and quartile 1 and 
+3 (Q1 and Q3) values for CH4 production results 
+preferred as a proportion of gross energy intake (CH4 
+conversion factor: Ym), day-1, kg DM intake-1,kg of 
+milk produced-1 and kg of body weight-1 
+NG 
+ 
+10A.16 
+From IPCC 2006 Table of MCF values for 
+Liquid/Slurry (Table 10.17), updates to MCFs 
+calculated for each retention time and climate. 
+(selected IPCC Climate regions shown) 
+U 
+10.17 
+10A.17 
+10A.18 
+Source of Methane from PRP excretion data  
+NG 
+ 
+10A.19 
+Methane conversion factor (MCF) and methane 
+emission factors (per kg faecal dry matter (FDM)) and 
+volatile solids (VS) for cattle and sheep  
+NG 
+ 
+10A.20 
+Figures 
+ Modification of Decision tree for inclusion of Tier 1a concept.  
+ All Annex Figures are provided as supporting material for the development of the revisions to guidance 
+presented in this refinement. 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.41 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Decision tree for livestock population characterisation 
+NR 
+10.1 
+10.1 
+Decision Tree for CH4 Emissions from Enteric Fermentation 
+U 
+10.2 
+10.2 
+Decision tree for CH4 emissions from Manure Management 
+U 
+10.3 
+10.3 
+Decision tree for N2O emissions from Manure Management 
+(Note 1) 
+U 
+10.5 
+10.4 
+Processes leading to the emission of gaseous N species from 
+manure 
+NG 
+- 
+10.5 
+Mapping of IPCC climate zones. (taken from Volume 4, 
+Chapter 3, Annex 3A.5) 
+NG 
+ 
+10A.1 
+Colour code for cells in the example spreadsheet. 
+NG 
+ 
+10A.1 
+Temperature and manure removal inputs to the model. Top 
+panel: alphanumeric values in each cell. Middle panel: 
+dropdown menu to select “Air” or “Manure”. Bottom panel: 
+all formulae are visible. 
+NG 
+ 
+10A.2 
+Constants and other input parameters for the model are shown 
+in the top panel. Named Cells in column I are shown in 
+column O, and in the Name Manager dialog box (bottom 
+panel).  
+NG 
+ 
+10A.3 
+Model inputs and outputs over a three year period. 
+NG 
+ 
+10A.4 
+Formulae used in the model. To conserve space, only 12 
+months are shown. Top panel: columns C:G. Middle panel: 
+columns H:L. Bottom panel: sums in rows 64:66 for selected 
+columns. 
+NG 
+ 
+10A.5 
+Monthly patterns in Year 3: manure temperature, VS 
+available, VS emptied, and methane production. 
+NG 
+ 
+10A.6 
+Summary of Year 3 VS and methane production, and 
+calculation of MCF. Top panel shows results, bottom panel 
+shows equations. 
+NG 
+ 
+10A.7 
+Annual enteric methane output per animal expressed in mass 
+in relation to daily dry matter (DM) intake.  
+NG 
+ 
+10A.8 
+Daily enteric methane output per animal expressed in energy 
+in relation to daily gross energy (GE) intake. 
+NG 
+ 
+10A.9 
+Annual enteric methane output per animal expressed in mass 
+in relation to daily dry matter (DM) intake 
+NG 
+ 
+10A.10 
+Daily enteric methane output per animal expressed in energy 
+in relation to daily gross energy (GE) intake 
+NG 
+ 
+10A.11 
+Daily N excretion output per animal expressed in relation to 
+animal weight 
+NG 
+ 
+10A.12 
+Daily N excretion output per animal expressed in relation to 
+daily N intake 
+NG 
+ 
+10A.13 
+Comparison between ranges of CH4-C emissions observed in 
+collected studies in Pardo et al. (2015) (new) with estimations 
+for the same studies according to IPCC (2006) methodology. 
+Figure adapted from Pardo et al. (2015) 
+NG 
+ 
+10A.14 
+Effect on cumulative NH3-N emissions of different solid 
+storage and composting methods compared with conventional 
+solid storage. Figure adapted from Pardo et al. (2015) 
+NG 
+ 
+10A.15 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.42 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 11 N2O EMISSIONS FROM MANAGED SOILS AND CO 2 
+EMISSIONS FROM LIME AND UREA APPLICATIONS 
+Refinements in Chapter 11 include updates of the emission factors EF1, EF1FR and EF3PRP (Table 11.1) and EF4, 
+EF5, FracGASF FracGASM and FracLEACH-(H) (Table 11.3). Updated aggregated values were computed for all of these 
+factors drawing on a much larger number of measurements than were available for the 2006 IPCC Guidelines. 
+Furthermore, disaggregated EF1, EF3PRP, CPP and EF4 values for wet and dry climates are provided, with a 
+distinction between synthetic and other fertilisers in wet climate for the EF1. In addition, the EF1FR is 
+disaggregated by flooding / drainage regime. Finally, different FracGASF values are provided according to 
+chemical composition of fertiliser categories. Data and methods used for these updates are provided in Annexes 
+11A.2 – 9.  
+Refinements also include an update of the equation for calculating the annual amount of N in crop residues 
+returned to soils annually (FCR) (Equation 11.6). Default values to be used in this Equation are available in the 
+new Table 11.1A. Notwithstanding, the alternative to estimate the above-ground crop residue (AGDM(T)) with 
+data in Table 11.2 remains available in the guidance.  
+Sections 
+ Slight rewording was done in section 11.2. 
+ Section 11.2.1.1 has an update to footnote 1 and guidance for locating EF2 values in the Wetland supplement. 
+Information is also provided for Tier 2 approaches such as factors specific to mitigation options (e.g. 
+application of nitrification inhibitors) or exponential response of N2O emissions to N application. 
+Complementary guidance for Tier 3 approach (e.g. N-flow principle) is also added. 
+ Section 11.2.1.2 is updated according to updated EF values of TABLE 11.1. 
+ Section 11.2.1.3 is updated with a link to FAOSTAT throughout the section. Substantial changes are brought 
+to subsection Crop residue N, including N-fixing crops and forage/ pasture renewal, returned to soils 
+otherwise most of the text is unchanged. In subsection Crop residue N, including N-fixing crops and forage/ 
+pasture renewal, returned to soils (FCR), text is added to eliminate the possibility of double-counting by 
+cross-checking with Chapters 10 (Livestock and manure management) and 5 (Cropland). Equation 11.6 is 
+updated and Equation 11.7A has been removed. The existing text is also slightly edited following the review 
+process. A new Table (Table 11.1A) is added that is used to produce default values from Table 11.2 in the 
+2006 IPCC Guidelines and introduces new default values to be used in updated Equation 11.6. Table 11.2 is 
+updated, default values remain unchanged but AGDM(T) has been changed to be in conformity with equation 
+11.6 and several variables are moved to new Table 11.1A. 
+ Section 11.2.2 has minor edits. 
+ Section 11.2.2.1 information is updated for Tier 2 approaches such as factors specific to mitigation options 
+(e.g. application of nitrification inhibitors). Complementary guidance for Tier 3 approach (e.g. N-flow 
+principle) was also added. 
+ Section 11.2.2.2 is edited to reflect the updates for the emission factor FracLEACH-(H). 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+NR 
+11.1 
+11.1 
+N2O emissions from managed soils 
+U 
+11.2 
+11.2 
+Direct N2O emissions 
+U 
+11.2.1 
+11.2.1 
+Choice of method 
+U 
+11.2.1.1 
+11.2.1.1 
+Choice of emission factors 
+U 
+11.2.1.2 
+11.2.1.2 
+Choice of activity data 
+U 
+11.2.1.3 
+11.2.1.3 
+Uncertainty assessment 
+NR 
+11.2.1.4 
+11.2.1.4 
+Indirect N2O emissions 
+U 
+11.2.2 
+11.2.2 
+Choice of method 
+U 
+11.2.2.1 
+11.2.2.1 
+Choice of emission, volatilisation and leaching factors 
+U 
+11.2.2.2 
+11.2.2.2 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.43 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Choice of activity data 
+NR 
+11.2.2.3 
+11.2.2.3 
+Uncertainty assessment 
+NR 
+11.2.2.4 
+11.2.2.4 
+Completeness, Time series, QA/QC 
+NR 
+11.2.3 
+11.2.3 
+CO2 Emissions from Liming 
+NR 
+11.3 
+11.3 
+CO2 Emissions from Urea Fertilization 
+NR 
+11.4 
+11.4 
+References for crop residue data in Table 11.2 
+NR 
+ 11A.1 
+ 11A.1 
+Estimation of Default Emission Factor(s) for EF1 
+NG 
+- 
+ 11A.2 
+Estimation of Default Emission Factor(s) for EF1FR 
+NG 
+- 
+ 11A.3 
+Estimation of Default Emission Factor(s) for EF3PRP 
+NG 
+- 
+ 11A.4 
+Estimation of Default Emission Factor(s) for EF4 
+NG 
+- 
+ 11A.5 
+Estimation of Default Emission Factor(s) for EF5 
+NG 
+- 
+ 11A.6 
+Estimation of Default Emission Factor(s) for FracGASF 
+NG 
+- 
+ 11A.7 
+Estimation of Default Emission Factor(s) for FracGASM 
+NG 
+- 
+ 11A.8 
+Estimation of Default Emission Factor(s) for FracLEACH-(H) 
+NG 
+- 
+ 11A.9 
+Equations 
+ Equation 11.6 is updated to be consistent with revisions for estimating residue N. 
+ Equation 11.7A is removed, but the option to estimate AGDM(T) with data in Table 11.2 remains available in 
+the guidance. 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation Number 
+2019 Refinement 
+Equation Number 
+Direct N2O emissions from managed soils (Tier 1) 
+NR 
+11.1 
+11.1 
+Direct N2O emissions from managed soils (Tier 2) 
+NR 
+11.2 
+11.2 
+N from organic N additions applied to soils (Tier 1) 
+NR 
+11.3 
+11.3 
+N from animal manure applied to soils (Tier 1) 
+NR 
+11.4 
+11.4 
+N in urine and dung deposited by grazing animals on 
+pasture, range and paddock 
+NR 
+11.5 
+11.5 
+N from crop residues and forage/pasture renewal (Tier 1) 
+U 
+11.6 
+11.6 
+Dry-weight correction of reported crop yields 
+NR 
+11.7 
+11.7 
+Alternative approach to estimate FCR 
+R 
+11.7a 
+- 
+N mineralised in mineral soils as a result of loss of soil C 
+through change in land use or management (Tiers 1 and 
+2) 
+NR 
+11.8 
+11.8 
+N2O from atmospheric deposition of N volatilised from 
+managed soils (Tier 1) 
+NR 
+11.9 
+11.9 
+N2O from N leaching/runoff from managed soils in 
+regions where leaching/runoff occurs (Tier 1) 
+NR 
+11.10 
+11.10 
+N2O from atmospheric deposition of N volatilised from 
+managed soils (Tier 2) 
+NR 
+11.11 
+11.11 
+Tables 
+ Table 11.1 contains updated EF1, EF1FR and EF3PRP. Methods, data and references used for determining 
+updated values and their uncertainties are in the annexes 11A.2, 11A.3, 11A.4. 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.44 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ Table 11.1A is added to the section 11.2.1.3 Choice of activity data, Crop residue N, including N-fixing crops 
+and forage/ pasture renewal, returned to soils (FCR). The Table reproduces default values from Table 11.2 in 
+the 2006 IPCC Guidelines for columns ‘Dry matter fraction of harvested product (DRY)’, ‘N content of 
+above-ground residues (NAG)’, ‘Ratio of below-ground residues to above-ground biomass (RBG-BIO)’, and ‘N 
+content of below-ground residues (NBG)’. It also introduces new default values for RAG(T), ratio of above-
+ground residues dry matter (R AG(T)) to harvested yield for crop T, to be used in updated version of Equation 
+11.6. 
+ Table 11.2 is updated. The title “Default factors for estimation of N added to soils from crop residues” is 
+changed to “Alternative method and data for estimating above-ground residue AGDM(T)”. The units of 
+AGDM(T)are changed from Mg ha-1 to kg. d.m. ha-1; in alignment with the unit in Equation 11.6. Default 
+values for slope, intercept, errors remain unchanged. Former columns ‘Dry matter fraction of harvested 
+product (DRY)’, ‘N content of above-ground residues (NAG)’, ‘Ratio of below-ground residues to above-
+ground biomass (RBG-BIO)’, and ‘N content of below-ground residues (NBG)’ are moved to new Table 11.1A. 
+ Table 11.3 contains updated EF4, EF5, FracGASF FracGASM and FracLEACH-(H). Methods, data, references and 
+methods used for determining updated values are in the annexes11A.5, 11A.6, 11A.7, 11A.8, 11A.9. 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Table 
+Number 
+2019 Refinement 
+Table Number 
+Default emission factors to estimate direct N2O emissions 
+from managed soils 
+U 
+11.1 
+11.1  
+Default values for N AG(T), N BG(T), R AG(T), RS (T) and DRY to 
+be used in Equations 11.6 and 11.7 
+NG 
+- 
+11.1a 
+Alternative method and data for estimating above-ground 
+residue (AGDM(T)) 
+U 
+11.2 
+11.2  
+Default emission, volatilisation and leaching factors for 
+indirect soil N2O emissions 
+U 
+11.3 
+11.3  
+Figures 
+ No refinement. 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.45 
+CHAPTER 12 HARVESTED WOOD PRODUCTS 
+The guidance in chapter 12 maintains the existing approaches covered in the 2006 IPCC Guidelines. The 
+refinement takes account of new relevant scientific information, including relevant methodological information 
+and parameters contained in KP Supplement (e.g. carbon conversion factors). Some cross references are made to 
+the earlier guidance where needed, for example in cases where it may be helpful to show consistency with the 
+earlier guidance. The new structure of this chapter aims to clarify the relationships between new information and 
+the 2006 IPCC Guidelines and to allow for inclusion and updating of new parameters where appropriate. The 
+description of the application of methodologies is clarified based on the updated parameters. Section 12.2 
+clarifies some existing terms, definitions and concepts. Section 12.3 provides guidance on available HWP 
+approaches, describing and clarifying the options for defining a conceptual framework and system boundary for 
+estimating emissions and removals arising from HWP. 
+The subsequent guidance in this chapter is structured to consider three distinct subject areas relevant to harvested 
+wood biomass: i) wood products in use (i.e. wood utilised as a material); ii) wood biomass used for energy 
+purposes and iii) wood biomass in solid waste disposal sites (SWDS). Section 12.4 gives detailed guidance on 
+wood products in use, specifically providing good practice guidance on the choice of method for wood products 
+in use. This includes improved methodological guidance for estimating CO2 emissions and removals arising 
+from HWP following different approaches. This section also includes refined guidance for calculating the initial 
+carbon stock in the HWP pool in use as well as parameters such as HWP carbon conversion factors. Section 12.5 
+addresses wood biomass used for energy purposes. Section 12.6 provides clarification of the treatment of “wood 
+biomass in SWDS”.  
+It should also be noted that the HWP Worksheet accompanying the 2006 IPCC Guidelines (HWP calculator) 
+cannot be used in conjunction with this updated guidance. No update on reporting and documentation has been 
+included since the reporting conventions and format are specified in Decision 24/CP.19 Annex II and the 
+associated CRF. 
+Sections 
+ Section 12.1 provides an overview of the HWP chapter in the 2019 Refinement. Updates the explanation of 
+some key concepts relevant to estimation based on updated parameters. 
+ Section 12.2 updates (clarifies) the description of some existing terms, definitions and concepts.  
+ Section 12.3 updates the explanation of the different HWP approaches. Clarifies essential differences 
+between approaches including brief discussion of the implications of selecting HWP approaches relevant to 
+estimation based on updated technical parameters. 
+ Section 12.4 updates methodological guidance for estimating under the approaches, including updated 
+guidance for applying technical parameters for the calculation of initial stock establishment and updated 
+technical parameters including HWP carbon conversion factors. Includes an update of all technical 
+parameters relevant to estimation methods. 
+ Section 12.5 updates the discussion to clarify where CO2 and non-CO2 emissions from harvested wood used 
+for energy purposes are reported, in particular where CO2 emissions are reported when HWP are used in the 
+Energy sector and imports and exports are involved. 
+ Section 12.6 provides clarification of the treatment of “wood biomass in SWDS” in this guidance. 
+ Section 12.7 updates discussion of uncertainty assessment allowing for updated description of application of 
+technical parameters for Tiers 1 to 3. 
+ Section 12.8 updates the discussion of QA/QC allowing for updated description of application of technical 
+parameters. 
+ Annex 12.A.1 updated technical description of HWP approaches is provided in the annex.  
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.46 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Preamble to Introduction 
+U 
+12 (before 12.1) 
+12.1 
+Introduction 
+U 
+12.1 
+12.1, 12.2, 12.5 
+Methodological issues 
+U 
+12.2 
+12.3, 12.4.1 
+Choice of method 
+U 
+12.2.1 
+12.4.1 
+Tier 1 
+U 
+12.2.1.1 
+12.4.2 
+Tier 2: Using country data 
+U 
+12.2.1.2 
+12.4.3 
+Tier 3: Country-specific methods 
+U 
+12.2.1.3 
+12.4.4 
+Estimating carbon release to the atmosphere from the 
+HWP variables 
+U 
+12.2.1.4 
+12.4, 12.5 & 12.6 
+Estimating carbon released to the atmosphere in the 
+form of CO2 
+U 
+12.2.1.5 
+12.4,.2 
+Choice of emission factors 
+U 
+12.2.2 
+12.4.2.2, 12.4.3.2 & 
+12.4.4.1 
+Choice of activity data 
+U 
+12.2.3 
+12.4.2.1, 12.4.3.1 & 
+12.4.4.1 
+Uncertainty assessment 
+U 
+12.3 
+12.7 
+Quality assurance/quality control 
+U 
+12.4 
+12.8 
+Completeness 
+U 
+12.5 
+12.9 
+Reporting and documentation 
+NR 
+12.6 
+No equivalent section 
+see note 9 
+Reporting tables and worksheets 
+NR 
+12.7 
+No equivalent section 
+see note 9 
+Some Approaches 
+U 
+ 12.A.1 
+12.3, 12. A.1 
+Equations 
+ Previous Equation 12.1: Equation 12.2 in the updated 2019 Refinement is effectively the same as Equation 
+12.1 but involves updated treatment of C (1900) (see Section 12.4.2 of 2019 Refinement in particular 
+discussion of Equation 12.4/Box 12.1). 
+ Previous Equation 12.2: Updated principally through Equations 12.3 & 12.6 in 2019 Refinement, allowing 
+for updated consideration of activity data and updated technical parameters. 
+ Previous Equation 12.3: Updated principally through Equations 12.3, 12.7, 12.8, 12.9 & 12.10 in 2019 
+Refinement, allowing for updated consideration of activity data and updated technical parameters. 
+ Previous Equation 12.4: No equation needed due to updated guidance on treatment of wood in SWDS in the 
+context of Decision 24/CP.19 Annex II (see Section 12.6 of 2019 Refinement). 
+ Previous Equation 12.5: Updated principally through Equations 12.2 & 12.3 in 2019 Refinement, allowing 
+for updated consideration of activity data and updated technical parameters and treatment of wood in SWDS 
+in the context of Decision 24/CP.19 Annex II (see Section 12.6 of 2019 Refinement). 
+ Previous Equation 12.6: Updated principally through Equation 12.4 in 2019 Refinement, allowing for 
+updated guidance in Section 12.4.2 in particular discussion accompanying Equation 12.4/Box 12.1. 
+ Previous Equations 12.A.1 to 12.A.6: Updated principally through Equation 12.1 in 2019 Refinement, 
+allowing for updated consideration of activity data and updated technical parameters and reporting according 
+to Decision 24/CP.19 Annex II (see Section 12.6 of 2019 Refinement). Updated equations (12.5 and 12.11) 
+are provided to maintain the ‘atmospheric flow’ approach. 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.47 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation Number 
+2019 Refinement 
+Equation Number 
+Estimation of carbon stock and its annual change in 
+HWP pools of the reporting country 
+NR 
+12.1 
+12.2 
+Estimation of HWP products placed in use annually 
+from domestic consumption 
+U 
+12.2 
+12.3 & 12.6 
+Estimation of HWP products produced annually from 
+domestic harvest 
+U 
+12.3 
+12.3, 12.7, 12.8, 
+12.9 & 12.10 
+Estimation of annual change in carbon in HWP in 
+domestic SWDS where HWP came from harvest 
+U 
+12.4 
+No equivalent 
+equation see note 4 
+Estimation of carbon release using HWP variables 
+U 
+12.5 
+12.2 & 12.3 
+Equation to estimate production, imports or export 
+variables in Table 12.5 for years before 1961 
+U 
+12.6 
+12.4 
+Emissions from AFOLU by the stock-change approach 
+U 
+12.A.1 
+12.1 
+Stock-change approach: HWP contribution 
+U 
+12.A.2 
+12.1 
+Emissions from AFOLU as by the atmospheric flow 
+approach 
+U 
+12.A.3 
+12.5 & 12.11 
+Atmospheric flow approach: HWP contribution 
+U 
+12.A.4 
+12.1 
+Emissions from AFOLU by the production approach 
+U 
+12.A.5 
+12.1 
+Production approach: HWP contribution 
+U 
+12.A.6 
+12.1 
+Tables 
+ Previous Table 12.1 table no longer required due to updated guidance included in Section 12.4 of 2019 
+Refinement. 
+ Previous Table 12.2 updated (inclusion of updated technical parameters) in Table 12.3 of 2019 Refinement. 
+ Previous Table 12.3 table no longer required due to updated guidance (see Section 12.4.2 in 2019 Refinement 
+in particular discussion of Equation 12.4/Box 12.1). 
+ Previous Table 12.4 updated (inclusion of updated technical parameters) in Tables 12.1 and 12.2 of 2019 
+Refinement. 
+ Previous Table 12.5 table no longer required due to updated guidance (see Section 12.4.1.1 in 2019 
+Refinement). 
+ Previous Table 12.6 table no longer required due to updated guidance included in Section 12.7 of 2019 
+Refinement, which includes an indication of overall uncertainties. Previous Tables 12.7 & A12.1 table no 
+longer required due to adoption of CRF table as agreed in Decision 24/CP.19, Annex II.  
+Figures 
+ Previous Figure 12.1 updated decision tree in Figure 12.1 allowing for improved understanding of available 
+activity data. 
+ Previous Figure 12.A.1 updated system boundary diagrams in Figures 12.A.1 & 12.A.2 clarifying linkages to 
+relevant updated guidance on activity data and reporting according to Decision 24/CP.19 Annex II (see 
+Section 12.A.2.1 in Annex 12.A of 2019 Refinement). 
+ Previous Figure 12.A.2 updated system boundary diagrams in Figures 12.A.5 & 12.A.6 clarifying linkages to 
+relevant updated guidance on activity data and reporting according Decision 24/CP.19 Annex II (see Section 
+12.A.3 in Annex 12.A of 2019 Refinement). 
+ Previous Figure 12.A.3 updated system boundary diagrams in Figures 12.A.3 & 12.A.4 clarifying linkages to 
+relevant updated guidance on activity data and reporting according Decision 24/CP.19 Annex II (see Section 
+12.A.2.2 in Annex 12.A of 2019 Refinement). 
+ 
+ 
+Volume 4: Agriculture, Forestland and other land Use 
+A1.48 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Decision tree for reporting HWP Contribution of zero or 
+selecting a tier 
+U 
+12.1 
+12.1 
+System boundary of the stock-change approach 
+U 
+12.A.1 
+12.A.1 & 12.A.2 
+System boundary of the atmospheric flow approach 
+U 
+12.A.2 
+12.A.5 & 12.A.6 
+System boundary of the production approach 
+U 
+12.A.3 
+12.A.3 & 12.A.4 
+Boxes 
+None. 

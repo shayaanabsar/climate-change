@@ -1,0 +1,1068 @@
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.1 
+CHAPTER 6 
+GRASSLAND 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Brian McConkey (Canada), Stephen Michael Ogle (USA), Ngonidzashe Chirinda (CGIAR, Zimbabwe), Ayaka 
+W. Mo Kishimoto (Japan), Jeffrey Baldock (Australia), Aleksandr Trunov (Russian Federation) 
+Contributing Authors 
+Cody Alsaker (USA), Johannes Lehmann (USA) Dominic Woolf (USA) 
+ 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.3 
+Contents 
+6 
+Grassland .................................................................................................................................................. 6.4 
+6.1 
+Introduction ......................................................................................................................................... 6.4 
+6.2 
+Grassland Remaining Grassland ......................................................................................................... 6.4 
+6.2.1 
+Biomass .................................................................................................................................... 6.4 
+6.2.2 
+Dead organic matter ................................................................................................................. 6.4 
+6.2.3 
+Soil carbon ............................................................................................................................... 6.4 
+6.2.3.1 
+Choice of method ............................................................................................................... 6.4 
+6.2.3.2 
+Choice of stock change and emission factor ...................................................................... 6.5 
+6.2.3.3 
+Choice of activity data ........................................................................................................ 6.7 
+6.2.3.4 
+Calculation steps for Tier 1 .............................................................................................. 6.10 
+6.2.3.5 
+Uncertainty assessment .................................................................................................... 6.11 
+6.2.4 
+Non-CO2 greenhouse gas emissions from biomass burning .................................................. 6.11 
+6.3 
+Land Converted to Grassland ............................................................................................................ 6.12 
+6.3.1 
+Biomass .................................................................................................................................. 6.12 
+6.3.2 
+Dead organic matter ............................................................................................................... 6.12 
+6.3.3 
+Soil carbon ............................................................................................................................. 6.12 
+6.3.3.1 
+Choice of method ............................................................................................................. 6.12 
+6.3.3.2 
+Choice of stock change and emission factors ................................................................... 6.13 
+6.3.3.3 
+Choice of activity data ...................................................................................................... 6.15 
+6.3.3.4 
+Calculation steps for Tier 1 .............................................................................................. 6.16 
+6.3.3.5 
+Uncertainty assessment .................................................................................................... 6.17 
+6.3.4 
+Non-CO2 greenhouse gas emissions from biomass burning .................................................. 6.17 
+6.4 
+Completeness, Time series, QA/QC, and Reporting ......................................................................... 6.17 
+Annex 6A.1 
+Estimation of default stock change factors for mineral soil C emissions/removals for 
+Grassland............................................................................................................... 6.18 
+References .......................................................................................................................................................... 6.19 
+Figures 
+Figure 6.1 
+Classification scheme for grassland/grazing systems.. ........................................... 6.8 
+Tables 
+Table 6.2 (Updated) 
+Relative stock change factors for grassland management ....................................... 6.6 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6 GRASSLAND 
+6.1 
+INTRODUCTION 
+No refinement. 
+6.2 
+GRASSLAND REMAINING GRASSLAND 
+No refinement. 
+6.2.1 
+Biomass  
+No refinement. 
+6.2.2 
+Dead organic matter 
+No refinement. 
+6.2.3 
+Soil carbon 
+This section deals with the impacts of grassland management on soil organic C stocks, primarily by influencing C 
+inputs to the soil, and thus soil C storage, by affecting net primary production, root turnover, and allocation of C 
+between roots and shoots. Soil C stocks in grassland are influenced by fire, grazing intensity, fertilizer management, 
+liming, irrigation, re-seeding with more or less productive grass species and mixed swards with N-fixing legumes 
+(Conant et al., 2001; Follett et al., 2001; Ogle et al., 2004). In addition, drainage of organic soils for grassland 
+management causes losses of soil organic C (Armentano and Menges, 1986).   
+General information and guidance for estimating changes in soil C stocks are provided in Chapter 2, Section 2.3.3 
+(including equations), and this section needs to be read before proceeding with a consideration of specific 
+guidelines dealing with grassland soil C stocks. The total change in soil C stocks for grassland is estimated using 
+Equation 2.24 (Chapter 2), which combines the change in soil organic C stocks for mineral soils and organic soils; 
+and stock changes associated with soil inorganic C pools (if estimated at Tier 3). This section provides specific 
+guidance for estimating soil organic C stocks. There is a general discussion in Section 2.3.3.1 on soil inorganic C 
+and no additional information on this is provided here. 
+To account for changes in soil C stocks associated with Grassland Remaining Grassland, countries need to have, 
+at a minimum, estimates of grassland areas at the beginning and end of the inventory time period. If land-use and 
+management data are limited, aggregate data, such as Food and Agriculture Organization (FAO) statistics on 
+grassland, can be used as a starting point, along with knowledge of country experts about the approximate 
+distribution of land management systems (e.g., degraded, nominal and improved grassland/grazing systems). 
+Grassland management classes must be stratified according to climate regions and major soil types, which could 
+either be based on default or country-specific classifications. This can be accomplished with overlays of land use 
+on suitable climate and soil maps.  
+6.2.3.1 CHOICE OF METHOD 
+Inventories can be developed using a Tier 1, 2 or 3 approach, with each successive Tier requiring more details and 
+resources than the previous one. It is also possible that countries will use different tiers to prepare estimates for 
+the separate sub-categories of soil C (i.e., soil organic C stocks changes in mineral and organic soils; and stock 
+changes associated with soil inorganic C pools). Decision trees are provided for mineral (Figure 2.4) and organic 
+soils (Figure 2.5) in Section 2.3.3.1 (Chapter 2) to assist inventory compilers with the selection of the appropriate 
+tier for their soil C inventory. 
+Mineral soils 
+Tier 1 
+For mineral soils, the estimation method is based on changes in soil organic C stocks over a finite period following 
+changes in management that impact soil organic C storage. After a finite transition period, one can assume a steady 
+state for this stock. Equation 2.25 (Chapter 2) is used to estimate change in soil organic C stocks in mineral soils 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.5 
+by subtracting the C stock in the last year of an inventory time period (SOC0) from the C stock at the beginning of 
+the inventory time period (SOC(0 –T)) and dividing by the time dependence of the stock change factors (D). Note 
+that area of exposed bedrock in grasslands are not included in the soil C stock calculation (assume a stock of 0). 
+In practice, country-specific data on grassland management activity should be obtained and classified into 
+appropriate land management systems, and then stratified by IPCC climate regions and soil types (see Chapter 3). 
+Soil organic C stocks (SOC) are estimated for each time period in the inventory using default reference carbon 
+stocks (SOCref) and default stock change factors (FLU, FMG, FI ).  
+Tier 2 
+The Tier 2 method for mineral soils also uses Equation 2.25 (Chapter 2), but the inventory approach is further 
+developed with country-specific information to better specify stock change factors, reference C stocks, climate 
+regions, soil types, and/or the land management classification system. For biochar C amendments, Tier 2 methods 
+utilize a top-down approach in which the total amount of biochar generated and added to mineral soil is used to 
+estimate the change in soil organic C stocks with country-specific factors. See Section 2.3.3.1, Chapter 2, Volume 
+IV for more information.   
+Tier 3 
+Tier 3 approaches do not employ simple stock change factor per se, but rather use dynamic models and/or detailed 
+soil C inventory measurements as the basis for estimating annual stock changes.  
+Estimates of stock changes using model-based approaches are computed from the coupled equations that estimate 
+the net change of soil carbon. A variety of models designed to simulate soil carbon dynamics exist (for example, 
+see reviews by McGill et al., 1996; Smith et al., 1997). Key criteria in selecting an appropriate model include its 
+capability of representing all of the relevant management practices/systems for grasslands; model inputs (i.e., 
+driving variables) are compatible with the availability of country-wide input data; and the model sufficiently 
+represents stock changes based on comparisons with experimental data.  
+A Tier 3 approach may also be developed using a measurement-based approach in which a monitoring network is 
+sampled periodically to estimate soil organic C stock changes.  In contrast to a network associated with model 
+validation, a much higher density of benchmark sites will be needed to adequately represent the combination of 
+land-use and management systems, climate and soil types. Additional guidance is provided in Section 2.3.3.1 
+(Chapter 2). 
+For biochar C amendments to soils, Tier 3 methods can be used to address GHG sources and sinks not captured in 
+Tiers 1 or 2, such as priming effects, changes to N2O or CH4 fluxes from soils, and changes to net primary 
+production. More information on Tier 3 methods is provided in Section 2.3.3.1 of Chapter 2, Volume IV.   
+Organic soils 
+No refinement. 
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See section 
+2.2 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for drained organic soils. 
+6.2.3.2 CHOICE OF STOCK CHANGE AND EMISSION FACTOR 
+Mineral soils 
+Tier 1 
+For the Tier 1 approach, default stock change factors are provided in Table 6.2, which includes values for land use 
+factor (FLU), input factor (FI), and management factor (FMG). The method and studies that were used to derive the 
+default stock change factors are provided in Annex 6A.1. The time dependence (D) is 20 years for default stock 
+change factors in grasslands, and they represent the influence of management to a depth of 30cm. Default reference 
+soil organic C stocks are found in Table 2.3 of Chapter 2. The reference stock estimates are for the top 30cm of 
+the soil profile, to be consistent with the depth increment for default stock change factors.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 6.2 (UPDATED) 
+RELATIVE STOCK CHANGE FACTORS FOR GRASSLAND MANAGEMENT 
+Factor 
+Level 
+Climate 
+regime 
+IPCC 
+default 
+Error 1,2 
+Definition 
+Land use 
+(FLU) 
+All 
+All 
+1.0 
+NA 
+All native and/or permanent grassland in a 
+nominal condition is assigned a land-use factor 
+of 1. 
+Management 
+(FMG) 
+Nominally 
+managed 
+(non –
+degraded) 
+All 
+1.0 
+NA 
+Represents low or medium intensity grazing 
+regimes, in addition to periodic cutting and 
+removal of above-ground vegetation, without 
+significant management improvements. 
+Management 
+(FMG) 
+High 
+Intensity 
+Grazing3 
+All 
+0.90 
+±8% 
+Represents high intensity grazing systems (or 
+cutting and removal of vegetation) with shifts 
+in vegetation composition and possibly 
+productivity but is not severely degraded4. 
+Management 
+(FMG) 
+Severely 
+degraded 
+All 
+0.7 
+±40% 
+Implies major long-term loss of productivity 
+and vegetation cover, due to severe mechanical 
+damage to the vegetation and/or severe soil 
+erosion. 
+Management 
+(FMG) 
+Improved 
+grassland 
+Temperate/ 
+Boreal 
+1.14 
+±11% 
+Represents grassland which is sustainably 
+managed with light to moderate grazing 
+pressure (or cutting and removal of vegetation) 
+and that receive at least one improvement (e.g., 
+fertilization, species improvement, irrigation). 
+Tropical 
+1.17 
+±9% 
+Tropical 
+Montane5 
+1.16 
+±40% 
+Input (applied 
+only to 
+improved 
+grassland) (FI) 
+Medium 
+All 
+1.0 
+NA 
+Applies to improved grassland where no 
+additional management inputs have been used. 
+Input (applied 
+only to 
+improved 
+grassland) (FI) 
+High 
+All 
+1.11 
+±7% 
+Applies to improved grassland where one or 
+more additional management 
+inputs/improvements have been used (beyond 
+that required to be classified as improved 
+grassland). 
+Management factors were derived using methods and studies provided in Annex 6A1. The basis for the other factors is described in the 
+2006 IPCC Guidelines. 
+Source: 
+3  The bibliography for the following references used for management factor can be found in Annex 6A.1: 
+Cao et al., 2013; Ding et al., 2014; Du et al., 2017; Frank et al., 1995; Franzluebbers and Stuedemann, 2009; Gao et al., 2018; Gao et al., 
+2007; Gillard, 1969; Han et al., 2008; He et al., 2008; Ingram et al., 2008; Kioko et al., 2012; Kölbl et al., 2011; Li et al., 2008; Liu et 
+al., 2012; Manley et al., 1995; Martinsen et al., 2011; Potter et al., 2001; Qi et al., 2010; Rutherford and Powrie, 2011; Schulz et al., 
+2016; Schuman et al., 1999; Segoli et al., 2015; Smoliak et al., 1972; Sun et al., 2011; Talore et al., 2016; Teague et al., 2011; Wang et 
+al., 2017; Wei et al., 2011; Xu et al., 2014; Yanfen et al., 1998; Zhang et al., 2018; Zhou et al., 2010; Zou et al., 2015 
+Notes: 
+1 + two standard deviations, expressed as a percent of the mean; where sufficient studies were not available for a statistical analysis a 
+default, based on expert judgement, of + 40% is used as a measure of the error. NA denotes ‘Not Applicable’, for factor values that 
+constitute reference values or nominal practices for the input or management classes.  
+2 This error range does not include potential systematic error due to small sample sizes that may not be representative of the true impact 
+for all regions of the world. 
+4 High intensity grazing may be moderately degraded, but do not represent excessive grazing intensity that leads to severe grassland 
+degradation. 
+5 There were not enough studies to estimate stock change factors for mineral soils in the tropical montane climate region.  As an 
+approximation, the average stock change between the temperate and tropical regions was used to approximate the stock change for the 
+tropical montane climate. 
+Tier 2 
+Estimation of country-specific stock change factors is an important advancement for improving an inventory that 
+can be developed in the Tier 2 approach. Derivation of management factors (FMG) and input factors (FI) are based 
+on experimental comparisons to nominally-managed grasslands with medium input, respectively, because these 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.7 
+classes are considered the nominal practices in the IPCC default classification scheme for management systems 
+(see Choice of Activity Data). It is considered good practice to derive values for more detailed classification 
+schemes of management, climate and soil types, if there are significant differences in the stock change factors 
+among finer categories based on an empirical analysis.  
+Reference C stocks can be derived from country-specific data in a Tier 2 approach.  Reference values in Tier 1 
+correspond to non-degraded, unimproved lands under native vegetation, but other reference conditions can also be 
+chosen for Tier 2. In addition, the depth for evaluating soil C stock changes can be different with the Tier 2 method. 
+However, this will require consistency with the depth of the reference C stocks (SOCREF) and stock change factors 
+for all land uses (i.e., FLU, FMG, and FI) to ensure consistent application of methods for determining the impact of 
+land use change on soil C stocks. 
+The carbon stock estimates may be improved when deriving country-specific factors for FLU and FMG, by 
+expressing carbon stocks on a soil-mass equivalent basis rather than a soil-volume equivalent (i.e. fixed depth) 
+basis. This is because the soil mass in a certain soil depth changes with the various operations associated with land 
+use that affect the density of the soil, such as uprooting, land levelling, tillage, and rain compaction due to the 
+disappearance of the cover of tree canopy. However, it is important to realize that all data used to derive stock 
+change factors across all land uses must be on an equivalent mass basis if this method is applied. This will be 
+challenging to do comprehensively for all land uses. See Box 2.2C in Chapter2, Section 2.3.3.1 for more 
+information. 
+For biochar C amendments to soils, the parameter 𝐹𝑝𝑒𝑟𝑚𝑝 can be based on H/Corg or O/Corg measured directly 
+from representative samples of biochar, or from published data for biochar produced using similar process 
+conditions as the biochar that is applied to soils in the country. Tier 2 emission factors may be disaggregated based 
+on variation in environmental conditions, such as the climate and soil types, in addition to variation associated 
+with the biochar production methods that generate production types defined by a specific feedstock type and 
+conversion process. See Section 2.3.3.1, Chapter 2, Volume IV for more information. 
+Tier 3 
+Constant stock change rate factors per se are less likely to be estimated in favor of variable rates that more 
+accurately capture land-use and management effects.  See Section 2.3.3.1 (Chapter 2) for further discussion.  Tier 
+3 methods for biochar C amendments to soils are country-specific and may involve empirical or process-based 
+models to account for a broader set of impacts of biochar amendments. More information on Tier 3 methods is 
+provided in Section 2.3.3.1, Chapter 2, Volume IV.   
+Organic soils 
+No refinement.  
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See section 
+2.2 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for drained organic soils.  
+6.2.3.3 CHOICE OF ACTIVITY DATA 
+Mineral soils 
+Tier 1 
+Grassland systems are classified by practices that influence soil C storage. In general, practices that are known to 
+increase C input to the soil and thus soil organic C stocks, such as irrigation, fertilization, liming, organic 
+amendments, more productive grass varieties, are given an improved status, with medium or high inputs depending 
+on the level of improvement. Practices that decrease C input and soil organic C storage, such as long-term heavy 
+grazing, are given a degraded status relative to nominally-managed seeded pastures or native grassland that are 
+neither improved nor degraded. These practices are used to categorize management systems and then estimate the 
+change in soil organic C stocks. A classification system is provided in Figure 6.1, which forms the basis for a Tier 
+1 inventory. Inventory compilers should use this classification to categorize management systems in a manner 
+consistent with the default Tier 1 stock change factors. This classification may be further developed for Tiers 2 
+and 3 approaches.   
+The main types of land-use activity data include: i) aggregate statistics (Approach 1), ii) data with explicit 
+information on land-use conversions but without specific geo-referencing (Approach 2), or iii) data with 
+information on land-use conversion and explicit geo-referencing (Approach 3), such as point-based land-use and 
+management inventories making up a statistically-based sample of a country’s land area. (See Chapter 3 for 
+discussion of Approaches). At a minimum, globally available land-use statistics, such as FAO’s databases 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(http://www.fao.org/faostat/en/#home), provide annual compilations of total land area by major land-use types. This 
+would be an example of aggregate data (Approach 1). 
+Figure 6.1 
+Classification scheme for grassland/grazing systems.  In order to classify 
+grassland management systems, the inventory compiler should start at the 
+top and proceed through the diagram answering questions (move across 
+branches if answer is yes) until reaching a terminal point on the diagram.  
+The classification diagram is consistent with default stock change factors in 
+Table 6.2.  
+Grassland1 has severe damage2 to 
+vegetation and soils
+Start
+Grassland productivity  
+greater than native due to 
+improvements3
+Multiple Improvements?
+Nominal/Native
+Improved-
+Medium Input
+Improved-High  
+Input
+No
+No
+Yes
+Yes
+Yes
+No
+Severely degraded
+High intensity grazing4?
+No
+Yes
+High Intensity 
+Grazing
+ 
+Notes:   
+1: Includes continuous pasture, hay lands and rangelands 
+2: Large loss in vegetation cover and productivity due to continual overgrazing and/or high rates of erosion. 
+3: Productivity refers explicitly to C input to soil (management improvements that increase input e.g., fertilization, organic amendment, 
+irrigation, planting more productive varieties, liming, and seeding legumes). 
+4: High intensity grazing is defined as grazing that deteriorates the condition and/or long-term recovery capacity of the vegetation compared 
+with the vegetation state under nominal to moderate grazing intensity. High intensity grazing does not refer to stocking rate and duration only, 
+but to the stocking rate and duration in relation to grassland productivity and resilience. This may be called a moderately degraded condition 
+but high intensity grazing does not lead to the severe degradation such as is caused by relentless overgrazing. High intensity grazing also 
+includes land where vegetation is frequently cut and removed equivalent to high intensity grazing and without application of any animal manure.  
+Management activity data supplement the land-use data, providing information to classify management systems, 
+such as stocking rates, fertilizer use, irrigation, etc. These data can also be aggregate statistics (Approach 1) or 
+provide information on explicit management changes (Approach 2 or 3). It is good practice where possible for 
+grassland areas to be assigned appropriate general management activities (i.e., degraded, native, or improved) or 
+specific management activities (e.g., fertilization or grazing intensity). Soil degradation maps may be a useful 
+source of information for stratifying grassland according to management (e.g., Conant and Paustian, 2002; 
+McKeon et al., 2004).  Expert knowledge is another source of information for management practices. It is good 
+practice to elicit expert knowledge, where appropriate, using methods provided in Volume 1, Chapter 2 (Annex 
+2A.1, A protocol for expert elicitation). 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.9 
+National land-use and resource inventories based on repeated surveys of the same locations constitute activity data 
+gathered using Approach 2 or 3 and have some advantages over aggregated pastoral and land-use statistics 
+(Approach 1). Time series data can be more readily associated with a particular grassland management system and 
+the soil type associated with the particular location can be determined by sampling or by referencing the location 
+to a suitable soil map. Inventory points that are selected based on an appropriate statistical design also enable 
+estimates of the variability associated with activity data, which can be used as part of a formal uncertainty analysis. 
+An example of a survey using Approach 3 is the National Resource Inventory in the U.S. (Nusser and Goebel, 
+1997). 
+Activity data require additional in-country information to stratify areas by climate and soil types. If such 
+information has not already been compiled, an initial approach would be to overlay available land cover/land-use 
+maps (of national origin or from global datasets such as IGBP_DIS) with soil maps of national origin or global 
+sources, such as the FAO Soils Map of the World and climate data from the United Nations Environmental 
+Program. A detailed description of the default climate and soil classification schemes is provided in Chapter 3, 
+Annex 3A.5. The soil classification is based on soil taxonomic description and textural data, while climate regions 
+are based on mean annual temperatures and precipitation, elevation, occurrence of frost, and potential 
+evapotranspiration.   
+Tier 2 
+Tier 2 approaches are likely to involve a more detailed stratification of management systems (Figure 6.1) than in 
+Tier 1, if sufficient data are available. This could include further subdivisions of grassland systems (i.e., moderately 
+degraded, severely degraded, nominal and improved), and the input classes (medium and high input). It is good 
+practice to further subdivide default classes based on empirical data that demonstrates significant differences in 
+soil organic C storage among the proposed categories. In addition, Tier 2 approaches could involve a finer 
+stratification of climate regions and soil types. The resolution of activity data, such as that determined by intensity 
+of survey data, often determines the finest feasible resolutions for spatial stratification. 
+For Tier 2, the specific definitions of management and input factors are typically made to match available activity 
+data on how activities affects C stocks. For example, if a country has management factors related to levels of 
+grazing intensity, then the country will also need activity data on grazing intensity to apply the country-specific 
+factors. 
+For biochar C amendments, the activity data for the Tier 2 method includes the total quantities of biochar 
+distributed for amendment to mineral soils. These data must be disaggregated by production type, where 
+production type is defined as a process utilizing a specific feedstock type, and a specific conversion process). 
+Changes in soil C associated with biochar amendments are considered to occur where it is incorporated into soil. 
+However, due to the distributed nature of the land sector in which this can take place, inventory compilers may 
+not have access to data on when or where biochar C amendments occur. Inventory compilers may be able to 
+compile data on the total amount of biochar applied to grassland mineral soils from biochar producers, importers, 
+exporters or distributors, and/or from those applying biochar to grassland in the country. Note that exported biochar 
+is not included in the total amount of biochar amended to soils in the country. Additionally, activity data on the 
+amount of biochar amendments may be disaggregated by climate zones and/or soil types if country-specific factors 
+are disaggregated by these environmental variables. The additional climate and soil activity data may be obtained 
+with a survey of biochar distributors and land managers.  
+Tier 3 
+For application of dynamic models and/or a direct measurement-based inventory in Tier 3, similar or more detailed 
+data on the combinations of climate, soil, topographic and management data are needed, relative to the Tiers 1 and 
+2 methods, but the exact requirements will depend on the model or measurement design. 
+For biochar C amendments, the additional activity data required to support a Tier 3 method will depend on which 
+processes are represented and which environmental variables that are required as input to the model. Priming 
+effects, soil GHG emissions, and plant production responses to biochar all vary with biochar type, climate, and 
+soil type. Furthermore, soil GHG emissions and plant production responses also vary with vegetation type and 
+management. Therefore, Tier 3 methods may require environmental data on climate zones, soil types, vegetation 
+type and grazing management systems, in addition to the amount of biochar amendments in each of the individual 
+combinations of strata for the environmental variables. More detailed activity data specifying the process 
+conditions for biochar production or the physical and chemical characteristics of the biochar may also be required 
+(such as surface area, cation exchange capacity, pH, and ash content). 
+Organic soils 
+No refinement.  
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See section 
+2.2 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for drained organic soils. 
+6.2.3.4 CALCULATION STEPS FOR TIER 1 
+Mineral soils 
+The steps for estimating SOC0 and SOC(0-T) and net soil C stock change from Grassland Remaining Grassland are 
+as follows: 
+Step 1: Organize data into inventory time periods based on the years in which activity data were collected (e.g., 
+1990 and 1995, 1995 and 2000, etc.) 
+Step 2: Determine the land-use and management by mineral soil type and climate region for land at the beginning 
+of the inventory period, which can vary depending on the time step of the activity data (0-T; e.g., 5, 10 or 20 years 
+ago). 
+Step 3: Select the native reference C stock value (SOCREF), based on climate and soil type from Table 2.3, for 
+each area of land being inventoried. The reference C stocks are the same for all land-use categories to ensure that 
+erroneous changes in the C stocks are not computed due to differences in reference stock values among sectors. 
+Step 4: Select the land-use factor (FLU), management factor (FMG) and C input levels (FI) representing the land-
+use and management system present at the beginning of the inventory period. Values for FLU, FMG and FI are 
+provided in Table 6.2.   
+Step 5: Multiply these values by the reference soil C stock to estimate the ‘initial’ soil organic C stock (SOC(0-T)) 
+for the inventory time period.    
+Step 6: Estimate SOC0 by repeating Step 1 to 4 using the same native reference C stock (SOCREF), but with land-
+use, management and input factors that represent conditions in the last (year 0) inventory year.  
+Step 7: Estimate the average annual change in soil organic C stock for the area over the inventory time period 
+(∆CMineral).  
+Step 8: Repeat Steps 1 to 6 if there are additional inventory time periods (e.g., 1995 to 2000, 2001 to 2005, etc.). 
+A case example is given below for computing a change in grassland soil organic C stocks using Equation 2.25 
+(Chapter 2), default stock change factors and reference C stocks. 
+Updated Example: The following example shows calculations for aggregate areas of grassland soil 
+carbon stock change to a 30 cm depth. In a tropical moist climate on Ultisol soils, there are 1Mha of 
+permanent grassland. The native reference carbon stock (SOCREF) for the climate/soil type is 47 
+tonnes C ha-1. At the beginning of the inventory time period (1990 in this example) the distribution 
+of grassland systems was 500,000 ha of unmanaged native grassland; 400,000 ha of unimproved, 
+moderately degraded grazing land; and 100,000 ha of heavily degraded grassland. Thus, initial soil 
+carbon stocks for the area were:  
+500,000 ha ● (47 tonnes C ha-1 ● 1 ● 1 ● 1) + 400,000 ha ● (47 tonnes C ha-1 ● 1 ● 0.97 ● 1) + 
+100,000 ● (47 tonnes C ha-1 ● 1 ● 0.7 ● 1) = 45,026,000 tonnes C.  
+In the last year of inventory time period (2010 in this example), there are: 300,000 ha of unmanaged 
+native grassland; 300,000 ha of unimproved, moderately degraded grazing land; 200,000 ha of 
+heavily degraded grassland; 100,000 ha of improved pasture receiving fertilizer; and 100,000 of 
+highly improved pasture receiving fertiliser together with irrigation. Thus, total soil carbon stocks 
+in the inventory year are:  
+300,000 ha ● (47 tonnes C ha-1 ● 1 ● 1 ● 1) + 300,000 ha ● (47 tonnes C ha-1 ● 1 ● 0.97 ● 1) + 
+200,000 ● (47 tonnes C ha-1 1 ● 0.7 ● 1) + 100,000 ● (47 tonnes C ha-1 1 ● 1.17 ● 1) + 100,000 ● 
+(47 tonnes C ha-1 ● 1 ● 1.17 ● 1.11) = 45,959,890 tonnes C.  
+The average annual stock change over the period for the entire area is: 45,959,890 – 45,026,000 = 
+933,890 tonnes/20 yr = 46,694.5 tonnes per year soil C stock increase. (Note: 20 years is the time 
+dependence of the stock change factor, i.e., factor represents annual rate of change over 20 years). 
+ 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.11 
+Organic soils 
+No refinement. 
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See section 
+2.2 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for drained organic soils.  
+6.2.3.5 UNCERTAINTY ASSESSMENT 
+No refinement. 
+6.2.4 
+Non-CO2 greenhouse gas emissions from biomass 
+burning 
+No refinement. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.3 
+LAND CONVERTED TO GRASSLAND  
+No refinement. 
+6.3.1 
+Biomass 
+No refinement.  
+6.3.2 
+Dead organic matter 
+No refinement. 
+6.3.3 
+Soil carbon 
+Grassland management involving drainage will generate emissions from organic soil, regardless of the previous 
+land use.  However, the impact on mineral soils is less clear-cut for lands converted to Grassland. Literature on 
+one of the dominant conversion types globally (from Forest Land to Grassland in the tropics) provides evidence 
+for net gains as well as net losses in soil C, and it is known that the specific management of the grassland after 
+conversion is critical (e.g., Veldkamp, 2001).   
+General information and guidance for estimating changes in soil C stocks are provided in Chapter 2, Section 2.3.3 
+(including equations), and this section needs to be read before proceeding with a consideration of specific 
+guidelines dealing with grassland soil C stocks. The total change in soil C stocks for Land Converted to Grassland 
+is estimated using Equation 2.24 for the change in soil organic C stocks for mineral soils and organic soils; and 
+stock changes associated with soil inorganic C pools (if estimated at Tier 3). This section provides specific 
+guidance for estimating soil organic C stock changes. There is a general discussion in Section 2.3.3 in Chapter 2 
+on soil inorganic C and no additional information is provided here. 
+To account for changes in soil C stocks associated with Land Converted to Grassland, countries need to have, at 
+a minimum, estimates of the areas of Land Converted to Grassland during the inventory time period, stratified by 
+climate region and soil type. If land-use and management data are limited, aggregate data, such as FAO statistics, 
+can be used as a starting point, along with country expert knowledge of the approximate distribution of land-use 
+types being converted and the management of those lands. If the previous land uses and conversions are unknown, 
+SOC stocks changes can still be estimated using the methods provided in Grassland Remaining Grassland, but the 
+land base area will likely be different for grasslands in the current year relative to the initial year in the inventory.  
+It is critical, however, that the total land area accounted across all land-use sectors be equal over the inventory 
+time period (e.g., if 3 Million ha of Forest Land and Cropland are converted to Grassland during the inventory 
+time period, then Grassland will have an additional 3 Million ha in the last year of the inventory, while Cropland 
+and Forest Land will have a corresponding loss of 3 Million ha in the last year). Land Converted to Grassland is 
+stratified according to climate regions, management, and major soil types, which could either be based on default 
+or country-specific classifications.  This can be accomplished with overlays of suitable climate and soil maps, 
+coupled with spatially-explicit data on the location of land conversions. 
+6.3.3.1 CHOICE OF METHOD 
+Inventories can be developed using a Tier 1, 2 or 3 method, with each successive Tier requiring more details and 
+resources than the previous one. It is possible that countries will use different tiers to prepare estimates for the 
+separate sub-categories of soil C (i.e., soil organic C stocks changes in mineral soils and organic soils; and stock 
+changes associated with soil inorganic C pools). Decision trees are provided for mineral soils (Figure 2.4) and 
+organic soils (Figure 2.5) in Section 2.3.3.1 Chapter 2 to assist inventory compilers with selection of the 
+appropriate tier for their soil C inventory. 
+Mineral soils 
+Tier 1 
+Using Equation 2.25 (Chapter 2), the change in soil organic C stocks can be estimated for mineral soils accounting 
+for the impact of land-use conversion to Grassland. The method is fundamentally the same as the one used for 
+Grassland Remaining Grassland, except pre-conversion C stocks are dependent on stock change factors for 
+another land use. Specifically, the initial (pre-conversion) soil organic C stock (SOC(0-T)) and stock in the last year 
+of inventory time period (SOC0) are computed from the default reference soil organic C stocks (SOCREF) stock 
+change factors (FLU, FMG, FI). Note that area of exposed bedrock in Forest Land or the previous land use are not 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.13 
+included in the soil C stock calculation (assume a stock of 0). Annual rates of stock changes are estimated based 
+on the difference in stocks (over time) for the first and last year in the inventory time period divided by the time 
+dependence of the stock change factors (D, default is 20 years).    
+Tier 2 
+The Tier 2 method for mineral soils also uses Equation 2.25, but involves country-specific or region-specific 
+reference C stocks and/or stock change factors and more disaggregated land-use activity and environmental data. 
+For biochar C amendments, Tier 2 methods utilize a top-down approach in which the total amount of biochar 
+generated and added to mineral soil is used to estimate the change in soil organic C stocks with country-specific 
+factors. See Section 2.3.3.1, Chapter 2, Volume IV for more information. 
+Tier 3 
+Tier 3 methods will involve more detailed and country-specific models and/or measurement-based approaches 
+along with highly disaggregated land-use and management data. It is good practice that Tier 3 approaches, 
+estimating soil C change from land-use conversions to Grassland, employ models, data sets and/or monitoring 
+networks that are capable of representing transitions over time from other land uses, including Forest Land, 
+Cropland, and possibly Settlements or other lands. If possible, it is also recommended for Tier 3 methods to be 
+integrated with estimates of biomass removal and the post-clearance treatment of plant residues (including woody 
+debris and litter), as variation in the removal and treatment of residues (e.g., burning, site preparation) will affect 
+C inputs to soil organic matter formation and C losses through decomposition and combustion. It is important that 
+models be evaluated with independent observations from country-specific or region-specific field locations that 
+are representative of the interactions of climate, soil, and grassland management on post-conversion change in soil 
+C stocks. 
+Tier 3 methods for biochar C amendments can be used to address GHG sources and sinks not captured in Tiers 1 
+or 2, such as priming effects, changes to N2O or CH4 fluxes from soils, and changes to net primary production. 
+More information on Tier 3 methods is provided in Section 2.3.3.1 of Chapter 2, Volume IV. 
+Organic soils 
+No refinement. 
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See Section 
+2.3 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for land use conversions 
+associated with drained organic soil.  
+6.3.3.2 CHOICE OF STOCK CHANGE AND EMISSION FACTORS 
+Mineral soils 
+Tier 1 
+For unmanaged land, as well as for managed Forest Land, Settlements and nominally managed Grassland with 
+low disturbance regimes, soil C stocks are assumed equal to the reference values (i.e., land use, disturbance (forests 
+only), management and input factors equal 1), while it will be necessary to apply the appropriate stock change 
+factors to represent other systems such as improved and degraded grasslands, as well as all cropland systems.  
+Default reference C stocks are given in Chapter 2, Table 2.3. See the Choice of Stock Change and Emission Factors 
+in the appropriate land-use chapter for default stock change factors (Forest Land in Section 4.2.3.2, Cropland in 
+5.2.3.2, Grassland in 6.2.3.2, Settlements in 8.2.3.2, and Other land in 9.3.3.2).   
+Note that it is good practice to use the management factor (FLU) for set-asides (Table 5.5) if dealing with cultivated 
+annual Cropland converted into Grassland (i.e., until the land is re-classified as Grassland Remaining Grassland) 
+because recently converted annual cropland systems will typically gain C at a rate similar to set-aside lands. 
+Moreover, the Tier 1 set-aside factors were derived from empirical data to explicitly represent the expected gain 
+during the first 20 years for lands removed from cultivation. If countries decide to assume a faster increase in C 
+that raises levels to native conditions within 20 years, a justification should be provided in the documentation.  
+Tier 2 
+Estimation of country-specific stock change factors is probably the most important development for the Tier 2 
+approach.  Differences in soil organic C stocks among land uses are computed relative to a reference condition, 
+using land-use factor (FLU). Input factor (FI) and management factor (FMG) are then used to further refine the C 
+stocks of the new grassland system. Additional guidance on how to derive these stock change factors is given in 
+Grassland Remaining Grassland, Section 6.2.3.2 as well as other general guidance in Section 2.3.3.1 (Chapter 2).  
+See the appropriate section for specific information regarding the derivation of stock change factors for other land-
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+use sectors (Forest Land in Section 4.2.3.2, Cropland in 5.2.3.2, Wetlands in 7.2.3.3, Settlements in 8.2.3.2, and 
+Other Land in 9.3.3.2).  
+Reference C stocks can be derived from country-specific data in a Tier 2 approach. Reference values in Tier 1 
+correspond to non-degraded, unimproved lands under native vegetation, but other reference conditions can also be 
+chosen for Tier 2. In general, reference C stocks should be consistent across the land uses (i.e., Forest Land, 
+Cropland, Grassland, Settlements, Other Land) (see section 2.3.3.1). Therefore, the same reference stock should 
+be used for each climate zone and soil type, regardless of the land use. The reference stock is then multiplied by 
+land use, input and management factors to estimate the stock for each land use based on the set of management 
+systems that are present in a country. In addition, the depth for evaluating soil C stock changes can be different 
+with the Tier 2 method. However, this will require consistency with the depth of the reference C stocks (SOCREF) 
+and stock change factors for all land uses (i.e., FLU, FI, and FMG) to ensure consistency in the application of methods 
+for estimating the impact of land use change on soil carbon stocks. 
+The Tier 1 method may over- or under-estimate soil C stock changes on an annual basis, particularly with land use 
+change (e.g., Villarino et al., 2014). Therefore, land use change, such as Croplands converted to Grasslands, may 
+include development of factors that estimate changes over longer periods of time than the default of 20 years, and 
+may better match the period of time over which carbon accumulates or is lost from soils due to land use change. 
+When C stock changes extend over periods of many decades, activity data for historical land-use change are needed 
+to estimate the soil C stock changes that are still occurring in the current inventory year.  
+The carbon stock estimates may be improved when deriving country-specific factors for FLU and FMG, by 
+expressing carbon stocks on a soil-mass equivalent basis rather than a soil-volume equivalent (i.e. fixed depth) 
+basis. This is because the soil mass in a certain soil depth changes with the various operations associated with land 
+use that affect the density of the soil, such as uprooting, land levelling, tillage, and rain compaction due to the 
+disappearance of the cover of tree canopy. However, it is important to realize that all data used to derive stock 
+change factors across all land uses must be on an equivalent mass basis if this method is applied. This will be 
+challenging to do comprehensively for all land uses. See Box 2.2C in Chapter2, Section 2.3.3.1 for more 
+information. 
+For biochar C amendments, the parameter 𝐹𝑝𝑒𝑟𝑚𝑝 can be based on H/Corg or O/Corg measured directly from 
+representative samples of biochar, or from published data for biochar produced using similar process conditions 
+as the biochar that is applied to soils in the country. Tier 2 emission factors may be disaggregated based on variation 
+in environmental conditions, such as the climate and soil types, in addition to variation associated with the biochar 
+production methods that generates production types defined by the specific feedstock type and conversion process, 
+where production type is defined as a process utilizing a specific feedstock type, and a specific conversion process. 
+See Section 2.3.3.1, Chapter 2, Volume IV for more information.  
+Country-specific emission factors (i.e., permanence factors) for biochar C for grassland may be different from the 
+past land use for Land Converted to Grassland, and these differences need to be addressed in the calculations.  
+This requires estimating the biochar carbon stocks from past biochar carbon additions that remain in Land 
+Converted to Grassland after conversion. The biochar C stocks are then subject to the conditions for grassland, 
+which may lead some additional loss of biochar C. 
+Tier 3 
+Constant stock change rate factors per se are less likely to be estimated in favour of variable rates that more 
+accurately capture land-use and management effects.  See Section 2.3.3.1 in Chapter 2 for further discussion. 
+Tier 3 methods for biochar C amendments are country-specific and may involve empirical or process-based models 
+to account for a broader set of impacts of biochar amendments. These methods will likely estimate biochar C 
+stocks and associated changes over time so the biochar C stocks in Land Converted to Grassland will need to be 
+tracked through the land use change process.  
+Organic soils 
+No refinement.  
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See Section 
+2.3 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for land use conversions 
+associated with drained organic soil. 
+ 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.15 
+6.3.3.3 CHOICE OF ACTIVITY DATA 
+Mineral soils 
+Tier 1 and Tier 2 –Default Equations 
+For purposes of estimating soil carbon stock change, area estimates of Land Converted to Grassland should be 
+stratified according to major climate regions and soil types. This can be based on overlays with suitable climate 
+and soil maps and spatially-explicit data of the location of land conversions. A detailed description of the default 
+climate and soil classification schemes is provided in Chapter 3. See corresponding sections dealing with each 
+land-use category for sector-specific information regarding the representation of land-use/management activity 
+data (Forest Land in Section 4.2.3.3, Cropland in 5.2.3.3, Grassland in 6.2.3.3, Wetlands in 7.2.3.3, Settlements in 
+8.2.3.3 and Other land in 9.3.3.3).   
+An important issue in evaluating the impact of Land Converted to Grassland on soil organic C stocks is the type 
+of land-use and management activity data. Activity data gathered using Approach 2 or 3 (see Chapter 3 for 
+discussion about Approaches) provide the underlying basis for determining the previous land use for land 
+categorized as Land Converted to Grassland.  In contrast, aggregate data (Approach 1) only provide the total 
+amount of area in each land use at the beginning and end of the inventory period (e.g., 1985 and 2005). Thus, 
+unless supplementary information can be gathered to infer the pattern of land-use change (as suggested in Chapter 
+3) Approach 1 data are insufficient to determine specific transitions between land-use categories.  Therefore, the 
+previous land use before conversion to grasslands will be unknown. Fortunately, this is not problematic using a 
+Tier 1 or 2 method because the calculation is not dynamic and assumes a step change from one equilibrium state 
+to another. Therefore, with aggregated data (Approach 1), changes in soil organic C stocks may be computed 
+separately for each land-use category and then combined to obtain the total stock change for all land uses combined. 
+The soil C stock change estimate will be equivalent to results using Approach 2 (or 3) activity data (i.e., a full 
+land-use change matrix), but evaluation of C stock trends will only be relevant after combining the stock estimates 
+for all land uses (i.e., stocks will increase or decrease with the changes in land area within individual land uses, 
+but this will offset by gains or losses in other land uses, and thus not an actual stock change in the soil pool for a 
+country. Thus, with aggregate (Approach 1 data) it is important to achieve coordination among all land sector to 
+ensure the total land base is remaining constant over time, given that some land area will be lost and gained within 
+individual sectors during each inventory year due to land-use change. 
+Note that it will not be possible to determine the amount of cultivated annual croplands converted to grasslands 
+with aggregated activity data (Approach 1). Therefore, grassland stock change factors will be applied, without 
+consideration for the slower rate of C gain in recently converted annual croplands, which may lead to an over-
+estimation of C gain over a 20-year time period, particularly using the Tier 1 method (see Choice of Stock Change 
+and Emission Factors for additional discussion). This caveat should be acknowledged in the reporting 
+documentation, and it is good practice for future inventories to gather additional information needed to estimate 
+the area of grassland recently converted from croplands, particularly if soil C is a key source category.   
+For biochar C amendments, the activity data for the Tier 2 method includes the total quantities of biochar 
+distributed for amendment to mineral soils. These data must be disaggregated by production type, where 
+production type is defined as a process utilizing a specific feedstock type, and a specific conversion process. 
+Changes in soil C associated with biochar amendments is considered to occur where it is incorporated into soil. 
+However, due to the distributed nature of the land sector in which this can take place, inventory compilers may 
+not have access to data on when or where biochar C amendments occur. Inventory compilers may be able to 
+compile data on the total amount of biochar applied to grassland mineral soils from biochar producers, importers, 
+exporters, distributors, and/or from those applying biochar to grassland in the country. Note that exported biochar 
+is not included in the total amount of biochar amended to soils in the country. Additionally, activity data on the 
+amount of biochar amendments may be disaggregated by climate zones and/or soil types if country-specific factors 
+are disaggregated by these environmental variables. The additional climate and soil activity data may be obtained 
+with a survey of biochar distributors and land managers.   
+Tier 3 
+For application of dynamic models and/or a direct measurement-based inventory in Tier 3, similar or more detailed 
+data on the combinations of climate, soil, topographic and management data are needed, relative to Tier 1 or 2 
+methods, but the exact requirements will be dependent on the model or measurement design.   
+For biochar C amendments, the additional activity data required to support a Tier 3 method will depend on which 
+processes are represented and environmental variables that are required as input to the model. Priming, soil GHG 
+emissions, and plant production responses to biochar all vary with biochar type, climate, and soil type. Furthermore, 
+soil GHG emissions and plant production responses also vary with crop type and management. Therefore, Tier 3 
+methods may require environmental data on climate zones, soil types, grassland vegetation and management 
+systems (such as nitrogen fertilizer application rates, and whether soils are flooded for paddy rice production), in 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+addition to the amount of biochar amendments in each of the individual combinations of strata for the 
+environmental variables. More detailed activity data specifying the process conditions for biochar production or 
+the physical and chemical characteristics of the biochar may also be required (such as surface area, cation exchange 
+capacity, pH, and ash content). 
+Organic soils 
+No refinement.  
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See Section 
+2.3 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for land use conversions 
+associated with drained organic soil. 
+6.3.3.4 CALCULATION STEPS FOR TIER 1 
+Mineral soils 
+The steps for estimating SOC0 and SOC(0-T) and net soil C stock change of Land Converted to Grassland are as 
+follows: 
+Step 1: Organize data into inventory time periods based on the years in which activity data were collected (e.g., 
+1990 and 1995, 1995 and 2000, etc.) 
+Step 2: Determine the land-use and management by mineral soil types and climate regions for land at the 
+beginning of the inventory period, which can vary depending on the time step of the activity data (0-T; e.g., 5, 10 
+or 20 years ago). 
+Step 3: Select the native reference C stock value (SOCREF), based on climate and soil type from Table 2.3, for 
+each area of land being inventoried.  The reference C stocks are the same for all land-use categories to ensure that 
+erroneous changes in the C stocks are not computed due to differences in reference stock values among sectors. 
+Step 4: Select the land-use factor (FLU), management factor (FMG) and C input levels (FI) representing the land-
+use and management system present before conversion to grassland.  Values for FLU, FMG and FI are given in the 
+respective section for the land-use sector (Cropland in Chapter 5, Grassland in Chapter 6, Settlements in Chapter 
+8, and Other land in Chapter 9).   
+Step 5: Multiply these values by the reference soil C stock to estimate ‘initial’ soil organic C stock (SOC(0-T)) for 
+the inventory time period.    
+Step 6: Estimate SOC0 by repeating Steps 1 to 4 using the same native reference C stock (SOCREF), but with land-
+use, management and input factors that represent conditions (after conversion to grassland) in the last (year 0) 
+inventory year.  
+Step 7: Estimate the average annual change in soil organic C stock for the area over the inventory time period 
+(∆CMineral)  
+Step 8: Repeat Steps 1 to 6 if there are additional inventory time periods (e.g., 1995 to 2000, 2001 to 2005, etc.). 
+A numerical example is given below for land conversion of cropland.  
+Using Equation 2.25 (Chapter 2), default stock change factors and reference C stocks, a case example is given 
+below for estimating changes in soil organic C stocks associated with Land Converted to Grassland. 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.17 
+Example: For tropical moist, volcanic soil that has been under long-term annual Cropland, with 
+intensive tillage and where crop residues are removed from the field, carbon stocks at the beginning 
+of the inventory time period (1990 in this example), SOC(0-T) are: 
+ 70 tonnes C ha-1 ● 0.90 ● 1 ● 0.92 = 58.0 tonnes C ha-1.  
+Following conversion to improved (e.g., fertilised) pasture, carbon stocks in the last year of 
+inventory (2010 in this example) (SOC0) are: 
+ 70 tonnes C ha-1 ● 1 ● 1.17 ● 1 = 81.9 tonnes C ha-1.  
+Thus the average annual change in soil C stock for the area over the inventory time period is 
+calculated as: 
+(81.9 tonnes C ha-1 – 58.0tonnes C ha-1) / 20 yrs =1.2 tonnes C ha-1 yr-1.    
+Organic soils 
+No refinement. 
+The 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands provides 
+additional guidance that updates the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. See Section 
+2.3 of the 2013 Wetlands Supplement for guidance on Tier 1, 2, and 3 approaches for land use conversions 
+associated with drained organic soil. 
+6.3.3.5 UNCERTAINTY ASSESSMENT 
+No refinement. 
+6.3.4 
+Non-CO2 greenhouse gas emissions from biomass 
+burning 
+No refinement. 
+6.4 
+COMPLETENESS, TIME SERIES, QA/QC, AND 
+REPORTING 
+No refinement. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 6A.1 
+Estimation of default stock change factors for 
+mineral soil C emissions/removals for Grassland  
+Default stock change factors have been updated in Table 6.2 based on an analysis of a global dataset of 
+experimental results for grazing intensity to a 30cm depth. Management change was defined as high-intensity 
+grazing from low to moderate grazing intensity. The grazing intensity categories were those used by the authors 
+of the published studies and so are their interpretation of the relative livestock grazing stocking density in relation 
+to the grassland productivity and resilience. Management factors represent the effect on C stocks after 20 years 
+following the management change. Data were compiled from published literature based on the following criteria: 
+a) must be an experiment with a control and treatment; b) provide soil organic C stocks or the data needed to 
+compute soil organic C stocks (bulk density, OC content, gravel content); c) provide depth of measurements; d) 
+provide the number of years from the beginning of the experiment to C stock sample collection; and c) provide 
+location information. There were 31 published studies with 176 observations of grassland management (i.e., high 
+intensity grazing versus low to moderate intensity grazing).  There was insufficient data to develop reliable factors 
+by climate or soil.   
+Semi-parametric mixed effect models were developed to estimate the new factors (Breidt et al., 2007). Several 
+variables were tested including depth, number of years since the management change, climate, and the first-order 
+interactions among the variables. Variables and interactions terms were retained in the model if they met an alpha 
+level of 0.05 and decreased the Akiake Information Criterion by two. For depth, data were not aggregated to a 
+standardized set of depths but rather each of the original depth increments were used in the analysis (e.g., 0-5 cm, 
+5-10 cm, and 10-30 cm) as separate observations of stock changes. Similarly, time series data were not aggregated, 
+even though those measurements are taken from the same plots. Consequently, random effects were included to 
+account for the dependencies in times series data and among data points representing different depths from the 
+same study.   
+Special consideration was given to representing depth increments in order to avoid aggregating data across 
+increments from the original experiments. Data are collected by researchers at various depths that do not match 
+among studies. We created a custom set of covariates, which are functions of the increment endpoints. These 
+functions come from integrating the underlying quadratic function over the increments. This approach was needed 
+in order to make statistically valid inferences with the semi-parametric mixed effect model techniques, and to 
+avoid errors associated with aggregating data into a uniform set of depth increments.  
+Using this customized approach, we estimated grassland management factors to a 30 cm depth. Uncertainty is 
+quantified based on the prediction error for the model, and represents a 95 percent confidence interval for each of 
+the factor values. The resulting confidence intervals can be used to construct probability distribution functions 
+with a normal density for propagating error through the inventory calculations.  
+ 
+ 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.19 
+References 
+REFERENCES NEWLY CITED IN THE 2019 REFINEMENT 
+Breidt, F. J., Hsu, N.-J. & Ogle, S. (2007) Semiparametric mixed models for increment-averaged data with 
+application to carbon sequestration in agricultural soils. Journal of the American Statistical Association 
+102(479): 803-812. 
+Cao, J., Wang, X., Sun, X., Zhang, L. & Tian, Y. (2013) Effects of grazing intensity on soil labile organic carbon 
+fractions in a desert steppe area in Inner Mongolia. SpringerPlus 2(1): S1. 
+Ding, W., Sun, X., Jia, H., Qin, P., Jia, Y. & Jin, J. (2014) Effect of grazing intensity on soil organic carbon in 
+north slope of Tianshan mountain meadow grassland. Southwest China Journal of Agricultural Sciences 27(4): 
+1596-1600. 
+Du, Y., Guo, X., Zhou, G., Cao, G. & Li, Y. (2017) Effect of Grazing Intensity on Soil and Plant δ15N of an 
+Alpine Meadow. Polish Journal of Environmental Studies 26(3): 1071-1075. 
+Frank, A., Tanaka, D., Hofmann, L. & Follett, R. (1995) Soil carbon and nitrogen of Northern Great Plains 
+grasslands as influenced by long-term grazing. Journal of Range Management: 470-474. 
+Franzluebbers, A. & Stuedemann, J. (2009) Soil-profile organic carbon and total nitrogen during 12 years of 
+pasture management in the Southern Piedmont USA. Agriculture, Ecosystems & Environment 129(1-3): 28-
+36. 
+Gao, X., Thomas, B. W., Beck, R., Thompson, D. J., Zhao, M., Willms, W. D. & Hao, X. (2018) Long-Term 
+Grazing Alters Soil Trace Gas Fluxes from Grasslands in the Foothills of the Rocky Mountains, Canada. Land 
+Degradation and Development 29(2): 292-302. 
+Gao, Y. H., Luo, P., Wu, N., Chen, H. & Wang, G. X. (2007) Grazing intensity impacts on carbon sequestration 
+in an alpine meadow on the eastern Tibetan Plateau. Research Journal of Agriculture and Biological Sciences 
+3(6): 642-647. 
+Gillard, P. (1969) The effect of stocking rate on botanical composition and soils in natural grassland in South 
+Africa. Journal of applied ecology: 489-497. 
+Han, G., Hao, X., Zhao, M., Wang, M., Ellert, B. H., Willms, W. & Wang, M. (2008) Effect of grazing intensity 
+on carbon and nitrogen in soil and vegetation in a meadow steppe in Inner Mongolia. Agriculture, Ecosystems 
+and Environment 125(1-4): 21-32. 
+He, N., Yu, Q., Wu, L., Wang, Y. & Han, X. (2008) Carbon and nitrogen store and storage potential as affected 
+by land-use in a Leymus chinensis grassland of northern China. Soil Biology and Biochemistry 40(12): 2952-
+2959. 
+Ingram, L. J., Stahl, P. D., Schuman, G. E., Buyer, J. S., Vance, G. F., Ganjegunte, G. K., Welker, J. M. & Derner, 
+J. D. (2008) Grazing impacts on soil carbon and microbial communities in a mixed-grass ecosystem. Soil 
+Science Society of America Journal 72(4): 939-948. 
+Kioko, J., Kiringe, J. W. & Seno, S. O. (2012) Impacts of livestock grazing on a savanna grassland in Kenya. 
+Journal of Arid Land 4(1): 29-35. 
+Kölbl, A., Steffens, M., Wiesmeier, M., Hoffmann, C., Funk, R., Krümmelbein, J., Reszkowska, A., Zhao, Y., 
+Peth, S. & Horn, R. (2011) Grazing changes topography-controlled topsoil properties and their interaction on 
+different spatial scales in a semi-arid grassland of Inner Mongolia, PR China. Plant and Soil 340(1-2): 35-58. 
+Li, C., Hao, X., Zhao, M., Han, G. & Willms, W. D. (2008) Influence of historic sheep grazing on vegetation and 
+soil properties of a Desert Steppe in Inner Mongolia. Agriculture, Ecosystems & Environment 128(1-2): 109-
+116. 
+Liu, N., Zhang, Y., Chang, S., Kan, H. & Lin, L. (2012) Impact of grazing on soil carbon and microbial biomass 
+in typical steppe and desert steppe of Inner Mongolia. PLoS One 7(5): e36434. 
+Manley, J. T., Schuman, G. E., Reeder, J. D. & Hart, R. H. (1995) Rangeland soil carbon and nitrogen responses 
+to grazing. Journal of Soil and Water Conservation 50(3): 294-298. 
+Martinsen, V., Mulder, J., Austrheim, G. & Mysterud, A. (2011) Carbon storage in low-alpine grassland soils: 
+effects of different grazing intensities of sheep. European Journal of Soil Science 62(6): 822-833. 
+Potter, K. N., Daniel, J. A., Altom, W. & Torbert, H. A. (2001) Stocking rate effect on soil carbon and nitrogen in 
+degraded soils. Journal of Soil and Water Conservation 56(3): 233-236. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+6.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Qi, S., Zheng, H., Lin, Q., Li, G., Xi, Z. & Zhao, X. (2010) Effects of livestock grazing intensity on soil biota in a 
+semiarid steppe of Inner Mongolia. Plant and Soil 340(1-2): 117-126. 
+Rutherford, M. C. & Powrie, L. W. (2011) Can heavy grazing on communal land elevate plant species richness 
+levels in the Grassland Biome of South Africa? Plant Ecology 212(9): 1407-1418. 
+Schulz, K., Voigt, K., Beusch, C., Almeida-Cortez, J. S., Kowarik, I., Walz, A. & Cierjacks, A. (2016) Grazing 
+deteriorates the soil carbon stocks of Caatinga forest ecosystems in Brazil. Forest Ecology and Management 
+367: 62-70. 
+Schuman, G. E., Reeder, J. D., Manley, J. T., Hart, R. H. & Manley, W. A. (1999) Impact of grazing management 
+on the carbon and nitrogen balance of a mixed-grass rangeland. Ecological Applications 9(1): 65-71. 
+Segoli, M., Bray, S., Allen, D., Dalal, R., Watson, I., Ash, A. & O'Reagain, P. (2015) Managing cattle grazing 
+intensity: Effects on soil organic matter and soil nitrogen. Soil Research 53(6): 677-682. 
+Smoliak, S., Dormaar, J. & Johnston, A. (1972) Long-term grazing effects on Stipa-Bouteloua prairie soils. 
+Journal of Range Management: 246-250. 
+Sun, D. S., Wesche, K., Chen, D. D., Zhang, S. H., Wu, G. L., Du, G. Z. & Comerford, N. B. (2011) Grazing 
+depresses soil carbon storage through changing plant biomass and composition in a Tibetan alpine meadow. 
+Plant Soil Environ. 
+Talore, D. G., Tesfamariam, E. H., Hassen, A., Du Toit, J., Klampp, K. & Jean‐Francois, S. (2016) Long‐term 
+impacts of grazing intensity on soil carbon sequestration and selected soil properties in the arid Eastern Cape, 
+South Africa. Journal of the Science of Food and Agriculture 96(6): 1945-1952. 
+Teague, W. R., Dowhower, S. L., Baker, S. A., Haile, N., DeLaune, P. B. & Conover, D. M. (2011) Grazing 
+management impacts on vegetation, soil biota and soil chemical, physical and hydrological properties in tall 
+grass prairie. Agriculture, Ecosystems and Environment 141(3-4): 310-322. 
+Villarino, S. H., Studdert, G. A., Laterra, P. & Cendoya, M. G. (2014) Agricultural impact on soil organic carbon 
+content: Testing the IPCC carbon accounting method for evaluations at county scale. Agriculture, Ecosystems 
+& Environment 185: 118-132. 
+Wang, H., Dong, Z., Guo, J., Li, H., Li, J., Han, G. & Chen, X. (2017) Effects of grazing intensity on organic 
+carbon stock characteristics in Stipa breviflora desert steppe vegetation soil systems. Rangeland Journal 39(2): 
+169-177. 
+Wei, L., Hai-Zhou, H., Zhi-Nan, Z. & Gao-Lin, W. (2011) Effects of grazing on the soil properties and C and N 
+storage in relation to biomass allocation in an alpine meadow. Journal of soil science and plant nutrition 11(4): 
+27-39. 
+Xu, M. Y., Xie, F. & Wang, K. (2014) Response of vegetation and soil carbon and nitrogen storage to grazing 
+intensity in semi-arid grasslands in the agro-pastoral zone of northern china. PLoS One 9(5): e96604. 
+Yanfen, W., Zuozhong, C. & Tieszen, L. T. (1998) Distribution of soil organic carbon in the major grasslands of 
+Xilinguole, Inner Mongolia, China. Acta Phytoecologica Sinica 22(6): 545-551. 
+Zhang, B., Thomas, B. W., Beck, R., Willms, W. D., Zhao, M. & Hao, X. (2018) Slope position regulates response 
+of carbon and nitrogen stocks to cattle grazing on rough fescue grassland. Journal of Soils and Sediments: 1-7. 
+Zhou, X., Wang, J., Hao, Y. & Wang, Y. (2010) Intermediate grazing intensities by sheep increase soil bacterial 
+diversities in an Inner Mongolian steppe. Biology and Fertility of Soils 46(8): 817-824. 
+Zou, Y. L., Niu, D. C., Fu, H., Zhang, Y. C. & Wan, C. G. (2015) Moderate grazing promotes ecosystem carbon 
+sequestration in an alpine meadow on the Qinghai-Tibetan plateau. Journal of Animal and Plant Sciences 
+1(25(Suppll 1)): 165-171. 
+REFERENCES COPIED FROM THE 2006 IPCC GUIDELINES 
+Anderson, D.J., Perry, R.A. and Leigh, J.H. (1972). Some perspectives on shrub/environment interactions. In: 
+McKell C.M., Blaisdell J.P., Goodon J.R. (eds), Wildland Shrubs – Their Biology and Utilization. USDA 
+Forest Service, General Tech. Report INT-1. 
+Armentano, T.V. and Menges, E.S. (1986). Patterns of change in the carbon balance of organic soil-wetlands of 
+the temperate zone. Journal of Ecology 74: 755-774. 
+Conant, R.T. and Paustian, K. (2002). Potential soil carbon sequestration in overgrazed grassland ecosystems. 
+Global Biogeochemical Cycles 16: pp. 90_1-90_9. 
+ 
+Chapter 6: Grassland 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.21 
+Conant, R.T., Paustian, K., and Elliott, E.T. (2001). Grassland management and conversion into grassland: Effects 
+on soil carbon. Ecological Application 11: 343-355. 
+Falloon, P. and Smith, P. (2003). Accounting for changes in soil carbon under the Kyoto Protocol: need for 
+improved long-term data sets to reduce uncertainty in model projections. Soil Use and Management 19:265-
+269. 
+Follett, R. F., Kimble, J.M. and Lal, R. (2001). The potential of U.S. grazing lands to sequester soil carbon. Pages 
+401-430 in R. F. Follett, J.M. Kimble, and R. Lal, editor. The Potential of U.S. Grazing Lands to Sequester 
+Carbon and Mitigate the Greenhouse Effect. Lewis Publishers, Boca Raton, FL. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental Panel 
+on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.  
+IPCC (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Penman J., Gytarsky M., 
+Hiraishi T., Krug, T., Kruger D., Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F. 
+(Eds).Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+Kauffman, B., Cummings, D.L. and Ward, D.E. (1998). Fire in the Brazilian Amazon. 2. Biomass, nutrient pools 
+and losses in cattle pastures. Oecologia, 113 pp 415-427. 
+McGill, W. B. (1996). Review and classification of ten soil organic matter models.  In: Powlson D.S., Smith P., 
+and Smith J.U. (eds.).  Evaluation of Soil Organic Matter Models Using Existing Long-Term Datasets.  
+Springer-Verlag, Heidelberg: pp. 111-132. 
+McKeon, G.M., Hall, W.B., Henry, B.K., Stone, G.S. and Watson, I.W. (2004).  Pasture Degradation and Recovery 
+in Australia’s Rangelands:  Learning from History.  Queensland Department of Natural Resources, Mines and 
+Energy. pp. 256. 
+Monte, L, Hakanson, L., Bergstrom, U., Brittain, J., and Heling, R. (1996). Uncertainty analysis and validation of 
+environmental models: the empirically based uncertainty analysis. Ecological Modelling 91:139-152. 
+Naeth, M.A., Bailey, A.W., Pluth, D.J., Chanasyk, D.S., and Hardin, R.T. (1991). Grazing impacts on litter and 
+soil organic matter in mixed prairie and fescue grassland ecosystems of Alberta.  Journal or Range 
+Management 44 pp 7-12. 
+Nusser, S.M. and Goebel, J.J. (1997). The National Resources Inventory: a long-term multi-resource monitoring 
+programme. Environmental and Ecological Statistics 4:181-204. 
+Ogle, S.M., Breidt, F.J., Eve, M.D. and Paustian, K. (2003). Uncertainty in estimating land-use and management 
+impacts on soil organic carbon storage for U.S. agricultural lands between 1982 and 1997. Global Change 
+Biology 9:1521-1542. 
+Ogle, S.M., Breidt, F.J. and Paustian, K. (2006).  Bias and variance in model results associated with spatial scaling 
+of measurements for parameterization in regional assessments. Global Change Biology 12:516-523. 
+Ogle, S.M., Conant, R.T. and Paustian, K. (2004). Deriving grassland management factors for a carbon accounting 
+approach developed by the Intergovernmental Panel on Climate Change. Environmental Management. 33:474-
+484. 
+Ojima, D.S., Parton, W.J., Schimel, D.S., Scurlock, J.M.O. and Kittel, T.G.F. (1993). Modeling the effects of 
+climatic and CO2 changes on grassland storage of soil C. Water, Air, and Soil Pollution 70: pp. 643-657. 
+Powers, J. S., Read, J. M., Denslow, J. S. and Guzman, S. M. (2004). Estimating soil carbon fluxes following land-
+cover change: a test of some critical assumptions for a region in Costa Rica. Global Change Biology 10:170-
+181. 
+Smith, J.E. and Heath, L.S. (2001). Identifying influences on model uncertainty: an application using a forest 
+carbon budget model. Environmental Management 27:253-267. 
+Smith, P., Powlson, D.S., Smith, J.U. and Elliott, E.T. (eds) (1997).  Evaluation and comparison of soil organic 
+matter models.  Special Issue, Geoderma 81:1-225. 
+Vanden Bygaart, A.J., Gregorich, E.G., Angers, D.A., et al. (2004). Uncertainty analysis of soil organic carbon 
+stock change in Canadian cropland from 1991 to 2001. Global Change Biology 10:983-994. 
+Veldkamp, E. (2001). Changes in soil carbon stocks following conversion of forest to pasture in the tropics. In: 
+Holland E.A. (ed.): Notes from Underground: Soil Processes and Global Change. NATO ASI Series Berlin: 
+Springer. 

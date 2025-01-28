@@ -1,0 +1,173 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k                       AC K N O W .1
+A C K N O W L E D G E M E N T S
+The Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories (Revised Guidelines)
+were accepted by the Intergovernmental Panel on Climate Change (IPCC) at its Twelfth
+Session (Mexico City, 11-13 September 1996). Earlier, Working Group 1 of the IPCC at
+its Sixth Session (Mexico City, 10 September 1996) had accepted and then forwarded the
+Revised Guidelines to the IPCC. The IPCC-XII recommended that the Revised Guidelines
+“are ready for use by Parties to the UN Framework Convention on Climate Change
+(UNFCCC) in the preparation of their National Communications with regard to
+inventories, at a time to be agreed by the Parties of the Convention.” It is, therefore,
+extremely gratifying that the consensus effort of nearly one hundred and forty scientists
+and national experts from more than thirty countries has resulted in the publication of
+the Revised Guidelines.
+At the Fourth Session of the Subsidiary Body for Scientific and Technological Advice
+(SBSTA-4, Geneva, 16-18 December 1996), Parties to the Convention decided how, and
+when, the Revised Guidelines are to be applied. To assist Parties in meeting their
+commitments and targets, and to monitor progress, it is essential that national GHG
+emission inventories contain the best possible information for all major GHG sources and
+sinks. As such, inventories must be consistent, comparable, complete, and transparent.
+The Revised Guidelines provide such a methodology for the estimation and periodic update
+of national greenhouse gas (GHG) inventories, and thus comply with the requirements of
+Articles 4 and 12 of the UNFCCC.
+The Revised Guidelines were developed over a two-year period and draw extensively upon
+the previous Guidelines. Where possible, the Revised Guidelines improved upon the early
+1995 Guidelines by the synthesis and assessment of relevant new data. These improved
+data are critical for regions of the world where baseline information is still sparse. In
+areas of scientific advancement, existing methodologies were revised, and additional
+methodologies were developed and assessed. A Summary of the Revised 1996 IPCC
+Guidelines for National Greenhouse Gas Inventories can be found in Annex 3 of the Reporting
+Instructions.
+We are indebted to the Co-chairs of the IPCC Expert Groups and the Experts who
+generously supported this work. Their dedication to quality and timeliness was truly
+remarkable. Core funding for the IPCC Unit for GHG Inventories is provided through
+the IPCC Trust Fund. Other contributions, financial and otherwise, have been received
+from numerous governments (Canada, European Union, Netherlands, Norway, United
+Kingdom, United States) and several institutions, organisations and programmes
+(European Environment Agency, Institute of Environmental Studies, United Nations
+Environment Programme Country Studies, United States Country Studies Programme).
+We are most grateful to the governments of Brazil, Switzerland, Thailand and the United
+ACKNOWLEDGEMENTS
+A C K N O W.2                    R e v i se d 1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k
+Kingdom for kindly hosting the meetings of the IPCC Expert Groups and the Greenhouse
+Gas Liaison Group (GILG). We warmly thank the Co-chairmen and the members of the
+Technical Support Unit of Working Group I, and the staff of the IPCC/OECD/IEA GHG
+inventory programme. In this context, we particularly express our gratitude to Bo Lim
+and Karen Tréanton in their capacity as Co-editors of the Revised Guidelines, and
+Audrey Glynn-Garnier and Sharon Michel for formatting the Guidelines. Finally, we
+express our sincere appreciation to our Visiting Scientists, Yamil Bonduki,
+Alexey Kokorin, Isabelle Mamaty and Katrina Marekova for their invaluable input to this
+effort.
+ 
+Professor B. Bolin
+Dr. N. Sundararaman
+Chairman of the IPCC
+Secretary of the IPCC
+Contributors to the Revised 1996 IPCC Guidelines for National Greenhouse Gas
+Inventories
+Chapter 1: Energy
+Co-Chairs of Expert Group on Fuel Combustion
+Simon Eggleston (United Kingdom).
+Jean-Yves Garnier (IEA).
+David Mobley (USA).
+Expert/Author for Non-CO2 Tier 1 Approach
+K. Mareckova (Slovak Republic).
+Experts/Authors for Harmonisation Between IPCC and CORINAIR Inventories
+J. P. Fontelle (France), K. E. Joerss (Germany), T. Simmons (United Kingdom),
+K. Tréanton (IEA).
+Experts/Authors for Emissions from Aircraft
+N. A. Kilde (Denmark), and J. Olivier (The Netherlands).
+Experts/Contributors
+W. Barbour (USA), L. Beck (USA), P.L. Canegallo (Italy), F. Carnovale (Australia),
+M. Emmott (United Kingdom), G. McInnes (Denmark) J. Meijer (IEA), R. Montgomery
+(Luxembourg), H.S. Mukunda (India), T. Pulles (The Netherlands), E. Radwanski (Poland),
+S. Richardson (United Kingdom), M. Ritter (Austria), H. Saddler (Australia), Z. Samaras
+(Greece), and T. Simmons (United Kingdom).
+ACKNOWLEDGEMENTS
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k                      AC K N O W .3
+Chapter 2: Industrial Processes
+Co-Chairs of Expert Group on Industrial Processes and ‘New Gases’
+Art Jaques (Canada).
+Audun Rosland (Norway).
+Secretary of the Expert Group
+F. Weidemann (Norway).
+Experts/Authors
+H.T. Haukås (Norway), A. Jaques (Canada), F. Neitzert (Canada), A. Rosland (Norway),
+K. Rypdal (Norway), and  F. Weidemann (Norway).
+Experts/Contributors
+F. Carnovale (Australia), M. T. Duarte Neves Anacleto (Portugal), C. Ebert (USA),
+T. Fukushima (Japan), E. Kvist (Sweden)  J. Lupinacci (USA), K. Mareckova (Slovak
+Republic), A. McCulloch (United Kingdom),  J.G.J. Olivier (The Netherlands), H. Oonk
+(The Netherlands), K.l Øren (Norway), G. Salway (United Kingdom), T. Simmons (United
+Kingdom), and V. Simpson (United Kingdom).
+Chapter 4: Agriculture
+Co-Chairs of Expert Group on Nitrous Oxide from Agricultural Soils
+Carolien Kroeze (The Netherlands).
+Arvin Mosier (USA).
+Experts/Authors
+C. Kroeze (The Netherlands), A. Mosier (USA), C. Nevison (USA), O. Oenema
+(The Netherlands), S. Seitzinger (USA), and O. van Cleemput (Belgium).
+Experts/Contributors
+L. Bakken (Norway), P. Bielek (Slovak Republic), S. Bogdanov (Bulgaria), Y. Bonduki
+(Venezuela), A. F. Bouwman (The Netherlands), R.A. Delmas (France), F.J. Dentener
+(The Netherlands), R. Francisco (Philippines), J. Freney (Australia), S. Frolking (USA),
+P. Groffman (USA), O. Heinemeyer (Germany), R. Karaban (Russian Federation),
+L. Klemedtsson (Sweden), P.A. Leffelaar (The Netherlands), E. Lin (China), K Minami
+(Japan), W.J. Parton (USA), D.C. Parashar (India), R. Scholes (South Africa), R. Sherlock
+(New Zealand)  K. Smith (United Kingdom), H.G. van Faassen (The Netherlands),
+E. Veldkamp (USA), G.L. Velthof (The Netherlands), and G.X. Xing (China).
+Chair of  Expert Group on Methane Emissions from Rice Cultivation
+Dieter H. Ehhalt (Germany).
+Experts/Authors
+R. Conrad (Germany), A. P. Mitra (India), H.U. Neue (Philippines), and R. Sass (USA).
+ACKNOWLEDGEMENTS
+A C K N O W.4                    R e v i se d 1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  W o r kb o o k
+Experts/Contributors
+S. Bhattacharya (India),  K. Boonpragob (Thailand), O.T. Denmead (Australia), Y.A. Husin
+(Indonesia), M.C. Jain (India), P. Jermsawatdipong (Thailand), N. Krairapanond (Thailand),
+K. Minami (Japan), D.C. Parashar (India), D. Phantumvanit, S. Piamphongsant (Thailand),
+G.Y. Shi (China), O. Siriratpiriya (Thailand), S. Towprayoon (Thailand), G.X. Xing (China),
+L. Xu (China), and S.H. Yun (Republic of Korea).
+Chapter 5: Land-use Change and Forestry
+Co-Chairs of Expert Group on Land-use Change and Forestry
+Sandra Brown (USA).
+Youba Sokona (Senegal).
+Convening Experts/Authors
+S. Brown (USA) and J. Winjum (USA).
+Experts/Authors
+A. Kokorin (Russian Federation) and  M. Lorenzini (Italy).
+Experts/Contributors
+S. Amous (Tunisia), S. Calman (New Zealand), P. Cheng (Australia), H. Eriksson
+(Sweden), P. Frost (Zimbabwe), T. Karjalainen (Finland), J. Mindas (Slovak Republic),
+N.H. Ravindranath (India) and Y. Sokona (Senegal).
+Co-chairs of Expert Group on Emissions and Uptake of CO2 from Soils
+Arvin Mosier (USA).
+Keith Paustian (USA).
+Convening Expert/Author
+K. Paustian (USA).
+Experts/Authors
+H. Janzen (Canada), H. Tiessen (Canada), and M. van Noordwijk (Indonesia).
+Experts/Contributors
+O. Andrén (Sweden), E. Davidson (USA), H. Eswaran (USA), E. Fernandes (USA),
+P. Grace (Australia), R. Houghton (USA), J. Kimble (USA), T. Kolchingina (Russian
+Federation), R. Lal (USA), M. Scholes (South Africa), P. Smith (United Kingdom), G. Tian
+(Nigeria), P. Woomer (Kenya), and L. Zhong (China).
+ACKNOWLEDGEMENTS
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k                      AC K N O W .5
+Chapter 6: Waste
+Co-Chairs of Expert Group on Waste
+Elisabeth Aitchison (United Kingdom).
+Chris Franklin (United Kingdom).
+Tom Kerr (USA).
+Cindy Jacobs (USA).
+Experts/Authors
+E. Aitchison (United Kingdom), C. Franklin (United Kingdom), C. Jacobs (USA) and
+J. Woodbury (USA).
+Experts/Contributors
+D. Augenstein (USA), A.D. Bhide (India), D. Becker (The Netherlands), J. Bogner (USA),
+K. Butterback-Bahl (Germany), T. Beer (Australia), P. Czepiel (USA), L. de Rome (United
+Kingdom), D. Gaudioso (Italy), B. Hamelers (The Netherlands), K. Hogan (USA),
+N. A. Kilde (Denmark), A. Lifshits (Russian Federation), E. Matthews (USA), M. Meadows
+(United Kingdom), M. Milton (United Kingdom), P. Manczarski (Poland), H. Oonk
+(The Netherlands), F. Otieno (South Africa), R. Pipatti (Finland), S. Thorneloe (USA),
+A. van Amstel (The Netherlands), and I. Grietje Zeeman (The Netherlands).
+IPCC/OECD/IEA Secretariats
+C. Allen (OECD), Y. Bonduki (IPCC/OECD), B.A. Callander (IPCC), J.C. Corfee-Morlot
+(OECD), J.Y. Garnier (IEA), A. Glynn-Garnier (IPCC/OECD), D.J. Griggs (IPCC),
+J. Lakeman (IPCC), B. Lim (IPCC/OECD), I. Mamaty (IPCC/OECD), J. Meijer (IEA),
+S. Michel (IEA), B. Nyenzi (IPCC), T. Simmons (IEA), J. Stein (IPCC/OECD), and
+K. Tréanton (IEA).
+The Revised 1996 IPPC Guidelines for National Greenhouse Inventories contain
+material from the 1995 IPCC Guidelines for National Greenhouse Inventories
+(1995 Guidelines). The Co-Chairs of the previous Expert Groups are given in
+the 1995 Guidelines.

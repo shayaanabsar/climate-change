@@ -1,0 +1,887 @@
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.1 
+CHAPTER 5 
+INCINERATION AND OPEN BURNING 
+OF WASTE 
+ 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+5.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors  
+Sirintornthep Towprayoon (Thailand), Seungdo Kim (Republic of Korea), Eui-Chan Jeon (Republic of Korea), 
+Tomonori Ishigaki (Japan), Seini Nouhou Amadou (Niger)  
+ 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.3 
+Contents 
+ 
+5 
+Incineration and Open Burning of Waste ..................................................................................................... 5.5 
+5.1 
+Introduction ......................................................................................................................................... 5.5 
+5.2 
+Methodological issues ......................................................................................................................... 5.9 
+5.2.1 
+Choice of method for estimating CO2 emissions .......................................................................... 5.10 
+5.2.2 
+Choice of method for estimating CH4 emissions .......................................................................... 5.11 
+5.2.3 
+Choice of method for estimating N2O emissions .......................................................................... 5.11 
+5.3 
+Choice of activity data ....................................................................................................................... 5.11 
+5.3.1 
+Amount of waste incinerated ......................................................................................................... 5.11 
+5.3.2 
+Amount of waste open-burned ...................................................................................................... 5.11 
+5.3.3 
+Dry matter content ......................................................................................................................... 5.11 
+5.4 
+Choice of emission factors ................................................................................................................ 5.12 
+5.4.1 
+CO2 emission factors .................................................................................................................... 5.12 
+5.4.2 
+CH4 emission factors .................................................................................................................... 5.13 
+5.4.3 
+N2O emission factors .................................................................................................................... 5.15 
+5.5 
+Completeness .................................................................................................................................... 5.16 
+5.6 
+Developing a consistent time series................................................................................................... 5.16 
+5.7 
+Uncertainty assessment ..................................................................................................................... 5.17 
+5.7.1 
+Emission factor uncertainties ........................................................................................................ 5.17 
+5.7.2 
+Activity data uncertainties ............................................................................................................. 5.17 
+5.8 
+QA/QC, Reporting and Documentation ............................................................................................ 5.17 
+5.8.1 
+Inventory Quality Assurance/Quality Control (QA/QC) ............................................................... 5.17 
+5.8.2 
+Reporting and Documentation ...................................................................................................... 5.17 
+References .......................................................................................................................................................... 5.18 
+ 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+5.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+ 
+Table 5.2 (Updated) Default data for CO2 emission factors for incineration and open burning of waste ...... 5.12 
+Table 5.3 
+CH4 emission factors for incineration of MSW ............................................................. 5.13 
+Table 5.3a (New)     
+CH4 emission factors for pyrolysis-melting and gasification-melting plant of MSW ... 5.14 
+Table 5.4                 
+N2O emission factors for incineration of MSW ............................................................. 5.16 
+Table 5.4a (New)     
+N2O emission factors for pyrolysis-melting and gasification-melting plant of MSW ... 5.16 
+ 
+Boxes 
+Box 5.0a (New)     
+Pyrolysis .......................................................................................................................... 5.6 
+Box 5.0b (New)  
+Gasification ...................................................................................................................... 5.7 
+Box 5.0c (New)   
+Plasma .............................................................................................................................. 5.8 
+Box 5.2 (New)   
+Information on CH4 emission factors in laboratory scale .............................................. 5.14 
+Box 5.3 (New)       
+Combined system ........................................................................................................... 5.15 
+ 
+ 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.5 
+5 INCINERATION AND OPEN BURNING OF 
+WASTE 
+Users are expected to go to Mapping Tables in Annex 1, before reading this chapter. This is required to 
+correctly understand both the refinements made and how the elements in this chapter relate to the corresponding 
+chapter in the 2006 IPCC Guidelines. 
+ 
+5.1 
+INTRODUCTION 
+Thermal treatments of waste are classified into incineration, pyrolysis, gasification, plasma, and open burning of 
+waste. Pyrolysis, gasification, and plasma are regarded as new technologies for treating solid wastes. In Chapter 
+5, Volume 5 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC Guidelines), 
+the new technologies are not included. These new technologies have been applied worldwide and have become 
+important in some countries. The refinement in this chapter provides CH4 and N2O emission factors of 
+pyrolysis-melting and gasification-melting plant for treating municipal solid waste (MSW) to be used in their 
+emission estimates. This chapter updates the oxidation factor for open burning of MSW from experiment data 
+including uncertainty.  
+Waste incineration is defined as the combustion of solid and liquid waste in controlled incineration facilities. 
+Modern refuse combustors have tall stacks and specially designed combustion chambers, which provide high 
+combustion temperatures, long residence times, and efficient waste agitation while introducing air for more 
+complete combustion. Types of waste incinerated include MSW, industrial waste, hazardous waste, clinical 
+waste and sewage sludge1. The practice of MSW incineration is currently more common in developed countries, 
+while it is common for both developed and developing countries to incinerate clinical waste. 
+Pyrolysis is defined as a reduction process that thermochemically converts organic materials into gas and liquid 
+products mainly containing hydrocarbon components and a solid residue with higher carbon content at elevated 
+temperatures in the absence of oxygen (Box 5.0a New). 
+Gasification is a process that converts organic materials mainly into carbon monoxide, hydrogen, and carbon 
+dioxide at temperatures above 700℃ with different ratios of gasifying agent such as steam, carbon dioxide, 
+oxygen, and air. The resulting gas mixture is called as synthesis gas (syngas), mainly used as fuel and/or 
+chemical feedstock (Box 5.0b New).  
+Plasma is defined as a partial oxidation process of reacting organic materials in an oxygen starved environment 
+at high temperature to produce gas and solid products. The highly reactive plasma zone consists largely of 
+electrons, ions, and excited molecules along with high energy radiation. In a plasma zone, organic materials are 
+cracked to high portion of gas products such as carbon dioxide, water, carbon monoxide, hydrogen, and light 
+hydrocarbons along with low quantities of inorganic solid product (slag and metals) (Box 5.0c New). 
+The new technologies have been mostly applied to produce fuels and chemical feedstocks from waste tires and 
+plastics, and they are also applied to treat MSW to avoid the generations of air pollutants that would arise from 
+conventional MSW incineration. Although many pyrolysis, gasification, and plasma plants have been applied to 
+treat wastes, many plants have been closed due to some technical problems as well as high cost. Rising 
+environmental standards and clean energy demands have recently revived the interest in the new technologies 
+and then new plants are getting installed in developed countries. However, few official data for the emissions of 
+greenhouse gases are available for the new technologies. Especially, greenhouse gas emission data from plasma 
+technology are rarely found. 
+Since gas products generated from the new technologies are usually collected and used mostly as fuel or 
+chemical feedstock, direct emissions of CH4 and N2O from the new technologies are expected to be quite low 
+unless gas products containing CH4 and N2O are intentionally vented to the atmosphere. If the gas products 
+would be combusted to supply energy to inside processes, the emissions of CH4 and N2O are reported under the 
+Energy Sector. On the other hand, the emissions of CH4 and N2O in gas products are reported under the Waste 
+Sector provided that the gas products would be released to the atmosphere. If gas, liquid, and solid products 
+generated from the new technologies would be exported outside for their use or disposal, the emissions of 
+                                                           
+1 Waste generation, composition and management practices, including waste incineration and open burning, are addressed in 
+detailin Chapter 2 of this volume. 
+Volume 5: Waste 
+ 
+ 
+ 
+5.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+greenhouse gases are not reported as those from the new technologies themselves, but at the point of their use or 
+disposal.  
+BOX 5.0A (NEW) 
+PYROLYSIS 
+Pyrolysis is a reductive and endothermic reaction to convert carbonaceous substances into lower 
+molecular weight compounds by applying external energy. The more energy is applied, the smaller 
+size compounds are produced. CH4 is one of the smallest compounds generated from pyrolysis 
+process of carbonaceous substances. Pyrolysis of organic wastes is normally operated at 
+temperature ranges between 300 and 700°C. The pyrolysis process can be shown as below:  
+ 
+ 
+Solid wastes or single organic wastes (e.g., plastic and wood) are pre-treated (e.g., drying and 
+pulverizing, etc.) to satisfy technical requirements for the succeeding pyrolysis reaction. 
+Combustible components of solid wastes are thermally decomposed in pyrolysis reactor to produce 
+gases and solid residues. The product gas is composed of condensable and non-condensable 
+fraction which are separated into gas and liquid products, respectively, by a quenching process. 
+The gas products mainly composed of volatile organic compounds (e.g., CH4, C2H6, etc.), H2, 
+CO, and CO2. Liquid products are composed of various aliphatic and aromatic compounds. Solid 
+products include carbon residues (char) and inorganic components. The solid products may be 
+combusted in situ for energy recovery within pyrolysis process or transferred outside for energy 
+and/or chemical feedstock use. The gas products (pyrogases) are combusted in energy supplying 
+system to provide energy to the pyrolysis reactor or transferred outside for energy or chemical 
+feedstock use. The external energy-supplying system to the pyrolysis reactor is considered as the 
+only emission source of greenhouse gases in the pyrolysis plant. The emissions of greenhouse 
+gases from the energy-supplying system within the pyrolysis plant are reported under the Energy 
+Sector. If pyrolysis products would be exported outside for their use or disposal, the emissions of 
+greenhouse gases are not reported as those from the pyrolysis plant, but at the point of their use or 
+disposal.  
+ 
+ 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.7 
+BOX 5.0B (NEW) 
+GASIFICATION 
+Gasification is a conversion process of carbonaceous substances to gas fuel with a high heating 
+value. Depending upon reaction condition, gasification of solid wastes is accounted for by four 
+primary reactions: partial oxidation reaction, Boudouard reaction, water gas reaction, and 
+methanation reaction. 
+ 
+partial oxidation reaction: C + 1⁄2O2 → CO 
+ 
+Boudouard reaction: C + CO2 ↔ 2CO  
+ 
+water gas shift reaction: C + H2O ↔ CO+ H2 
+ 
+methanation reaction: 2C + 2H2O→ CH4 + CO2 
+The above gasification reactions reveal that the product gas primarily consists of H2, CO, and CH4 
+and is referred to as synthesis gas (syngas). Solid wastes or single organic wastes (e.g., plastic and 
+wood) are pre-treated (e.g., drying and pulverizing, etc.) to answer technical requirements for the 
+subsequent gasification reaction. The gasification of combustible components of solid wastes 
+produces the primary syngas. The gas cleaning system after the gasifier removes acid gases, fine 
+particulates, heavy metals, and moistures from the primary syngas. The clean syngas may be used 
+as fuel for generating electrical and thermal energy or steam or exported to other processes for 
+energy and/or chemical feedstock use. Some portion of clean syngas can be supplied to energy 
+supplying system within the gasification plant to provide the energy to gasifier. The gasification of 
+combustible components of solid wastes produces syngas together with liquid and solid products. 
+Liquid products separated from product gas by a quenching process are known as tars, which are 
+mainly composed of polyaromatic compounds, while the solid products are represented by 
+inorganic components and a little carbon residue. 
+ 
+Since syngas generated from gasification process is used in situ and/or outside for fuel, CH4 
+emissions are rarely expected during the gasification process. It is noted that syngas may be vented 
+directly to atmosphere despite of its rare occurrence. The external energy-supplying system to the 
+gasifier is considered as the only emission source of greenhouse gases in the gasification plant. 
+The emissions of greenhouse gases from the energy-supplying system within the gasification plant 
+are reported under the Energy Sector. If gasification products would be exported outside for their 
+use or disposal, the emissions of greenhouse gases are not reported as those from the gasification 
+plant, but at the point of their use or disposal.  
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+5.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 5.0C (NEW) 
+PLASMA 
+Plasma technology is regarded as an advanced and pure gasification process. Since plasma 
+processes are operated at extremely high temperatures in an oxygen deficient condition, 
+combustible components of solid wastes can be nearly completely converted into syngas. Reaction 
+residues of plasma process consist of inorganic components including slag and metals. Primary 
+syngas is produced in plasma rector where one or more plasma arc torches are installed for plasma 
+generation. The primary syngas is treated by gas cleaning system to produce clean syngas. 
+ 
+Since syngas generated from plasma process may be used in situ as fuel or exported to another 
+process for energy and/or chemical feedstock use, CH4 emissions are rarely expected from the 
+plasma process itself. It is noted that syngas may be vented directly to atmosphere despite of its 
+rare occurrence. The external energy-supplying system to the plasma reactor is considered as the 
+only emission source of greenhouse gases in the plasma plant. The emissions of greenhouse gases 
+from the energy recovery system within the plasma plant are reported under the Energy Sector. If 
+syngas would be exported outside for its use, the emissions of greenhouse gases are not reported as 
+those from the plasma plant, but at the point of its use. 
+Emissions of greenhouse gases from thermal treatment of waste include incineration, pyrolysis, gasification, 
+plasma and open burning without energy recovery are reported in the Waste Sector, while those with energy 
+recovery are reported in the Energy Sector, both with a distinction between fossil and biogenic carbon dioxide 
+(CO2) emissions. The methodology described in Chapter 5, Volume 5 of the 2006 IPCC Guidelines is applicable 
+in general both to incineration with and without energy recovery. In this refinement, emission factors of CH4 and 
+N2O emissions from new technologies emitted directly to the atmosphere are provided.  Co-firing of specific 
+waste fractions with other fuels is not addressed in this chapter, as co-firing is covered in Volume 2, Energy. 
+Emissions from agricultural residue burning are considered in the AFOLU Sector, Chapter 5 of Volume 4. 
+Open burning of waste can be defined as the combustion of unwanted combustible materials such as paper, wood, 
+plastics, textiles, rubber, waste oils and other debris in nature (open-air) or in open dumps, where smoke and 
+other emissions are released directly into the air without passing through a chimney or stack. Open burning can 
+also include incineration devices that do not control the combustion air to maintain an adequate temperature and 
+do not provide sufficient residence time for complete combustion. This waste management practice is used in 
+many developing countries while in developed countries open burning of waste may either be strictly regulated, 
+or otherwise occur more frequently in rural areas than in urban areas. 
+Incineration and open burning of waste are sources of greenhouse gas emissions, like other types of combustion. 
+Relevant gases emitted include CO2, methane (CH4) and nitrous oxide (N2O). Normally, emissions of CO2 from 
+waste incineration are more significant than CH4 and N2O emissions. 
+Consistent with the 1996 Guidelines (IPCC, 1997), only CO2 emissions resulting from oxidation, during 
+incineration and open burning of carbon in waste of fossil origin (e.g., plastics, certain textiles, rubber, liquid 
+solvents, and waste oil) are considered net emissions and should be included in the national CO2 emissions 
+estimate. The CO2 emissions from combustion of biomass materials (e.g., paper, food, and wood waste) 
+contained in the waste are biogenic emissions and should not be included in national total emission estimates. 
+However, if incineration of waste is used for energy purposes, both fossil and biogenic CO2 emissions should be 
+estimated. Only fossil CO2 should be included in national emissions under Energy Sector while biogenic CO2 
+should be reported as an information item also in the Energy Sector. Moreover, if combustion, or any other 
+factor, is causing long term decline in the total carbon embodied in living biomass (e.g., forests), this net release 
+of carbon should be evident in the calculation of CO2 emissions described in the Agriculture, Forestry and Other 
+Land Use (AFOLU) Volume of the 2006 Guidelines. 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.9 
+Guidance on methodological choices for estimating and reporting CO2, CH4 and N2O emissions from 
+incineration and open burning reported in Chapter 5, Volume 5 of the 2006 IPCC Guidelines are valid to 
+estimate CH4 and N2O from new technologies. This refinement provides guidance on choice of CH4 and N2O 
+emission factors for pyrolysis and gasification for specific type of plant.   
+Traditional air pollutants from combustion - non-methane volatile organic compounds (NMVOCs), carbon 
+monoxide (CO), nitrogen oxides (NOx), sulphur oxides (SOx) - are covered by existing emission inventory 
+systems. Therefore, the IPCC does not provide new methodologies for these gases here, but recommends that 
+national experts or inventory compilers use existing published methods under international agreements. Some 
+key examples of the current literature providing methods include EMEP/CORINAIR Guidebook (EMEP 2004), 
+US EPA's Compilation of Air Pollutant Emissions Factors, AP-42, Fifth Edition (US EPA, 1995), EPA Emission 
+Inventory Improvement Program Technical Report Series, Vol. III Chapter 16: Open Burning (US EPA, 2001). 
+The estimation of indirect N2O emissions, resulting from the conversion of nitrogen deposition to soils due to 
+NOx emissions from waste incineration and open burning, is addressed in Section 5.4.3 of this chapter. General 
+background and information on the reporting of the indirect N2O emissions is given in Chapter 7, Precursors and 
+Indirect Emissions, of Volume 1, General Guidance and Reporting. 
+ 
+5.2 
+METHODOLOGICAL ISSUES  
+The choice of method will depend on national circumstances, including whether incineration and open burning 
+of waste are key categories in the country, and to what extent country- and plant-specific information is available 
+or can be gathered. 
+For waste incineration, the most accurate emission estimates can be developed by determining the emissions on a 
+plant-by-plant basis and/or differentiated for each waste category (e.g., MSW, sewage sludge, industrial waste, 
+and other waste including clinical waste and hazardous waste). The methods for estimating CO2, CH4 and N2O 
+emissions from incineration and open burning of waste vary because of the different factors that influence 
+emission levels. Estimation of the amount of fossil carbon in the waste burned is the most important factor 
+determining the CO2 emissions. The non-CO2 emissions are more dependent on the technology and conditions 
+during the incineration process. 
+Intentional burning of waste on solid waste disposal sites is sometimes used as a management practice in some 
+countries. Emissions from this practice and those from unintentional fires (accidental fires on solid waste 
+disposal sites) should be estimated and reported according to the methodology and guidance provided for open 
+burning of waste.  
+The general approach to calculate greenhouse gas emissions from incineration and open burning of waste is to 
+obtain the amount of dry weight of waste incinerated or open-burned (preferably differentiated by waste type) 
+and to investigate the related greenhouse gas emission factors (preferably from country-specific information on 
+the carbon content and the fossil carbon fraction). For CO2 emissions from incineration and open burning of 
+waste, the basic approach is given here as an example of a consecutive approach: 
+• 
+Identify types of wastes incinerated/open-burned: MSW, sewage sludge, industrial solid waste, and other 
+wastes (especially hazardous waste and clinical waste) incinerated/open-burned. 
+• 
+Compile data on the amount of waste incinerated/open-burned including documentation on methods used 
+and data sources (e.g., waste statistics, surveys, expert judgement): Regional default data are also provided 
+in Table 2.1 (Updated) in Chapter 2, Waste Generation, Composition and Management Data, and country-
+specific data for a limited number of countries in Annex 2A.1 (Updated) of this Volume. The default data 
+should be used only when country-specific data are not available. For open burning, the amount of waste 
+can be estimated based on demographic data. This is addressed in Section 5.3.2. 
+• 
+Use default values provided on dry matter content, total carbon content, fossil carbon fraction and oxidation 
+factor (see Section 5.4.1.3) for different types of wastes: For MSW, preferably identify the waste 
+composition and calculate the respective dry matter content, total carbon content, and fossil carbon fraction 
+using default data provided for each MSW component (plastic, paper, etc) in Section 2.3, Waste 
+composition, of this Volume. 
+• 
+Calculate the CO2 emissions from incineration and open burning of solid wastes. 
+• 
+Provide data in the worksheets given in Annex 1 of this Volume 5 of the 2006 IPCC Guidelines. 
+For other waste types and other greenhouse gases, the approach usually does not differentiate as much as for the 
+MSW in terms of waste composition. Detailed guidance on the choice of method, activity data and emission 
+Volume 5: Waste 
+ 
+ 
+ 
+5.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+factors for all major types of waste to estimate the emissions from relevant waste incineration and burning 
+practices is outlined in the following sections. 
+Methodology from the 2006 IPCC Guidelines can be used to estimate emission from gasification, pyrolysis and 
+plasma. Emission factors of CH4 and N2O from pyrolysis and gasification are provided in new Tables 5.3A and 
+5.4A. 
+5.2.1 
+Choice of method for estimating CO2 emissions 
+No refinement. 
+5.2.1.1 
+TIER 1 
+No refinement. 
+5.2.1.2 
+TIER 2 
+No refinement.  
+5.2.1.3 
+TIER 3 
+No refinement. 
+ 
+ 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.11 
+5.2.1.4 
+CO2 EMISSIONS FROM INCINERATION OF FOSSIL LIQUID 
+WASTE  
+No refinement.  
+5.2.2 
+Choice of method for estimating CH4 emissions 
+No refinement.  
+5.2.2.1 TIER 1 
+No refinement . 
+5.2.2.2 TIER 2 
+No refinement. 
+5.2.2.3 TIER 3 
+No refinement. 
+5.2.3 
+Choice of method for estimating N2O emissions 
+No refinement. 
+5.2.3.1 TIER 1 
+No refinement.   
+5.2.3.2 TIER 2 
+No refinement. 
+5.2.3.3 TIER 3 
+No refinement. 
+5.3 
+CHOICE OF ACTIVITY DATA 
+No refinement. 
+5.3.1 
+Amount of waste incinerated 
+No refinement. 
+5.3.2 
+Amount of waste open-burned 
+No refinement. 
+5.3.3 
+Dry matter content 
+No refinement.  
+Volume 5: Waste 
+ 
+ 
+ 
+5.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.4 
+CHOICE OF EMISSION FACTORS 
+Emission factors in the context of incineration and open burning of waste relate the amount of greenhouse gas 
+emitted to the weight of waste incinerated or open-burned. In the case of CO2, this applies data on the fractions 
+of carbon and fossil carbon in the waste. For CH4 and N2O, this primarily depends on the treatment practice and 
+the combustion technology. For the estimation of CO2, CH4 and N2O emissions from incineration and open 
+burning of waste, guidance on choice of the emission factors is outlined in the following sections. 
+5.4.1 
+CO2 emission factors 
+It is generally more practical to estimate CO2 emissions from incineration and open burning of waste using 
+calculations based on the carbon content in the waste, instead of measuring the CO2 concentration. 
+Default values for parameters related to emission factors are shown in Table 5.2 (Updated). Each of these factors 
+is discussed in detail in the sections below2. 
+TABLE 5.2 (UPDATED) 
+DEFAULT DATA FOR CO2 EMISSION FACTORS FOR INCINERATION AND OPEN BURNING OF WASTE 
+Parameters 
+Management 
+practice 
+MSW 
+Industrial 
+Waste (%) 
+Clinical 
+Waste (%) 
+Sewage 
+Sludge (%) 
+Note 4 
+Fossil liquid 
+waste (%) 
+Note 5 
+Dry matter content in % of 
+wet weight 
+ 
+see Note 1 
+NA  
+NA 
+NA 
+NA 
+Total carbon content in % of 
+dry weight 
+ 
+see Note 1 
+50 
+60 
+30 
+80 
+Fossil carbon fraction in % 
+of total carbon content 
+ 
+see Note 2 
+90 
+40 
+0 
+100 
+Oxidation factor in % of 
+carbon input 
+incineration 
+100 
+100 
+100 
+100 
+100 
+Open- burning 
+(see Note 3,6) 
+71 
+NO 
+NO 
+NO 
+NO 
+NA: Not Available, NO: Not Occurring 
+Note 1:  Use default data from Table 2.4 in Section 2.3 Waste composition and equation 5.8 (for dry matter), Equation 5.9 (for carbon 
+content) and Equation 5.10 (for fossil carbon fraction). 
+Note 2:   Default data by industry type is given in Table 2.5 in Section 2.3 Waste composition. For estimation of emissions, use equations 
+mentioned in Note 1.  
+Note 3:  A default value of 71 percent is provided from the experimental study in Japan. Its uncertainty is +/-8 percent. Reference: 
+Yamada et al. (2010) 
+Note 4:  See Section 2.3.2 Sludge in Chapter 2.  
+Note 5:  The total carbon content of fossil liquid waste is provided in percent of wet weight and not in percent of dry weight (GIO, 2005). 
+References: GPG2000 (IPCC, 2000), Lead Authors of the 2006 IPCC Guidelines, Expert judgement. 
+Note 6: The residue after open-burning contains unburned carbon in the form of ash or other solid residue. The fate of the unburned 
+carbon is to be tracked and the emissions from the disposition of the unburned carbon is to be accounted for in the appropriate 
+category. When open-burning takes place in SWDS, burned fraction of DOC is subtracted from the DOC in SWDS (See Section 
+3.2.1 of Chapter 3, Volume 5 of the 2006 IPCC Guidelines). If unburned carbon is placed at the surface of SWDS with aerobic 
+condition, emission is not taken into account. When the condition is regarded as anaerobic by further piling of waste, this fraction 
+is categorised in slowly degrading waste. 
+ 
+5.4.1.1 
+TOTAL CARBON CONTENT 
+No refinement.  
+5.4.1.2 
+FOSSIL CARBON FRACTION 
+No refinement.  
+                                                           
+2 The parameters total carbon content in percent of dry weight and fossil carbon fraction in percent of total carbon content 
+could be combined to the parameter: fossil carbon content in percent of dry weight. 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.13 
+5.4.1.3 
+OXIDATION FACTOR 
+When waste streams are incinerated or open-burned most of the carbon in the combustion product oxidises to 
+CO2. A minor fraction may oxidise incompletely due to inefficiencies in the combustion process, which leave 
+some of the carbon unburned or partly oxidised as soot or ash. For waste incinerators it is assumed that the 
+combustion efficiencies are close to 100 percent, while the combustion efficiency of open burning is 
+substantially lower. If oxidation factors of waste incineration below 100 percent are applied, these need to be 
+documented in detail with the data source provided. Table 5.2 (Updated) presents updated default oxidation 
+factor for open burning of MSW and total carbon content in percent of dry weight of sewage sludge. 
+If the CO2 emissions are determined on a technology- or plant-specific basis in the country, it is good practice to 
+use the amount of ash (both bottom ash and fly ash) as well as the carbon content in the ash as a basis for 
+determining the oxidation factor. 
+The 2006 IPCC Guidelines provide default oxidation factors for open burning of MSW. This refinement updates 
+the default parameter of oxidation factor from experiment from Japan. The condition of combustion is 
+smouldering with 35 percent of the moisture content. In updated Table 5.2, except the default values of oxidation 
+factor of MSW and total C content in sewage sludge, all values are retrieved from the 2006 IPCC Guidelines.    
+5.4.2 
+CH4 emission factors 
+CH4 emissions from waste incineration are much dependent on the continuity of the incineration process, the 
+incineration technology, and management practices. The most detailed observations have been made in Japan 
+(GIO, 2004), where the following CH4 emission factors based on technology and operation mode are obtained. 
+Continuous incineration includes incinerators without daily start-up and shutdown. Batch type and semi-
+continuous incineration mean that the incinerator is usually started-up and shutdown at least once a day. These 
+differences in operation are at the origin of difference in emission factors. It is sometimes observed that the 
+concentrations of CH4 in the exhaust gas of the furnace are below the CH4 concentrations in intake gas of the 
+incinerator (GIO, 2005). Because of the low concentrations and high uncertainties, it is here good practice to 
+apply an emission factor of zero (see Section 5.2.2.3). 
+For continuous incineration of MSW and industrial waste, it is good practice to apply the CH4 emission factors 
+provided in Volume 2, Chapter 2, Stationary Combustion. For other MSW incinerators (semi-continuous and 
+batch type), Table 5.3 shows CH4 emission factors reported by Greenhouse Gas Inventory Office of Japan (GIO, 
+Japan). The CH4 emission factors of other industrial waste incinerators are differentiated by waste type, rather 
+than technology (GIO, 2005). In Japan, the CH4 emission factors of waste oil and of sludge are 0.56 g CH4/t wet 
+weight and 9.7 g CH4/t wet weight, respectively. 
+For open burning of waste, a CH4 emission factor of 6500 g / t MSW wet weight has been reported (EIIP, 2001). 
+This factor should be applied as a default, unless another CH4 emission factor seems more appropriate. 
+If country-specific data are available, these should be applied instead and the method used to derive them as well 
+as the data sources need to be documented in detail. 
+TABLE 5.3 
+CH4 EMISSION FACTORS FOR INCINERATION OF MSW 
+Type of incineration/technology 
+CH4 Emission Factors 
+(kg/Gg waste incinerated on a wet weight basis) 
+Continuous incineration 
+stoker 
+0.2 
+fluidised bed Note1 
+~0 
+Semi-continuous incineration 
+stoker 
+6 
+fluidised bed 
+188 
+Batch type incineration 
+stoker 
+60 
+fluidised bed 
+237 
+Note 1: In the study cited for this emission factor, the measured CH4 concentration in the exhaust air was lower than the concentration in 
+ambient air. 
+Source: Greenhouse Gas Inventory Office of Japan, GIO 2004. 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+5.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+This refinement presents the emission factors of CH4 for new technologies of pyrolysis and gasification. 
+Although a plenty of information on CH4 emissions from the pyrolysis and gasification of solid wastes are 
+available from scientific research literatures (Box 5.2 (New)), very few data are obtainable for commercial plants 
+of new technologies. Table 5.3a (New) shows the CH4 emission factors of MSW from a combined system of 
+pyrolysis-melting and gasification-melting processes on a commercial scale (Box 5.3 (New)). In commercially 
+operated pyrolysis-melting and gasification-melting plants, condensable and non-condensable gases including 
+CH4 generated from the pyrolysis and gasification reactor are mostly oxidized at the subsequent melting furnace, 
+leading to the low CH4 emissions from the stack. If country-specific data are unavailable for pyrolysis-melting 
+and gasification-melting plants, it is good practice to apply the default CH4 emission factor corresponding to 
+reactor type for both pyrolysis-melting and gasification-melting plants. The emissions of greenhouse gases from 
+the combined system with energy recovery system are reported under the Energy Sector. 
+ 
+TABLE 5.3A (NEW) 
+CH4 EMISSION FACTORS FOR PYROLYSIS-MELTING AND GASIFICATION-MELTING PLANT OF MSW 
+Process 
+Operating temperature (°C) 
+CH4 Emission Factors 
+(g/t waste on a wet basis) 
+Reactor Type 
+Pyrolysis-melting and 
+gasification-melting 
+Pyrolysis: 300 ~ 600°C 
+Gasification: 700~900°C 
+Melting: 1300~1700°C 
+5.811,2 (n=11) 
+Shaft type 
+9.701 (n=10) 
+Fluidized bed type 
+5.401 (n=5) 
+Rotary kiln type 
+1Ministry of the Environment, Japan (2010) 
+2Lee et al. (2015) 
+ 
+ 
+BOX 5.2 (NEW) 
+INFORMATION ON CH4 EMISSION FACTORS IN LABORATORY SCALE 
+A plenty of information on CH4 emission from pyrolysis and gasification process in laboratory 
+scale are available for various waste types and reaction conditions. According to the scientific 
+research literatures (Rahman et al. 2001, He et al. 2010, and Wu et al. 2016), CH4 emission from 
+the pyrolysis and gasification process of solid wastes are dependent on the types of waste and 
+technology as well as the operating conditions. CH4 emissions from the pyrolysis and gasification 
+process of solid wastes increase with increasing operating temperature. The higher pyrolysis 
+temperature can supply more energy to break down the high-molecular-weight components of 
+solid organic wastes into low-molecular-weight compounds such as CH4.  
+ 
+ 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.15 
+BOX 5.3 (NEW) 
+COMBINED SYSTEM 
+For MSW treatment, a combined system of two processes was mostly introduced. The first process 
+of the combined system is either pyrolysis or gasification, whereas the second one is represented 
+by melting process. 
+ 
+In the first reactor where pyrolysis or gasification occurs, MSW are thermally decomposed to yield 
+the primary gas with high heating values and carbon residues (char) in the absence of oxygen or 
+oxygen starved environment. The primary gas and char are transported to the melting furnace 
+operating at high temperatures (>1000°C) under oxidation conditions. Primary gas and char are 
+oxidized to produce the secondary gas at the melting furnace. After removing the air pollutants 
+from the secondary gas, the flue gas mainly composed of CO2 and H2O is emitted to the air 
+through the stack. Since pyrogas and syngas generated from pyrolysis and gasification, 
+respectively, are mostly oxidized at the melting furnace, the emissions of greenhouse gases from 
+the stack is expected to be negligibly low.  
+5.4.3 
+N2O emission factors 
+Nitrous oxide emissions from waste incineration are determined by a function of the type of technology and 
+combustion conditions, the technology applied for NOx reduction as well as the contents of the waste stream. As 
+a result, emission factors can vary from site to site. 
+Several countries have reported N2O emissions from waste incineration in their national inventory reports. Table 
+5.4 shows examples of emission factors that have been used for incineration of MSW. 
+The differences in the emission factors are mainly caused by varying technologies in the context of NOx removal. 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+5.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 5.4 
+N2O EMISSION FACTORS FOR INCINERATION OF MSW 
+Country 
+Type of Incineration / Technology 
+Emission factor for MSW 
+(g N2O/t MSW incinerated) 
+Weight basis 
+Japan1 
+Continuous incineration 
+Stocker 
+47 
+wet weight 
+ 
+ 
+Fluidised bed 
+67 
+wet weight 
+ 
+Semi-continuous incineration 
+Stocker 
+41 
+wet weight 
+ 
+ 
+Fluidised bed 
+68 
+wet weight 
+ 
+Batch type incineration 
+Stocker 
+56 
+wet weight 
+ 
+ 
+Fluidised bed 
+221 
+wet weight 
+Germany2 
+ 
+ 
+8 
+wet weight 
+Netherlands3 
+ 
+ 
+20 
+wet weight 
+Austria4 
+ 
+ 
+12 
+wet weight 
+1 GIO, 2005. 
+2 Johnke 2003. 
+3 Spakman 2003. 
+4 Anderl et al. 2004. 
+ 
+The emission factors of N2O for pyrolysis, gasification, and plasma technology of waste vary with types of 
+waste, reactor type, and operating conditions. In this refinement, updated N2O emissions from pyrolysis-melting 
+and gasification-melting plants for treating MSW are provided.  
+Since most national regulations for air pollutants rarely require monitoring N2O emissions from thermal 
+treatment plants of solid wastes, a few official data are available for N2O emission from pyrolysis, gasification, 
+and plasma plants. Especially, N2O emission data are unavailable for plasma technology. Table 5.4a (New) 
+indicates the N2O emissions from pyrolysis-melting and gasification-melting plants of MSW on a commercial-
+scale basis. The emission factor of N2O from pyrolysis-melting plant is much lower than that from shaft furnace 
+reactor, indicating that the reactor type plays an important role in N2O generation. It is also expected that the 
+waste type and operating conditions influence the generation patterns of N2O. If country-specific data are 
+unavailable for pyrolysis-melting and gasification-melting plants, it is good practice to apply the default N2O 
+emission factor corresponding to reactor type for both pyrolysis-melting and gasification-melting plants.  
+TABLE 5.4A(NEW) 
+N2O EMISSION FACTORS FOR PYROLYSIS-MELTING AND GASIFICATION-MELTING PLANT OF MSW 
+Process 
+Operating temperature (°C) 
+N2O Emission Factors, 
+(g/t waste on a wet basis) 
+Reactor Type 
+Pyrolysis-melting and 
+gasification-melting 
+Pyrolysis: 300 ~ 600°C 
+Gasification: 700~900°C 
+Melting: 1300~1700°C 
+17.41,2 (n=11) 
+Shaft type 
+5.801 (n=10) 
+Fluidized bed type 
+8.381,3 (n=6) 
+Rotary kiln type 
+1Ministry of the Environment, Japan (2010) 
+2Lee et al. (2015) 
+3Yoon (2017) 
+ 
+5.5 
+COMPLETENESS 
+No refinement. 
+5.6 
+DEVELOPING A CONSISTENT TIME SERIES 
+No refinement.   
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.17 
+5.7 
+UNCERTAINTY ASSESSMENT 
+No refinement.  
+5.7.1 
+Emission factor uncertainties 
+No refinement.  
+5.7.2 
+Activity data uncertainties 
+No refinement.   
+5.8 
+QA/QC, REPORTING AND DOCUMENTATION  
+5.8.1 
+Inventory Quality Assurance/Quality Control 
+(QA/QC) 
+No refinement.  
+5.8.2 
+Reporting and Documentation 
+No refinement.  
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+5.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+References newly cited in the 2019 Refinement 
+He, M., B. Xiao, Liu, S., Hu, Z., Guo, X., Luo, S. & Yang, F. (2010) Syngas production of pyrolysis of 
+municipal solid waste (MSW) with dolomite as downstream catalysts, J. Anal. Appl. Pyrolysis 87: 181-187. 
+Lee, J., Kang, S., Kim, S., Kang, S., Lee, S. & Jeon, E. (2015) Development of non-CO2 emission factors from MSW   
+pyrolysis melting treatment in Korea, Environmental Earth Sciences 74: 4157-4162. 
+Ministry of the environment, Japan (2010) Survey study on improving the accuracy of emission factors for 
+greenhouse gas emissions from the waste sector (In Japanese). 
+Rahman, A.N.E., Khaleel Akmal, M.A. & Prasa, K.B.S. (2001) Pyrolysis of solid waste, J. of Scientific & Industrial 
+Research 60: 52-59. 
+Wu, W., Zhou, X., Zhang, P., Liu, W.L., Danzeng, D., Wang, S. & Wang, Y. (2016) Study on characteristics of 
+synthesis gas generation during catalytic gasification of municipal solid waste, Procedia Environmental Sciences 
+31: 505-513. 
+Yamada M (2010). Report of Research on improvement of greenhouse gas inventory in waste field and evaluation of 
+reduction measures, National Institute for Environmental Studies (NIES), Japan. 
+Yoon, H.K, Lee, D.K., Cho, C.S., Kang, S.M., Yoon, Y. J., Jeon, Y.J. & Jeon, E.C. (2017) The Development of 
+N2O Emission Factor at Killn Type Pyrolysis Melting Facility, Journal of Climate Change Research, 8(3): 
+231-237. 
+ 
+References copied from the 2006 IPCC Guidelines 
+Anderl, M., Halper, D., Kurzweil, A., Poupa S., Wappel, D., Weiss, P. and Wieser M. (2004). Austria’s National 
+Inventory Report 2004: Submission under the United Nations Framework Convention on Climate Change.EMEP. 
+(2004). EMEP/CORINAIR Guidebook, Update September 2004. 
+http://reports.eea.eu.int/EMEPCORINAIR4/en/group_09.pdf 
+GIO (2004). National Greenhouse Gas Inventory Report of JAPAN. Ministry of the Environment/ Japan 
+Greenhouse Gas Inventory Office of Japan (GIO) / Center for Global Environmental Research (CGER) / 
+National Institute for Environmental Studies (NIES). October 2004. 
+GIO (2005). National Greenhouse Gas Inventory Report of JAPAN. Ministry of the Environment/ Japan 
+Greenhouse Gas Inventory Office of Japan (GIO) / Center for Global Environmental Research (CGER) / 
+National Institute for Environmental Studies (NIES).  
+IPCC (1997a). Revised 1996 IPCC Guidelines for National Greenhouse Inventories, Volume 3 Reference 
+Manual. Houghton, J.T., Meira Filho, L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and 
+Callander, B.A. (Eds). Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (1997b). Revised 1996 IPCC Guidelines for National Greenhouse Inventories, Volume 2 Workbook. 
+Houghton, J.T., Meira Filho, L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and 
+Callander, B.A. (Eds). Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories, 
+Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., Emmanuel, S., Buendia, L., Hoppaus, 
+R.,Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change 
+(IPCC), IPCC/OECD/IEA/IGES, Hayama, Japan. 
+Johnke, B. (2003). Emissionsberichterstattung / Inventarerstellung für das Jahr 2002 [Emission reporting / 
+preparation of the inventory for the year 2002]. Umweltbundesamt, Berlin 2003 [In German]. 
+Spakman, J., van Loon, M.M.J., van der Auweraert, R.J.K., Gielen, D.J., Olivier, J.G.J. and Zonneveld, E.A. 
+(2004). Method for calculating greenhouse gas emissions. Emission Registration Series/Environmental 
+Monitor No.37b, MinVROM. The Hague 2003. 
+US EPA (1995). US EPA's Compilation of Air Pollutant Emissions Factors, AP-42, Edition 5, United States 
+Environmental Protection Agency (US EPA). http://www.epa.gov/ttn/chief/ap42/ 
+US EPA (1997). Control Technology Center. Evaluation of Emissions from the Open Burning of Household 
+Waste in Barrels. Volume1. Technical Report. United States Environmental Protection Agency (US EPA). 
+ 
+Chapter 5: Incineration and Open Burning of Waste 
+ 
+ 
+  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5.19 
+US EPA (2001). US EPA Emission Inventory Improvement Program. Volume III Chapter 16 Open Burning. 
+United 
+States 
+Environmental 
+Protection 
+Agency 
+(US 
+EPA). 
+http://www.epa.gov/ttn/chief/eiip/techreport/volume03/iii16_apr2001.pdf 

@@ -1,0 +1,1408 @@
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+CHAPTER 1 
+INTRODUCTION 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Keith Paustian (USA), N.H. Ravindranath (India), and Andre van Amstel (Netherlands) 
+Michael Gytarsky (Russian Federation), Werner A. Kurz (Canada), Stephen Ogle (USA), Gary Richards 
+(Australia), and Zoltan Somogyi (European Commission/Hungary) 
+ 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+Contents 
+1.1 
+Introduction ........................................................................................................................................... 1.4 
+1.2 
+Overview of greenhouse gas emissions and removals in the AFOLU Sector ....................................... 1.5 
+1.2.1 
+Science background ....................................................................................................................... 1.5 
+1.2.2 
+Carbon pool definitions and non-CO2 gases .................................................................................. 1.8 
+1.3 
+Overview of inventory preparation for the AFOLU Sector ................................................................... 1.8 
+1.3.1 
+Land-use and management categories ........................................................................................... 1.9 
+1.3.2 
+Tier definitions for methods in AFOLU ...................................................................................... 1.10 
+1.3.3 
+Identification of key categories ................................................................................................... 1.10 
+1.3.4 
+Steps in preparing inventory estimates ........................................................................................ 1.14 
+1.4 
+Organisation of Volume 4 in 2006 IPCC Guidelines .......................................................................... 1.14 
+Annex 1A 
+Historical background on IPCC greenhouse gas inventory guidance for AFOLU Sector ........... 1.20 
+References 
+ ..................................................................................................................................................... 1.21 
+Figures 
+Figure 1.1 
+The main greenhouse gas emission sources/removals and processes in  
+managed ecosystems. ............................................................................................................ 1.6 
+Figure 1.2 
+Decision tree for identification of appropriate tier level for land remaining  
+in the same land-use category, using Forest Land Remaining Forest Land as an example. 1.12 
+Figure 1.3 
+Decision tree for identification of appropriate Tier level for land converted  
+to another land-use category, using Land Converted to Forest Land as an example. .......... 1.13 
+Figure 1.4 
+Structure of AFOLU Reporting ........................................................................................... 1.16 
+Tables 
+Table 1.1 
+Definitions for carbon  pools used in AFOLU for each land-use category ........................... 1.9 
+Table 1.2 
+Land-use categories, carbon pools and non-CO2 gases to be estimated under Tier 1,  
+their relevance to AFOLU sections, and the reference to 1996 IPCC Guidelines ............... 1.17 
+Box 
+Box 1.1 
+Framework of tier structure for AFOLU methods ............................................................... 1.11 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+INTRODUCTION 
+Volume 4 provides guidance for preparing annual greenhouse gas inventories in the Agriculture, Forestry and 
+Other Land Use (AFOLU) Sector. This volume integrates the previously separate guidance in the Revised 1996 
+IPCC Guidelines for National Greenhouse Gas Inventories for Agriculture (Chapter 4) and Land Use, Land-Use 
+Change and Forestry (Chapter 5).  This integration recognizes that the processes underlying greenhouse gas 
+emissions and removals, as well as the different forms of terrestrial carbon stocks, can occur across all types of 
+land. It recognizes that land-use changes can involve all types of land.  This approach is intended to improve 
+consistency and completeness in the estimation and reporting of greenhouse gas emissions and removals.  
+The principal changes made in the 2006 IPCC Guidelines, as compared with the 1996 IPCC Guidelines (for both 
+Land-Use Change and Forestry, and Agriculture), reflect the elaborations of the 1996 IPCC Guidelines 
+introduced in the Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories 
+(GPG2000) and the Good Practice Guidance for Land Use, Land-Use Change and Forestry (GPG-LULUCF). 
+These include: 
+• 
+Adoption of the six land-use categories used in GPG-LULUCF (i.e., Forest Land, Cropland, Grassland, 
+Wetlands, Settlements, and Other Land – see Chapter 3). These land categories are further sub-divided into 
+land remaining in the same category and land converted from one category to another.  The land-use 
+categories are designed to enable inclusion of all managed land area within a country; 
+• 
+Reporting on all emissions by sources and removals by sinks from managed lands, which are considered to 
+be anthropogenic, while emissions and removals for unmanaged lands are not reported. 
+• 
+Additional reporting elements introduced in reporting all emissions and removals for managed lands, (see 
+Table 1.2).   
+• 
+Generic methods for accounting of biomass, dead organic matter and soil C stock changes in all land-use 
+categories and generic methods for greenhouse gas emissions from biomass burning that can be applied in 
+all land-use categories; 
+• 
+Incorporating methods for non-CO2 emissions from managed soils and biomass burning, and livestock 
+population characterization and manure management systems from Agriculture (Chapter 5 of the 1996 IPCC 
+Guidelines and GPG2000; 
+• 
+Adoption of three hierarchical tiers of methods that range from default emission factors and simple 
+equations to the use of country-specific data and models to accommodate national circumstances; 
+• 
+Description of alternative methods to estimate and report C stock changes associated with harvested wood 
+products; 
+• 
+Incorporation of key category analysis for land-use categories, C pools, and CO2 and non-CO2 greenhouse 
+gas emissions; 
+• 
+Adherence to principles of mass balance in computing carbon stock changes;  
+• 
+Greater consistency in land area classification for selecting appropriate emission and stock change factors 
+and activity data; 
+• 
+Improvements of default emissions and stock change factors, as well as development of an Emission Factor 
+Database (EFDB) that is a supplementary tool to the 2006 IPCC Guidelines, providing alternative emission 
+factors with associated documentation.  The EFDB is described in Chapter 2 of Volume 1. 
+• 
+Incorporation of methods to estimate CO2 emissions from flooded land with methods for CH4 emissions 
+contained in Appendix 3 (CH4 Emissions from Flooded Land: Basis for future methodological development), 
+reflecting the limited availability of scientific information. 
+The AFOLU Sector has some unique characteristics with respect to developing inventory methods.  There are 
+many processes leading to emissions and removals of greenhouse gases, which can be widely dispersed in space 
+and highly variable in time.  The factors governing emissions and removals can be both natural and 
+anthropogenic (direct and indirect) and it can be difficult to clearly distinguish between causal factors1. While 
+                                                           
+1 This general observation was made in the IPCC Report on Current Scientific Understanding of the Processes Affecting 
+Terrestrial Carbon Stocks and Human Influences upon Them (July 2003, Geneva, Switzerland).  As a specific example, 
+emissions from wildfires on managed (and unmanaged) land can exhibit large interannual variations that may be driven by 
+either natural causes (e.g. climate cycles, random variation in lightning ignitions), or indirect and direct human causes (e.g. 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+recognizing this complexity, inventory methods need to be practical and operational.  The 2006 IPCC Guidelines 
+are designed to assist in estimating and reporting national inventories of anthropogenic greenhouse gas emissions 
+and removals.  For the AFOLU Sector, anthropogenic greenhouse gas emissions and removals by sinks are 
+defined as all those occurring on ‘managed land’. Managed land is land where human interventions and practices 
+have been applied to perform production, ecological or social functions. All land definitions and classifications 
+should be specified at the national level, described in a transparent manner, and be applied consistently over time. 
+Emissions/removals of greenhouse gases do not need to be reported for unmanaged land. However, it is good 
+practice for countries to quantify, and track over time, the area of unmanaged land so that consistency in area 
+accounting is maintained as land-use change occurs.  
+This approach, i.e., the use of managed land as a proxy for anthropogenic effects, was adopted in the GPG-
+LULUCF and that use is maintained in the present guidelines. The key rationale for this approach is that the 
+preponderance of anthropogenic effects occurs on managed lands. By definition, all direct human-induced 
+effects on greenhouse gas emissions and removals occur on managed lands only.  While it is recognized that no 
+area of the Earth’s surface is entirely free of human influence (e.g., CO2 fertilization), many indirect human 
+influences on greenhouse gases (e.g., increased N deposition, accidental fire) will be manifested predominately 
+on managed lands, where human activities are concentrated.  Finally, while local and short-term variability in 
+emissions and removals due to natural causes can be substantial (e.g., emissions from fire, see footnote 1), the 
+natural ‘background’ of greenhouse gas emissions and removals by sinks tends to average out over time and 
+space.  This leaves the greenhouse gas emissions and removals from managed lands as the dominant result of 
+human activity.   
+Guidance and methods for estimating greenhouse gas emissions and removals for the AFOLU Sector now 
+include: 
+• 
+CO2 emissions and removals resulting from C stock changes in biomass, dead organic matter and mineral 
+soils, for all managed lands; 
+• 
+CO2 and non-CO2 emissions from fire on all managed land; 
+• 
+N2O emissions from all managed soils; 
+• 
+CO2 emissions associated with liming and urea application to managed soils; 
+• 
+CH4 emissions from rice cultivation; 
+• 
+CO2 and N2O emissions from cultivated organic soils; 
+• 
+CO2 and N2O emissions from managed wetlands (with a basis for methodological development for CH4 
+emissions from flooded land in an Appendix 3); 
+• 
+CH4 emission from livestock (enteric fermentation); 
+• 
+CH4 and N2O emissions from manure management systems; and 
+• 
+C stock change associated with harvested wood products. 
+  
+The scientific background and rationale for these inventory components are given in the next section. 
+1.2 
+OVERVIEW OF GREENHOUSE GAS 
+EMISSIONS AND REMOVALS IN THE AFOLU 
+SECTOR 
+1.2.1 
+Science background  
+Land use and management influence a variety of ecosystem processes that affect greenhouse gas fluxes (Figure 
+1.1), such as photosynthesis, respiration, decomposition, nitrification/denitrification, enteric fermentation, and 
+combustion.  These processes involve transformations of carbon and nitrogen that are driven by the biological 
+(activity of microorganisms, plants, and animals) and physical processes (combustion, leaching, and run-off).   
+                                                                                                                                                                                     
+historical fire suppression and past forest harvest activities) or a combination of all three causes, the effects of which 
+cannot be readily separated. 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Greenhouse Gases in AFOLU 
+The key greenhouse gases of concern are CO2, N2O and CH4.  CO2 fluxes between the atmosphere and 
+ecosystems are primarily controlled by uptake through plant photosynthesis and releases via respiration, 
+decomposition and combustion of organic matter. N2O is primarily emitted from ecosystems as a by-product of 
+nitrification and denitrification, while CH4 is emitted through methanogenesis under anaerobic conditions in 
+soils and manure storage, through enteric fermentation, and during incomplete combustion while burning organic 
+matter.  Other gases of interest (from combustion and from soils) are NOx, NH3, NMVOC and CO, because they 
+are precursors for the formation of greenhouse gases in the atmosphere.  Formation of greenhouse gases from 
+precursor gases is considered an indirect emission.  Indirect emissions are also associated with leaching or run-
+off of nitrogen compounds, particularly NO3- losses from soils, some of which can be subsequently converted to 
+N2O through denitrification.   
+Figure 1.1 
+The main greenhouse gas emission sources/removals and processes in 
+managed ecosystems. 
+ 
+ 
+Emission and Removal Processes 
+Greenhouse gas fluxes in the AFOLU Sector can be estimated in two ways: 1) as net changes in C stocks over 
+time (used for most CO2 fluxes) and 2) directly as gas flux rates to and from the atmosphere (used for estimating 
+non-CO2 emissions and some CO2 emissions and removals). The use of C stock changes to estimate CO2 
+emissions and removals, is based on the fact that changes in ecosystem C stocks are predominately (but not 
+exclusively) through CO2 exchange between the land surface and the atmosphere (i.e. other C transfer process 
+such as leaching are assumed to be negligible).  Hence, increases in total C stocks over time are equated with a 
+net removal of CO2 from the atmosphere and decreases in total C stocks (less transfers to other pools such as 
+harvested wood products) are equated with net emission of CO2.  Non-CO2 emissions are largely a product of 
+microbiological processes (i.e., within soils, animal digestive tracts and manure) and combustion of organic 
+materials. Below, emission and removal processes in the AFOLU Sector are described for the major ecosystem 
+stocks and processes, organized by ecosystem components, i.e., 1) biomass, 2) dead organic matter, 3) soils and 
+4) livestock. 
+Biomass 
+Plant biomass, including above-ground and below-ground parts, is the main conduit for CO2 removal from the 
+atmosphere. Large amounts of CO2 are transferred between the atmosphere and terrestrial ecosystems, primarily 
+through photosynthesis and respiration. The uptake of CO2 through photosynthesis is referred to as gross primary 
+production (GPP).  About half of the GPP is respired by plants, and returned to the atmosphere, with the 
+remainder constituting net primary production (NPP), which is the total production of biomass and dead organic 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.7 
+matter in a year. NPP minus losses from heterotrophic respiration (decomposition of organic matter in litter, 
+dead wood and soils) is equal to the net carbon stock change in an ecosystem and, in the absence of disturbance 
+losses, is referred to as net ecosystem production (NEP).   
+Net Ecosystem Production (NEP) = Net Primary Production (NPP) – Heterotrophic respiration 
+ 
+NEP minus additional C losses from disturbance (e.g., fire), harvesting and land clearing during land-use change, 
+is often referred to as net biome production (NBP). The carbon stock change that is reported in national 
+greenhouse gas inventories for land-use categories is equal to NBP 2.  
+Net Biome Production (NBP) = NEP – Carbon Losses from Disturbance/Land-Clearing/Harvest 
+ 
+NPP is influenced by land use and management through a variety of anthropogenic actions such as deforestation, 
+afforestation, fertilization, irrigation, harvest, and species choice.  For example, tree harvesting reduces biomass 
+stocks on the land.  However, harvested wood requires additional consideration because some of the carbon may 
+be stored in wood products in use and in landfills for years to centuries.  Thus, some of the carbon removed from 
+the ecosystem is rapidly emitted to the atmosphere while some carbon is transferred to other stocks in which the 
+emissions are delayed. In non-forest ecosystems (i.e., Cropland, Grassland), biomass is predominantly non-
+woody perennial and annual vegetation, which makes up a much smaller part of total ecosystem carbon stocks 
+than in forest lands.  The non-woody biomass turns over annually or within a few years and hence net biomass 
+carbon stocks may remain roughly constant, although stocks may diminish over time if land degradation is 
+occurring.  Land managers may use fire as a management tool in grasslands and forests or wild fires may 
+inadvertently burn through managed lands, particularly forest lands, leading to significant losses of biomass 
+carbon.  Fires not only return CO2 to the atmosphere through combustion of biomass, but also emit other 
+greenhouse gases, directly or indirectly, including CH4, N2O, NMVOC, NOx and CO. 
+Dead Organic Matter  
+The bulk of biomass production (NPP) contained in living plant material is eventually transferred to dead 
+organic matter (DOM) pools (i.e., dead wood and litter – see Table 1.1 for definitions). Some DOM decomposes 
+quickly, returning carbon to the atmosphere, but a portion is retained for months to years to decades.  Land use 
+and management influence C stocks of dead organic matter by affecting the decomposition rates and input of 
+fresh detritus.  Losses due to burning dead organic matter include emissions of CO2, N2O, CH4, NOx, NMVOC, 
+and CO.  
+Soils 
+As dead organic matter is fragmented and decomposed, it is transformed into soil organic matter (SOM).  Soil 
+organic matter includes a wide variety of materials that differ greatly in their residence time in soil. Some of this 
+material is composed of labile compounds that are easily decomposed by microbial organisms, returning carbon 
+to the atmosphere.  Some of the soil organic carbon, however, is converted into recalcitrant compounds (e.g., 
+organic-mineral complexes) that are very slowly decomposed and thus can be retained in the soil for decades to 
+centuries or more.  Following fires, small amounts of so-called ‘black carbon’ are produced, which constitute a 
+nearly inert carbon fraction with turnover times that may span millennia.   
+Soil organic carbon stocks are influenced by land-use and management activities that affect litter input rates and 
+soil organic matter loss rates.  Although the dominant processes governing the balance of soil organic carbon 
+stocks are C inputs from plant residues and C emissions from decomposition, losses as particulate or dissolved 
+carbon can be significant in some ecosystems. Inputs are primarily controlled by decisions impacting NPP and/or 
+the retention of dead organic matter, such as how much harvested biomass is removed as products and how much 
+is left as residues.  Outputs are mostly influenced by management decisions that affect microbial and physical 
+decomposition of soil organic matter, such as tillage intensity.  Depending on interactions with previous land use, 
+climate and soil properties, changes in management practices may induce increases or decreases in soil C stocks. 
+Generally, management-induced C stock changes are manifested over a period of several years to a few decades, 
+until soil C stocks approach a new equilibrium. In addition to the influence of human activities, climate 
+variability and other environmental factors affect soil C dynamics (as well as biomass and DOM).  
+In flooded conditions, such as wetland environments and paddy rice production, a significant fraction of the 
+decomposing dead organic matter and soil organic matter is returned to the atmosphere as CH4. This can be a 
+                                                           
+2 Harvested wood or other durable products derived from biomass (e.g., clothing) products are not included in NBP; 
+harvested wood products (HWP) are dealt with in Chapter 12. 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+major source of emissions in countries with a considerable amount of land dedicated to paddy rice production.   
+Although virtually all flooded soils emit methane, net soil C stocks may either increase, decrease or remain 
+constant over time, depending on management and environmental controls on the overall carbon balance. In 
+well-drained soils, small amounts of CH4 are consumed (oxidized) by methanotrophic bacteria.3   
+Soils also contain inorganic C pools, either as primary minerals in the parent material from which the soil was 
+formed (e.g., limestone), or as secondary minerals (i.e., pedogenic carbonates) that arise during soil formation.  
+Inorganic soil C stocks can be affected by management, although typically not to the extent of organic C pools. 
+Some soil management practices impact greenhouse gas emissions beyond simply changing the C stock.  For 
+example, liming is used to reduce soil acidity and improve plant productivity, but it is also a direct source of CO2 
+emissions.  Specifically, liming transfers C from the earth’s crust to the atmosphere by removing calcium 
+carbonate from limestone and dolomite deposits and applying it to soils where the carbonate ion evolves into 
+CO2.   
+Nitrogen additions are a common practice for increasing NPP and crop yields, including application of synthetic 
+N fertilizers and organic amendments (e.g., manure), particularly to Cropland and Grassland.  This increase in 
+soil N availability increases N2O emissions from soils as a by-product of nitrification and denitrification. 
+Nitrogen additions (in dung and urine) by grazing animals can also stimulate N2O emissions.  Similarly, land-use 
+change enhances N2O emissions if associated with heightened decomposition of soil organic matter and 
+subsequent N mineralization, such as initiating cultivation on wetlands, forests or grasslands.  
+With current state of scientific knowledge, it is possible to provide methods for estimating CO2 and N2O 
+emissions associated with management of peatlands, and CO2 from conversion to wetlands by flooding. A 
+methodological appendix (Appendix 3) has been included setting out a basis for development of a methodology 
+for estimating CH4 emissions from flooded land.   
+Livestock 
+Animal production systems, particularly those with ruminant animals, can be significant sources of greenhouse 
+gas emissions.  For example, enteric fermentation in the digestive systems of ruminants leads to production and 
+emission of CH4.  Management decisions about manure disposal and storage affect emissions of CH4 and N2O, 
+which are formed in decomposing manures as a by-product of methanogenesis and nitrification/denitrification, 
+respectively.   Furthermore, volatilization losses of NH3 and NOx from manure management systems and soils 
+leads to indirect greenhouse gas emissions. 
+1.2.2 
+Carbon pool definitions and non-CO2 gases 
+Within each land-use category, C stock changes and emission/removal estimations can involve the five carbon 
+pools that are defined in Table 1.1. For some land-use categories and estimation methods, C stock changes may 
+be based on the three aggregate carbon pools (i.e., biomass, DOM and soils). National circumstances may 
+require modifications of the pool definitions introduced here. Where modified definitions are used, it is good 
+practice to report and document them clearly, to ensure that modified definitions are used consistently over time, 
+and to demonstrate that pools are neither omitted nor double counted.  Carbon stock changes associated with 
+harvested wood products are normally reported at the national scale (see Chapter 12). 
+The non-CO2 gases of primary concern for the AFOLU Sector are methane (CH4) and nitrous oxide (N2O).  
+Emissions of other nitrogenous gases including NOx and NH3, which can serve as a source of subsequent N2O 
+emissions (and hence referred to as indirect emission sources), are also considered (see Chapter 11).  
+1.3 
+OVERVIEW OF INVENTORY PREPARATION 
+FOR THE AFOLU SECTOR 
+To prepare inventories for the AFOLU Sector, emissions and removals of CO2 and non-CO2 greenhouse gases 
+are estimated separately for each of six land-use categories. Other CO2 emission and non-CO2 categories, such as 
+livestock related emissions, emissions from soil N management, soil liming emissions and harvested wood 
+products, may be estimated at the national scale, since often only aggregate data are available.  However, they 
+can be broken out according to land-use category if data are available.  
+ 
+                                                           
+3 Disturbance through land-use change and addition of nitrogen (i.e., as fertilizer) have been found to reduce rates of 
+methane oxidation. 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.9 
+ 
+TABLE 1.1 
+DEFINITIONS FOR CARBON  POOLS USED IN AFOLU FOR EACH LAND-USE CATEGORY 
+Pool  
+ 
+Description 
+Biomass 
+Above-
+ground 
+biomass 
+ 
+All biomass of living vegetation, both woody and herbaceous, above the soil 
+including stems, stumps, branches, bark, seeds, and foliage. 
+Note:  In cases where forest understory is a relatively small component of the 
+above-ground biomass carbon pool, it is acceptable for the methodologies and 
+associated data used in some tiers to exclude it, provided the tiers are used in a 
+consistent manner throughout the inventory time series. 
+Below-
+ground 
+biomass  
+All biomass of live roots. Fine roots of less than (suggested) 2mm diameter are 
+often excluded because these often cannot be distinguished empirically from soil 
+organic matter or litter.  
+Dead organic 
+matter 
+Dead wood  
+ 
+Includes all non-living woody biomass not contained in the litter, either standing, 
+lying on the ground, or in the soil. Dead wood includes wood lying on the surface, 
+dead roots, and stumps, larger than or equal to 10 cm in diameter (or the diameter 
+specified by the country). 
+Litter 
+Includes all non-living biomass with a size greater than the limit for soil organic 
+matter (suggested 2 mm) and less than the minimum diameter chosen for dead wood 
+(e.g. 10 cm), lying dead, in various states of decomposition above or within the 
+mineral or organic soil. This includes the litter layer as usually defined in soil 
+typologies. Live fine roots above the mineral or organic soil (of less than the 
+minimum diameter limit chosen for below-ground biomass) are included in litter 
+where they cannot be distinguished from it empirically.  
+Soils 
+ 
+Soil organic 
+matter1 
+ 
+Includes organic carbon in mineral soils to a specified depth chosen by the country 
+and applied consistently through the time series2. Live and dead fine roots and 
+DOM within the soil, that are less than the minimum diameter limit (suggested 2 
+mm) for roots and DOM, are included with soil organic matter where they cannot be 
+distinguished from it empirically.  The default for soil depth is 30 cm and guidance 
+on determining country-specific depths is given in Chapter 2.3.3.1. 
+1 Includes organic material (living and non-living) within the soil matrix, operationally defined as a specific size fraction (e.g., all matter 
+passing through a 2 mm sieve).  Soil C stock estimates may also include soil inorganic C if using a Tier 3 method. CO2 emissions from 
+liming and urea applications to soils are estimated as fluxes using Tier 1 or Tier 2 method. 
+2 Carbon stocks in organic soils are not explicitly computed using Tier 1 or Tier 2 method, (which estimate only annual C flux from 
+organic soils), but C stocks in organic soils can be estimated in a Tier 3 method.  Definition of organic soils for classification purposes 
+is provided in Chapter 3. 
+ 
+1.3.1 
+Land-use and management categories 
+A brief overview of how land area is categorized for inventory purposes is given here. Chapter 3 provides a 
+detailed description of land representation and categorization of land area by land-use and management systems 
+as well as stratification of land area by climate, soil and other environmental strata.   
+The six land-use categories (see definitions in Chapter 3) in the 2006 IPCC Guidelines are:  
+• 
+Forest Land  
+• 
+Cropland  
+• 
+Grassland 
+• 
+Wetlands 
+• 
+Settlements 
+• 
+Other Land 
+  
+Each land-use category is further subdivided into land remaining in that category (e.g., Forest Land Remaining 
+Forest Land) and land converted from one category to another (e.g., Forest Land converted to Cropland). 
+Countries may choose to further stratify land in each category by climatic or other ecological regions, depending 
+on the choice of the method and its requirements.  Greenhouse gas emissions and removals determined for each 
+specific land use includes CO2 (as carbon stock changes)  from biomass, dead organic matter and soils, as well as 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+non-CO2 emissions from burning and, depending on the land-use category, emissions from other specific sources 
+(e.g. CH4 emissions from rice). 
+CH4 and N2O emissions from livestock management are estimated for major animal types, e.g., dairy cows, other 
+cattle, poultry, sheep, swine and other livestock (buffalo, goats, llamas, alpacas, camels, etc). The animal waste 
+management systems include anaerobic lagoons, liquid systems, daily spread, solid storage, dry-lot, 
+pasture/range/paddock, and other miscellaneous systems.  
+Nitrous oxide emissions from managed soils are usually estimated from aggregate (national-level) data on N 
+supplied to soils, including N fertilizer usage or sales, crop residue management, organic amendments and land-
+use conversions that enhance mineralization of N in soil organic matter.    Similarly, CO2 emissions from liming 
+and from urea application to managed soils are typically estimated using aggregate data (e.g., national-level).4 
+Harvested wood products constitute a component of the carbon cycle for which carbon stock changes can be 
+estimated (guidance provided in Chapter 12), based on national-level data; however, estimation and reporting of 
+greenhouse gas emissions for HWP is currently a matter of policy negotiations. 
+1.3.2 
+Tier definitions for methods in AFOLU 
+The concepts underpinning the three tiered approach, as they relate to methods used in the AFOLU Sector, are 
+outlined here (see Box 1.1). In general, moving to higher tiers improves the accuracy of the inventory and 
+reduces uncertainty, but the complexity and resources required for conducting inventories also increases for 
+higher tiers.   If needed, a combination of tiers can be used, e.g., Tier 2 can be used for biomass and Tier 1 for 
+soil carbon. 
+The methods and data presented focus on Tier 1 inventories. The methods will be generally applicable to Tier 2 
+inventories, but the default data presented for Tier 1 will be partly or wholly replaced with national data as part 
+of a Tier 2 estimation. Tier 3 methods are not described in detail, but good practice in application is outlined. 
+1.3.3 
+Identification of key categories 
+The background discussion on the approach and methods for key category analysis are given in Volume 1 
+Chapter 4 (Methodological Choice and Identification of Key Categories). This chapter describes the approach to 
+key category analysis for AFOLU. A key source/sink category is defined in Volume 1 Chapter 4 as one that is 
+prioritised within the national inventory system because its estimate has a significant influence on a country’s 
+total inventory of greenhouse gases in terms of the absolute level, the trend, or the uncertainty in emissions and 
+removals. Key category analysis helps a country to achieve the most reliable inventory given the resources 
+available.  Key category analysis is required to identify the following: 
+• 
+which land-use and management activities are significant; 
+• 
+which land-use or livestock (sub)category is significant; 
+• 
+which CO2 emissions or removals by sinks from various carbon pools are significant; 
+• 
+which non-CO2 gases and from what categories are significant; and 
+• 
+which tier is required for reporting. 
+ 
+                                                           
+4 No default methodology exists for estimation of CH4 removals in aerobic soils because of limited studies addressing land-
+use and management impacts on methane oxidation.  Countries that wish to estimate and report CH4 removals should 
+develop, validate and document an appropriate national methodology for estimating CH4 removals, including analysis of 
+uncertainty.  It is good practice for countries reporting CH4 removals to also ensure symmetry by including all emissions of 
+CH4 on lands were CH4 removals are reported. 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.11 
+BOX 1.1 
+FRAMEWORK OF TIER STRUCTURE FOR AFOLU METHODS 
+Tier 1 methods are designed to be the simplest to use, for which equations and default parameter 
+values (e.g., emission and stock change factors) are provided in this volume.  Country-specific 
+activity data are needed, but for Tier 1 there are often globally available sources of activity data 
+estimates (e.g., deforestation rates, agricultural production statistics, global land cover maps, 
+fertilizer use, livestock population data, etc.), although these data are usually spatially coarse.  
+Tier 2 can use the same methodological approach as Tier 1 but applies emission and stock change 
+factors that are based on country- or region-specific data, for the most important land-use or 
+livestock categories. Country-defined emission factors are more appropriate for the climatic 
+regions, land-use systems and livestock categories in that country. Higher temporal and spatial 
+resolution and more disaggregated activity data are typically used in Tier 2 to correspond with 
+country-defined coefficients for specific regions and specialized land-use or livestock categories. 
+At Tier 3, higher order methods are used, including models and inventory measurement systems 
+tailored to address national circumstances, repeated over time, and driven by high-resolution 
+activity data and disaggregated at sub-national level. These higher order methods provide estimates 
+of greater certainty than lower tiers. Such systems may include comprehensive field sampling 
+repeated at regular time intervals and/or GIS-based systems of age, class/production data, soils 
+data, and land-use and management activity data, integrating several types of monitoring. Pieces of 
+land where a land-use change occurs can usually be tracked over time, at least statistically. In most 
+cases these systems have a climate dependency, and thus provide source estimates with interannual 
+variability. Detailed disaggregation of livestock population according to animal type, age, body 
+weight etc., can be used. Models should undergo quality checks, audits, and validations and be 
+thoroughly documented.   
+ 
+The following chapters provide methodologies covering a broad array of source/sink categories in AFOLU.  Not 
+all categories are expected to be key and hence simple default methods (Tier 1) are provided to enable a 
+complete inventory of AFOLU without requiring large investments of resources in relatively minor categories.  
+The analysis should be performed at the level of IPCC source or sink categories as suggested in Table 4.1 of 
+Volume 1. The analysis should be performed using CO2-equivalent emissions estimated using the global 
+warming potentials for each gas. The key category evaluation should be performed for each of these gases 
+separately because the methods, emission factors and related uncertainties differ for each gas, pool and category. 
+Source categories that use the same emission factors based on common assumptions should be aggregated before 
+analysis. For each key category, the inventory agency should determine if certain sub-categories represent a 
+significant share of the emissions. In the case of CH4 emissions from enteric fermentation in domestic livestock, 
+for example, emissions from particular species (e.g., cattle, buffalo or sheep) are likely to represent the major 
+share of emissions (GPG2000, Chapter 7). In the case of CO2 emissions/removals, a certain land category (e.g., 
+Land Converted to Forest Land) and further a certain carbon pool (e.g., above-ground biomass) may contribute 
+to a dominant share of net CO2 emissions/removals. 
+The level of aggregation or disaggregation of different land-use (see Chapter 3) and livestock categories (see 
+Chapter 10) depends on the share of a given land-use or livestock system within a country’s greenhouse gas 
+inventory and on the level of resources available in the country for inventory activities. Disaggregation of land 
+and livestock categories helps in reducing the uncertainty; however it increases the cost of the inventory process. 
+Thus, there is a need for balance between level of disaggregation and the resources available for inventory. 
+Once identified, the key sources are used for methodological choice via decision trees as shown below. Those for 
+the AFOLU include:  
+• 
+decision tree for identification of appropriate tier level for land remaining in the same land-use category 
+(Figure 1.2), for e.g., Forest Land Remaining Forest Land; 
+• 
+decision tree for identification of appropriate tier level for land converted to another land-use category 
+(Figure 1.3), for e.g., other Land Converted to Forest Land; and  
+• 
+decision trees for enteric fermentation and manure management which are provided in the relevant sectoral  
+chapter (see Chapter 10). 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 1.2 
+Decision tree for identification of appropriate tier level for land remaining in 
+the same land-use category, using Forest Land Remaining Forest Land as an 
+example. 
+ 
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Start
+Do managed
+forests exist1?
+Are
+advanced
+methods and detailed
+data for FF available in 
+your country?
+Are
+country-specific
+data available6?
+Are
+country-specific
+data available6?
+Ask
+for each 
+subcategory3 under FF:
+Is this subcategory
+significant4?
+Is FF a key 
+category2?
+Develop or obtain
+representative
+data and EFs.
+Use advanced methods
+and detailed country-
+specific activity data5.
+Use country-
+specific EFs5.
+Use default 
+methods and EFs5.
+Use tier 
+level most
+appropriate for
+available6 data.
+Report "Not
+Occurring".
+Note:
+1: The use of 20 years, as a threshold, is consistent with the defaults contained in IPCC Guidelines. Countries may use different 
+periods where appropriate to national circumstances (see Chapter 2).
+2: See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting section 4.1.2 on limited 
+resources), for discussion of key categories and use of decision trees.
+3: See Table 1.2 for the characterisation of subcategories.
+4: A subcategory is significant if it accounts for 25-30% of emissions/removals for the overall category.
+5: See Box 1.1 for definition of Tier levels.
+6: Data availability refers to both data needed for developing country-specific emission factors and data on land use and 
+management practices (activity data).
+* If a country reports harvested wood products (HWP) as a separate pool, it should be treated as a subcategory.
+Repeat for each land-use category:
+- FF-Forest land remaining Forest land
+- CC-Cropland remaining Cropland
+- GG-Grassland remaining Grassland
+- WW-Wetland remaining Wetlands
+- SS-Settlement remaining Settlements
+- OO-Other land remaining Other land
+Repeat for each gas:
+- CO2 (carbon)
+- CH4
+- N2O
+Repeat for each subcategory*:
+- Biomass
+- Dead organic matter
+- Soils
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+Yes
+ 
+ 
+ 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.13 
+Figure 1.3 
+Decision tree for identification of appropriate Tier level for land converted 
+to another land-use category, using Land Converted to Forest Land as an 
+example. 
+ 
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Start
+Are
+there any land
+conversions to Forest
+land1?
+Are
+advanced
+methods and detailed
+data for LF available in 
+your country?
+Are
+country-specific
+data available6?
+Are
+country-specific
+data available6?
+Ask
+for each 
+subcategory3 under LF:
+Is this subcategory
+significant4?
+Is LF a key 
+category2?
+Develop or obtain
+representative
+data and EFs.
+Use advanced methods
+and detailed country-
+specific activity data5.
+Use country-
+specific EFs5.
+Use default 
+methods and EFs5.
+Use tier 
+level most
+appropriate for
+available6 data.
+Report "Not
+Occurring".
+Note:
+1: The use of 20 years, as a threshold, is consistent with the defaults contained in IPCC Guidelines. Countries may use different periods 
+where appropriate to national circumstances (see Chapter 2).
+2: See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+3: See Table 1.2 for the characterisation of subcategories.
+4: A subcategory is significant if it accounts for 25-30% of emissions/removals for the overall category.
+5: See Box 1.1 for definition of Tier levels.
+6: Data availability refers to both data needed for developing country-specific emission factors and data on land use and management 
+practices (activity data)
+* If a country reports harvested wood products (HWP) as a separate pool, it should be treated as a subcategory.
+Repeat for each land-use category:
+- LF- Land converted to Forest land
+- LC- Land converted to Cropland
+- LG- Land converted to Grassland
+- LW- Land converted to Wetlands
+- LS- Land converted to Settlements
+- LO- Land converted to Other land
+Repeat for each gas:
+- CO2 (carbon)
+- CH4
+- N2O
+Repeat for each subcategory*:
+- Biomass
+- Dead organic matter
+- Soils
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+Yes
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3.4 
+Steps in preparing inventory estimates 
+The following steps describe the compilation of the greenhouse gas inventory for the AFOLU Sector: 
+1. Divide all land into managed and unmanaged (Chapter 3). 
+2. Develop a national land classification system applicable to all six land-use categories (Forest Land, 
+Cropland, Grassland, Wetlands, Settlements and Other Land) and further subdivide by climate, soil type 
+and/or ecological regions (i.e., strata) appropriate for the country, as described in Chapter 3.  
+3. Compile data on the area of land and the change in area of land in each land-use category (by category) if 
+available.  Categorize land area by specific management systems defined for each land-use category (by 
+category), if available -this categorization provides the basis for assigning emission factors and stock change 
+factors, required for a particular estimation approach (see Chapter 3).   
+4. Compile national-level statistics for livestock, manure management systems, soil N management, liming and 
+urea application (if land-use specific activity data are available for soil fertilization and liming activities, 
+these emissions categories can be stratified as in Step 2).   
+5. Estimate CO2 emissions and removals and non-CO2 emissions at the appropriate tier level in support of a 
+key category analysis. A preliminary inventory is likely to utilize a Tier 1 or Tier 2 approach.  However, it 
+may be preferable to proceed with a Tier 3 approach if the methods have been previously developed and the 
+supporting activity and input data have been compiled (see Chapter 2 for general guidance on methods).  
+6. Re-estimate CO2 emissions and removals and non-CO2 emissions if a higher Tier is recommended, based on 
+the key category analysis (see Volume 1 Chapter 4 for methods to identify Key Categories). 
+7. Estimate uncertainties (see Volume 1 Chapter 3) and complete QA/QC procedures (which are initiated at 
+Step 1) using the methods provided in Volume 1 Chapter 6, along with additional guidance provided in 
+Chapters 2 to 12 of this Volume. 
+8. Sum CO2 emissions and removals and non-CO2 emissions over the inventory period for each source 
+category by land use and stratum, as well as emissions from livestock, manure, and N management (if not 
+analyzed separately for each land-use category). 
+9. Transcribe summary information into reporting tables, converting C stock changes to emissions or removals 
+of CO2 and entering non-CO2 greenhouse gas emissions, by land-use categories, if available.  Combine with 
+any emission estimates that are based on national aggregate data (e.g. livestock, manure management and 
+soil management/amendment) to estimate the total emissions and removals for the AFOLU Sector (See 
+Volume 1 Chapter 8, Reporting Guidance and Tables). 
+10. Document and archive all information used to produce an inventory, including activity and other input data, 
+emission factors, sources of data and metadata documentation, methods descriptions and model software or 
+code, QA/QC procedures and reports, in addition to the results for each source category. 
+11. Set priorities for future inventories in AFOLU Sector based on completeness of current inventories, 
+uncertainties, and issues arising during QA/QC.  Revise key category analysis based on the newly 
+completed inventory to aid in decisions regarding future priorities. 
+1.4 
+ORGANISATION OF VOLUME 4 IN 2006 IPCC 
+GUIDELINES 
+The material in Volume 4 should be used as follows:  
+• 
+Chapter 2 describes generic methods for carbon pools and biomass burning that can be applied within each 
+of the six land-use categories, i.e., the methods are not specific to a particular land use.  These consist of 
+estimating ecosystem C stock changes and CO2 and non-CO2 emissions from fires and biomass burning. To 
+avoid redundancy in the subsequent land-use specific chapters, Chapter 2 provides guidance on choice of 
+method and decision trees for tier selection.  Tier 1 equations are provided along with tables of generic 
+emission factors and other parameters. 
+• 
+Chapter 3 deals with the consistent representation of land. In particular, the multiple approaches for 
+classification of land-use categories are presented in this chapter, along with the level of disaggregation. 
+Users will find this material helpful for understanding the general issues surrounding representation of 
+systems, which will be needed later in order to use the estimation methods that are specific to a particular 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.15 
+land-use and/or source category. After consulting Chapter 2 and Chapter 3, users should proceed to the 
+appropriate chapter addressing the issues specific to a particular land-use or source category. 
+• 
+Chapters 4 to 9 provide information for specific land-use categories.  These chapters contain information on 
+the application of the generic methods described in Chapter 2 and they also contain full method descriptions 
+and application for any land-use specific methods.  
+o 
+Chapter 4 deals with estimation of emissions and removals from forest lands.  Separate 
+sections cover Forest Land Remaining Forest Land and Land Converted to Forest Land.  
+Harvested wood products are addressed separately in Chapter 12. 
+o 
+Chapter 5 deals with estimation of emissions and removals from cropland.  Separate sections 
+cover Cropland Remaining Cropland and Land Converted to Cropland. Methane production 
+from rice cultivation, which is specific to cropland, is also addressed in this chapter.  
+o 
+Chapter 6 deals with estimation of emissions and removals from the Grassland. Separate 
+sections cover Grassland Remaining Grassland and Land Converted to Grassland.  
+o 
+Chapter 7 deals with estimation of emissions and removals from Wetlands, including peat 
+extraction in natural peatlands and flooded lands.  Methods specific to wetlands, for estimation 
+of CO2 and CH4 emissions, are provided in Appendices with a basis for future methodological 
+development. 
+o 
+Chapter 8 deals with estimation of emissions and removals from Settlements. Separate sections 
+cover Settlements Remaining Settlements and Land Converted to Settlements.   
+o 
+Chapter 9 deals with ‘Other Land’, which includes areas with bare soil, rock, and ice, in 
+addition to all land areas that do not fall into the other five land-use categories treated in 
+Chapters 4 to 8. Since greenhouse gas emissions and removals are not reported for unmanaged 
+lands, methods and guidance in this chapter apply only to ‘Land Converted to Other Land’, for 
+example, from extreme degradation of forest, cropland or grassland to barren land that is no 
+longer managed for useful purposes. 
+• 
+Chapter 10 provides guidance on livestock related emissions, including methane emissions from enteric 
+fermentation and CH4 and N2O (direct and indirect) emissions from manure management.   
+• 
+Chapter 11 provides guidance for emissions sources from managed soils, associated primarily with 
+application of fertilizer, crop residues, manure, lime, and urea to soils.  Specifically, methods and guidance 
+are provided for estimating N2O emissions from managed soils and CO2 emissions from liming and urea 
+applications.  Activity data for these sources are typically not broken out by individual land use, hence Tier 
+1 methods are based on (national) aggregate data. 
+• 
+Chapter 12 provides methodological guidance for estimation of C stock changes and emissions from 
+harvested wood products, and is neutral with regards to the multiple alternative approaches to inventory 
+estimation that are given.  
+Figure 1.4 presents the structure of AFOLU reporting with categories (including category codes) that are listed in 
+Table 8.2 of Volume 1.  
+Annex 1 provides worksheets for each sub-category that can be used to estimate emissions based on Tier 1 
+methods and appropriate emission/stock change factors and activity data.  The Reporting Tables for the 
+greenhouse gas emissions/removals at sectoral and national levels are provided in Volume 1 Chapter 8 of the 
+Guidelines. 
+Annex 2 is the summary of all equations in AFOLU that serves as quick reference for inventory compilers. 
+Table 1.2 provides the summary information as to what carbon pools and activities emitting non-CO2 gases in 
+each land-use category are treated under Tier 1 methods; in what section in AFOLU Volume the guidance are 
+discussed, and their reference to the 1996 IPCC Guidelines.  
+ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 1.4 
+Structure of AFOLU Reporting  
+ 
+ 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.17 
+  
+TABLE 1.2 
+ LAND-USE CATEGORIES, CARBON POOLS AND NON-CO2 GASES TO BE ESTIMATED UNDER TIER 1, THEIR RELEVANCE TO 
+AFOLU SECTIONS, AND THE REFERENCE TO 1996 IPCC GUIDELINES 
+Land-use 
+category/ 
+Chapter 
+Subcategory 
+C pool & non-CO2 
+gases 
+Methods 
+Section 
+Chapter 2 
+Method 
+Linkage to 
+1996 IPCC 
+Guidelines 
+Tier 1 
+Method 
+Forest Land 
+(Chapter 4) 
+Forest Land 
+Remaining 
+Forest Land (FF)  
+Above-ground 
+biomass 
+4.2.1 
+2.3.1.1 
+5A 
+⊕ 
+Below-ground 
+biomass 
+4.2.1 
+2.3.1.1 
+NE 
+⊕ 
+Dead organic matter 
+4.2.2 
+2.3.2.1 
+NE 
+0 
+Soil carbon 
+4.2.3 
+2.3.3.1 
+5D 
+⊕ 1 
+Non-CO2 from 
+biomass burning 
+4.2.4 
+2.4.1 
+NE 
+⊕ 
+Land Converted 
+to Forest Land 
+(LF) 
+Above-ground 
+biomass 
+4.3.1 
+2.3.1.2 
+5A, 5C 
+⊕ 
+Below-ground 
+biomass 
+4.3.1 
+2.3.1.2 
+NE 
+⊕ 
+Dead organic matter 
+4.3.2 
+2.3.2.2 
+NE 
+⊕ 
+Soil carbon 
+4.3.3 
+2.3.3.1 
+5D 
+⊕ 
+Non-CO2 from 
+biomass burning 
+4.3.4 
+2.4.1 
+4E, 4F 
+⊕ 
+Cropland 
+(Chapter 5) 
+Cropland 
+Remaining 
+Cropland (CC) 
+Above-ground 
+biomass 
+5.2.1 
+2.3.1.1 
+5A 
+⊕ 
+Dead organic matter 
+5.2.2 
+2.3.2.1 
+NE 
+0 
+Soil carbon 
+5.2.3 
+2.3.3.1 
+5D 
+⊕ 
+Non-CO2 from crop 
+residue burning 
+5.2.4 
+2.4.1 
+4F 
+⊕ 
+Methane emissions 
+from rice 
+5.5 
+- 
+4C 
+⊕ 
+Land Converted 
+to Cropland (LC) 
+Above-ground 
+biomass 
+5.3.1 
+2.3.1.2 
+5B 
+⊕ 
+Dead organic matter 
+5.3.2 
+2.3.2.2 
+NE 
+⊕ 
+Soil carbon 
+5.3.3 
+2.3.3.1 
+5D 
+⊕ 
+Non-CO2 from 
+biomass (crop 
+residue) burning 
+5.3.4 
+2.4 
+4E, 5B 
+⊕ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 1.2 (CONTINUED) 
+ LAND-USE CATEGORIES, CARBON POOLS AND NON-CO2 GASES TO BE ESTIMATED UNDER TIER 1, THEIR RELEVANCE TO 
+AFOLU SECTIONS, AND THE REFERENCE TO 1996 IPCC GUIDELINES 
+Land-use 
+category/ 
+Chapter 
+Subcategory 
+C pool & non-CO2 
+gases 
+Methods 
+Section 
+Chapter 2 
+Method 
+Linkage 
+to 1996 
+IPCC 
+Guidelines 
+Tier 1 
+Method 
+Grassland 
+(Chapter 6) 
+Grassland 
+Remaining 
+Grassland (GG) 
+Above-ground 
+biomass 
+6.2.1 
+2.3.1.1 
+5A 
+0 
+Dead organic matter 
+6.2.2 
+2.3.2.1 
+NE 
+0 
+Soil carbon 
+6.2.3 
+2.3.3.1 
+5D 
+⊕ 
+Non-CO2 from 
+biomass burning 
+6.2.4 
+2.4 
+4E 
+⊕ 
+Land Converted 
+to Grassland 
+(LG) 
+Above-ground 
+biomass 
+6.3.1 
+2.3.1.2 
+5B 
+⊕ 
+Dead organic matter 
+6.3.2 
+2.3.2.2 
+NE 
+⊕ 
+Soil carbon 
+6.3.3 
+2.3.3.1 
+5D 
+⊕ 
+Non-CO2 from 
+biomass burning 
+6.3.4 
+2.4 
+4F, 5B 
+⊕ 
+Wetlands 
+(Chapter 7) 
+ 
+Peatlands 
+Remaining 
+Peatlands 
+CO2 emissions 
+7.2.1.1 
+- 
+NE 
+⊕ 
+Non-CO2 emissions 
+7.2.1.2 
+- 
+NE 
+⊕ 
+Land Being 
+Converted for 
+Peat Extraction 
+CO2 emissions 
+7.2.2.1 
+- 
+NE 
+NA 
+Non-CO2 emissions 
+7.2.2.2 
+- 
+NE 
+⊕ 
+Flooded Land 
+Remaining 
+Flooded Land 
+CO2 emissions 
+NG 
+- 
+NE 
+⊕ 
+Non-CO2 emissions 
+Appendix 
+3 
+- 
+ 
+⊕ 
+Land Converted 
+to Flooded Land 
+CO2 emissions 
+7.3.2 
+Appendix 
+2 
+- 
+NE 
+⊕ 
+Non-CO2 emissions 
+Appendix 
+3 
+- 
+ 
+⊕ 
+Settlements 
+(Chapter 8) 
+Settlements 
+Remaining 
+Settlements (SS) 
+Above-ground 
+biomass 
+8.2.1 
+2.3.1.1 
+5A 
+0 
+Dead organic matter 
+8.2.2 
+2.3.2.1 
+NE 
+0 
+Soil carbon 
+8.2.3 
+2.3.3.1 
+NE 
+⊕ 1 
+Land Converted 
+to Settlements 
+(LS) 
+Above-ground 
+biomass 
+8.3.1 
+2.3.1.2 
+5B 
+⊕ 
+Dead Organic 
+Matter 
+8.3.2 
+2.3.2.2 
+NE 
+⊕ 
+Soil carbon 
+8.3.3 
+2.3.3.1 
+NE 
+⊕ 
+Other Land 
+(Chapter 9) 
+Land Converted 
+to Other Land 
+(LO) 
+Above-ground 
+biomass 
+9.3.1 
+2.3.1.2 
+5B 
+⊕ 
+Dead Organic 
+Matter 
+9.3.2 
+2.3.2.2 
+NE 
+NA 
+Soil carbon 
+9.3.3 
+2.3.3.1 
+NE 
+⊕ 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.19 
+ 
+TABLE 1.2 (CONTINUED) 
+ LAND-USE CATEGORIES, CARBON POOLS AND NON-CO2 GASES TO BE ESTIMATED UNDER TIER 1, THEIR RELEVANCE TO 
+AFOLU SECTIONS, AND THE REFERENCE TO 1996 IPCC GUIDELINES 
+Land-use 
+category/ 
+Chapter 
+Subcategory 
+C pool & non-CO2 
+gases 
+Methods 
+Section 
+Chapter 2 
+Method 
+Linkage 
+to 1996 
+IPCC 
+Guidelines 
+Tier 1 
+Method 
+Livestock 
+(Chapter 10) 
+Enteric 
+Fermentation 
+CH4 emissions 
+10.3 
+- 
+4A 
+⊕ 
+Manure 
+Management 
+CH4 emissions 
+10.4 
+- 
+4B 
+⊕ 
+ 
+N2O emissions 
+10.5 
+- 
+4B 
+⊕ 
+Managed soils 
+(Chapter 11) 
+Soil Management 
+N2O emissions 
+11.2 
+- 
+4D 
+⊕ 
+Liming 
+CO2 emissions 
+11.3 
+- 
+_ 
+⊕ 
+Urea Fertilization 
+CO2 emissions 
+11.4 
+- 
+NE 
+⊕ 
+Harvested 
+wood 
+products 
+(Chapter 12) 
+Wood Products 
+C stock changes 
+Chapter 
+12 
+- 
+NE 
+⊕ 2 
+ 
+The 1996 IPCC Guidelines cover the following categories: 5A Changes in Forest and Other Woody Biomass Stocks; 5B Forest and 
+Grassland Conversion; 5C  Abandonment of Managed Lands; 5D Emissions and Removals from Soils, and 5E Other (Reporting 
+Instructions p. 1.14 - 1.16) 
+ 
+NE: not estimated under default method in the 1996 IPCC Guidelines 
+NG – no guidance provided in the Guidelines 
+ 
+Notes for column “Tier 1 Method”: 
+⊕ - Tier 1 methods and default parameters are available in the Guidelines. 
+0 = Tier 1 (default) assumption is that emissions are zero or in equilibrium; no methods and parameters are provided in the Guidelines. 
+1 = Tier 1 and default parameters available only for organic soils. 
+2 = Tier 1 method available to estimate HWP variables which may be used to compute HWP Contribution to AFOLU. 
+NA – not applicable 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use   
+ 
+1.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 1A 
+Historical background on IPCC greenhouse gas 
+inventory guidance for AFOLU Sector 
+1A.1 
+Revised 1996 IPCC Guidelines 
+The emission and removal categories covered together in Volume 4 of the 2006 IPCC Guidelines were 
+previously separated in different chapters of the 1996 IPCC Guidelines (IPCC, 1997): Chapter 4 (Agriculture) 
+and Chapter 5 (Land-Use Change and Forestry, LUCF). The fundamental basis for the methodology in LUCF 
+rested upon two linked themes: i) that the flux of CO2 to and from the atmosphere can be equated to changes in 
+terrestrial carbon stocks and product pools, and ii) changes in carbon stocks can be estimated by determining 
+land use and management (e.g., logging, burning, tillage, grazing, etc.) at various points in time. Simple 
+assumptions are then applied about their impact on carbon stocks and biological response to a given land-use and 
+management system.  In contrast, the Agricultural chapter dealt only with direct flux estimates from different 
+source categories and therefore did not incorporate the stock change concept.  
+AGRICULTURE (CHAPTER 4 IN THE REVISED 1996 IPCC 
+GUIDELINES) 
+The 1996 IPCC Guidelines focused on activities associated with managed agricultural systems and that are 
+potentially large sources of emissions in a country, including:  
+• 
+CH4 emissions from enteric fermentation in domestic livestock.  Methane is produced as a by-product of 
+enteric fermentation, where ruminant animals (e.g., cattle, sheep) are the major source but some non-
+ruminant animals (e.g., pigs, horses) also emit CH4. 
+• 
+CH4 and N2O emissions from manure management. Methane is produced from the decomposition of 
+manure under anaerobic conditions while N2O is produced under aerobic or mixed aerobic/anaerobic 
+conditions.  Hence emissions of each gas depend on the type of manure and the storage system.   
+• 
+CH4 emissions from rice cultivation.  Anaerobic decomposition of organic material in flooded rice fields 
+produces methane, which escapes to the atmosphere primarily through air-bubbles and by transport through 
+the rice plants. The amount emitted is a function of rice species, number and duration of harvests, soil type 
+and temperature, irrigation method, and fertilizer use.  
+• 
+CH4, N2O, CO, NOX emissions from prescribed burning of savannas (or other types of grassland) and 
+crop residues.  Burning of savannas and crop residues does not create a net-release of CO2 to the 
+atmosphere because vegetation regrows between burning cycles. However, burning releases other gases that 
+are either direct or indirect sources of greenhouse gases, including CH4, N2O, CO, and NOx.  
+• 
+Emissions of N2O from soils. Produced through microbial processes in soils, emissions are largely a 
+function of the amount of nitrogen added to soils from (1) synthetic fertilizers, (2) animal waste, (3) 
+biological fixation, (4) crop residues, and (5) sewage sludge or other organic N additions, which can be 
+emitted ‘directly’ where the N is applied, or ‘indirectly’, from N leached as NO3 or volatilized as NH3 and 
+NOx and redeposited in other locations.  
+LUCF (CHAPTER 5 IN THE REVISED 1996 IPCC GUIDELINES) 
+The inventory methods for Land-Use Change and Forestry (LUCF) focused on the most important land-use and 
+management changes that result in CO2 emissions and removals, including four broad categories: 
+• 
+Changes in forest and other woody biomass stocks.  Effects of human interaction with forests and wood 
+products are considered in a single broad category, which includes commercial management, harvest of 
+industrial roundwood (logs) and fuelwood, production and use of wood commodities, and establishment and 
+operation of forest plantations as well as planting of trees in urban, village and other non-forest locations. 
+• 
+Forest and grassland conversion.  Conversion of forests and grasslands to pasture, cropland or other 
+managed land uses, can significantly reduce carbon stores in biomass and soils.  Deforestation is an example 
+of this type of conversion. 
+ 
+Chapter 1: Introduction 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.21 
+• 
+Abandonment of managed lands (croplands, pastures, plantation forests, or other managed lands).  
+Abandoned lands often accrue carbon in biomass and soils over time, particularly if the conditions approach 
+those found in natural grasslands or forests. 
+• 
+CO2 Emissions and removals from soils.  Changing management can alter the CO2 emissions and 
+removals from soils, particularly through adoption of conservation practices or increasing crop and forage 
+production. 
+The 1996 IPCC Guidelines briefly described general issues and methodological approaches for other possible 
+categories such as below-ground biomass, natural disturbances (including fire), shifting cultivation and flooding 
+and drainage of wetlands. The methods also addressed release of non-CO2 trace gases (CH4, CO, N2O, NOx) 
+from the open burning of biomass from forest clearing. 
+1A.2 
+Good Practice Guidance and Uncertainty 
+Management in National Greenhouse Gas Inventories 
+(GPG2000) 
+GPG2000 (IPCC, 2000) provided supplementary information to the 1996 IPCC Guidelines to improve inventory 
+transparency, documentation, consistency over time, completeness, and comparability.  GPG2000 also provided 
+methods for addressing uncertainties and implementing quality control and quality assurance.  In the Agriculture 
+Sector, guidance was provided for all of the emission sources included in the 1996 IPCC Guidelines (see above). 
+GPG2000 introduced a method for identifying key sources that should be given high priority because of their 
+significance in affecting the absolute level or trend in emissions, their uncertainty, or qualitative factors such as 
+unexpectedly high or low estimates.  The goal of this method is to provide practical guidance on how to develop 
+a national inventory with an efficient use of resources, identifying sources that are candidates for using a more 
+detailed (higher tier) estimation method.  
+1A.3 
+Good Practice Guidance for Land Use, Land-Use 
+Change and Forestry (GPG-LULUCF) 
+GPG-LULUCF (IPCC, 2003) elaborated on the 1996 IPCC Guidelines to adopt an approach based on land-use 
+categories for organizing the methodologies and good practices associated with estimating emissions and 
+removals in the Land Use, Land-Use Change and Forestry (LULUCF) Sector, including Forest Land, Cropland, 
+Grassland, Wetlands, Settlements and Other Land. Each land category was further sub-divided into land 
+remaining in the same category (e.g., Forest Land Remaining Forest Land) or land converted to another land 
+category (e.g., Grassland converted to Forest Land). Methods for estimating carbon stock changes associated 
+with harvested wood products (HWP) were included as an appendix, reflecting the unresolved issues and 
+ongoing negotiations of including HWP in national inventories.  As with GPG2000, GPG-LULUCF adopted the 
+hierarchical Tier approach for methods descriptions, as well as the concept of key source categories, and 
+similarly included guidance on quality assurance/quality control (QA/QC), reconstruction of missing data, time 
+series consistency, sampling techniques, quantification and combination of uncertainties, and verification. 
+ 
+References 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental 
+Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.  
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories. 
+Penman J., Kruger D., Galbally I., Hiraishi T., Nyenzi B., Emmanuel S., Buendia L., Hoppaus R., 
+Martinsen T., Meijer J., Miwa K., Tanabe K. (Eds). Intergovernmental Panel on Climate Change (IPCC), 
+IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Penman J., Gytarsky M., 
+Hiraishi T., Krug, T., Kruger D., Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F. 
+(Eds).Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+ 

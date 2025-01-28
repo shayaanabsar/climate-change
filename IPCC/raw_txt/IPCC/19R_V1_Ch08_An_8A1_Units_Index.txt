@@ -1,0 +1,443 @@
+  
+Annex 8A.1: Prefixes, units and abbreviations, standard equivalents 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.A.1.1 
+ANNEX 8A.1 
+PREFIXES,  
+UNITS AND ABBREVIATIONS,  
+STANDARD EQUIVALENTS 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+ 
+8.A.1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 8A.1  Prefixes, units and abbreviations, standard 
+equivalents 
+ 
+Prefixes and multiplication factors 
+Multiplication Factor 
+Abbreviation 
+Prefix 
+Symbol 
+1 000 000 000 000 000 
+1015 
+  peta 
+  P 
+1 000 000 000 000 
+1012 
+  tera 
+  T 
+1 000 000 000 
+109 
+  giga 
+  G 
+1 000 000 
+106 
+  mega 
+  M 
+1 000 
+103 
+  kilo 
+  k 
+100 
+102 
+  hecto 
+  h 
+10 
+101 
+  deca 
+  da 
+0.1 
+10-1 
+  deci 
+  d 
+0.01 
+10-2 
+  centi 
+  c 
+0.001 
+10-3 
+  milli 
+  m 
+0.000 001 
+10-6 
+  micro 
+  µ 
+ 
+Units and abbreviations 
+cubic metre 
+ 
+m3 
+hectare 
+ 
+ha 
+gram 
+ 
+g 
+tonne 
+ 
+t 
+Joule 
+ 
+J 
+degree Celsius 
+ 
+oC 
+calorie 
+ 
+cal 
+year 
+ 
+yr 
+capita 
+ 
+cap 
+gallon 
+ 
+gal 
+dry matter 
+ 
+d.m. 
+kilogram 
+ 
+kg 
+pound 
+ 
+lb 
+atmosphere 
+ 
+atm 
+Pascal 
+ 
+Pa 
+hour 
+ 
+h 
+Watt 
+ 
+W 
+ 
+ 
+ 
+  
+Annex 8A.1: Prefixes, units and abbreviations, standard equivalents 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.A.1.3 
+Units and abbreviations, and standard equivalents 
+1 tonne of oil equivalent (toe) 
+ 
+1 toe 
+ 
+1 x 1010 calories 
+ 
+1 x 1010 cal 
+1 ktoe  
+ 
+ 
+ 
+41.868 terajoules 
+ 
+41.868 TJ 
+1 short ton 
+ 
+1 sh t 
+ 
+0.9072 tonne 
+ 
+0.9072 t 
+1 tonne 
+ 
+1 t 
+ 
+1.1023 short tons 
+ 
+1.1023 sh t 
+1 tonne 
+ 
+1 t 
+ 
+1 megagram 
+ 
+1 Mg 
+1 kilotonne 
+ 
+1 kt 
+ 
+1 gigagram 
+ 
+1 Gg 
+1 megatonne 
+ 
+1 Mt 
+ 
+1 teragram 
+ 
+1 Tg 
+1 gigatonne 
+ 
+1 Gt 
+ 
+1 petagram 
+ 
+1 Pg 
+1 kilogram 
+ 
+1 kg 
+ 
+2.2046 pounds 
+ 
+2.2046 lb 
+1 hectare 
+ 
+1 ha 
+ 
+104 square meters 
+ 
+104 m2 
+1 calorieIT 
+ 
+1 calIT  
+ 
+4.1868 Joules 
+ 
+4.1868 J 
+1 atmosphere 
+ 
+1 atm 
+ 
+101.325 kilopascal 
+ 
+101.325 kPa 
+1 gram 
+ 
+1 g 
+ 
+0.002205 pounds 
+ 
+0.00205 lb 
+1 pound 
+ 
+1 lb 
+ 
+453.6 gram 
+ 
+453.6 g 
+1 terajoule  
+ 
+1 TJ 
+ 
+2.78 x 105 kilowatt hour 
+ 
+2.78 x 105 kWh 
+1 kilowatt hour  
+ 
+1 kWh 
+ 
+3.6 x 106 Joules 
+ 
+3.6 x 106 J 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formulae for chemical compounds 
+Chemical formula 
+ 
+Gas 
+CO2 
+ 
+Carbon dioxide 
+CH4 
+ 
+Methane 
+N2O 
+ 
+Nitrous oxide 
+HFCs 
+ 
+Hydrofluorocarbons 
+PFCs 
+ 
+Perfluorocarbons 
+SF6 
+ 
+Sulphur hexafluoride 
+NF3 
+ 
+Nitrogen trifluoride 
+SF5CF3 
+ 
+Trifluoromethyl sulphur pentafluoride 
+CFCs  
+Chlorofluorocarbons 
+CHF3   
+HFC-23  
+CH2F2   
+HFC-32  
+CH3F   
+HFC-41  
+CHF2CF3   
+HFC-125  
+CHF2CHF2   
+HFC-134  
+CH2FCF3   
+HFC-134a  
+CHF2CH2F  
+HFC-143   
+CF3CH3   
+HFC-143a  
+CH2FCH2F   
+HFC-152  
+CH3CHF2   
+HFC-152a  
+CH3CH2F   
+HFC-161  
+ CF3CHFCF3   
+HFC-227ea 
+CH2FCF2CF3   
+HFC-236cb  
+CHF2CHFCF3   
+HFC-236ea  
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+ 
+8.A.1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Formulae for chemical compounds (Continued) 
+Chemical formula 
+ 
+Gas 
+CF3CH2CF3   
+HFC-236fa  
+CH2FCF2CHF2   
+HFC-245ca  
+CHF2CH2CF3   
+HFC-245fa  
+CF3CH2CF2CH3   
+HFC-365mfc  
+CF3CHFCHFCF2CF3   
+HFC-43-10mee  
+CF3OCHF2  
+HFE-125  
+CHF2OCHF2   
+HFE-134  
+CH3OCF3   
+HFE-143a  
+CF3CHClOCHF2   
+HCFE-235da2  
+CF3CF2OCH3  
+HFE-245cb2  
+CF3CH2OCHF2   
+HFE-245fa2  
+CHF2CF2OCH3   
+HFE-254cb2  
+CF3CF2CF2OCH3   
+HFE-347mcc3  
+CHF2CF2CH2OCHF2   
+HFE-356pcf3  
+CHF2CF2OCH2CH3   
+HFE-374pc2  
+C4F9OCH3   
+HFE-7100  
+C4F9OC2H5   
+HFE-7200  
+CHF2OCF2OC2F4OCHF2  
+H-Galden 1040x  
+CHF2OCF2OCHF2   
+HG-10  
+CHF2OCF2CF2OCHF2   
+HG-01  
+CF4   
+Perfluoromethane  
+C2F6   
+Perfluoroethane  
+C3F8   
+Perfluoropropane  
+ C4F10  
+Perfluorobutane  
+c-C4F8  
+Perfluorocyclobutane 
+C5F12  
+Perfluourpentane  
+C6F14   
+Perfluorohexane  
+c-C3F6   
+Perfluorocyclopropane  
+CF3CHFOCF3   
+HFE-227ea  
+CF3CHFOCHF2  
+HFE-236ea2  
+CF3CH2OCF3  
+HFE-236fa 
+CHF2CH2OCF3  
+HFE-245fa1 
+CF3CH2OCH3  
+HFE-263fb2 
+CF3CF2OCF2CHF2  
+HFE-329mcc2 
+CF3CF2OCH2CF3  
+HFE-338mcf2 
+CF3CF2OCH2CHF2  
+HFE-347mcf2 
+CF3CHFCF2OCH3  
+HFE-356mec3 
+CHF2CF2CF2OCH3  
+HFE-356pcc3 
+CHF2CF2OCH2CHF2  
+HFE-356pcf2 
+CF3CF2CH2OCH3  
+HFE-365mcf3 
+  
+Annex 8A.1: Prefixes, units and abbreviations, standard equivalents 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.A.1.5 
+CF3I  
+Trifluoroiodomethane 
+CH2Br2  
+Dibromomethane 
+CHCl3  
+Chloroform 
+CH3Cl  
+Chloromethane 
+CH2Cl2  
+Dichloromethane 
+CO  
+Carbon monoxide 
+NOX  
+Nitrogen oxides 
+NMVOC  
+Non-methane volatile organic compound 
+SO2  
+Sulphur dioxide 
+NH3  
+Ammonia 
+ 

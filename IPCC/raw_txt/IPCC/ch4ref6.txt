@@ -1,0 +1,1073 @@
+AGRICULTURE
+4.76
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+average percentages of savanna burned annually, as shown in Table 4-14.  Based on the
+area and type of savanna burned, the amount of carbon released can be calculated (a
+reflection of biomass densities, fractions burned, carbon contents and fractions oxidised).
+The second component of the calculation is the same as for other biomass burning
+categories – emission ratios are applied to estimate the amount of trace gas released
+based on the amount of carbon released (Table 4-15 provides default emission ratios).
+TABLE 4-14
+REGIONAL SAVANNA STATISTICS
+Regiona
+Fraction of
+Total Savanna
+that is Burned
+Annually
+Aboveground
+Biomass Density
+(t dm/ha)
+Fraction of
+Biomass
+Actually
+Burned
+Fraction of
+Aboveground
+Biomass that is
+Living
+Tropical America
+0.50
+6.6 ±1.8
+Tropical Asia
+0.50
+4.9
+Tropical Africa
+Sahel zone
+North Sudan zone
+South Sudan zone
+Guinea zone
+0.75
+0.05-0.15b
+0.25-0.50b
+0.25-0.50b
+0.60-0.80b
+6.6 ±1.6
+0.5-2.5b
+2-4b
+3-6b
+4-8b
+0.95
+0.85
+0.85
+0.9-1.0
+0.20
+0.45
+0.45
+0.55
+Australia
+0.05-0.70
+2.1-6
+Sources:
+Hao et al., 1990, except where noted.  These figures are growing season average biomass values, considered
+most appropriate for general default values
+a Note that these are ecological zones that do not correspond directly to areas with political boundaries of the same name.
+For example, the North and South Sudan zones include countries other than Sudan and run East-West across the African
+continent.
+b Menaut et al. (1991)  These figures are maximum biomass values.  For these arid sub-regions, maximums are considered
+the most appropriate default values.
+Note: Biomass density is in tonnes of dry matter (dm) per hectare (ha).
+The approach recognises that countries generally possess more than one savanna type,
+each with different characteristics, such as vegetative cover, that would affect trace gas
+emissions from burning.  Also, the savanna area within a country may not be burned all at
+once, but rather in stages over the course of the dry season.  Since the amount and
+nature (e.g., moisture content) of the vegetation changes during the year, factors such as
+biomass exposed to burning and fraction burned will vary among the savanna areas
+burned at different times.  The data requested by this methodology focus upon country-
+specific types of savannas and the country-specific rate of burning for each type.21
+                                                  
+     21 If the area of savanna is not readily available, then the area of "open, broad-leaved
+forests," including open, broad-leaved, fallow areas, as defined by the UN Food and
+Agriculture Organization in FAO (1993) can be used as an estimate. This land area,
+corresponds to "mixed broad-leaved forest-grassland tree formations with a continuous
+dense grass layer in which the [woody vegetation covers] more than 10% [of the area]"
+(Lanly, 1982). FAO (1993) provides 1990 estimates of this area, by country, for tropical
+America, Asia, and Africa. Hao et al. (1990) provide an estimate of the humid savanna
+area in Australia, based on work by Lacey et al. (1982).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.77
+It is also recognised that national and regional estimates of the percentage of savanna area
+burned annually are highly uncertain.  An example selection of regional estimates is
+included in Table 4-14.  Though regional variability is great, the methodology, by focusing
+upon a simple classification of savanna type and the burning by type, can be implemented
+using data that are available to most countries.  The methodology is intended to be
+flexible to allow users to define the savanna types and/or geographic subregions for
+calculations.  It is strongly recommended that national experts consider dividing total
+savannas into woody savannas and grasslands, if possible.  Many countries contain some
+systems which have significant aboveground woody biomass and others which have very
+little aboveground  biomass other than grasses.  These subcategories have significantly
+different biomass densities and fractions oxidised and should be accounted for separately
+rather than by averaging, if data are available.  National experts are encouraged to carry
+out the calculations at the finest levels of detail for which credible data can be obtained.
+Finally, by varying assumptions about the rate and/or type of savannas burned, national
+experts can easily compare the sensitivity of the calculated emissions to the uncertainties
+in the data.
+It should be noted that not all savanna burning occurs from anthropogenic causes.  Some
+natural savanna fires obviously occur, and would occur in the absence of human
+intervention.  As is the case with many human interactions with the biosphere, it is very
+difficult to establish the net effects of human intervention relative to the natural
+background, or the conditions which would have occurred naturally in the absence of
+intervention.  In this situation, the recommended conservative default is that all fires are
+considered anthropogenic, unless they can be documented to be from natural causes.
+This clearly may overstate the emissions somewhat.  National experts may choose to
+modify this assumption using expert judgement or other sources to allocate the
+anthropogenic and natural components, provided the rationale is clearly documented.
+Step 1: Total Carbon Released From Savanna Burning
+In order to calculate the carbon released to the atmosphere from savanna burning, these
+data are required for each category:
+•
+Area of savanna;
+•
+Fraction of savanna area burned annually;
+•
+Average aboveground biomass density (tonnes dry matter/hectare) of savannas;
+•
+Fraction of aboveground biomass which actually burns;
+•
+Fraction of aboveground biomass that is living;
+•
+Fraction of living and of dead aboveground biomass oxidised; and
+•
+Fraction of carbon in living and dead biomass.
+Not all of these data must be provided by the user.  Initially one could pool the living and
+dead biomass if data are not available.  More importantly, Table 4-14 provides much of
+the basic default data that only need to be refined for country-specific relevance.  Given
+the data, the steps to calculate emissions are not overly difficult.  One simply calculates
+from the area burned the total carbon released based upon the factors listed above.  In
+AGRICULTURE
+4.78
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+addition to the data in Table 4-14, other recommended default values are included in the
+step-by-step discussion below.22
+The following equations summarise the calculations to estimate the total carbon released
+due to the burning of savannas for each category:
+EQUATION 1
+Area of Savanna Burned Annually (ha)
+=
+Total Area of Savanna (ha) x Fraction Burned Annually
+EQUATION 2
+Biomass Burned (t dm)
+=
+Area of Savanna Burned Annually (ha)
+x Aboveground Biomass Density (t dm/ha) x Fraction Actually Burned
+EQUATION 3
+Carbon Released from Live Biomass (t C)
+=
+Biomass Burned (t dm) x Fraction that is Live x Fraction Oxidised
+x Carbon Content of Live Biomass (t C/t dm)
+EQUATION 4
+Carbon Released from Dead Biomass (t C)
+=
+Biomass Burned (t dm) x Fraction that is Dead x Fraction Oxidised
+x Carbon Content of Dead Biomass (t C/t dm)
+                                                  
+     22 It is hoped that individual countries have this information since it is needed to
+execute the proposed methodology. Regional estimates of these statistics are provided by
+Menaut (1990) and Hao et al. (1990) and reproduced in a table. More country-specific
+research is clearly needed on this issue before accurate inventories can be developed.
+This research should include data on savanna area burned annually, savanna biomass
+densities, live fractions of biomass, burning efficiencies, and carbon contents of savanna
+biomass. In the meantime, default values can be used.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.79
+EQUATION 5
+Total Carbon Released (t C)
+=
+C Released from Live Material (t C) + C Released from Dead Material (t C)
+In the first equation, the savanna area in the country is multiplied by the percentage of
+the savanna area that is burned annually, if statistics on area burned annually are not
+directly available.  If national experts have data on the area burned annually they should
+use this and begin with equation 2.  In the second, area burned is multiplied by
+aboveground dry biomass per hectare (ha) on the savanna at the time of burning and the
+fraction of biomass which actually burns.  Regional estimates of rates of savanna burning
+and biomass densities are presented in Table 4-14.  The fraction actually burned accounts
+for the fact that when savannas are burned, not all of the biomass on each hectare is
+actually exposed to flame.  If detailed information is not available, a general default value
+in the range of 0.80-0.85 is recommended (Delmas and Ahuja, 1993).
+The aboveground biomass density before burning is a function of the type of savanna
+being burned and the time of year in which burning occurs.23  The values for West
+African savannas provided in Table 4-14 correspond to mid-season fires, except for those
+of the Sahel where burning occurs early.  If statistics on maximum biomass density and
+fraction of maximum biomass density present at the time of burning are not available,
+countries can use an average biomass density instead.  According to this analysis, average
+savanna biomass densities are lowest in tropical Asia, at about 5 tonnes per hectare (t/ha)
+(Singh and Misra, 1978), average around 6.6 t/ha in tropical Africa and tropical America
+(San José and Medina, 1976; González-Jiménez, 1979; Coutinho, 1982; Hopkins, 1965;
+Haggar, 1970; Menaut and César, 1982; and Huntley and Morris, 1982).  The densities
+range between 2 and 6 t/ha in Australia (Lacey et al., 1982).  These estimates have an
+uncertainty of ± 30 per cent based on field measurements (Hao et al., 1990).  As
+mentioned, these regional average densities are presented in Table 4-14 and can be used
+as default values if average biomass density for a specific country or savanna type is not
+known.
+In the third and fourth equations, the living and the dead portions of aboveground
+biomass burned are multiplied by their respective fractions oxidised and carbon contents.
+Estimates of the fraction of aboveground biomass that is living for West African savannas
+range from 20 to 55 per cent (Table 4-14).  Data suggest that for the live portion, the
+fraction which burns ranges between 65 and 95 per cent and for the dead portion
+essentially 100 per cent burns (Menaut et al., 1991).  If fractions oxidised are not
+available, 80 per cent and 100 per cent for the living and dead portions, respectively, can
+be used.  If country or ecosystem values are not available, then the values 0.45 t C/t dry
+biomass and 0.40 t C/t dry biomass can be used as default values for the carbon contents
+of the living and dead portions, respectively (Menaut et al., 1991).
+The total carbon released from savanna burning (Equation 5) is estimated by summing the
+carbon released from the living and the dead biomass fractions, calculated in Equations 3
+and 4.
+                                                  
+     23 Menaut et al. (1991) calculate this number by multiplying the maximum biomass
+density of the savanna (which generally is reached at the end of the growing season) by a
+coefficient that declines as the burning occurs later in the dry season.
+AGRICULTURE
+4.80
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Step 2: Emissions
+Once the carbon released from savanna burning has been estimated, the emissions of
+CH4, CO, N2O, and NOx can be calculated using emission ratios.  (Default values are
+presented in Table 4-15.)24 The amount of carbon released due to burning is multiplied by
+the emission ratios of CH4 and CO relative to total carbon released to yield emissions of
+CH4 and CO (each expressed in units of C).  The emissions of CH4 and CO are
+multiplied by 16/12 and 28/12, respectively, to convert to full molecular weights.
+NMVOC could also be calculated in the same way.  However, default values are not
+available in this edition of the Guidelines.
+To calculate emissions of N2O and NOx, first the carbon released is multiplied by the
+estimated ratio of nitrogen to carbon (N/C ratio) in savanna biomass by weight (0.006 is
+a general default value for savanna biomass burning (Crutzen and Andreae, 1990)).  This
+yields the total amount of nitrogen (N) released from the biomass burned.  The total N
+released is then multiplied by the ratios of emissions of N2O and NOx relative to the N
+released to yield emissions of N2O and NOx (expressed in units of N).  To convert to full
+molecular weights, the emissions of N2O and NOx are multiplied by 44/28 and 46/14,
+respectively.25
+The non-CO2 trace gas emissions calculations from burning are summarised as follows:
+CH4 Emissions
+=
+(carbon released) x (emission ratio) x 16/12
+CO  Emissions
+=
+(carbon released) x (emission ratio) x 28/12
+N2O Emissions
+=
+(carbon released) x (N/C ratio) x (emission ratio) x 44/28
+NOx Emissions
+=
+(carbon released) x (N/C ratio) x (emission ratio) x 46/14
+TABLE 4-15
+EMISSION RATIOS FOR SAVANNA BURNING CALCULATIONS
+Compound
+Ratios
+CH4 a
+CO  b
+N2O c
+NOx c
+0.004     (0.002 - 0.006)
+0.06      (0.04 - 0.08)
+0.007    (0.005 - 0.009)
+0.121    (0.094 - 0.148)
+Sources:
+a Delmas, 1993
+b Lacaux, et al., 1993
+c Crutzen and Andreae, 1990
+Note: Ratios for carbon compounds, i.e., CH4 and CO, are mass of carbon compound released
+(in units of C) relative to mass of total carbon released from burning (in units of C); those for
+the nitrogen compounds are expressed as the ratios of mass of nitrogen compounds released
+relative to the total mass of nitrogen released from the fuel.
+                                                  
+     24 This approach is adapted from Crutzen and Andreae, 1990, with some values
+updated, based on more recent studies by Delmas (1993), Delmas and Ahuja (1993) and
+Lacaux et al. (1993).
+     25 The molecular weight ratios given above for the emitted gases are with respect to
+the weight of nitrogen in the molecule.  Thus for N2O the ratio is 44/28 and for NOX it
+is 46/14.  NO2 has been used as the reference molecule for NOX.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.81
+4.4.3 F i e l d  B u r n i n g  o f  A g r i c u l t u r a l  R e s i d u e s
+Background
+Large quantities of agricultural wastes are produced, from farming systems world-wide, in
+the form of crop residue.26  Burning of crop residues, like the burning of savannas, is not
+thought to be a net source of carbon dioxide (CO2) because the carbon released to the
+atmosphere during burning is reabsorbed during the next growing season.  However,
+crop residue burning is a significant net source of CH4, CO, NOx, and N2O.  This section
+accounts for emissions of these non-CO2 gases from field burning of agricultural crop
+residues.  Burning of agricultural crop residues as an energy source is covered in the
+Energy chapter, in the section on fuel Combustion.
+The amount of agricultural wastes produced varies by country, crop, and management
+system.  For example, cereal crops produce between 0.6 and 2.5 tonnes of straw per
+tonne of grain (Barnard, 1990; Ponnamperuma, 1984), and wetland rice cultivated under a
+moderate level of management in the Philippines was found to produce between 0.6 and
+0.9 tonnes of straw per tonne of grain (Ponnamperuma, 1984).  Approximately 3.1 billion
+tonnes of crop residue are produced each year, with about 60 per cent originating in the
+developing world, and 40 per cent in the developed world (Strehler and Stützle, 1987).
+Burning of agricultural wastes in the fields is a common practice in the developing world.
+It is used primarily to clear remaining straw and stubble after harvest and to prepare the
+field for the next cropping cycle.  In Southeast Asia, burning is the major disposal method
+for rice straw (Ponnamperuma, 1984), which accounts for about 31 per cent of the
+agricultural waste in the developing world.  Sugar cane residues, which make up about
+11 per cent of the world's agricultural waste, are primarily disposed of by burning
+(Crutzen and Andreae, 1990).  It has been estimated that as much as 40 per cent of the
+residues produced in developing countries may be burned in fields, while the percentage
+is lower in developed countries (Barnard and Kristoferson, 1985).  Another study
+suggests that approximately 425 Tg dry matter agricultural wastes (~200 Tg C) are
+burned in the fields in developing countries and that about one-tenth as much is burned in
+developed countries (Crutzen and Andreae, 1990).
+Calculations
+The methodology for estimating greenhouse gas emissions from burning of agricultural
+wastes is based, as in savanna burning, on 1) total carbon released, which is a function of
+the amount and efficiency of biomass burned and the carbon content of the biomass, and
+2) the application of emission ratios of CH4 and CO to total carbon released, and of N2O
+and NOx to total nitrogen released from biomass fires which are available from the
+scientific literature on biomass burning.  It is generally recommended for all emissions
+from agriculture and land use change, that three-year averages of activity data (e.g., crop
+residues burned) be used if available.
+Step 1: Total Carbon Released from Burning Agricultural Residues
+Data required, for each crop type, to calculate the amount of carbon burned in
+agricultural wastes are listed below:
+                                                  
+     26 Barnard (1990) outlines several broad categories of crop residue:  woody crop
+residues (coconut shells, jute sticks, etc.), cereal residues (rice and wheat straw, maize
+stalks, etc.), green crop residues (groundnut straw, soybean tops, etc.), and crop
+processing residues (bagasse, rice husks, etc.).
+AGRICULTURE
+4.82
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+•
+Amount of crops produced with residues that are commonly burned;
+•
+Ratio of residue to crop product;
+•
+Fraction of residue burned;
+•
+Dry matter content of residue;
+•
+Fraction oxidised in burning; and
+•
+Carbon content of the residue.
+There are standard default or literature values available for many of these data.  Table
+4-17 provides a summary of available default data.  The most important data for users to
+provide are the actual amount of crops produced (by type) with residues that are
+commonly burned.  Annual crop production statistics by country for most of the crops
+from which residues are burned are given in the FAO Production Yearbooks, FAO (1991).
+Users may also find the United Nations World Trade Yearbooks useful.  Crop-specific data
+for each country on ratios of residue to crop, fraction of residue burned, dry matter
+content of residue, and carbon content of residue can be incorporated at any time to
+replace the default values.  A potentially valuable data source is the recent BUN/UNCED
+study by Professor D. Hall (and others) of Kings College, London, Hall et all (1994).  In
+this context, one should also note the book Renewable Energy: Sources for Fuels and
+Electricity edited by Johansson et al. (1992).
+From production data one can estimate the actual material (in carbon units) that is
+burned.  One simple procedure is shown below:
+Total carbon released (tonnes of carbon) =
+all crop types
+∑
+ annual production (tonnes of biomass per year),
+x the ratio of residue to crop product (fraction),
+x the average dry matter fraction of residue (tonnes of dry matter / tonnes
+of biomass),
+x the fraction actually burned in the field,
+x the fraction oxidised,
+x the carbon fraction (tonnes of carbon / tonnes of dry matter)
+It is highly desirable to use country-specific data for these values wherever possible.
+Example estimates of residue/crop product ratios, average dry matter fraction and carbon
+fraction for certain crops are presented in Table 4-17.27  If no other data are available,
+                                                  
+     27 Dry matter (dm), or dry biomass, refers to biomass in a dehydrated state.
+According to Elgin (1991), the moisture content of crop residue varies depending on the
+type of crop residue, climatic conditions (i.e., in a humid environment the residue will
+retain more moisture than in an arid environment), and the length of time between
+harvesting and burning of the residue. From a simple perspective, one can use the dry
+matter content values in Table 4-17 to convert from total crop residue to dry matter.
+For example, 200 tonnes of crop residue with a moisture content of 10%, would have a
+dry matter content of 90%, equal to 180 tonnes of dry matter. To convert from dry
+matter to carbon content, an average value of 0.45 t C/t dm can be used in the cases
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.83
+the following assumptions regarding the fraction of crop residue burned in the field can
+be used as very crude default factors: for developing countries 0.25, and for developed
+countries a much smaller share possibly, 0.10 or less.28 A default value of 0.90 for
+fraction oxidised can be used to account for the approximate 10 per cent of the carbon
+that remains on the ground as a result of charcoal formation and other aspects of
+incomplete combustion (Seiler and Crutzen, 1980; and Crutzen and Andreae, 1990).
+Step 2: Gas Emissions
+Once the carbon released from field burning of agricultural residues has been estimated,
+the emissions of CH4, CO, N2O, and NOx can be calculated based on emission ratios
+(default values are provided in Table 4-16).29  The amount of carbon released due to
+burning is multiplied by the emission ratios of CH4 and CO relative to total carbon to
+yield emissions of CH4 and CO (each expressed in units of C).  The emissions of CH4
+and CO are multiplied by 16/12 and 28/12, respectively, to convert to full molecular
+weights.  NMVOC could also be calculated in the same way.  However, default values are
+not available in this edition of the Guidelines.
+To calculate emissions of N2O and NOx, first the total carbon released is multiplied by
+the estimated N-C ratio of the fuel by weight to yield the total amount of nitrogen (N)
+released.  Some crop-specific values are given in Table 4-17 and 0.015 is a general default
+value for crop residues.30  The total N released is then multiplied by the ratios of
+emissions of N2O and NOx relative to the N content of the fuel to yield emissions of
+N2O and NOx (expressed in units of N).  To convert to full molecular weights, the
+emissions of N2O and NOx are multiplied by 44/28 and 46/14, respectively.31
+The calculation for trace gas emissions from burning is summarised as follows:
+CH4 Emissions
+=
+Carbon Released x (emission ratio) x 16/12
+CO  Emissions
+=
+Carbon Released x (emission ratio) x 28/12
+N2O Emissions
+=
+Carbon Released x (N/C ratio) x (emission ratio) x 44/28
+NOx Emissions
+=
+Carbon Released x (N/C ratio) x (emission ratio) x 46/14
+                                                                                                                                
+where crop specific data are not available. The terms dry matter and dry biomass are
+used interchangeably in this text.
+     28 Crutzen and Andreae, 1990. The estimates are very speculative and should be used
+with caution. The actual percentage burned varies substantially by country and crop type.
+This is an area where locally developed, country-specific data are highly desirable. As this
+issue is studied  further, it may be possible to incorporate more accurate, country-and
+crop-specific percentages into future editions of the Guidelines.
+     29 This approach is adapted from Crutzen and Andreae, 1990, with some values
+updated based on more recent studies by Delmas (1993), Delmas and Ahuja (1993) and
+Lacaux et al. (1993).
+     30 Crop specific values are generally in the range of 0.01-0.02, from Crutzen and
+Andreae, 1990, so that 0.015 can be used as a generally representative value if no other
+information is available.
+     31 The molecular weight ratios given above for the emitted gases are with respect to
+the weight of nitrogen in the molecule.  Thus for N2O the ratio is 44/28 and for NOX it
+is 46/14.  NO2 has been used as the reference molecule for NOX.
+AGRICULTURE
+4.84
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-16
+EMISSION RATIOS FOR AGRICULTURAL RESIDUE BURNING
+CALCULATIONS
+Compound
+Ratios
+CH4 a
+CO  b
+N2O c
+NOx c
+0.005 Range 0.003 - 0.007
+0.06 Range  0.04 - 0.08
+0.007 Range 0.005 - 0.009
+0.121 Range 0.094 - 0.148
+Sources:
+a Delmas, 1993
+b Lacaux, et al., 1993
+c Crutzen and Andreae, 1990
+Note: Ratios for carbon compounds, i.e., CH4 and CO, are mass of carbon compound
+released (in units of C) relative to mass of total carbon released from burning (in units
+of C); those for the nitrogen compounds are expressed as the ratios of mass of
+nitrogen compounds relative to the total mass of nitrogen released from the fuel.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.85
+TABLE 4-17
+SELECTED CROP RESIDUE STATISTICS
+Product
+Residue/Crop Product
+Dry Matter Fraction
+Carbon Fraction
+ (% dm)
+Nitrogen-Carbon
+(N-C) Ratio
+Wheat
+1.3
+0.78-0.88
+0.4853
+0.012
+Barley
+1.2
+0.78-0.88
+0.4567
+Maize
+1
+0.30-0.50
+0.4709
+0.02
+Oats
+1.3
+Rye
+1.6
+Rice
+1.4
+0.78-0.88
+0.4144
+0.014
+Millet
+1.4
+0.016
+Sorghum
+1.4
+0.02
+Pea
+1.5
+Bean
+2.1
+Soya
+2.1
+0.05
+Potatoes
+0.4
+0.30-0.60
+0.4226
+Feedbeet
+0.3
+0.10-0.20 a
+0.4072a
+Sugarbeet
+0.2
+0.10-0.20 a
+0.4072a
+Jerusalem artichoke
+0.8
+Peanut
+1
+Sources:
+Strehler and Stützle, 1987
+Sugarbeet data from Ryan and Openshaw, 1991
+Nitrogen content from Barnard and Kristoferson, 1985
+a  These figures are for beet leaves.
+Possible refinements of the basic calculations
+The basic calculations presented above address the immediate release of non-CO2 trace
+gases when savannas or crops are burned.  This is believed to be the most important
+effect of biomass burning on GHG emissions and the best characterised at present.
+However, there are other issues not treated in these calculations.  The effect of past
+burning on current emissions is one such issue.  The longer-term release or uptake of
+these gases following burning is an important research issue and may be included in future
+refinements of the calculations.  In particular, grassland fires (savanna burning) may
+perturb the soils sufficiently to release additional N2O and NOx.  Little is known about
+the magnitude of this flux so these emissions are not included in the first application of
+the methodology.  It is less likely that such delayed releases are significant after field
+burning of agricultural residues, but this may also require further study.
+Long term changes in soil carbon are certainly possible as a result of agricultural
+practices.  In the land use change and forestry chapter, there is a general default
+assumption that soil carbon is gradually lost from agricultural lands over many years after
+forests are cleared.  In fact, depending on the specific agricultural and soil management
+practices (including burning) which are used, there may be a variety of effects on soil
+AGRICULTURE
+4.86
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+carbon.  For example, repeated burning of savannas and crop residues in fields may cause
+an increase in the amount of carbon stored in the soil over time.  This is an area which
+requires further research and may lead to more detailed emissions estimation methods in
+the future.
+In addition, agricultural practices such as overgrazing, which degrade the productivity of
+grasslands or other agricultural lands, reduce the amount of aboveground biomass which
+regrows.  These could be considered sources of gradual emissions of carbon dioxide.
+This situation is not included in the basic calculations, but could be included in more
+refined calculations.  National experts should determine whether or not this is important
+for their country, and whether or not they are able to provide input data.
+A similar long-term effect can be observed from savanna burning.  If the savannas are
+burned too frequently, complete regrowth may not occur.  In this situation, grasslands
+can degrade over time, resulting in long-term losses of both aboveground and soil carbon.
+If this condition is significant, national experts are encouraged to estimate the annual
+effect and explain the assumptions and data used.
+Another possible refinement is to account for carbon that might be sequestered through
+the use of agricultural residues to make durable products (e.g., bricks, composite boards).
+The default assumption is that the carbon sequestered in such activities on an annual basis
+is small, and can be ignored in the calculations, that is, as long as the stocks of such
+products are not significantly increasing or decreasing over time, their effect on
+emissions/removals can be ignored.  If national experts believe the effects may be
+significant, they are encouraged to estimate this carbon sink and document the
+assumptions and data used.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.87
+4.5 
+Greenhouse Gas Emissions from
+Agricultural Soils
+4 . 5 . 1  I n t r o d u c t i o n
+Agricultural soils may emit or remove nitrous oxide (N2O), carbon dioxide (CO2), and/or
+methane (CH4).
+This section presents the method for calculating national emissions of N2O from
+agriculture soils.  This N2O method is a significant revision of the 1995 IPCC Guidelines for
+National Greenhouse Gas Inventories (IPCC, 1995).  Carbon dioxide emissions from soils
+are described in the Chapter on Land-use Change and Forestry.
+For N2O, the 1995 Methodology was evaluated and the present method includes more
+sources of N2O and more explicit information about emission factors.  Three sources of
+N2O are distinguished in the methodology: (i) direct emissions from agricultural soils, (ii)
+direct soil emissions from animal production (including stable emissions to be reported
+under Manure Management (Section 4.2) ), and (iii) N2O emissions indirectly induced by
+agricultural activities.  The methodology is an approach which requires only input data
+available from FAO databases.  To retain consistency with the source categories defined
+in the IPCC Guidelines (1995), not all N2O emissions from these sources are reported
+here.  Emissions from animal waste management systems (i.e., before manure is added to
+soils), and from manure used for fuel, are reported under Section 4.2 and Energy
+Chapter, respectively, whereas emissions from human sewage are reported in the Waste
+Chapter.  However, the description of the N cycle which produces these N2O sources is
+included in Section 4.5.4 to provide the reader with a coherent picture of the N cycle as
+related to agricultural soils.
+Anthropogenic input into agricultural systems include synthetic fertiliser, nitrogen from
+animal wastes, nitrogen from increased biological N-fixation, and nitrogen derived from
+cultivation of mineral and organic soils through enhanced organic matter mineralisation.
+Nitrous oxide may be produced and emitted directly in agricultural fields, animal
+confinements or pastoral systems or be transported from agricultural systems into
+ground and surface waters through surface runoff, nitrogen leaching, consumption by
+humans and introduction into sewage systems which transport the nitrogen ultimately
+into surface water.  Ammonia and oxides of N (NOx) are also emitted from agricultural
+systems and may be transported off-site and serve to fertilise other systems which leads
+to enhanced production of N2O.
+Agricultural systems are considered as being the same throughout the world and this
+methodology does not take into account different crops, soils and climates which are
+known to regulate N2O production.  These factors are not considered because limited
+data are available to provide appropriate emission factors.  Countries which have data to
+show that default data are inappropriate for their country should include a full
+explanation for the values used.  The method also uses a linear extrapolation between
+N2O emissions and fertiliser nitrogen application and in the indirect emissions section
+does not account for the probable lag time between nitrogen input and ultimate
+production of N2O as a result of this nitrogen input into agricultural soils.
+Using midpoint emission factors this current methodology and the FAO data (FAO,
+1990a;b), global N2O–N emissions for the year 1989 were estimated.  Direct emissions
+AGRICULTURE
+4.88
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+from agricultural soils totalled 2.5 Tg N, direct emissions from grazing animals totalled 1.6
+Tg N and indirect emissions resulting from agricultural nitrogen input into the
+atmosphere and aquatic systems totalled 1.9 Tg N2O–N. These estimates show that each
+of the three components of agriculture considered contribute about the same amount of
+N2O to the global atmospheric budget.  The N2O input to the atmosphere from
+agricultural production as a whole has apparently been underestimated by the previous
+IPCC methodology by at least 70 per cent.
+4 . 5 . 2  
+D i r e c t  N 2 O  E m i s s i o n s  f r o m  A g r i c u l t u r a l
+S o i l s  
+( I n c l u d i n g  
+G l a s s h o u s e  
+S y s t e m s
+F a r m i n g  a n d  E x c l u d i n g  E f f e c t s  o f  G r a z i n g
+A n i m a l s )
+Anthropogenic sources of N2O can be biogenic (e.g., enhanced N2O production by
+bacteria in fertilised fields) or abiogenic (e.g., formation during burning processes).
+Several studies indicate that anthropogenic sources are largely biogenic, with agriculture
+as a major contributor (Bouwman et al., 1995; Mosier et al., 1995a;b).
+Biogenic production of N2O in the soil results primarily from the nitrification and
+denitrification processes.  Simply defined, nitrification is the aerobic microbial oxidation of
+ammonium to nitrate and denitrification is the anaerobic microbial reduction of nitrate to
+dinitrogen gas.  Nitrous oxide is a gaseous intermediate in the reaction sequences of both
+processes which leaks from microbial cells into the soil atmosphere.  Major regulators of
+these processes are temperature, pH and soil moisture content.
+In most agricultural soils, biogenic formation of N2O is enhanced by an increase in
+available mineral nitrogen, which in turn increases nitrification and denitrification rates.
+Addition of fertiliser N, therefore, directly results in extra N2O formation.  Most studies
+on N2O emissions from agricultural soils investigate the difference in N2O production
+between fertilised and unfertilised fields. Emissions from unfertilised fields are considered
+background emissions.  However, actual background emissions from agricultural soils may
+be higher than historic natural emissions as a result of enhanced mineralisation of soil
+organic matter.  This is particularly observed in organic soils in both cold and warm
+climates over the globe (Bouwman and van der Hoek, 1991; Kroeze, 1994).  Background
+emissions may also be lower than historic emissions due to depletion of soil organic
+matter (Groffman et al., 1993).
+O V E R V I E W  O F  S O U R C E S
+Introduction
+The following sources  and sink of N2O  can be distinguished.
+• Synthetic fertilisers;
+• Animal excreta nitrogen used as fertiliser;
+• Biological nitrogen fixation;
+• Crop residue and sewage sludge application;
+• Glasshouse farming;
+• Cultivation of high organic content soils;
+• Soil sink for N2O.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.89
+All of these N2O sources are included in the methodology, except for sewage sludge
+application and the soil sink for N2O.  These sources and sinks are not estimated because
+emissions are negligible or data are insufficient.
+Synthetic fertilisers
+Synthetic fertilisers are an important source of N2O.  The amount of synthetic fertiliser
+nitrogen applied to agricultural fields world-wide is well documented in the FAO database
+(FAO Annual Fertiliser Yearbook).  Studies on fertiliser-induced N2O emissions have
+been revised by Bouwman (1994,1995), Cole et al. (1995), Mosier (1994) and Mosier et
+al. (1995a;b).  Conversion factors used by Cole et al. (1995) and Mosier et al. (1995b) are
+recommended.  This recommendation is based on discussions conducted during the
+preparation of the Cole et al. (1995) document and from Bouwman (1994) who
+estimated that 0.0125 ± 0.01 of the applied nitrogen was directly emitted as N2O (see
+Table 4-18).  This range encompasses more than 90 per cent of the published field
+emission values summarised in Bouwman (1994).  Note that most of the information in
+Bouwman's summary is derived from field studies conducted in temperate regions of the
+world since few annual flux measurements have been made in tropical agricultural
+systems.
+TABLE 4-18
+DEFAULT EMISSION FACTORS FOR DIRECT EMISSIONS OF N2O
+EF1 (fraction of N-input, kg N2O-N/kg N)
+0.0125 (0.0025-0.0225)a
+EF2 (kg N2O-N/ha/yr)
+5 temperate and 10 tropical  (2-15) a
+a Indicates range
+Animal excreta nitrogen used as fertiliser
+Although the amount of nitrogen used as fertiliser from animal excreta is more uncertain
+than the amount of synthetic fertiliser used, estimates can be made, based on animal
+population and agricultural practices, as shown in Section 4.5.3 of this Chapter (Table B-1,
+Appendix B).  To account for the loss of fertiliser from NH3 volatilisation and emission of
+nitric oxide (NO) through nitrification after fertiliser is applied to fields, NH3
+volatilisation and NO emission factors are needed.  Even though climate, soil, fertiliser
+placement and type, and other factors influence NH3 volatilisation and NOx emissions, a
+default emission factor of 0.1 (kg NH3–N + NOx–N emitted/kg N applied) can be used
+for synthetic fertilisers and 0.2 (kg NH3–N + NOx–N emitted/kg N applied) for animal
+waste fertiliser (Table 4-19) (0.2 is used for animal waste because of the potentially larger
+NH3 volatilisation; see Section 4.5.4).  The amount of nitrogen from these sources
+available for conversion to N2O is therefore equal to 90 per cent of the synthetic
+fertiliser nitrogen applied and 80 per cent of the animal waste nitrogen applied (Schepers
+and Mosier, 1991).
+Biological nitrogen fixation
+Although the amount of nitrogen fixed by biological nitrogen fixation in agricultural
+systems can be estimated, the N2O conversion coefficient is even less certain.  Biological
+nitrogen fixation (BNF) supplies globally some 90 to 140 Tg N/yr to agricultural systems
+(Peoples et al., 1995).  Although more verification of these figures is necessary, all
+indications are that BNF contributes more nitrogen for plant growth than the total
+amount of synthetic nitrogen fertilisers applied to crops each year (Danso, 1995).  The
+IPCC Guidelines (1995) mention equal rates.  On average, BNF supplies 50-60 per cent of
+AGRICULTURE
+4.90
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+the nitrogen harvested in grain legumes, 55-60 per cent of the nitrogen in nitrogen fixing
+trees and 70-80 per cent of the nitrogen accumulated by pasture legumes (Danso, 1995).
+Cultivation of grain legumes, however, often results in net soil nitrogen depletion.
+In the tropics and subtropics, the use of Azolla (a genus of aquatic ferns which contains
+an N2-fixing cyanobacterium) is widespread.  Azolla fixes 20-25 kg N/ha (Kumarasinghe
+and Eskew, 1991) which is released upon decomposition.  This nitrogen serves to fertilise
+an associated crop and eventually to stimulate N2O formation.
+Galbally et al. (1992) and Bouwman and Sombroek (1990) indicate that legumes may
+contribute to N2O emission in a number of ways.  Atmospheric N2 fixed by legumes can
+be nitrified and denitrified in the same way as fertiliser N, thus providing a source of
+N2O.  Additionally, symbiotically living Rhizobia in root nodules are able to denitrify and
+produce N2O (O'Hara and Daniel, 1985).  Galbally et al. (1992) suggest an emission rate
+of 4 kg N/ha/yr from improved pastures, and Duxbury et al. (1982) suggest that legumes
+can increase N2O emissions from pastures by a factor of 2 or 3.  More recently Carran
+et al. (1995) found annual N2O emissions ranging from 0.5 to 5 kg N2O–N depending
+upon the relative fertility of the sampling location.  In old and young rye grass/clover
+pastures Muller (personal communication) observed N2O emissions of 0.7 and 0.3 kg
+N/ha/yr, respectively.
+The absolute amount of nitrogen fixed by a crop is also very uncertain (Peoples et al.,
+1995.).  Because of this uncertainty and the paucity of country data on N-fixing crops, it is
+difficult to assign a conversion factor for N2O emissions derived from nitrogen fixation.
+Total nitrogen input (FBN, Equation 1) is estimated by assuming that total crop biomass is
+about twice the mass of edible crop (FAO, 1990b), and a certain nitrogen content of
+nitrogen fixing crop (FracNCRBF, Table 4-19).  A residue/crop ratio of 1 is assumed.  For
+specific crops, ratios can be obtained from Table 4-17.  This crop production is defined in
+FAO crop data bases as pulses and soybeans.  The N-fixation contribution does not
+include N2O produced in legume pastures.  This N2O production is at least partially
+accounted for in emissions from pastures that are being grazed (Section 4.5.3).  Australia
+and New Zealand, for example, contain large areas of pasture land that includes legumes
+as part of the pastoral system.  Little data are available for other parts of the globe
+(Mosier et al., 1995b).
+Crop residue and Sewage sludge application
+There is only limited information concerning re-utilisation of nitrogen from crop residues
+and nitrogen from sewage sludge applied to agricultural lands.  Although the amount of
+nitrogen that recycles into agricultural fields through these mechanisms may add 25-100
+Tg of N/yr of additional nitrogen into agricultural soils (mainly from crop residues) the
+amount converted to N2O is not known.  To account for the N2O in the inventory
+budget the emission factor for fertilisers is used as default and the amount of nitrogen re-
+entering cropped fields through crop residues is calculated from the FAO crop
+production data.  Because no appropriate estimates of sewage sludge nitrogen used as
+fertiliser were found, this nitrogen input is not discussed further (FAO, 1978-1981).
+Nitrous oxide emissions associated with crop residue decomposition are calculated here
+by estimating the amount of nitrogen entering soils as crop residue (FCR).  The amount of
+nitrogen entering the crop residue pool is calculated from crop production data.  Since
+FAO data that can be used for this purpose only represent the edible portion of the
+crop, these must be roughly doubled to estimate total crop biomass.  We then can
+assume a nitrogen percentage (FracNCRBF and FracNCR0; Table 4-19) to convert from kg
+dry biomass/yr to kg N/yr in crops.  Some countries may have sufficient information to
+define the nitrogen content of crop biomass more precisely.  As a default we suggest
+distinguishing between N-fixing crops (pulses and soybeans) and non-N-fixing crops.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.91
+Some of the crop residues is removed from the field as crop (approximately 45 per cent),
+and some may be burned (approximately 25 per cent of the remaining residue in
+developing countries), or fed to animals.
+Glasshouse farming
+N-fertiliser application to glasshouse-grown crops are typically high and nitrogen not
+recovered in the crops is frequently low (Postma et al, 1994).  The available data are
+limited in scope, but three sets of studies indicate that N2O emissions from glasshouse
+crops may be relatively small.  Postma et al. (1994) quantified NH3 and N2O emissions
+from glasshouse cultivation of lettuce on a sandbed and found that NH3 emissions and
+N2O emitted directly or in drainage water totalled less than 0.01 kg N/kg of nitrogen
+applied.  Daum (personal communication, 1995) measured N2O emissions from soil-less
+culture cucumbers and found that N-loss rates as N2O ranged between 0.004 and 0.009
+kg N/kg of nitrogen input into the culture system.  Pollaris (1994) measured N2O
+emission in a glasshouse cultivation of tomato and lettuce and found respectively 0.007
+and 0.014 kg of each kg of applied nitrogen emitted as N2O.  The importance of another
+factor, N2O emission during steam disinfection of glasshouse soils, is uncertain.  Postma
+(personal communication, 1995) found that 2-25 kg N2O-N/ha were lost during 10-hours
+following soil steaming.  The extent of glasshouses to which this practice is applied is not
+known.  Overall, these data suggest that N2O emissions from glasshouse agriculture do
+not need to be included separately in N2O emission inventories but should be included
+only in the total fertiliser nitrogen consumed within each country.  Emissions from
+glasshouse agriculture is, therefore, not discussed further.
+Cultivation of high organic content soils
+Large N2O emissions occur as a result of cultivation of organic soils (Histosols) due to
+enhanced mineralisation of old, N-rich organic matter (Guthrie and Duxbury, 1978;
+Klemedtsson, personal communication, 1995).  The rate of N-mineralisation is
+determined by the N-quality of the Histosol, management practices and climatic
+conditions.  The range for enhanced emissions of N2O due to cultivation is estimated to
+be 2-15 kg N2O-N/ha/yr of cultivated Histosol.  Default emission values of 5 and 10 kg
+N2O-N/ha/yr are suggested for temperate and boreal, and tropical regions, respectively
+(Table 4-18).  If better country values are available they should be used.
+Soil sink for N2O
+Aerobic soils are typically sources for N2O, but small uptake rates have been observed in
+isolated instances in dry soils (Duxbury and Mosier, 1993) and in wet grass pastures
+(Ryden, 1981; 1983).  In a seasonally burned “cerrado’ in Brazil, Nobre (1994) observed
+occasional small but inconsistent consumption rates and concluded that this sink was very
+small in these soils.  Anaerobic soils have a large potential for reducing N2O to N2
+(Erich et al., 1984), since the major product of denitrification in soils is usually N2 rather
+than N2O.  However, no large, constant N2O uptake has been reported, and flooded rice
+fields (Parashar, 1991), for example, generally show very small emissions, depending upon
+the time of cropping season (Minami and Fukushi, 1984).  Apparently slow rates of
+dissolution and transport of atmospheric N2O in wet or flooded soils prevent this
+process from being a significant regulator of atmospheric N2O.  Until additional
+information is available to indicate that soil uptake, in aerobic or flooded soils, is
+important, soil uptake of atmospheric N2O will not be included in the N2O budget for
+agricultural systems.
+AGRICULTURE
+4.92
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+M E T H O D O L O G Y  F O R  E S T I M A T I N G  D I R E C T  N 2 O
+E M I S S I O N S  F R O M  A G R I C U L T U R A L  F I E L D S .
+The Revised IPCC 1996 Methodology for assessing direct N2O emissions from agricultural
+fields includes consideration of synthetic fertiliser (FSN), nitrogen from animal waste
+(FAW), enhanced N2O production due to biological N-fixation (FBN), nitrogen from crop
+residue mineralisation (FCR) and soil nitrogen mineralisation due to cultivation of
+Histosols (FOS).  For futher information see: Bouwman (1994, 1995); Mosier (1994);
+Mosier et al. (1995a;b).
+In this estimate, the total direct annual N2O emission is:
+EQUATION 1
+N2ODIRECT = [(FSN + FAW + FBN + FCR) x EF1] + FOS x EF2
+where:
+N2ODIRECT
+=
+direct N2O emissions from agricultural soils in country
+(kg N/yr);
+EF1   
+=
+emission factor for direct soil emissions
+(kg N2O-N/kg N input) (see Table 4-18);
+EF2
+=
+emission factor for organic soil mineralisation due to
+cultivation (kg N2O-N ha/yr) (see Table 4-18);
+FOS
+=
+area of cultivated organic soils within country
+(ha of histosols in FAO data base);
+FAW
+=
+manure nitrogen used as fertiliser in country, corrected for NH3
+and NOx emissions and excluding manure produced during grazing
+(kg N/yr);
+FBN
+=
+N fixed by N-fixing crops in country (kg N/yr);
+FCR
+=
+N in crop residues returned to soils in country (kg N/yr);
+FSN
+=
+synthetic nitrogen applied in country (kg N/yr);
+FSN
+=
+NFERT x (1-FracGASF);
+FAW
+=
+(Nex x (1-(FracFUEL + FracGRAZ + FracGASM));
+FBN
+=
+2 x CropBF x FracNCRBF;
+FCR
+=
+2 x [Crop0 x FracNCR0 + CropBF x FracNCRBF] x (1-FracR) x
+(I-FracBURN);
+and
+NFERT
+=
+synthetic fertiliser use in country (kg N/yr);
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.93
+FracGASF
+=
+fraction of synthetic fertiliser nitrogen applied to soils that
+volatilises as NH3 and NOx (kg NH3-N and NOx-N/kg of N
+input) (see Table 4-19);
+Nex
+=
+amount of nitrogen excreted by the livestock within a country (kg
+N/yr) (see Table 4-20);
+FracFUEL
+=
+fraction of livestock nitrogen excretion contained in excrements
+burned for fuel (kg N/kg N totally excreted)
+FracGRAZ
+=
+fraction of livestock nitrogen excreted and deposited onto soil
+during grazing (kg N/kg N excreted) country estimate;
+FracGASM
+=
+fraction of livestock nitrogen excretion that volatilises as NH3 and
+NOx (kg NH3-N and NOx-N/kg of N excreted) (see  Table 4-19);
+CropBF
+=
+seed yield of pulses + soybeans in country (kg dry biomass/yr);
+FracNCRBF
+=
+fraction of nitrogen in N-fixing crop (kg N/kg of dry biomass) (see
+Table 4-19);
+Crop0
+=
+production of all other (i.e., non-N fixing) crops in country (kg
+dry biomass/yr);
+FracNCR0
+=
+fraction of nitrogen in non-N-fixing crop (kg N/kg of dry biomass)
+(see Table 4-19);
+FracR
+=
+fraction of crop residue that is removed from the field as crop (kg
+N/kg crop-N) (see Table 4-19);
+FracBURN
+=
+fraction of crop residue that is burned rather than left on field
+(see Table 4-19).
+The input data needed for this methodology include synthetic fertiliser use (NFERT),
+manure-N used as fertiliser (FAW), edible crop production of N-fixing crops (CropBF) and
+non-N-fixing crops (Crop0), and area of cultivated organic soils (Histosols) in the country.
+The data for synthetic fertiliser use are available on a country basis in the FAO data base
+(e.g., FAO, 1990a) and the amount of nitrogen in animal waste applied to agricultural
+fields (FAW) is calculated from the number and type of animals within a country (see
+Section 4.5.3) and an in-country estimate of the percentage of nitrogen excreted by farm
+animals that is reapplied to the field.  Both synthetic fertiliser and manure used as
+fertiliser need to be corrected for the amount of NH3 volatilised and NOx emitted (10
+and 20 per cent of nitrogen applied, respectively) after the material is placed in or on the
+soil so that the same nitrogen atom is not counted again in Section 4.5.4.  The FAW data
+also need to be carefully evaluated for each country to be sure that animal waste used to
+fertilise crops and animal waste deposited on pastures while animals are grazing
+(accounted for in Section 4.5.3) are not double counted.  Crop production data for pulses
+and soybeans and non-N-fixing crops are listed in the FAO crop data base (FAO, 1990b).
+Residue remaining on the field may not always total 55 per cent of total crop biomass.  If
+more appropriate biomass and N content numbers are available within a country they
+should be used.  The area of histosol can be obtained from FAO Databases
+(e.g., FAO, 1991).
+AGRICULTURE
+4.94
+Re v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 4-19
+DEFAULT VALUES FOR PARAMETERS
+FracBURN
+0.25 in developing and 0.10 or less in developed countries
+(kg N/kg crop-N);
+FracR
+0.45 kg N/kg crop-N;
+FracFUEL
+0.0 kg N/kg N excreteda;
+FracGASF
+0.1 kg NH3-N + NOx-N/kg of synthetic fertiliser N applied;
+FracGASM
+0.2 kg NH3-N + NOx-N/kg of N excreted by livestock;
+FracGRAZ
+Table 4-21, Column Pasture range and Paddock a;
+FracNCRBF
+0.03 kg N/kg of dry biomass;
+FracNCR0
+0.015 kg N/kg of dry biomass.
+a Countries are recommended to obtain country specific data.
+4 . 5 . 3  
+D i r e c t  s o i l  e m i s s i o n s  o f  N 2 O  f r o m  a n i m a l
+p r o d u c t i o n  ( i n c l u d i n g  s t a b l e  e m i s s i o n s  t o
+b e  r e p o r t e d  u n d e r  M a n u r e  M a n a g e m e n t )
+O V E R V I E W  O F  S O U R C E S
+Recent studies (e.g., Bouwman, 1995; Jarvis and Pain, 1994; Flessa et al., submitted; Mosier
+et al., 1995a;b) indicate that emissions from animal wastes can be significant.  There are
+three potential sources in animal production, (a) animals themselves, (b) animal wastes
+during storage and treatment, and (c) dung and urine deposited on the soil by grazing
+animals.  Although N2O emissions from animals are described, they are not accounted for
+here as these are minor sources on a global scale and because such emissions are not a
+source of N2O emissions from soil.  The second source includes possible losses during
+spreading operations.  Emissions from manure stored in animal waste management
+systems (i.e., before it is added to soils), however, must be reported under Manure
+Management (Section 4.2).  The final source, from grazing animals, is included  in the
+agricultural soils because the dung and urine are considered as fertilisers.
+A)
+ N2O from animals
+Animals themselves may be very small sources of N2O.  Animal fodders contain 10 to 40
+g of nitrogen (N)/kg dry matter.  The greater part of this nitrogen is organically bound,
+but as total nitrogen content increases so does the nitrate (NO
+-
+3) content, generally.
+Nitrate contents in fodders generally range from 1-10 g/kg dry matter (Spoelstra, 1985).
+Upon passage through the digestive track of the animal, nitrate is reduced via
+dissimilatory nitrate reduction to NH3/NH4
++.  The nitrate reduction reaction may release
+small amounts of N2O in the gut (Kaspar and Tiedje, 1981), which may escape to the
+atmosphere during rumination.  Though this possible route of N2O formation has been
+known for over 10 years, quantitative data in terms of N2O release are still lacking to-
+date.  The total amount of N2O released by cattle is probably very small, because the gut
+is highly anoxic and this will favour the formation of NH3/NH4
++ (Tiedje, 1988).  Direct
+losses from animals themselves are likely to be very small and are therefore not discussed
+further.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.95
+B)
+N2O emissions from animal waste management systems
+The proportion of total nitrogen intake that is excreted and partitioned between urine
+and faeces is dependent on the type of animal, the intake of dry matter, and the nitrogen
+concentration of the diet (Whitehead, 1970).  The retention of nitrogen in animal
+products, i.e., milk, meat, wool and eggs, ranges from about 5 to 20 per cent of the total
+nitrogen intake, generally.  The remainder is excreted via dung and urine.  For sheep and
+cattle, faecal excretion is usually about 8g/N/kg dry matter consumed, regardless of the
+nitrogen content of the feed (Barrow and Lambourne, 1962).  The remainder of the
+nitrogen is excreted in the urine and as the nitrogen content of the diet increases, so
+does the proportion of nitrogen in the urine.  In animal production systems, where animal
+intake of nitrogen is high, more than half of the nitrogen is excreted as urine.  For
+instance, sheep grazing grass/clover pastures in New Zealand have 70-75 per cent of
+excreted nitrogen in the urine (Haynes and Williams, 1993), whereas dairy cows in the
+Netherlands excrete 60-65 per cent of nitrogen in urine (Van Vuuren and Meijs, 1987).
+There are small amounts of mineral nitrogen in faeces but the bulk of the nitrogen is in
+organic form.  About 20-25 per cent of faecal nitrogen is water soluble, 15-25 per cent is
+undigested dietary nitrogen and the remaining 50-65 per cent is present in bacterial cells
+(Haynes and Williams, 1993).  The organically bound nitrogen in faeces must be
+mineralised to NH3/NH4
++, before it can be the substrate of nitrifiers and denitrifiers and
+hence, a source of N2O.  Mineralisation of the water soluble organic nitrogen compounds
+and parts of the organic nitrogen compounds from bacterial cells is rapid, generally,
+leading to an increase in the amount of NH3/NH4
++ in animal wastes during storage.
+The concentration of nitrogen in urine varies widely because of factors such as nitrogen
+content in the diet and consumption of water.  Typically over 70 per cent of the nitrogen
+in urine is present as urea and the rest consists of amino acids and peptides.  Excretions
+of poultry contains uric acid as dominant nitrogen compound.  The hydrolysis of both
+urea and uric acid in urine patches to NH3/NH4
++ is very rapid, both in the pasture and in
+animal housings.  Fresh urine and dung contain no nitrate; all nitrogen in wastes is in
+reduced forms.
+Production of N2O during storage and treatment of animal wastes can occur via
+combined nitrification-denitrification of ammoniacal nitrogen contained in the wastes.
+The amount released depends on the system and duration of waste management.  As
+fresh dung and slurry is highly anoxic and well-buffered with near neutral pH, one would
+expect N2O production to increase with increasing aeration.  Aeration initiates the
+nitrification-denitrification reactions, and hence makes release of N2O possible.
+Unfortunately, there is not enough quantitative data to derive a relationship between the
+degree of aeration and N2O emission from slurry during storage and treatment.
+Losses of N2O from cattle slurry during storing for up to 6 months, with two minutes of
+gentle mixing twice a week, were below detection limit (10-4 kg N2O N/kg nitrogen in
+slurry during 6 months (Oenema and Velthof, 1993).  N2O losses from a natural vented
+cubicle housing with 60 dairy cows and a concrete floor with frequent removal of wastes
+with a scarper system were also below the detection limit (2. 10-4 kg N per kg nitrogen
+excreted) (Velthof et al., submitted a;b).
+Heinemeyer (unpublished results) measured N2O losses from different housing systems
+for pigs.  He obtained the following preliminary, results from the various housing systems:
+6 10-4 -11 10-4 kg N2O-N/kg nitrogen excreted for full and half slit floor, and reduced and
+deep litter; 7.4 10-3 kg N2O-N/kg nitrogen excreted for deep litter combined with
+compost; and 3.3 10-3 kg N2O-N/kg nitrogen excreted for manure piles.  The slightly
+larger losses from the deep litter/compost and manure pile could be due to the effects of
+aeration.  Groenestein et al. (1993) reported that more than 0.15 kg N/kg nitrogen in pig

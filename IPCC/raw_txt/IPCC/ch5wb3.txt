@@ -1,0 +1,777 @@
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.41
+MODULE
+LAND USE AND FORESTRY
+SUBMODULE
+CHANGES IN FOREST AND OTHER
+WOODY BIOMASS STOCKS
+WORKSHEET
+5-1
+SHEET
+3 OF 3
+STEP 3
+STEP 4
+N
+Carbon Fraction
+O
+Annual Carbon
+Release
+(kt C)
+P
+Net Annual
+Carbon Uptake
+(+) or Release (-)
+(kt C)
+Q
+Convert to CO2
+Annual Emission (-
+) or Removal (+)
+(Gg CO2)
+O = (M x N)
+P = (E - O)
+Q =
+ (P x [44/12])
+LAND USE CHANGE & FORESTRY
+5.42
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE FOREST AND GRASSLAND CONVERSION - CO2 FROM BIOMASS
+WORKSHEET 5-2
+SHEET 1 OF 5 BIOMASS CLEARED
+STEP 1
+Vegetation types
+A
+Area
+Converted
+Annually
+(kha)
+B
+Biomass Before
+Conversion
+(t dm/ha)
+C
+Biomass After
+Conversion
+(t dm/ha)
+D
+Net Change in
+Biomass Density
+(t dm/ha)
+E
+Annual Loss of
+Biomass
+(kt dm)
+D = (B - C)
+E = (A x D)
+Tropical
+Wet/Very
+Moist
+Moist, short
+dry season
+Moist, long dry
+season
+Dry
+Montane
+Moist
+Montane Dry
+Tropical Savanna/Grasslands
+Temperate
+Coniferous
+Broadleaf
+Grasslands
+Boreal
+Mixed
+Broadleaf/
+Coniferous
+Coniferous
+Forest-tundra
+Grasslands/Tundra
+Other
+Subtotals
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.43
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE FOREST AND GRASSLAND CONVERSION - CO2 FROM BIOMASS
+WORKSHEET 5-2
+SHEET 2 OF 5 CARBON RELEASED BY ON-SITE BURNING
+STEP 2
+Vegegation types
+F
+Fraction of
+Biomass
+Burned on
+Site
+G
+Quantity of
+Biomass
+Burned on
+Site
+(kt dm)
+H
+Fraction of
+Biomass
+Oxidised
+on Site
+I
+Quantity of
+Biomass
+Oxidised
+on Site
+(kt dm)
+J
+Carbon
+Fraction of
+Above-
+ground
+Biomass
+(burned on
+site)
+K
+Quantity of
+Carbon
+Released
+(from
+biomass
+burned)
+(kt C)
+G = (E x F)
+I = (G x H)
+K = (I x J)
+Tropical
+Wet/Very Moist
+Moist, short dry season
+Moist, long dry season
+Dry
+Montane Moist
+Montane Dry
+Tropical Savanna/Grasslands
+Temperate
+Coniferous
+Broadleaf
+Grasslands
+Boreal
+Mixed
+Broadleaf/Coniferous
+Coniferous
+Forest-tundra
+Grasslands/Tundra
+Other
+Subtotal
+LAND USE CHANGE & FORESTRY
+5.44
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE FOREST AND GRASSLAND CONVERSION - CO2 FROM BIOMASS
+WORKSHEET 5-2
+SHEET 3 OF 5  CARBON RELEASED BY OFF-SITE BURNING
+STEP 3
+STEP 4
+Vegetation types
+L
+Fraction of
+Biomass
+Burned off
+Site
+M
+Quantity of
+Biomass
+Burned off
+Site
+(kt dm)
+N
+Fraction of
+Biomass
+Oxidised off
+Site
+O
+Quantity of
+Biomass
+Oxidised off
+Site
+(kt dm)
+P
+Carbon
+Fraction of
+Above-
+ground
+Biomass
+(burned off
+site)
+Q
+Quantity of
+Carbon
+Released
+(from
+biomass
+burned off
+site
+ (kt C)
+R
+Total Carbon
+Released
+(from on and
+off site
+burning)
+(kt C)
+M = (E x L)
+O = (M x N)
+Q = (O x P)
+R = (K + Q)
+Tropical
+Wet/Very
+Moist
+Moist, short
+dry season
+Moist, long
+dry season
+Dry
+Montane
+Moist
+Montane Dry
+Tropical
+Savanna/Grasslands
+Temperate Coniferous
+Broadleaf
+Grasslands
+Boreal
+Mixed
+Broadleaf/
+Coniferous
+Coniferous
+Forest-tundra
+Grasslands/Tundra
+Other
+Subtotals
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.45
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE FOREST AND GRASSLAND CONVERSION - CO2 FROM BIOMASS
+WORKSHEET 5-2
+SHEET 4 OF 5  CARBON RELEASED BY DECAY OF BIOMASS
+STEP 5
+Vegetation types
+A
+Average Area
+Converted
+(10 Year
+Average)
+(kha)
+B
+Biomass
+Before
+Conversion
+(t dm/ha)
+C
+Biomass
+After
+Conversion
+(t dm/ha)
+D
+Net Change
+in Biomass
+Density
+ (t dm/ha)
+E
+Average
+Annual
+Loss of
+Biomass
+ (kt dm)
+F
+Fraction
+Left to
+Decay
+G
+Quantity
+of Biomass
+Left to
+Decay
+ (kt dm)
+H
+Carbon
+Fraction in
+Above-
+ground
+Biomass
+I
+Carbon
+Released
+from Decay
+of Above-
+ground
+Biomass
+ (kt C)
+D = (B-C)
+E = (A x
+D)
+G = (E x F)
+I = (G x H)
+Tropical
+Wet/Very
+Moist
+Moist, short
+dry season
+Moist, long
+dry season
+Dry
+Montane
+Moist
+Montane
+Dry
+Tropical
+Savanna/Grasslands
+Temperate
+Coniferous
+Broadleaf
+Grasslands
+Boreal
+Mixed
+Broadleaf/
+Coniferous
+Coniferous
+Forest-
+tundra
+Grasslands/Tundra
+Other
+Subtotal
+LAND USE CHANGE & FORESTRY
+5.46
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE FOREST AND GRASSLAND CONVERSION - CO2 FROM BIOMASS
+WORKSHEET 5-2
+SHEET 5 OF 5 SUMMARY AND CONVERSION TO CO2
+STEP 6
+A
+Immediate Release
+From Burning
+(kt C)
+B
+Delayed Emissions
+From Decay
+(kt C)
+(10-year average)
+C
+Total Annual Carbon
+Release
+(kt C)
+D
+Total Annual CO2
+Release
+(Gg CO2)
+C = A + B
+D = C x (44/12)
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.47
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE ON-SITE BURNING OF FORESTS - NON-CO2 TRACE GASES FROM
+BURNING BIOMASS
+WORKSHEET 5-3
+SHEET 1 OF 1  NON-CO2 GAS EMISSIONS
+STEP 1
+STEP 2
+A
+Quantity of Carbon
+Released
+(kt C)
+B
+Nitrogen-
+Carbon
+Ratio
+C
+Total
+Nitrogen
+Released
+(kt N)
+D
+Trace Gas
+Emissions
+Ratios
+E
+Trace Gas
+Emissions
+(kt C)
+F
+Conversion
+Ratio
+G
+Trace Gas
+Emissions from
+Burning of
+Cleared
+Forests
+(Gg CH4, CO)
+(From column K, sheet
+2 of Worksheet 5-2)
+C = (A x B)
+E = (A x D)
+G = (E x F)
+CH4
+16/12
+CO
+28/12
+kt N
+Gg N2O, NOx
+E = (C x
+D)
+G = (E x F)
+N2O
+44/28
+NOx
+46/14
+LAND USE CHANGE & FORESTRY
+5.48
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE ABANDONMENT OF MANAGED LANDS
+WORKSHEET 5-4
+SHEET 1 OF 3 CARBON UPTAKE BY ABOVEGROUND REGROWTH - FIRST 20
+YEARS
+STEP 1
+Vegetation types
+A
+20-Year Total
+Area
+Abandoned
+and
+Regrowing
+(kha)
+B
+Annual Rate of
+Aboveground
+Biomass
+Growth
+(t dm/ha)
+C
+Annual
+Aboveground
+Biomass
+Growth
+(kt dm)
+D
+Carbon
+Fraction of
+Aboveground
+Biomass
+E
+Annual
+Carbon
+Uptake in
+Aboveground
+Biomass
+(kt C)
+C = (A x B)
+E = (C x D)
+Tropical
+Wet/Very Moist
+Moist, short dry season
+Moist, long dry season
+Dry
+Montane Moist
+Montane Dry
+Tropical Savanna/Grasslands
+Temperate
+Coniferous
+Broadleaf
+Grasslands
+Boreal
+Mixed
+Broadleaf/Coniferous
+Coniferous
+Forest tundra
+Grasslands/Tundra
+Other
+Subtotal
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.49
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE ABANDONMENT OF MANAGED LANDS
+WORKSHEET 5-4
+SHEET 2 OF 3 CARBON UPTAKE BY ABOVEGROUND REGROWTH - > 20 YEARS
+STEP 2
+Vegetation types
+G
+Total Area
+Abandoned
+for more
+than Twenty
+Years
+(kha)
+H
+Annual Rate of
+Aboveground
+Biomass
+Growth
+(t dm/ha)
+I
+Annual
+Aboveground
+Biomass
+Growth
+(kt dm)
+J
+Carbon
+Fraction of
+Above
+ground
+Biomass
+K
+Annual
+Carbon
+Uptake in
+Aboveground
+Biomass
+(kt C)
+I = (J x H)
+K = (I x J)
+Tropical
+Wet/Very Moist
+Moist, short dry season
+Moist, long dry season
+Dry
+Montane Moist
+Montane Dry
+Tropical Savanna/Grasslands
+Temperate
+Coniferous
+Broadleaf
+Grasslands
+Boreal
+Mixed
+Broadleaf/Coniferous
+Coniferous
+Forest tundra
+Grasslands/Tundra
+Other
+Subtotal
+LAND USE CHANGE & FORESTRY
+5.50
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE ABANDONMENT OF MANAGED LANDS
+WORKSHEET 5-4
+SHEET 3 OF 3  TOTAL CO2 REMOVALS FROM ABANDONED LANDS
+STEP 3
+L
+Total Carbon Uptake from Abandoned Lands
+(kt C)
+M
+Total Carbon Dioxide Uptake
+(Gg CO2)
+L = (E + K)
+M = (L x (44/12))
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.51
+MODULE
+LAND-USE CHANGE AND FORESTRY
+SUBMODULE
+CHANGE IN SOIL CARBON FOR MINERAL SOILS
+WORKSHEET
+5-5
+SHEET
+1 OF 4
+STEPS 1 AND 2
+STEP 3
+A
+Land-use/
+Management
+Systems
+B
+Soil type
+C
+Soil
+Carbon
+(t)
+(Mg C/ha)
+D
+Land Area
+ (t-20)
+ (Mha)
+E
+Land Area
+ (t)
+ (Mha)
+F
+Soil Carbon
+ (t-20)
+ (Tg)
+G
+ Soil
+Carbon
+(t)
+(Tg)
+H
+Net change in
+Soil Carbon in
+Mineral Soils
+ (Tg per 20 yr)
+F = (C x D)
+G = (C x E)
+H = (G - F)
+High
+activity
+soils
+Low
+activity
+soils
+Sandy
+Volcanic
+Wetland
+(Aquic)
+Totals
+Note that land areas in columns D and E, summed over all land-use/management systems used in the inventory should be equal.  Total
+land areas within each soil type, across all land-use systems, should also remain constant over the inventory period.
+LAND USE CHANGE & FORESTRY
+5.52
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE LAND-USE CHANGE AND FORESTRY
+SUBMODULE SOIL CARBON FOR AGRICULTURALLY IMPACTED LANDS
+WORKSHEET 5-5A (SUPPLEMENTAL)
+SHEET 1OF 1
+A
+Land-use/
+Management
+Systems
+B
+Soil type
+C
+Soil Carbon
+under Native
+Vegetation
+ (Mg C/ha)
+D
+ Base Factor
+E
+Tillage Factor
+F
+Input Factors
+G
+ Soil Carbon in
+Agriculturally Impacted
+Lands
+(Mg C/ha)
+E = (C x D x E x F)
+High Activity
+Soils
+Low Activity
+Soils
+Sandy
+Volcanic
+Wetland
+(Aquic)
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.53
+MODULE
+LAND-USE CHANGE AND FORESTRY
+SUBMODULE
+CARBON EMISSIONS FROM INTENSIVELY-MANAGED ORGANIC SOILS
+WORKSHEET
+5-5
+SHEET
+2 OF 4
+STEP 4
+Agricultural Use of
+Organic Soils
+A
+Land Area
+(ha)
+B
+Annual Loss Rate
+(MgC/ha/yr)
+ (Default)
+C
+Net Carbon Loss from Organic Soils
+(Mg/yr)
+C = (A x B)
+Cool temperate
+Upland crops
+Pasture/Forest
+Warm temperate
+Upland crops
+Pasture/Forest
+Tropical
+Upland crops
+Pasture/Forest
+Total
+MODULE
+LAND-USE CHANGE AND FORESTRY
+SUBMODULE
+CARBON EMISSIONS FROM LIMING OF AGRICULTURAL SOILS
+WORKSHEET
+5-5
+SHEET
+3 OF 4
+STEP 5
+Type of lime
+A
+Total Annual
+Amount of Lime
+ (Mg)
+B
+Carbon
+Conversion Factor
+C
+Carbon Emissions from Liming
+(Mg C)
+C = (A x B)
+Limestone Ca(CO3)
+0.120
+Dolomite CaMg(CO3)2
+0.122
+Total
+LAND USE CHANGE & FORESTRY
+5.54
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+LAND-USE CHANGE AND FORESTRY
+SUBMODULE
+CALCULATION OF TOTAL CO2-C EMISSIONS FROM AGRICULTURALLY-
+IMPACTED SOILS
+WORKSHEET
+5-5
+SHEET
+4 OF 4
+STEP 6
+Source
+A
+Worksheet
+values
+B
+Unit
+Conversion
+Factor
+C
+Total Annual
+Carbon
+Emissions
+(Gg)
+D
+Convert to Total
+Annual CO2
+Emission
+ (Gg/yr)
+C = (A x B)
+D= C x (44/12)
+Total Net Change in Soil
+Carbon in Mineral Soils
+-50
+Total Net Carbon Loss from
+Organic Soils
+0.001
+Carbon Emissions from Liming
+0.001
+Total

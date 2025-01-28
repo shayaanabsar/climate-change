@@ -1,0 +1,1221 @@
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.1 
+ANNEX 1 
+MAPPING TABLES 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+Contents 
+Annex 1  
+Relating 2019 Refinement to the 2006 IPCC Guidelines .............................................................. A1.3 
+Chapter 2 Waste generation, composition and management data........................................................... A1.3 
+Chapter 3 Solid waste disposal ............................................................................................................... A1.5 
+Chapter 5 Incineration and open burning of waste ................................................................................. A1.8 
+Chapter 6 Wastewater treatment and discharge .................................................................................... A1.10 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.3 
+Annex 1 Relating 2019 Refinement to the 2006 IPCC Guidelines 
+This annex provides a road map for relating sections, equations, tables, figures and boxes in the 2019 Refinement 
+to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.  
+Type of Refinement: U – Update, NG – New Guidance, NR – No Refinement, R – Removed 
+ 
+CHAPTER 2  WASTE GENERATION, COMPOSITION AND MANAGEMENT 
+DATA 
+This chapter presents an update of waste generation, composition and management data chapter of the 2006 
+IPCC Guidelines. These refinements provide updated default waste generation and treatment data for the year 
+2010 using UN Classification at country and regional level. The updated waste composition in line with the 2006 
+IPCC Guidelines are presented with the additional components of garden waste and nappies. Definition of 
+sludge and estimation of degradable organic carbon (DOC) values are clarified. Default values of carbon content, 
+nitrogen content and DOC of domestic and industrial sludge are presented. Guidance on DOC of sludge is also 
+provided. New Annex 2A.2 with default values of waste composition by country and regional average is 
+provided.  
+ 
+Sections  
+• 
+Additional introduction has been provided in the introduction part to explain the refinement of this chapter.   
+• 
+Updated regional default values of waste generation rate and their treatment presented in Section 2.2.1. 
+Guidance on estimation of waste generation rate is clarified.  
+• 
+Section 2.3.1 provides updated waste composition (in percentage) data. Guidance for countries without data 
+for nappies and garden and yard waste is provided. 
+• 
+Updated definition of sludge and default values of carbon content, nitrogen content and DOC of sludge from 
+specific industry and domestic sludge and their uncertainties are provided. Clarification on domestic sludge 
+in terms of treated sludge and untreated sludge including their default values are presented. 
+• 
+New Annex 2A.2 has been added to provide waste composition default values by country and regional 
+averages. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Introduction 
+U 
+2.1 
+2.1 
+Municipal Solid Waste (MSW):  Default data  
+U 
+2.2.1 
+2.2.1 
+Municipal Solid Waste (MSW):  Country specific data  
+NR 
+2.2.1 
+2.2.1 
+Municipal Solid Waste (MSW):  Data from waste 
+stream analysis 
+NR 
+2.2.1 
+2.2.1 
+Municipal Solid Waste (MSW) 
+U 
+2.3.1 
+2.3.1 
+Sludge  
+U/NG 
+2.3.2 
+2.3.2 
+Annex 2A.1 (Updated) MSW Generation and 
+Management Data – by country and regional averages 
+U 
+2A.1 
+2A.1 
+Annex 2A.2 (New) Waste Composition – by country 
+and regional averages  
+NG 
+- 
+2A.2  
+ 
+ 
+ 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+• 
+Table 2.1 has been updated to present waste generation rate and treatment data by regional defaults to the 
+most comparative year of 2010. New column of “Fraction of MSW open dumped” is added in the table to 
+reflect available data on MSW open dumped in some regions.   
+• 
+Table 2.3 (Updated) presents the update of waste composition by regional defaults with new components of 
+garden waste and nappies.    
+• 
+Table 2.4a (New) has been added to present default values and uncertainties of carbon content, nitrogen 
+content and DOC of domestic and industrial sludge and provides new default value for domestic sewage 
+treated sludge.   
+• 
+Table 2A.1 (Updated) presents waste generation and management data for some countries for which data 
+were available to update applicable data for the year 2010. List of countries are according to UN 
+classification by region. Table 2A.1 (Updated) also provides default values of regional averages derived 
+from countries in the region presented in Table 2A.1 (Updated). 
+• 
+Table 2A.2 (New) presents waste composition by country and region. Data on nappies, and garden and yard 
+waste are provided to reflect the up-to-date waste composition. 
+ 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+MSW generation and treatment data ‒ regional defaults  
+U 
+2.1 
+2.1 
+MSW composition data by percentage ‒regional 
+defaults  
+U 
+2.3 
+2.3 
+Default value and uncertainty of carbon content, 
+nitrogen content and DOC of domestic and industrial 
+sludge (percent of dry matter) 
+NG 
+- 
+2.4a 
+MSW generation and management data ‒ by country 
+and regional averages  
+U 
+2A.1 
+2A.1 
+Waste composition by country and regional averages 
+NG 
+- 
+2A.2 
+ 
+Boxes 
+ 
+• 
+Box in this chapter is not refined. 
+ 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Example of activity data collection for estimation of 
+emissions from solid waste treatment based on waste 
+stream analysis by waste type 
+NR 
+2.1 
+2.1 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.5 
+CHAPTER 3 SOLID WASTE DISPOSAL 
+This chapter presents an update of the Solid Waste Disposal chapter of the 2006 IPCC Guidelines. These 
+refinements provide, to the extent of current knowledge, new categories of SWDS including semi-aerobic 
+(managed poorly) and active aeration (well managed and poorly managed). MCF values for these new categories 
+are provided. Default data on fraction of DOCf by types of waste are updated. Guidance on estimation of DOC 
+lost with leachate from SWDS is provided. The refinement also provides the information on N2O from SWDS as 
+well as information on the estimation of CH4 emissions using measured data in the appendices. The IPCC Waste 
+Model has been updated accordingly to the refinement. 
+ 
+Sections 
+• 
+Section 3.2.1.1 provides information on aerobic management of SWDS including information on calculation 
+of MCF for new categories of aerobic management.  
+• 
+Section 3.2.3 provides additional information on DOCf including updated default values and their 
+uncertainties by different type waste (less, moderately and highly decomposable). Information on MCF 
+including default MCF values and definition for new categories of aerobic management as well as 
+information on effect of DOC leaching from SWDS are also provided.  
+• 
+Additional information of N2O emission from SWDS is provided in the Appendix 3A.1. 
+• 
+Information of estimation of CH4 emission from active aeration SWDS using locally available measured 
+data are provided in the Appendix 3A.2. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+First Order Decay 
+NG 
+3.2.1.1 
+3.2.1.1 
+Methane emissions 
+NR 
+3.2.1.1 
+3.2.1.1 
+Methane generation 
+NR 
+3.2.1.1 
+3.2.1.1 
+First order decay basics 
+NR 
+3.2.1.1 
+3.2.1.1 
+Simple FOD spreadsheet model 
+NR 
+3.2.1.1 
+3.2.1.1 
+CH4 generated from decomposable DDOCm 
+NR 
+3.2.1.1 
+3.2.1.1 
+Simple FOD Spreadsheet Model 
+NR 
+3.2.1.1 
+3.2.1.1 
+Modelling different geographical or climate regions 
+NR 
+3.2.1.1 
+3.2.1.1 
+Dealing with different waste categories 
+NR 
+3.2.1.1 
+3.2.1.1 
+Adjusting waste composition at generation to waste 
+composition at SWDS 
+NR 
+3.2.1.1 
+3.2.1.1 
+Open burning of Waste at SWDS 
+NR 
+3.2.1.1 
+3.2.1.1 
+Choice of emission factors and parameters: Degradable 
+organic carbon (DOC) 
+NR 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters: Fraction of 
+degradable organic carbon which decomposes (DOCf) 
+U/NG 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters: Methane 
+correction factor (MCF) 
+U/NG 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters:  Fraction of 
+CH4 in generated landfill gas (F) 
+NR 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters: Oxidation 
+factor (OX) 
+NR 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters: Half-life 
+NR 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters: Methane 
+recovery 
+NR 
+3.2.3 
+3.2.3 
+Choice of emission factors and parameters: Delay time 
+NR 
+3.2.3 
+3.2.3 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 
+Refinement 
+Section Number 
+Uncertainties associated with parameters 
+U 
+3.7.2.2. 
+3.7.2.2 
+Appendix 3A.1 Information on Nitrous Oxide Emission 
+from Solid Waste Disposal Site  
+NG 
+- 
+3A.1 
+Appendix 3A.2 Information on Estimation of CH4 
+Emission from Solid Waste Disposal Site Managed by 
+Active Aeration Using Locally Available Measured 
+Data 
+NG 
+- 
+3A.2 
+ 
+Equations 
+• 
+Equation 3Ap.1 was introduced to inform the estimation of CH4 emission from active aeration SWDS using 
+locally measured data.  
+ 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+CH4 emission from SWDS 
+NR 
+3.1 
+3.1 
+Decomposable DOC from waste disposal data 
+NR 
+3.2 
+3.2 
+Transformation from DDOCm to Lo 
+NR 
+3.3 
+3.3 
+DDOCm accumulated in SWDS at the end of   year T 
+NR 
+3.4 
+3.4 
+DDOCm decomposed at the end of year T 
+NR 
+3.5 
+3.5 
+CH4 generated from decayed DDOCm 
+NR 
+3.6 
+3.6 
+Estimates DOC using default carbon content values 
+NR 
+3.7 
+3.7 
+MCF for managed SWDS (active aeration) 
+NG 
+- 
+3Ap.1 
+ 
+Tables 
+• 
+Table 3.0 (New) provides DOCf for waste types with different degree of decomposition (less, moderately 
+and highly decomposable). 
+• 
+Table 3.1 (Updated) was introduced to update MCF by SWDS classification. New MCF values for managed 
+poorly semi-aerobic as well as managed well and managed poorly active aeration landfills are presented.   
+• 
+Table 3.5 (Updated) updates uncertainties associated with the default DOCf and MCF values. 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.7 
+ 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+Fraction 
+of 
+degradable 
+organic 
+carbon 
+which 
+decomposes (DOCf) for different waste types 
+NG 
+- 
+3.0 
+SWDS classification and Methane Correction Factors 
+(MCF) 
+U/NG 
+3.1 
+3.1 
+Oxidation factor (OX) for SWDS 
+NR 
+3.2 
+3.2 
+Recommended default methane generation rate (k) 
+values under Tier 1 
+NR 
+3.3 
+3.3 
+Recommended default half-life (t1/2) values (yr) under 
+Tier 1 
+NR 
+3.4 
+3.4 
+Estimates of uncertainties associated with the default 
+activity data and parameters in the FOD method for 
+CH4 emissions from SWDS 
+U 
+3.5 
+3.5 
+ 
+Boxes 
+• 
+Box 3.0a (New)provides definition of aerobic active management of SWDS and information on calculation 
+of MCF for different types of aerobic SWDS including managed poorly semi-aerobic, managed well active 
+aeration and managed poorly active aeration. 
+• 
+Box 3.0b (New) presents information on effect of DOC leachate from SWDS. 
+ 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+Information on calculation of MCF for new category of 
+aerobic management of SWDS (Managed poorly-semi-
+aerobic, Managed well-active aeration, Managed 
+poorly-active aeration)  
+NG 
+- 
+3.0a 
+Information on effect of DOC leaching from SWDS 
+NG 
+- 
+3.0b 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 5 INCINERATION AND OPEN BURNING OF WASTE 
+This chapter presents an update of Incineration and Open Burning of Waste chapter of the 2006 IPCC Guidelines. 
+These refinements present updated information on definition of thermal technology including pyrolysis, 
+gasification and plasma to guide understanding of thermal technology. The refinements provide, to the current 
+knowledge, CH4 and N2O emission factors by operation condition and technologies of specific plant. Guidance 
+on reporting of emission is also provided. The default value of oxidation factor in percent of carbon input of 
+MSW open burning is updated. To be consistent with updated information on sludge in Chapter 2, carbon 
+content of sewage sludge was also updated. 
+ 
+Sections 
+• 
+Section 5.1 provides definition of and information on pyrolysis, gasification and plasma technology.  
+• 
+Section 5.4.1.3 presents an updated oxidation factor of MSW open burning 
+• 
+Sections 5.4.2 and 5.4.3 provide default emission factors of CH4 and N2O for pyrolysis-melting and 
+gasification-melting for specific plant types. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Introduction  
+U/NG 
+5.1 
+5.1 
+Methodological issues 
+U 
+5.2 
+5.2 
+Choice of emission factor 
+NR 
+5.4 
+5.4 
+CO2 emission factors 
+U 
+5.4.1 
+5.4.1 
+Oxidation factor 
+U 
+5.4.1.3. 
+5.4.1.3 
+CH4 emission factor 
+U/NG 
+5.4.2 
+5.4.2 
+N2O emission factor  
+U/NG 
+5.4.3 
+5.4.3 
+ 
+Tables 
+• 
+Table 5.2 was updated to provide updated oxidation factor of MSW open burning and carbon content of 
+domestic sludge.  
+• 
+Table 5.3a (New) presents new default CH4 emission factor by wet weight of specific pyrolysis and 
+gasification plant.   
+• 
+Table 5.4a (New) presents new default N2O emission factor by wet weight of specific pyrolysis and 
+gasification plant. 
+• 
+ 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+Default data for CO2 emission factors for incineration 
+and open burning of waste  
+U 
+5.2 
+5.2 
+CH4 emission factors for incineration of MSW 
+NR 
+5.3 
+5.3 
+CH4 emission factors for pyrolysis-melting and 
+gasification-melting plant of MSW  
+NG 
+- 
+5.3a 
+N2O emission factors for incineration of MSW 
+NR 
+5.4 
+5.4 
+N2O emission factor for pyrolysis-melting and 
+gasification-melting plant of MSW  
+NG 
+- 
+5.4a 
+ 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.9 
+Boxes 
+• 
+ Box 5.0a (New) was introduced to present the basic information on pyrolysis including process and 
+emission. 
+• 
+Box 5.0b (New) was introduced to present the basic information on gasification including process and 
+emission.  
+• 
+Box 5.0c (New) was introduced to present the basic information on plasma technology including process 
+and emission 
+• 
+Box 5.2 (New) presents the information on CH4 emission from pyrolysis and gasification at laboratory scale 
+to inform dependency on some process factors including types of technology and operation condition related 
+to emission.  
+• 
+Box 5.3 (New) was introduced to guide the understanding of combined process. 
+ 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+Pyrolysis 
+NG 
+- 
+5.0a 
+Gasification 
+NG 
+- 
+5.0b 
+Plasma 
+NG 
+- 
+5.0c 
+Information of CH4 emission factors in laboratory scale  
+NG 
+- 
+5.2 
+Combined system  
+NG 
+- 
+5.3 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 6 WASTEWATER TREATMENT AND DISCHARGE 
+This chapter presents an update of the Wastewater Treatment and Discharge chapter of the 2006 IPCC 
+Guidelines. The refinements laid out in this chapter provide clarity over how to apply the 2006 IPCC Guidelines 
+and definitions of treatment systems presented and introduce new and improved default values and emission 
+factors based on further scientific research into the mechanisms associated with GHG emissions from 
+wastewater treatment (including sludge treatment that occurs within the WWTP). In addition, these refinements 
+present an updated section on N2O emissions to better address emissions from domestic wastewater, including 
+centralised treatment plants, and to include emissions from industrial wastewater.   
+Sections 
+• 
+New subsections have been added to the Introduction to provide a discussion of technical topics related to 
+new guidance presented in the chapter. 
+• 
+Sections that discuss CH4 emissions from domestic and industrial wastewater, as well as N2O emissions 
+from domestic wastewater have been updated to reflect the refinements presented throughout the chapter. 
+• 
+A new section, Section 6.4, has been added to provide new guidance on estimating N2O emissions from 
+industrial wastewater. 
+• 
+A series of annexes have been included to provide additional details related to new or revised emission 
+factors and default activity data. 
+• 
+An appendix has been added to provide a discussion of non-biogemic CO2 emissions from wastewater 
+treatment and discharge. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Introduction 
+U 
+6.1 
+6.1 
+Centralised treatment systems 
+NG 
+- 
+6.1.1 
+Decentralised treatment systems of domestic 
+wastewater (onsite sanitation) 
+NG 
+- 
+6.1.2 
+Emissions from receiving waters 
+NG 
+- 
+6.1.3 
+Changes compared to 1996 Guidelines and Good 
+Practice Guidance 
+U (only Section 
+number) 
+6.1.1 
+6.1.4 
+Changes compared to 2006 IPCC Guidelines 
+NG 
+- 
+6.1.5 
+Methodological issues 
+U 
+6.2.1 
+6.2.1 
+Choice of method (CH4 emissions from domestic 
+wastewater) 
+U, NG 
+6.2.2.1 
+6.2.2.1 
+Choice of emission factors (CH4 emissions from 
+domestic wastewater) 
+U 
+6.2.2.2 
+6.2.2.2 
+Choice of activity data (CH4 emissions from domestic 
+wastewater) 
+U, NG 
+6.2.2.3 
+6.2.2.3 
+Uncertainties (CH4 emissions from domestic 
+wastewater) 
+U 
+6.2.2.5 
+6.2.2.5 
+Choice of method (CH4 emissions from industrial 
+wastewater) 
+U 
+6.2.3.1 
+6.2.3.1 
+Choice of emission factors (CH4 emissions from 
+industrial wastewater) 
+U 
+6.2.3.2 
+6.2.3.2 
+Nitrous oxide emissions from domestic wastewater 
+U, NG 
+6.3 
+6.3 
+Methodological issues (N2O emissions from domestic 
+wastewater) 
+U, NG 
+6.3.1 
+6.3.1 
+Choice of method (N2O emissions from domestic 
+wastewater) 
+U, NG 
+6.3.1.1 
+6.3.1.1 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.11 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Choice of emission factors (N2O emissions from 
+domestic wastewater) 
+U, NG 
+6.3.1.2 
+6.3.1.2 
+Choice of activity data (N2O emissions from domestic 
+wastewater) 
+U, NG 
+6.3.1.3 
+6.3.1.3 
+Uncertainties (N2O emissions from domestic 
+wastewater) 
+U 
+6.3.3 
+6.3.3 
+Nitrous oxide emissions from industrial wastewater 
+NG 
+- 
+6.4 (and all 
+subsections) 
+Appendix 6A.1 Non-biogenic (fossil) CO2 emissions 
+from wastewater treatment and discharge 
+NG 
+- 
+6A.1 
+Annex 6A.1 Summary data for pit latrine use, no 
+sanitation facility, and groundwater use by country 
+U, NG 
+- 
+6A.1 
+Annex 6A.2 Derivation of the maximum CH4 
+producing potential (BO) for domestic wastewater 
+U 
+- 
+6A.2 
+Annex 6A.3 Estimation of default methane conversion 
+factors for CH4 in centralised wastewater treatment 
+plants treating domestic wastewater 
+U 
+- 
+6A.3 
+Annex 6A.4 Calculation of MCF for methane 
+emissions from sewage discharges 
+U, NG 
+- 
+6A.4 
+Annex 6A.5 Estimation of default emission factors for 
+N2O in domestic wastewater treatment plants 
+U, NG 
+- 
+6A.5 
+Annex 6A.6 Estimation of default emission factors for 
+N2O in effluent 
+U, NG 
+- 
+6A.6 
+Annex 6A.7 List of countries by region included in 
+Table 6.10a 
+NG 
+- 
+6A.7 
+ 
+Equations 
+• 
+Equation 6.1 in 2006 IPCC Guidelines was divided to Equations 6.1 (Updated), 6.1a (New), and 6.3a (New) 
+to emphasize calculation by individual pathways. 
+• 
+Equation 6.3 was updated to remove the correction factor for additional industrial BOD, as it was added to 
+Equation 6.3a (New). 
+• 
+Equations 6.3b (New) was introduced to allow conversion on sludge (t/yr) to organic component removed as 
+sludge (S in updated Equation 6.1).  
+• 
+Equation 6.3c (New) was introduced to estimate the organic component removed from wastewater (in the 
+form ofsludge) from septic systems (S in updated Equation 6.1). 
+• 
+Equation 6.3d (New) was introduced to estimate the organic component discharged to aquatic environments 
+in treated domestic wastewater effluent. 
+• 
+Equation 6.9 was updated to reflect the calculation of N2O emissions from domestic wastewater treatment 
+and expanded to cover all wastewater treatment plants. 
+• 
+Equation 6.7 was updated to reflect the calculation of N2O emissions from the domestic wastewater effluent 
+discharged to aquatic environments. 
+• 
+Equation 6.10 (New) was introduced to better reflect the calculation of total nitrogen in domestic wastewater. 
+• 
+Equation 6.10a (New) was introduced to estimate the amount of protein consumed when national statistics 
+on protein consumed are not available. 
+• 
+Equation 6.8 was updated to reflect the calculation of nitrogen in effluent from domestic wastewater 
+treatment. 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• 
+Equations 6.11 (New) through 6.14 (New) were introduced to allow for calculation of N2O emissions from 
+industrial wastewater treatment. 
+ 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Total CH4 emissions from domestic wastewater for 
+each treatment/discharge pathway or system 
+U 
+6.1 
+6.1 
+Total CH4 emissions from domestic wastewater 
+treatment and discharge 
+U 
+6.1 
+6.1a 
+CH4 emission factor for each domestic wastewater 
+treatment/discharge pathway or system 
+NR 
+6.2 
+6.2 
+Total organically degradable material in domestic 
+wastewater 
+U 
+6.3 
+6.3 
+Total organics in domestic wastewater by 
+treatment/discharge pathway or system 
+NG 
+6.1 
+6.3a 
+Organic component removed as sludge from aerobic 
+treatment plants 
+NG 
+- 
+6.3b 
+Organic component removed as sludge from septic 
+systems 
+NG 
+- 
+6.3c 
+Total organics in treated domestic wastewater effluent 
+NG 
+- 
+6.3d 
+Total CH4 emissions from industrial wastewater 
+NR 
+6.4 
+6.4 
+CH4 emission factor for industrial wastewater 
+NR 
+6.5 
+6.5 
+N2O emissions from domestic wastewater treatment 
+plants 
+U 
+6.9 
+6.9 
+N2O emissions from domestic wastewater effluent 
+U 
+6.7 
+6.7 
+Total nitrogen in domestic wastewater by treatment 
+pathway 
+NG 
+- 
+6.10 
+Protein consumed 
+NG 
+- 
+6.10a 
+Total nitrogen in domestic wastewater effluent 
+U 
+6.8 
+6.8 
+N2O emissions from industrial wastewater treatment 
+plants 
+NG 
+- 
+6.11 
+N2O emissions from industrial wastewater effluent 
+NG 
+- 
+6.12 
+Total nitrogen in industrial wastewater 
+NG 
+- 
+6.13 
+Total nitrogen in industrial wastewater effluent 
+NG 
+- 
+6.14 
+ 
+Tables 
+• 
+Table 6.1 was updated to reflect refinements to the overall wastewater treatment systems and discharge 
+pathways covered in this chapter. 
+• 
+Tables 6.3, 6.7, 6.8, and 6.11 have been updated, and Tables 6.8a (New) and 6.13 (New) introduced, to 
+reflect updated or new emissions factors for CH4 and N2O emissions and the resulting uncertainty ranges. 
+An alternate set of emission factors is provided for CH4 and N2O emissions from wastewater after disposal 
+of untreated wastewater or wastewater treatment effluent into aquatic environments when the country has 
+activity data to differentiate the conditions of the waterbody receiving the discharge. 
+• 
+Tables 6.6a (New) and 6.6b (New) have been introduced to provide default values for the removal of 
+organic component from wastewater as sludge (KREM) and wastewater treatment organics removal fractions 
+(TOWREM), according to treatment type. 
+• 
+Table 6.10a (New) provides regional default factors for sources of nitrogen in domestic wastewater.  
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.13 
+• 
+Table 6.10b (New) has been added to provide additional country-specific information on the use of food 
+waste disposals if needing to calculate a country-specific value for the fraction of protein not consumed. 
+• 
+Table 6.10c (New) has been introduced to provide default values for the removal of nitrogen from 
+wastewater (NREM). 
+• 
+Table 6.12 (New) has been added to provide default values for use in estimating N2O emissions from 
+industrial wastewater. 
+ 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+CH4 and N2O emission potentials for wastewater and 
+sludge treatment and discharge systems 
+U 
+6.1 
+6.1 
+Default maximum CH4 producing capacity (Bo) for 
+domestic wastewater 
+NR 
+6.2 
+6.2 
+Default MCF values and resultant EFs for domestic 
+wastewater by type of treatment system and discharge 
+pathway, j 
+U 
+6.3 
+6.3 
+Estimated BOD5 values in domestic wastewater for 
+selected regions and countries 
+NR 
+6.4 
+6.4 
+Suggested values for urbanisation (U) and degree of 
+utilisation of treatment, discharge pathway or method 
+(Ti,j) for each income group for selected countries  
+NR 
+6.5 
+6.5 
+Example of the application of default values  for 
+degrees of treatment utilization (T) by income groups 
+NR 
+6.6 
+6.6 
+Removal of organic component from wastewater as 
+sludge (KREM) according to treatment type 
+NG 
+- 
+6.6a 
+Wastewater treatment organics removal fractions 
+(TOWREM) according to treatment type 
+NG 
+- 
+6.6b 
+Default uncertainty ranges for domestic wastewater 
+U 
+6.7 
+6.7 
+Default MCF values and resultant EFs for industrial 
+wastewater 
+U 
+6.8 
+6.8 
+Default EF values for domestic and industrial 
+wastewater 
+NG 
+6.11 
+6.8a 
+Default factors for domestic wastewater 
+NG 
+- 
+6.10a 
+Estimate on use of food waste disposal in sewer 
+NG 
+- 
+6.10b 
+Wastewater treatment nitrogen removal fractions 
+(NREM) according to treatment type 
+NG 
+- 
+6.10c 
+N2O methodology default data 
+U 
+6.11 
+6.11 
+Examples of industrial wastewater data 
+NG 
+- 
+6.12 
+Default uncertainty ranges for industrial wastewater 
+NG 
+- 
+6.13 
+Summary of literature investigating fossil organic 
+carbon in wastewater 
+NG 
+- 
+6Ap.1 
+Summary data for pit latrine use, no sanitation facility, 
+and groundwater use by country  
+NG 
+- 
+6A.1 
+MCFs based on measured CH4 in full-scale domestic 
+wastewater treatment plants 
+NG 
+ 
+6A.2 
+Summary of literature investigating CH4 emissions 
+from wastewater  
+discharge 
+NG 
+- 
+6A.3 
+Default N2O emission factors for domestic wastewater 
+treatment plants 
+NG 
+- 
+6A.4 
+Volume 5: Waste 
+ 
+ 
+ 
+A1.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+N2O emission factors in full-scale domestic wastewater 
+treatment plants 
+NG 
+- 
+6A.5 
+List of countries by region included in Table 6.10a 
+(New) 
+NG 
+- 
+6A.6 
+ 
+Figures 
+• 
+Figure 6.1 was updated to reflect refinements to the overall wastewater treatment systems and discharge 
+pathways covered in this chapter. 
+• 
+Figure 6.1a (New) was introduced to present information on the use of pit latrines by low-income country 
+populations. 
+• 
+Figures 6.2 and 6.3 were updated to reflect refinements to the tier methodologies for CH4 emissions, 
+particularly related to emissions from discharge. 
+• 
+Figures 6.4 (New) and 6.6 (New) were introduced to reflect refinements to the tier methodologies for N2O 
+emissions. 
+• 
+Figure 6.5 (New) was introduced to show the sources of nitrogen in domestic wastewater. 
+• 
+Figure 6A.1 (New) presents information on the correlation of influent nitrogen load entering wastewater 
+treatment plants to N2O emissions. 
+ 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 Refinement 
+Figure Number 
+Wastewater treatment systems and discharge pathways 
+U 
+6.1 
+6.1 
+Percentage of low-income country populations using 
+pit latrines as a primary sanitation facility 
+NG 
+- 
+6.1a 
+Decision tree for CH4 emissions from domestic 
+wastewater 
+U 
+6.2 
+6.2 
+Decision tree for CH4 emissions from industrial 
+wastewater 
+U 
+6.3 
+6.3 
+Decision tree for N2O emissions from domestic 
+wastewater 
+NG 
+- 
+6.4 
+Nitrogen in domestic wastewater treatment 
+NG 
+- 
+6.5 
+Decision tree for N2O emissions from industrial 
+wastewater 
+NG 
+- 
+6.6 
+Correlation between influent N load and N2O emission 
+NG 
+- 
+6A.1 
+ 

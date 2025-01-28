@@ -1,0 +1,619 @@
+ 
+Chapter 1: Introduction to the 2006 Guidelines 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+CHAPTER 1  
+INTRODUCTION TO  
+THE 2006 GUIDELINES 
+Volume 1: General Guidance and Reporting 
+1.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors  
+Kristin Rypdal (Norway), Newton Paciornik (Brazil) 
+Simon Eggleston (TSU), Justin Goodwin (UK), William Irving (USA), Jim Penman (UK),  
+and Mike Woodfield (UK) 
+ 
+Chapter 1: Introduction to the 2006 Guidelines 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+Contents 
+1   Introduction to the 2006 Guidelines 
+1.1 
+Concepts .............................................................................................................................................. 1.4 
+1.2 
+Estimation methods ............................................................................................................................. 1.6 
+1.3 
+Structure of the Guidelines .................................................................................................................. 1.7 
+1.4 
+Inventory quality ................................................................................................................................. 1.7 
+1.5 
+Compiling an inventory ....................................................................................................................... 1.8 
+References ......................................................................................................................................................... 1.12 
+ 
+ 
+ 
+Figures 
+Figure 1.1  
+Inventory development cycle ............................................................................................. 1.10 
+ 
+ 
+Boxes 
+Box 1.1  
+Using the flow diagram (Figure 1.1) and the 2006 Guidelines – Livestock example ........ 1.11 
+ 
+ 
+ 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+1.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1 INTRODUCTION TO THE 2006 GUIDELINES 
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 Guidelines) were produced at the 
+invitation of the United Nations Framework Convention on Climate Change (UNFCCC) to update the Revised 
+1996 Guidelines and associated good practice guidance1 which provide internationally agreed2 methodologies 
+intended for use by countries to estimate greenhouse gas inventories to report to the UNFCCC. This chapter 
+provides an introduction to the 2006 Guidelines for a broad range of users, including countries and inventory 
+compilers setting out to prepare inventory estimates for the first time. Sections 1.1 to 1.3 describe the 
+overarching framework of these Guidelines, focusing on scope, approach, and structure. Sections 1.4 through 1.5 
+present step-by-step guidance on how to use the 2006 Guidelines for compiling a greenhouse gas inventory.  
+1.1 
+CONCEPTS  
+Inventories rely on a few key concepts for which there is a common understanding. This helps ensure that 
+inventories are comparable between countries, do not contain double counting or omissions, and that the time 
+series reflect actual changes in emissions. 
+Anthropogenic emissions and removals  
+Anthropogenic emissions and removals means that greenhouse gas emissions and removals included in national 
+inventories are a result of human activities. The distinction between natural and anthropogenic emissions and 
+removals follows straightforwardly from the data used to quantify human activity. In the Agriculture, Forestry 
+and Other Land Use (AFOLU) Sector, emissions and removals on managed land are taken as a proxy for 
+anthropogenic emissions and removals, and interannual variations in natural background emissions and removals, 
+though these can be significant, are assumed to average out over time.  
+National territory 
+National inventories include greenhouse gas emissions and removals taking place within national territory and 
+offshore areas over which the country has jurisdiction. There are some special issues that are described in 
+Section 8.2.1 of Volume 1. For example, emissions from fuel use in road transport is included in the emissions of 
+the country where the fuel is sold and not where the vehicle is driven, as fuel sale statistics are widely available 
+and usually much more accurate.  
+Inventory year and time series  
+National inventories contain estimates for the calendar year during which the emissions to (or removals from) 
+the atmosphere occur. Where suitable data to follow this principle are missing, emissions/removals may be 
+estimated using data from other years applying appropriate methods such as averaging, interpolation and 
+extrapolation. A sequence of annual greenhouse gas inventory estimates (e.g., each year from 1990 to 2000) is 
+called a time series. Because of the importance of tracking emissions trends over time, countries should ensure 
+that a time series of estimates is as consistent as possible. 
+Inventory reporting  
+A greenhouse gas inventory report includes a set of standard reporting tables covering all relevant gases, 
+categories and years, and a written report that documents the methodologies and data used to prepare the 
+estimates. The 2006 Guidelines provide standardised reporting tables, but the actual nature and content of the 
+tables and written report may vary according to, for example, a country’s obligations as a Party to the UNFCCC. 
+The 2006 Guidelines provide worksheets to assist with the transparent application of the most basic (or Tier 1) 
+estimation methodology.  
+                                                           
+1  The Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories (1996 Guidelines, IPCC, 1997), The Good 
+Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories (GPG2000, IPCC, 2000), and 
+The Good Practice Guidance for Land Use, Land-use Change and Forestry (GPG-LULUCF, IPCC, 2003). 
+2 See the Report of the Fourth Session of the Subsidiary Body for Scientific and Technological Advice 
+(FCCC/SBSTA/1996/20), paragraph 30; decisions 2/CP.3 and 3/CP.5 (UNFCCC reporting guidelines for preparation of 
+national communications by Parties included in Annex I to the Convention, part I: UNFCCC reporting guidelines on 
+annual inventories), decision 18/CP.8, revising the guidelines adopted under decisions 3/CP.5, and 17/CP.8 adopting 
+improved guidelines for the preparation of national communications from Parties not included in Annex I to the 
+Convention, and subsequent decisions 13/CP.9 and decision 15/CP.10.  
+ 
+Chapter 1: Introduction to the 2006 Guidelines 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+Greenhouse gases 
+The following greenhouse gases are covered in the 2006 Guidelines3: 
+• 
+carbon dioxide (CO2) 
+• 
+methane (CH4) 
+• 
+nitrous oxide (N2O) 
+• 
+hydrofluorocarbons (HFCs) 
+• 
+perfluorocarbons (PFCs) 
+• 
+sulphur hexafluoride (SF6) 
+• 
+nitrogen trifluoride (NF3) 
+• 
+trifluoromethyl sulphur pentafluoride (SF5CF3) 
+• 
+halogenated ethers (e.g., C4F9OC2H5, CHF2OCF2OC2F4OCHF2, CHF2OCF2OCHF2 ) 
+• 
+and other halocarbons not covered by the Montreal Protocol including CF3I, CH2Br2
+ 
+ CHCl3, CH3Cl, CH2Cl2 
+4
+   
+The gases listed above have global warming potentials (GWPs) identified by the IPCC prior to finalisation of the 
+2006 Guidelines. A GWP compares the radiative forcing of a tonne of a greenhouse gas over a given time period 
+(e.g., 100 years) to a tonne of CO2. The 2006 Guidelines also provide methods for gases for which GWP values 
+were not available prior to finalisation, i.e., C3F7C(O)C2F5, C7F16, C4F6, C5F8 and c-C4F8O.  
+These gases are sometimes used as substitutes for gases that are included in the inventory and countries are 
+encouraged to provide estimates for them. 
+Other gases 
+The 2006 Guidelines also provide information for the reporting of the following precursors: nitrogen oxides 
+(NOx), ammonia (NH3), non-methane volatile organic compounds (NMVOC), carbon monoxide (CO) and 
+sulphur dioxide (SO2) although methods for estimating emissions of these gases are not given here.  
+Sectors and Categories 
+Greenhouse gas emission and removal estimates are divided into main sectors, which are groupings of related 
+processes, sources and sinks: 
+• 
+Energy 
+• 
+Industrial Processes and Product Use (IPPU) 
+• 
+Agriculture, Forestry and Other Land Use (AFOLU) 
+• 
+Waste 
+• 
+Other (e.g., indirect emissions from nitrogen deposition from non-agriculture sources5) 
+Each sector comprises individual categories (e.g., transport) and sub-categories (e.g., cars). Ultimately, countries 
+will construct an inventory from the sub-category level because this is how IPCC methodologies are set out, and 
+total emissions calculated by summation. A national total is calculated by summing up emissions and removals 
+for each gas. An exception is emissions from fuel use in ships and aircraft engaged in international transport 
+which is not included in national totals, but is reported separately. 
+In order to calculate a national total it is necessary to choose an approach to include harvested wood products 
+(HWP). Countries can select any of the approaches reflected in Chapter 12 of Volume 4 for the AFOLU Sector 
+to do this.  
+                                                           
+3  The halogenated gases are typically emitted in smaller amounts than CO2, CH4 and N2O, but may have long atmospheric 
+lifetimes and strong radiative forcing effects.  
+4  For these gases, emissions could be estimated following the methods described in Section 3.10.2 of Volume 3 if necessary 
+data are available, and then could be reported under sub-category 2B10 ‘Other’. 
+5  Estimates include N2O emissions from deposition of anthropogenic nitrogen (N) from NOx/NH3 wherever deposited and 
+from whatever source (but not allocated to specific sectors). The reason for this is that emission factors for nitrogen 
+deposited are of the same magnitude for agricultural sources as for other nitrogen sources, even when the N is deposited in 
+the ocean. 
+Volume 1: General Guidance and Reporting 
+1.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Reporting is generally organised according to the sector actually generating emissions or removals. There are 
+some exceptions to this practice, such as CO2 emissions from biomass combustion for energy, which are 
+reported in AFOLU Sector as part of net changes in carbon stocks. Where CO2 emissions are captured from 
+industrial processes or large combustion sources, emissions should be allocated to the sector generating the CO2 
+unless it can be shown that the CO2 is stored in properly monitored geological storage sites as set out in Chapter 
+5 of Volume 2. 
+1.2 
+ESTIMATION METHODS 
+As with the 1996 Guidelines and IPCC Good Practice Guidance the most common simple methodological 
+approach is to combine information on the extent to which a human activity takes place (called activity data or 
+AD) with coefficients which quantify the emissions or removals per unit activity. These are called emission 
+factors (EF). The basic equation is therefore: 
+EF
+AD
+Emissions
+•
+=
+ 
+For example, in the energy sector fuel consumption would constitute activity data, and mass of carbon dioxide 
+emitted per unit of fuel consumed would be an emission factor. The basic equation can in some circumstances be 
+modified to include other estimation parameters than emission factors. Where time lags are involved, due for 
+example to the time it takes for material to decompose in a landfill or leakage of refrigerants from cooling 
+devices, other methods are provided, for example first order decay methods. The 2006 Guidelines also allow for 
+more complex modelling approaches, particularly at higher tiers. 
+Though this simple equation is widely used, the 2006 Guidelines also contain mass balance methods, for 
+example the stock change methods used in the AFOLU sector which estimates CO2 emissions from changes over 
+time in carbon content of living biomass and dead organic matter pools.  
+Carbon dioxide from the combustion or decay of short-lived biogenic material removed from where it was 
+grown is reported as zero in the Energy, IPPU and Waste Sectors (for example CO2 emissions from biofuels6,7, 
+and CO2 emissions from biogenic material in Solid Waste Disposal Sites (SWDS)). In the AFOLU Sector, when 
+using Tier 1 methods for short lived products, it is assumed that the emission is balanced by carbon uptake prior 
+to harvest, within the uncertainties of the estimates, so the net emission is zero. Where higher Tier estimation 
+shows that this emission is not balanced by a carbon removal from the atmosphere, this net emission or removal 
+should be included in the emission and removal estimates for AFOLU Sector through carbon stock change 
+estimates. Material with long lifetime is dealt with in the HWP section. 
+IPCC methods use the following concepts: 
+Good Practice: In order to promote the development of high quality national greenhouse gas inventories a 
+collection of methodological principals, actions and procedures were defined in the previous guidelines and 
+collectively referred to as good practice. The 2006 Guidelines retain the concept of good practice including the 
+definition introduced with GPG2000. This has achieved general acceptance amongst countries as the basis for 
+inventory development and says that inventories consistent with good practice are those which contain neither 
+over-  nor under-estimates so far as can be judged, and in which uncertainties are reduced as far as practicable.  
+Tiers: A tier represents a level of methodological complexity. Usually three tiers are provided. Tier 1 is the 
+basic method, Tier 2 intermediate and Tier 3 most demanding in terms of complexity and data requirements. 
+Tiers 2 and 3 are sometimes referred to as higher tier methods and are generally considered to be more accurate.   
+Default data: Tier 1 methods for all categories are designed to use readily available national or international 
+statistics in combination with the provided default emission factors and additional parameters that are provided, 
+and therefore should be feasible for all countries.  
+Key Categories: The concept of key category8 is used to identify the categories that have a significant influence 
+on a country’s total inventory of greenhouse gases in terms of the absolute level of emissions and removals, the 
+trend in emissions and removals, or uncertainty in emissions and removals. Key Categories should be the priority 
+for countries during inventory resource allocation for data collection, compilation, quality assurance/quality 
+control and reporting.  
+                                                           
+6  CO2 emissions from the use of biofuels should be reported as an information item for QA/QC purposes.  
+7  In these guidelines peat is assumed not to be a biofuel. 
+8  Chapter 4 of Volume 1 provides more details of key categories and approaches to identifying key categories for national 
+inventories. 
+ 
+Chapter 1: Introduction to the 2006 Guidelines 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.7 
+Decision Trees: Decision trees for each category help the inventory compiler navigate through the guidance and 
+select the appropriate tiered methodology for their circumstances based on their assessment of key categories. In 
+general, it is good practice to use higher tier methods for key categories, unless the resource requirements to do 
+so are prohibitive. 
+1.3 
+STRUCTURE OF THE GUIDELINES 
+Volumes: The 2006 IPCC Guidelines contain 5 volumes, one for each sector (Volumes 2-5) and one for general 
+guidance applicable to all sectors (Volume 1).  
+• 
+Volume 1: General Guidance and Reporting 
+• 
+Volume 2: Energy 
+• 
+Volume 3: Industrial Processes and Product Use (IPPU) 
+• 
+Volume 4: Agriculture, Forestry and Other Land Use (AFOLU) 
+• 
+Volume 5: Waste 
+This five-volume structure means the cross referencing will be required between two volumes at most: Volume 1 
+(General Guidance and Reporting), and the relevant sectoral volume. 
+Chapters: Volume 1 contains chapters that provide detailed cross-cutting guidance by topic as described in 
+more detail in Section 1.5. Volumes 2-5 contain chapters that provide methodological guidance for specific 
+emission and removal categories, along with specific recommendations for uncertainty, QA/QC, time series 
+consistency, and reporting. The volume and chapter structure is presented in Table 1 in the Overview of the 2006 
+Guidelines. 
+Annexes: Annexes are intended to include additional often detailed information beyond what is necessary for a 
+Tier 1 estimate, for example extended data tables.  
+Appendices: The 2006 IPCC Guidelines present some technical material in appendices, where emissions or 
+removals are poorly understood and where there is insufficient information available to develop reliable, globally 
+applicable, default methods for a particular source or sink. Countries may use appendices as a basis for further 
+methodological development, but a national inventory can be considered complete without the inclusion of 
+estimates for these sources. 
+Worksheets: Worksheets are tools designed to provide easy calculation of Tier 1 methodologies. Worksheets 
+are not provided for higher tiers, although they can also be used where the higher tier method is similar to Tier 1 
+(e.g., where national data is used instead of default data). Some more complex approaches are provided in 
+spreadsheets in the attached CD.  
+Reporting Tables: The reporting tables are intended to give sufficient detail required for transparent reporting 
+of national greenhouse gas inventories and follow a disaggregated category list. They include summary tables, 
+sectoral tables, background tables and trend tables. The background tables include summary activity data for 
+increased transparency and to facilitate comparison of data across countries. Reporting tables also include results 
+of a key category analysis and uncertainty assessment. Reporting also includes memo items (emissions to be 
+reported but not included in national totals) and information items for increased transparency. 
+1.4 
+INVENTORY QUALITY 
+These guidelines provide guidance on ensuring quality on all steps of the inventory compilation – from data 
+collection to reporting. They also provide tools to focus resources on the areas where they will most benefit the 
+overall inventory and encourage continuous improvement. Experience has demonstrated that using a good 
+practice approach is a pragmatic means of building inventories that are consistent, comparable, complete, 
+accurate and transparent – and maintaining them in a manner that improves inventory quality over time. 
+Indicators of inventory quality are: 
+Transparency: There is sufficient and clear documentation such that individuals or groups other than the 
+inventory compilers can understand how the inventory was compiled and can assure themselves it meets the 
+good practice requirements for national greenhouse gas emissions inventories. Documentation and reporting 
+guidance is provided in Chapter 8, Reporting Guidance and Tables, of Volume 1 and in the respective chapters 
+of Volume 2-6 (see also Volume 1, Chapter 6, QA/QC and Verification). 
+ 
+Volume 1: General Guidance and Reporting 
+1.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Completeness: Estimates are reported for all relevant categories of sources and sinks, and gases. Geographic 
+areas within the scope of the national greenhouse gas inventory are recommended in these Guidelines. Where 
+elements are missing their absence should be clearly documented together with a justification for exclusion (see 
+Volumes 2-5). 
+Consistency: Estimates for different inventory years, gases and categories are made in such a way that 
+differences in the results between years and categories reflect real differences in emissions. Inventory annual 
+trends, as far as possible, should be calculated using the same method and data sources in all years and should 
+aim to reflect the real annual fluctuations in emissions or removals and not be subject to changes resulting from 
+methodological differences. (See Chapter 2: Approaches to Data Collection, Chapter 4: Methodological Choice 
+and Identification of Key Categories, and Chapter5: Time Series Consistency in Volume 1.) 
+Comparability: The national greenhouse gas inventory is reported in a way that allows it to be compared with 
+national greenhouse gas inventories for other countries. This comparability should be reflected in appropriate 
+choice of key categories (see Volume 1, Chapter 4), and in the use of the reporting guidance and tables and use 
+of the classification and definition of categories of emissions and removals presented in Table 8.2 of Chapter 8, 
+and Volumes 2-5. 
+Accuracy: The national greenhouse gas inventory contains neither over- nor under-estimates so far as can be 
+judged. This means making all endeavours to remove bias from the inventory estimates (see especially Chapter 2, 
+Approaches to Data Collection, and Chapter 3, Uncertainties, in Volume 1 and Volumes 2-5). 
+Uncertainty assessment (details provided in Chapter 3 of Volume 1) is an important component of good practice 
+in national greenhouse gas inventory development. The uncertainty analysis characterises the range and 
+likelihood of possible values for the national inventory as a whole as well as for its components. Awareness of 
+the uncertainty of parameters and results provides inventory compilers with insight when evaluating suitable data 
+for the inventory during the data collection and compilation phases. Uncertainty assessment also helps identify 
+the categories that contribute most to the overall uncertainty, which helps the inventory compiler prioritise future 
+inventory improvements.  
+The 2006 Guidelines encourage continuous improvement and rigor through QA/QC and verification activities. A 
+number of concepts and tools in Chapter 6 in Volume 1 are provided to support efficient inventory management, 
+checking and continuous improvement. These activities will ensure that the best use of limited resources can be 
+made and a quality consistent with good practice is achieved for each inventory. 
+Regular communication and consultation with providers of data is recommended throughout the inventory 
+activities (from data collection to final reporting). This communication will build working relationships between 
+data supplier and inventory compilers that will benefit the inventory both in terms of efficiency and quality. This 
+activity will also help to keep the inventory compilers informed of the development of new datasets and even 
+provide opportunities to influence the planning and specifications of data provider’s data collection activities. 
+1.5 
+COMPILING AN INVENTORY 
+Compiling a greenhouse gas inventory is a step-by-step process. This section provides guidance on these steps 
+for the inventory compiler, i.e., the person, persons or institutions who put together or compose the inventory 
+from materials gathered from several sources. Compilation includes the collection of data, estimation of 
+emissions and removals, checking and verification, uncertainty assessment and reporting.  
+Before undertaking estimates of emissions and removals from specific categories an inventory compiler should 
+become familiar with the material in Volume 1 General Guidance and Reporting. This Volume provides good 
+practice guidance on issues that are common to all the estimation methods covered by the sector-specific 
+guidance provided in Volumes 2 to 5 and reporting instructions.  
+Summary of Volume 1:  
+• 
+Data collection: Collection of data is a fundamental part of inventory preparation. Chapter 2 of Volume 1 
+provides guidance on initiating and maintaining a data collection program. It covers evaluating existing 
+sources of data, and planning new emission measurements and surveys, extensive reference is made to 
+guidance provided by other organisations. The chapter links the data collection process to the other general 
+issues. 
+• 
+Uncertainty assessment: Estimates of uncertainty are needed for all relevant source and sink categories, 
+greenhouse gases, inventory totals as a whole, and their trends. Chapter 3, Uncertainties, provides practical 
+guidance for estimating and combining uncertainties, along with a discussion of the conceptual 
+underpinnings of inventory uncertainty. Uncertainty issues related to specific category of emissions and 
+removals are addressed in Volumes 2-5. 
+ 
+Chapter 1: Introduction to the 2006 Guidelines 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.9 
+• 
+Key category analysis: Good practice guidance on how to identify key categories of emissions and 
+removals is provided in Chapter 4, Methodological Choice and Identification of Key Categories. The key 
+category concept is used, together with the decision trees in Volumes 2-5, to guide users in their 
+methodological choice for each category. These decision trees are the critical link between methodological 
+choice in the sector-specific volumes and the identification of key categories in Volume 1.   
+• 
+Time series consistency: Ensuring the time series consistency of inventory estimates is essential for 
+establishing confidence in reported inventory trends. Chapter 5, Time Series Consistency, provides methods 
+for ensuring time-series consistency in cases where it is not possible to use the same method and/or data 
+over the entire period. This chapter also provides good practice guidance on when to recalculate estimates 
+for previous years and methods for accounting for changes in emissions and removals over time.  
+• 
+Quality Assurance (QA) and Quality Control (QC): A QA/QC system is an important part of inventory 
+development. Chapter 6, QA/QC and Verification, describes the general QA/QC aspects to consider when 
+compiling an inventory of emissions and removals. Good practice guidance on sector specific quality 
+control checks are addressed in Volumes 2-5. Chapter 6 also describes techniques for verifying inventories 
+using external data.  
+• 
+Precursors and indirect N2O emissions: Volume 1 also includes cross-sectoral guidance on dealing with 
+precursors and indirect emissions of N2O from deposition of nitrogen compounds (resulting from NOx and 
+NH3 emissions) in Chapter 7, Precursors and Indirect Emissions. 
+• 
+Reporting: Chapter 8, Reporting Guidance and Tables, specifically addresses issues related to reporting, 
+including definitions of national territory, gases and reporting categories. Notation keys are introduced to 
+account for completeness and transparency in reporting. The definitions of categories of sources and sinks 
+take into account the structure of the sector guidance in Volume 2-5. The sectoral and summary reporting 
+tables to be applied for reporting emissions and removals of each category are included in Chapter 8. 
+Reporting tables on uncertainties, key category analysis, and emission trends have also been developed and 
+are included in Chapter 8.  
+Volumes 1 and Volumes 2 to 5 are complementary. After the compilers tasked with preparing estimates for 
+specific emission and removal categories have familiarised themselves with the general guidance in Volume 1 
+they should use the specific sectoral volume(s) appropriate to their categories so that they can apply the 
+requirements in a manner appropriate to their national circumstances. Figure 1.1 illustrates the steps of a typical 
+inventory cycle. Quality control measures should be implemented at each step and should be documented 
+according to the requirements of QA/QC and documentation given in Chapter 6 of Volume 1. 
+1. The first step for a revised or new greenhouse gas inventory is to identify the key categories for the 
+inventory so that resources can be prioritised. Where an inventory already exists, the key categories can be 
+identified quantitatively from the previous estimates (see Volume 1 Chapter 4). For a new inventory the 
+compiler will have to make a preliminary assessment based on local knowledge and expertise about large 
+emission sources and inventories in countries with similar national circumstances or, if possible, make 
+preliminary Tier 1 estimates to assist in identifying key categories. 
+Assessing the key categories helps the inventory compiler to focus effort and resources on the sectors that 
+contribute most to the overall inventory or inventory uncertainty and so helps to ensure that the best possible 
+inventory is compiled for the available resources. 
+2. Once the key categories have been identified, the inventory compiler should identify the appropriate method 
+for estimation for each category in the particular country circumstances. The sector-specific decision trees in 
+Volumes 2-5 and the generalised decision tree in Chapter 4 of Volume 1 provide guidance on selecting 
+appropriate methods. The selection of methods will be determined by the classification of a category as key 
+or not key, and by both the data and the resources available. Guidance on data collection is provided in 
+Chapter 2 of Volume 1. 
+3. Data collection should follow the selection of the appropriate methods. (See Chapter 2, 5 and 7 in Volume 
+1). Data collection activities should consider time series consistency and establish and maintain good 
+verification, documentation and checking procedures (QA/QC) to minimise errors and inconsistencies in the 
+inventory estimates. Data on uncertainties should if possible be collected at the same time. Guidance on the 
+collection of new data in a cost effective way and on uncertainties is provided in Chapter 2 and Chapter 3 of 
+Volume 1 respectively. QA/QC activities should continue throughout this process to minimise errors and 
+document data sources, methods and assumptions. The results of the data collection may lead to refinement 
+of the methods chosen. 
+4. Emissions and removals are estimated following the methodological choice and data collection. Care should 
+be taken to follow the general guidance in Chapter 5, Time Series Consistency in Volume 1 especially if the 
+data are incomplete for some years.  
+Volume 1: General Guidance and Reporting 
+1.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5. Once the inventory estimates are complete, the next step is to perform an uncertainty analysis and key 
+category analysis (see Chapters 3 and 4 in Volume 1). These analyses may identify categories for which a 
+higher tier should be used and additional data collected.  
+6. Following the completion of the final quality assurance (QA) checks, the final step in the inventory process 
+is to report the inventory (See Chapter 8 in Volume 1). The aim here is to present the inventory in an as 
+concise and clear way as possible to enable users to understand the data, methods and assumptions used in 
+the inventory. Provision of concise relevant background information and explanations in the reports helps to 
+ensure the inventory (including the report) is transparent.  
+The inventory compiler should base future inventory revisions on previous inventories. Thus an iterative process 
+builds on and improves the inventory each time a new inventory is compiled as illustrated in Figure 1.1. When a 
+revised inventory is compiled, all years estimates should be reviewed for consistency and updated integrating 
+any feasible improvements where necessary. Chapter 5 in Volume 1 gives advice on compiling consistent time 
+series and provides good practice approaches for achieving time series consistency. 
+Figure 1.1 Inventory development cycle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start new
+estimate,
+building on experience of
+previous inventories.
+(if available)
+QC Checking &
+Documentation
+Conduct key category
+analysis.
+(Chapter 4)
+QC Checking &
+Documentation
+Conduct uncertainty analysis: 
+Evaluate input data and 
+assess overall inventory.
+(Chapter 3)
+QC Checking &
+Documentation
+Compile inventory: 
+(Worksheets in Volume 2-5 
+or own system) considering 
+time series consistency and 
+QA/QC in Volume 1  
+Chapters 5 and 6.
+Collect data (Volume 1 Chapter 2) 
+and estimate emissions/removals 
+(Volume 2-5) ensuring adequate
+QA/QC and time series consistency.
+(Volume 1 Chapters 5 and 6)
+QC Checking &
+Documentation
+Select methods (Volume 2-5)
+while considering data collection,
+uncertainty and time series
+consistency good practice. 
+(Volume 1 Chapters 2, 3 and 5
+respectively)
+Check/Review
+inventory through QA.
+(Chapter 6)
+Identify key categories.
+(Chapter 4)
+Report inventory.
+(Chapter 8 and Volumes 2-5)
+Make necessary
+revisions.(if any)
+(Chapter 4)
+QC Checking &
+Documentation
+ 
+Chapter 1: Introduction to the 2006 Guidelines 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.11 
+Box 1.1 provides an example on using the 2006 Guidelines throughout the inventory cycle when estimating 
+emissions from enteric fermentation. 
+ 
+BOX 1.1 
+USING THE FLOW DIAGRAM (FIGURE 1.1) AND THE 2006 GUIDELINES – LIVESTOCK EXAMPLE 
+Inventory compilers tasked with preparing estimates for specific emission and removal categories 
+need to familiarise themselves with guidance in two Volumes: the relevant guidance in a sectoral 
+volume (e.g., Volume 4, Agriculture, Forestry and Other Land Use), and the general guidance in 
+Volume 1. Along with the diagram (see Figure 1.1) this box describes how the guidance in the two 
+Volumes is used for estimating methane emissions from Enteric Fermentation: 
+Start with your previous inventory where available and prioritise categories for estimation. 
+• 
+The inventory compiler can begin with the overall results of the previous national inventory, 
+particularly the key category assessment, as a preliminary step to selecting methods and data 
+(Chapter 4 of Volume 1). 
+Familiarise yourself with general and sector specific QA/QC requirements. 
+• 
+Prior to collecting all the data and estimating emissions, the inventory compiler should consult 
+the general guidance in implementing Quality Control (QC) procedures in Chapter 6 of 
+Volume 1 (QA/QC and Verification) along with the specific QC procedures for enteric 
+fermentation described in Chapter 10 of Volume 4. QC procedures should be implemented at 
+every step of the inventory cycle. This will include regular checking and clear documentation 
+of data sources methods and assumptions. 
+Choose appropriate methods based on category importance and data availability. 
+• 
+The inventory compiler should consult the decision tree and methodological guidance in 
+Chapter 10 of Volume 4 to select an appropriate method. In this example, enteric fermentation 
+is a key category, which indicates that normally Tier 2 or 3 should be selected. 
+• 
+The general guidance in Chapter 2 (Approaches to Data Collection) of Volume 1 and Chapter 
+10 of Volume 4 will guide the inventory compiler in choosing appropriate emission factor, 
+activity data and other estimation parameters. This may include identifying or choosing from 
+existing data or collection and classification of new data. 
+Collect the data necessary for the latest year and a consistent time series and uncertainty 
+estimation. 
+• 
+The next step involves collection of the needed data for all years. The availability of data may 
+sometimes restrict use of higher tier methods for key categories. 
+• 
+Chapter 5 (Time Series Consistency) of Volume 1 should be used if preparing estimates for 
+more than one year. This guidance is particularly relevant if the selected method is different 
+from the one used in previous inventories or the sources of data or their classification have 
+changed. This can imply the need for recalculations of previous estimates or splicing of data 
+series. Chapter 10 of Volume 4 should be consulted for source-specific guidance on time-
+series consistency. 
+• 
+In estimating uncertainties, inventory compilers should also refer to the general guidance on 
+uncertainty in Chapter 3 of Volume 1 - paying particular attention to guidance on concepts 
+and methods – and the uncertainty section of the enteric fermentation livestock chapter for 
+source-specific information (for example default uncertainties). Ideally, the inventory 
+compiler should collect activity data, emission factors, and uncertainty information at the 
+same time because this is the most efficient strategy. 
+Estimate emissions/removals consistent with the guidance. 
+• 
+The next step is to estimate methane emissions from enteric fermentation for all relevant 
+years. Relevant guidance for this step includes the specific guidance for enteric fermentation 
+in Volume 4, Chapter 10 relating to completeness, reporting and documentation, and time 
+series consistency sections. 
+• 
+The enteric fermentation emissions and uncertainty data are used subsequently as input into 
+the compilation of the overall inventory, the estimation of category-specific and overall 
+uncertainty, and the key category assessment. The results of these steps may require changes 
+or revisions to the original estimate of emissions of enteric fermentation. 
+Volume 1: General Guidance and Reporting 
+1.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+BOX 1.1 (CONTINUED) 
+ 
+Check and review the estimates. 
+• 
+Following the Quality Assurance (QA) guidance in Volume 1, the inventory compiler should 
+arrange for review of the estimate and documentation by technical experts not involved in the 
+preparation of the inventory. External reviewers may suggest improvements or identify errors 
+that would require a recalculation of the enteric fermentation estimate.  
+Report the estimates. 
+• 
+The IPCC Guidelines provide guidance on reporting information on enteric fermentation in 
+two places: the enteric fermentation chapter of Volume 4, and the reporting tables in Chapter 8 
+of Volume 1. The inventory compiler should consult both chapters for a complete description 
+of reporting guidance. 
+  Note: In the case of an initial inventory effort, with no previous key category analysis, a qualitative 
+assessment of enteric fermentation could be used. See Chapter 2 and Chapter 4 of Volume 1. In this 
+example, it can be concluded that methane from enteric fermentation is key in most inventories and 
+should therefore be considered initially key. 
+ 
+ 
+ 
+References 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories: Volumes 1, 2 and 3. 
+Houghton, J.T., Meira Filho, L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and 
+Callander, B.A. (Eds). Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, 
+France. 
+IPCC (2000). Good Practice Guidance and Uncertianty Management in National Greenhouse Gas Inventories. 
+Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., Enmanuel, S., Buendia, L., Hoppaus, R., 
+Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change 
+(IPCC), IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (2003). Good Practice Guidance for Land Use, land-Use Change and Forestry. Penman, J., Gytarsky, M., 
+Hiraishi, T., Kruger, D., Pipatti, R., Buendia, L., Miwa, K., Ngara, T., Tanabe, K. and Wagner, F. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+ 
+ 

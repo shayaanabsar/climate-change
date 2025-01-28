@@ -1,0 +1,972 @@
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+C H A P T E R  2
+I N D U S T R I A L  P R O C E S S E S
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.1
+2. INDUSTRIAL PROCESSES
+2.1 
+Overview
+Greenhouse gas emissions are produced from a variety of industrial activities which are
+not related to energy.  The main emission sources are industrial production processes
+which chemically or physically transform materials.  During these processes, many
+different greenhouse gases, including CO2, CH4, N2O, and PFCs, can be released.
+Cement production is a notable example of an industrial process that releases a significant
+amount of CO2.  Different halocarbons (and SF6) are also consumed in industrial
+processes or used as alternatives to ozone depleting substances (ODS) in various
+applications.  Table 2-1 gives an overview of potential industrial emission sources of
+GHGs and ozone and aerosol precursors (NOx, NMVOCs, CO and SO2).
+In some instances industrial process emissions are produced in combination with fuel
+combustion emissions and it may be difficult to decide whether a particular emission
+should be reported within the energy or industrial processes sector.  Where the main
+purpose of the fuel combustion is to use the heat released, the resulting emissions are
+included as energy emissions, not industrial process emissions.  There are, however, some
+chemical processes or stages of processes, which oxidise carbon as a feedstock and are
+exothermic.  The reduction of iron in a blast furnace through the combustion of coke is
+an example.  Invariably the heat released is used within the processes or for other energy
+needs of the producer.  However, in this case, since the primary purpose of coke
+oxidisation is to produce pig iron, the emissions are considered to be industrial.
+In some cases not all fuel feedstock delivered to petrochemical plants is used for
+manufacture of other products.  Some feedstock may in fact be used for energy purposes
+in the sense that it is combusted for the heat released.  This may be included as energy in
+the national energy balance, but not necessarily.  The separation of the feedstock and
+energy uses and the identification of any fuel by-products from the processes is a
+notoriously difficult area of energy statistics.
+Where a country has difficulty in distinguishing whether an emission is energy- or
+industrial-based, compilers of industrial-process emissions statistics should liaise closely
+with their energy counterparts and compare their basic data for fuel use in the industrial
+processes to avoid double counting.
+All emissions, including evaporative emissions, which occur in energy transformation
+activities are discussed in the Energy Chapter.  Emissions from petrochemical processes
+are, however, covered in this chapter.  Emissions of NMVOCs from use of solvents are
+discussed in the chapter “Solvents and other product use” even if they originate from an
+industrial process.
+CO2 from use of biological carbon as feedstock and fermentation processes should not
+be reported under “Industrial Processes” or  any other sector of the IPCC Guidelines if
+they originate from sources of carbon that are from a closed cycle.
+Non-combustion industrial processes resulting in N2O emissions are recognised as
+important anthropogenic contributors to global N2O emissions.  It is estimated that this
+source category represents 10 to 50 per cent of anthropogenic N2O emissions and 3 to
+20 per cent of all global emissions of N2O (IPCC, 1992).  The main sources of industrial
+anthropogenic N2O emissions are adipic acid and nitric acid production.
+INDUSTRIAL PROCESSES
+2.2
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulphur hexafluoride (SF6) are
+used as alternatives to ozone depleting substances being phased out under the Montreal
+Protocol.  Current and expected applications of these compounds include refrigeration
+and air-conditioning, fire extinguishing, aerosols, solvents, and foam production.  These
+chemicals are either emitted instantaneously or slowly being leaked out over time.  Many
+of these compounds have high global warming potentials (GWPs) and long atmospheric
+lifetimes.  Consumption of HFCs, and to some extent PFCs and SF6, is expected to grow
+substantially in the next decades due to their importance as substitutes for ozone
+depleting substances.
+HFCs, PFCs and SF6 are also emitted from industrial processes, such as production of
+aluminium, magnesium and halocarbons (e.g., HCFC-22).  In some countries PFC
+emissions from industrial processes could be an important contributor to national GHG
+emissions, due to high GWPs.
+Much of the information on the greenhouse gases contained within this chapter is based
+on four key documents: ”Anthropogenic Emissions of CO2, CH4 and N2O in Norway”,
+(Rypdal, 1993), “Greenhouse gas emissions in Norway”,  Norwegian Pollution Control
+Authority (1994), “Workbook for Industrial Emissions and Solvent Use”, National
+Greenhouse Gas Inventory Committee, Australia (Workbook, Australia, 1995), and the
+previous version of the Industrial Processes Chapter in the IPCC Guidelines for National
+Greenhouse Gas Inventories (IPCC, 1995).  In addition, several experts, within and outside
+of the Industrial Processes Expert Group, have contributed to this chapter.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.3
+TABLE 2-1
+POTENTIAL EMISSIONS FROM INDUSTRIAL PROCESSES.
+Process
+Greenhouse Gases
+Ozone and Aerosol Precursors
+CO2
+CH4
+N2O
+PFC
+SF6
+HFC
+NOx
+NMVOC
+CO
+SO2
+Mineral Products
+Cement production
+x
+x
+Lime production
+x
+x
+Limestone use
+x
+Soda Ash prod. and use
+x
+Asphalt roofing
+x
+x
+Road paving
+x
+x
+x
+x
+Other
+x
+x
+x
+x
+x
+x
+Chemical industry
+Ammonia
+x
+x
+x
+x
+x
+Nitric acid
+x
+x
+Adipic acid
+x
+x
+x
+x
+Urea
+x
+Carbides
+x
+x
+x
+x
+x
+Caprolactam
+x
+Petrochemicals
+x
+x
+x
+x
+x
+Metal Production
+Iron, steel and ferroalloys
+x
+x
+x
+x
+x
+x
+Aluminium
+x
+x
+x
+x
+x
+x
+x
+x
+Magnesium
+x
+x
+x
+x
+x
+x
+Other metals
+x
+x
+x
+x
+x
+x
+x
+Other
+Pulp and paper
+x
+x
+x
+x
+Food and drink production
+x
+Production of halocarbons
+x
+x
+x
+Use of halocarbons and SF6
+x
+x
+x
+Other sources
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+The table does not necessarily cover all potential GHGs or industrial sources.  A cross in the table does not imply that the emission estimations
+methodology is available in this report or that the emission of a given source and gas is significant.
+INDUSTRIAL PROCESSES
+2.4
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.2 
+General Methodology
+2 . 2 . 1  O v e r v i e w
+The general methodology employed to estimate emissions associated with each industrial
+process involves the product of activity level data, e.g., amount of material produced or
+consumed, and an associated emission factor per unit of consumption/production
+according to the following method:
+TOTALij = Aj x EFij
+where:
+TOTALij
+=
+process emission (tonnes) of gas i from
+industrial sector j
+Aj
+=
+amount of activity or production of process
+material in industrial sector j (tonnes/yr)
+EFij
+=
+emission factor associated with gas i per unit of
+activity in industrial sector j (tonne/tonne)
+This general method represents the fundamental relationship to evaluate industrial
+process emissions.  It should be noted, however, that a number of mathematical steps
+may be involved in reducing more complex mathematical formulae to the simplified form
+of the formula above.  In cases where mathematical transformations are involved,
+justifications are presented.
+Often process emissions from a certain industrial sector are caused by emissions from a
+few plants in each country.  Therefore, measurement data are often available.  Emission
+estimates should be based on such data if they exist instead of a more generalised
+methodology.  Even if measurements are not available, calculations should preferably be
+based on plant-specific data.
+2 . 2 . 2  
+A p p r o a c h e s  t o  A v o i d  D o u b l e  C o u n t i n g  o f
+C O 2
+The IPCC Methodology for national GHG inventories requires an intentional double
+reporting of NMVOCs, methane and carbon monoxide, firstly in their individual
+inventories, and as CO2 equivalent in the national CO2 inventory.  Whether an explicit
+addition to the CO2 inventory is required depends on how the national CO2 inventory
+has been calculated.  Guidance on this point is contained under “Double Counting of
+Emissions” (See Overview) contained in each volume of the IPCC Guidelines.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.5
+2.3 
+Cement Production
+2 . 3 . 1  O v e r v i e w
+Carbon dioxide emitted during the cement production process represents the most
+important source of non-energy industrial process of global carbon dioxide emissions.
+Cement production accounts for about 2.4 per cent of total global industrial and energy
+CO2 emissions (Marland et al., 1989).  Carbon dioxide is produced during the production
+of clinker and intermediate product from which cement is made.  High temperatures in
+cement kilns chemically change raw materials into cement clinker (greyish-black pellets
+about the size of 12 mm-diameter marbles).  Specifically, calcium carbonate (CaCO3)
+from limestone, chalk or  other calcium-rich materials is heated, forming lime (calcium
+oxide or CaO) and carbon dioxide in a process called calcination or calcining:
+CaCO3 + Heat  →  CaO + CO2
+This lime combines with silica-containing materials, provided to the kiln as clays or shales,
+to form dicalcium or tricalcium silicates, two of the four major compounds in cement
+clinker (Griffin, 1987).  The clinker is then removed from the kiln, cooled, and pulverised
+into an extremely fine grey powder.  During this operation a small amount of gypsum is
+added to regulate the setting time of the cement.  The finished product is called
+"Portland" cement1.
+It should be noted that when poured concrete is curing, some CO2 is reabsorbed by the
+concrete from the atmosphere.  This CO2 reabsorption is, however, believed to be only
+a small fraction of the CO2 emission resulting from cement production and is therefore
+usually ignored in emission calculations.
+Most of the cement currently produced in the world is of Portland cement type, which
+contains 60 per cent to 67 per cent lime by weight.  Other speciality cements are lower
+in lime, but are typically used in small quantities.  Research is underway on cement
+formulations that have similar structural properties to Portland cement, but require less
+lime (Tresouthick and Mishulovich, 1990).  Carbon dioxide emissions from cement
+production are essentially directly proportional to lime content, so production of
+cements lower in lime yield less CO2.
+Because CO2 is emitted during clinker production (rather than cement production itself),
+emission estimates should be based on the lime content and production of clinker.
+Estimating emissions based on the lime content and production of finished cement ignores
+the consideration that some domestic cement may be made from imported clinker, or
+that some finished cement may use additional lime that is not accounted for in the cement
+calculations.  Clinker statistics, however, may not be readily available in some countries.
+If this is the case, cement statistics can be used.  The differences between the lime
+content and production of clinker and cement, in most countries, are not significant enough
+to affect the emission estimates.
+                                                  
+     1 In some countries, e.g., Japan, an effort has been made to substitute blast furnace slag
+for lime.  If this non-Portland type forms a significant quantity of cement production, it
+can reduce the average emission factor.
+INDUSTRIAL PROCESSES
+2.6
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 3 . 2  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r  C O 2
+Estimation of CO2 emissions from cement production is accomplished by applying an
+emission factor, in tonnes of CO2 released per tonne of clinker produced, to the annual
+clinker output.2  The emission factor (EF) is the product of the fraction of lime used in
+the cement clinker and a constant reflecting the mass of CO2 released per unit lime.
+EFclinker = Fraction CaO x (44.01 g/mole CO2 / 56.08 g/mole CaO)
+or
+EFclinker = Fraction CaO x 0.785
+There are two methods for calculating this emission factor.  The first is to assume an
+average CaO fraction in clinker.  Since clinker is mixed with gypsum, which contains no
+lime per unit, to make cement, clinker has a higher lime percentage than finished cement.
+The average clinker lime percentage has been estimated to be 64.6 per cent.3  This
+number when multiplied by the molecular weight ratio of CO2/CaO (0.785) gives a
+clinker emission factor of 0.5071 tonnes of CO2/tonne of clinker produced.
+EFclinker = 0.646 x 0.785 = 0.5071
+A second method is to assemble country or regional data on clinker production by type
+and clinker CaO content by type, then calculate a weighted average for cement lime
+content in the country.  In most countries, the difference in the results of these two
+methods is likely to be small; any error in the lime content assumption is likely to be
+smaller than the uncertainty in clinker and cement production figures (Griffin, 1987).
+If information on clinker production is not readily available, an emission factor in tonnes
+of CO2 released per tonne of cement produced can be applied to annual cement
+production instead.  This approach has been followed by Marland et al. (1989), who took
+the average CaO content of cement to be 63.5 per cent, yielding an emission factor of
+0.4985 CO2/cement (0.136 tonne CO2 as C/tonne cement).
+EFcement =  0.635 x 0.785 =  0.4985
+Additional research indicates that "masonry cement", as opposed to "Portland cement",
+requires additional lime, over and above the lime used in its clinker.  The following
+formula can be used to account for this activity:
+                                                  
+     2 Note that the estimation of CO2 from energy use during cement production is
+explained in the energy chapter; these emissions should be reported under Energy: Fuel
+Combustion activities.
+     3 Gregg Marland, ORNL, personal communication.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.7
+a x (All Cement Production) x ((1-1/(1+b)) x c) x 0.785
+ =
+tonnes CO2 from CaO added to masonry cement
+where:
+a
+=
+fraction of all cement produced that is masonry cement (e.g., 0.1-
+0.2)
+b
+=
+fraction of weight added to masonry cement by non-plasticiser
+additives such as lime, slag, and shale (e.g., 0.03, 0.05)
+c
+=
+fraction of weight of non-plasticiser additives that is lime (e.g., 0.6-
+0.8)
+a x (All Cement Production) = masonry cement production
+                              ((1-1/(1+b)) x c) = fraction of lime in masonry cement
+not attributable to clinker
+                   ((1-1/(1+b)) x c) x 0.785 = an emission factor of CO2 from
+                                                           masonry cement additives
+The recommended method for estimating CO2 emissions from cement production is to
+multiply the most reliable figures available for tonnes of clinker produced by an emission
+factor of 0.5071 tonne CO2/tonne clinker.  Alternatively, cement production can be
+multiplied by an emission factor of 0.4985 tonne CO2/tonne cement.
+International cement production data are available from the United Nations (1988) and
+from the U.S. Bureau of Mines (1988).  In some countries, national data may be available
+from appropriate government ministries.  There is substantial overlap between the U.S.
+Bureau of Mines and the UN data sets, but the former is more complete.  Published
+information is also available from the European Cement Association (CEMBUREAU,
+1990).
+2 . 3 . 3  E m i s s i o n s  E s t i m a t i o n  M e t h o d o l o g y  f o r  S O 2
+EMEP/CORINAIR has classified cement production as both an industrial combustion and
+an industrial process (SNAP codes 30311 and 40612, respectively).  However, no
+description of emission factors for the non-combustion emissions are presented.  A
+default methodology is, therefore, presented below.
+SO2 emissions will originate from sulphur in the fuel and in the clay raw material.  Most
+(about 70-95 per cent) of the SO2 generated in the process will be absorbed in the
+produced alkaline clinker (U.S. EPA 1995).  The fuel emissions are counted as energy
+emissions while the SO2 from the clay should be counted as non-combustion emissions.
+A non-combustion emission factor of 0.3 kg SO2/tonne cement has been calculated from
+measurements in Norwegian plants (Rypdal 1995).  This factor may vary from plant to
+plant as the sulphur content of raw materials and degree of absorption will vary.  If no
+information on sulphur content and degree of absorption is available and there are no
+measurement data, a factor of 0.3 kg SO2/tonne cement is suggested.
+INDUSTRIAL PROCESSES
+2.8
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.4 
+Lime Production
+2 . 4 . 1  O v e r v i e w
+Calcined limestone (or quicklime) is formed by heating limestone to decompose the
+carbonates.  This is usually done at high temperatures in a rotary kiln and the process
+releases carbon dioxide.  Depending on the product requirements (e.g., metallurgy, pulp
+and paper, construction materials, effluent treatment, water softening, pH control and
+soil stabilisation), primarily high calcium limestone (calcite) is processed in this manner
+from the quarried limestone to produce quicklime in accordance with the following
+reaction:
+CaCO3 (limestone) + heat  →  CaO (quicklime) + CO2
+Hydrated (slaked) lime is also produced, with additional hydration operations, at some
+facilities.  Dolomitic limestone or magnesite may also be processed at high temperature
+to obtain dolomitic lime (and release CO2) in accordance with the following reaction:
+CaCO3.Mg CO3 (dolomite) + heat → CaO.MgO (dolomitic lime) + 2CO2
+The production of lime involves a series of steps comparable to those used in the
+production of Portland cement clinker.  These include quarrying the raw materials,
+crushing and sizing, calcining (i.e., high temperature heat processing ~ 1100° C) the raw
+materials to produce lime, hydrating the lime to calcium hydroxide followed by
+miscellaneous transfer, storage and handling operations.
+2 . 4 . 2  
+E m i s s i o n s  
+E s t i m a t i o n  
+M e t h o d o l o g y  
+f o r
+C O 2
+The mass of CO2 produced per unit of lime manufactured may be estimated from the
+molecular weights and the lime content of products.  On the basis of the calcination
+reaction, one mole of carbon dioxide is formed for each mole of quicklime produced
+from burning calcium carbonate.  This was used to derive an emission factor based on the
+amount of quicklime produced (ORTECH, 1991), assuming complete dissociation of the
+carbonate rock and no reabsorption of CO2 by lime in the kiln.  In instances where
+dolomitic limestone is calcined, the emission factor was derived based on the lime:
+magnesia product (ORTECH, 1991).  The emission factors are tabulated in Table 2-2.
+For high calcium lime, CO2 emissions are estimated according to:
+EF =  44.01 g/mole CO2 /56.08 g/mole CaO
+ 
+=  785 kg CO2 /tonne high calcium lime
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.9
+For dolomitic lime, CO2 emissions are estimated according to:
+ EF =  2 x 44 .01 g/mole CO2 /96.39 g/mole CaO • MgO
+                    =  913 kg CO2 /tonne dolomitic lime
+The coefficient 2 relates to the stoichiometric ratio of CO2 to CaO.MgO in the
+calcination process.
+Both formulas assume pure lime, but in some cases the purity may range from 85 to 95
+per cent (Workbook, Australia, 1995).  In these cases, the formulas should be adjusted
+according to the lime purity.
+TABLE 2-2
+SUMMARY OF EMISSION FACTORS
+Process
+Component
+Emission Factor
+Reference
+Lime Kiln-Calcite Feed
+CO2
+0.79 tonnes CO2/tonnes
+quicklime produced
+ORTECH, 1991
+Lime 
+Kiln-Dolomite
+Feed
+CO2
+0.91 tonnes CO2/tonnes
+dolomitic lime
+ORTECH, 1991
+The consumption of lime may in cases result in the removal of CO2 from the
+atmosphere.  The use of hydrated lime (for water softening) for example, results in CO2
+reacting with lime to form calcium carbonate.  Lime is also used as a CO2 absorbent for
+atmospheric control in the storage of fruit.  At this time, data is not available to reliably
+estimate the extent of atmospheric CO2 removal from the use of lime.
+2 . 4 . 3  E m i s s i o n s  E s t i m a t i o n  M e t h o d o l o g y  f o r  S O 2
+Details for deriving emissions for this sector are not yet available.  SO2 should be
+considered.  The non-combustion emissions will depend on the sulphur content and
+mineralogical form (pyrite or gypsum) of the stone feed, the quality of the lime produced
+and the type of kiln (U.S. EPA 1995).  In this process, SO2 emissions from combustion will
+usually exceed the non-combustion emissions (U.S. EPA 1995).  Until more information
+becomes available, it is recommended that only emissions from fuel combustion (Energy
+Chapter) are considered.
+2.5 
+Limestone and Dolomite Use
+2 . 5 . 1  O v e r v i e w
+Limestone (CaCO3) and dolomite (CaCO3.MgCO3) are basic raw materials having
+commercial applications in a number of industries including metallurgy (e.g., iron and
+steel), glass manufacture, agriculture, construction and environmental pollution control.
+In industrial applications involving the heating of limestone or dolomite at high
+temperatures, CO2 is generated.
+INDUSTRIAL PROCESSES
+2.10
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+CO2 from liming of soils should be reported in the Land-use Change and Forestry
+Chapter. Limestone and dolomite used in cement and lime production should be
+reported under that industry sector.  Under this section are inventoried all other uses of
+limestone and dolomite which produce CO2 emissions.
+2 . 5 . 2  E m i s s i o n s  E s t i m a t i o n  M e t h o d o l o g y  f o r  C O 2
+The mass of CO2 emitted from the use of limestone and dolomite may be estimated from
+a consideration of consumption, purity of the raw materials and the stoichiometry of the
+chemical processes.
+Emission factor, EFls, for limestone use:
+EFls = f x [44.01 g/mole CO2] / [(100.09 g/mole CaCO3)]
+             = (440 x f ) kg CO2 / tonne limestone
+where:
+f is the fractional purity of limestone in CaCO3 per tonne of total raw material
+weight (if unknown, the default factor for f is equal to 1).
+Emission factor, EFls, for dolomite use:
+Efd =  f x [2 x 44.01 g/mole CO2] / [(184.41 g/mole CaCO3�MgCO3)]
+           = (477 x f) kg CO2 / tonne dolomite
+The total CO2 emission from limestone and dolomite use in Gg/yr calculated as:
+TotalId = {(Als x EFls) + (Ad x EFd) }/106
+                    = {(440 x f x Als) + (477 x f x Ad)}/106
+where:
+Totalld is the process emission of CO2 from limestone and dolomite use (Gg/yr)
+Als is the consumption of limestone (tonnes/yr).  Consumption is assumed to equal
+material mined (or dredged) plus material imported minus material exported.  The
+consumption entering this calculation excludes limestone used for producing cement
+and lime, agriculture and processes where CO2 is not generated.
+Ad is the consumption of dolomite (tonnes/yr).  Consumption is assumed to equal
+material mined plus material imported minus material exported.  The consumption
+entering this calculation excludes limestone used for producing lime and magnesium,
+and processes where CO2 is not generated.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.11
+2.6 
+Soda Ash Production and Use
+2 . 6 . 1  O v e r v i e w
+Soda ash (sodium carbonate, Na2CO3) is a white crystalline solid that is used as a raw
+material in a large number of industries including glass manufacture, soap and detergents,
+pulp and paper production and water treatment.  Carbon dioxide is emitted from the use
+of soda ash, and may be emitted during production, depending on the industrial process
+used to manufacture soda ash.
+Emissions of CO2 from the production of soda ash vary substantially with the
+manufacturing process.  Four different processes may be used commercially to produce
+soda ash.  Three of these processes, monohydrate, sesquicarbonate and direct
+carbonation, are referred to as natural processes.  The fourth, the Solvay process, is
+classified as a synthetic process.
+About 25 per cent of the world production is produced from natural sodium carbonate-
+bearing deposits referred to as natural processes.  During the production process, trona
+(the principal ore from which natural soda ash is made) is calcined in a rotary kiln and
+chemically transformed into a crude soda ash.  Carbon dioxide and water are generated
+as by-products of this process.  Carbon dioxide emissions can be estimated based on the
+following chemical reaction:
+Na2CO3 x NaHCO3 x 2H2O→ 3Na2CO3 + 5H2O + CO2
+                       Trona
+Soda Ash
+According to this reaction, it takes 10.27 tonnes of trona to produce 1 tonne of carbon
+dioxide.  Hence, for natural soda ash production, emissions of carbon dioxide can be
+calculated by the following formula:
+EF = 0.097 tonne CO2 / tonne of Trona
+About 75 per cent of the world production is synthetic ash made from sodium chloride.
+In the Solvay process, sodium chloride brine, limestone, coke and ammonia are the raw
+materials in a series of reactions leading to the production of soda ash.  Ammonia,
+however, is recycled and only a small amount is lost.  The series of reactions involved in
+the Solvay process may be presented as follows:
+CaCO3 + heat → CaO + CO2
+CaO + H2O → Ca(OH)2
+NaCl + H2O + NH3 + CO2 → NaHCO3 + NH4Cl
+2NaHCO3 + heat → Na2CO3  + CO2 + H2O
+Ca(OH)2  + 2NH4Cl → CaCl2 + 2NH3 + 2H2O
+INDUSTRIAL PROCESSES
+2.12
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+The net overall reaction may be summarised as:
+CaCO3 + 2NaCl → Na2CO3  + CaCl2
+From the series of reactions presented above, CO2 is generated in two pyrolysis
+processes.  The CO2 generated is captured, compressed and directed to Solvay
+precipitating towers for consumption in a mixture of brine (aqueous NaCl) and ammonia.
+Although CO2 is generated as a by-product, the carbon dioxide is recovered and recycled
+for use in the carbonation stage and in theory the process is neutral, i.e., generation of
+CO2 equals uptake.
+In practice, however, CO2 is emitted to the atmosphere during the production of soda
+ash because more CO2 is produced than is stoichiometrically required.  The excess CO2
+is produced by calcining limestone with metallurgical grade coke (approximately 7 per
+cent of limestone weight).  In order to avoid double counting, CO2 emissions associated
+with the use of coke in soda ash production should be accounted for separately and those
+emissions associated with the non-energy use of coke subtracted from the totals in the
+combustion section.
+Carbon dioxide emissions are associated with the use of soda ash.  Some of the major
+uses include glass manufacture, chemicals, soaps, detergents and flue gas desulphurisation.
+For each of these uses, it is assumed that for each mole of soda ash use, one mole of
+CO2 is emitted (U.S. EPA, 1994b).
+2 . 6 . 2  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r  C O 2
+Soda Ash Production
+From stoichiometric considerations, the industrial process emission of CO2 associated
+with the Solvay process is zero.  The excess CO2 emitted from soda ash production
+originates from coke oxidation (see the Energy Chapter for appropriate emission rate for
+coke combustion and use appropriate national statistics on coke use in soda ash
+production).  For processes utilising trona, emissions can be calculated by the following
+formula:
+EF = 0.097 tonne CO2 / tonne of Trona
+During the production of soda ash in the Solvay process, calcium chloride is produced.  In
+cases where calcium chloride is discharged to the sea, calcium chloride dissolves to form
+calcium and chloride ions.  Calcium ions in turn take part in a number of chemical
+reactions, including the sequestering of carbonate ions to form calcium carbonate which
+represents a sink for CO2.  Available experimental data from Australia indicate that
+approximately 0.23 tonnes of CO2 is sequestered from the ocean for each tonne of soda
+ash produced (Workbook, Australia, 1995).
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.13
+Soda Ash Use
+For each mole of soda ash use, one mole of CO2 is emitted, so that the mass of CO2
+emitted from the use of soda ash may be estimated from a consideration of consumption
+data and the stoichiometry of the chemical process as follows:
+EF = 44.01 g/mole CO2 /105.99 g/moleNa2CO3
+= 415 kg CO2/tonne Na2CO3
+2.7 
+Production 
+and 
+Use 
+of 
+Miscellaneous
+Mineral Products
+2 . 7 . 1  A s p h a l t  R o o f i n g  P r o d u c t i o n
+This is the production of saturated felt, roofing and siding shingles and roll roofing and
+sidings.  Most of these products are used in roofing and other building applications.
+Emissions from these processes can be estimated from the national total mass of
+products.  The emission factors in Table 2-3 given in the EMEP/CORINAIR Guidebook
+(SNAP 40610) are default factors.
+TABLE 2-3
+EMISSION FACTORS FOR ASPHALT ROOFING PRODUCTION (KG/TONNE PRODUCT)
+Emission Factor
+(Saturation with Spray)
+Emission Factor
+(Saturation without Spray)
+NMVOC
+0.13 - 0.16
+0.046 - 0.049
+CO
+NAV
+0.0095
+NAV = Not Available
+Asphalt blowing (SNAP 60310) is the process of polymerising and stabilising asphalt to
+improve its weathering characteristics.  Air blown asphalts are used in the production of
+asphalt roofing products.  The blowing may take place in a refinery, an asphalt processing
+plant or an asphalt roofing plant.  This activity leads to emissions of NMVOC.  The
+emission factors in the EMEP/CORINAIR Guidebook range from 0.1 to 30 kg total
+organic compounds/tonne asphalt blown depending on the degree of control and it may
+be assumed that all the mass of asphalt used for non-paving use will be blown.
+INDUSTRIAL PROCESSES
+2.14
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 7 . 2  R o a d  P a v i n g  w i t h  A s p h a l t
+Asphalt road surfaces are composed of compacted aggregate and asphalt binder.  Gases
+are emitted from the asphalt plant, the road surfacing operations and from the
+subsequent road surface.  The emissions of NMVOC depend on the type of asphalt (slow,
+medium or rapid cure) and the amount of diluent.  Emission factors given in Table 2-4 use
+the default assumptions given in the EMEP/CORINAIR Guidebook (SNAP 40611).  The
+amount of diluent used is usually lower in warm countries than in the colder, and hence
+lower emission factors may be expected in warm countries.
+TABLE 2-4
+EMISSION FACTORS FOR ROAD PAVING WITH ASPHALT ( KG/TONNE ASPHALT)
+SO2
+NOx
+CO
+NMVOC
+Asphalt Plant
+0.12
+0.084
+0.035
+0.023
+Road Surface
+NAV
+NAV
+NAV
+320
+If the tonnes of asphalt paved is not known but rather the area paved, a conversion factor
+of 100 kg asphalt/m2 road surface may be used.
+2 . 7 . 3  P r o d u c t i o n  o f  O t h e r  M i n e r a l  P r o d u c t s
+There may be several other mineral production processes emitting pollutants.  These are
+probably not significant on a global scale, but may be significant on a national or local
+scale.  There is generally little information about emissions from these processes.
+One emission source is the production of concrete pumice stone.  As for cement
+production, SO2 emissions will originate from the fuel use and sulphur in clay.  About 45
+per cent of the SO2 generated in the process will be sequestered in the product.  An
+emission factor of about 0.5kg SO2/tonne product has been calculated from
+measurements in Norwegian plants (Rypdal 1995), and used where plant-specific data are
+not available.
+NMVOCs may be emitted from manufacture of glass.  An emission factor of 4.5 kg/tonne
+product has been derived from CASPER (1995).
+2.8 
+Ammonia Production
+2 . 8 . 1  O v e r v i e w
+In most instances, anhydrous ammonia is produced by catalytic steam reforming of natural
+gas (mostly CH4) or other fossil fuels.  As can be seen in the following reactions with
+methane as a feedstock, carbon dioxide is produced.
+C + H2O  →  CO + H2
+CH4 + H2O  →  CO + 3H2
+N2 + 3H2  → 2NH3
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.15
+In general, the processes that affect CO2 emissions in the production of ammonia are:
+• carbon monoxide shift at two temperatures using iron oxide, copper oxide and/or
+chromium oxide catalyst for conversion to carbon dioxide;
+• carbon dioxide absorption by a scrubber solution of hot potassium carbonate,
+monoethanolamine (MEA), Sulfinol (alkanol amine and tetrahydrothiophene dioxide)
+or  others;
+• methanation of residual CO2 to methane with nickel catalysts to purify the synthesis
+gas.
+Natural gas is used as the feedstock in most plants, while other fuels (e.g., heavy oils) may
+be used with the partial oxidation process.  In addition, plants may use by-product
+hydrogen, rather than natural gas, to produce ammonia (thereby eliminating the release
+of CO2 from the synthesis process) (CFI, 1992).  The production of ammonia represents
+a significant non-energy industrial source of CO2 emissions.
+2 . 8 . 2  P r o c e s s  D e s c r i p t i o n
+The primary release of CO2 at plants using the natural gas catalytic steam reforming
+process occurs during regeneration of the CO2 scrubbing solution with lesser emissions
+resulting from condensate stripping.
+Carbon Dioxide Regenerator
+After absorption of CO2 from the process gas, the saturated scrubbing solutions (e.g.,
+potassium carbonate, MEA, etc.) are regenerated (i.e., for re-use) with steam stripping
+and/or boiling to release CO2 from the bicarbonates according to the following reactions:
+Heat
+2KHCO3  →  K2CO3 + H2O + CO2
+Heat
+(C2H5ONH2) 2 + H2CO3  →  2C2H5ONH2 + H2O + CO2
+The stripping gas, containing CO2 and other impurities, may be directed to a urea plant
+(where operational), to a liquid carbonic acid plant, or vented to the atmosphere
+(Environment Canada, 1987).
+Condensate Stripper
+Cooling the synthesis gas after low temperature shift conversion forms a condensate
+containing small quantities of CO2 and other process impurities.  The condensate is
+stripped by steam, whereby the components may be vented to the atmosphere, but
+normally recycled to the process together with the process stream (U.S. EPA, 1985).
+2 . 8 . 3  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r  C O 2
+Emissions of CO2 will depend on the amount and composition of gas (or oil) used in the
+process.  It is assumed that all carbon will be emitted to air.  It is recommended that
+inventory contributions are compiled using point source methods due to the rather
+limited number of plants.  Where greatest accuracy is desired, this will require direct
+contact with producers.  Alternatively, total sector emissions may be determined on an
+area source basis using available emission factors and methods noted below.
+INDUSTRIAL PROCESSES
+2.16
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+The most accurate method of estimation will be:
+Emission (kt) = Consumption of gas (kt) x carbon content x 44/12
+If the gas consumption is not available, an alternative is to calculate the emissions from
+the ammonia production:
+Emission (kt) = Production of ammonia x Emission factor
+In both cases, in order to avoid double counting, the quantities of oil or gas used must be
+subtracted from the quantity reported under energy and non-energy use in the Energy
+Chapter.
+The CO2 from ammonia production may be used for producing urea or dry ice.  This
+carbon will only be stored for a short time.  Therefore, no account should consequently
+be taken for intermediate binding of CO2 in downstream manufacturing processes and
+products.
+Emission Factor Information
+If the emissions are calculated from the gas or oil consumption, the standard emission
+factors suggested in the energy chapter will be relevant.  The carbon content of natural
+gas may vary, and it is recommended that this is determined for each plant.
+Some emission factors related to the production of ammonia are shown in Table 2-5.
+TABLE 2-5
+AMMONIA PRODUCTION EMISSION FACTORS
+Country
+Emission Factor a,b
+Tonne CO2/tonne NH3 produced
+Reference
+Canadac
+1.6
+Jaques, 1992
+Industrial Chemicals, 1980
+Norway
+1.5
+Norsk Hydro, 1996
+a Reductions should be applied to account for any ammonia that is produced from by-product hydrogen.
+b Figure for Norway excludes gas used as a fuel.  It is not clear if this is included in the Canadian figure.  The figures
+are dependent on the carbon content in the feedstock.
+c Assumes 812 m3 gas/tonnes NH3 and 0.525 kg carbon/m3 gas.
+2 . 8 . 4  
+E m i s s i o n  
+E s t i m a t i o n  
+M e t h o d o l o g y  
+f o r
+O z o n e  P r e c u r s o r s  a n d  S O 2
+The production of ammonia is described in Section 2.8.1.  However, emission methods
+have not yet been developed for the EMEP/CORINAIR Guidebook (SNAP 40403).
+SO2, NOx, CO and NMVOC may be emitted in addition to CO2.  Default emission
+factors for uncontrolled emissions in Table 2-6 are taken from U.S. EPA 1995.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.17
+TABLE 2-6
+EMISSION FACTORS FOR AMMONIA PRODUCTION(KG/TONNE PRODUCT)
+SO2
+TOC a
+CO
+Desulphurisation
+0.03
+3.6
+6.9
+Carbon dioxide regenerator
+NE
+0.5
+1.0
+Condensate steam stripper
+NE
+0.6
+NE
+Total
+0.03
+4.7
+7.9
+a  Total organic compounds
+NE = negligible
+There will usually be few ammonia plants in a country, and it is recommended that
+emissions from plant specific data be estimated.
+2.9 
+Nitric acid Production
+2 . 9 . 1  O v e r v i e w
+The production of nitric acid (HNO3) generates nitrous oxide (N2O) as a by-product of
+the high temperature catalytic oxidation of ammonia (NH3).
+Nitric acid is used as a raw material mainly in the manufacture of nitrogenous-based
+fertiliser.  Nitric acid may also be used in the production of adipic acid and explosives
+(e.g., dynamite), for metal etching and in the processing of ferrous metals.
+Nitric acid production involves three distinct chemical reactions:
+4NH3 + 5O2  →  4NO + 6H2O
+2NO + O2  →  2NO2
+3NO2 + H2O  →  2HNO3 + NO
+Nitrous oxide generation during the production of nitric acid is not well documented.
+Nitrogen oxidation steps under overall reducing conditions are considered to be potential
+sources of N2O.  Nitric oxide (NO), an intermediate in the production of nitric acid, is
+also documented to readily decompose to N2O and nitrogen dioxide (NO2) at high
+pressures for a temperature range of 30 to 50°C (Cotton and Wilkinson, 1988).
+2 . 9 . 2  E m i s s i o n  D a t a  o f  N 2O
+Table 2-7 gives examples of emissions factors from nitric acid production plants, based on
+measurements.  Emission rates depend upon technology and operating conditions.
+INDUSTRIAL PROCESSES
+2.18
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 2-7
+EMISSION FACTORS FOR N2O FROM NITRIC ACID PRODUCTION
+Emission Factor
+kg N2O/tonne nitric acid
+Reference
+USA
+2-9 a
+Reimer et al., 1992
+Norway: - modern, integrated plants
+<2
+Norsk Hydro, 1996
+- atmospheric pressure plants
+4-5
+“
+- medium pressure plants
+6-7.5
+”
+Japan
+2.2-5.7
+Japan Environment
+Agency, 1995
+a. Emission factors up to 19 kg N2O/tonne nitric acid have been reported for plants not equipped with non-
+selective catalytic reduction technology (NSCR) (Choe et al., 1993; Olivier, 1996; Oonk, 1996).
+2 . 9 . 3  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r  N 2O
+There are usually only very few plants in each country producing nitric acid, so measured
+data on N2O emissions are often available.  These data also take into account the effect
+of any abatement technology installed at the specific plants.  Emissions vary significantly
+from one plant to another, and if measured data are available, emission estimates should
+be based upon such data.  Every effort should therefore be made to obtain measurement
+data.
+However, if such data are not available, emissions should be calculated from production
+data of nitric acid within a country, and specific emission figures based on the actual
+technology, for which Table 2-7 can be consulted.  When no measured data exist, specific
+emission factors at the upper end of the appropriate range should be chosen.
+N2O-emissions  = Production level x Specific Emission Factor
+2 . 9 . 4  E m i s s i o n  E s t i m a t i o n  M e t h o d o l o g y  f o r  N O X
+Nitric acid is produced from the catalytic oxidation of ammonia.  The process is described
+in Section 2.9.1 and in the EMEP/CORINAIR Guidebook (under SNAP 40402).  In
+addition to the GHGs described in Section 2.9.1, there may be non-combustion emissions
+of NOx.
+Emissions are estimated from the amount of nitric acid produced.  Factors range from
+0. 1- 1.0 NOx/tonnes acid produced for the direct strong acid production process to 10-
+20 kg/tonnes acid produced for the low pressure process.  12.0 kg NOx/tonnes nitric acid
+should be used where the process and technology details are not known.
+There will usually be few nitric acid plants in a country, and it is recommended that
+emissions are calculated from plant specific data.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.19
+2.10 Adipic Acid Production
+2 . 1 0 . 1  O v e r v i e w
+Adipic acid is used in the manufacture of a large number of products including synthetic
+fibres, coatings, plastics, urethane foams, elastomers and synthetic lubricants.  The
+production of Nylon 6.6 accounts for the bulk of adipic acid use.
+Adipic acid is a dicarboxylic acid manufactured by a two-stage process.  The first stage of
+manufacturing involves the oxidation of cyclohexane or cyclohexanone to form a
+cyclohexanone/cyclohexanol mixture.  The mixture is then oxidised by nitric acid in the
+presence of a catalyst to form adipic acid.  N2O is generated as a by-product of the nitric
+acid oxidation stage:
+(CH2)5CO 
++
+(CH2)5CHOH
++
+wHNO3
+      (Cyclohexanone)
+(Cyclohexanol)
+ 
+→  
+HOOC(CH2)4COOH (Adipic Acid) + xN2O + yH2O
+Adipic acid production also results in the emissions of NMVOC, CO and NOx.  Process
+emissions from the production of adipic acid vary substantially with the level of emission
+control employed.
+2 . 1 0 . 2  E m i s s i o n  
+E s t i m a t i o n  
+M e t h o d o l o g y  
+f o r
+N 2O
+Adipic acid production unavoidably produces N2O as a by-product with an associated
+emission factor (for unabated emissions) of 300g N2O/kg adipic acid produced (Thiemens
+and Trogler, 1991).  Japanese emissions (measured at 264 g N2O/kg adipic acid) are
+consistent with this value (Japan Environment Agency, 1995).
+N2O emissions (kg)  =  Adipic Acid Production(tonnes)
+x  300 kg  N2O/ tonne Adipic Acid
+Often, the abatement of N2O results from the treatment of the off-gases4 in a reductive
+furnace.  A number of adipic acid producers treat the off-gases with the aim of reducing
+NOx emissions, but the treatment also destroys N2O (Reimer et al., 1992).
+There is a range of abatement efficiencies attainable with currently available technologies.
+Any reduction in N2O emissions due to the installation of abatement systems should be
+assessed on a plant-specific basis where possible.
+                                                  
+     4 “Off-gases” are gases that are released from the process.
+INDUSTRIAL PROCESSES
+2.20
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2 . 1 0 . 3  E m i s s i o n  
+E s t i m a t i o n  
+M e t h o d o l o g y  
+f o r
+O z o n e  P r e c u r s o r s
+The production of adipic acid is described in Section 2.10.1 and (under SNAP 40521) in
+the EMEP/CORINAIR Guidebook.
+The EMEP/CORINAIR Guidebook indicates that there may be emissions of CO2, NO and
+NO2 in addition to N2O, but does not propose emission factors at present.
+Furthermore, European reported emission data indicate that pollutants other than N2O
+are not significant (CORINAIR-90).  U.S. EPA emission factors are given in Table 2-8
+(U.S. EPA 1995).
+TABLE 2-8
+ EMISSION FACTORS FOR ADIPIC ACID PRODUCTION ( KG/TONNE PRODUCT)
+NOX
+CO
+VOC
+8.1
+34.4
+43.3
+2.11 Carbide Production
+2 . 1 1 . 1  C O 2 
+a n d  
+C H 4 
+f r o m  
+S i l i c o n  
+C a r b i d e
+P r o d u c t i o n
+In the production of silicon carbide, CO2 is released as a by-product from a reaction
+between quartz and carbon.  Petrol coke is used as a carbon source.  Silicon carbide is
+extremely hard and is widely used as an abrasive.  The formula describing the reaction is
+given below but in practice it does not proceed in the stoichiometric proportions
+indicated.
+O2
+SiO2 + 3C  →  SiC + 2CO  →  2CO2
+Some carbon, about 35 per cent, is sequestered in the product.
+Generally, the emissions from silicon carbide production can be calculated from a mass
+balance approach as:
+CO2 emissions (tonnes)  =  A x C (100-S) x 3.67 x 10-4
+where:
+A
+=
+consumption of coke in tonnes
+C
+=
+per cent carbon content in coke
+S
+=
+per cent carbon input sequestered in product

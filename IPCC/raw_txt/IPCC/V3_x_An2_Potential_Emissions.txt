@@ -1,0 +1,382 @@
+Annex 2: Potential Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.1 
+ANNEX 2 
+POTENTIAL EMISSIONS (FORMERLY 
+TIER 1 FOR CONSUMPTION OF HFCs, 
+PFCs, AND SF6) 
+Volume 3: Industrial Processes and Product Use 
+A2.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Paul Ashford (UK) and Jochen Harnisch (Germany) 
+Annex 2: Potential Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.3 
+Contents 
+Annex 2 
+Potential Emissions (formerly Tier 1 for consumption of HFCs, PFCs, and SF6) ...........................A2.4 
+A2.1 
+Basic method to calculate potential emissions .............................................................................A2.4 
+A2.2 
+Additional calculations for estimating potential emissions according to the former Tier 1b .......A2.6 
+References 
+....................................................................................................................................................A2.7 
+Equations 
+Equation A2.1 ............................................................................................................................................A2.4 
+Equation A2.2 ............................................................................................................................................A2.5 
+Equation A2.3 ............................................................................................................................................A2.5 
+Equation A2.4 ............................................................................................................................................A2.6 
+Equation A2.5 ............................................................................................................................................A2.6 
+Equation A2.6 ............................................................................................................................................A2.6 
+Equation A2.7 ............................................................................................................................................A2.7 
+Equation A2.8 ............................................................................................................................................A2.7 
+Tables 
+Table A2.1 
+Calculation scheme for potential emissions according to the former Tier 1a.....................A2.5 
+ 
+Volume 3: Industrial Processes and Product Use 
+A2.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ANNEX 2 POTENTIAL EMISSIONS (FORMERLY TIER 1 
+FOR CONSUMPTION OF HFCs, PFCs, AND SF6) 
+A2.1 
+BASIC METHOD TO CALCULATE POTENTIAL 
+EMISSIONS 
+The following approach, formerly the Tier 1 approach for estimating ‘potential’ emissions related to the 
+consumption of hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulphur hexafluoride (SF6), is no 
+longer recommended as a method for estimating HFCs, PFCs, or SF6 emissions.  This is because it is likely to 
+grossly overestimate emissions from sources in which stock is growing quickly and emissions are delayed for 
+decades, such as air conditioning and refrigeration equipment, foams, and electrical equipment. However, when 
+considered along with estimates of actual emissions, the potential emissions approach can assist in validation of 
+completeness of sources covered and as a QC check by comparing total domestic consumption as calculated in 
+this ‘potential emissions approach’ per compound with the sum of all activity data of the various uses. It may 
+also assist in monitoring the growth of banked greenhouse gases and thereby provide an indication of potential 
+future environmental burdens. Thus, the method is included here for reference purposes e.g., to facilitate 
+consistent time series. 
+Since net consumption of a chemical is equal to production plus imports minus exports, the calculation formula 
+for the basic method (former Tier 1) is as follows: 
+ 
+EQUATION A2.1 
+(
+)
+Destruction
+Exports
+Imports
+Production
+Potential SF emissions from all uses
+−
+−
++
+=
+6
+ 
+ 
+Production refers to production of new chemical. Reprocessing of recovered fluid should not be included.  
+Imports and exports include bulk chemicals and may or may not include the quantity of chemical contained in 
+products, such as refrigerators, air-conditioners, packaging materials, insulating foams, fire extinguishers, etc. 
+Although destruction of HFCs, PFCs, and SF6 is currently not widely practised, and may be technically difficult 
+in some cases, it should be included as a potential option to reduce emissions.  By-product emissions during 
+HFC, PFC, and SF6 production and fugitive emissions related to production and distribution have to be 
+calculated separately.  
+There are two versions that formerly had been labelled Tier 1 (a and b) depending upon whether HFCs, PFCs, 
+and SF6 in products are taken into account.  In the former Tier 1a, chemicals contained in products are not 
+considered.  In the former Tier 1b, chemicals contained in products are considered.  The reason for two versions 
+is that it is expected that there may be difficulties in many countries with the availability of data regarding 
+imports and exports of HFCs, PFCs, and SF6 in products, at least in the short term.  The former Tier 1b 
+methodology is preferred if relevant data are available. As an alternative, alternative activity data can be used to 
+take into account consumption (potential emissions) associated with the trade of products containing HFCs, 
+PFCs, and SF6.  
+If countries choose to develop potential emission estimates, they are encouraged to track individual HFCs, PFCs, 
+and SF6 separately.  However, such tracking (particularly for imports and exports) is complicated by the fact that 
+many of the commercial types of HFC/PFC refrigerants, blowing agents, solvents, etc. are mixtures of two or 
+more HFCs and/or PFCs.  It is important to note that the composition of fluids for similar purposes may vary 
+according to individual formulas developed by the different chemical companies. 
+Former Tier 1a 
+Quantities of HFCs, PFCs, and SF6 contained in various products imported into or exported from a country may 
+be difficult to estimate.  In the former Tier 1a, only chemicals imported or exported in bulk are considered in the 
+calculation of potential emissions, which is a similar approach presently used to report Ozone Depleting 
+Substances (ODS) under the Montreal Protocol.  The following definitions apply: 
+Annex 2: Potential Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.5 
+EQUATION A2.2 
+in bulk
+Imported HFC/PFC/SF
+Imports
+6
+=
+ 
+in bulk
+Exported HFC/PFC/SF
+Exports
+6
+=
+ 
+ 
+The application of the former Tier 1a may lead to underestimation or overestimation of potential emissions, 
+depending on whether the majority of products containing HFCs, PFCs, and SF6 is being imported or exported. 
+Data on production and exports of chemicals in bulk should be available from chemical companies. Information 
+on imports of chemicals in bulk may be available from customs services. National environmental protection 
+authorities may keep records of HFCs, PFCs, and SF6 destroyed, if any. 
+Potential emission data for each individual chemical should be calculated according to the scheme in Table A2.1: 
+TABLE A2.1 
+CALCULATION SCHEME FOR POTENTIAL EMISSIONS 
+ACCORDING TO THE FORMER TIER 1a 
+REPORTING YEAR: 
+TYPE OF CHEMICAL (e.g., HFC-134a): 
+ 
+Production of chemical 
+ 
++ Import of chemical in bulk 
+ 
+–  Export of chemical in bulk 
+ 
+–  Destruction of chemical 
+ 
+= Sum (potential emission of chemical) 
+ 
+Emissions related to production and distribution of HFCs, PFCs, and SF6 have to be taken into account as 
+described in Section 3.10, Fluorochemical Production. 
+Former Tier 1b 
+The former Tier 1b is an extension of the former Tier 1a and includes HFCs, PFCs, and SF6 contained in various 
+products which are imported and exported.  The following definitions then apply: 
+EQUATION A2.3 
+containing products
+of chemical imported in HFC/PFC/SF
+quantity
+Imported chemical in bulk
+ports
+Im
+6
++
+=
+ 
+containing products
+of chemical exported in HFC/PFC/SF
+quantity
+Exported chemical in bulk
+ports
+Ex
+6
++
+=
+ 
+ 
+Data on production and exports of HFCs, PFCs, and SF6 in bulk should be available from the chemical 
+companies to their national governments.  Information on imports of bulk chemicals should be available from 
+customs services, as well as, in theory, imports and exports of products and equipment containing HFCs, PFCs, 
+and SF6. However, in practice, tariff codes do not normally distinguish between those products and equipment 
+containing HFCs, PFCs, and SF6 and those which do not. Accordingly, the use of the alternative activity 
+estimates for HFCs, PFCs, and SF6 contained may be helpful. National environmental protection authorities may 
+keep records of HFCs, PFCs, and SF6 destroyed. 
+To calculate the potential emissions according to the former Tier 1b, the calculation scheme in Table A2.1 has to 
+be extended to include the import and export of chemicals in products.  Section A2.2 demonstrates a possible 
+set-up, based on refrigeration equipment, foam products, fire extinguisher equipment, solvent and aerosols, for 
+calculation of emissions from exports/imports and the results should be added to the emissions calculated using 
+Table A2.1.  In Section A2.2, HFC-xxx is used as an example to demonstrate the procedure, which in practice 
+will have to be performed for each individual HFC, PFC and for SF6. 
+Volume 3: Industrial Processes and Product Use 
+A2.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.2 
+ADDITIONAL CALCULATIONS FOR 
+ESTIMATING POTENTIAL EMISSIONS 
+ACCORDING TO THE FORMER TIER 1b 
+REFRIGERATION 
+EQUATION A2.4 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+Unit m)
+F
+n Unit m
+G Unit m
+Unit i
+F
+n Unit i
+G Unit i
+G
+HFC xxx
+HFC xxx
+HFC xxx
+−
+−
+−
+•
+•
++
++
+•
+•
+=
+L
+ 
+Where: 
+GHFC-xxx  =  total import (export) of HFC-xxx in pre-charged refrigeration units1 
+G(Unit i)  =  refrigerant charge in a refrigeration unit of type i (i = i → m) 
+n(Unit i)  =  number of refrigeration units of type i imported (exported) 
+FHFC-xxx(Unit i)  = fraction of component HFC-xxx2 in the refrigerant (mixture) of a unit of type i 
+FOAM PRODUCTS3 
+EQUATION A2.5 
+(
+)
+(
+)
+(
+)
+(
+Foam m)
+J
+V Foam m
+Foam i
+J
+V Foam i
+G
+HFC xxx
+HFC xxx
+HFC xxx
+−
+−
+−
+•
++
++
+•
+=
+L
+ 
+Where: 
+GHFC-xxx = total import (export) of HFC-xxx in foams (flexible and rigid) 
+V(Foam i) = volume of foam of type i imported (exported) (i = i → m) 
+JHFC-xxx(Foam i) = remaining amount of blowing agent HFC-xxx per volume unit of foam of type i 
+FIRE EXTINGUISHERS (PRE-CHARGED) 
+EQUATION A2.6 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+Unit m)
+F
+n Unit m
+G Unit m
+Unit i
+F
+n Unit i
+G Unit i
+G
+HFC xxx
+HFC xxx
+HFC xxx
+−
+−
+−
+•
+•
++
++
+•
+•
+=
+L
+ 
+Where: 
+GHFC-xxx  =  total import (export) of HFC-xxx in pre-charged fire extinguishers 
+G(Unit i)  =  charge of fire extinguishing agent in a fire extinguishing unit of type i (i = i → m) 
+n(Unit i)  =  number of fire extinguishing units of type i imported (exported) 
+FHFC-xxx(Unit i)  = fraction of component HFC-xxx4 in the fire extinguishing agent of a unit of type i 
+                                                           
+1  ‘Refrigeration units’ may be refrigerators, ice machines, AC window units, split-units, chillers etc.  
+2  Many refrigeration units will contain HFC/PFC-mixtures. The fraction of each chemical (HFC-xxx) has to be considered. 
+3  Include insulating and non-insulating foams in a variety of products, like refrigerators, insulation panels, prefabricated pipe 
+section, PU formulated systems, etc. 
+4  Many fire extinguishing units will contain HFC/PFC-mixtures. The fraction of each chemical (HFC-xxx) has to be 
+considered. 
+Annex 2: Potential Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.7 
+SOLVENTS 
+EQUATION A2.7 
+(
+)
+(
+)
+(
+)
+(
+Solvent m)
+F
+G Solvent m
+Solvent i
+F
+G Solvent i
+G
+HFC xxx
+HFC xxx
+HFC xxx
+−
+−
+−
+•
++
++
+•
+=
+L
+ 
+Where: 
+GHFC-xxx  =  total import (export) of HFC-xxx in solvents 
+G(Solvent i)  =  quantity of solvent of type i imported (exported)  (i = i → m) 
+FHFC-xxx(Solvent i)  = fraction of component HFC-xxx5 in solvent of type i 
+AEROSOLS 
+EQUATION A2.8 
+(
+)
+(
+)
+(
+)
+(
+n Can m)
+G Can m
+n Can i
+G Can i
+G
+HFC xxx
+•
++
++
+•
+=
+−
+L
+ 
+Where: 
+GHFC-xxx  =  total import (export) of HFC-xxx in aerosol cans 
+G(Can i)  =  charge of HFC-xxx propellant in an aerosol can of type i  (i = i → m) 
+n(Can i)  = number of aerosol cans of type i imported (exported) 
+ 
+ 
+References 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental 
+Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.  
+ 
+                                                           
+5  Solvents will often not be pure HFCs or PFCs. The HFC/PFC fraction in the solvent composition (HFC-xxx) has to be 
+considered. 

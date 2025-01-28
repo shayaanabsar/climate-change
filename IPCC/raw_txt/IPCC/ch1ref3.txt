@@ -1,0 +1,1930 @@
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.41
+In addition, wood stoves (where there is a great variation in technology by geographic
+region) may have particularly high emissions rates of NMVOC due to their largely
+inefficient combustion of fuel.
+The NMVOC emissions from mobile sources are a function of the amount of
+hydrocarbons passing unburnt through the engine.  This depends on engine type, fuel
+used, use of post-combustion emission controls (e.g., catalytic converters) and driving
+regime. The emissions are generally highest at low speeds and when the engine is idle.
+Poorly tuned engines may have a particularly high output of hydrocarbon compounds.
+NMVOC evaporative emissions from gasoline mobile sources should be accounted for
+here.
+The general method for estimating  NMVOC can be described as:
+Emissions =  ∑ (EFab x Activityab)
+where:
+EF
+= Emission Factor (kg/TJ);
+Activity
+= Energy Input (TJ);
+a
+= Fuel type;  and
+b
+= Sector-activity.
+Due to large differences in emission factors for various sectors, fuel consumption must be
+allocated to the IPCC main activity groups.
+Extensive NMVOC emission factor data are available for most of the fuel combustion
+sources.  The following default emission factors have been developed by the IPCC based
+on the CORINAIR90 database, Radian (1990), US EPA (1995), the EDGAR Version 2.0
+database, and National Communications to the FCCC.  The aggregated emission factors
+in this table allow a rough estimation of NMVOC emissions.
+ENERGY
+1.42
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-11
+NMVOC DEFAULT (UNCONTROLLED) EMISSION FACTORS (IN KG/TJ)
+Coal
+Natural
+Gas
+Oil
+Wood/
+Wood Waste
+Charcoal
+Other Biomass
+and Wastes(a)
+Energy Industries
+5
+5
+5
+50(b)
+100(b)
+50
+Manufacturing Industries and
+Construction
+20
+5
+5
+50
+100
+50
+Transport
+Aviation(c)
+50
+Gasoline
+Diesel
+Road
+5
+1500(d)
+200
+Railways
+20
+200
+Navigation
+20
+200
+Other
+Commercial/Institutional
+200
+5
+5
+600
+100
+600
+Sectors
+Residential
+200
+5
+5
+600
+100
+600
+Agriculture/
+Forestry/
+Stationary
+200
+5
+5
+600
+100
+600
+Fishing
+Mobile
+5
+200
+Note:  These factors are considered as the best available global default factors to date.
+(a) Includes dung and agricultural, municipal and industrial wastes.
+(b) These factors are for fuel combustion in the energy industries.  For charcoal production, please refer to Table 1-14, Default Non-CO2 Emission Factors for Charcoal
+Production.
+(c) The emission factor for aviation in the above table is for jet kerosene.  The emission factor for aviation gasoline is 300 kg/TJ.
+(d) These factors are the sum of combustion and evaporative emissions from gasoline use.  The NMVOC emission factors for mobile sources from evaporation of gasoline
+vary with the ambient temperature.  In general, in the “warmer” countries the emission factors will be higher than in “colder” countries.
+1 . 4 . 2 . 6
+S U L P H U R  D I O X I D E  ( S O 2 )  E M I S S I O N S
+F R O M  F U E L  C O M B U S T I O N
+Sulphur dioxide is not a “greenhouse gas” but its presence in the atmosphere may
+influence climate.  SO2 can react with a variety of photochemically produced oxidants to
+form sulphate aerosols.  The concentration of these particles is increasing due to the
+burning of fossil fuels which contain sulphur.  Over limited regions of the northern
+hemisphere, the effect of these particles is comparable in size, although opposite in effect,
+to that of human generated greenhouse gases up to the present time.  Any effect of
+sulphur dioxide emissions on climate change can be expected to be strongly regional in
+character - but studies of this with climate models need to be carried out (Houghton,
+1994).  Although SO2 is not a direct greenhouse gas, it is an aerosol precursor and as
+such, has a cooling effect on climate.
+Anthropogenic SO2 emissions world-wide amount to 70-80 million tonnes per year
+(Mt/y) (Vernon and Jones, 1993).  This compares with natural emissions of 18-70 Mt/y
+(IPCC, 1992).  There is, however, a paucity of information on the relative contribution of
+sulphur emissions arising from combustion, due to lack of detailed information on the
+sulphur level of the fuel consumed.  More than 80 per cent of anthropogenic SO2 arises
+from fuel combustion, with three-quarters of this arising from coal (Vernon, 1990).  At
+present an estimated 10 Mt/y of coal-related SO2 emissions are removed by flue-gas
+desulphurisation technology world-wide (Ando, 1992).
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.43
+The general method for estimating SO2 can be described as:
+Emissions =  ∑ ( EFab x Activityab )
+where:
+EF
+= Emission Factor (kg/TJ);
+Activity = Energy Input (TJ);
+a
+= Fuel type; and
+b
+= Sector-activity.
+The emissions of sulphur oxides (SOx) are directly related to the sulphur content of the
+fuel, which for coal can vary from below 0.5 to over 10 per cent by weight.  The majority
+of coals currently in use are in the range 0.5 to 3 per cent.  Generally the “southern
+hemisphere” coals contain less sulphur than “northern hemisphere” coals.
+For fuel oil (including heavy fuel oil) sulphur content varies from 0.3 to over 5 per cent.
+Lighter products may contain minimal sulphur (<0.3 per cent), whilst heavy fuel oil can
+contain from up to 3-5 per cent sulphur.  Currently the world average sulphur content of
+crude oil is around 1.3 per cent, although there are considerable variations between
+different sources (Vernon and Jones, 1993).
+The sulphur content of gas is usually negligible.
+The SO213 emission factors can be estimated as:
+EFSO2 [kg/TJ] =
+s
+1 0 0
+1 0 0  - r
+1 0 0
+1 0 0  - n
+1 0 0
+2  x  (        )  x         x  1 0 6  x  (          )  x  (          )
+1
+Q
+where:
+EF
+= Emission Factor (kg/TJ);
+2
+= SO2/S [kg/kg];
+s
+= Sulphur content in fuel [%];
+r
+= Retention of sulphur in ash [%];
+Q
+= Net calorific value [TJ/kt];
+106 = (Unit) conversion factor; and
+n
+= Efficiency of abatement technology and/or reduction efficiency [%].
+Sulphur appears in coal as pyritic sulphur (FeS2), organic sulphur, sulphur salts and
+elemental sulphur.  Pyritic and organic sulphur account for the vast majority of sulphur in
+coal and both types are responsible for SOx formation.  The sulphur is released when the
+coal is burnt, mainly oxidised to SO2.  Usually less than 1-2 per cent of the total sulphur is
+released as SO3.
+                                                  
+     13 Sulphur dioxide (SO2 + SO3 expressed as SO2 mass equivalent).
+ENERGY
+1.44
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-12
+SAMPLE AND DEFAULT VALUES OF SULPHUR CONTENT ( S ) IN FUEL
+Fuel (IPCC grouping)
+Default
+value(a)
+[%]
+CORINAIR 90(b)
+range
+[%]
+Coal
+- low S
+0.5
+≥ 0.001
+- medium S
+1.5
+-
+- high S
+3.0
+≤ 16.1
+Heavy fuel oil
+- low S
+1.0
+≥ 0.001
+- medium S
+3.0(c)
+-
+- high S
+4.0
+≤ 4.0
+Light fuel oil/diesel - low S
+0.3
+≥ 0.14
+- high S
+1.0
+≤ 1.0
+Diesel (road)
+0.3
+0.1-1.0
+Gasoline (road)
+0.1
+0.012 - 0.15
+Jet kerosene
+0.05
+0.0001-0.3(d)
+Oil shale
+1.5(1.3-1.7)(e)
+NAV
+Natural gas
+negligible
+NAV
+Municipal waste
+0.003
+0.003
+Industrial waste
+0.2
+0.200 - 1.000
+Black liquor
+1.5
+0.004 - 8.09
+Fuelwood
+0.2
+0.001-0.06
+Other biomass
+< 0.03
+0.001 - 0.800
+(a) To be used only if no better information is available.
+(b) Fuels used in CORINAIR 90 inventories in the Czech Republic, Denmark, France,
+Hungary, Italy, the Netherlands, Poland and the Slovak Republic.
+(c) The medium value refers to the default for marine bunkers.
+(d) Values reported in literature.
+(e) Values from Estonia.
+During fuel combustion, part of the sulphur is retained in ash.  The sulphur retention in
+ash for coal ranges from 5 to 60 per cent, (usually less than 10 per cent).  The proportion
+depends upon the composition of the ash.  The sulphur retention in ash for liquid fuels
+and biomass is minimal and can be disregarded.
+Default Values for the Sulphur Retention (r) in Ash [%]
+Hard coal
+5
+Brown coal
+30
+If abatement technologies for SOx emissions reduction are used, the estimated emission
+factors for SO2 should be correspondingly reduced.  Reduction efficiency values for
+different types of abatement technologies may vary between 45 and 95 per cent (Rentz,
+et al., 1992).
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.45
+1 . 4 . 3 B i o m a s s  D a t a
+The tables below provide data for use within the Reference Approach or for the
+calculation of all emissions by source categories using the methods described in
+Sections 1.4.1 and 1.4.2.
+TABLE 1-13
+ENERGY CONTENT OF BIOMASS FUELS:  DEFAULT NET CALORIFIC VALUES
+Biomass Fuel
+Moisture Content
+(% mcwb)(a)
+Typical Net
+Calorific Value(b)
+(MJ/kg)
+Reference
+BASIC BIOFUEL TYPES:
+Fuelwood(c)
+20
+15
+Hall et al. (1994b)
+Charcoal
+30
+Hall and Mao (1994a)
+Dung
+12
+GOB (1987)
+Bagasse
+50
+8
+Leach and Gowen (1987)
+Agricultural Waste
+15
+Leach and Gowen (1987)
+Other Waste
+11
+US EPA (1995)
+EXAMPLES OF SPECIFIC BIOFUELS:
+Wood
+Wet, freshly cut
+40
+10.9
+Leach and Gowen (1987)
+Air-dry, humid zone
+20
+15.5
+Leach and Gowen (1987)
+Air-dry, dry zone
+15
+16.6
+Leach and Gowen (1987)
+Oven-dry
+0
+20.0
+Leach and Gowen (1987)
+Charcoal
+5
+29.0
+Leach and Gowen (1987)
+Bagasse
+Wet
+50
+8.2
+Leach and Gowen (1987)
+Air-dry
+13
+16.2
+Leach and Gowen (1987)
+Dung cakes (dried)
+12
+12.0
+Leach and Gowen (1987)
+OTHER AGRICULTURAL RESIDUES:
+Coffee Husks
+12
+16.0
+Leach and Gowen (1987)
+Ricehulls (air-dry)
+9
+14.4
+Leach and Gowen (1987)
+Wheat straw
+12
+15.2
+Leach and Gowen (1987)
+Maize (stalk)
+12
+14.7
+Leach and Gowen (1987)
+Maize (cobs)
+11
+15.4
+Leach and Gowen (1987)
+Cotton gin trash
+24
+11.9
+Leach and Gowen (1987)
+Cotton stalk
+12
+16.4
+Leach and Gowen (1987)
+Coconut husks
+40
+9.8
+Leach and Gowen (1987)
+Coconut shells
+13
+17.9
+Leach and Gowen (1987)
+(a) mcwb : moisture content weight basis.
+(b) Typical values to be considered as rough approximations.
+(c) Assuming air dry wood.
+Values for estimating the amount of carbon released through charcoal production and
+consumption, the wood-to-charcoal factor, are stated to be between 4 and 8.  If no local
+information is available, 6 kg of wood input per kg of charcoal may be used as default
+ENERGY
+1.46
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+(FAO, 1990).  In many developing countries, there are usually no cross checks on the
+quality of charcoal.  Consequently, substandard charcoal will be passed on as charcoal.
+Typical wood to charcoal conversion factors in many developing countries would range
+from 2.5 to 3.5 and rarely beyond this.  This also implies that the carbon fraction of
+charcoal is around 0.6 to 0.7.  Default emission factors related to the production of
+charcoal are presented in the Table I-14
+TABLE I-14
+DEFAULT NON-CO2 EMISSION FACTORS FOR CHARCOAL PRODUCTION
+(IN KG/TJ)
+Compound
+Default Emission Factor
+(kg/TJ of Wood Input)(a)
+Default Emission Factor
+(kg/TJ of Charcoal Produced)
+CH4
+300
+1000
+N2O
+NAV
+NAV
+NOx
+5
+10
+CO
+2000
+7000
+NMVOC
+600
+1700
+SO2
+NAV
+NAV
+(a) Assuming 1 kg charcoal is produced from 6 kg wood and the energy content for wood and
+charcoal is 15 and 30 MJ/kg respectively, 1 TJ charcoal produced is equivalent to 3 TJ wood
+input.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.47
+1.5
+Detailed Methods (Tiers 2 and 3) for Fuel
+Combustion
+1 . 5 . 1 O v e r v i e w
+Identification and quantification of greenhouse gas emissions by source category and
+economic sector, together with a sound understanding of plant combustion conditions,
+are essential for the study of abatement procedures and the formulation of abatement
+policy options.  Equally, assessment of the effects of emissions on the atmosphere and
+climate requires detailed data on the magnitude and spatial distribution of pollutant
+emissions.  Both sets of requirements are served by the estimation of emissions from
+combustion activities categorised by plant types at a level of detail for which an emission
+factor can be reasonably narrowly specified.  Studies of the products of combustion from
+many types of plant under different operating conditions have resulted in a growing
+database of emission factors linking the emission rate to the activity.  Estimation
+methodologies using these emission factors are described and discussed in this section.
+In what follows, the emission sources are grouped into stationary and mobile sources and
+representative emission factors for them are assembled for use in a simple formula
+common to the majority of cases.  The distinction between Tier 1 methods and those of
+Tiers 2 and 3 rests mainly on the reliance of the first on widely available fuel supply data
+which, by its nature, takes no account of the combustion technology to which the fuel is
+delivered.  Distinguishing between Tiers 2 and 3 is less easily done as there is a steadily
+increasing degree of refinement and detail in the emissions estimation process as the
+methods are developed from one tier to another.  However, Tier 2 methods may be
+regarded as those dividing fuel consumption on the basis of sample or engineering
+knowledge between technology types which are sufficiently homogenous to permit the
+use of representative emission factors.  Tier 3 methods generally estimate emissions from
+activity figures (kilometre travelled or tonne-kilometre carried, not fuel consumption) and
+specific fuel efficiency or fuel rates or, alternatively, using an emission factor or factors
+expressed directly in terms of a unit of activity.
+A new methodology, developed from that used by CORINAIR, has been introduced for
+the estimation of emissions from aircraft.  Revised emission factors are also given for
+emissions from many types of stationary combustion and road transport in the United
+States and Europe.
+Estimating CO2
+It follows from the arguments given above for the construction of detailed emission
+estimates that a country will also benefit from the estimation of CO2 emissions in parallel
+with the calculation of non-CO2 inventories despite the existence of Tier 1 methods for
+CO2 estimation.  The Overview to this Chapter also emphasises this point.  Most of the
+tables of emission factors for mobile sources, but few of the tables for stationary sources,
+have figures for CO2.  In cases where CO2 emission factors are not given the carbon
+emission factors provided for the fuel types listed for the Tier 1 methods will suffice.  If
+different fuel qualities are used in different applications national experts may wish to vary
+the emission factors accordingly.
+Where CO2 emission factors are given in this Chapter they include all carbon based
+molecule emissions from the process.  This ensures that CO2 totals constructed by
+summing the results of the detailed estimation of emissions (the “bottom-up” approach)
+ENERGY
+1.48
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+will be comparable with the IPCC Reference Approach described under Tier 1 methods
+above.  The Reference Approach provides a simple transparent and verifiable means of
+accounting for all of the carbon in fuels which could be emitted to the atmosphere.
+Because of the complexity of covering all sources of fuel combustion and obtaining the
+related data it does not automatically follow that summing emissions from the many
+detailed sources will result in a figure close to that obtained from the Reference
+Approach.  Consequently, verification of CO2 totals against the Reference Approach is an
+obligation of the IPCC reporting system.
+Use of carbon emission factors based on the fuel’s carbon content also implies that
+adjustments may be needed (depending on the combustion process under consideration)
+for any carbon unoxidised.  Carbon remaining unoxidised after combustion is discussed in
+Section 1.4.1.1.  Where emission estimates are prepared by plant type the general
+information given in the section cited may be used when more specific carbon unoxidised
+factors are not available.  At the level of process detail implicit in Tiers 2 and 3, quantities
+of fuel combusted should be known or fairly well estimated and quantities delivered for
+the manufacture of non-energy products identified and excluded.  Where this is not the
+case estimates of carbon stored in manufactured products will need to be made in
+collaboration with national experts preparing estimates of emissions from Industrial
+Processes to ensure that there is no double counting of emissions.
+D A T A  S O U R C E S
+National experts working on detailed emission of non-CO2 GHGs (particularly the
+indirect gases) and SO2 should consult the extensive literature on emission factors and
+other estimation procedures which has been developed by other inventory programmes
+outside of the framework of the IPCC/OECD/IEA programme.  These data generally
+contain more technology detail, and are further broken down by size of the various
+technologies.  For mobile sources, data generally contain more vehicle and control
+technology detail, and are further broken down by operating conditions (e.g., catalyst
+vintages, driving cycles).  The nature of these control assumptions should be known and
+carefully matched with actual conditions in the country when selecting the specific factors
+to be used.
+Some key examples of data sources are:
+•
+Default Emission Factors Handbook (European Environment Agency Task Force,
+Bouscaren, 1992)
+•
+CORINAIR Working Group on Emission Factors for Calculating 1990 Emissions
+from Road Traffic, Volume 1: Methodology and Emission Factors (Eggleston, et al.,
+1992)
+•
+CORINAIR Working Group on Emission Factors for Calculating 1990 Emissions
+from Road Traffic, Volume 2: COPERT Model, Users Manual (Andrias, et al., 1992)
+•
+Atmospheric Emission Inventory Guidebook (Joint EMEP/CORINAIR, European
+Environment Agency, 1996)
+•
+US EPA's Compilation of Air Pollutant Emissions Factors (AP-42), 4th Edition 1985,
+(US EPA, 1985a and 1985b), 5th Edition 1995 (US EPA, 1995) and Supplement F,
+(US EPA, 1993b)
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.49
+•
+US EPA's MOBILE5a (US EPA 1994a).  Contact Terry Newell, US EPA Office of
+Mobile Sources, 2565 Plymouth Road, Ann Arbor MI 48105, USA; tel: (313) 668-
+4462, Email: Newell.Terry@epamail.epa.gov or access the latest information on
+mobile 
+sources 
+on 
+the 
+world 
+wide 
+web 
+at
+http://www.epa.gov/OMSWWW/omshome.htm.
+•
+Criteria Pollutant Emission Factors for the 1985 NAPAP Emissions Inventory
+(Stockton and Stelling, 1987)
+•
+Proceedings of the TNO/EURASAP Workshop (TNO, 1993)
+•
+EMEP and CORINAIR Emission Factors and Species Profiles for Organic
+Compounds. (Veldt, 1991)
+• 
+Transport Statistics for Europe (UN ECE, 1989)
+• 
+World Road Statistics (International Road Federation, 1990)
+•
+Other compilations of emission factors include
+-
+Netherlands
+Bakkum, et al., 1987, Okken, 1989
+-
+Norway
+Statens forurensningstilsyn, 1990
+-
+Germany
+Brieda and Pakleppa, 1989, Fritsche, 1989, Rentz et al.,
+1988,
+Walbeck, et al., 1988
+-
+Japan
+JAERI, 1988
+-
+United Kingdom
+Eggleston and McInnes, 1987
+-
+UNEP Country Studies
+-
+US Country Studies, US CSP, 1996
+-
+National Communications to the FCCC
+1 . 5 . 2 S t a t i o n a r y  C o m b u s t i o n
+1 . 5 . 2 . 1
+O V E R V I E W
+This section considers emissions of NOx, N2O, CO, CH4, SO2 and NMVOCs from
+stationary combustion plant.  Estimation of CO2 emissions at the level of detail of Tiers 2
+and 3 is described in Section 1.5.1.
+The section focuses on emissions from the combustion of commercial fuels, which include
+virtually all fossil fuels and biomass fuels traded commercially and used in large combustion
+plants.  Non-CO2 emissions from combustion of biomass are estimated in exactly the
+same manner as fossil fuel combustion emissions.14.
+Emissions of non-CO2 greenhouse gases across activities (sectors and subsectors) will depend
+upon fuel, technology type and pollution control policies.  Emissions will also vary with the
+size and vintage of the combustion technology, its maintenance, and its operation.  Most of a
+country’s NOx emissions arise from stationary fuel combustion.  As defined here (i.e.,
+excluding "traditional" small scale use of biomass), this category generally contributes a smaller
+but still significant share of national emissions of CO and NMVOC, and, to a lesser extent, of
+N2O and CH4.  These two gases are nonetheless discussed in some detail because of their
+priority status within the IPCC/OECD/IEA programme.
+                                                  
+     14 See Section 1.4.3 for a discussion of CO2 emissions from biomass combustion.
+ENERGY
+1.50
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+A section on SO2 has been added to the Tier 1 methodology.  In the more detailed Tier 2
+approach the same basic formula should be applied to more detailed fuel information.
+1 . 5 . 2 . 2
+R E C O M M E N D E D  M E T H O D O L O G Y
+General Method
+Estimation of emissions from stationary sources can be described using the following basic
+formula:
+Emissions =  ∑ (EFabc x Activityabc)
+where:
+EF = Emission Factor (kg/TJ);
+Activity = Energy Input (TJ);
+a = Fuel type;
+b = Sector-activity; and
+c = Technology type.
+Total emission for a particular country is the sum across activities, technologies and fuels
+of the individual estimates.
+Emission estimation is based on at least three distinct sets of assumptions or data:
+1) emission factors; 2) energy activities; and 3) relative share of technologies in each of
+the main energy activities.  Sources of the emission factors and energy activity data that
+are relevant internationally are described briefly below and suggestions on appropriate
+use of such data are made.
+Technology share or technology splits for each of the various energy activities are needed
+at least on a national level for non-CO2 greenhouse gas estimation since emission levels
+are affected by the technology type.  Unfortunately, there is no complete international
+source of data on technology splits and, as a result, each country will need to develop its
+own technology splits for each energy activity.
+The main steps in the inventory method can be summarised as follows:
+1
+Determine the source and form of the best available, internationally verifiable,
+national (or sub-national) energy activity data.
+2
+Based on a survey of national energy activities, determine the main categories of
+emission factors.
+3
+Compile best available emission factor data for the country, preferably from national
+sources.  If no national sources are available, select from the options described here.
+Selection among the options should be based on the similarity of the country to the
+source of original measurements for types of technology and operating conditions
+across main energy activities.  The selection should also consider the extent to
+which control technologies may be in place and requires the ability to clearly
+separate and understand control policy assumptions that may be embedded in the
+emission factor data.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.51
+4
+Based on the form of the selected emission factors, identify the technology
+categories to be used in the national inventory.15
+5
+Using these assumptions on technology categories, develop estimates for each of the
+greenhouse gases for each main activity.
+6
+Sum the individual activity estimates to arrive at the national inventory total for each
+of the greenhouse gases.
+Technology Splits for Energy Data
+National data or assumptions on the technology shares of each of the main source sector
+categories which have been identified as important in each country are necessary to
+create the linkage between national energy balances and the emission factors.  Again, this
+may be based on "bottom-up" data collection at as detailed a level as individual sources,
+or it may be more of a “top-down” allocation based on statistical sampling, or engineering
+judgement.  The objective is to match up fuel use, by fuel type, with specific technologies
+or classes of technologies, for which credible emission factors for non-CO2 gases can be
+provided.
+Emission Factor Data
+Emission factors for all non-CO2 greenhouse gases from combustion activities vary to
+lesser or greater degrees with:
+•
+fuel type
+•
+technology
+•
+operating conditions
+•
+maintenance and vintage of technology
+and so represent the average emission performance of similar technologies.
+They are therefore technology specific, but may still represent a wide distribution of
+possible values because of the influence of the other three factors above.  When available,
+the standard deviation of the emission factor should be used to show the range of
+possible emission factors, and hence emissions, for each particular energy activity.16
+1 . 5 . 2 . 3
+E M I S S I O N  F A C T O R S
+Some tables of representative emission factors for NOx,17 CO, CH4, N2O and NMVOCs
+by main technology and fuel types (based on Radian, 1990) were presented in the
+preliminary methodology manual (OECD, 1991) distributed by the IPCC.  This information is
+still useful in showing the range and variation of sources and emission rates, and it is
+                                                  
+     15 This may also require assumptions about the control technologies in place.
+     16 Unfortunately, the standard deviation of emission factors is rarely reported with
+emission factor data. One study shows that when considered, variation of emission
+factors within an energy activity vary widely, from 20 to more than 50 per cent (Eggleston
+and McInnes, 1987).
+     17 The convention in this document is that NOx emissions from fossil fuel combustion
+are expressed on a full molecular basis assuming that all NOx emissions are emitted as
+NO2.
+ENERGY
+1.52
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+reproduced in Tables 1-15 to 1-19 for the major categories.18  All factors are expressed
+on a kilograms per terajoule of energy input basis (unless stated otherwise) and are
+stated on a full molecular weight basis.  These data are taken from Radian (1990) and
+show uncontrolled emission factors for each of the technologies indicated.  These
+emission factor data therefore do not include the level of control technology that might
+be in place in some countries.  For instance, for use in countries where control policies
+have significantly influenced the emission profile, either the individual factors or the final
+estimate will need to be adjusted.
+It may be necessary to make adjustments to "raw" emission estimates to account for
+control technologies in place.  Alternative control technologies, with representative
+percentage reductions, are shown in Tables 1-20 to 1-23 (Radian, 1990) for the main
+control technologies applicable to each sector.  These tables reflect technologies in use
+for large stationary sources in OECD countries.  Preliminary indications are that, in the
+rest of the world, control technologies are not typically used (see OECD/IEA, 1991).
+These data should be used in combination with the uncontrolled emission factors to
+develop a "net" representative emission factor for each of the technologies to be
+characterised in the national emission profile; alternatively, the emission estimate for each
+technology could be adjusted downward according to the indicated percentage reduction
+and the estimated penetration of the control technology.
+Table 1-24 provides the fuel property assumptions upon which the Radian data are based.
+The emission factor data in these tables are provided primarily for illustrative purposes.
+These factors could be used as a starting point or for comparison by national experts
+working on detailed "bottom-up" inventories.  More detail on current emission factors
+and references is presented in the section on Data Sources.
+No emission factors for SO2 are presented in Tables 1-15 to 1-19.  These emission
+factors should be estimated based on the sulphur content of the fuels (see Section 1.4.2.6,
+Sulphur Dioxide Emissions from Fuel Combustion).
+In many countries, biomass is used in traditional, small-scale facilities and open stoves.
+Emission factors presented in Tables I-16, 1-18 and 1-19 are for industrial combustion
+and large-scale facilities.
+                                                  
+     18 Note: several printing errors occurred in the 1995 Guidelines.  These have been
+corrected here.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.53
+TABLE 1-15
+UTILITY BOILER SOURCE PERFORMANCE
+Emission Factors (kg/TJ energy input)
+Basic Technology
+Configuration
+CO
+CH4
+NOx
+N2O
+NMVOCs
+Coal
+Pulverised Bituminous Combustion
+Dry Bottom, wall fired
+9
+0.7
+380
+1.6
+NAV
+Dry Bottom, tangentially fired
+9
+0.7
+250
+0.5
+NAV
+Wet Bottom
+9
+0.9
+590
+1.6
+NAV
+Bituminous Spreader Stokers
+With and without re-injection
+87
+1.0
+240
+1.6
+NAV
+Bituminous Fluidised Bed Combustor
+Circulating Bed
+310
+1.0
+68
+96
+NAV
+Bubbling Bed
+310
+1.0
+270
+96
+NAV
+Bituminous Cyclone Furnace
+9
+0.2
+590
+1.6
+NAV
+Anthracite Stokers
+10
+NAV
+160
+NAV
+NAV
+Anthracite Fluidised Bed Combustors
+5.2
+NAV
+31
+NAV
+NAV
+Anthracite Pulverised Coal Boilers
+310
+NAV
+NAV
+NAV
+NAV
+Pulverised Lignite Combustion
+Dry Bottom, tangentially fired
+NAV
+NAV
+130
+NAV
+NAV
+Dry Bottom, wall fired
+45
+NAV
+200
+NAV
+NAV
+Lignite Cyclone Furnace
+NAV
+NAV
+220
+NAV
+NAV
+Lignite  Spreader Stokers
+NAV
+NAV
+100
+NAV
+NAV
+Lignite Atmospheric Fluidised Bed
+2.8
+NAV
+63
+42
+NAV
+Oil
+Residual Fuel Oil/Shale Oil
+Normal Firing
+15
+0.9
+200
+0.3
+NAV
+Tangential Firing
+15
+0.9
+130
+0.3
+NAV
+Distillate Fuel Oil
+Normal Firing
+16
+0.9
+220
+0.4
+NAV
+Tangential Firing
+16
+0.9
+140
+0.4
+NAV
+Distillate Fuel Gaseous Turbines
+21
+NAV
+300
+NAV
+NAV
+Large Diesel Fuel Engines >600hp (447kW)
+350
+4.0
+1300
+NAV
+NAV
+Natural Gas
+Boilers
+18
+0.1(a)
+250
+NAV
+NAV
+Large Gas-Fired Gas Turbines >3MW
+46
+6*
+190
+NAV
+NAV
+Large Dual-Fuel Engines
+340
+240
+1300
+NAV
+NAV
+Municipal Solid Waste (MSW)
+Mass Burn Waterwall Combustors
+22
+NAV
+170
+NAV
+NAV
+MSW - Mass Feed(a)
+98
+NAV
+140
+NAV
+NAV
+Source: US EPA (1995).
+(a) Adapted from Radian, 1990.
+ENERGY
+1.54
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-16
+INDUSTRIAL BOILER PERFORMANCE
+Emission Factors (kg/TJ energy input)
+Basic Technology
+Configuration
+CO
+CH4
+NOx
+N2O
+NMVOCs
+Coal
+Bit./Sub-bit. Overfeed Stoker Boilers
+110
+1.0
+130
+1.6
+NAV
+Bit./Sub-bit. Underfeed Stoker Boilers
+190
+14
+170
+1.6
+NAV
+Bit./Sub-bit. Hand-fed Units
+4800
+87
+160
+1.6
+NAV
+Bituminous/Sub-bituminous Pulverised
+Dry Bottom, wall fired
+9
+0.7
+380
+1.6
+NAV
+Dry Bottom, tangentially fired
+9
+0.7
+250
+0.5
+NAV
+Wet Bottom
+9
+0.9
+590
+1.6
+NAV
+Bituminous Spreader Stokers
+87
+1.0
+240
+1.6
+NAV
+Bit./Sub-bit. Fluidised Bed Combustor
+Circulating Bed
+310
+1.0
+68
+96
+NAV
+Bubbling Bed
+310
+1.0
+270
+96
+NAV
+Anthracite Stokers
+10
+NAV
+160
+NAV
+NAV
+Anthr. Fluidised Bed Combustor Boilers
+5.2
+NAV
+31
+NAV
+NAV
+Anthracite Pulverised Coal Boilers
+NAV
+NAV
+310
+NAV
+NAV
+Oil
+Residual Fuel Oil Boilers
+15
+3.0
+170
+0.3
+NAV
+Distillate Fuel Oil Boilers
+16
+0.2
+65
+0.4
+NAV
+Small Waste Oil Boilers <0.1MW
+15
+NAV
+58
+NAV
+NAV
+LPG Boilers
+Propane
+17
+NAV
+96
+NAV
+NAV
+Butane
+16
+NAV
+97
+NAV
+NAV
+Small Stationary Internal Comb. Engines
+Gasoline <250hp (186 kW)
+27
+NAV
+0.7
+NAV
+NAV
+Diesel <600hp (447 kW)
+0.4
+NAV
+1.9
+NAV
+NAV
+Large Stationary Diesel Engines >600hp (447 kW)
+0.3
+0.0
+1.3
+NAV
+NAV
+Natural Gas
+Large Boilers >100 MBtu/h (293 MW)
+18
+1.4
+250
+NAV
+NAV
+Small Boilers 10-100 MBtu/h (29.3-293 MW)
+16
+1.4
+64
+NAV
+NAV
+Heavy Duty Nat. Gas Compressor Eng.
+Turbines
+2.0
+0.6
+4.1
+NAV
+NAV
+2-Cycle Lean Burn
+4.7
+17
+33
+NAV
+NAV
+4-Cycle Lean Burn
+5.1
+13
+39
+NAV
+NAV
+4-Cycle Rich Burn
+20
+2.9
+28
+NAV
+NAV
+Wood
+Fuel Cell/Dutch Oven Boilers
+290
+NAV
+17
+NAV
+NAV
+Stoker Boilers
+590
+15
+65
+NAV
+NAV
+FBC Boilers
+61
+NAV
+87
+NAV
+NAV
+Bagasse/Ag. Waste Boilers
+NAV
+NAV
+68
+NAV
+NAV
+MSW
+MSW Boilers
+Mass Burn Waterwall
+22
+NAV
+170
+NAV
+NAV
+Mass Burn Rotary Waterwall
+36
+NAV
+110
+NAV
+NAV
+Mass Burn Rotary Refrac. Wall
+64
+NAV
+120
+NAV
+NAV
+Modular, Excess Air
+NAV
+NAV
+120
+NAV
+NAV
+Modular, Starved Air
+14
+NAV
+150
+NAV
+NAV
+Refuse Derived Combustors
+90
+NAV
+240
+NAV
+NAV
+Source: US EPA (1995).
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.55
+TABLE 1-17
+KILNS, OVENS, AND DRYERS SOURCE PERFORMANCE
+Emission Factors (kg/TJ energy input)(a)
+Industry
+Source
+CO
+CH4
+NOx
+N2O
+NMVOCs
+Cement, Lime
+Kilns - Natural Gas
+83
+1.1
+1,111
+NAV
+NAV
+Cement, Lime
+Kilns - Oil
+79
+1.0
+527
+NAV
+NAV
+Cement, Lime
+Kilns - Coal
+79
+1.0
+527
+NAV
+NAV
+Coking, Steel
+Coke Oven
+211
+1
+35(b)
+NAV
+16(b)
+Chemical Processes, Wood, Asphalt,
+Copper, Phosphate
+Dryer - Natural Gas
+11
+1.1
+64
+NAV
+NAV
+Chemical Processes, Wood, Asphalt,
+Copper, Phosphate
+Dryer - Oil
+16
+1.0
+168
+NAV
+NAV
+Chemical Processes, Wood, Asphalt,
+Copper, Phosphate
+Dryer - Coal
+179
+1.0
+226
+NAV
+NAV
+Source: Radian, 1990.
+(a) Values were originally based on gross calorific value; they were converted to net calorific value by assuming that net calorific
+values were 5 per cent lower than gross calorific values for coal and oil, and 10 per cent lower for natural gas. These
+percentage adjustments are the OECD/IEA assumption on how to convert from gross to net calorific values.
+(b) Joint EMEP/CORINAIR (1996).
+ENERGY
+1.56
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-18
+RESIDENTIAL SOURCE PERFORMANCE
+Emission Factors (kg/TJ energy input)
+Basic Technology
+Configuration
+CO
+CH4
+NOx
+N2O
+NMVOCs
+Coal
+Anthracite Space Heaters
+NAV
+150
+55
+NAV
+NAV
+Coal Hot Water Heaters(a)
+18
+NAV
+160
+NAV
+NAV
+Coal Furnaces(a)
+480
+NAV
+230
+NAV
+NAV
+Coal Stoves(a)
+3600
+NAV
+180
+NAV
+NAV
+Oil
+Residual Fuel Oil
+15
+1.4
+170
+NAV
+NAV
+Distillate Fuel Oil
+16
+0.7
+65
+NAV
+NAV
+Furnaces
+16
+5.8
+59
+0.2
+NAV
+Propane/Butane Furnaces(a)
+10
+1.1
+47
+NAV
+NAV
+Natural Gas
+Furnaces
+18
+NAV
+43
+NAV
+NAV
+Gas Heaters(a)
+10
+1
+47
+NAV
+NAV
+Wood
+Wood Pits(a)
+4900
+200
+150
+NAV
+NAV
+Fireplaces
+11000
+NAV
+110
+NAV
+NAV
+Stoves
+Conventional
+10000
+210
+120
+NAV
+NAV
+Non-catalytic
+6100
+NAV
+NAV
+NAV
+NAV
+Catalytic
+4500
+380
+87
+NAV
+NAV
+Pellet, Certified
+1700
+NAV
+600
+NAV
+NAV
+Pellet, Exempt
+2300
+NAV
+NAV
+NAV
+NAV
+Masonry Heater
+Exempt
+6500
+NAV
+NAV
+NAV
+NAV
+Source: US EPA (1995).
+(a) Adapted from Radian, 1990.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.57
+TABLE 1-19
+COMMERCIAL SOURCE PERFORMANCE
+Emission Factors (kg/TJ energy input)
+Basic Technology
+Configuration
+CO
+CH4
+NOx
+N2O
+NMVOCs
+Coal
+Coal Boilers(a)
+200
+10
+240
+NAV
+NAV
+Oil
+Residual Fuel Oil/Shale Oil
+15
+1.4
+170
+0.3
+NAV
+Distillate Fuel Oil
+16
+0.7
+65
+0.4
+NAV
+Waste Oil Space Heaters
+Vaporising Burner
+5.0
+NAV
+33
+NAV
+NAV
+Atomising Burner
+6.3
+NAV
+48
+NAV
+NAV
+LPG Boilers
+Propane
+8.4
+NAV
+71
+NAV
+NAV
+Butane
+12
+NAV
+70
+NAV
+NAV
+Natural Gas
+Boilers
+9.4
+1.2
+45
+2.3
+NAV
+Wood
+Incineration - high efficiency(a)
+440
+NAV
+130
+NAV
+NAV
+Waste
+Mass Burn Waterwall
+22
+NAV
+170
+NAV
+NAV
+Combustors
+NAV
+NAV
+NAV
+NAV
+NAV
+MSW Boilers(a)
+19
+NAV
+460
+NAV
+NAV
+Source: US EPA (1995).
+(a) Adapted from Radian, 1990.
+ENERGY
+1.58
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-20
+UTILITY EMISSION CONTROLS PERFORMANCE
+Technology
+Efficiency
+Loss(a)
+(%)
+CO
+Reduction
+(%)
+CH4
+Reduction
+(%)
+NOx
+Reduction
+(%)
+N2O
+Reduction
+(%)
+NMVOCs
+Reduction
+(%)
+Date
+Available(b)
+Low Excess Air (LEA)
+-0.5
++
++
+15
+NAV
+NAV
+1970
+Overfire Air (OFA) - Coal
+0.5
++
++
+25
+NAV
+NAV
+1970
+OFA - Gas
+1.25
++
++
+40
+NAV
+NAV
+1970
+OFA - Oil
+0.5
++
++
+30
+NAV
+NAV
+1970
+Low NOx Burner (LNB) - Coal
+0.25
++
++
+35
+NAV
+NAV
+1980
+LNB - Tangentially Fired
+0.25
++
++
+35
+NAV
+NAV
+1980
+LNB - Oil
+0.25
++
++
+35
+NAV
+NAV
+1980
+LNB - Gas
+0.25
++
++
+50
+NAV
+NAV
+1980
+Cyclone Combustion Modification
+0.5
+NAV
+NAV
+40
+NAV
+NAV
+1990
+Ammonia Injection
+0.5
++
++
+60
+NAV
+NAV
+1985
+Selective Catalytic Reduction (SCR)
+- Coal
+1
+8
++
+80
+NAV
+NAV
+1985
+SCR - Oil, AFBC
+1
+8
++
+80
+NAV
+NAV
+1985
+SCR - Gas
+1
+8
++
+80
+60
+NAV
+1985
+Water Injection - Gas Turbine
+Simple Cycle
+1
++
++
+70
+NAV
+NAV
+1975
+SCR - Gas Turbine
+1
+8
++
+80
+60
+NAV
+1985
+Retrofit LEA
+-0.5
++
++
+15
+NAV
+NAV
+1970
+Retrofit OFA - Coal
+0.5
++
++
+25
+NAV
+NAV
+1970
+Retrofit OFA - Gas
+1.25
++
++
+40
+NAV
+NAV
+1970
+Retrofit OFA - Oil
+0.5
++
++
+30
+NAV
+NAV
+1970
+Retrofit LNB - Coal
+0.25
++
++
+35
+NAV
+NAV
+1980
+Retrofit LNB - Oil
+0.25
++
++
+35
+NAV
+NAV
+1980
+Retrofit LNB - Gas
+0.25
++
++
+50
+NAV
+NAV
+1980
+Burners Out of Service
+0.5
++
++
+30
+NAV
+NAV
+1975
+(a) Efficiency loss as a percentage of end-user energy conversion efficiency (ratio of energy output to energy input for each
+technology) due to the addition of an emission control technology.  Negative loss indicates an efficiency improvement.
+(b) Date technology is assumed to be commercially available.
+Note:  A "+" indicates negligible reduction.
+Source:  Radian, 1990.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.59
+TABLE 1-21
+INDUSTRIAL BOILER EMISSION CONTROLS PERFORMANCE
+Technology
+Efficiency
+Loss(a)
+(%)
+CO
+Reduction
+(%)
+CH4
+Reduction
+(%)
+NOx
+Reduction
+(%)
+N2O
+Reduction
+(%)
+NMVOCs
+Reduction
+(%)
+Date
+Available(b)
+Low Excess Air (LEA)
+-0.5
++
++
+15
+NAV
+NAV
+1970
+Overfire Air (OFA) - Coal
+0.5
++
++
+25
+NAV
+NAV
+1970
+OFA - Gas
+1.25
++
++
+40
+NAV
+NAV
+1970
+OFA - Oil
+0.5
++
++
+30
+NAV
+NAV
+1970
+Low NOx Burner (LNB) - Coal
+0.25
++
++
+35
+NAV
+NAV
+1980
+LNB - Oil
+0.25
++
++
+35
+NAV
+NAV
+1980
+LNB - Gas
+0.25
++
++
+50
+NAV
+NAV
+1980
+Flue Gas Recirculation
+0.5
++
++
+40
+NAV
+NAV
+1975
+Ammonia Injection
+0.5
++
++
+60
+NAV
+NAV
+1985
+Selective Catalytic Reduction
+(SCR) - Coal
+1
+8
++
+80
+NAV
+NAV
+1985
+SCR - Oil, AFBC
+1
+8
++
+80
+NAV
+NAV
+1985
+SCR - Gas
+1
+8
++
+80
+60
+NAV
+1985
+Retrofit LEA
+-0.5
++
++
+15
+NAV
+NAV
+1970
+Retrofit OFA - Coal
+0.5
++
++
+25
+NAV
+NAV
+1970
+Retrofit OFA - Gas
+1.25
++
++
+40
+NAV
+NAV
+1970
+Retrofit OFA - Oil
+0.5
++
++
+30
+NAV
+NAV
+1970
+Retrofit LNB - Coal
+0.25
++
++
+35
+NAV
+NAV
+1980
+Retrofit LNB - Oil
+0.25
++
++
+35
+NAV
+NAV
+1980
+Retrofit LNB - Gas
+0.25
++
++
+50
+NAV
+NAV
+1980
+(a) Efficiency loss as a percentage of end-user energy conversion efficiency (ratio of energy output to energy input for each
+technology) due to the addition of an emission control technology.  Negative loss indicates an efficiency improvement.
+(b) Date technology is assumed to be commercially available.
+Note:  A "+" indicates negligible reduction.
+Source:  Radian, 1990.
+ENERGY
+1.60
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-22
+KILN, OVENS, AND DRYERS EMISSION CONTROLS PERFORMANCE
+Technology
+Efficiency
+Loss(a)
+(%)
+CO
+Reduction
+(%)
+CH4
+Reduction
+(%)
+NOx
+Reduction
+(%)
+N2O
+Reduction
+(%)
+NMVOCs
+Reduction
+(%)
+Date
+Available(b)
+LEA - Kilns, Dryers
+-6.4
++
++
+14
+NAV
+NAV
+1980
+LNB - Kilns, Dryers
+0
++
++
+35
+NAV
+NAV
+1985
+SCR - Coke Oven
+1.0
+8
++
+80
+60
+NAV
+1979
+Nitrogen Injection
+NAV
+NAV
+NAV
+30
+NAV
+NAV
+1990
+Fuel Staging
+NAV
+NAV
+NAV
+50
+NAV
+NAV
+1995
+(a) Efficiency loss as a percentage of end-user energy conversion efficiency (ratio of energy output to energy input for each
+technology) due to the addition of an emission control technology.  Negative loss indicates an efficiency improvement.
+(b) Date technology is assumed to be commercially available.
+Note:  A "+" indicates negligible reduction.
+Source:  Radian, 1990.

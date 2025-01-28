@@ -1,0 +1,1415 @@
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+M O D U L E  6
+W A S T E
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.1
+6. WASTE
+6.1
+Introduction
+This module provides methodologies for estimating emissions of methane
+(CH4) from solid waste disposal sites, CH4 emissions from wastewater
+handling and N2O from human sewage.
+6.2
+Land Disposal of Solid Waste
+This section covers estimation of methane emissions from solid waste
+disposal sites.
+6 . 2 . 1 I n t r o d u c t i o n
+Anaerobic decomposition of organic matter by methanogenic bacteria in
+solid waste disposal sites results in the release of CH4 to the atmosphere.
+This source is estimated to account for about 5 to 20 per cent of global
+anthropogenic CH4 emissions (US EPA, 1994; IPCC, 1992).
+The methodology provides a classification of ‘solid waste disposal site’
+(SWDSs) into “managed” and “unmanaged” sites through a knowledge of
+the extent and type of active site management carried out.  The
+classification is used to apply a methane correction factor (MCF) to account
+for the methane generation potential of the site.
+6 . 2 . 2 D a t a  S o u r c e s
+Countries are encouraged to use their own data where available.  Default
+values, given in the tables, should be used when such data are not available.
+Population statistics: Countries that include areas where no organised
+waste collection or disposal takes place (usually rural areas) should use
+values for the urban population only, when asked to provide population
+data.  Waste in rural areas is typically scattered on the land rather than in
+SWDSs and hence it tends to decay aerobically generating extremely low, if
+any, CH4 emissions.
+Waste statistics: Data on Municipal Solid Waste (MSW) generation rates
+and on the percentage of MSW disposed to SWDSs are available for many
+countries, and these should be used when available.  Default values are given
+in Table 6-1.
+The different waste types that are here included in MSW are:
+1 Household Waste;
+2 Yard/Garden Waste; and
+3 Commercial/Market Waste
+In some countries, significant quantities of organic industrial solid waste is
+generated.  The default values provided in Table 6-1 should not include
+WASTE
+6.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+industrial solid waste.  If a significant quantity of organic industrial solid
+waste  is generated and disposed of in SWDSs, care should be taken to
+determine the appropriate per capita solid waste generation rate and
+Degradable Organic Carbon value.
+The Degradable Organic Carbon (DOC) content of the waste is here
+defined as the carbon content of paper and textiles; garden and park waste
+and other (non-food) putrescibles; food waste; and other organic
+biodegradable waste.  DOC content may be determined by one of three
+methods:
+• By using your own national data;
+• By calculation from a knowledge of your country's waste composition
+and using the default DOC values given in Table 6-3 for each type of
+waste; or
+• By using the default values given in Table 6-1.
+Note that values given in Tables 6-1 and 6-3 are, in general, for wet (or
+fresh) waste.
+It is critical that the DOC value corresponds to the waste generation/
+disposal rate on which the methane estimate is based.  For example, a
+country that includes industrial waste in its MSW estimate should ensure
+that the DOC value used reflects this component of the waste stream.
+Categories of waste disposal sites: Sites are classified as managed or
+unmanaged SWDSs.  A managed solid waste disposal site must have
+controlled placement of waste (i.e., waste directed to specific deposition
+areas, a degree of control of scavenging and a degree of control of fires)
+and will include at least one of the following: cover material; mechanical
+compacting; or levelling of the waste.  All other solid waste disposal sites
+that do not fall into the above category are defined as unmanaged sites.
+Unmanaged sites are further divided as deep (≥5m depth) or shallow (<5m
+depth), to allow for their CH4 generation potential.
+The methodology requires countries to provide data or estimates of the
+quantity of waste that is disposed to each of the three categories of
+SWDSs.  It is acknowledged that some countries may find it difficult to
+provide this information.  In such cases, Guidelines users are encouraged to
+consult with national waste experts to come to a reasoned consensus on
+the status of waste management in a country.
+Note that the information requires data on the quantity (mass) of waste
+deposited in each of the categories, and not the number of waste disposal
+sites in each of the categories.  If the breakdown of waste in each category
+is not known, the default value given in Table 6-1 should be used.
+6 . 2 . 3 M e t h o d o l o g y
+The default methodology allows for the calculation of CH4 emissions based
+on:
+A) 
+the amount of waste deposited in the different categories of
+SWDSs;
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.3
+B) 
+the fraction of degradable organic carbon and the amount which
+actually degrades; and,
+C) 
+the fraction of CH4 in landfill gas.
+EQUATION 1
+Methane emissions (Gg/yr)
+=
+(MSWT x MSWF x MCF x DOC x DOCF x F x 16/12 - R) x (1-OX)
+where:
+MSWT
+=
+total MSW generated (G/yr)
+MSWF
+=
+fraction of MSW disposed to solid waste disposal sites
+MCF
+=
+methane correction factor (fraction)
+DOC
+=
+degradable organic carbon (fraction)
+DOCF
+=
+fraction DOC similated
+F
+=
+fraction of CH4 in landfill gas (default is 0.5)
+R
+=
+recovered CH4 (Gg/yr)
+OX
+=
+oxidation factor (default is 0)
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 6-1 METHANE EMISSIONS FROM SOLID WASTE DISPOSAL SITES
+to enter data for this submodule.
+S T E P  1   E S T I M A T E  T O T A L  M U N I C I P A L  S O L I D
+W A S T E  G E N E R A T E D  A N D  D I S P O S E D  O F  I N
+S O L I D  W A S T E  D I S P O S A L  S I T E S
+• If your country has detailed statistics on Total Annual MSW Disposed to
+SWDSs (in gigagrams of MSW), enter these data into column A of the
+main Worksheet (Worksheet 6-1), then go directly to Step 2.
+Otherwise use Worksheet 6-1A or 6-1B to estimate the quantity of MSW
+disposed of in SWDSs in your country using the following steps.
+Worksheet 6-1A (Supplemental):  COUNTRY WASTE GENERATION/DISPOSAL
+DATA
+1 For the inventory year, define the Population whose Waste goes to
+SWDSs.  For developed countries this figure is likely to be the total
+country population.  For developing countries and countries with
+economies in transition, this may be the total urban population only,
+because the rural population is assumed to dispose of waste in such a
+OPEN DUMPS
+For 
+countries 
+that 
+did 
+not
+previously estimate emissions from
+“open 
+dumps”, 
+this 
+default
+methodology may result in an
+increase 
+in 
+estimated 
+methane
+emissions.  The methodology is
+described by Equation 1.
+FIRST ORDER METHODOLOGY
+Countries are encouraged to apply a
+more sophisticated model, such as
+the first order decay model, if they
+have sufficient data, and if the
+method is clearly stated and justified.
+See the Reference Manual.
+USING THE WORKSHEET
+• 
+Copy the Worksheet at the
+end of this section to complete
+the inventory.
+• 
+Keep 
+the 
+original 
+of 
+the
+worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+WASTE
+6.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+way that CH4 emissions are extremely low.  Enter this value (number of
+persons) into column A.
+2 Enter the Municipal Solid Waste (MSW) Generation Rate (in
+kg/capita/day) into column B.
+  
+MSW is here defined as:
+ • household waste;
+ • yard/garden waste; and
+ • commercial/market waste.
+ 
+If your country MSW contains significant quantities of other organic
+waste, such as industrial organic solid waste, then care should be taken
+to select an appropriate per capita waste generation rate.
+ 
+You should provide your own data if available.  Default values (for MSW
+as defined above) for some specific countries are given in Table 6-1.
+3 Multiply the value in column A with the value in column B.  Multiply the
+result by 365 to convert from the daily rate to give the Annual Amount
+of MSW Generated.  Divide the total by 106 to convert kg to Gg and
+enter the result in column C.
+4 Enter the Fraction of MSW Disposed of to SWDSs into column D.  Use
+your own data if available, otherwise use the default values that are given
+in Table 6-1.
+5 Multiply the value in column C by the value in column D to give the
+Total Annual MSW Disposed to SWDSs.  Enter the result in gigagrams
+of MSW in column E.
+6 Enter the figure from column E into column A of the main Worksheet
+(Worksheet 6-1).
+ 
+Worksheet 6-1B (Supplemental):  COUNTRY WASTE DISPOSAL DATA
+Use Worksheet 6-1B if country or default data are not available on MSW
+Generation Rate or Fraction of MSW Disposed to SWDSs .
+1 Define the Population whose Waste goes to SWDSs for the inventory
+year.  Enter the result in column A.  For developed countries this figure
+is likely to be the total country population.  For developing countries
+and countries with economies in transition, this may be the total urban
+population only, because the rural population is assumed to dispose of
+waste in such a way that CH4 emissions are extremely low.  Enter this
+value (number of persons) into column A.
+2 Enter the appropriate annual MSW Disposal Rate to SWDSs
+(kg/capita/day) from Table 6-1 into column B.  If a default value for your
+country is not available, choose the most appropriate default value
+provided in the Table.  Choose a default value from a country that most
+closely reflects your country’s waste disposal practices and prevailing
+environmental conditions.  (This may be the country that is
+geographically closest to your country.)
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.5
+3 Multiply the value in column A with the value in column B.  Multiply the
+result by 365 to convert from the daily rate to give the Total Annual
+MSW Disposed to SWDs.  Divide the total by 106 to convert kg to Gg
+and enter the result in column C.
+4 Enter the figure from column C into column A of the main Worksheet
+(Worksheet 6-1).
+ 
+S T E P  2   D E T E R M I N E  M E T H A N E  C O R R E C T I O N
+F A C T O R S
+Worksheet 6-1C (Supplemental):  METHANE CORRECTION FACTOR
+1 Estimate the Proportion of Waste (by weight) of Each Type of SWDSs
+for the Total Annual MSW Disposed to SWDSs (i.e., the value in column
+A of Worksheet 6-1).  These types of site are listed and defined in Table
+6-2.
+ 
+Enter these values into column W of Worksheet 6-1C to correspond
+with the values x, y and z shown in Table 6-2.  [Check that x+y+z=1].
+If you do not know values for x, y and z, then assume that all the waste
+is disposed to unmanaged sites and do not enter any values for x, y or z.
+Instead, enter the default value of 1 in the bottom of column W (as
+shown in Table 6-2).
+2 Enter the  Methane Correction Factors in column X for managed and
+unmanaged sites to correspond with the values a, b and c shown in
+Table 6-2.
+3 Multiply the value in column W by the value in column X to give the
+Weighted Average MCF for Each Type of Solid Waste Disposal Site.
+Enter the result in column Y.
+ 
+If country specific values are not available, use default values provided in
+Table 6-2.  If you do not know values for a, b and c, enter the default
+value of 0.6 (Table 6-2) in the bottom of column X.
+4 Sum up the three values in column Y to give the total Weighted Average
+MCF for Each Type of SWDS.  Enter the result in the bottom of
+column Y.
+ 
+If you have used the default value of 1 in column W, and the MCF
+default value of 0.6, the Weighted Average MCF for Each Type of SWDS
+is 1 x 0.6 = 0.6.  Enter 0.6 in the bottom of column Z.
+Enter the total value in the bottom of column Y into column B of the main
+Worksheet (Worksheet 6-1).
+WASTE
+6.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 6-1
+COUNTRY WASTE GENERATION, COMPOSITION, AND DISPOSAL DATA
+Region/Country
+MSW
+Generation Rate
+(kg/cap/day)
+Fraction of MSW
+Disposed to
+SWDs
+Fraction of
+DOC of
+MSW
+MSW Disposal
+Rate
+(kg/cap/day)
+North America
+0.18-0.21
+USA
+2.0
+0.62
+1.24
+Canada
+1.81
+0.75
+1.35
+Oceania
+Australia
+1.26
+1.00
+0.15
+1.26
+New Zealand
+1.33
+1.0
+0.19
+1.33
+UK/Western
+Europe/Scandinavia
+0.08-0.19
+UK
+1.9
+0.9
+0.10
+1.7
+Ireland
+0.85
+1.00
+0.85
+Austria
+0.92
+0.40
+0.36
+Belgium
+1.10
+0.43
+0.47
+Denmark
+1.26
+0.20
+0.25
+Finland
+1.70
+0.77
+1.3
+France
+1.29
+0.46
+0.60
+Germany
+0.99
+0.66
+0.65
+Greece
+0.85
+0.93
+0.79
+Italy
+0.94
+0.88
+0.83
+Luxembourg
+1.34
+0.35
+0.47
+Netherlands
+1.58
+0.67
+0.14
+1.06
+Norway
+1.40
+0.75
+1.05
+Note: The values in Table 6-1 represent the best data available to the Expert Group.  Note that all values may
+not reflect identical assumptions regarding MSW composition (and hence corresponding DOC values).  Where
+updated national data are available corresponding to the definitions used here, they should be used for
+comparison instead of the values given in Table 6-1.
+See Volume 3, Reference Manual for References.
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.7
+TABLE 6-1 (CONTINUED)
+COUNTRY WASTE GENERATION, COMPOSITION, AND DISPOSAL DATA
+Region/Country
+MSW  Generation
+Rate
+(kg/cap/day)
+Fraction of  MSW
+Disposed to SWDs
+Fraction of
+DOC of
+MSW
+MSW Disposal
+Rate
+(kg/cap/day)
+    Portugal
+0.90
+0.86
+0.78
+    Spain
+0.99
+0.85
+0.83
+    Sweden
+1.01
+0.44
+0.44
+    Switzerland
+1.10
+0.23
+0.25
+Eastern Europe
+    Poland
+0.15
+0.54
+    Russia
+0.93
+0.94
+0.17
+0.87
+Asia
+    Japan
+1.12
+0.38
+0.43
+    India
+0.33
+0.6
+0.18
+0.2
+    China
+0.09
+0.84
+    Indonesia
+0.17
+0.51
+Central
+America
+    Guatemala
+0.13
+0.46
+South America
+    Brazil
+0.12
+1.47
+    Peru
+0.15
+0.98
+    Chile
+0.18
+0.59
+Africa
+    Egypt
+0.21
+0.40
+    Nigeria
+0.11
+0.40
+    South Africa
+1.00
+Note: The values in Table 6-1 represent the best data available to the Expert Group.  Note that all values may not
+reflect identical assumptions regarding MSW composition (and hence corresponding DOC values).  Where updated
+national data are available corresponding to the definitions used here, they should be used for comparison instead of
+the values given in Table 6-1.
+See Volume 3, Reference Manual for References
+WASTE
+6.8
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 6-2
+CALCULATION OF METHANE CORRECTION FACTOR
+W
+X
+Y
+Z
+Type of site
+Proportion of
+Waste (by weight)
+in Each Type of
+Site
+Methane Correction
+Factor (MCF):
+Default Values
+Methane
+Correction Factor
+(MCF): Country-
+Specific Value
+Weighted Average
+MCF for Each
+Type of SWDS
+Z = W x X
+ (or W x Y)
+Managed
+x
+1.0
+a
+= x
+or (a x x)
+Unmanaged - deep
+ (> or = 5m waste)
+y
+0.8
+b
+= 0.8y
+or (b x y)
+Unmanaged -
+shallow
+ (< 5m waste)
+z
+0.4
+c
+= 0.4z
+or (c x z)
+Total
+Check x+y+z=1
+-
+-
+Ztotal
+ (= sum of values
+in shaded boxes
+above)
+Default values
+1
+0.6
+-
+0.6
+Definitions:
+A managed solid waste disposal site must have controlled placement of waste (i.e., waste directed to specific deposition
+areas, a degree of control of scavenging and a degree of control fires) and will include at least one of the following: cover
+material; mechanical compacting; or levelling of the waste.
+All other solid waste disposal sites that do not fall into the above category are defined as unmanaged sites.
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.9
+S T E P  3   E S T I M A T E  M E T H A N E  P R O D U C T I O N
+R A T E  P E R  U N I T  O F  W A S T E
+1 Estimate the Fraction of Degradable Organic Carbon (DOC) in the
+Municipal Solid Waste (MSW) which is disposed of in SWDSs.  This can
+be done:
+• by using your own national data;
+• by calculation using a knowledge of waste composition in your
+country and the default DOC values of each fraction of waste given
+in Table 6-3; or,
+• by using the default values given in Table 6-1.
+Use local data where these are available, and document your sources if you
+do so.
+TABLE 6-3
+DEFAULT DOC VALUES FOR MAJOR WASTE STREAMS
+Waste Stream
+Per cent DOC (by weight)
+A.
+Paper and textiles
+40
+B.
+Garden and park waste and other (non-
+food) organic putrescibles
+17
+C.
+Food waste
+15
+D.
+Wood and straw waste1
+30
+1 excluding lignin C
+Source: Bingemer and Crutzen, 1987.
+Using the values in Table 6-3, the DOC of your country’s waste could be
+calculated using Equation 2.
+EQUATION 2
+Per cent DOC (by weight) = 0.4(A) + 0.17(B) + 0.15(C) + 0.30(D)
+where:
+A
+=
+per cent MSW that is paper and textiles
+B
+=
+per cent MSW that is garden waste, park waste or other
+non-food organic putrescibles
+C
+=
+per cent MSW that is food waste
+D
+=
+per cent MSW that is wood or straw
+If the default values from Table 6-1 are used, choose the default value which
+most closely corresponds to conditions in your country.
+Enter the result in column C of the main Worksheet (Worksheet 6.1).
+WASTE
+6.10
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+2 Enter the Fraction of DOC which Actually Degrades into column D.
+This is the fraction of the total DOC which actually degrades in a waste
+disposal site.  The decomposition of DOC does not occur completely
+and some of the potentially degradable material always remains in the
+site even over a very long period of time.  Dissimilation is currently
+under review, but the default value of 0.77 should be entered until
+further information is available.
+3 Enter the Fraction of Carbon Released as Methane in column E.  The
+default value is 0.5.  If you have locally available data for this fraction
+then it should be used.  Document your sources if you do so.
+4 Calculate the Potential Methane Generation Rate per Unit of Waste by
+multiplying together the values in columns C, D, and E with the
+Conversion Ratio which converts carbon to CH4 in column F (16/12).
+Enter the result into column G.
+5 Calculate the Realised (Country-specific) Methane Generation Rate per
+Unit of Waste by multiplying together the values in columns B and G.
+Enter the result into column H.
+ 
+S T E P  4   E S T I M A T E  T O T A L  N E T  A N N U A L
+M E T H A N E  E M I S S I O N S
+1 Multiply the values in columns A and H to give the Gross Annual
+Methane Generation.  Enter the result into column J.
+2 Enter the amount of Recovered Methane per Year, in gigagrams CH4,
+either through gas flaring or through energy recovery schemes.  Enter
+the result in column K.
+ 
+No default data are available.  Use locally available figures for the
+amounts recovered if these are available.  Document your sources if you
+do so.
+ 
+Further details about factors to take into account and ways of calculating
+methane oxidised by flaring or use are given in the Reference Manual.
+3 Subtract the values in column K from the values in column J to give Net
+Annual Methane Generation.  Enter the result in column L.
+4 Enter the value One Minus the Methane Oxidation Correction Factor in
+column M.  (The default value is 1-0=1).
+5 Multiply the values in columns L and M to give the Net Annual Methane
+Emissions.  Enter the result, in gigagrams of CH4, into column N.
+METHANE CORRECTION FACTOR
+The Methane Oxidation Correction
+Factor is given as 0.  This value may
+be changed in future versions of the
+Workbook to reflect new data
+arising 
+from 
+improvements 
+in
+understanding of the effects of CH4
+oxidation in waste disposal sites.
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.11
+6.3
+Methane Emissions from Wastewater
+Handling
+6 . 3 . 1 I n t r o d u c t i o n
+The handling of wastewater streams with high contents of organic material,
+including domestic and commercial wastewater and some industrial
+wastewater streams, can emit significant amounts of methane (Table 6-4).
+Methane emissions from industrial wastewater are estimated to range from
+26 to 40 Tg, while domestic and commercial sources emit approximately
+2 Tg/yr.  Together, they account for 8 to 11 per cent of global methane
+emissions (IPCC, 1995).
+There are two basic types of wastewater handling, emissions from which
+should be calculated separately.  These are:
+• Domestic and commercial wastewater
+• Industrial wastewater
+The principal factor that determines methane generation potential of
+wastewater is the amount of organic material in the wastewater stream.
+For domestic and commercial wastewater and sludge, this is indicated by
+the Biochemical Oxygen Demand (BOD); for industrial wastewater, the
+Chemical Oxygen Demand (COD) is used.  The BOD indicates the amount
+of carbon that is aerobically biodegradable, whereas the COD indicates the
+total amount of carbon, biodegradable and non-biodegradable, that is
+available for oxidation.  This is a change from the previous methodology
+(IPCC, 1995), which used BOD as the organic material parameter in both
+domestic/commercial and industrial wastewater streams.
+An important addition to the previous methodology (IPCC, 1995) is the
+incorporation of emissions from sludge.  Sludge is produced as a by-product
+of certain wastewater handling systems, and can produce methane under
+anaerobic conditions.
+6 . 3 . 2 D a t a  S o u r c e s
+Countries are encouraged to use their own data where available.
+Otherwise, default values are given in the Tables.
+Population: If wastewater produced in rural areas is managed without
+formal handling and/or treatment systems, then countries may consider only
+the urban population in estimating this emissions source.
+Degradable Organic Component: If national or source-specific BOD
+and COD output values are not available, the regional default values
+(Table 6-5) should be used.  Consultation with national wastewater experts
+is suggested.
+WASTE
+6.12
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 6-4
+METHODS OF WASTEWATER HANDLING
+Handling Method
+Exceptions to Expected CH4 Production
+Mostly aerobic disposal and handling
+methods (little or no CH4 production)
+Developing countries
+•
+Open Pits/Latrines
+•
+Aerobic shallow ponds
+•
+River Discharge
+•
+Pits/latrines may produce methane
+when temperature and retention time
+are favourable
+•
+Aerobic shallow ponds over 3 metres
+deep may produce methane
+•
+Stagnant, oxygen-deficient rivers may
+allow for anaerobic decomposition
+Developed countries
+•
+Sewer systems with aerobic treatment
+•
+Poorly designed or managed aerobic
+treatment systems produce methane
+Mostly anaerobic disposal and handling
+methods (high CH4 production)
+Developing countries
+•
+Anaerobic deep ponds
+•
+Sewer systems with anaerobic treatment
+Developed and developing countries
+•
+Septic Tanks
+•
+Poorly designed or managed anaerobic
+systems may allow for aeration and
+reduced methane production
+•
+Frequent solids removal reduces
+methane production
+Anaerobic Methods with Methane Recovery
+(mainly for sludge handling)
+Primarily developed countries
+TABLE 6-5
+ESTIMATED BOD5 VALUES IN DOMESTIC WASTEWATER BY REGION
+Region
+BOD5 Value
+ (kg/cap/day)
+BOD5 Value
+ (kg/1000 persons/yr)
+Africa
+0.037
+13,505
+Asia, Middle East, Latin America
+0.04
+14,600
+N. America, Europe, Former USSR, Oceania
+0.05
+18,250
+Source: IPCC (1994)
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.13
+Industry Output: National Data may be available.  Specific industries can
+also be contacted for output information.
+Industry Wastewater and Sludge Production: If data are unavailable,
+default values are provided in Table 6-6.
+Handling Systems: National data on wastewater and sludge handling
+system utilisation practices should be used if it is available.  Consultation
+with national wastewater experts is suggested.
+6 . 3 . 3 M e t h o d o l o g y
+The methodology considers emissions from wastewater and from sludge.
+For each the method consists of three parts: total organic material;
+emission factors; and emissions estimates.  The organic material in the
+wastewater or sludge, measured as BOD or COD, is multiplied by an
+average emission factor for each wastewater or sludge source to arrive at
+an emissions estimate.
+D O M E S T I C  A N D  C O M M E R C I A L  W A S T E W A T E R
+ C o m p l e t i n g  t h e  W o r k s h e e t s
+Use WORKSHEET 6-2 FOR DOMESTIC AND COMMERCIAL WASTEWATER AND
+SLUDGE to enter data for this submodule.
+S T E P  1  E S T I M A T I N G  T O T A L  O R G A N I C
+W A S T E W A T E R  A N D  S L U D G E
+1 Enter the City or Region in column A.  If regional data do not exist, use
+national data.
+2 Enter total Population or urban population for the inventory year in
+column B, in 1000 persons.  Developing countries may choose to use
+only the urban population if wastewater produced in rural areas
+receives little or no handling or treatment.  See Table 6-4 for a list of
+anaerobic and aerobic handling methods.
+3 Enter the Degradable Organic Component in column C for each
+region/city in kg BOD/ 1000 persons/year.  Default values by region are
+shown in Table 6-5.
+4 Enter the Fraction of Degradable Organic Component Removed as
+Sludge in column D for each region/city.  The default value is 0.
+5 Multiply the values in columns B, C, and one minus the value in column
+D. 
+Enter 
+the 
+product 
+in 
+column 
+E. 
+This 
+is 
+the 
+Total
+Domestic/Commercial Organic Wastewater for the city/region.
+6 Multiply the values in columns B, C, and D.  Enter the product in column
+F.  This is the Total Domestic/Commercial Organic Sludge for the
+city/region.
+WASTE
+6.14
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+7 Repeat 1-6 above for each region or city as necessary, using the next
+row.
+8 Sum the values in column E.  Enter the sum at the bottom cell, labelled
+“Total.”  Repeat for column F.  The summed values are the total
+domestic and commercial organic wastewater and sludge for the
+country.
+ 
+S T E P  2   E S T I M A T E  E M I S S I O N  F A C T O R S  F O R
+D O M E S T I C / C O M M E R C I A L  W A S T E W A T E R  A N D
+S L U D G E  H A N D L I N G  S Y S T E M S
+Determine the Aggregate methane conversion factor (MCF) for
+domestic/commercial wastewater.
+1 In column A, enter the types of Wastewater Handling Systems used for
+domestic wastewater.
+2 In column B, enter the Fraction of Wastewater Treated by the Handling
+System in column A.
+3 In column C, enter the Methane Conversion Factor for the Handling
+System in column A.
+4 Multiply the values in columns B and C.  Enter the Product in column D.
+5 Enter the sum of the products in the bottom of column D.
+6 Enter the Maximum Methane Producing Capacity for the wastewater in
+the bottom of column E.  The default (theoretical) value for Bo is 0.25 kg
+CH4/kg BOD.
+7 Calculate the average Emission Factor for the Domestic/Commercial
+Wastewater by multiplying the value in the bottom of column D by the
+value in the bottom of column E.  Enter the product in the bottom of
+column F.
+S T E P  3   E S T I M A T E  E M I S S I O N  F A C T O R S  F O R
+D O M E S T I C / C O M M E R C I A L  S L U D G E  H A N D L I N G
+S Y S T E M S
+Determine the Aggregate MCF for domestic/commercial sludge.
+1 In column A, enter the types of Sludge Handling Systems used for
+domestic wastewater.
+2 In column B, enter the Fraction of Sludge Treated by the Handling
+System in column A.
+3 In column C, enter the Methane Conversion Factor for the Handling
+System in column A.
+4 Multiply the values in columns B and C.  Enter the Product in column D.
+5 Enter the sum of the products in the bottom of column D.
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.15
+6 Enter the Maximum Methane Producing Capacity for the sludge in the
+bottom of column E.  The default (theoretical) value for Bo is 0.25 kg
+CH4/kg BOD.
+7 Calculate the average Emission Factor for the Domestic/Commercial
+Sludge by multiplying the value in the bottom of column D by the value
+in  the bottom of column E.  Enter the product in the  bottom of
+column F.
+S T E P  4   E S T I M A T E  M E T H A N E  E M I S S I O N S
+F R O M  D O M E S T I C / C O M M E R C I A L  W A S T E W A T E R
+A N D  S L U D G E
+1 In column A, rows 1 and 2, copy the Total Domestic/Commercial
+Organic Wastewater value from the bottom of column E of Worksheet
+6-2, Sheet 1 and the Total Domestic/Commercial Organic Sludge value
+from the bottom of column F of Worksheet 6-2, Sheet 1.
+2 In 
+column 
+B, 
+copy 
+the 
+average 
+Emission 
+Factor 
+for
+Domestic/Commercial Wastewater value from column F of Worksheet
+6-2, Sheet 2 and the average Emission Factor for Domestic/Commercial
+Sludge value from column F of Worksheet 6-2, Sheet 3.
+3 Multiply the values of columns A and B.  Enter the product in column C.
+4 Enter the total amount of Methane Recovered and/or Flared from
+domestic/commercial wastewater or sludge in column D in kg CH4.  If
+no data are available, the default value is zero.
+5 Subtract the value in column D from the value in column C.  Multiply by
+10-6 to convert emissions to gigagrams.  Enter the difference in column
+E.
+6 Sum the values in both rows of column E at the bottom of the column.
+This is the Net CH4 Emissions from domestic/commercial wastewater
+and sludge.
+WASTE
+6.16
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 6-6
+INDUSTRIAL WASTEWATER DATA BY REGION
+Industry Type and Region
+Wastewater
+Produced
+(m3/tonnes of
+product)
+COD Value
+(kg COD/m3
+wastewater)
+Country
+Beverage-Distilled & Industry
+Generic - ethanol
+13 m3/ m3 ethanol
+40
+Generic - ethanol
+NAV
+5,000 kg/ m3 ethanol
+South America
+NAV
+22
+Brazil
+Western Europe
+NAV
+4.0 - 5.0
+Netherlands
+Beverage - Malt & Beer
+Generic
+5 m3/ m3 beer
+17
+Generic
+5-9 m3/ m3 beer
+2.0 - 7.0
+Western Europe
+NAV
+1.0 - 1.5
+Netherlands
+Food - Meat & Poultry
+Generic
+1.4 m3/animal
+NAV
+Western Europe
+NAV
+2.9
+Netherlands
+North America
+NAV
+15.0
+USA
+Food - Fish
+North America
+NAV
+2.5
+USA
+Food - Coffee
+North America
+NAV
+3.0 - 14.0
+USA
+Food - Dairy Products
+Generic
+2.8
+NAV
+Western Europe
+NAV
+1.5
+Netherlands
+Food - Fruits & Vegetables
+Generic (cannery)
+26
+NAV
+Generic Tomato processing
+26
+NAV
+North America, potatoes
+NAV
+3.0
+USA
+Western Europe, bean blanching
+NAV
+5.2
+Netherlands
+Western Europe, sauerkraut
+NAV
+10.0 - 20.0
+Netherlands
+Food - Oils
+Generic - Vegetable oil
+1.6
+0.3
+Middle East
+NAV
+42
+Turkey
+Asia
+NAV
+25
+Malaysia
+Food - Sugar
+Central America (cane)
+NAV
+98
+Mexico
+Iron And Steel
+South America
+0.1
+NAV
+Brazil
+Organic Chemicals
+Western Europe
+NAV
+20- 40
+Netherlands
+Pharmaceuticals
+Middle East
+NAV
+1.3
+Egypt
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.17
+TABLE 6-6 (CONTINUED)
+ INDUSTRIAL WASTEWATER DATA BY REGION
+Industry Type  and Region
+Wastewater
+Produced(M3/Tonnes
+of Product)
+COD Value
+(Kg COD/M3
+Wastewater)
+Country
+Starch
+Generic, potato starch
+NAV
+4.0 - 16
+Generic, wheat starch
+NAV
+2.0 - 42
+Generic, corn starch
+NAV
+10
+Petroleum Production
+North America
+NAV
+0.3 -0.4
+USA
+North America
+NAV
+1.8
+Canada
+Pulp & Paper
+Generic (pulp)
+58
+2.0 - 15
+North America pulp mill
+140
+NAV
+USA
+Generic (paper)
+NAV
+2.0 - 8.0
+North America (virgin paper)
+97
+1.6
+USA
+North America (recycled
+paper)
+44
+3.0
+USA
+Western Europe (paper)
+NAV
+1.0 - 3.0
+Netherlands
+Textiles
+Rayon
+501
+NAV
+Greece
+NAV
+0.09
+North America, textile mills
+NAV
+1.0
+USA
+Leather Tanning
+North America, generic
+NAV
+5.8
+USA
+Source: Doorn and Eklund (1995).  For a detailed list of references for each wastewater category, see Doorn and
+Eklund (1995).  Wastewater production of COD values are not available (NAV) for every country and region.
+Research is ongoing to develop wastewater production and COD values for these countries and regions.  Note that
+these data are currently undergoing revision and updating.
+WASTE
+6.18
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 6-7
+DOMESTIC WASTEWATER TREATMENT EMISSIONS FACTOR DERIVATION DATA
+Region
+Type of Treatment
+Fraction of
+Wastewater Treated
+(%)
+MCF
+ (%)
+Africa
+Kenya
+Lagoons
+50
+NAV
+Tunisia
+Lagoons
+20
+NAV
+Zimbabwe
+Activated Sludge
+50
+NAV
+Other Africa
+Lagoons
+5
+80
+Asia
+Indonesia
+not specified
+1
+NAV
+Singapore
+not specified
+1
+NAV
+South Korea
+not specified
+1
+NAV
+Taiwan
+not specified
+1
+NAV
+Other Asia
+not specified
+5
+75
+Latin America And Caribbean
+not specified
+10
+80
+Australia And New Zealand
+not specified
+80
+70
+Source: Doorn and Eklund (1995).  For a detailed list of references for each region, see Doorn and Eklund (1995).
+Methane correction factor (MCF) data are not available (NAV) for some countries and regions.  Research is ongoing
+to provide MCF estimates for these countries and regions.  Note that these data are currently undergoing revision
+and updating.
+6
+WASTE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k 
+6.19
+TABLE 6-8
+INDUSTRIAL WASTEWATER TREATMENT EMISSIONS FACTOR DERIVATION
+Region
+Type of Industry
+Type of
+Treatment
+Fraction of
+Wastewater
+Treated
+ (%)
+MCF
+ (%)
+Africa
+Kenya
+textiles
+Lagoons
+60
+NAV
+Kenya
+coffee production
+Lagoons
+5
+NAV
+Other Africa
+All
+Lagoons
+10
+90
+Asia
+Indonesia
+All
+not specified
+10
+NAV
+Malaysia
+palm oil
+not specified
+90
+NAV
+Singapore
+All
+not specified
+10
+NAV
+South Korea
+All
+not specified
+10
+NAV
+Taiwan
+All
+not specified
+10
+NAV
+Thailand
+breweries
+activated
+sludge
+50
+NAV
+Other Asia
+All
+not specified
+20
+90
+North America
+Canada
+All
+not specified
+90
+70
+USA
+All
+not specified
+90
+70
+Latin America & Caribbean
+All
+not specified
+20
+90
+Australia & New Zealand
+All
+not specified
+95
+70
+Source: Doorn and Eklund (1995).  For a detailed list of references for each region, see Doorn and Eklund (1995).
+Methane correction factor (MCF) data are not available (NAV) for some countries and regions.  Research is
+ongoing to provide MCF estimates for these countries and regions.  Note that these data are currently undergoing
+revision and updating.
+WASTE
+6.20
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 6-9
+UNSPECIFIED WASTEWATER TYPE EMISSIONS FACTOR DERIVATION DATA
+Region
+Type of Treatment
+Fraction of
+Wastewater
+Treated
+ (%)
+MCF
+ (%)
+Africa
+South Africa
+not specified
+10
+NAV
+Asia
+Afghanistan
+not specified
+1
+NAV
+Latin America And Caribbean
+Colombia
+Lagoons
+3
+NAV
+Argentina
+Lagoons
+3
+NAV
+Europe
+Albania
+not specified
+1-92
+NAV
+Austria
+not specified
+65
+NAV
+Belgium
+not specified
+85
+NAV
+Bulgaria
+not specified
+10-100
+NAV
+Belarus
+not specified
+10-80
+NAV
+Croatia
+not specified
+57
+NAV
+Czech Rep
+not specified
+10-5
+NAV
+Denmark
+not specified
+90
+NAV
+Estonia
+not specified
+10-80
+NAV
+Finland
+not specified
+68
+NAV
+France
+not specified
+50-85
+NAV
+Germany
+not specified
+90
+NAV
+Hungary
+not specified
+44
+NAV
+Ireland
+not specified
+66
+NAV
+Italy
+not specified
+92
+NAV
+Latvia
+not specified
+10-80
+NAV
+Lithuania
+not specified
+10-80
+NAV
+Moldavia
+not specified
+10-80
+NAV
+Netherlands
+not specified
+90
+NAV
+Norway
+not specified
+94
+NAV
+Poland
+not specified
+10-50
+NAV
+Portugal
+not specified
+42
+NAV
+Romania
+not specified
+10-46
+NAV
+Russia
+not specified
+10-80
+NAV
+Serbia
+not specified
+57
+NAV
+Slovenia
+not specified
+87
+NAV
+Spain
+not specified
+67
+NAV
+Sweden
+not specified
+98
+NAV
+Switzerland
+not specified
+88
+NAV
+Turkey
+not specified
+38
+NAV
+Ukraine
+not specified
+10-80
+NAV
+United Kingdom
+not specified
+90
+NAV
+Slovakia
+not specified
+10-65
+NAV
+Source: Doorn and Eklund (1995).  Methane correction factor (MCF) data are not available (NAV).  Research is ongoing to
+provide MCF estimates for these and other wastewater treatment systems.  Note that these data are currently undergoing
+revision and updating.

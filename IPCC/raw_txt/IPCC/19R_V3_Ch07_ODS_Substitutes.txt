@@ -1,0 +1,3434 @@
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.1 
+CHAPTER 7 
+EMISSIONS OF FLUORINATED 
+SUBSTITUTES FOR OZONE 
+DEPLETING SUBSTANCES 
+ 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Kathrine Loe Bjønness (Norway), Tomas Gustafsson (Sweden), Junichi Ishikawa (Japan) and Michela Maione 
+(Italy) 
+ 
+Contributing Authors 
+Barbara Gschrey (Germany), Tetsuji Okada (Japan), Roberto de Aguiar Peixoto (Brazil) and Winfried Schwarz 
+(Germany) 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3 
+Contents 
+7 Emissions of Fluorinated Susbstitutes for Ozone Depleting Substances ........................................................ 7.6 
+7.1 
+Introduction ......................................................................................................................................... 7.6 
+7.1.1 Chemicals and relevant application areas covered ........................................................................... 7.6 
+7.1.2 General methodological issues for all ODS substitute applications ................................................. 7.8 
+7.1.2.1 
+Overview of ODS substitute issues ......................................................................................... 7.8 
+7.1.2.2 
+Choice of method .................................................................................................................... 7.8 
+7.1.2.3 
+Choice of emission factors .................................................................................................... 7.14 
+7.1.2.4 
+Choice of activity data .......................................................................................................... 7.14 
+7.1.2.5 
+Completeness ........................................................................................................................ 7.14 
+7.1.2.6 
+Developing a consistent time series ...................................................................................... 7.14 
+7.1.3 Uncertainty assessment .................................................................................................................. 7.14 
+7.1.4 Quality Assurance/Quality Control (QA/QC), Reporting and Documentation for all ODS substitutes 
+applications..................................................................................................................................... 7.14 
+7.2 
+Solvents (Non-Aerosol) ..................................................................................................................... 7.15 
+7.3 
+Aerosols (Propellants and Solvents) .................................................................................................. 7.15 
+7.4 
+Foam blowing agents ......................................................................................................................... 7.15 
+7.5 
+Refrigeration and Air Conditioning ................................................................................................... 7.16 
+7.5.1 Chemicals covered in this application area .................................................................................... 7.16 
+7.5.2 Methodological issues .................................................................................................................... 7.19 
+7.5.2.1 
+Choice of method ................................................................................................................... 7.19 
+7.5.2.2 
+Choice of emission factors .................................................................................................... 7.31 
+7.5.2.3 
+Choice of activity data .......................................................................................................... 7.33 
+7.5.2.4 
+Applying tier 2 methods – the example of mobile air conditioning (MAC) ......................... 7.36 
+7.5.2.5 
+Completeness ........................................................................................................................ 7.40 
+7.5.2.6 
+Developing a consistent time series ...................................................................................... 7.40 
+7.5.3 Uncertainty assessment .................................................................................................................. 7.40 
+7.5.4 Quality Assurance/Quality Control (QA/QC), Reporting and Documentation .............................. 7.40 
+7.6 
+Fire Protection ................................................................................................................................... 7.41 
+7.7 
+Other applications ............................................................................................................................. 7.41 
+Annex 7A.1  (New) Examples of national studies on emission rates for stationary refrigeration and air-
+conditioning systems .......................................................................................................................................... 7.42 
+References .......................................................................................................................................................... 7.46 
+ 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ Equations 
+Equation 7.1  Calculation of net consumption of a chemical in a specific application ..................................... 7.9 
+Equation 7.2a  Calculation of emissions of a chemical from a specific application ........................................... 7.9 
+Equation 7.2b  Calculation of emissions of a chemical from an application with banks .................................... 7.9 
+Equation 7.3  General mass balance equation for Tier 1b .............................................................................. 7.10 
+Equation 7.4  Summary emissions equation based on phases of the lifecycle ................................................ 7.13 
+Equation 7.9  Determination of refrigerant emissions by mass balance ......................................................... 7.22 
+Equation 7.10  Summary of sources of emissions ............................................................................................ 7.23 
+Equation 7.11  Sources of emissions from management of containers ............................................................. 7.23 
+Equation 7.12  Sources of emissions when charging new equipment............................................................... 7.24 
+Equation 7.13  Sources of emissions during equipment lifetime ...................................................................... 7.24 
+Equation 7.14  Emissions at system end-of-life ................................................................................................ 7.25 
+ Figures 
+Figure 7.6 
+Decision tree for actual emissions from the refrigeration and air conditioning (RAC)    
+application ................................................................................................................................ 7.20 
+Figure 7.7  
+Example of spreadsheet calculation for Tier 1a/b assessments ................................................. 7.21 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.5 
+Tables 
+Table 7.1 (Updated)  Main application areas for HFCs and PFCs as ODS substitutes1 ...................................... 7.7 
+Table 7.3 (Updated) Distribution of HFC use by application area for 2015 ..................................................... 7.11 
+Table 7.3a (New) 
+HFC consumption for Refrigeration and air conditioning in article 5 partiesa, percent of 
+total by substance and sub-application area for 2015 ...................................................... 7.12 
+Table 7.3b (New) 
+HFC consumption for Refrigeration and air conditioning in non-article 5 partiesa, percent 
+of total by substance and sub-application area for 2015 .................................................. 7.12 
+Table 7.3c (New) 
+HFC consumption for Refrigeration and air conditioning, Per cent of Total by 
+manufacturing and servicing for 2015 ............................................................................. 7.12 
+Table 7.8  
+Blends (many containing HFCs and/or PFCs) ................................................................. 7.17 
+Table 7.9 (Updated) Default Estimates for charge, lifetime and emission factors for refrigeration and air-
+conditioning systems ........................................................................................................ 7.32 
+Table 7A.1 (New) 
+California study for 2008:  emission factors for stationary refrigeration and air-conditioning 
+systems ............................................................................................................................. 7.42 
+Table 7A.2 (New) 
+Japan study for 2008:  emission factors for stationary refrigeration and air-conditioning 
+systems ............................................................................................................................. 7.44 
+Table 7A.3 (New) 
+German study for 2009-2013:  emission factors for stationary refrigeration and air-
+conditioning systems ........................................................................................................ 7.45 
+Boxes 
+Box 7.2a (New)  
+How to build a refrigeration and air-conditioning (R/AC) emission inventory in a few 
+simple steps. Tier 1 and Tier 2 emission factor approaches ............................................. 7.26 
+Box 7.2b (New)  
+The basic elements of  an emission inventory for R/AC .................................................. 7.27 
+Box 7.2c (New)  
+How to build the bank of HFC ......................................................................................... 7.30 
+Box 7.3  
+Accounting for imports and exports of refrigerant and equipment .................................. 7.34 
+Box 7.3a (New)  
+Common data sources for the HFC inventory .................................................................. 7.35 
+Box 7.4 (Updated)  Example of the application of a Tier 2a calculation for mobile air conditioning ............. 7.37 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7 EMISSIONS OF FLUORINATED 
+SUSBSTITUTES FOR OZONE DEPLETING 
+SUBSTANCES 
+Users are expected to go to Mapping Tables in Annex 5, before reading this chapter. This is required to 
+correctly understand both the refinements made and how the elements in this chapter relate to the corresponding 
+chapter in the 2006 IPCC Guidelines.  
+ 
+7.1 
+INTRODUCTION 
+7.1.1 
+Chemicals and relevant application areas covered 
+Hydrofluorocarbons (HFCs) and, to a very limited extent, perfluorocarbons (PFCs), are serving as alternatives to 
+ozone depleting substances (ODS) being phased out under the Montreal Protocol. Current and expected 
+application areas of HFCs and PFCs include (IPCC/TEAP, 2005 and UNEP-TEAP 2016a/b): 
+• 
+refrigeration and air conditioning; 
+• 
+fire suppression and explosion protection; 
+• 
+aerosols; 
+• 
+solvent cleaning; 
+• 
+foam blowing; and 
+• 
+other applications1. 
+These major groupings of current and expected usage are referred to in this chapter as applications within the 
+ODS substitutes category. This introduction (Section 7.1) provides a general framework for estimating emissions 
+from ODS substitutes, and subsequent sections (Sections 7.2 through 7.7) provide more specialised guidance on 
+the individual applications introduced above. Some of these applications themselves encompass products or uses 
+with diverse emission characteristics, and countries will produce more rigorous estimates if they account for this 
+diversity through the adoption of disaggregated assessments (higher tier). Additionally, the use of HFCs and 
+PFCs in some applications, specifically rigid foam (typically closed-cell foam), refrigeration and fire 
+suppression, can lead to the development of long-lived banks2 of material. The emission patterns from these uses 
+can be particularly complex and methods employing disaggregated data sets are essential to generate accurate 
+emissions estimates. Other applications, such as aerosols and solvent cleaning may have short-term inventories 
+of stock but, in the context of emission estimation, can still be considered as sources of prompt emission. This 
+statement also applies to flexible foams (typically open-cell foam). 
+HFCs are chemicals containing only hydrogen, carbon, and fluorine. Prior to the Montreal Protocol and the 
+phase-out of various ODS, the only HFCs produced were HFC-152a, which is a component of the refrigerant 
+blend R-500, and HFC-23, a low temperature refrigerant which is a by-product of HCFC-223 production. HFC-
+134a entered production in 1991 and a variety of other HFCs have since been introduced and are now being used 
+as ODS substitutes (IPCC/TEAP, 2005) among other applications. When collecting data on HFC and PFC 
+consumption for reporting purposes, care needs to be taken to include those HFCs in blends, but, at the same 
+time, to avoid including those components of a blend which are not required to be reported (e.g., CFCs and 
+HCFCs). 
+HFCs and PFCs have high global warming potentials (GWPs) and, in the case of PFCs, long atmospheric 
+residence times. Table 7.1 gives an overview of the most important HFCs and PFCs, including their main 
+ 
+1  HFCs and PFCs may also be used as ODS substitutes in sterilisation equipment, for tobacco expansion applications, and as 
+solvents in the manufacture of adhesives, coating and inks. 
+2 A bank is in this context the amount of ODS-substitutes stored in products (applications) in a country.  
+3  HCFCs - hydrochlorofluorocarbons. 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.7 
+application areas. The various HFCs and PFCs have very different potencies as greenhouse gases. PFCs have 
+particularly high GWPs regardless of the integrated time horizon adopted because of their long atmospheric 
+lifetimes. The consumption patterns relating to individual gases must be known, therefore, or estimated with 
+reasonable accuracy, to achieve useful assessments for the contribution to global warming from emissions of 
+these groups of chemicals. 
+As CFCs, halons, carbon tetrachloride, methyl chloroform, and, ultimately, HCFCs are being finally phased out4, 
+HFCs are being selectively used as replacements. PFCs are also being used, but only to a limited extent. HFC 
+use is expected to continue to grow, at least in the short term (UNEP-TEAP, 2016a/b). 
+Since the 2006 IPCC Guidelines were finalized, a major change has occurred in the policy framework regulating 
+HFCs. Formerly, HFCs, which do not directly deplete O3, were not regulated under the Montreal Protocol. 
+However, during the 28th meeting of the parties (MOP28) held in Kigali (Rwanda) in October 2016, 197 
+countries adopted an amendment to phase down HFCs. The parties committed to cut the GWP-weighted 
+production and consumption of HFCs by more than 80 percent over the next 30 years. Developed countries will 
+begin reducing HFC consumption in 2019 and developing countries will follow with a freeze of HFC 
+consumption levels between 2024 and 2028. A small group including the world’s hottest countries (India, 
+Pakistan, Iran, Saudi Arabia and Kuwait) will freeze HFC use by 2028. These production and consumption limits 
+are expected to drive changes in the quantities and types of HFCs used in ODS substitute applications. To ensure 
+that their HFC emissions inventories remain accurate, inventory compilers should familiarize themselves with 
+the HFC limits in their countries and plan to gather data on the associated changes in HFC use and emissions.  
+ 
+TABLE 7.1 (UPDATED) 
+MAIN APPLICATION AREAS FOR HFCS AND PFCS AS ODS SUBSTITUTES1 
+Chemical 
+ 
+Refrigeration 
+and Air 
+Conditioning 
+Fire 
+Suppression 
+and Explosion 
+Protection 
+Aerosols 
+Solvent 
+Cleaning 
+Foam 
+Blowing 
+Other 
+Applications2 
+Propellants Solvents 
+HFC-23 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+HFC-32 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+HFC-125 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+HFC-134a 
+X 
+X 
+X 
+ 
+ 
+X 
+X 
+HFC-143a 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+HFC-152a 
+X 
+ 
+X 
+ 
+ 
+X 
+ 
+HFC-227ea 
+X 
+X 
+X 
+ 
+ 
+X 
+X 
+HFC-236fa 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+HFC-245fa 
+X 
+ 
+ 
+X 
+ 
+X 
+ 
+HFC-365mfc 
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+HFC-43-10mee 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+PFC-143 (CF4) 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+PFC-116 
+(C2F6) 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+PFC-218 
+(C3F8) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PFC-31-10 
+(C4F10) 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+PFC-51-144 
+(C6F14) 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+4  Refer to http://hq.unep.org/ozone/ for the phaseout schedules dictated under the Montreal Protocol. 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.1 (UPDATED) (CONTINUED) 
+MAIN APPLICATION AREAS FOR HFCS AND PFCS AS ODS SUBSTITUTES1 
+Source: IPCC (1996), IPCC (2001), IPCC/TEAP (2005), UNEP-TEAP (2016a) 
+1 Several applications use HFCs and PFCs as components of blends.  The other components of these blends are sometimes ODSs and/or non-
+greenhouse gases. Several HFCs, PFCs and blends are sold under various trade names; only generic designations are used in this chapter.  
+2 Other applications include sterilisation equipment, tobacco expansion applications, plasma etching of electronic chips (PFC-116) and as 
+solvents in the manufacture of adhesive coatings and inks (Kroeze, 1995; U.S. EPA, 1992a).  Note that although the use of PFCs for plasma 
+etching is mentioned as an example in footnotes 2 and 3 to this table, the methodology for estimating emissions is described in Chapter 6 of 
+Volume 3: Electronics Industry Emissions.   
+3 PFC-14 (chemically CF4) is used as a minor component of a proprietary blend. Its main use is for semiconductor etching. 
+4 PFC-51-14 is an inert material, which has little or nil ability to dissolve soils. It can be used as a carrier for other solvents or to dissolve and 
+deposit disk drive lubricants. PFCs are also used to test that sealed components are hermetically sealed.  
+ 
+7.1.2 
+General methodological issues for all ODS substitute 
+applications 
+7.1.2.1 OVERVIEW OF ODS SUBSTITUTE ISSUES 
+No refinement. 
+7.1.2.2 CHOICE OF METHOD 
+As already described, emissions of ODS substitutes can be estimated in a variety of ways with varying degrees 
+of complexity and data intensity. This chapter provides less data-intensive Tier 1 methods, typically based on 
+low levels of disaggregation, and more data-intensive Tier 2 methods, which require higher levels of 
+disaggregation. A third Tier (Tier 3), based on actual monitoring and measurement of emissions from point 
+sources, is technically possible for specific sub-applications but this is rarely, if ever, employed for ODS 
+substitutes, because the individual point sources are widely disparate. Accordingly, Tier 3 methods are not 
+addressed further in this chapter. 
+TIER 1 METHODS 
+Tier 1 methods tend to be less data-intensive and less complex than Tier 2 because emission estimates are 
+usually carried out at the application level rather than for individual products or equipment types. However, the 
+approaches proposed vary considerably depending on the characteristics of the specific application. There can be 
+Tier 1a approaches, Tier 1b approaches and, sometimes, combinations of the two (Tier 1 a/b). The latter is often 
+the case where data are in short supply. Effectively, the output of a Tier 1a approach can be cross-checked using 
+a Tier 1b method. In general, however, the simple methods tend to be based primarily on a Tier 1a approach 
+(emission-factor approach) with the default emission factor being up to 100 percent for prompt release 
+applications. 
+For simpler Tier 1 approaches, the chemical sales data at the application level is usually sufficient. However, 
+separating out individual components of blends can still represent a considerable challenge. Irrespective of the 
+Tier 1 methodology chosen, countries will need to report emissions of individual HFCs and PFCs. Information 
+on the practical use of the various commercial types of HFC/PFC refrigerants, blowing agents, solvents, etc. will 
+therefore be required. Many of these products are mixtures of two or more HFCs and/or PFCs, and the 
+composition of fluids for similar purposes may vary according to individual formulas developed by different 
+chemical companies. 
+Tier 1a – Emission-factor approach at the application level 
+Tier 1a relies on the availability of basic activity data at the application level, rather than at the level of 
+equipment or product type (sub-application). This activity data may consist of annual chemical consumption data 
+and, for applications exhibiting delayed emissions, banks derived therefrom. Once activity data have been 
+established at the application level, composite emission factors (see Section 7.1.2.3) are then also applied at the 
+application level. These more aggregated emission factors (e.g., all rigid foams) can be a composite or weighted 
+average of the emission factors developed for Tier 2a covering individual equipment or product types, or can be 
+a validated approximation approach (e.g., Gamlen et al. 1986).   
+The calculation formula for Net Consumption within the Tier 1a method is as follows: 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.9 
+EQUATION 7.1 
+CALCULATION OF NET CONSUMPTION OF A CHEMICAL IN A SPECIFIC APPLICATION 
+Destruction
+Exports
+Imports
+Production
+Net Consumption
+−
+−
++
+=
+ 
+ 
+Net Consumption values for each HFC or PFC are then used to calculate annual emissions for applications 
+exhibiting prompt emissions as follows: 
+EQUATION 7.2A 
+CALCULATION OF EMISSIONS OF A CHEMICAL FROM A SPECIFIC APPLICATION 
+Composite EF
+Net Consumption
+Annual Emissions
+•
+=
+ 
+Where: 
+Net Consumption  
+= net consumption for the application 
+Composite EF  
+= composite emission factor for the application 
+Note that, as discussed in the Choice of Activity Data section, inventory compilers may have access to chemical 
+consumption data at the aggregate level rather than by application. In this case, it will be necessary as an early 
+step to determine the share of total consumption represented by each application. 
+In equation 7.1, Production refers to production of new chemical. Reprocessing of recovered fluid should not be 
+included in consumption estimates. Imports and Exports include bulk chemicals but, for a Tier 1 method is 
+unlikely to contain the quantity of chemical contained in products, such as refrigerators, air-conditioners, 
+packaging materials, insulating foams, fire extinguishers etc. unless regional allocation system or other method 
+of approximation has been used. The term composite emission factor refers to an emissions rate that summarises 
+the emissions rates of different types of equipment, product or, more generally, sub-applications within an ODS 
+application area. Composite emission factors should account for assembly, operation and, where relevant in the 
+time-series, disposal emissions. 
+Although destruction of virgin HFCs and PFCs is not currently practised widely, and may be technically difficult 
+in some cases (UNEP TEAP Task Force on Destruction Technologies (UNEP-TEAP, 2002)), it should be 
+included as a potential option to reduce consumption. It should be noted that destruction of virgin chemicals, as 
+considered here, is distinct from the destruction of HFCs and PFCs in the end-of-life phase, which is strictly an 
+emission reduction measure. By-product emissions during HFC/PFC production and fugitive emissions related 
+to production and distribution have to be calculated separately. 
+Even in simple Tier 1a methods, it is usually necessary to account for the potential development of banks, where 
+these can occur. Banks are the amounts of chemical that have accumulated throughout the lifecycle, either in  
+supply chains, products, equipment or even waste streams but which, as of the end of the most recent year, has 
+not been emitted. At the application level, banks can be estimated using relatively straight-forward algorithms 
+and assumptions provided that the historic Net Consumption is known for each year following the introduction 
+of the substance or, where this period exceeds the average lifetime of the product or equipment, over that 
+average lifetime. Relevant application level emission factors are then applied to the banks to deal with emissions 
+during the lifetime of the products or equipment. This same process is carried out for Tier 2a methods but, in that 
+case, at the sub-application level. More general information on banks is contained in Section 7.1.2.1. 
+In cases where banks occur, Equation 7.2a is then modified to the following:  
+EQUATION 7.2B 
+CALCULATION OF EMISSIONS OF A CHEMICAL FROM AN APPLICATION WITH BANKS 
+B
+FY
+Banked Chemical Composite EF
+Total
+Net Consumption Composite EF
+Emissions
+Annual
+•
++
+•
+=
+ 
+Where: 
+Net Consumption  
+= net consumption for the application 
+Composite EFFY  
+= composite emission factor for the application for first year 
+Total Banked Chemical  = bank of the chemical for the application 
+Composite EFB  
+= composite emission factor for the application for bank 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Composite emission factors are determined by taking an average of the applicable sub-application emission 
+factors, weighted according to the activity in each sub-application. Sub-application emission factors can be 
+country-specific where known or default. In practice, if sub-application data are known, inventory compilers 
+would opt for a Tier 2 (disaggregated approach). If only application level data are known, representative 
+composite emission factors from other studies or default composite emission factors provided in this chapter can 
+be used. 
+Tier 1b – Mass-balance approach at the application level 
+The mass balance approach also estimates emissions from assembly, operation, and disposal, but does not rely 
+on emission factors. Instead, the method uses measured consumption (i.e., sales) of each chemical in the country 
+or facility being considered. It is generally limited to ODS Substitutes contained in pressurised systems. The 
+general equation is as follows5: 
+EQUATION 7.3 
+GENERAL MASS BALANCE EQUATION FOR TIER 1B 
+)
+(
+Original Total Charge of Retiring Equipment
+Total Charge of New Equipment
+Annual Sales of New Chemical
+Emissions
+−
+−
+=
+ 
+ 
+Industry needs to purchase new chemical from manufacturers in order to replace leakage (i.e., emissions) from 
+the current equipment stock, or the equipment will not function properly. If the equipment stock did not change 
+from year to year, then annual chemical consumption alone would provide a reasonable estimate of actual 
+leakage or emissions. The total equipment stock, and the chemical charge it contains, however, does change 
+from year to year. Some amount of new equipment containing a chemical charge is introduced each year, and 
+some amount of old equipment that was charged originally is retired each year. If the total chemical charge 
+contained in all equipment is increasing as a result of this annual turnover, then total annual chemical 
+consumption will overestimate emissions (i.e., the charge contained in new equipment is greater than the original 
+charge of the retired equipment). Conversely, if the total chemical charge in all equipment is decreasing, then 
+total annual chemical consumption will underestimate emissions. 
+In order to make good use of data on annual sales of new chemical, it is therefore also necessary to estimate the 
+total charge contained in new equipment, and the original charge contained in retiring equipment. The total 
+charge of new equipment minus the original total charge of retiring equipment represents the net change in the 
+charge of the equipment stock. (Using the mass balance approach, it is not necessary to know the total amount of 
+each chemical in equipment stock in order to calculate emissions.) Where the net change is positive, some of the 
+new chemical is being used to satisfy the increase in the total charge, and therefore cannot be said to replace 
+emissions from the previous year.  
+Industry also requires new chemical to replace destroyed gas and for stockpiles. Additionally, not all equipment 
+will be serviced annually. Terms can be added to the general equation to account for these factors but are not 
+typically adopted within simple Tier 1b methods.   
+This approach is most directly applicable to the pressure equipment used in refrigeration and air conditioning, 
+and fire protection applications because these are where chemical sales are most typically used to offset 
+operational emissions. However, since the basic method is relatively simple to apply, it is more typical to extend 
+the approach to the sub-application level (i.e., a Tier 2b method). Further elaboration and modification of this 
+approach is provided in the description of each application. In practice, Tier 1b methods are most commonly 
+used as a further cross-check to Tier 1a methods. Where basic Net Consumption data is lacking, regional and 
+international databases and models have been developed that allocate regional chemical sales for different end 
+uses (sub-applications) at a country level. These can therefore be used to source relevant data. 
+Tier 2 methods – applied at the sub-application level 
+There are two versions of the Tier 2 method, both of which result in emission calculations for each individual 
+chemical and distinct types of products or equipment at the sub-application level or within a sub-application. The 
+individual chemicals and products/equipment within the sub-application form the matrix referred to earlier in 
+this section and their analysis is comparable with methods currently applied by the Alternative Fluorocarbons 
+Environmental Acceptability Study (AFEAS) for CFCs, HCFCs and HFCs (McCulloch, Midgley and Ashford, 
+2001 and 2003; Ashford, Clodic, Kuijpers and McCulloch, 2004).   
+ 
+5  Boundary conditions: If there is no net change in the total equipment charge, then annual sales are equal to emissions. If 
+the net change in the total equipment charge is equal to annual sales, then emissions are zero. 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.11 
+Both versions of the Tier 2 methodology follow two general steps: 
+a) 
+Calculation or estimation of the time series of net consumption of each individual HFC and PFC 
+chemical at a relatively detailed product and equipment level to establish the consumption basis for 
+emission calculations. (e.g., refrigerators, other stationary refrigeration/AC equipment, appliance 
+foams, insulated panels, pipe insulation, etc.) 
+b) 
+Estimation of emissions using the activity data and resulting bank calculations derived from step (i), 
+and either emission factors that reflect the unique emission characteristics related to various 
+processes, products and equipment (Tier 2a) or, relevant new and retiring equipment information at 
+the sub-application level to support a mass balance approach. (Tier 2b). 
+The difference between Tier 2a and Tier 2b is the same as that for Tier 1a and Tier 1b – namely Tier 2a methods 
+use an emission-factor approach while Tier 2b methods follow a mass-balance approach. Both, however, need to 
+be operated at a level of disaggregation appropriate to a Tier 2 method, typically at least at the sub-application 
+level. 
+If the requisite data are available, a Tier 2 method is preferred for estimating emissions from ODS substitutes, 
+particularly where the sub-applications within an overall application area are relatively heterogeneous. Some 
+countries may already have the relevant information available to apply a Tier 2 methodology. Other countries 
+might not have access to data for Tier 2 at present, but they are encouraged to establish routines to collect either 
+country-specific or globally or regionally-derived activity data by chemical and sub-application within an 
+application area (e.g., different types of refrigeration and air conditioning sub-applications). Tier 1, in contrast, 
+requires data collection at a more aggregated application level (e.g., refrigeration and air conditioning in its 
+totality).  
+As a first step in using the Tier 2 method, countries may wish to make first order approximation of the 
+information needed for step (i). This will give direction to more focused data collection efforts in certain 
+application areas or sub-categories. Table 7.3 gives the consumption distribution for all application areas in 2015 
+for the Article 5 (mainly developing countries) and Non-Article 5 Parties (developed countries) to the Montreal 
+Protocol. The distribution is based on estimated consumption of ODS-substitutes in metric tonnes (UNEP-TEAP 
+2016b).  
+Table 7.3a and 7.3b gives the consumption of ODS-substitutes for the application category Refrigeration and Air 
+Conditioning in 2015 for Article 5 and Non-Article 5 Parties, by substance and sub-application.  
+Table 7.3c shows the share of total consumption used for manufacturing (filling of new equipment) and servicing 
+(refilling of operating equipment). 
+Good practice guidance in this section deals with variations of the Tier 2 method. Tier 1 methods, covered 
+previously, are generally seen as default methods where the application is not a key category and data 
+availability is limited. (Exceptionally, for Fire Protection, Tier 1a method with country-specific activity data and 
+emission factor will be used in the case it is identified as key category.) Each sub-section of Sections 7.2 to 7.7 
+discusses how to apply these methods to specific ODS applications, reviews existing data sources, and identifies 
+gaps therein.  
+ 
+TABLE 7.3 (UPDATED)  
+DISTRIBUTION OF HFC USE BY APPLICATION AREA FOR 2015 
+Country 
+Refrigeration and 
+Air conditioning 
+Aerosols 
+Foam blowing 
+agents 
+Fire protection and 
+others 
+Article 5 Partiesa 
+88 % 
+6 % 
+3 % 
+3 % 
+Non-Article 5 Partiesa 
+57 % 
+22 % 
+19 % 
+2 % 
+Source: UNEP-TEAP (2016b) 
+a See list of Article 5 and Non-Article 5 Parties to the Montreal protocol at the Unep Ozone Secreteriat web page 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.3A (NEW) 
+ HFC CONSUMPTION FOR REFRIGERATION AND AIR CONDITIONING IN ARTICLE 5 PARTIESA, PERCENT OF TOTAL BY 
+SUBSTANCE AND SUB-APPLICATION AREA FOR 2015 
+ 
+Total 
+HFC-134a 
+R-410A 
+R-407C 
+R-404A 
+R-507 
+TOTAL 
+100 
+27 
+39 
+20 
+7 
+7 
+Stationary Air Conditioning 
+60 
+1 
+39 
+20 
+- 
+- 
+Mobile Air Conditioning 
+19 
+19 
+- 
+- 
+- 
+- 
+Commercial Refrigerationb) 
+13 
+2 
+- 
+- 
+6 
+6 
+Domestic Refrigeration 
+5 
+5 
+- 
+- 
+- 
+- 
+Industrial Refrigerationb) 
+2 
+<1 
+- 
+- 
+1 
+1 
+Transport Refrigerationb) 
+1 
+<1 
+- 
+- 
+<1 
+<1 
+Source: UNEP (2017) 
+a See list of Article 5 Parties to the Montreal protocol at the Unep Ozone Secreteriat web page 
+b Due to rounding, sums of individual items may not equal the totals 
+ 
+TABLE 7.3B (NEW) 
+ HFC CONSUMPTION FOR REFRIGERATION AND AIR CONDITIONING IN NON-ARTICLE 5 PARTIESA, PERCENT OF TOTAL BY 
+SUBSTANCE AND SUB-APPLICATION AREA FOR 2015 
+ 
+Total 
+HFC-134a 
+R-410A 
+R-407C 
+R-404A 
+TOTAL 
+100 
+39 
+39 
+13 
+9 
+Stationary Air Conditioning 
+54 
+2 
+39 
+13 
+- 
+Mobile Air Conditioning 
+34 
+34 
+- 
+- 
+- 
+Commercial Refrigeration 
+11 
+2 
+- 
+- 
+8 
+Industrial Refrigeration 
+- 
+- 
+1 
+Transport Refrigeration 
+- 
+- 
+Domestic Refrigeration 
+1 
+1 
+- 
+- 
+- 
+Source: UNEP-TEAP (2016b) 
+a See list of Article 5 Parties to the Montreal protocol at the Unep Ozone Secreteriat web page 
+ 
+TABLE 7.3C (NEW) 
+HFC CONSUMPTION FOR REFRIGERATION AND AIR CONDITIONING, PER CENT OF TOTAL BY MANUFACTURING AND 
+SERVICING FOR 2015  
+ 
+Manufacturing 
+Servicing 
+Article 5 Partiesa 
+68 
+32 
+Non-Article 5 Partiesa 
+53 
+47 
+Source: UNEP-TEAP (2016b) 
+a See list of Article 5 and Non-Article 5 Parties to the Montreal protocol at the Unep Ozone Secreteriat web page 
+ 
+Tier 2a – Emission-factor approach 
+The country-specific data required for a Tier 2a approach are derived from the number of products and end-uses 
+relevant to each sub-application in which ODS substitutes are contained and from which ODS substitutes are 
+ultimately emitted. This approach seeks information on the number of equipment units or products that use these 
+chemicals, average chemical charges, average service life, emission rates, recycling, disposal, and other pertinent 
+parameters. This information is generally collected at the level of distinct groups of products or equipment (e.g., 
+for rigid foams: integral skin, continuous panel, discontinuous panel, appliance, injected foam products and 
+others). Annual emissions are then estimated as a function of these parameters through the life of the units or 
+products by the application of emission factors that are relevant to the lifecycle phases. Since equipment and 
+other products vary significantly in the amount of chemical used, service life, and emission rates, the 
+characterisation of this equipment can be a resource intensive task. The longer-lived the end-use equipment or 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.13 
+product, and the more diverse the types of equipment or product within a particular sub-application, the more 
+complex the sourced data approach has to be in order to account for emissions. However, the approach can 
+provide an accurate estimate of emissions if the data called for by the following equation are available for all 
+relevant types and vintages of equipment or product: 
+EQUATION 7.4 
+SUMMARY EMISSIONS EQUATION BASED ON PHASES OF THE LIFECYCLE  
+Emissions
+Disposal
+Emissions
+Operation
+Assembly Manufacturing Emissions
+Emissions of Each PFC or HFC
+Total
++
++
+=
+/
+ 
+ 
+Manufacturing or Assembly Emissions occur as fugitives when new equipment is filled for the first time with a 
+chemical or when a product is manufactured. Operational Emissions from equipment and products occur as 
+leaks or by diffusion during the use phase of the product or equipment (including servicing). In some cases, there 
+can even be intentional releases during operation. Finally, Disposal Emissions can occur when the equipment or 
+product reaches its end-of-life and is decommissioned and disposed of. In this case, the remaining HFC/PFC in 
+the product or equipment may escape to the atmosphere, be recycled, or possibly destroyed. 
+As with the Tier 1a method, there is a need to make provision for the development of banks in some applications. 
+This can lead to complex multiple calculations at the sub-application level, since the dynamics of banks may 
+vary considerably. However, because the individual algorithms rely on a simple sequential calculation of non-
+emitted consumption (i.e., consumption – emissions for each successive year), excellent emission assessments 
+can result from a well-constructed and well-maintained national model.  
+The need to update equipment and product inventories on an annual basis can be a major implementation 
+challenge for inventory compilers with limited resources. This challenge is made somewhat easier because it 
+may not be necessary to collect annual chemical consumption if a comprehensive set of other market parameters 
+is available (e.g., number of domestic refrigerators produced, etc.) In some countries or regions, trade 
+associations can be a significant source of such data. Otherwise, specific market research may be necessary. 
+Where such market parameters are the primary source of activity data, the potential magnitude of errors that can 
+be introduced by small discrepancies at unit level makes it good practice to carry out a chemical consumption 
+data cross-check to act as a means of providing quality assurance. The relevant QA/QC sections of this chapter 
+give guidance on how to conduct such cross-checks for each relevant application. 
+In order to limit the burden of data management for both annual consumption data and the status of banks, it is 
+possible to access international and regional databases of such information to gain the necessary inputs of 
+globally or regionally validated data to maintain a national model. These databases can also help to overcome 
+any confidentiality barriers that may exist in collecting and/or publishing data at a national level, particularly 
+where the number of suppliers is low. More information on the use of such databases is contained in Section 
+7.1.2.4 and Box 7.1. 
+Even where comprehensive country-specific activity data exists at a country level, it is good practice to 
+benchmark outputs against assessments made from databases of globally or regionally derived data. This need 
+not be done on an annual basis but could reasonably be conducted every 2-3 years. Significant discrepancies can 
+then be analysed and suitable actions taken to reconcile differences. 
+Tier 2b – Mass-balance approach 
+Tier 2 mass-balance approaches are similar to those described for Tier 1b, except that the process is applied at 
+the sub-application level. This is a particularly valuable approach for the refrigeration sector where there are a 
+significant number of relatively heterogeneous sub-applications. As is also the case for Tier 1 methods, it is not 
+uncommon to see mass-balance approaches used in combination with emission-factor approaches to ensure that 
+the outputs achieved are as robust as possible. Such approaches can realistically be described as hybrid Tier 2a/b 
+methods and they will be identified as such, where they occur in the relevant application-specific sections that 
+follow.  
+Since mass-balance approaches also require activity data at the sub-application level, it may be more resource- 
+efficient to use global or regional databases to obtain appropriate globally or regionally validated data.  The same 
+criteria for selection as set out for Tier 2a methods also apply for Tier 2b methods. Accordingly, equal care 
+should be taken in selecting validated datasets.   
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.1.2.3 CHOICE OF EMISSION FACTORS 
+No refinement. 
+7.1.2.4 CHOICE OF ACTIVITY DATA 
+No refinement. 
+7.1.2.5 COMPLETENESS 
+No refinement. 
+7.1.2.6 DEVELOPING A CONSISTENT TIME SERIES 
+No refinement. 
+7.1.3 
+Uncertainty assessment 
+No refinement. 
+7.1.4 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation for all ODS substitutes 
+applications 
+No refinement. 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.15 
+7.2 
+SOLVENTS (NON-AEROSOL) 
+No refinement. 
+ 
+7.3 
+AEROSOLS (PROPELLANTS AND SOLVENTS) 
+No Refinement. 
+ 
+7.4 
+FOAM BLOWING AGENTS 
+No refinement. 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.5 
+REFRIGERATION AND AIR CONDITIONING 
+7.5.1 
+Chemicals covered in this application area  
+ 
+Refrigeration and air-conditioning (RAC) systems may be classified in up to six sub-application domains or 
+categories (UNEP-RTOC, 2003), although fewer sub-applications may be used in some countries. These 
+categories correspond to sub-applications that may differ by location and purpose, and are listed below: 
+a) 
+Domestic (i.e., household) refrigeration, 
+b) 
+Commercial refrigeration including different types of equipment, from vending machines to 
+centralised refrigeration systems in supermarkets, 
+c) 
+Industrial processes including chillers, cold storage, and industrial heat pumps used in the food, 
+petrochemical and other industries, 
+d) 
+Transport refrigeration including equipment and systems used in refrigerated trucks, containers, 
+reefers, and wagons, 
+e) 
+Stationary air conditioning including air-to-air systems, heat pumps, and chillers6 for building and 
+residential applications, 
+f) 
+Mobile air-conditioning systems used in passenger cars, truck cabins, buses, and trains.7 
+For all these sub-applications, different HFCs are progressively replacing CFCs and HCFCs. For example, in 
+developed and several developing countries, HFC-134a has replaced CFC-12 in domestic refrigeration, high-
+pressure chillers and mobile air conditioning systems, and blends of HFCs such as R-407C (HFC-32/HFC-
+125/HFC-134a) and R-410A (HFC-32/HFC-125) are replacing HCFC-22 mainly in stationary air conditioning. 
+HFC blends R-404A (HFC-125/HFC-143a/HFC-134a) and R-507A (HFC-125/HFC-143a) have replaced R-502 
+(CFC-22/CFC-115) and HCFC-22 in commercial refrigeration. Other, non-HFC substances are also used to 
+replace CFCs and HCFCs such as iso-butane (HC-600a) in domestic refrigeration or ammonia in industrial 
+refrigeration. 
+A large number of blends containing HFCs and/or PFCs are being used in Refrigeration and Air Conditioning 
+applications. Table 7.8 shows some of these blends. A more comprehensive list can be obtained at the UNEP 
+Ozone Secretariat web site (https://ozone.unep.org/sites/default/files/Data-Reporting-Instructions-English.2019-
+03-20.pdf) or by contacting The American Society of Heating, Refrigerating and Air-Conditioning Engineers 
+(ASHRAE). 
+ 
+ 
+ 
+ 
+6 Comfort air conditioning in large commercial buildings (including hotels, offices, hospitals, universities, etc.) is commonly 
+provided by water chillers coupled with an air handling and distribution system.  
+7 The sub-application of mobile air conditioning systems is likely to represent the largest share of HFC emissions within the 
+Refrigeration and Air Conditioning application for many countries.  See Section 7.5.2.4, Applying Tier 2 Methods – The 
+Example Of Mobile Air Conditioning (MAC), for an example of how to calculate these emissions. The reader will see that 
+limited information is needed to approximate these emissions, and essentially becomes a simple multiplication of an 
+average emission factor and the number of cars with HFC air conditioning, and possibly adding emissions relating to 
+container management, charging and end-of-life. 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.17 
+TABLE 7.8 
+BLENDS (MANY CONTAINING HFCS AND/OR PFCS) 
+Blend 
+Constituents 
+Composition (%) 
+R-400 
+CFC-12/CFC-114 
+Should be specified1 
+R-401A 
+HCFC-22/HFC-152a/HCFC-124 
+(53.0/13.0/34.0) 
+R-401B 
+HCFC-22/HFC-152a/HCFC-124 
+(61.0/11.0/28.0) 
+R-401C 
+HCFC-22/HFC-152a/HCFC-124 
+(33.0/15.0/52.0) 
+R-402A 
+HFC-125/HC-290/HCFC-22 
+(60.0/2.0/38.0) 
+R-402B 
+HFC-125/HC-290/HCFC-22 
+(38.0/2.0/60.0) 
+R-403A 
+HC-290/HCFC-22/PFC-218 
+(5.0/75.0/20.0) 
+R-403B 
+HC-290/HCFC-22/PFC-218 
+(5.0/56.0/39.0) 
+R-404A 
+HFC-125/HFC-143a/HFC-134a 
+(44.0/52.0/4.0) 
+R-405A 
+HCFC-22/ HFC-152a/ HCFC-142b/PFC-318 
+(45.0/7.0/5.5/42.5) 
+R-406A 
+HCFC-22/HC-600a/HCFC-142b 
+(55.0/14.0/41.0) 
+R-407A 
+HFC-32/HFC-125/HFC-134a 
+(20.0/40.0/40.0) 
+R-407B 
+HFC-32/HFC-125/HFC-134a 
+(10.0/70.0/20.0) 
+R-407C 
+HFC-32/HFC-125/HFC-134a 
+(23.0/25.0/52.0) 
+R-407D 
+HFC-32/HFC-125/HFC-134a 
+(15.0/15.0/70.0) 
+R-407E 
+HFC-32/HFC-125/HFC-134a 
+(25.0/15.0/60.0) 
+R-408A 
+HFC-125/HFC-143a/HCFC-22 
+(7.0/46.0/47.0) 
+R-409A 
+HCFC-22/HCFC-124/HCFC-142b 
+(60.0/25.0/15.0) 
+R-409B 
+HCFC-22/HCFC-124/HCFC-142b 
+(65.0/25.0/10.0) 
+R-410A 
+HFC-32/HFC-125 
+(50.0/50.0) 
+R-410B 
+HFC-32/HFC-125 
+(45.0/55.0) 
+R-411A 
+HC-1270/HCFC-22/HFC-152a 
+(1.5/87.5/11.0) 
+R-411B 
+HC-1270/HCFC-22/HFC-152a 
+(3.0/94.0/3.0) 
+R-411C 
+HC-1270/HCFC-22/HFC-152a 
+(3.0/95.5/1.5) 
+R-412A 
+HCFC-22/PFC-218/HCFC-142b 
+(70.0/5.0/25.0) 
+R-413A 
+PFC-218/HFC-134a/HC-600a 
+(9.0/88.0/3.0) 
+R-414A 
+HCFC-22/HCFC-124/HC-600a/HCFC-142b 
+(51.0/28.5/4.0/16.5) 
+R-414B 
+HCFC-22/HCFC-124/HC-600a/HCFC-142b 
+(50.0/39.0/1.5/9.5) 
+R-415A 
+HCFC-22/HFC-152a 
+(82.0/18.0) 
+R-415B 
+HCFC-22/HFC-152a 
+(25.0/75.0) 
+R-416A 
+HFC-134a/HCFC-124/HC-600 
+(59.0/39.5/1.5) 
+R-417A 
+HFC-125/HFC-134a/HC-600 
+(46.6/50.0/3.4) 
+R-418A 
+HC-290/HCFC-22/HFC-152a 
+(1.5/96.0/2.5) 
+R-419A 
+HFC-125/HFC-134a/HE-E170 
+(77.0/19.0/4.0) 
+R-420A 
+HFC-134a/HCFC-142b 
+(88.0/12.0) 
+R-421A 
+HFC-125/HFC-134a 
+(58.0/42.0) 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7.8 (CONTINUED) 
+BLENDS (MANY CONTAINING HFCS AND/OR PFCS) 
+Blend 
+Constituents 
+Composition (%) 
+R-422A 
+HFC-125/HFC-134a/HC-600a 
+(85.1/11.5/3.4) 
+R-422B 
+HFC-125/HFC-134a/HC-600a 
+(55.0/42.0/3.0) 
+R-422C 
+HFC-125/HFC-134a/HC-600a 
+(82.0/15.0/3.0) 
+R-500 
+CFC-12/HFC-152a 
+(73.8/26.2) 
+R-501 
+HCFC-22/CFC-12 
+(75.0/25.0) 
+R-502 
+HCFC-22/CFC-115 
+(48.8/51.2) 
+R-503 
+HFC-23/CFC-13 
+(40.1/59.9) 
+R-504 
+HFC-32/CFC-115 
+(48.2/51.8) 
+R-505 
+CFC-12/HCFC-31 
+(78.0/22.0) 
+R-506 
+CFC-31/CFC-114 
+(55.1/44.9) 
+R-507A 
+HFC-125/HFC-143a 
+(50.0/50.0) 
+R-508A 
+HFC-23/PFC-116 
+(39.0/61.0) 
+R-508B 
+HFC-23/PFC-116 
+(46.0/54.0) 
+R-509A 
+HCFC-22/PFC-218 
+(44.0/56.0) 
+1 R-400 can have various proportions of CFC-12 and CFC-114. The exact composition needs to be speciﬁed, e.g., R-400 (60/40). 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.19 
+7.5.2 
+Methodological issues 
+7.5.2.1 CHOICE OF METHOD 
+As discussed in the introductory section to this chapter, both Tier 1 and Tier 2 result in estimates of actual 
+emissions rather than estimates of potential emissions. Actual estimates, which account for the lag between 
+consumption and emissions, are particularly important for both the refrigeration and air conditioning sector 
+because of the potentially long retention of refrigerants in products and equipment utilised in these applications.  
+The options available to the refrigeration and air conditioning application are shown in the decision tree shown 
+in Figure 7.6.  
+ 
+TIER 1 
+Tier 1 a/b 
+It is expected that the refrigeration and air conditioning will be a key category for many countries. The 
+implication of this conclusion from Table 7.2 and the decision tree in Figure 7.6 is that either country-specific or 
+globally or regionally derived activity data will be required at the sub-application (disaggregated) level in order 
+to complete the reporting task. However, in the rare instances that the refrigeration and air conditioning 
+application is much less significant, there should be available a suitable Tier 1 method for aggregated data. 
+From experience of studying the dynamics of refrigerant consumption and banks in several countries (UNEP-
+RTOC, 2003; Ashford, Clodic, Kuijpers and McCulloch, 2004; and supporting materials), it is possible to derive 
+assumptions that allow for the assessment of the use of refrigerant that may help in assessing sales of a given 
+refrigerant at a country level. Such a hybrid Tier 1a/b approach may use the following assumptions:  
+1. Servicing of equipment containing the refrigerant does not commence until 3 years after the equipment is 
+installed. 
+2. Emissions from banked refrigerants average 15 percent annually across the whole RAC application area. 
+This assumption is estimated to be a weighed average across all sub-applications, for which default emission 
+factors are shown in Table 7.9. 
+3. In a mature market two thirds of the sales of a refrigerant are used for servicing and one third is used to 
+charge new equipment. A mature market is one in which ODS substitute-employing refrigeration equipment 
+is in wide use, and there are relationships between suppliers and users to purchase and service equipment.  
+4. The average equipment lifetime is 15 years. This assumption is also estimated to be a weighed average 
+across all sub-applications. 
+5. The complete transition to a new refrigerant technology will take place over a 10 year period. From 
+experiences to date, this assumption is believed to be valid for a single chemical in a single country. 
+With these assumptions in place, it is possible to derive emissions, if the following data can be provided:  
+• 
+Sales of a specific refrigerant in the year to be reported 
+• 
+Year of introduction of the refrigerant 
+• 
+Growth rate in sales of new equipment (usually assumed linear across the period of assessment) 
+• 
+Assumed percentage of new equipment exported 
+• 
+Assumed percentage of new equipment imported 
+The Tier 1a/b method then back-calculates the development of banks of a refrigerant from the current reporting 
+year to the year of its introduction. In mapping this period, the method also models the transition from sales to 
+new equipment (100 percent initially) to the mature market position assumed based on experience to be 33 
+percent to new equipment and 67 percent to servicing requirements. It is assumed that the transition to new 
+refrigerant technology is reflected identically in any imported equipment.   
+   
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 7.6 
+Decision tree for actual emissions from the refrigeration and air conditioning 
+(RAC) application 
+Use Tier 2b method
+Start
+Are the activity data
+disaggregated at the sub-
+application level (the 6 RAC 
+areas) available?
+Is this a key
+category1?
+Use Tier 1a/b method
+Box 1: Tier 1
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Are
+country-specific
+or proxy activity data at the 
+application level (RAC)
+available?
+Yes
+Are
+the country-specific,
+regionally or globally derived 
+emission factors
+available?
+Box 2: Tier 2b
+Yes
+No
+No
+Yes
+Yes
+Use Tier 2a method
+(Equations 7.10-7.14)
+Box 3: Tier 2a
+Find appropriate sources of country-
+specific, regionally or globally derived
+activity data at the application level.
+No
+Are
+country-specific
+composite emission factors 
+available?
+Use default composite
+emission factors.
+Obtain country-specific activity
+data disaggregated at the sub-
+application level (the 6 RAC areas).
+No
+Yes
+No
+ 
+ 
+The following spreadsheet example indicates how the Tier 1a/b method would estimate a seven-year time series 
+of emissions of the selected refrigerant, following its initial introduction in 1998, with the knowledge that there 
+were sales of 1 000 tonnes in 2005. The spreadsheet contained in the 2006 IPCC Guidelines CDROM mirrors 
+this calculation, and globally or regionally derived datasets8 at both application and consolidated sub-application 
+levels should be available at a country level to assist in completion of this spreadsheet. 
+ 
+8 As noted in Box 7.1, inclusion in the IPCC Emission Factor Database (EFDB) will indicate general adherence to due 
+process, but it is good practice for countries to ensure that all data taken from the EFDB are appropriate for their national 
+circumstances. 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.21 
+Figure 7.7  
+Example of spreadsheet calculation for Tier 1a/b assessments 
+ 
+In this hypothetical example, the production of a specific refrigerant are 800 tonnes with an additional 200 
+tonnes in imported equipment, in 2005 making a total consumption of 1 000 tonnes. Based on this consumption 
+figure and knowledge of the year of introduction of the refrigerant, it can be seen that the Tier 1a/b method 
+predicts emissions of 461 tonnes based on the development of banks over the previous seven years. The bank in 
+2005 is estimated at 3 071 tonnes.  
+It should be noted that, while such methods allow for the estimation of emissions when data are difficult to 
+obtain, it is still necessary to have an accurate assessment of country-specific or globally or regionally derived 
+net consumption activity data. When the content of Table 7.8 is considered (particularly when some of these 
+blends may be being imported in equipment) it is clear that there needs to be considerable knowledge of 
+technology selection in the market. Refrigerant suppliers should be able to assist inventory compilers in this area, 
+but the burden of developing high quality activity datasets may lead inventory compilers to the conclusion that 
+Tier 2 options provide more value with little extra work. Indeed, where globally or regionally validated data 
+activity is sought, this will normally be a reconstitution of disaggregated data originally at the sub-application 
+level, so it might be most logical to take full advantage of that versatility and pursue a Tier 2 approach from the 
+outset. 
+ 
+TIER 2 
+Overview 
+The Tier 2a methodology: 
+a) 
+Takes into account the phase out or the phase down of CFCs and HCFCs depending on the Montreal 
+Protocol schedule and possible national or regional regulations, in order to establish the refrigerant 
+choice for all applications; 
+b) 
+Defines the typical refrigerant charge and the equipment lifetime per sub-application; 
+c) 
+Defines the emission factors for refrigerant charge, during operation, at servicing and at end-of-life. 
+Calculation of emissions throughout the equipment lifetime requires deriving the total stock of equipment 
+independent of their vintage. In doing so the refrigerant bank is established per sub-application. 
+Tier 1 Refrigeration
+Argentina - HFC-143a
+Country: Argentina
+Agent: HFC-143a
+Year: 2005
+Emission: 460.7 tonnes
+In Bank: 3071.1 tonnes
+Current Year
+2005
+Use in current year - 2005 (tonnes)
+Production of HFC-143a
+800
+Imports in current Year
+200
+Exports in  current year
+0
+Total new agent to domestic market
+1000
+Year of Introduction of HFC-143a
+1998
+Growth Rate in New Equipment Sales
+3.0%
+Tier 1 Defaults
+Assumed Equipment Lifetime (years)
+15
+Emission Factor from installed base
+15%
+% of HFC-143a destroyed at End-of-Life
+0%
+Estimated data for earlier years
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+Production
+0
+0
+81
+167
+259
+355
+458
+566
+680
+800
+0
+Agent in Exports
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Agent in Imports
+0
+0
+20
+42
+65
+89
+114
+141
+170
+200
+0
+Total New Agent in Domestic Equipment
+0
+0
+102
+209
+323
+444
+572
+707
+850
+1000
+0
+Agent in Retired Equipment
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Destruction of agent in retired equipment
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Release of agent from retired equipment
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Bank
+0
+0
+102
+296
+575
+933
+1365
+1867
+2437
+3071
+2610
+Emission
+0
+0
+15
+44
+86
+140
+205
+280
+365
+461
+#N/A
+Data
+Used
+Here
+Summary
+HFC-143a
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+In order to achieve consistency it is suggested to derive the annual market of refrigerants from the refrigerant 
+quantities charged in the brand new equipment and from the refrigerant quantities used for servicing of the total 
+stock of equipment. 
+The Tier 2b mass-balance approach relies on a knowledge of the annual sales of refrigerant, refrigerant destroyed 
+and any changes in equipment stock that occur (i.e., new equipment sales and equipment decommissioned) on a 
+sub-application basis. It does not require an absolute knowledge of equipment stocks or emission factors relating 
+to each refrigeration and air conditioning sub-application.   
+Examples of how the Tier 2 methodology may be applied are given in the remainder of this section. 
+Tier 2b - Mass-balance approach 
+The mass-balance approach is particularly applicable to the Refrigeration and Air Conditioning application 
+because of the significant servicing component required to maintain equipment. The general approach to Tier 2b 
+is introduced in Chapter 1 of Volume 3. 
+For the mass-balance approach, the four emission stages (charging, operation servicing and end-of-life) 
+identified above are addressed in the following simplified equation:  
+EQUATION 7.9 
+DETERMINATION OF REFRIGERANT EMISSIONS BY MASS BALANCE 
+Amount of Intentional Destruction
+Total Charge of Retiring Equipment
+Original
+Total Charge of New Equipment
+Annual Sales of New Refrigerant
+Emissions
+−
++
+−
+=
+ 
+ 
+Annual Sales of New Refrigerant is the amount of a chemical introduced into the refrigeration sector in a 
+particular country in a given year. It includes all chemical used to fill or refill equipment, whether the chemical is 
+charged into equipment at the factory, charged into equipment after installation, or used to recharge equipment at 
+servicing. It does not include recycled or reclaimed chemical. 
+Total Charge of New Equipment is the sum of the full charges of all the new equipment that is sold in the 
+country in a given year. It includes both the chemical required to fill equipment in the factory and the chemical 
+required to fill the equipment after installation. It does not include charging emissions or chemical used to 
+recharge equipment at servicing. 
+Original Total Charge of Retiring Equipment is the sum of the full charges of all the retiring equipment 
+decommissioned in a country in a given year. It assumes that the equipment will have been serviced right up to 
+its decommissioning and will therefore contain its original charge.  
+Amount of Intentional Destruction is that quantity of the chemical duly destroyed by a recognised destruction 
+technology. 
+In each country there is a stock of existing refrigeration equipment that contains an existing stock of refrigerant 
+chemical (bank). Therefore, annual sales of new chemical refrigerant must be used for one of three purposes: 
+• 
+To increase the size of the existing chemical stock (bank) in use (including retrofitting equipment from a 
+previous chemical to the given chemical); 
+• 
+To replace that fraction of last year’s stock of chemical that was emitted to the atmosphere (through, for 
+example, leaks or servicing losses); 
+• 
+To provide supply-chain priming or stockpiles. 
+Since the third item in this list is rarely required in a steady-state market, it is not included in Equation 7.9. 
+Terms to account for stockpiling and retrofitting could be added to Equation 7.9 if such situations exist.  
+The difference between the total quantity of gas sold and the quantity of that gas used to increase the size of the 
+chemical stock equals the amount of chemical emitted to the atmosphere. The increase in the size of the chemical 
+stock is equal to the difference between the total charges of the new and retiring equipment. 
+By using data on current and historical sales of gas, rather than emission factors referenced from literature, the 
+equation reflects assembly, operation, and disposal emissions at the time and place where they occur. Default 
+emission factors may not be accurate because emissions rates may vary considerably from country to country 
+and even within a single country.  
+As discussed in Chapter 1, Section 1.5 of Volume 3, one drawback of the mass-balance approach is that it can 
+underestimate emissions when equipment stocks are growing, because there is a lag between the time the 
+emissions occur and the time they are detected (through equipment servicing). This underestimate will be 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.23 
+relatively large in countries where HFCs have been used in equipment for less than ten years, because much of 
+the equipment will have leaked without ever being serviced. Thus, countries where HFCs have been used for less 
+than ten years are encouraged to estimate emissions using alternative approaches. In general, the longer HFCs 
+are used in a country, the smaller the underestimate associated with the mass-balance approach. Once equipment 
+containing HFCs begins to retire, the underestimate declines to a low level. 
+Equation 7.9 can be applied either to individual types of equipment (sub-applications), or more generally to all 
+air conditioning and refrigeration equipment in a country (i.e., Tier 1b), depending on the level of disaggregation 
+of available data. If disaggregated data are available, emissions estimates developed for each type of equipment 
+and chemical are summed to determine total emissions for the application.  
+Tier 2a – Emission-factor approach 
+In a Tier 2a calculation, refrigerant emissions at a year t from each of the six9 sub-applications of refrigeration 
+and air conditioning systems are calculated separately. These emissions result from:  
+• 
+Econtainers,t = emissions related to the management of refrigerant containers 
+• 
+Echarge,t = emissions related to the refrigerant charge: connection and disconnection of the refrigerant 
+container and the new equipment to be charged 
+• 
+Elifetime,t = annual emissions from the banks of refrigerants associated with the six sub-applications during 
+operation (fugitive emissions and ruptures) and servicing 
+• 
+Eend-of-life,t = emissions at system disposal 
+All these quantities are expressed in kilograms and have to be calculated for each type of HFC used in the six 
+different sub-applications. 
+EQUATION 7.10 
+SUMMARY OF SOURCES OF EMISSIONS 
+life t
+end of
+lifetime t
+Charge t
+containers t
+total t
+E
+E
+E
+E
+E
+,
+,
+,
+,
+,
+− −
++
++
++
+=
+ 
+ 
+Methods for estimating average emission rates for the above-mentioned sectors are outlined below and need to 
+be calculated on a refrigerant by refrigerant basis for all equipment regardless of their vintage. If information on 
+container and charging emissions is not available, inventory compilers can estimate these losses as a percent of 
+the bank and revise the lifetime (operation plus servicing) emission factor in Equation 7.13 below to account for 
+such losses. 
+Refrigerant management of containers 
+The emissions related to the refrigerant container management comprises all the emissions related to the 
+refrigerant transfers from bulk containers (typically 40 tonnes) down to small capacities where the mass varies 
+from 0.5 kg (disposable cans) to 1 tonne (containers) and also from the remaining quantities - the so-called 
+refrigerant heels (vapour and /or liquid) - left in the various containers, which are recovered or emitted. 
+EQUATION 7.11 
+SOURCES OF EMISSIONS FROM MANAGEMENT OF CONTAINERS 
+100
+,
+c
+RM
+E
+t
+containers t
+•
+=
+ 
+Where: 
+Econtainers, t  = emissions from all HFC containers in year t, kg 
+RMt  
+= HFC market for new equipment and servicing of all refrigeration application in year t, kg 
+c  
+= emission factor of HFC container management of the current refrigerant market, percent 
+The emissions related to the complete refrigerant management of containers are estimated between 2 and 10 
+percent of the refrigerant market.  
+Refrigerant charge emissions of new equipment 
+ 
+9 More than six sub-applications can be used, depending on the level of disaggregated data available. 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+The emissions of refrigerant due to the charging process of new equipment are related to the process of 
+connecting and disconnecting the refrigerant container to and from the equipment when it is initially charged. 
+EQUATION 7.12 
+SOURCES OF EMISSIONS WHEN CHARGING NEW EQUIPMENT 
+100
+,
+k
+M
+E
+t
+charge t
+•
+=
+ 
+Where: 
+Echarge, t  
+= emissions during system manufacture/assembly in year t, kg 
+Mt  
+= amount of HFC charged into new equipment in year t (per sub-application), kg 
+k  
+= emission factor of assembly losses of the HFC charged into new equipment (per sub-
+application), percent 
+Note: the emissions related to the process of connecting and disconnecting during servicing are covered in 
+Equation 7.13. 
+The amount charged (Mt) should include all systems which are charged in the country, including those which are 
+produced for export. Systems that are imported pre-charged should not be considered. 
+Typical range for the emission factor k varies from 0.1 to 3 percent. The emissions during the charging process 
+are very different for factory assembled systems where the emissions are low (see Table 7.9) than for field-
+erected systems where emissions can be up to 2 percent. 
+Emissions during lifetime (operation and servicing) 
+Annual leakage from the refrigerant banks represent fugitive emissions, i.e., leaks from fittings, joints, shaft seals, 
+etc. but also ruptures of pipes or heat exchangers leading to partial or full release of refrigerant to the atmosphere. 
+Besides component failures, such as compressor burn-out, equipment is serviced mainly when the refrigerating 
+capacity is too low due to loss of refrigerant from fugitive emissions. Depending on the application, servicing 
+will be done for instance every year or every three years, or sometimes not at all during the entire lifetime such 
+as in domestic refrigeration sub-applications. For some sub-applications, leaks have to be fixed during servicing 
+and refrigerant recovery may be necessary, so the recovery efficiency has to be taken into account when 
+estimating emission factors. In addition, knowing the annual refrigerant needs for servicing per sub-application 
+allows the determination of the national refrigerant market by adding the refrigerant quantities charged in new 
+equipment (see Paragraph Quality assurance/Quality control). The following calculation formula applies: 
+EQUATION 7.13 
+SOURCES OF EMISSIONS DURING EQUIPMENT LIFETIME 
+100
+,
+x
+B
+E
+t
+lifetime t
+•
+=
+ 
+Where: 
+Elifetime, t = amount of HFC emitted during system operation in year t, kg 
+Bt  
+= amount of HFC banked in existing systems in year t (per sub-application), kg 
+x  
+= annual emission rate (i.e., emission factor) of HFC of each sub-application bank during 
+operation, accounting for average annual leakage and average annual emissions during servicing, 
+percent 
+In calculating the refrigerant bank (Bt) all systems in operation in the country (produced domestically and 
+imported) have to be considered on a sub-application by sub-application basis. 
+Examples of typical leakage rates (x) for various types of equipment describing the respective refrigeration sub-
+applications are given in Table 7.9. 
+Emissions at end-of-life 
+The amount of refrigerant released from scrapped systems depends on the amount of refrigerant left at the time 
+of disposal, and the portion recovered. From a technical point of view, the major part of the remaining fluid can 
+be recovered, but recovery at end-of-life depends on regulations, financial incentives, and environmental 
+consciousness. 
+The following calculation formula (Equation 7.14) is applicable to estimate emissions at system disposal: 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.25 
+EQUATION 7.14 
+EMISSIONS AT SYSTEM END-OF-LIFE 
+)
+100
+1(
+100
+,
+,
+rec d
+t d
+end of life t
+p
+M
+E
+η
+−
+•
+•
+=
+−
+− −
+ 
+Where: 
+Eend-of-life, t = amount of HFC emitted at system disposal in year t, kg 
+Mt-d  
+= amount of HFC initially charged into new systems installed in year (t-d), kg 
+p  
+= residual charge of HFC in equipment being disposed of expressed in percentage of full 
+charge, percent 
+ηrec,d  
+= recovery efficiency at disposal, which is the ratio of recovered HFC referred to the HFC 
+contained in the system, percent 
+In estimating the amount of refrigerant initially charged into the systems (M t-d), all systems charged in the 
+country (for the domestic market) and systems imported pre-charged should be taken into account.  
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.2A (NEW) 
+HOW TO BUILD A REFRIGERATION AND AIR-CONDITIONING (R/AC) EMISSION INVENTORY IN A FEW SIMPLE 
+STEPS. TIER 1 AND TIER 2 EMISSION FACTOR APPROACHES 
+ 
+Learn about the use of HFCs in R/AC 
+Tip! The “Fact sheets on HFCs” provided at the UNEP Ozone Secretariat web site, particularly the 
+overview of HFC market sectors, is a good starting point for learning about the use of these 
+chemicals. 
+(See 
+http://conf.montreal-protocol.org/meeting/workshops/hfc_management-
+02/presession/English/Forms/AllItems.aspx) 
+ 
+TIER 1a/b 
+1. The IPCC Worksheet 
+A basic calculation tool in the form of MS Excel worksheet “Calculation Example for 2F1” can be 
+downloaded at the IPCC web site (https://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html).  
+2. Activity Data 
+Collect the data required as inputs to the calculations: 
+• 
+Consumption of specific HFCs or other ODS substitutes, at least in the year to be reported 
+• 
+Year of introduction of the refrigerant 
+• 
+Growth rate in sales of new equipment 
+Look for data in, for example, Refrigerant Management Plans (RMPs), HCFC Phase-out 
+Management Plans (HPMPs) or data reported under the Montreal Protocol. To get an idea of the 
+most important gas types and application areas, see Tables 7.3a-d. 
+3. Emission Factors 
+Identify and apply the appropriate emission factors. The IPCC Worksheet contains the default Tier 
+1 emission factor. Modify the default emission factor according to country-specific conditions if 
+information on these conditions is available. 
+ 
+TIER 2a 
+Where refrigeration and air conditioning is a key category, a Tier 2 approach should be used to 
+estimate emissions. Building a good quality Tier 2 inventory for refrigerants is demanding, so 
+setting up a plan for gradual improvement over time is recommended. 
+1. Calculation tools 
+The spreadsheet "Calculation example for 2F1 (Tier 2)" of the 2019 Refinement can be used. Most 
+countries have however built their own models, which are adapted to national conditions and to the 
+data they have available.   
+2. Activity data 
+For the Tier 2 approach HFC consumption needs to be collected or estimated for each of the six 
+sub-applications listed in Section 7.5.1.  
+Box 7.2b and Box 7.2c gives information on what data needs to be collected. 
+Data sources are described in Box 7.3a. 
+3. Emission factors 
+Table 7.9 provides ranges of default factors for the sub-applications if country-specific factors are 
+not available. Choose from the ranges according to country-specific conditions and document the 
+reasons for the choices. In general, the emission factors in the low end of the ranges apply for 
+developed countries or those that have a voluntary or mandatory system in place to limit emissions 
+during equipment service, use and disposal. Further discussion on the choice of emission factors is 
+found in section 7.5.2.2.    
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.27 
+BOX 7.2B (NEW) 
+THE BASIC ELEMENTS OF  AN EMISSION INVENTORY FOR R/AC 
+Emissions of HFCs from refrigeration and air conditioning (R/AC) equipment are closely related 
+to the amounts and types of chemicals in the bank of a country. A "bank” is the amount of HFCs 
+and other fluorinated ODS-substitutes contained in equipment in use. It is therefore important for 
+the inventory compiler to keep track of the bank and the flows of chemicals into and out of the 
+bank. The following equation summarizes how the bank changes over the year due to emissions 
+and other flows. More details are given in the spreadsheet "Calculation example for 2F1 (Tier 2)".   
+Estimation of annual refrigerant bank  
+Banky = Banky-1 + Additiony - Removaly 
+Where: 
+             Banky = Refrigerant bank on December 31st of year y, kg 
+             Banky-1 = Refrigerant bank on December 31st of year y-1/January 1st of year y, kg 
+             Additiony  = Addition of new substances year y, kg 
+             Removaly = Removal of substances exported, emitted or destroyed year y, kg 
+The figure below illustrates these relationships. 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.2B (NEW) (CONTINUED) 
+THE BASIC ELEMENTS OF  AN EMISSION INVENTORY FOR R/AC 
+The Bank of HFCs 
+The starting point for the annual estimates is a snapshot of the bank of HFCs at the end of the 
+previous year/beginning of the current year.  
+The bank is the amount of HFCs contained in equipment in use in a country, and a snapshot of the 
+bank means that for each of the relevant sub-applications, you need to have an estimate of the 
+types and amounts of HFCs it contains. For instance, you need to quantify the amount of HFC-
+134a in air conditioning units in cars, the amount of the blend R-410A in air conditioning used in 
+buildings, R-404A used for refrigeration in supermarkets etc. See the list of chemicals and the 
+equipment (sub-applications) in which they are normally contained in Table 7.1.  Note that in a 
+given year, equipment may contain substances other than HFCs. If this is the case, you need to 
+estimate the share of HFCs in relation to the other substances (e.g. HCFC, NH3, etc.).   
+If you start the calculations at the beginning of the first year of HFCs entering the market in your 
+country, there is no bank of chemicals and the bank at January 1st of year y = 0.  
+If you start making the inventory when HFCs are already in use in your country, you will have to 
+spend time putting together information on what the bank currently looks like. See Box 7.2c on 
+how to estimate the bank if the starting point of the inventory is not the first year of using HFC, i.e. 
+when the bank at January 1st of year y > 0.  
+In the future, this kind of snapshot of the equipment population (bank) will be one of the outputs 
+from the calculation model you run every year. 
+ 
+The flows of HFCs into and out of the bank 
+The bank will develop year by year depending on the amounts of HFC added to and removed from 
+the bank. In order to keep track of the development of the bank, you need to collect data on or 
+estimate these flows:  
+ 
+Flow of HFCs into the bank 
+HFC is mainly added to the bank through two processes:  New equipment containing HFCs and 
+the servicing (refilling) of equipment in use.  
+A common approach for quantifying the sum of the amount of HFC contained in new equipment 
+added to the bank and the amount used for servicing, is to collect data on domestic sales of HFCs 
+both in bulk and in equipment. Domestic sale is then the sum of production and imports, minus 
+exports. If HFC is recovered in a country, this also needs to be taken into account, as the amount 
+of HFCs recycled remains in the bank. 
+Only a few countries produce HFCs. This means that when collecting data for domestic sales of 
+HFCs in bulk, most inventory compilers will solely need to quantify the imports. Ideally, you want 
+to know the amount of each kind of HFC imported to your country, and what kind of sub-
+application it will be used in. You also need to collect data on (or estimate), the amount of HFC 
+used for filling (production) of new equipment as opposed to the servicing of equipment already in 
+use.  
+New equipment 
+HFC in new equipment is added to the bank when equipment is filled in the country or imported 
+prefilled. HFC in exported equipment should not be added to the bank. See the spreadsheet 
+"Calculation example for 2F1 (Tier 2)" for a detailed description on how to estimate the amount of 
+HFCs entering the bank through new equipment and the emissions from this flow of chemicals. 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.29 
+BOX 7.2B (NEW) (CONTINUED) 
+THE BASIC ELEMENTS OF  AN EMISSION INVENTORY FOR R/AC 
+For example, if your country does not produce HFC-134a or manufacture cars (i.e. fill air 
+conditioning units of new cars with this chemical), the annual addition of HFC-134a through new 
+cars will only consist of the amount contained in imported cars. If your country does manufacture 
+cars, but does not produce HFCs, the annual addition in new equipment will consist of HFC-134a 
+contained in imported cars and the amount of HFC-134a imported in bulk for filling 
+(manufacturing) of new cars, minus the amount contained in exported cars. 
+See box 7.3a for tips on where to find data. 
+ 
+• 
+Refilling/servicing of equipment 
+When existing equipment is being serviced and refilled with HFC, this will add to the bank. If data 
+on servicing is difficult to obtain, a way of quantifying the amount used for this purpose is to 
+assume it to be equal to the amount of chemicals emitted from operating equipment the previous 
+year, taking into account that it should not exceed the amount of HFCs available in bulk. Another 
+way to estimate the amount of HFCs used for servicing and refilling of equipment is to assume that 
+it equals the estimated domestic sales minus the amount used for filling of new equipment. 
+ 
+Flow of HFCs out of the bank 
+HFC will mainly leave the bank through two processes: Emissions from the bank and through 
+retired equipment. 
+• 
+Emissions during equipment lifetime 
+Leakage of HFC from equipment in use, and hence emissions to the atmosphere, will remove 
+chemicals from the bank. In the emission factor approach, this amount is estimated by applying an 
+average emission factor per sub-application of equipment to the corresponding amount in the bank 
+(equation 7.13). See Table 7.9 for default emission factors if national factors are not available. 
+Note that the emission factors in Table 7.9 encompass annual leakage rates as well as emissions 
+during service. 
+ 
+• 
+Retired equipment 
+HFCs will also be removed from the bank when equipment is retired and scrapped or exported. 
+Recycled HFC in the country will remain in the bank. The amount of HFCs in retired equipment is 
+normally estimated based on average charge and the share of chemical remaining according to 
+Table 7.9 and equation 7.14. 
+The fate of the HFCs contained in the retired equipment will also need to be quantified, often by a 
+combination of data collection, assumptions and emission factors. It can be reclaimed and reused, 
+destroyed or emitted. The used equipment containing HFC can also be exported to other countries. 
+See "Calculation example for 2F1 (Tier 2)" for a more detailed description of the possible 
+fates/flows and how to quantify them.       
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+BOX 7.2C (NEW) 
+HOW TO BUILD THE BANK OF HFC 
+As described in Box 7.2B, it is essential to know the contents and structure of the bank of HFCs in 
+order to estimate the emissions. In many cases this means that you need to quantify the bank from 
+the year when HFCs were first used in a country up to the current year. There are two common 
+ways of building the bank and the development back in time: 
+1. Collecting historic data on domestic sales and flows of HFCs, starting at bank=0 
+If data on domestic sales for all years since the HFCs were first introduced is available, this can be 
+used to move forward from zero to the current bank by tracking the flow of chemicals into and out 
+of the bank every year. This methodology is described in Box 7.2b. 
+ 
+2. Counting the number of equipment currently in place and interpolate back to bank=0 
+An alternative way of estimating the bank is to count the number of equipment units currently in 
+place in a country and combine this with the average amount and type of HFCs contained in each 
+type of equipment. This will provide an estimate of the current bank.   
+The historic development of the bank can be estimated by interpolation, i.e. filling in the holes in 
+the time series between the year of introduction of HFC to the current situation (current amount in 
+the bank). Refer to Volume 1, Chapter 5 for information on interpolation and other splicing 
+techniques. 
+ 
+The following information on each of the relevant sub-applications need to be collected: 
+• 
+The number of equipment units currently installed 
+• 
+The average amount and type of HFC contained in each type of equipment 
+• 
+The year of introduction, i.e. when HFC were first used in this kind of equipment in the 
+country 
+ 
+Box 7.3a holds information on relevant data sources. For instance, the numbers of some kinds of 
+equipment, like cars, might be available from national statistics or from a national register used for 
+taxation. Industrial organizations often have statistics on mass-produced types of equipment, like 
+numbers of household refrigerators, small air conditioning units, heat pumps and cars. If not, they 
+might help you to estimate the sizes of markets, and hence consumption.  
+It is often challenging to get information on the number of large refrigeration and air conditioning 
+systems. You might need to estimate this using information on the number of, for instance, large 
+office buildings, hospitals, universities etc. in your country. Then you need to combine this with 
+information on the typical number and types of air conditioning units per building. Again, 
+industrial associations can often be helpful in getting this sort of information.  
+You need to collect information on the year each relevant kind of ODS-substitute was first used in 
+each relevant type of equipment (sub-application) in your country (for instance, the year HFC-
+134a was first used in mobile air conditioning in your country). If this information is not available, 
+you can make reasonable assumptions based on, for example, the ODS phase-out schedule in your 
+country and/or substitution patterns in countries similar to yours.  
+Then, choose a method to fill in the years between year 0 and the current year. If you have no 
+information on the development of the bank, a simple linear interpolation should be used. 
+Otherwise, if some kind of information on the development is available, like the annual growth in 
+sales of cars with air conditioning, this data can be used to model the bank year by year. 
+ 
+ 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.31 
+7.5.2.2 CHOICE OF EMISSION FACTORS 
+Tier 1a/b method 
+As explained within Section 7.5.2.1, Choice of Method, a composite emission factor is required to complete a 
+Tier 1 method. Since the sub-applications within the refrigeration and air conditioning application are relatively 
+heterogeneous, the validity of any single composite emission factor must be in doubt unless it takes into 
+consideration the particular mix of sub-applications in the country. It is therefore good practice to develop 
+composite emission factors on the basis of research within the country. The over-arching default emissions factor 
+of 15 percent of the bank annually is used in the example of spreadsheet calculation, available at the IPCC web 
+site: https://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html.  
+Tier 2a method 
+Good practice for choosing emission factors is to use country-specific data, based on information provided by 
+equipment manufacturers, service providers, disposal companies, and independent studies. When national data 
+are unavailable, inventory compilers should use the default emission factors shown in Table 7.9, Default 
+Estimates for Charge, Lifetime and Emission Factors, which summarises best estimates of equipment charge, 
+lifetime, emission factors during useful life, and parameters for end-of-life emissions.  If data used to calculate 
+the refrigerant bank cannot be broken down into the sub-applications as in Table 7.9, it is good practice to divide 
+the bank by type of equipment using expert judgement, and calculate composite emission factors weighted 
+according to that relative share, as described for Tier 1a/b.  
+Since the 2006 IPCC Guidelines were published, only a few new studies on leakage rates from stationary 
+refrigeration and AC and mobile AC for some developed countries or regions have been published. The studies 
+covering stationary refrigeration and AC indicate that the default values in Table 7.9 are still valid and thus are 
+retained. For mobile AC, Table 7.9 is updated to include separate information on charge and annual emission 
+factor during operating lifetime for maritime, railways, busses and other mobile ACs, based on Schwarz and 
+Rhiemeier (2007) and Gallagher et al (2014).  
+The values in Table 7.9 are provided as ranges rather than point estimates. Inventory compilers should choose 
+from the range according to country-specific conditions and document the reasons for their choices. The lower 
+end of the lifetime and emission factor ranges is expected to be applicable to developed countries and to 
+countries that have a mandatory or voluntary system in place to limit emissions during equipment service and 
+use. The upper end of each range is expected to be applicable to developing countries without systems for 
+limiting emissions.  
+Studies of emission rates in Japan for 2008 (Nomura Research Institute, Ltd, 2012), California for 2008 
+(Gallagher, et. al., 2014) and Germany for 2009-2013 (Umweltbundesamt, 2015) confirmed that the average 
+emission factors in these countries were close to the lower range for most sub-application categories within the 
+application area of Stationary Refrigeration and Air Conditioning. These factors are given in Table 7A.1-7A.3 in 
+Annex 7A.1 and are intended to serve as examples of emission rates for developed countries. Only countries 
+with similar systems and regulations or incentives in place should consider using these factors for relevant years.  
+For mobile air conditioning, emissions can occur during the useful life and during and after disposal of the 
+equipment. Emission sources during the useful life include regular leaks (e.g. from seals), irregular leaks (e.g. 
+due to accidents), and emissions during service (maintenance and refilling). The share of emissions from 
+irregular leaks can be particularly large from passenger cars compared to other mobile vehicles as they are more 
+likely to end up in accidents leading to eruption of the AC system. The default ranges in Table 7.9 encompass 
+emissions from all stages. Several newer studies indicate that annual emission rates for modern passenger cars 
+may be lower than the default lifetime emission factor lower range, e.g. see Schwarz and Harnisch (2003), Japan 
+Automobile Manufacturers Association (2008), Papasavva et al. (2009), Clodic et al. (2011), Kim and Kim 
+(2014), and Minnesota Pollution Control Agency (2017). However, in most of the studies, the presented 
+emission rates include only regular leaks, or only regular and irregular leaks, excluding emissions during 
+servicing. It is good practice to include emissions from all three sources when choosing operating lifetime 
+emission factors.  
+There are few studies on remaining charge of refrigerants at end-of-life (p) and recovery efficiency (nrec) in 
+equipment, e.g. Kim and Kim (2014), Wimberger (2010), Schwarz (2012), Gallagher, et, al. (2014).  
+As the practice for mobile A/C service and disposal procedures may vary considerably between countries and 
+over time, inventory compilers should investigate the national circumstances when developing country-specific 
+factors 
+for 
+emissions 
+and 
+recovery 
+efficiency. 
+In 
+some 
+countries, 
+A/C 
+RRR 
+service 
+units 
+(recover/recycle/recharge) are used to significantly reduce emissions at the service and disposal lifecycle stages. 
+This will decrease emission factors during use and increase recovery efficiency (nrec) at end of life. Some 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+countries have started to require recovery of refrigerants at the end-of-life, in which case the recovery efficiency 
+could be higher than the suggested ranges in Table 7.9.   
+It is good practise to consider applying different emission factors in different years to reflect improvements in 
+service and disposal practices and in equipment design and materials. Changes in emission factors over time 
+could also be appropriate for countries that have introduced mandatory periodical inspection and repair 
+regulations/schemes or similar incentives.  
+Some import and export of used vehicles and end-of-life vehicles occurs between countries (mostly from 
+developed countries to developing countries). It is important for inventory compilers to take into account such 
+flows of MAC equipment when estimating emissions from MAC as it may affect the composition of vehicle 
+stock at various emission stages (lifetime and end-of-life).       
+TABLE 7.9 (UPDATED)  
+DEFAULT ESTIMATES1 FOR CHARGE, LIFETIME AND EMISSION FACTORS FOR REFRIGERATION AND AIR-CONDITIONING 
+SYSTEMS 
+Sub-application 
+Charge (kg) 
+Lifetimes 
+(years)2 
+Emission Factors (% of 
+initial charge/year)3 
+End-of-Life 
+Emission (%) 
+Factor in 
+Equation 
+(M) 
+(d) 
+(k) 
+(x) 
+(ηrec,d) 
+(p) 
+ 
+ 
+ 
+At Time of 
+Charge 
+Annual loss, 
+Operating 
+Lifetime 
+Recovery 
+Efficiency4 
+Initial 
+Charge 
+Remaining 
+Domestic 
+Refrigeration 
+0.05 ≤ M ≤ 0.5 
+12 ≤ d ≤ 20 
+0.2 ≤ k ≤ 1 
+0.1 ≤ x ≤ 0.5 
+0 < ηrec,d < 70 
+0 < p < 80 
+Stand-alone 
+Commercial 
+Applications 
+0.2 ≤ M≤ 6 
+10 ≤ d ≤ 15 
+0.5 ≤ k ≤ 3 
+1 ≤ x ≤ 15 
+0 < ηrec,d < 70 
+0 < p < 80 
+Medium & 
+Large 
+Commercial 
+Refrigeration 
+50 ≤ M ≤ 2000 
+7 ≤ d ≤ 15 
+0.5 ≤ k ≤ 3 
+10 ≤ x ≤ 35 
+0 < ηrec,d < 70 
+50 < p < 100 
+Transport 
+Refrigeration 
+3 ≤ M ≤ 8 
+6 ≤ d ≤ 9 
+0.2 ≤ k ≤ 1 
+15 ≤ x ≤ 50 
+0 < ηrec,d < 70 
+0 < p < 50 
+Industrial 
+Refrigeration 
+including Food 
+Processing and 
+Cold Storage 
+10 ≤ M ≤ 10,000 
+15 ≤ d ≤ 30 
+0.5 ≤ k ≤ 3 
+7 ≤ x ≤ 25 
+0 < ηrec,d < 90 
+50 < p < 100 
+Chillers 
+10 ≤ M≤ 2000 
+15 ≤ d ≤ 30 
+0.2 ≤ k ≤ 1 
+2 ≤ x ≤ 15 
+0 < ηrec,d < 95 
+80 < p < 100 
+Residential and 
+Commercial 
+A/C, including 
+Heat Pumps 
+0.5 ≤ M≤ 100 
+10 ≤ d ≤ 20 
+0.2 ≤ k ≤ 1 
+1 ≤ x ≤ 10 
+0 < ηrec,d < 80 
+0 < p < 80 
+Mobile A/C 
+5 ≤ M ≤ 6500 
+(maritime) 
+10 ≤ M ≤ 30 
+(railway) 
+4 ≤ M ≤ 18 
+(busses) 
+0.5 ≤ M ≤ 2 
+(other MAC) 
+9 ≤ d ≤ 16 
+0.2 ≤ k ≤ 0.5 
+20 ≤ x ≤ 40 
+(maritime) 
+5 ≤ x ≤ 20 
+(railway) 
+10 ≤ x ≤ 20 
+(other MAC) 
+0 < ηrec,d < 50 
+ 
+0 < p < 50 
+Source:  
+1 UNEP RTOC Reports (UNEP-RTOC, 1999; UNEP-RTOC, 2003), Japan Refrigeration and Air Conditioning Industry Association 
+(2009 ), Gallagher et al (2014), Umweltbundesamt (2015). For information on mobile A/C charge and mobile A/C emission factors for 
+annual loss during operating lifetime: Schwarz and Rhiemeier (2007) and Gallagher et al (2014).  
+2, 3 Lower value for developed countries and higher value for developing countries 
+4 The lower threshold (0%) highlights that there is no recovery in some countries. 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.33 
+7.5.2.3 CHOICE OF ACTIVITY DATA 
+Tier 1a/b method 
+Inventory compilers in countries that manufacture refrigerant chemicals should estimate Annual Sales of New 
+Refrigerant using information provided by chemical manufacturers. Data on imported chemical should be 
+collected from customs statistics, importers, or distributors.  
+Total Charge of New Equipment can be estimated using either: 
+• 
+Information from equipment manufacturers/importers on the total charge of the equipment they manufacture 
+or import; or 
+• 
+Information from chemical manufacturers/importers on their sales to equipment manufacturers and 
+distributors. 
+Ensure this information only includes sales as refrigerant, not feedstock or other uses. The difference between 
+the total sales of new refrigerant and that charged in new equipment is assumed to be used for servicing. Where 
+information on new equipment charges is unavailable, it can be assumed that, in a mature market, two thirds of 
+refrigerant is used for servicing while one third is used for new equipment. However, the adoption of such 
+assumptions must be accompanied by some justification about the state of the market and how well these 
+assumptions are likely to apply.  
+Tier 2 methods 
+Both Tier 2a and Tier 2b methods require the development of a matrix for each sub-application based on 
+equipment type on the one hand and refrigerant type on the other hand. In order to derive the number of pieces of 
+equipment for all the vintages, historic net consumption activity data is also required. The annual update of the 
+matrix makes it possible to recalculate all emission types as detailed in Equations 7.10 to 7.14 each year. 
+Moreover, the refrigerant choice has to be assessed on a year-by-year basis owing to changing national 
+regulations (often relating to CFC and HCFC phase-out at different dates) and changing technological choices. 
+In some countries HFC refrigerant regulations have started to enter into force. 
+Where country-specific data cannot be analysed to this level, globally or regionally validated activity data can be 
+obtained from reputable databases based on refrigerant charges and lifetimes provided in Table 7.9, for all sub-
+applications, to facilitate Tier 2 methods. A number of refinements are usually necessary dependent on the 
+particular circumstances of the country. Assistance for this can be obtained from application experts. 
+Other shared issues 
+Whether collecting country-specific activity data in support of a Tier 1 or a Tier 2 method, inventory compilers 
+must take care in dealing with refrigerant blends. Table 7.8 illustrates the complexity already existing and blends 
+are only expected to increase in popularity as manufacturers of equipment seek for further improvements in 
+performance, particularly in respect of energy efficiency. Where blends contain both HFCs and other 
+components, only the reportable elements need to be considered. This is even the case for other components with 
+significant GWPs (e.g., CFCs and HCFCs). 
+Inventory compilers also need to consider how to monitor the movement of trade in equipment and products 
+containing HFCs and/or PFCs. The Box 7.3 below sets out some of the measures required to estimate imports 
+and exports adequately.  
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.3 
+ACCOUNTING FOR IMPORTS AND EXPORTS OF REFRIGERANT AND EQUIPMENT 
+In estimating Annual Sales of New Refrigerant, Total Charge of New Equipment, and Original 
+Total Charge of Retiring Equipment, as required for Tier 2b, inventory compilers should account 
+for imports and exports of both chemicals and equipment. This will ensure that they capture the 
+actual domestic consumption of chemicals and equipment. For example, if a country imports a 
+significant share of the HFC-134a that it uses, the imported quantity should be counted as part of 
+Annual Sales. Alternatively, if a country charges and then exports a significant number of 
+household refrigerators, the total charge of the exported refrigerators should be subtracted from the 
+total charge of the household refrigerators manufactured in the country to obtain Total Charge of 
+New Equipment. 
+GENERAL APPROACH: In general, the quantity Annual Sales should be estimated using the 
+following formula: 
+ Annual Sales  
+= Domestically Manufactured Chemical  
+  
+ 
+   + Imported Bulk Chemical 
+  
+ 
+   – Exported Bulk Chemical  
+  
+ 
+   + Chemical Contained in Factory-Charged Imported Equipment 
+  
+ 
+   – Chemical Contained in Factory-Charged Exported Equipment 
+All quantities should come from the year for which emissions are being estimated. Similarly, the 
+quantity of Total Charge of New Equipment should be estimated using the following: 
+ Total Charge of New Equipment  
+  
+ 
+=   Chemical to Charge Domestically Manufactured Equipment that  
+  
+ 
+      is not Factory-Charged 
+  
+ 
+  + Chemical to Charge Domestically Manufactured Equipment that is 
+  
+ 
+      Factory-Charged 
+  
+ 
+  + Chemical to Charge Imported Equipment that is not Factory-Charged 
+  
+ 
+  + Chemical Contained in Factory-Charged Imported Equipment 
+  
+ 
+  – Chemical Contained in Factory-Charged Exported Equipment 
+Original Total Charge of Retiring Equipment should be estimated the same way as Total Charge 
+of New Equipment, except all quantities should come from the year of manufacture or import of the 
+retiring equipment. 
+SIMPLIFIED APPROACH: In estimating Annual Sales and Total Charge of New Equipment, it is 
+possible to ignore the quantities of chemical imported or exported inside of factory-charged 
+equipment if these quantities cancel out in the calculation of emissions. However, inventory 
+compilers that use the simplified calculation should ensure that: (1) they treat imports and exports 
+of factory-charged equipment consistently in estimating both Annual Sales and Total Charge New 
+of Equipment; and (2) they continue to account for imports and exports of factory-charged 
+equipment in estimating Original Total Charge of Retiring Equipment. As new equipment will 
+eventually become retiring equipment, countries may wish to track imports and exports of factory-
+charged equipment even if this information is not strictly necessary to develop the current year’s 
+estimate.  
+The simplified formula for Annual Sales is: 
+ Annual Sales  
+= Domestically Manufactured Chemicals  
+  
+ 
+   + Imported Bulk Chemicals 
+  
+ 
+   – Exported Bulk Chemicals 
+The simplified formula for Total Charge of New Equipment is: 
+ Total Charge of New Equipment  
+  
+ 
+=   Chemicals to Charge Domestically Manufactured Equipment  
+  
+ 
+  + Chemical to Charge Imported Equipment that is not Factory-Charged 
+The full formula, accounting for imports and exports of pre-charged equipment, must be used to 
+calculate Original Total Charge of Retiring Equipment. 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.35 
+BOX 7.3A (NEW) 
+COMMON DATA SOURCES FOR THE HFC INVENTORY  
+This box provides a short description of common data sources for the HFC inventory, 
+complementing Table 7.10 in the 2006 IPCC Guidelines. Examples of data are production, 
+imports, exports and destruction of HFC and equipment containing HFC. Numbers of equipment 
+units and growth rates in sales are also data commonly collected. 
+Governmental reports 
+Most countries have collected data for Refrigerant Management Plans (RMPs) or HCFC Phase-out 
+Management Plans (HPMPs) through ODS-alternatives surveys. The consumption data generally 
+contain information on: 
+- total past consumption of CFCs, and total current and past consumption of HCFCs and possibly 
+also HFCs. Data on ODS are often given in ODP tonnes, which can be converted into metric 
+tonnes using the substance-specific ODP values;  
+- sector-specific consumption of HCFCs and possibly also HFCs (e.g. amounts used in air 
+conditioning, refrigeration, fire extinguishers, aerosols etc.);  
+- breakdown of HCFCs according to their use at each lifecycle stage such as 
+manufacturing/assembly (initial charge) or servicing (refill) 
+ 
+Some countries have begun monitoring HFC consumption due to the inclusion of HFCs in the 
+Montreal protocol. Countries that have ratified the Kigali amendment to the Montreal Protocol will 
+be required to report consumption data on HFCs (production, import and export) annually. 
+ 
+European Member States report annually to the European Commission on production and imports 
+of HFCs in bulk, in line with the EU F-Gas Regulation. 
+Surveys 
+There is often a limited number of companies producing, importing and exporting HFC in bulk; 
+hence a way to obtain high quality data is to ask the producers, importers, and exporters for 
+information. They should be able to provide information on the amount of gas they produce, 
+import, or export in a certain year. In addition, they may be able to indicate the equipment types in 
+which each HFC or blend is used.  
+The number of companies importing equipment containing HFC can be large, and surveying this 
+might be resource intensive. If this is the case, other data sources such as sales statistics or national 
+customs registers (see below) may be used instead. 
+Surveys can also be a way to obtain information on HFC from end-users. Generally, this requires 
+good knowledge of the market and preparatory market research may be needed before launching a 
+survey.  
+Surveys can also be a way to discover areas and applications previously unknown to the inventory 
+compilers.  
+National Customs Registers 
+National Customs Registers contain information on imports and exports of chemicals and 
+equipment potentially containing HFC. If the HFC are subject to tax, such a register might provide 
+the amounts of refrigerant contained in the products. If not, it will probably be necessary to make 
+assumptions regarding the identities and amounts (charge sizes) of HFCs in different types of 
+equipment, multiplying the charge size by the number of equipment units of each type to obtain the 
+total amount of that HFC imported. 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.3A (NEW) (CONTINUED) 
+COMMON DATA SOURCES FOR THE HFC INVENTORY  
+Other national registers 
+Many countries have national registers of cars uses for taxation purposes. This data source might 
+provide figures on the number of cars, and possibly other information like age and size.  
+National Product Register/European Chemical Agency: In some countries, a national Products 
+Register is used to store information on chemical products (including HFC) that are manufactured 
+in or transferred or imported into the country and information on the ways in which these are being 
+used.  
+Industrial organizations 
+Industrial organizations or trade associations often have statistics on mass-produced types of 
+equipment, like numbers of household refrigerators, small air conditioning units, heat pumps and 
+cars.  
+If not, they might help with assessments of the size of markets, and hence the consumption figures. 
+It is often challenging to get information on the number of large refrigeration and air conditioning 
+systems. Industrial organizations might provide useful information like annual growth in sales of 
+equipment and average charge size of various types of equipment. 
+National statistics 
+Many countries have national offices publishing annual statistics with useful information, like the 
+stock of vehicles and buildings (number or area by type of building), or production of 
+commodities.  
+ 
+7.5.2.4 APPLYING TIER 2 METHODS – THE EXAMPLE OF MOBILE AIR 
+CONDITIONING (MAC) 
+The Box 7.4 below sets out the step-by-step approach required to assess the emissions from the mobile air 
+conditioning sub-application of a hypothetical country’s inventory. The method adopted is primarily a Tier 2a 
+approach, although there are also elements which would be equally applicable to Tier 2b. This example, 
+therefore, highlights the reality that pure approaches and methods are rare in practice. There will often be a mix 
+of emission-factor approach and mass–balance approach as well as a mix of country-specific data and globally or 
+regionally derived data. As pointed out in Section 7.1.2.1, one method, approach or dataset will often be used to 
+cross-check another. This example also demonstrates that a detailed implementation of the Tier 2a method 
+requires a significant amount information gathering about a sub-application. Once established, it is less 
+burdensome to implement the approach in subsequent years. Also note that assumptions made are for example 
+only; inventory compilers should collect country-specific information rather than using the assumptions shown. 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.37 
+BOX 7.4 (UPDATED) 
+EXAMPLE OF THE APPLICATION OF A TIER 2A CALCULATION FOR MOBILE AIR CONDITIONING 
+Introduction 
+National inventories and other studies to date show that emissions of HFC-134a from mobile air 
+conditioners (MACs) contribute significantly to the Refrigeration and Air Conditioning (RAC) 
+Application emissions and the ODS Substitutes Category emissions. For many countries, 
+emissions from MACs will comprise 50 percent or more of the RAC emissions and possibly more 
+than 50 percent of the total ODS Substitutes Category emissions.  This is due to many factors, 
+including: 
+• 
+The phaseout of ODSs to HFCs in MACs occurred earlier and more quickly than other Sub-
+Applications, such as residential (stationary) air conditioning and commercial refrigeration 
+(supermarkets), which still rely substantially on ODSs. 
+• 
+MACs are subject to extremes in terms of physical shock and vibration and hence emissions 
+tend to be large. 
+• 
+The lifetime of MACs tends to be shorter than many other RAC Sub-Applications, so that 
+end-of-life emissions are seen earlier and equipment stocks relying on ODSs are replaced 
+sooner with HFCs. 
+• 
+Due to the small charge of refrigerant involved, recovery from MACs is often seen as 
+uneconomical and hence is not often practiced during service and disposal. 
+In addition, data on vehicle purchases and registrations in a country are often known to a higher 
+degree of quality or are easily obtained.  Hence, it is good practice to estimate emissions from this 
+Sub-Application. The following text describes how the general equations for the RAC Application 
+can be applied to the MAC Sub-Application. 
+Data Gathering and Assumptions 
+An accurate estimate of MAC emissions may be obtained by collecting some data at the Sub-
+Application level and applying a few basic assumptions to simplify the data and calculations 
+required, as follows: 
+Refrigerant Type.  It will be important to separate each data point by refrigerant, so that emissions 
+of each refrigerant are calculated separately. For MACs, this may be simplified by the fact that all 
+MACs produced since the mid- to late-1990s use HFC-134a as the refrigerant. However, CFC-12 
+was used in the past and still exists in some operating systems. Furthermore, for the future other 
+refrigerants such as HFC-152a and R-744 (carbon dioxide) are being considered.   
+Refrigerant Sold in Containers (RMt).  For MACs, refrigerant generally comes in three basic 
+types of containers – ‘bulk containers’ sent to vehicle manufacturers to fill new MACs, ‘small 
+cans’ containing about 300-500 grams of refrigerant generally used by individuals servicing their 
+own equipment, and ‘cylinders’ containing about 10-15 kilograms of refrigerant used by shops that 
+service many vehicles. If one assumes no losses from bulk containers (see below), then in order to 
+calculate Econtainers, one needs to know the total refrigerant sold in small cans (RMsc) and cylinders 
+(RMcy). It will be important to distinguish the refrigerant sold into different Sub-Applications (e.g., 
+HFC-134a is also used in the chillers and domestic refrigeration Sub-Applications) so that only the 
+refrigerant sold for MACs is used in the calculations. This data may be obtained from small can 
+packagers and refrigerant producers/distributors. 
+Container Heels (c).  For this example, we assume the heels from service containers are not 
+recovered (e.g., the cylinders are discarded, not reused) and are csc = 20 percent for the small can 
+and ccy = 2 percent for the cylinder.  Because bulk refrigerant containers generally go back to the 
+refrigerant producer and are refilled, we can assume there are no heels that would be emitted and 
+hence cbulk = 0 percent. 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.4 (UPDATED) (CONTINUED) 
+EXAMPLE OF THE APPLICATION OF A TIER 2A CALCULATION FOR MOBILE AIR CONDITIONING 
+MACs Produced Each Year (Nt).  If the number of MACs placed in service each year is not 
+known, an estimate can be made by multiplying the number of cars placed in service each year by 
+an estimate of the percentage that were sold with MACs. These data may be available from 
+automobile manufacturers, MAC producers/suppliers, or government agencies involved in 
+transportation, infrastructure and highway safety. If more than one type of refrigerant is used, it is 
+important to separate each Nt into the different refrigerants, e.g., N1994 = N1994,CFC-12 + N1994,HFC-
+134a. 
+Nominal Charge of Each MAC (mt).  This factor would likely vary by the type of vehicle; for 
+instance small passenger cars will likely have lower refrigerant charges than buses or larger cars, 
+especially those with multiple evaporators. Likewise, this could vary over time, for instance 
+decreasing as manufacturers make smaller systems for the same vehicle size, or increasing as 
+larger cars and more multiple-evaporator units enter the market. For this example, we assume a 
+constant over time at an average m = 0.7 kg, which is typical of small to medium-sized passenger 
+cars. 
+Refrigerant Charged into New Equipment (Mt).  This is easily calculated as Mt = Nt • mt = 0.7 • 
+Nt. 
+Assembly Losses (k).  This is used to calculate the Charge Emissions, also referred to as ‘First-Fill 
+Emissions.’ The loss rate is often small, on the order of k = 0.5 percent or smaller. For simplicity, 
+we assume k = 0 in this example. 
+Lifetime (d).  The presumed lifetime of a MAC.  This variable can be based on national data and 
+can be different for different types of MACs (passenger cars, buses, etc.) For this example, we 
+assume the lifetime of all MACs is d = 12 years. 
+Bank in Existing Equipment (B).  The bank will be the amount of refrigerant in MACs put into 
+service, minus the amount of refrigerant in MACs disposed, plus the amount of refrigerant used to 
+service MACs, minus the amount that has leaked.  In actuality, a given MAC will probably leak 
+over several years before being serviced. Rather than attempting to account for this, for this 
+example we apply Equation 7.13 which assumes all MACs are serviced each year such that the 
+estimated charge of each MAC is the same as the nominal charge. The annual emission rate is 
+averaged to account for this assumption. This will only produce small errors unless the year-to-
+year sales of MACs fluctuate widely. Hence the bank in any given year is the sum of the 
+Refrigerant Charged into New Equipment each year from the current year back to the assumed 
+average lifetime of the equipment.  Thus, 
+∑
+=
+− +
+=
+d
+i
+t i
+t
+M
+B
+1
+1  
+For example, using d = 12 years, the bank in 2006 would be B2006 = M2006 + M2005 + M2004 + … + 
+M1997 + M1996 + M1995. 
+Annual Emission Rate (x).  This factor accounts for both leaks from equipment as well as any 
+emissions during service. Both of these items can be different for different types of MACs and can 
+also vary by when the MAC was produced (i.e., older MACs may leak more than newer MACs).  
+If annual servicing does not occur, the amount emitted at any servicing event needs to be average 
+over the number of years between servicing event to obtain the annual rate. This amount is likely 
+to vary considerably depending on national conditions and what type(s) of service is (are) 
+performed.  Whether recovery of the given charge before service is performed must be considered, 
+and may be deduced in part by examining the amount of refrigerant sold in small cans versus 
+cylinders. For this example, we assume that 15 percent of the nominal charge is leaked each year 
+and 5 percent on average is emitted during servicing.  Hence, x = 20 percent.  
+Residual Charge in MACs Disposed (p).  Assuming that the MAC is serviced the year before it is 
+disposed, and that the annual nominal charge is estimated, this is easily calculated as p = 1 –
+nominal charge.  In our example, p = 1 – 15 % = 0.85.  
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.39 
+BOX 7.4 (UPDATED) (CONTINUED) 
+EXAMPLE OF THE APPLICATION OF A TIER 2A CALCULATION FOR MOBILE AIR CONDITIONING 
+Recovery Efficiency (nrec).  If no regulations or incentives exist to require recovery of 
+refrigerant from MACs disposed, then likely very little will occur.  So, for this example, we 
+assume that nrec = 0. 
+Calculation of Different Types of Emissions  
+Now that these data have been gathered and assumptions have been made, calculating the 
+emissions may be performed.  An example for year t = 2006 follows: 
+Container Emissions (Equation 7.11).   
+ 
+,2006
+,2006
+,2006
+,2006
+,2006
+2.0
+.0 02
+sc
+cy
+sc
+sc
+cy
+cy
+containers
+RM
+RM
+c
+RM
+c
+RM
+E
+•
++
+•
+=
+•
++
+•
+=
+ 
+Charging Emissions (Equation 7.11).   
+ 
+0
+2006
+arg ,2006
+=
+•
+=
+k
+M
+E
+e
+ch
+ 
+Lifetime (Operating and Servicing) Emissions (Equation 7.13).   
+ 
+)
+(
+14
+.0
+)
+(
+7.0
+20
+.0
+)
+(
+20
+.0
+)
+(
+20
+.0
+.0 20
+20
+.0
+1995
+1996
+1997
+2004
+2005
+2006
+1995
+1996
+1997
+2004
+2005
+2006
+1995
+1996
+1997
+2004
+2005
+2006
+1995
+1996
+1997
+2004
+2005
+2006
+1
+1
+2006
+2006
+2006
+,
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+m
+M
+M
+M
+M
+M
+M
+M
+B
+x
+B
+E
+d
+i
+t i
+operation
++
++
++
++
++
++
+•
+=
++
++
++
++
++
++
+•
+•
+=
++
++
++
++
++
++
+•
+•
+=
++
++
++
++
++
++
+•
+=
+•
+=
+•
+=
+•
+=
+∑
+=
++
+−
+
+
+
+
+  
+End-of-Life Emissions (Equation 7.14).   
+ 
+1994
+1994
+1994
+2006 12
+2006
+,2006
+.0 595
+7.0
+.0 85
+85
+.0
+0)
+1(
+.0 85
+)
+1(
+N
+N
+M
+M
+n
+p
+M
+E
+rec
+d
+life
+end of
+•
+=
+•
+•
+=
+•
+=
+−
+•
+•
+=
+−
+•
+•
+=
+−
+−
+− −
+ 
+Calculation of Total Emissions 
+Total MAC Emissions (Equation 7.10).   
+1994
+1995
+1996
+1997
+2004
+2005
+2006
+,2006
+2006
+,
+1994
+1995
+1996
+1997
+2004
+2005
+2006
+,2006
+2006
+,
+,2006
+,2006
+,2006
+arg ,2006
+,2006
+2006
+,
+.0 595
+)
+(
+14
+.0
+2.0
+02
+.0
+.0 595
+)
+(
+14
+.0
+0
+2.0
+02
+.0
+N
+N
+N
+N
+N
+N
+N
+RM
+RM
+N
+N
+N
+N
+N
+N
+N
+RM
+RM
+E
+E
+E
+E
+E
+E
+sc
+cy
+sc
+cy
+life
+end of
+servicing
+lifetime
+e
+ch
+containers
+total
+•
++
++
++
++
++
++
++
+•
++
+•
++
+•
+=
+•
++
++
++
++
++
++
++
+•
++
++
+•
++
+•
+=
++
++
++
++
+=
+−
+−
+
+
+  
+The only unknowns are: 
+• 
+RMsc – refrigerant (in kilograms) sold in small cans to service MACs, which may be obtained 
+from small can packagers; 
+• 
+RMcy – refrigerant (in kilograms) sold in cylinders to service MACs, which may be obtained 
+from refrigerant producers/distributors; and, 
+• 
+Nt – the number of MACs put in service each year, which may be available from automobile 
+manufacturers, MAC producers/suppliers, or government agencies involved in transportation, 
+infrastructure and highway safety. 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.40 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 7.4 (UPDATED) (CONTINUED) 
+EXAMPLE OF THE APPLICATION OF A TIER 2A CALCULATION FOR MOBILE AIR CONDITIONING 
+If the emissions from refrigerant containers and from end-of-life are not included, for example if it 
+is believed that service cylinders are completely evacuated and minimal MACs reach their end-of-
+life in the given year, this equation becomes simply an activity (the number of MACs) multiplied 
+by an emission factor (annual emission rate times average charge size, in this case 0.14 kg per 
+MAC).  This calculation yields the total emissions in kilograms of refrigerant.  Keeping each 
+refrigerant separate and multiplying each sum by the refrigerant’s GWP will yield kilograms of 
+CO2 equivalent emissions.  Dividing by 1 billion (109) will yield emissions in teragrams of CO2 
+equivalent (TgCO2eq). 
+7.5.2.5 COMPLETENESS 
+No refinement. 
+7.5.2.6 DEVELOPING A CONSISTENT TIME SERIES 
+No refinement. 
+7.5.3 
+Uncertainty assessment 
+No refinement. 
+7.5.4 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+No refinement. 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.41 
+7.6 
+FIRE PROTECTION 
+No refinement. 
+ 
+7.7 
+OTHER APPLICATIONS 
+No refinement. 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.42 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 7A.1 (New) Examples of national studies on emission rates 
+for stationary refrigeration and air-conditioning systems 
+The three sets of emission factors presented below are intended to serve as examples of emission rates (and in 
+one case recovery efficiency at end-of-life) for stationary refrigeration and air-conditioning systems. Only 
+countries with similar systems and regulations or incentives in place should consider using these factors for 
+relevant years. In each table, the IPCC sub-application (found in Table7.9) are amended for the purpose of 
+reference. 
+TABLE 7A.1 (NEW) 
+CALIFORNIA STUDY FOR 2008:  EMISSION FACTORS FOR STATIONARY REFRIGERATION AND AIR-CONDITIONING SYSTEMS 
+Equipment Type or Emission Sub-
+application 
+Annual loss, Operating 
+Lifetime Emission 
+Factors (% of initial 
+charge/year) 
+Recovery 
+Efficiency, End-
+of-Life Emission 
+(%) 
+IPCC 
+Sub-application 
+Factor in Equation 
+(x) 
+(nrec,d) 
+ 
+Refrigeration Large Centralized 
+System ≥ 907.2 kg (2,000 lbs.) 
+21.0% 
+80% 
+Medium & Large 
+Commercial 
+Refrigeration 
+Refrigeration Medium Centralized 
+System 90.7-< 907.2 kg (200-< 
+2,000 lbs.) 
+15.0% 
+80% 
+Medium & Large 
+Commercial 
+Refrigeration 
+AC Large Centrifugal Chiller ≥ 
+907.2 kg (2,000 lbs.) 
+2.4% 
+80% 
+Chillers 
+AC Medium Centrifugal Chiller 
+90.7-< 907.2 kg (200-< 2,000 lbs.) 
+1.4% 
+80% 
+Chillers 
+AC Chiller - Packaged 90.7-< 907.2 
+kg (200-< 2,000 lbs.) 
+6.9% 
+80% 
+Chillers 
+Refrigeration Large Cold Storage ≥ 
+907.2 kg (2,000 lbs.) 
+21.6% 
+84% 
+Industrial Refrigeration 
+including Food 
+processing and Cold 
+Storage 
+Refrigeration Medium Cold Storage 
+90.7-< 907.2 kg (200-< 2,000 lbs.) 
+28.8% 
+84% 
+Industrial Refrigeration 
+including Food 
+processing and Cold 
+Storage 
+Refrigeration Process Cooling ≥ 
+907.2 kg (2,000 lbs.) 
+6.8% 
+80% 
+Industrial Refrigeration 
+including Food 
+processing and Cold 
+Storage 
+Refrigerated Condensing units 22.7-
+≤ 90.7 kg (50-≤ 200 lbs.) 
+14.5% 
+80% 
+Medium & Large 
+Commercial 
+Refrigeration 
+Unitary AC 22.7-≤ 90.7 kg (50-≤ 
+200 lbs.) 
+11.3% 
+80% 
+Residential and 
+Commercial A/C, 
+including Heat Pumps 
+Refrigerated Condensing Units ≤ 
+22.7 kg (50-lbs. or less) 
+15% 
+66% 
+Medium & Large 
+Commercial 
+Refrigeration 
+Unitary A/C ≤ 22.7 kg (50-lbs. or 
+less) (central)  
+10% 
+44% 
+Residential and 
+Commercial A/C, 
+including Heat Pumps 
+Unitary A/C ≤ 22.7 kg (50-lbs. or 
+less) (window unit)  
+2% 
+0% 
+Residential and 
+Commercial A/C, 
+including Heat Pumps 
+ 
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.43 
+TABLE 7A.1 (NEW) (CONTINUED) 
+CALIFORNIA STUDY FOR 2008:  EMISSION FACTORS FOR STATIONARY REFRIGERATION AND AIR-CONDITIONING SYSTEMS 
+Equipment Type or Emission Sub-
+application 
+Annual loss, Operating 
+Lifetime Emission 
+Factors (% of initial 
+charge/year) 
+Recovery 
+Efficiency, 
+End-of-Life 
+Emission (%) 
+IPCC 
+Sub-application 
+Factor in Equation 
+(x) 
+(nrec,d) 
+ 
+Residential Appliance (refrigerator-
+freezer) 
+1% 
+33% 
+Domestic Refrigeration 
+Transport Refrigerated Units 
+(TRUs) 
+18.3% 
+85% 
+Transport Refrigeration 
+Refrigerated Shipping Containers 
+5% 
+81% 
+Transport Refrigeration 
+Source: Gallagher et al (2014).   
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.44 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 7A.2 (NEW) 
+JAPAN STUDY FOR 2008:  EMISSION FACTORS FOR STATIONARY REFRIGERATION AND AIR-CONDITIONING SYSTEMS 
+Equipment Type or Emission Sub-application 
+Annual loss, Operating 
+Lifetime Emission Factors 
+(% of initial charge/year) 
+IPCC 
+Sub-application 
+Factor in Equation 
+(x) 
+ 
+Large 
+Refrigerators-
+freezers 
+Centrifugal refrigerating 
+machine 
+7% 
+Chillers 
+Screw refrigerating machine 
+ 
+12% 
+Industrial Refrigeration 
+including Food Processing 
+and cold storage 
+Medium 
+Refrigerators-
+freezers 
+Transport refrigerator-freezer 
+unit 
+15% 
+Transport Refrigeration 
+Refrigerator-freezer unit 
+17% 
+Medium&Large 
+Commercial Refrigeration 
+Condensing unit 
+13% 
+Medium&Large 
+Commercial Refrigeration 
+Separately placed showcase 
+16% 
+Medium&Large 
+Commercial Refrigeration 
+Commercial air-
+conditioning 
+equipment 
+PAC (Package air-conditioning) 
+for store 
+3% 
+Residential and 
+Commercial A/C, 
+including Heat Pump 
+PAC (Package air-conditioning) 
+for building 
+3,5% 
+Residential and 
+Commercial A/C, 
+including Heat Pump 
+PAC (Package air-conditioning) 
+for industry 
+4,5% 
+Residential and 
+Commercial A/C, 
+including Heat Pump 
+GHP 
+5,0% 
+Residential and 
+Commercial A/C, 
+including Heat Pump 
+Room air-
+conditioning 
+ 
+2% 
+Residential and 
+Commercial A/C, 
+including Heat Pump 
+Small 
+Refrigerators-
+freezers 
+All-in-one type (e.g. built-in 
+showcase, ice making 
+machinery, water fountain, 
+commercial refrigerator) 
+2% 
+Stand-alone Commercial 
+Application 
+Chilling unit 
+Chilling unit (e.g. chilling unit 
+for refrigerator-freezer, chilling 
+unit for air-conditioning) 
+6% 
+Chillers 
+Source: Nomura Research Institute, Ltd. (2012).   
+ 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.45 
+ 
+TABLE 7A.3 (NEW) 
+GERMAN STUDY FOR 2009-2013:  EMISSION FACTORS FOR STATIONARY REFRIGERATION AND AIR-CONDITIONING 
+SYSTEMS 
+Equipment Type or Emission Sub-application 
+Annual loss, Operating Lifetime 
+Emission Factors (% of initial 
+charge/year) 
+Factor in Equation 
+(x) 
+Medium & Large Commercial Refrigeration (centralized) 
+7.64 – 10.02 
+Small Commercial Refrigeration (condensing units) 
+3.09 -5.18 
+Industrial Refrigeration including Food Processing and Cold Storage 
+4.71 
+AC Chiller 
+3.39 
+AC Multisplit/VRF (Variable Refrigerant Flow) 
+3.80 
+Source: Umweltbundesamt (2015) 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.46 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+References newly cited in the 2019 Refinement 
+Clodic, D., Barrault, S., & Saba, S. (2010). Global inventories of the worldwide fleets of refrigerating and air-
+conditioning equipment in order to determine refrigerant emissions. The 1990 to 2006 updating. Mise à 
+jour des banques, marchés et émissions de fluides frigorigènes dans la base de données RIEP au niveau 
+mondial. ADEME/ARMINES Agreement 0874C0147– Extracts from the Final Report – April 2010 
+Gallagher, G., Zhan, T., Hsu, Y-K., Gupta, P., Pederson, J., Croes, B., Blake, D., Barletta, B., Meinardi, S., 
+Ashford, P., Vetter, A., Saba, S., Slim, R., Palandre, L., Clodic, D., Mathis, P., Wagner, M., Forgie, J., 
+Dwyer, H., and Wolf, K. (2014). Supporting Information document for Manuscript: High-Global 
+Warming Potential F-gas Emissions in California: Comparison of Ambient-Based versus Inventory-Based 
+Emission Estimates, and Implications of Refined Estimates. Environmental Science & Technology 2014 
+48 (2), 1084-1093.  
+Gschrey, B., Zeiger, B., Schwarz, W., Bader, T. & Kauffeld, M. (2015) Konzept zur Bewertung der technischen 
+Innovationen zur Erfüllung der gesetzlichen Vorgaben bei stationären Kälte- und Klimaanlagen 
+(Summary in English). ed. Umweltbundesamt. 
+Hurwitz, M.M., Fleming, E.L., Newman, P.A., Li, F., Mlawer, E., Cady-Pereira, K. & Bailey, R. (2015). Ozone 
+depletion by hydrofluorocarbons. Geophys. Res. Lett. 42: 8686-8692.  
+Japan Automobile Manufacturers Association. (2008). Efforts Concerning Car Air-Conditioner Refrigerant. 
+Materials distributed at the Global Warning Prevention Measures Subcommittee Meeting (Dec. 9, 2008), 
+Chemicals and Bio-industry Committee, Industrial Structure Council 
+Kim S., & Kim, E.-K. J. (2014). Regular emission characteristics of HFC-134a from mobile air conditioners. 
+Journal of Industrial and Engineering Chemistry 21: 489-493.  
+Minnesota 
+Pollution 
+Control 
+Agency 
+(2017). 
+Mobile 
+Air 
+Conditioner 
+Leakage 
+Rates 
+URL : https://www.pca.state.mn.us/sites/default/files/aq-mvp2-29h.pdf 
+Nomura Research Institute, Ltd. (2012). The 2011 Promotion for Chemical Safety Assurance and Compliance 
+with International Regulations. (Refrigerant Management System Demonstration Model Project 
+[investigation of data gathering and analysis]). 
+Papasavva, S., Lueckand, D.J., Waterland R.L., Tadonnio, K., & Andersen, S. (2009) Estimated 2017 
+Refrigerant Emissions of 2,3,3,3-Tetrafluoropropene (HFC-1234yf) in the United States Resulting from 
+Automobile Air Conditioning. Environmental science and technology. 43(24):9252-9059 
+Schwarz, W. (2012). New Inventory Model Recovery from Old Car Air Conditioners and Emission Factor of 
+Disposal. Emission Reporting of F-Gases in Refrigeration and Air Conditioning.  Umweltbundesamt 
+Berlin. Extract translated from German presentation.  
+Schwarz, W. and Harnisch, J. (2003). Establishing the Leakage Rates of Mobile Air Conditioners. Final report 
+for the EC. Ref. B4-3040/2002/337136/MAR/C1.  
+Schwarz, W. and Harnisch, J. (2007). The analysis of the emissions of fluorinated greenhouse gases from 
+refrigeration and air conditioning equipment used in the transport sector other than road transport and 
+options 
+for 
+reducing 
+these 
+emissions. 
+Maritime, 
+Rail, 
+and 
+Aircraft 
+Sector. 
+07010401/2006/445124/MAR/C4. Prepared for the European Commission (DG Environment) 
+UNEP (2017). Available Information on HFC Consumption and Production in Article 5 Countries, Executive 
+Committee of the Multilateral Fund for the Implementation of the Montreal Protocol, 78th Meeting, 
+UNEP/OzL.Pro/ExCom/78/4, Montreal 2017 
+UNEP-TEAP (2016a). September 2016 Report of the Technology and Economic Assesement Panel, Volume 1, 
+Decision XXVII/4 Task Force Update Report: Further Information on Alternatives to Ozone-Depleting 
+Substances, UNEP Ozone Secretariate  
+UNEP-TEAP (2016b). September 2016 Report of the Technology and Economic Assesement Panel, Volume 2, 
+Report on the Climate Benefits and Costs of Reducing Hydrofluorocarbons under the Dubai Pathway, 
+UNEP Ozone Secretariate 
+Wimberger, E. (2010). Emissions of HFC-134a in Auto Dismantling and Recycling. Contract Number 06-334. 
+Final Report. Prepared for: State of California Air Resources Board.  
+Xu, Y., Zaelke, D., Velders, G. J. M., and Ramanathan, V. (2013). The role of HFCs in mitigating 21st century 
+climate change, Atmos. Chem. Phys., 13, 6083-6089. 
+ Chapter 7: Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.47 
+ 
+References copied from the 2006 IPCC Guidelines 
+Ashford, P., Clodic, D., Kuijpers, L. and McCulloch, A. (2004). Emission Profiles from the Foam and 
+Refrigeration Sectors – Comparison with Atmospheric Concentrations, International Journal of 
+Refrigeration, 2004. 
+Ashford, P. and Jeffs, M. (2004). Development of Emissions Functions for Foams and their use in Emissions 
+Forecasting, ETF Proceedings, April 2004. 
+Clodic, D., Palandre, L., McCulloch, A., Ashford, P. and Kuijpers, L. (2004). Determination of comparative 
+HCFC and HFC emission profiles for the Foam and Refrigeration sectors until 2015. Report for ADEME 
+and US EPA. 2004. 
+Gamlen P.H., Lane B.C., Midgley P.M. and Steed J.M (1986). The production and release to the atmosphere of 
+CFCl3 and CF2 Cl2 (chlorofluorocarbons CFC-11 and CFC-12). Atmos. Environ. 20: 1077-1085. 
+IPCC (1996). Climate Change 1995: Impacts, Adaptation, and Mitigation of Climate Change: Scientific- 
+Technical Analysis. The Contribution of Working Group II to the Second Assessment Report of the 
+Intergovernmental Panel on Climate Change. R. T. Watson, M. C. Zinyowera, R. H. Moss, (eds.), 
+Cambridge University Press, Cambridge.  
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental 
+Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.  
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories. 
+Penman J., Kruger D., Galbally I., Hiraishi T., Nyenzi B., Emmanuel S., Buendia L., Hoppaus R., 
+Martinsen T., Meijer J., Miwa K., Tanabe K. (Eds). Intergovernmental Panel on Climate Change (IPCC), 
+IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (2001). Climate Change 2001: Mitigation: Contribution of Working Group III to the Third Assessment 
+Report of the Intergovernmental Panel on Climate Change, edited by Metz, B., Davidson, O., Swart, R. 
+and Pan, J., Cambridge University Press, Cambridge. 
+IPCC/TEAP (2005). IPCC/TEAP Special Report on Safeguarding the Ozone Layer and the Global Climate 
+System: Issues Related to Hydrofluorocarbons and Perfluorocarbons. Prepared by Working I and III of 
+the Intergovernmental Panel on Climate Change, and the Technology and Economic Assessment Panel 
+[Metz, B., L. Kuijpers, S. Solomon, S. O. Andersen, O. Davidson, J. Pons, D. de Jager, T. Kestin, M. 
+Manning, and L. A. Meyer (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New 
+York, NY, USA, 488 pp. 
+Kroeze, C. (1995). Fluorocarbons and SF6: Global emission inventory and control. RIVM Report No. 
+773001007, Bilthoven, The Netherlands. 
+McCulloch A., Ashford, P. and Midgley, P.M. (2001). Historic Emissions of Fluorotrichloromethane (CFC-11) 
+Based on a Market Survey, Atmos. Environ., 35(26), 4387-4397 
+McCulloch A., Midgley, P.M. and Ashford, P. (2003). Releases of Refrigerant Gases (CFC-12, HCFC-22 and 
+HFC-134a) to the Atmosphere, Atmos. Environ. 37(7), 889-902 
+Palandre L., Barrault, S. and Clodic,D. (2003). Inventaires et prévisions des fluides frigorigènes et de leurs 
+émissions, France. Année 2001. Rapport pour l'ADEME, mai 2003. 
+Palandre, L., Barrault, S. and Clodic, D. (2004). Inventaires et prévisions des émissions de fluides frigorigènes 
+France - Année 2002. Rapport pour l'ADEME. Août 2004. 
+Schwarz, W. and Harnisch, J. (2003). Establishing the leakage rates of Mobile Air Conditioners. Final report for 
+the EC. Ref. B4-3040/2002/337136/MAR/C1. 17 April 2003. 
+UNEP-FTOC (1999). 1998 Report of the Rigid and Flexible Foams Technical Options Committee, UNEP, 
+Ozone Secretariat, 1999. 
+UNEP-FTOC (2003). 2002 Report of the Rigid and Flexible Foams Technical Options Committee, UNEP, 
+Ozone Secretariat, 2003. 
+UNEP-HTOC (1994). Assessment Report of the Halons Technical Options Committee, Report prepared for the 
+United Nations Environment Programme, Ozone Secretariat, Nairobi, Kenya, http://www.ozonelog.org. 
+Volume 3: Industrial Processes and Product Use  
+ 
+ 
+7.48 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+UNEP-HTOC (2003). Assessment Report of the Halons Technical Options Committee, Report for the United 
+Nations Environment Programme, Ozone Secretariat, Nairobi, Kenya, http://www.ozonelog.org, 69 pp. 
+UNEP-RTOC (1999). 1998 Report of the Refrigeration, Air Conditioning and Heat Pumps Technical Options 
+Committee, 1998 Assessment, UNEP, Ozone Secretariat, Nairobi, Kenya. 
+UNEP-RTOC (2003). 2002 Report of the Refrigeration, air Conditioning and Heat Pumps Technical Options 
+Committee, 2002 Assessment, UNEP, Ozone Secretariat, Nairobi, Kenya. 
+UNEP-TEAP (2002). April 2002 Report of the Technology and Economic Assessment Panel, Volume 3b, 
+Report of the Task Force on Destruction Technologies. [S. Devotta, A. Finkelstein and L. Kuijpers (ed.)]. 
+UNEP Ozone Secretariat, Nairobi, Kenya. 
+UNEP-TEAP (2005). May 2005 Report of the Technology and Economic Assessment Panel, Volume 3, Report 
+of the Task Force on Foam End-of-Life Issues, UNEP Ozone Secretariat, Nairobi, Kenya. 
+U.S. EPA (1992a). U.S. Environmental Protection Agency, Risk Screen on the Use of Substitutes for Class I 
+Ozone Depleting Substances Prepared in Support of the Significant New Alternatives Policy Program 
+(SNAP), 1992. 
+U.S. EPA (1992b). U.S. Environmental Protection Agency, Regulatory Impact Analysis: Compliance with 
+Section 604 of the Clean Air Act for the Phaseout of Ozone Depleting Chemicals, 1992. 
+U.S. EPA (2004a). U.S. Environmental Protection Agency, Analysis of International Costs to Abate HFC and 
+PFC Emissions from Solvents (Preliminary Report), 2004 
+U.S. EPA (2004b). U.S. Environmental Protection Agency, The U.S. Solvent Cleaning Industry and the 
+Transition to Non- Ozone Depleting Substances, http://www.epa.gov/ozone/snap/solvents/index.html 
+U.S. EPA/AHAM (2005). Disposal of Refrigerators/Freezers in the US – State of Practice (Baumgartner W., 
+Kjeldsen P. et al.), 2005 
+Verdonik, D.P. (2004). Modelling Emissions of HFCs and PFCs in the Fire Protection Sector, Proceedings of 
+the Earth Technology Forum, Washington, DC, 2004, 13 pp. 
+Verdonik, D.P. and Robin, M.L. (2004). Analysis of Emission Data, Estimates, and Modelling of Fire 
+Protection Agents, Proceedings of the Earth Technology Forum, Washington, DC, 2004, 11 pp. 
+Vo and Paquet (2004). An Evaluation of Thermal Conductivity over time for Extruded Polystyrene Foams blown 
+with HFC-134a and HCFC-142b, ETF Proceedings, April 2004 
+ 

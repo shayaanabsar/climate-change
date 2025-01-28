@@ -1,0 +1,429 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+2.1
+2
+REPORTING THE NATIONAL
+INVENTORY
+This chapter contains step by step instructions for reporting a national
+greenhouse gas inventory.
+How To Report Your Inventory
+ At the end of these reporting instructions you should have
+•
+filled in the Sectoral Report Tables
+•
+filled in the Summary Report and Overview Tables
+•
+prepared an Inventory Report which contains the required numerical
+and text documentation (see step 5)
+Do Step 1 if you have an existing inventory and would like to report it to
+the IPCC.  If you are working  from a completed CORINAIR inventory (see
+Annex 2).  If you are using the Workbook methods and you now want to
+report your inventory, go directly to Step 2 to begin to fill out the Sectoral
+Report  Tables.
+Remember that the Reference Manual (Volume 3) contains background
+information and full explanations of the methodologies referred to here.
+S T E P  1   R E V I E W  T H E  I P C C  C O M M O N
+R E P O R T I N G  F R A M E W O R K
+I n v e n t o r y  S c o p e
+You are requested to provide a complete inventory for 1990. This should
+include all anthropogenic emissions by source and removals by sink of
+greenhouse gases and ozone precursors, except those covered by the
+Montreal Protocol.
+You  have the option to add other greenhouse gases or precursors to your
+inventory report.  If you add other gases you should use the IPCC source
+category structure as far as possible. If you add or change the definitions of
+any categories to report these additional gases, you should clearly explain
+these changes. Use the spare copies of Tables 7A & 7B with blank column
+headings to report these emissions. Countries that wish to report Montreal
+Protocol  substances for completeness may do so using this procedure.
+S t a n d a r d  U n i t s  ( p o l l u t a n t s ,  a c t i v i t y  d a t a
+a n d  e m i s s i o n  f a c t o r s )
+All estimates should be reported in gigagrams (Gg) of the pollutant.
+Preferred units for activity data, emission factors and other data are
+indicated in each of the worksheets of the Workbook (Volume 2).
+REPORTING THE NATIONAL INVENTORY
+2.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+S o u r c e / S i n k  C a t e g o r i e s
+Your emissions inventories should use the IPCC source/sink categories as
+far as possible. The structure for reporting inventory information is
+summarised in the preceding chapter and in the Tables in this book.
+Compare the IPCC source/sink categories (Chapter 1: Understanding the
+Common Reporting Framework) with the categories already used in your
+national inventory.  Where there are differences it may be possible to
+allocate a larger category among appropriate smaller IPCC categories.
+Alternatively, if there is no way to allocate the category, you could report
+several of your smaller categories at a higher level of aggregation in the
+IPCC structure. .
+If your inventory cannot be re-structured to fit the IPCC model, or if you
+must show estimates under an "other" category, you should:
+•
+explain precisely where there are differences and what they are, and
+•
+explain precisely what is included in "other" categories.
+T i m e  P e r i o d s
+Inventories are prepared on a calendar year basis.  In the Agriculture and
+Land-Use Change/Forestry categories, it may be desirable to estimate
+average emissions over a several year period. The Workbook methods
+describe default recommendations which are summarised in the table
+below.
+REPORTING THE NATIONAL INVENTORY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+2.3
+TABLE 2-1
+TIME PERIODS
+GREENHOUSE GAS SOURCE AND SINK
+CATEGORIES
+PERIOD
+1  Energy
+A
+Fuel Combustion Activities
+Yearly figures
+B
+Fugitive Fuel Emission
+Yearly figures
+2  Industrial Processes
+Yearly figures
+Previous yearly figures
+3  Solvent and Other Product Use
+Yearly figures
+4  Agriculture
+A
+Enteric Fermentation
+Three-year average
+B
+Animal Wastes
+Three-year average
+C
+Rice Cultivation
+Three-year average
+D
+Agricultural Soils
+Three-year average
+E
+Prescribed Burning of
+Savannas
+Three-year average
+F
+Field Burning of Agricultural
+Residues
+Three-year average
+5  Land-Use Change/Forestry
+A
+Changes in Forest and Other
+Woody Biomass Stocks
+Three-year average
+B
+Forest and Grassland
+Conversion
+- Immediate release from on-
+site burning
+- Delayed release from decay
+Three-year average
+Previous 10 years average
+C Abandonment of Managed
+Lands
+Cumulative figures over previous
+20 years
+Total figures more than 20 years
+ago
+         D    CO2 Emissions and Removals
+                from soil
+Yearly figures
+Previous 20 year figures
+6  Waste
+Yearly figures
+Review these assumptions and be prepared to:
+•
+explain if, and precisely where, your inventory has different time period
+assumptions, and
+•
+explain the reasoning why the averaging periods were chosen.
+S T E P  2   F I L L  I N  T H E  S E C T O R A L  A N D
+S U M M A R Y  R E P O R T  T A B L E S
+You should fill in Sectoral and Summary Report Tables for the main
+source/sink categories that you have included in your inventory. If your data
+do not conform to the IPCC source/sink category structure, you should
+REPORTING THE NATIONAL INVENTORY
+2.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+clearly footnote on the corresponding table(s) any differences and provide
+an explanation of the differences in the documentation note of the
+inventory. If you have estimated ranges of uncertainty for emission or
+supporting data, read Task (c) of this step before beginning.
+Task a: Complete Sectoral Report Tables.  
+EITHER:
+transfer emission estimates data from worksheets
+OR
+convert your existing inventory data into Sectoral Report  format
+(Tables 1 to 6).  As explained above under Step 1, this may
+require transforming your data to fit the IPCC source/sink
+category structure.
+Task b: Complete Summary Report Tables.
+This is done by transferring data from the Sectoral Report Tables into
+Summary Report Tables 7A & 7B.
+Task c: Report Uncertainty Ranges
+An approach to estimating the uncertainty associated with point emission
+estimates and emission factors is described in Annex 1.
+If you have ranges of uncertainty for point emission estimates by
+source/sink of greenhouse gas, as well as for emission factors or activity
+data, you can report the ranges by using the same Sectoral and Summary
+Report Tables. These tables should be in addition to the point estimates
+that are requested in Task (a) and (b) of this Step (above).
+If you have ranges that you would like to report, please:
+•
+make copies of the Sectoral or Summary Report Tables.
+•
+mark them clearly with a heading "UNCERTAINTY RANGES"  and the
+corresponding uncertainty area, e.g. EMISSION ESTIMATES, EMISSION
+FACTORS and/or ACTIVITY DATA.
+•
+for each data point fill in the ranges if available.
+S T E P  3   V E R I F I C A T I O N
+Task a: Checking Results
+Countries are asked to carry out the following types of verification and
+summarise results (in text form) in the inventory report:
+•
+checks for arithmetic errors
+•
+checks of country estimates against independently published estimates
+•
+checks of national activity data with international statistics (default data)
+•
+checks of CO2 emissions from fuel combustion calculated using national
+methods with the IPCC Reference Approach (see below).
+Further verification checks that may be done centrally, or assisted centrally
+are:
+•
+cross-country comparisons of estimates through use of a single set of
+source categories
+CONVERTING CORINAIR
+INVENTORIES
+CORINAIR is one type of detailed
+inventory system. Guidance for
+converting a CORINAIR Inventory
+into an IPCC inventory is given in
+Annex 2.
+REPORTING THE NATIONAL INVENTORY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+2.5
+•
+cross-country comparisons of emission factors
+A more detailed sample set of questions for countries to consider in
+reviewing the quality of their own inventories is provided below.
+V e r i f i c a t i o n
+In completing the inventory you should also make a report in which you summarise
+the verification procedures you have used. This report should include an overall
+assessment of the quality and completeness of each of the main source and sink
+estimates for each greenhouse gas. You should ask yourself the following questions
+about your inventory when attempting to provide an overall assessment of the
+inventory’s quality and completeness.
+M e t h o d
+•
+Is the approach well documented and reproducible?
+•
+Have results been checked against other methods of estimation?
+•
+Are measurement data part of the estimate?  If so, has the source activity been
+summarised in part (for the remaining non-measured part of the activity) and
+has it been summarised in total?  Have you verified that the emissions from a
+given activity are not included in several source categories?
+E m i s s i o n  e s t i m a t e s
+•
+Have any estimates been compared with measured emission and concentration
+data?
+•
+In some instances it is possible to cross-check emission estimates against
+roughly comparable statistics (e.g. for NMVOC, solvent production + imports
+- exports should equal total of applications).  Have these checks been done
+and if so how do these data compare?
+•
+Have results been compared for reasonableness with outside or independently
+published estimates? This could include comparison with estimates from a
+country of similar size or economic profile.
+A c t i v i t y  d a t a  a s s u m p t i o n s
+•
+Does the level of activity reported cross-check reasonably well with other
+sources of information on this activity, e.g. with international statistics?
+•
+Do units match emission factors reported?
+E m i s s i o n  f a c t o r s
+•
+Do emission factors represent operating cycles or conditions from the region
+reporting?
+•
+Are the sources of emission factors well documented? Are the conventions
+the same as those found in the activity data e.g. using net calorific value?
+•
+Have emission factors been compared with other sources (taking into account
+technologies, maintenance, operating cycles, or other conditions that may
+influence emission factors)?
+If you have already performed some verification, please describe what you
+did and what you found.
+REPORTING THE NATIONAL INVENTORY
+2.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+Task b: CO2 from Fuel Combustion - Standard Verification
+With respect to CO2 emissions from energy, all users are asked to provide
+a standard set of information that will assist the verification process.  This
+means that:
+•
+Users who have estimated their CO2 emissions from energy using the
+Reference Approach outlined in Volume 2 of the Guidelines should
+include the worksheets used to estimate these emissions in the
+documentation submitted with their inventory.
+•
+Users who have used their own methodology or the IPCC Sectoral
+Approach to estimate CO2 emissions from energy should present the
+results of their work in the Sectoral Table for Energy provided in the
+Reporting Instructions, along with the worksheets used for
+calculations. They should also estimate their CO2 emissions from
+energy using the Reference Approach provided in Volume 2 of the
+Guidelines. It is recommended that users provide (in text form) an
+explanation for any significant differences between these two sets of
+results.
+Task c: Assessing Quality
+Prepare a brief self-assessment of the quality of the resulting inventory and of
+the verification that has been performed. A simplified format for reporting on
+the quality and completeness of the inventory is suggested in the Overview
+Table and Disaggregation Key (Tables 8A and 8B) in this book. This should be
+included with the other tables in the Inventory Report.
+REPORTING THE NATIONAL INVENTORY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+2.7
+S T E P  4   D O C U M E N T A T I O N
+Prepare text to accompany the inventory which should:
+•
+describe any differences from IPCC source/sink category structure;
+•
+describe any differences from IPCC default methods for the estimation
+of greenhouse gases and precursors;
+•
+clearly describe the estimation methods, as well as major assumptions
+that may not have been captured in the worksheets , for all greenhouse
+gases contained in the inventory;
+•
+provide complete references to all data sources used to construct the
+inventory;
+•
+highlight any new or interesting data sources, references or research
+findings used to construct the inventory;
+•
+describe any significant changes in emission factors and other
+assumptions from those used in previous inventories that have been
+submitted.
+You are also invited to report any difficulties you faced in developing and
+reporting the inventory (e.g. lack of data, lack of resources etc.).
+S T E P  5  A S S E M B L I N G  
+A N D  
+T R A N S M I T T I N G
+T H E  I N V E N T O R Y
+Assemble all elements of the National Inventory, including:
+•
+Sectoral Report  Tables
+•
+Summary Report Tables
+•
+Overview Table
+•
+Uncertainty Estimates (if available)
+•
+Written documentation
+•
+Computer diskette containing data (if applicable)
+•
+Any supporting documents
+Mail the complete package to:
+IPCC/OECD/IEA PROGRAMME FOR NATIONAL
+GHG INVENTORY.
+OECD, Environment Directorate
+2, rue André-Pascal
+75775 PARIS CEDEX 16
+FRANCE
+FAX:  (33-1) 45 24 78 76
+DOCUMENTATION STANDARDS
+•  National inventory reports should
+provide minimum information to
+enable 
+the 
+results 
+to 
+be
+reconstructed, and to justify the
+choice of methodology and data
+used.  This means, for example, that
+to the extent possible, activity data
+should be provided at the level of
+detail at which the emissions are
+estimated.
+•  If worksheets from Volume 2 of
+the Guidelines have been used to
+estimate greenhouse gas emissions
+in the inventory, these worksheets
+should be part of the documentation
+included 
+in 
+the 
+inventory
+submission. Comparable worksheets
+should be provided when estimation
+procedures other than the IPCC
+Guidelines are used.
+•  Documentation should contain
+enough 
+information 
+to 
+explain
+differences 
+between 
+national
+methods and data, and the IPCC
+default methods and assumptions.
+Reasons for the differences should
+be 
+explained 
+and 
+sources 
+of
+emission factors and other national
+data should also be clearly cited.
+Minimum 
+requirements 
+include:
+emission factors, activity data, and a
+list of references documenting any
+differences from IPCC recommend-
+ations.
+•  Measurement studies containing
+new values should be referenced,
+and made available upon request. It
+is preferable that new emission
+factors be taken from published
+sources.
+•  Any significant changes in
+emission 
+factors 
+and 
+other
+assumptions from those used in
+previous inventories that have been
+submitted 
+should 
+be 
+clearly
+referenced and explained.
+•  Documentation should be kept
+for future years (by the country and
+by the IPCC) and countries are
+encouraged 
+to 
+publish 
+the
+documentation of their inventories.
+This extensive record keeping will
+facilitate 
+the 
+recalculation 
+of
+historical inventory estimates when
+changes in national methods or
+assumptions occur.

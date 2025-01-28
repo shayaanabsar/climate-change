@@ -1,0 +1,3108 @@
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.1 
+CHAPTER 6 
+ELECTRONICS INDUSTRY EMISSIONS 
+Volume 3: Industrial Processes and Product Use 
+6.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Scott Bartos (USA) 
+Laurie S. Beu (USA), C. Shepherd Burton (USA), Charles L. Fraust (USA), Francesca Illuzzi (Italy), Michael T. 
+Mocella (USA) and Sebastien Raoux (France/USA) 
+Contributing Authors 
+Guido Agostinelli (Italy), Erik Alsema (Netherlands), Seung-Ki Chae (Republic of Korea), Vasilis M. Fthenakis 
+(USA) , Joseph Van Gompel (USA) , Hideki Nishida (Japan), Takayuki Oogoshi (Japan) and Kurt T. Werner 
+(USA) 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.3 
+Contents 
+6 
+Electronics Industry Emissions .....................................................................................................................6.5 
+6.1 
+Introduction...........................................................................................................................................6.5 
+6.2 
+Methodological issues...........................................................................................................................6.6 
+6.2.1 
+Choice of method ..........................................................................................................................6.6 
+6.2.1.1 
+Etching and CVD cleaning for semiconductors, liquid crystal displays, and photovoltaics....6.6 
+6.2.1.2 
+Heat transfer fluids ................................................................................................................6.13 
+6.2.2 
+Choice of emission factors ..........................................................................................................6.15 
+6.2.2.1 
+Etching and CVD cleaning for semiconductors, liquid crystal displays, and photovoltaics..6.15 
+6.2.2.2 
+Heat transfer fluids ................................................................................................................6.22 
+6.2.3 
+Choice of activity data.................................................................................................................6.22 
+6.2.4 
+Completeness ..............................................................................................................................6.24 
+6.2.5 
+Developing a consistent time series.............................................................................................6.25 
+6.3 
+Uncertainty assessment .......................................................................................................................6.25 
+6.3.1 
+Emission factor uncertainties ......................................................................................................6.25 
+6.3.2 
+Activity data uncertainties...........................................................................................................6.26 
+6.4 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation...................................6.29 
+6.4.1 
+Quality Assurance/Quality Control (QA/QC) .............................................................................6.29 
+6.4.2 
+Reporting and Documentation.....................................................................................................6.29 
+References 
+.....................................................................................................................................................6.31 
+Equations 
+Equation 6.1 
+Tier 1 method for estimation of the set of FC emissions.......................................................6.9 
+Equation 6.2 
+Tier 2a method for estimation of FC emissions...................................................................6.10 
+Equation 6.3 
+By-product emissions of CF4...............................................................................................6.10 
+Equation 6.4 
+By-product emissions of C2F6 .............................................................................................6.10 
+Equation 6.5 
+By-product emissions of chf3...............................................................................................6.10 
+Equation 6.6 
+By-product emissions of C3F8 .............................................................................................6.10 
+Equation 6.7 
+Tier 2b method for estimation of FC emissions ..................................................................6.11 
+Equation 6.8 
+By-product emissions of CF4...............................................................................................6.12 
+Equation 6.9 
+By-product emissions of C2F6 .............................................................................................6.12 
+Equation 6.10 By-product emissions of CHF3............................................................................................6.12 
+Equation 6.11 By-product emissions of C3F8 .............................................................................................6.12 
+Equation 6.12 Tier 1 method for estimation of total FC emissions from heat transfer fluids.....................6.14 
+Equation 6.13 Tier 2 method for estimation of FC emissions from heat transfer fluids.............................6.14 
+Volume 3: Industrial Processes and Product Use 
+6.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure 6.1 
+Decision tree for estimation of FC emissions from electronics manufacturing.....................6.8 
+Figure 6.2 
+Decision tree for estimation of FC emissions from HT fluid loss from electronics 
+manufacturing......................................................................................................................6.15 
+Tables 
+Table 6.1 
+Information sources necessary for completing the tiered emission estimating methods for 
+electronics manufacturing......................................................................................................6.7 
+Table 6.2 
+Tier 1 Gas-specific emission factors for FC emissions from electronics manufacturing ....6.16 
+Table 6.3 
+Tier 2 Default emission factors for FC emissions from semiconductor manufacturing ......6.17 
+Table 6.4 
+Tier 2 Default emission factors for FC emissions from LCD manufacturing......................6.18 
+Table 6.5 
+Tier 2 Default emission factors for FC emissions from PV manufacturing ........................6.19 
+Table 6.6 
+Tier 2a & 2b Default efficiency parameters for electronics industry FC emission reduction 
+technologies.........................................................................................................................6.20 
+Table 6.7 
+Country total silicon (Si) and glass design capacities (Mm2) for 2003, 2004 and 2005......6.23 
+Table 6.8 
+Country total PV production capacitya for 2003, Mm2........................................................6.24 
+Table 6.9 
+Tier 2 default estimates of relative errors (%) for emission factor for FC emissions from 
+semiconductor manufacturing, 95 percent confidence intervals..........................................6.27 
+Table 6.10 
+Tier 2 default estimates of relative errors (%) for emission factor for FC emissions from LCD 
+manufacturing, 95 percent confidence intervals..................................................................6.28 
+Table 6.11 
+Information necessary for full transparency of estimates of emissions from electronics 
+manufacturing......................................................................................................................6.30 
+Box 
+Box 6.1 
+Example for semiconductor manufacture............................................................................6.13 
+ 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.5 
+6 ELECTRONICS INDUSTRY EMISSIONS 
+6.1 
+INTRODUCTION 
+Several advanced electronics manufacturing processes utilise fluorinated compounds (FCs) for plasma etching 
+intricate patterns, cleaning reactor chambers, and temperature control. The specific electronic industry sectors 
+discussed in this chapter include semiconductor, thin-film-transistor flat panel display (TFT-FPD), and 
+photovoltaic (PV) manufacturing (collectively termed ‘electronics industry’).1  
+The electronics industry currently emits both FCs that are gases at room temperature and FCs that are liquids at 
+room temperature. The gases include CF4, C2F6, C3F8, c-C4F8, c-C4F8O, C4F6, C5F8, CHF3, CH2F2, nitrogen 
+trifluoride (NF3), and sulfur hexafluoride (SF6), and are used in two important steps of electronics manufacturing: 
+(i) plasma etching silicon containing materials and (ii) cleaning chemical vapour deposition (CVD) tool 
+chamber-walls where silicon has deposited.2 The majority of FC emissions results from limited utilisation 
+efficiency (i.e., consumption) of the FC precursors during the etching or the cleaning process. In addition, a 
+fraction of the fluorinated compounds used in the production process can be converted into by-product CF4 and 
+in some instances into C2F6, CHF3 and C3F8.3 Also, formation of CF4 as a by-product of etching or cleaning 
+carbon-containing low dielectric constant (low k) materials (or carbide) must be taken into account.4 In addition, 
+F2, COF2, and ClF3 use may increase. These gases, although not in themselves contributors to global warming 
+may lead to CF4 formation under some conditions.  
+Electronics manufacturers use FCs for temperature control during certain processes. Also known as heat transfer 
+fluids, these FCs are liquids at room temperature and have appreciable vapour pressures. Evaporative losses 
+contribute to the total FC emissions. These evaporative losses occur during cooling of certain process equipment, 
+during testing of packaged semiconductor devices and during vapour phase reflow soldering of electronic 
+components to circuit boards. Evaporative losses do not appear to occur when liquid FCs are used to cool 
+electronic components or systems during operation. In this application, the liquid FCs are contained in closed 
+systems throughout the life of the product or system. More than 20 different liquid FCs are marketed, often as 
+mixtures of fully fluorinated compounds, to the electronic sector.5 Because the CO2 equivalents of each liquid 
+differ, each should be tracked and reported separately. The precise value of this conversion will be determined 
+by the specific applicable reporting requirements.6,7 In addition, liquid FCs are occasionally used to clean TFT-
+FPD panels during manufacture.  
+                                                           
+1  Recent comprehensive surveys of European and US PV manufacturers indicate that 40 to 50 percent of PV-manufacturers 
+use relatively small quantities of FCs (predominantly CF4 during etching of crystalline silicon wafers and C2F6 during 
+chamber cleaning after deposition of SiNx films). Global usage, according to these surveys for 2004, was approximately 30 
+Mtonnes CF4. While global FC use appears low in 2004, credible growth-forecasts of the PV industry are approximately 30 
+percent per year (and higher) for the foreseeable future. Morevoer, several reports extol the virtues of FC use as a means to 
+increase manufacturing productivity and lower costs for silicon-based technologies (Shah et al., 2004; Maycock, 2005; 
+Agostinelli et al., 2004 and Rentsch et al., 2005), Such expected growth rates and prospects for increase FC use motivate 
+inclusion of FC emissions from PV manufacture in this chapter. 
+2  Although C5F8 does not currently have a global warming potential (GWP) recognized by the IPCC, C5F8 emissions are 
+discussed in this chapter.  C5F8 is a direct greenhouse gas and emissions can be estimated using methods and data described 
+in this chapter. C5F8’s atmospheric lifetime is approximately 1 year, resulting in a relatively low GWP (Sekiya, 2003). 
+3  Emissions of C2F6 by-products have been observed from the decomposition of C4F6 molecules and may occur for other FC 
+molecules with greater than two carbon atoms. Note that for most FC precursors, C2F6 formation as a by-product has not 
+been observed. CHF3 formation has been reported when c-C4F8 is used as an etchant in TFT-FPD manufacture and C3F8 
+by-product emissions have been reported when C4F8O is used in chamber cleaning. 
+4  Low dielectric constant (low k) materials were first used as insulators for the interconnect structure of semiconductor chips 
+at the 0.25μm node and below. Many low k materials contain carbon that may be removed as CF4 during etching of thin 
+films or the cleaning of the CVD reactors used for low k deposition. CF4 may also be formed during cleaning of CVD 
+reactors used for carbide deposition. 
+5  A relatively recent review summarises the uses of liquid FCs (heat transfer fluids), their chemical composition, GWPs, 
+among other things. See Burton (2004a). 
+6  These materials are marketed under the trade names Fluorinert™ and Galden®. The Fluorinert™ materials are selected from 
+fully fluorinated alkanes, ethers, tertiary amines and aminoethers and mixtures thereof to obtain the desired properties. The 
+Galden® fluids span a range of fully fluorinated polyethers, called perfluoropolyethers (PFPEs), also selected for the 
+desired properties. 
+Volume 3: Industrial Processes and Product Use 
+6.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.2 
+METHODOLOGICAL ISSUES 
+6.2.1 
+Choice of method 
+6.2.1.1 
+ETCHING AND CVD CLEANING FOR SEMICONDUCTORS, 
+LIQUID CRYSTAL DISPLAYS, AND PHOTOVOLTAICS  
+Emissions vary according to the gases used in manufacturing different types of electronic devices, the process 
+used (or more roughly, process type (e.g., CVD or etch)), the brand of process tool used, and the implementation 
+of emission reduction technology.  
+The choice of methods will depend on data availability and is outlined in the decision tree, see Figure 6.1, 
+Decision Tree for Estimation of FC Emissions from Electronics Manufacturing. Emissions from liquid FCs are 
+estimated using Tier 1, 2 and 3 approaches and are described separately in this section.8 
+Continuous (in-situ) emissions monitoring is currently considered a technically and economically unviable 
+means to estimate emissions from this industry. FC emissions are periodically measured, however, during the 
+development of new processes and tools, and after the establishment of commercial-ready process conditions 
+(also known as centreline process conditions).9 The industry seeks, prior to the introduction of high-volume 
+manufacturing, centreline process designs that minimize FC emissions. However, it must be noted that FC 
+emissions can be affected by changes in process variables (e.g., pressure, temperature, plasma power, FC gas 
+flow, processing time). Thus, the accuracy of the methods used for estimating emissions will be affected by 
+eventual differences between the process used in production and the reference centreline process. In addition, the 
+efficacy of FC emission control equipment depends on operating and maintaining the equipment according to the 
+manufacturer’s specifications: Increased gas flows, improper temperature settings, and failure to perform 
+required maintenance will individually and collectively negatively impact performance.  
+The accuracy of estimated emissions depends on the method used. The Tier 1 method uses default values for all 
+parameters and does not account for the use of emission control technology. The Tier 2a method uses company-
+specific data on the proportion of gas used in processes with and without emission control technology, but does 
+not distinguish between etching and cleaning, and uses default values for the other parameters. The Tier 2b 
+method uses company-specific data on the proportion of gas used in etching versus cleaning and the proportion 
+of gas used in processes with emission control technology, but relies on default values for some or all of the 
+other parameters. The most rigorous method, Tier 3 method, requires a complete set of process-specific values 
+rather than defaults.  
+Table 6.1 summarises the data requirements for the tiered emissions estimating methods for electronics 
+manufacturing. 
+                                                                                                                                                                                     
+7  Where a commercial mixture is used inventory compilers will need to ensure that the conversion of the mass of the mixture 
+to CO2 equivalents uses the appropriate conversion factors. 
+8  The logic depicted in Figure 6.1 does not show the possibility of combining tiers to improve estimates of emissions. For 
+example, improved estimates of emissions might be achieved by using Tier 3 for a specific gas and process and Tier 2b for 
+other gases and processes instead of using only the Tier 2b method. Similarly, the Tier 2a and 2b methods might be 
+combined to produce an improved estimate compared to using only Tier 2a. However, the Tier 1 method should not be 
+combined with any other method. 
+9  Centreline conditions refer to the conditions under which equipment manufacturers standardise their equipment for sale. 
+These are nominal specifications for gas flows, chamber pressure, processing time, plasma power, etc. It is common for 
+semiconductor manufacturers to modify these conditions to optimise for particular needs. 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.7 
+ 
+TABLE 6.1 
+INFORMATION SOURCES NECESSARY FOR COMPLETING THE TIERED EMISSION ESTIMATING METHODS FOR 
+ELECTRONICS MANUFACTURING 
+ 
+Data 
+Tier 1 
+Tier 2a 
+Tier 2b 
+Tier 3 
+FCi,p = kg of gas i fed into specific process 
+p or small set of common process tools 
+(e.g., silicon nitride etch). 
+ 
+ 
+ 
+M 
+FCi,p = kg of gas i fed into broad process 
+category (e.g., etching or CVD chamber 
+cleaning). 
+ 
+M 
+M(etch) & 
+M(CVD) 
+ 
+Process Gas Entering 
+Tool 
+h = Fraction of gas remaining in shipping 
+container after use (heel).  
+ 
+D 
+D 
+M 
+Ui,p = Use rate (fraction destroyed or 
+transformed) for each gas i and process p. 
+ 
+D 
+D(etch) & 
+D(CVD) a 
+M 
+Process Gas 
+Reactions and 
+Destruction in 
+Tool 
+BCF4,i,p, BC2F6,i,p, BCHF3,i,p and BC3F8,i,p = 
+Emission factor for by-product emissions 
+of CF4, C2F6, CHF3 and C3F8 respectively 
+for gas i for each process. 
+ 
+D 
+D(etch) & 
+D(CVD) a 
+M 
+ai,p = Fraction of gas i volume fed into 
+processes with certified FC emission 
+control technologies. 
+ 
+M 
+M 
+M 
+di,p = Fraction of gas i destroyed by the 
+emission control technology. 
+ 
+D 
+D a 
+M 
+Downstream FC Emission 
+Control 
+dCF4,p, dC2F6,p, dCHF3,p and dC3F8,p = Fraction 
+of CF4, C2F6, CHF3 and C3F8 by-products 
+respectively destroyed by the emission 
+control technology.b 
+ 
+ 
+ 
+M 
+Cd = Annual manufacturing design 
+capacity in surface area of substrate 
+processed (e.g., silicon, glass). 
+M 
+ 
+ 
+ 
+Annual 
+Production 
+Capacity 
+Cu = Fraction of annual capacity utilisation 
+D/M 
+ 
+ 
+ 
+M = measure or acquire these values. 
+D = Use default factors from guidance. 
+a When available and supportable, M values may be substituted for D values for Tier 2a and 2b. See conditions in Table 6.6. 
+b There are no default values for Tier 2a and Tier 2b because the effect of by-products has been incorporated into the D-values for 
+di,p for gas i. 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+6.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 6.1 
+Decision tree for estimation of FC emissions from electronics manufacturing 
+Start
+Are FC
+activity data available
+from electronics
+companies?
+No
+Is
+Electronics
+Industry a key category1 and is
+this subcategory
+sinificant?
+Estimate emissions
+using the Tier 2b 
+method.
+Box 3: Tier 2b
+Estimate emissions
+using the Tier 1
+method.
+Box 1: Tier 1
+Yes
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Collect activity and
+emissions data from
+electronics companies.
+Are
+national data available
+on annual electronics production 
+capacities by substrate area
+(e.g., silicon or 
+glass)?
+Yes
+No
+Yes
+Do
+reporting companies
+track FC gas usage by process 
+type (i.e., CVD clean
+and etch)?
+Do
+companies that
+report use process-specific 
+emission factors?
+Develop or obtain
+data on annual
+production capacity
+by substrate area for
+each sector.
+Estimate emissions
+using the Tier 2a
+method.
+Estimate emissions
+using the Tier 3
+method.
+Box 2: Tier 2a
+Box 4: Tier 3
+Yes
+No
+Yes
+No
+No
+ 
+ 
+TIER 1 METHOD – DEFAULT 
+The Tier 1 method is the least accurate estimation method and should be used only in cases where company-
+specific data are not available. The Tier 1 method, unlike the Tier 2 or 3 methods, is designed to give an 
+aggregated estimate of FC emissions although its methodology appears to produce gas-specific emissions. 
+Estimates are made simultaneously for all gases as listed in Table 6.2 and can only be used if reported as a 
+complete set. 
+The calculation of emissions relies on a fixed set of generic emissions factors. The members of the set differ 
+depending on the sector (or class) of electronic products being manufactured (semiconductors, TFT-FPDs or PV-
+cells). Each member of a set, which is a gas-specific emission factor, expresses an average emissions per unit of 
+substrate area (e.g., silicon, TFT-FPD panel or PV-cell) consumed during manufacture. For any class of 
+electronic products, the factors (members of the set) are multiplied by the annual capacity utilisation (Cu, a 
+fraction) and the annual manufacturing design capacity (Cd, in units of giga square meters (Gm2)) of substrate 
+processes. The product (Cu • Cd) is an estimate of the quantity of substrate consumed during electronics 
+manufacture. The result is a set of annual emissions expressed in kg of the gases that comprise the set for each 
+class of electronic products. Because the use of FCs varies widely during PV manufacture, a third factor to 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.9 
+account for the proportion of PV manufacture that employs FC is needed to estimate FC emissions from the PV 
+cells manufacturing. The Tier 1 formula is shown in Equation 6.1. 
+EQUATION 6.1 
+TIER 1 METHOD FOR ESTIMATION OF THE SET OF FC EMISSIONS 
+{
+}
+(
+)
+[
+]
+{
+}
+(
+n)
+i
+C
+C
+C
+EF
+FC
+PV
+d
+u
+i
+i
+,
+,1
+1
+K
+=
+−
++
+•
+•
+•
+•
+=
+n
+n
+δ
+δ
+ 
+Where: 
+{FCi}n = emissions of FC gas i, mass of gas i  
+Note: { }n denotes the set for each class of products (semiconductors, TFT-FPD or PV-cells) and n 
+denotes the number of gases included in each set (six for semiconductors, three for TFT-FPD 
+manufacture and two for PV-cells. See Table 6.2.). The estimates are only valid if made and reported 
+for all members of the set using this Tier 1 methodology.  
+EFi = FC emission factor for gas i expressed as annual mass of emissions per square meters of substrate 
+surface area for the product class, (mass of gas i)/m2 
+Cu = fraction of annual plant production capacity utilisation, fraction 
+Cd = annual manufacturing design capacity, Gm2of substrate processed, except for PV manufacturing 
+which is Mm2 
+CPV = fraction of PV manufacture that uses FCs, fraction 
+δ = 1 when Equation 6.1 is applied to PV industry and zero when Equation 6.1 is applied to either 
+semiconductor or TFT-FPD industries, dimensionless 
+This method does not account for differences among process types (etching versus cleaning), individual 
+processes, or tools. It also does not account for the possible use of atmospheric emission-control devices. 
+In using Tier 1, inventory compilers should not modify, in any way, the set of the FCs assumed in Table 6.2. 
+Inventory compilers should not combine emissions estimated using Tier 1 method with emissions estimated 
+using the Tier 2 or 3 methods. Neither may inventory compilers use, for example, the Tier 1 factor for CF4 to 
+estimate the emissions of CF4 from semiconductors and combine it with the results of other FC gases from a Tier 
+2 or Tier 3 method. (See also Section 6.2.2.1.) 
+ 
+TIER 2a METHOD – PROCESS GAS-SPECIFIC PARAMETERS 
+This method calculates emissions for each FC used on the basis of company-specific data on gas consumption 
+and on emission control technologies. It uses industry-wide default values for the ‘heel’ or fraction of the 
+purchased gas remaining in the shipping container after use (h), the fraction of the gas ‘used’ (destroyed or 
+transformed) in the semiconductor or TFT-FPD manufacturing process, and the fraction of the gas converted into 
+CF4 or C2F6 during the process. To use the Tier 2a method inventory compilers must have direct communication 
+with industry (e.g., annual emissions reporting) to gather data and ensure that emission control technologies are 
+installed and in use.  
+Total emissions are equal to the sum of emissions from the gas FCi used in the production process plus the 
+emissions of by-product CF4, C2F6, CHF3 and C3F8 resulting from use of the gas FCi., as shown in Equations 6.2, 
+6.3, 6.4, 6.5 and 6.6. Unlike the Tier 3 and 2b methods that are explained later in this section, the Tier 2a 
+method does not distinguish between processes or process types (etching versus cleaning), individual processes 
+or tools. The default emission factors represent weighted averages (based on expert judgments of weights), 
+formed separately for each gas, over all etch and CVD processes. 
+As discussed below in the section on emission factors, the Tier 2a method uses the emission factor for the 
+process type (CVD or etch) in which the individual FC is most frequently used in the particular electronics sector. 
+This method reflects a current trend where individual FCs tend to be used predominantly in particular process 
+types (CVD or etch) throughout each industry. However, in countries with companies or plants that depart 
+significantly from the industry-wide pattern of usage (e.g., by using a gas primarily in etch while others 
+primarily use it in CVD), inventory compilers should evaluate the potential to introduce error by using the Tier 
+2a method rather than the Tier 2b method. 
+Volume 3: Industrial Processes and Product Use 
+6.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+EQUATION 6.2 
+TIER 2a METHOD FOR ESTIMATION OF FC EMISSIONS 
+(
+)
+(
+) (
+i )
+i
+i
+i
+i
+d
+a
+U
+FC
+h
+E
+•
+−
+•
+−
+•
+•
+−
+=
+1
+1
+1
+ 
+Where: 
+Ei = emissions of gas i, kg 
+FCi = consumption of gas i,(e.g., CF4, C2F6, C3F8, c-C4F8, c-C4F8O, C4F6, C5F8, CHF3, CH2F2, NF3, SF6), 
+kg 
+h = fraction of gas remaining in shipping container (heel) after use, fraction 
+Ui = use rate of gas i (fraction destroyed or transformed in process), fraction 
+ai = fraction of gas i volume used in processes with emission control technologies (company- or plant-
+specific), fraction 
+di = fraction of gas i destroyed by the emission control technology, fraction 
+ 
+EQUATION 6.3 
+BY-PRODUCT EMISSIONS OF CF4 
+(
+)
+(
+4 )
+,4
+,4
+1
+1
+CF
+i
+i
+i
+CF
+CF i
+d
+a
+FC
+B
+h
+BPE
+•
+−
+•
+•
+•
+−
+=
+ 
+Where:  
+BPECF4,i = by-product emissions of CF4 from the gas i used, kg 
+BCF4,i = emission factor, kg CF4 created/kg gas i used 
+dCF4 = fraction of CF4 by-product destroyed by the emission control technology, fraction 
+ 
+EQUATION 6.4 
+BY-PRODUCT EMISSIONS OF C2F6 
+(
+)
+(
+6 )
+2
+,6
+2
+,6
+2
+1
+1
+C F
+i
+i
+i
+C F
+i
+C F
+d
+a
+FC
+B
+h
+BPE
+•
+−
+•
+•
+•
+−
+=
+ 
+Where:  
+BPEC2F6,i = by-product emissions of C2F6 from the gas i used, kg 
+BC2F6,i = emission factor, kg C2F6 created/kg gas i used 
+dC2F6 = fraction of C2F6 by-product destroyed by the emission control technology, fraction 
+ 
+EQUATION 6.5 
+BY-PRODUCT EMISSIONS OF CHF3 
+(
+)
+(
+3 )
+,3
+,3
+1
+1
+CHF
+i
+i
+i
+CHF
+CHF i
+d
+a
+FC
+B
+h
+BPE
+•
+−
+•
+•
+•
+−
+=
+ 
+Where: 
+BPECHF3,i = by-product emissions of CHF3 from the gas i used, kg 
+BCHF3,i = emission factor, kg CHF3 created/kg gas i used 
+dCHF3 = fraction of CHF3 by-product destroyed by the emission control technology, fraction 
+ 
+EQUATION 6.6 
+BY-PRODUCT EMISSIONS OF C3F8 
+(
+)
+(
+3 8 )
+,8
+3
+,8
+3
+1
+1
+C F
+i
+i
+i
+C F
+i
+C F
+d
+a
+FC
+B
+h
+BPE
+•
+−
+•
+•
+•
+−
+=
+ 
+Where: 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.11 
+BPEC3F8,i = by-product emissions of C3F8 from the gas i used, kg 
+BC3F8,i = emission factor, kg C3F8 created/kg gas i used 
+dC3F8 = fraction of C3F8 by-product destroyed by the emission control technology, fraction 
+After estimating the emission of gas i (Ei) and the CF4, C2F6, CHF3 and C3F8 by-product emissions for each gas 
+(BPECF4,i, BPEC2F6,i, BPECHF3,i and BPEC3F8,i), inventory compilers or companies should sum these emissions 
+across all gases to estimate the total aggregate FC emissions. 
+ 
+TIER 2b METHOD – PROCESS TYPE-SPECIFIC PARAMETERS 
+The Tier 2b method requires data on the aggregate quantities of each gas fed into all etching processes and all 
+cleaning processes (FCi,p). Thus, it distinguishes only between broad process types (etching vs. CVD chamber 
+cleaning), but it does not distinguish among the many possible individual processes or small sets of processes. 
+Industry-wide default values can be used for any or all of the following: 
+• 
+the fraction of the gas remaining in the shipping container after use termed the ‘heel’ (h); 
+• 
+the fraction of the gas ‘used’ (destroyed or transformed) per process type (Ui,p); 
+• 
+the emission factor for CF4 by-product emissions in the process type (BCF4,i,p); 
+• 
+the emission factor for C2F6 by-product emissions in the process type (BC2F6,i,p); 
+• 
+the emission factor for CHF3 by-product emissions in the process type (BCHF3,i,p)); and 
+• 
+the emission factor for C3F8 by-product emissions in the process type (BC3F8,i,p). 
+Defaults are also presented (see Table 6.6) for the fraction of the gas destroyed by the emissions control 
+technology by process type (di,p, dCF4,p, dC2F6,p, dCHF3,p and dC3F8,p). Unless emission control technologies are 
+installed, the default value for ai,p, the fraction of gas volume fed into processes with emission control 
+technologies, is zero. The default values for Ui,p, BCF4,i,p, BC2F6,i,p, BCHF3,i,p and BC3F8,i,p represent simple 
+unweighted averages, formed separately for each gas, over all etch processes and over all CVD processes. 
+Company or plant-specific emission factors may be substituted for default values when available. The equations 
+account for the plant-specific use of emission-control devices, but do not account for differences among 
+individual processes or tools or among manufacturing plants in their mix of processes and tools. Thus, Tier 2b 
+estimates will be less accurate than Tier 3 estimates. Also, note that the Tier 2b method is applicable to 
+semiconductor and TFT-FPD manufacture. 
+Emissions resulting from the use of a specific FC (FCi) consist of emissions of FCi itself plus emissions of CF4, 
+C2F6, CHF3 and C3F8 created as  by-products during use of FCi. The following calculation should be repeated for 
+each gas for each process type: 
+EQUATION 6.7 
+TIER 2b METHOD FOR ESTIMATION OF FC EMISSIONS 
+(
+)
+(
+) (
+)
+[
+]
+∑
+•
+−
+•
+−
+•
+•
+−
+=
+p
+i p
+i p
+i p
+i p
+i
+d
+a
+U
+FC
+h
+E
+,
+,
+,
+,
+1
+1
+1
+ 
+Where: 
+Ei = emissions of gas i, kg 
+p = process type (etching vs. CVD chamber cleaning) 
+FCi,p = mass of gas i fed into process type p (e.g., CF4, C2F6, C3F8, c-C4F8, c-C4F8O, C4F6, C5F8, CHF3, 
+CH2F2, NF3, SF6), kg 
+h = fraction of gas remaining in shipping container (heel) after use, fraction 
+Ui,p= use rate for each gas i and process type p (fraction destroyed or transformed), fraction 
+ai,p = fraction of gas i volume fed into process type p with emission control technologies (company-or 
+plant-specific), fraction 
+di,p = fraction of gas i destroyed by the emission control technology used in process type p (If more than 
+one emission control technology is used in process type p, this is the average of the fraction 
+destroyed by those emission control technologies, where each fraction is weighted by the quantity of 
+gas fed into tools using that technology), fraction 
+Volume 3: Industrial Processes and Product Use 
+6.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+EQUATION 6.8 
+BY-PRODUCT EMISSIONS OF CF4 
+(
+)
+(
+)
+[
+]
+∑
+•
+−
+•
+•
+•
+−
+=
+p
+p
+CF
+i p
+i p
+i p
+CF
+CF i
+d
+a
+FC
+B
+h
+BPE
+,4
+,
+,
+,4 ,
+,4
+1
+1
+ 
+Where:  
+BPECF4,i = by-product emissions of CF4 converted from the gas i used, kg 
+BCF4,i,p = emission factor for by-product emissions of CF4 converted from gas i in process type p, kg CF4 
+created/kg gas i used 
+dCF4,p = fraction of CF4 by-product destroyed by the emission control technology used in process type p 
+(e.g., control technology type listed in Table 6.6), fraction 
+ 
+EQUATION 6.9 
+BY-PRODUCT EMISSIONS OF C2F6 
+(
+)
+(
+)
+[
+]
+∑
+•
+−
+•
+•
+•
+−
+=
+p
+p
+C F
+i p
+i p
+i p
+C F
+i
+C F
+d
+a
+FC
+B
+h
+BPE
+,6
+2
+,
+,
+,6 ,
+2
+,6
+2
+1
+1
+ 
+Where:  
+BPEC2F6,i = by-product emissions of C2F6 converted from the gas i used, kg 
+BC2F6,i,p = emission factor for by-product emissions of C2F6 converted from gas i in process type p, kg 
+C2F6 created/kg gas i used 
+dC2F6,p = fraction of C2F6 by-product destroyed by the emission control technology used in process type p 
+(e.g., control technology type listed in Table 6.6), fraction 
+ 
+EQUATION 6.10 
+BY-PRODUCT EMISSIONS OF CHF3 
+(
+)
+(
+)
+[
+]
+∑
+•
+−
+•
+•
+•
+−
+=
+p
+p
+CHF
+i p
+i p
+i p
+CHF
+CHF i
+d
+a
+FC
+B
+h
+BPE
+,3
+,
+,
+,3 ,
+,3
+1
+1
+ 
+Where: 
+BPECHF3,i = by-product emissions of CHF3 converted from the gas i used, kg 
+BCHF3,i,p  = emission factor for by-product emissions of CHF3 converted from gas i in process type p, kg 
+CHF3 created/kg gas i used 
+dCHF3,p = fraction of CHF3 by-product destroyed by the emission control technology used in process type p 
+(e.g., control technology type listed in Table 6.6), fraction 
+ 
+EQUATION 6.11 
+BY-PRODUCT EMISSIONS OF C3F8 
+(
+)
+(
+)
+[
+]
+∑
+•
+−
+•
+•
+•
+−
+=
+p
+p
+C F
+i p
+i p
+i p
+C F
+i
+C F
+d
+a
+FC
+B
+h
+BPE
+,8
+3
+,
+,
+,8 ,
+3
+,8
+3
+1
+1
+ 
+Where: 
+BPEC3F8,i = by-product emissions of C3F8 from the gas i used, kg 
+BC3F8,i,p = emission factor for by-product emissions of C3F8 converted from gas i in process type p, kg 
+C3F8 created/kg gas i used 
+dC3F8,p = fraction of C3F8 by-product destroyed by the emission control technology used in process type p 
+(e.g., control technology type listed in Table 6.6), fraction 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.13 
+ 
+Note that in certain etching or cleaning recipes, multiple FC precursors can be used concurrently and emissions 
+of CF4, C2F6, CHF3 or C3F8 as by-products may originate from each of the individual FC precursor 
+decomposition. In such cases, emissions of CF4, C2F6, CHF3 or C3F8 by-products should be reported as 
+originating from the FC gas with the largest mass flow. 
+ 
+TIER 3 METHOD – PROCESS-SPECIFIC PARAMETERS 
+The Tier 3 method also uses Equations 6.7, 6.8, 6.9, 6.10 and 6.11. However, this method requires company-
+specific or plant-specific values for all the parameters used in these equations for each individual process or for 
+each of small sets of processes (e.g., silicon nitride etching or plasma enhanced chemical vapour deposition 
+(PECVD) tool chamber cleaning). Therefore, when using Equations 6.7, 6.8, 6.9, 6.10 and 6.11, inventory 
+compilers need to interpret ‘p’ in these equations as a specific ‘Process’ (e.g., silicon nitride etching or plasma 
+enhanced chemical vapour deposition (PECVD) tool chamber cleaning), not as ‘Process type’. 
+For purposes of transparency and comparability, the values used for these emission parameters should be well 
+documented (see Section 6.2.2). 
+CF4 formation from C-containing films during semiconductor manufacturing 
+The Tier 2a, Tier 2b and Tier 3 methods account for CF4 emissions formed during removal via etching of 
+carbon-containing low dielectric constant (k) materials or cleaning CVD reactors containing low k or carbide 
+films during semiconductor manufacture. CF4 may be formed even if the FC precursor does not contain carbon 
+or if the FC precursor is not a greenhouse gas. 
+For example, cleaning low k CVD reactors with NF3 will produce CF4 as a by-product. In these cases, Equation 
+6.7 should be used to report NF3 emissions and the result of Equation 6.8 should be used to reflect emissions of 
+CF4 from the process. In those situations where F2, COF2, or ClF3 is used in chamber cleaning, CF4 may also be 
+formed. In this case, CF4 emissions are estimated using Equation 6.8 and the results added to the total CF4 
+emissions obtained from Equation 6.7. In both cases, BCF4,i,p should be measured as the fraction of the mass of 
+CF4 produced over the mass of clean or etch gas introduced in the reactor. 
+After estimating emissions of each FC gas and emissions of CF4, C2F6, CHF3 and C3F8 as by-products, inventory 
+compilers or companies should sum these emissions across all gases to arrive at an estimate of aggregate FC 
+emissions from a particular process. 
+BOX 6.1 
+EXAMPLE FOR SEMICONDUCTOR MANUFACTURE 
+For example, if a source used NF3 (for chamber cleaning and etch), CHF3 (etch) and CF4 (etch), 
+the total emissions, if low k films were used, are estimated using Equation 6.7 for NF3, CHF3 and 
+CF4 and Equation 6.8 for the formation of CF4 formed when removing low k films with NF3. In 
+equation form, the total is: 
+Total FC emissions = ENF3 + ECHF3 + ECF4 + BPECF4,NF3 
+6.2.1.2 
+HEAT TRANSFER FLUIDS 
+There are two methods for estimating emissions from the use of heat transfer fluids. The choice of methods will 
+depend on the availability of activity data on the use of heat transfer fluids, and is outlined in the decision tree 
+(see Figure 6.2, Decision Tree for Estimation of FC Emissions from Heat Transfer Fluids, and see Section 1.5 of 
+Chapter 1, Choosing between the Mass-Balance and Emission-Factor Approach).  
+TIER 1 – HEAT TRANSFER FLUIDS 
+Tier 1 is appropriate when company-specific data are not available on heat transfer fluids. It is the less accurate 
+of the two methods for estimating emissions from losses of heat transfer fluids. The method, unlike the Tier 2 
+method, gives an estimate of aggregate emissions - a weighted average emission across all liquid FCs that is 
+expressed as the mass of C6F1410. The calculation relies on a generic emission factor that expresses the average 
+                                                           
+10 In the absence of GWP estimates, the appropriate GWP for C6F14 has been used as a proxy (to derive the default emission 
+factor). (See the Inventory of U.S. Greenhouse Gas and Sinks: 1990-2003, the footnote to Table 4-58, page 166. (U.S. EPA, 
+2005)) 
+Volume 3: Industrial Processes and Product Use 
+6.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+aggregate emissions per unit of silicon consumed during semiconductor manufacturing. The formula is shown in 
+Equation 6.12.  
+EQUATION 6.12 
+TIER 1 METHOD FOR ESTIMATION OF TOTAL FC EMISSIONS FROM HEAT TRANSFER FLUIDS 
+d
+u
+l
+liquid total
+C
+C
+EF
+FC
+•
+•
+=
+,
+ 
+Where: 
+FCliquid, total = total FC emissions as expressed as the mass of C6F14, Mt C6F14 
+EFl = emission factor (aggregate FC emissions per Gm2 of silicon consumed during the period expressed 
+as the mass of C6F14 (See Table 6.2.)), Mt C6F14/Gm2 
+Cu = average capacity utilisation for all semiconductor manufacturing facilities in the country during the 
+period, fraction 
+Cd = design capacity of semiconductor manufacturing facilities in the country, Gm2 
+ 
+TIER 2 METHOD – HEAT TRANSFER FLUIDS 
+There is one Tier 2 method for estimating actual emissions from the use of each FC fluid. This method is a mass-
+balance approach that accounts for liquid FC usage over an annual period. It is appropriate when company-
+specific data are available. Over the course of a year, liquid FCs are used to fill newly purchased equipment and 
+to replace FC fluid loss from equipment operation through evaporation. The Tier 2 method neglects fluid losses 
+during filling new or existing equipment or when decommissioning old equipment (which is reasonable for these 
+costly fluids).11 Inventory compilers should obtain from companies the chemical composition of the fluid(s) for 
+which emissions are estimated. The method is expressed in Equation 6.13.  
+EQUATION 6.13 
+TIER 2 METHOD FOR ESTIMATION OF FC EMISSIONS FROM HEAT TRANSFER FLUIDS 
+( )
+( )
+( )
+( )
+( )
+( )
+[
+l ]
+D
+l
+I
+l
+R
+l
+N
+l
+P
+l
+I
+FC
+i t
+i t
+i t
+i t
+i t
+i t
+i
+i
+,
+,
+,
+,
+,
+, 1
+−
+−
++
+−
++
+•
+=
+−
+ρ
+ 
+Where: 
+FCi = emissions of FCi, kg 
+i
+ρ = density of liquid FCi, kg/litre 
+Ii,t-1(l) = the inventory of liquid FCi at the end of the previous period, litres 
+Pi,t(l) = net purchases of liquid FCi during the period (net of purchases and any returns), litres 
+Ni,t(l) = total charge (or nameplate capacity) of new installed, litres 
+Ri,t(l) = total charge (or nameplate capacity) of retired or sold equipment, litres 
+Ii,t(l) = inventory of liquid FCi at end of the period, litres 
+Di,t(l) = amount of FCi recovered and sent offsite from retired equipment during the period, litres 
+ 
+                                                           
+11 Prices for heat transfer fluids vary from $55 – 130/litre. 3M, a manufacturer of a popular heat transfer fluid estimates that a 
+vintage 2 000 manufacturing plant may loose 1 900 litres/year via evaporation. Manufactures of testing equipment that use 
+heat transfer fluids report loss rates of approximately 30 litres/year/system for newer designs that reduce evaporative losses 
+and 50 litres/year/system for older designs. 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.15 
+Figure 6.2 
+Decision tree for estimation of FC emissions from HT fluid loss from 
+electronics manufacturing  
+Are heat transfer fluid
+ loss data available from electronics 
+manufacturing companies?
+Start
+Estimate emissions using
+the Tier 2 method.
+Box 2: Tier 2
+Yes
+Is Electronics
+Industry a key category and is
+this subcategory
+significant? 1
+No
+Collect liquid FC use
+data from companies.
+Yes
+Estimate emissions using the
+Tier 1 method.
+No
+Box 1: Tier 1
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited 
+resources), for discussion of key categories and use of decision trees
+ 
+6.2.2 
+Choice of emission factors12 
+6.2.2.1 
+ETCHING AND CVD CLEANING FOR SEMICONDUCTORS, 
+LIQUID CRYSTAL DISPLAYS, AND PHOTOVOLTAICS 
+TIER 1 
+The default emission factors for the Tier 1 method is presented in Table 6.2 below. 
+In using Tier 1, it is not good practice to modify, in any way, the set of the FCs or the values of the emission 
+factors assumed in Table 6.2. Inventory compilers should not combine emissions estimated using Tier 1 method 
+with emissions estimated using the Tier 2 or 3 methods. For example, inventory compilers may not use the Tier 1 
+factor for CF4 to estimate the emissions of CF4 from semiconductors and combine it with the results of other FC 
+gases from a Tier 2 or Tier 3 method. It should be also noted that the Tier 1 FC emission factors presented in 
+Table 6.2 should not be used for any purpose other than estimating annual FC-aggregate emissions from 
+semiconductor, TFT-FPD or PV manufacturing for compilation of the national greenhouse gas inventory. 
+ 
+                                                           
+12 Sources and methods for developing emissions factors, if not explicitly provided in Chapter 6, can be found in Burton 
+(2006). 
+Volume 3: Industrial Processes and Product Use 
+6.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 6.2 
+TIER 1 GAS-SPECIFIC EMISSION FACTORS FOR FC EMISSIONS FROM ELECTRONICS MANUFACTURING 
+Emission Factor (EF) (Mass per Unit Area of Substrate Processed) 
+Electronics Industry Sector 
+CF4 
+C2F6 
+CHF3 
+C3F8 
+NF3 
+SF6 
+C6F14 
+Semiconductors, kg/m2 
+0.9 
+1. 
+0.04 
+0.05 
+0.04 
+0.2 
+NA 
+TFT-FPDs, g/m2 
+0.5 
+NA 
+NA 
+NA 
+0.9 
+4. 
+NA 
+PV-cellsa, g/m2 
+5 
+0.2 
+NA 
+NA 
+NA 
+NA 
+NA 
+Heat Transfer Fluidsb, kg/m2 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+0.3 
+a EFs adapted from unpublished work of Fthenakis, Alsema and Agostinelli. (Fthenakis ,2005) Note that factor is applicable only to 
+silicon-specific technologies and is applied for abatement. 
+b EF assumes HTFs have the same GWP and C6F14 represents a suitable proxy. The origin of this factor is described in Burton, 2004, 
+and is based in part on the work of Tuma and Tousignant (2001). 
+ 
+TIER 2 
+As discussed above, emissions factors based on simple electronics production variables are not adequate to 
+account for all of the factors that influence emissions. Data for each of the following parameters are necessary to 
+prepare a reliable estimate:  
+• 
+The gases used;  
+• 
+The process type (CVD or etch) used;  
+• 
+The brand of process tool used;  
+• 
+Emission reduction technology.  
+Default values have been developed for the parameters used in Tier 2a and 2b methods (See Figure 6.1) on the 
+basis of direct measurements, literature, and expert judgement (see Tables 6.3, 6.4, and 6.5 Tier 2 Default 
+Emission Factors for FCs Emissions from Semiconductor12, TFT-FPD13, and PV12 Manufacturing respectively). 
+Given the difficulty in representing the diverse production conditions within the electronics industry, default 
+emission parameters are inherently uncertain. While accuracy can be improved with larger sets of measured data 
+and where factors are applied to similar processes using similar or identical chemical recipes, developing default 
+factors necessarily involves some form of averaging across all of the data.  
+Electronics industry specialists expect that rapid technical innovation by chemical and equipment suppliers and 
+electronics manufacturers will result in major emission reductions in the future (i.e., 2006 onwards). As a result, 
+emission factors for these categories should evolve to reflect these changes. The semiconductor and TFT-FPD 
+industries have established mechanisms through the World Semiconductor Council and the World LCD Industry 
+Cooperation Committee, respectively, to evaluate global emission factors. The PV industry may be considering 
+establishing a mechanism for tracking its PFC emissions during PV manufacture. (Fthenakis, 2006) 
+FC-use during PV manufacture may or may not increase. Existing evidence suggests that, should FC-use in this 
+industry grow, efforts will be made to control their emissions (Agostinelli et al., 2004; Rentsch et al., 2005). 
+Inventory compilers may wish to periodically consult with the industry to better understand global and national 
+circumstances.  
+Tables 6.3 and 6.4 include two entries for NF3: Remote-NF3 and NF3. The first refers to a cleaning method in 
+which the film cleaning-agents formed from NF3 (F-atoms) are produced in a plasma upstream (remote) from the 
+chamber being cleaned. The last, denoted as simply NF3, refers to an in-situ NF3 cleaning process that is 
+analogous to the process for other cleaning gases like C2F6 and C3F8.  
+The default value for the fraction of gas remaining in the shipping container (heel) is 0.10. 
+                                                           
+13 The emissions factors (EFs) for TFT-FPD manufacturing are simple (unweighted) averages developed from gas- and 
+process-specific values published by Nishida et al. (2005). 
+ 
+ 
+ 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.17 
+ 
+TABLE 6.3 
+TIER 2 DEFAULT EMISSION FACTORS FOR FC EMISSIONS FROM SEMICONDUCTOR MANUFACTURING 
+ 
+Greenhouse Gases with TAR GWP 
+Greenhouse Gases 
+without TAR GWP 
+Non-GHGs 
+Producing FC 
+By-products‡
+Process Gas 
+(i) 
+CF4
+C2F6
+CHF3
+CH2F2
+C3F8
+c-C4F8
+NF3 
+Remote
+NF3 
+SF6
+C4F6
+C5F8
+C4F8O
+F2 
+COF2
+Tier 2a 
+1-Ui 
+0.9 
+0.6
+0.4 
+0.1 
+0.4 
+0.1 
+0.02 
+0.2 
+0.2
+0.1 
+0.1 
+0.1 
+NA 
+NA 
+BCF4 
+NA 
+0.2
+0.07 
+0.08 
+0.1 
+0.1 
+0.02† 
+0.09 
+NA
+0.3 
+0.1 
+0.1 
+0.02†
+0.02†
+BC2F6 
+NA 
+NA
+NA 
+NA 
+NA 
+0.1 
+NA 
+NA 
+NA
+0.2 
+0.04
+NA 
+NA 
+NA 
+BC3F8 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+0.04 
+NA 
+NA 
+Tier 2b 
+Etch 1-Ui 
+0.7* 
+0.4* 
+0.4* 
+0.06* 
+NA 
+0.2* 
+NA 
+0.2 
+0.2
+0.1 
+0.2 
+NA 
+NA 
+NA 
+CVD 1-Ui 
+0.9 
+0.6
+NA 
+NA 
+0.4 
+0.1 
+0.02 
+0.2 
+NA
+NA 
+0.1 
+0.1 
+NA 
+NA 
+Etch BCF4 
+NA 
+0.4*
+0.07* 
+0.08* 
+NA 
+0.2 
+NA 
+NA 
+NA
+0.3* 
+0.2 
+NA 
+NA 
+NA 
+Etch BC2F6 
+NA 
+NA
+NA 
+NA 
+NA 
+0.2 
+NA 
+NA 
+NA
+0.2* 
+0.2 
+NA 
+NA 
+NA 
+CVD BCF4 
+NA 
+0.1
+NA 
+NA 
+0.1 
+0.1 
+0.02† 
+0.1† 
+NA
+NA 
+0.1 
+0.1 
+0.02† 
+0.02†
+CVD BC2F6 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC3F8 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+0.04 
+NA 
+NA 
+Notes: NA denotes not applicable based on currently available information 
+‡ The default emission factors for F2 and COF2 may be applied to cleaning low-k CVD reactors with ClF3. 
+* Estimate includes multi-gas etch processes 
+† Estimate reflects presence of low-k, carbide and multi-gas etch processes that may contain a C-containing FC additive 
+ 
+Volume 3: Industrial Processes and Product Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+6.18 
+ 
+ 
+ 
+ 
+TABLE 6.4 
+TIER 2 DEFAULT EMISSION FACTORS FOR FC EMISSIONS FROM LCD MANUFACTURING 
+ 
+Greenhouse Gases with TAR GWP 
+Greenhouse Gases 
+without TAR GWP 
+Non-GHGs 
+Producing FC 
+By-products
+Process Gas 
+(i) 
+CF4
+C2F6
+CHF3
+CH2F2
+C3F8
+c-C4F8
+NF3 
+Remote
+NF3 
+SF6
+C4F6
+C5F8
+C4F8O
+F2 
+COF2
+Tier 2a 
+1-Ui 
+0.6 
+NA
+0.2 
+NA 
+NA 
+0.1 
+0.03 
+0.3 
+0.6
+NA 
+NA 
+NA 
+NA 
+NA 
+BCF4 
+NA 
+NA
+0.07 
+NA 
+NA 
+0.009
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BCHF3 
+NA 
+NA
+NA 
+NA 
+NA 
+0.02
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BC2F6 
+NA 
+NA
+0.05 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BC3F8 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Tier 2b 
+Etch 1-Ui 
+0.6 
+NA
+0.2 
+NA 
+NA 
+0.1 
+NA 
+NA 
+0.3
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD 1-Ui 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+0.03 
+0.3 
+0.9
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BCF4 
+NA 
+NA
+0.07 
+NA 
+NA 
+0.009
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BCHF3 
+NA 
+NA
+NA 
+NA 
+NA 
+0.02
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BC2F6 
+NA 
+NA
+0.05 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BCF4 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC2F6 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC3F8 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Notes: NA denotes not applicable based on currently available information 
+ 
+ 
+ 
+ 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.19 
+ 
+TABLE 6.5 
+TIER 2 DEFAULT EMISSION FACTORS FOR FC EMISSIONS FROM PV MANUFACTURING 
+ 
+Greenhouse Gases with TAR GWP 
+Greenhouse Gases without 
+TAR GWP 
+Non-GHGs 
+Producing FC 
+By-products 
+Process 
+Gas (i) 
+CF4 
+C2F6
+CHF3
+CH2F2
+C3F8
+c-C4F8
+NF3 
+Remote
+NF3 
+SF6
+C4F6
+C5F8
+C4F8O
+F2 
+COF2
+Tier 2a 
+1-Ui 
+0.7 
+0.6 
+0.4 
+NA 
+0.4 
+0.2 
+NA 
+0.2 
+0.4
+NA 
+NA 
+NA 
+NA 
+NA 
+BCF4 
+NA 
+0.2 
+NA 
+NA 
+0.2 
+0.1 
+NA 
+0.05 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BC2F6 
+NA 
+NA
+NA 
+NA 
+NA
+0.1 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BC3F8 
+NA 
+NA
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Tier 2b 
+Etch 1-Ui 
+0.7 
+0.4 
+0.4 
+NA 
+NA
+0.2 
+NA 
+NA 
+0.4
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD 1-Ui 
+NA 
+0.6 
+NA 
+NA 
+0.1 
+0.1 
+NA 
+0.3 
+0.4
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BCF4 
+NA 
+0.2 
+NA 
+NA 
+NA
+0.1 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BC2F6 
+NA 
+NA
+NA 
+NA 
+NA
+0.1 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BCF4 
+NA 
+0.2 
+NA 
+NA 
+0.2 
+0.1 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC2F6 
+NA 
+NA
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC3F8 
+NA 
+NA
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Notes: NA denotes not applicable based on currently available information 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+6.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 6.6 
+TIER 2a & 2b DEFAULT EFFICIENCY PARAMETERS FOR ELECTRONICS INDUSTRY FC EMISSION REDUCTION 
+TECHNOLOGIESa,b,e 
+Emission Control Technology  
+CF4
+C2F6
+CHF3
+C3F8
+c-C4F8 
+NF3
+f 
+SF6 
+Destructionc 
+0.9
+0.9 
+0.9 
+0.9 
+0.9 
+0.95 
+0.9 
+Capture/Recoveryd 
+0.75
+0.9 
+0.9 
+NT 
+NT 
+NT 
+0.9 
+a Values are simple (unweighted) averages of destruction efficiencies for all abatement technologies. Emission factors do not apply to 
+emission control technologies which cannot abate CF4 at destruction or removal efficiency (DRE) ≥ 85 percent when CF4 is present as 
+an input gas or by-product and all other FC gases at DRE ≥ 90 percent. If manufacturers use any other type of emission control 
+technology, its destruction efficiency is 0 percent when using the Tier 2 methods. 
+b Tier 2 emission control technology factors are applicable only to electrically heated, fuelled-combustion, plasma, and catalytic devices 
+that  
+• 
+are specifically designed to abate FCs,  
+• 
+are used within the manufacturer’s specified process window and in accordance with specified maintenance schedules and 
+• 
+ have been measured and has been confirmed under actual process conditions, using a technically sound protocol, which 
+accounts for known measurement errors including, for example, CF4 by-product formation during C2F6 as well as the effect 
+of dilution, the use of oxygen or both in combustion abatement systems  
+c Average values for fuelled combustion, plasma, and catalytic abatement technologies. 
+d Average values for cryogenic and membrane capture and recovery technologies. 
+e Vendor data verified by semiconductor manufacturers. Factors should only be used when an emission control technology is being 
+utilised and maintained in accordance with abatement manufacturer specifications. 
+f Use of NF3 in the etch process is typically small compared to CVD. The aggregate emissions of NF3 from etch and CVD under Tier 2b 
+will usually not be greater than estimates made with Tier 2a or Tier 1 methods. 
+NT = not tested. 
+ 
+Process tool emission factors 
+The procedures for calculating process tool emission factors for Tier 2a and Tier 2b methods are identical. 
+Process tool emission factors are defined as the amount of greenhouse gas emitted divided by the amount of 
+greenhouse gas used in the process. The emission factors correspond to the ‘(1 – Ui)’ term in the Tier 2 formulas. 
+For example, the emission factor of 0.9 for CF4 (see Table 6.3 above, Tier 2a value) means that 90 percent of the 
+CF4 used in the process is emitted as CF4.  
+By-product emission factors were also calculated. The major by-product emission of significance is CF4. While 
+it is generally held that the only gases that emit significant amounts of CF4 as a by-product are C2F6 and C3F8, 
+the data provided by tool manufacturers and chemical suppliers showed that CF4 is also formed from mixtures of 
+gases (e.g., that contain CHF3 or CH2F2) and c-C4F8. As a result of this discussion, CF4 by-product emission 
+factors were calculated for CHF3, CH2F2, C2F6, C3F8, c-C4F8 and C4F8O. For example, a value of 0.1for C3F8 
+(taken from Table 6.3 above, Tier 2a value) means that 10 percent of the C3F8 used is converted into CF4. 
+However, C2F6 may also be emitted from the decomposition of molecules such as C4F6. As described previously, 
+CF4 may also be formed when etching or cleaning chambers where carbon-containing films are present. 
+In order to calculate the Tier 2b process tool emission factors, data were collected from process equipment and 
+gas manufacturers. The data were collected according to process type (either Chemical Vapour Deposition (CVD) 
+or etch) and also by type of gas (e.g. C2F6, CF4). The methods used to conduct the emissions testing were real 
+time Quadrupole Mass Spectrometry (QMS) and Fourier Transform Infrared Spectroscopy (FTIR), the best 
+known methods for measuring process tool emissions. Calibration standards (usually 1 percent mixtures with a 
+balance of N2) were used to quantify the results. The measurement protocol and quality control requirements that 
+were followed are outlined in the ‘Guidelines for Environmental Characterisation of Semiconductor Equipment.’ 
+(Meyers et al., 2001)14 The emission factors for Tier 2b (see Tables 6.3 and 6.4 above) are the simple 
+(unweighted) average of the data collected for each gas for etch and CVD, rounded to one significant figure.12, 16  
+In order to determine the Tier 2a process tool emission factors, knowledge of the amounts of gas used in typical 
+semiconductor manufacturing processes is required. The Tier 2a emission factors were obtained using weights 
+provided by industry experts for the proportion of each gas used in etching and cleaning processes. For example, 
+the Tier 2b emission factors for C2F6 (Table 6.3) are 0.5 (etch) and 0.6 (CVD). The distribution of C2F6 usage 
+between etching and CVD chamber cleaning processes during semiconductor manufacture is 20:80. Applying 
+these weights to each of the emission factors gives 0.6 for the Tier 2a factor for C2F6 to one significant figure. 
+                                                           
+14 These guidelines have also been adopted by flat panel display manufacturers for measuring FC-emissions during flat panel 
+device manufacture. 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.21 
+The corresponding distribution of SF6 usage in TFT-FPD manufacture is 50:50, which gives 0.6 for 
+corresponding Tier 2a emission factor (Table 6.4).15  
+For Tier 3 emission factors, semiconductor manufacturers use company or plant-specific values rather than using 
+default values as listed in Table 6.1 above. In order to assure the quality of emission factors, emission testing 
+should be conducted in accordance with accredited methods.16 If a third-party supplier conducts the emissions 
+testing, the semiconductor manufacturer should make sure that the third-party supplier is capable of meeting all 
+of the requirements outlined in Revision 3.0 of the Equipment Environmental Characterisation Guidelines (SIA, 
+2000). Semiconductor manufacturers who use emission factors provided by the process tool equipment supplier 
+should make sure that the emission factors are applicable to their specific manufacturing process. Manufacturing 
+methods with process parameters (e.g., pressure, flow rate) that deviate from centreline conditions may have 
+different emission factors than those provided by the tool manufacturer. 
+Emission control technology factors for Tier 2 methods 
+Emissions control technologies are developing at a rapid pace along with electronics manufacturing technology. 
+Default control technology emission factors in Table 6.6 are based on tests of control devices that have been 
+optimised for specific processes and tools. Results are expected to vary across tools and gas flow rates. Emission 
+factors are not applicable to all tools or processes in semiconductor, liquid crystal display, or photovoltaic 
+manufacturing facilities. The Tier 2 default destruction efficiency parameters presented in Table 6.6 are only 
+applicable when the inventory compiler can demonstrate through communication with facility managers and 
+subsequent documentation that emissions control technologies are operated and maintained in accordance with 
+manufacturer specifications. If companies use any other type of abatement device, they should assume that its 
+destruction efficiency is 0 percent under the Tier 2 a and b methods.  
+Assumptions for the emissions control technology emission factors for the Tier 2 (a & b) methods include: 
+(i) Specific emissions control technologies are not listed; emission factors for each chemical were 
+established based on results achieved during testing of emissions control technologies in 
+semiconductor manufacturing applications; 
+(ii) Emission factors should only be used when abatement is applied to emissions that fall within the 
+operating range specified by the abatement manufacturer to meet or exceed the factors listed in Table 
+6.6;  
+(iii) Emission factors apply only to that portion of emissions that pass through a properly operating and 
+maintained control device; emission factors should not be applied when control device is bypassed, 
+not operating according to manufacturer specifications, or not maintained in accordance with 
+specifications.  
+(iv) Emission factors do not apply to emission control technologies which cannot abate CF4 at a destruction 
+removal efficiency (DRE) ≥ 85 percent when CF4 is present as an input gas or by-product and all other 
+FC gases at DRE ≥ 90 percent. If manufacturers use any other type of emission control technology, its 
+destruction efficiency is 0 percent when using the Tier 2 methods.  
+The default Tier 2 emission control factors in Table 6.6, Default Efficiency Parameters for Electronics Industry 
+FC Emission Reduction Technologies were calculated from data received from equipment suppliers, abatement 
+technology suppliers and electronic device manufacturers. It should be noted that only data from abatement 
+devices that were specifically designed to abate FCs were used in the calculation. Data were received from 
+combustion abatement devices (all of which used some type of fuel), plasma abatement devices, electrically 
+heated abatement devices, and catalytic abatement devices. 
+The values presented in Table 6.6, Default Efficiency Parameters for Electronics Industry FC Emission 
+Reduction Technologies, are the results of all of the data received for optimized technologies and for each input 
+gas, rounded down to the next 5 percent (e.g., an average of 98 percent would be rounded down to 0.95). The 
+averages were rounded down to reflect that (i) emissions control devices vary in their efficacy depending upon 
+what gas they are optimised to destroy, and (ii) the efficacy of emission control devices depends on the type of 
+tool they are installed on (150, 200 or 300mm wafers) and the amount of FC gas flown through that particular 
+tool, and total exhaust flow through the emissions control device. An emission control device that can destroy 99 
+percent of a FC when it is optimised to destroy that FC on a certain tool may destroy less than 95 percent of that 
+FC when it is optimised to destroy something else or when it is used on a tool for which it was not designed, or if 
+the FC or total exhaust flow exceeds a certain limit. Electronics manufacturers and abatement tool manufacturers 
+                                                           
+15  The 50:50 SF6 usage rates represent an average for the leading TFT-FPD manufacturing regions of Japan, Republic of 
+Korea and Taiwan. That proportion was provided by Nishida (2006) and Kim (2006). 
+16 One example of an internationally accredited testing method is Meyers et al. (2001). 
+Volume 3: Industrial Processes and Product Use 
+6.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+should ensure that the abatement system installed is properly sized and maintained and that the emission control 
+device can meet or exceed the default emission factor highlighted in Table 6.6.  
+6.2.2.2 
+HEAT TRANSFER FLUIDS 
+The emission factor for the Tier 1 method is presented in Table 6.2. There is no emission factor for the Tier 2 
+method for estimating emissions from evaporation of heat transfer fluids. 
+6.2.3 
+Choice of activity data 
+Activity data for the electronics industry consists of data on gas sales and use or the annual amount of electronics 
+substrate processed (e.g., m2 of silicon processed for semiconductors). For the more data-intensive Tier 2 
+methods, gas purchase data at the company or plant-level are necessary. For the Tier 1 methods, inventory 
+compilers will need to determine the total surface area of electronic substrates processed for a given year. Silicon 
+consumption may be estimated using an appropriate edition of the World Fab Watch (WFW) database, published 
+quarterly by Semiconductor Equipment & Materials International (SEMI)17. The database contains a list of 
+plants (production as well as R&D, pilot plants, etc.) worldwide, with information about location, design 
+capacity, wafer size and much more. Similarly, SEMI’s ‘Flat Panel Display Fabs on Disk’ database provides an 
+estimate of glass consumption for global TFT-FPD manufacturing.  
+The activity data in Table 6.7 reflect design capacity figures. Semiconductor and TFT-FPD manufacturing plants 
+are not operated at design capacities for sustained periods, such as a full year. Instead, the capacity fluctuates 
+depending on product demand. For semiconductor manufacturing, publicly available industry statistics show that 
+the global annual average capacity utilisation during the period 1991 – 2000 varied between 76 and 91 percent, 
+with an average value of 82 percent and most probable value of 80 percent. When country-specific capacity 
+utilisation data are not available, the suggested capacity utilisation for semiconductor manufacturing is 80 
+percent. This should be used consistently for a time series of estimates. For TFT-FPD manufacturing, publicly 
+available capacity utilisation data are not available. The TFT-FPD manufacturing industry, like the 
+semiconductor manufacturing industry, lowers product prices to maintain the highest practical plant capacity 
+utilisation. By analogy, therefore, it is suggested to use 80 percent to estimate substrate glass consumption using 
+the design capacities provided in Table 6.7 for country TFT-FPD manufacturers. For PV manufacturing, 
+published capacity utilisation data ranges between 77 – 92 percent, with the average for the years 2003 and 2004 
+of 86 percent. Therefore, 86 percent is the recommended default figure for Cu (see Equation 6.1) to use. 
+When estimating emissions during PV manufacture, one should account for the fraction of the industry that 
+actually employs FCs (CPV in Equation 6.1). Because recent surveys indicate that between 40 – 50 percent of PV 
+manufacture actually uses FC, and the usage trend may be increasing, the recommended default value for CPV is 
+0.5.  
+Table 6.7 summarises the capacity for 2003, 2004 and 2005 for countries, which in total, account for more than 
+90 percent of world capacity in 2003.  
+ 
+                                                           
+17 The term ‘fab’ is synonymous with clean room/manufacturing facility. Semiconductor and flat panel display manufacturing 
+plants are often called fabrication plants, from which the abbreviation ‘fab’ follows. 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.23 
+TABLE 6.7 
+COUNTRY TOTAL SILICON (Si) AND GLASS DESIGN CAPACITIES (Mm2) FOR 2003, 2004 AND 2005 
+ 
+Annual Si design capacities, Mm2 
+Annual Glass design capacities, Mm2 
+Country Totals 
+20031 
+20042 
+20052 
+20031 
+20042 
+20052 
+Australia 
+0.0008 
+0.0008 
+0.0008 
+NA 
+NA 
+NA 
+Austria 
+0.0201 
+0.0201 
+0.0201 
+NA 
+NA 
+NA 
+Belgium  
+0.0040 
+0.0040 
+0.0040 
+NA 
+NA 
+NA 
+Canada  
+0.0041 
+0.0041 
+0.0041 
+NA 
+NA 
+NA 
+China  
+0.1436 
+0.1982 
+0.3243 
+0.0432 
+0.0432 
+0.8154 
+Czech Republic  
+0.0057 
+0.0057 
+0.0057 
+NA 
+NA 
+NA 
+France  
+0.0653 
+0.0674 
+0.0674 
+NA 
+NA 
+NA 
+Germany  
+0.1622 
+0.1622 
+0.1622 
+NA 
+NA 
+NA 
+China, Hong Kong  
+0.0059 
+0.0059 
+0.0059 
+NA 
+NA 
+NA 
+Hungary  
+0.0006 
+0.0006 
+0.0006 
+NA 
+NA 
+NA 
+India 
+0.0128 
+0.0128 
+0.0128 
+NA 
+NA 
+NA 
+Ireland  
+0.0175 
+0.0430 
+0.0430 
+NA 
+NA 
+NA 
+Israel  
+0.0310 
+0.0310 
+0.0564 
+NA 
+NA 
+NA 
+Italy  
+0.0431 
+0.0431 
+0.0609 
+NA 
+NA 
+NA 
+Japan  
+0.9091 
+0.9235 
+0.9639 
+4.5746 
+5.3256 
+6.9201 
+Latvia  
+0.0019 
+0.0019 
+0.0019 
+NA 
+NA 
+NA 
+Malaysia  
+0.0284 
+0.0284 
+0.0284 
+NA 
+NA 
+NA 
+Netherlands  
+0.0301 
+0.0301 
+0.0301 
+0.0209 
+0.0209 
+0.0209 
+Republic of Belarus  
+0.0077 
+0.0077 
+0.0077 
+NA 
+NA 
+NA 
+Russia 
+0.0250 
+0.0250 
+0.0325 
+NA 
+NA 
+NA 
+South Korea  
+0.3589 
+0.3742 
+0.3937 
+5.8789 
+9.4679 
+12.4857 
+Singapore  
+0.1730 
+0.1730 
+0.1985 
+0.2821 
+0.2821 
+0.2821 
+Slovakia  
+0.0043 
+0.0043 
+0.0043 
+NA 
+NA 
+NA 
+South Africa  
+0.0021 
+0.0021 
+0.0021 
+NA 
+NA 
+NA 
+Sweden  
+0.0019 
+0.0019 
+0.0019 
+NA 
+NA 
+NA 
+Switzerland  
+0.0098 
+0.0098 
+0.0098 
+NA 
+NA 
+NA 
+Thailand  
+0.0000 
+0.0000 
+0.0094 
+NA 
+NA 
+NA 
+Turkey 
+0.0000 
+0.0000 
+0.0000 
+NA 
+NA 
+NA 
+United Kingdom 
+0.0597 
+0.0597 
+0.0936 
+NA 
+NA 
+NA 
+United States of America  
+0.6732 
+0.6921 
+0.7190 
+0.0000 
+0.0000 
+0.0000 
+Vietnam  
+0.0000 
+0.0000 
+0.0000 
+NA 
+NA 
+NA 
+Global Total 
+3.3206 
+3.4972 
+3.8849 
+15.0572 
+23.9959 
+33.7459 
+1 Country totals include fab in production 
+2 Country totals include fabs under construction and announced. 
+NA = not applicable. 
+Sources: Extractions from World Fab Watch Database, January 2004 Edition for Semiconductor Manufacturing and Flat Panel 
+Display Fabs on Disk Database (Strategic Marketing Associates, 2004a), October 2004 Edition for TFT-FPD Manufacturing  
+(Strategic Marketing Associates, 2004b). 
+ 
+Volume 3: Industrial Processes and Product Use 
+6.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 6.8 
+COUNTRY TOTAL PV PRODUCTION CAPACITYa FOR 2003, Mm2
+Australia 
+0.135 
+Austria 
+0.0307 
+Canada 
+0.0154 
+Denmark 
+0.00254 
+France 
+0.162 
+Germany 
+0.817 
+Italy 
+0.100 
+Japan 
+3.72 
+Norway 
+0.0138 
+Portugal 
+0.115 
+S. Korea 
+0.462 
+Spain 
+0.715 
+Sweden 
+0.377 
+Switzerland 
+0.00238 
+United Kingdom 
+0.0269 
+United States 
+1.02 
+aCapacities for all PV manufacturing technologies, includes  
+those that may not use FCs during PV manufacture; World  
+average capacity utilisation for 2003 = 86%.  
+Source: IEA, 2004. PV participating survey countries. 
+ 
+6.2.4 
+Completeness 
+Complete accounting of emissions from the semiconductor industry should be achievable in most countries 
+because there are a limited number of companies and plants. There are four issues related to completeness that 
+should be addressed: 
+• 
+Other by-products: A number of transformation by-products are generated as a result of FC use for 
+chamber cleaning and etching. As highlighted above, formation of CF4 and C2F6 can result from the 
+decomposition of other FC gases. Also, CF4 formation has been observed in the cleaning of low k CVD 
+chambers. In this case, the Tier 3 method should be used to accurately estimate emissions.  
+• 
+New chemicals: Completeness will be an issue in the future as the industry evaluates and adopts new 
+chemical processes to improve its products. Industry-wide efforts to reduce FC emissions are also 
+accelerating the review of new chemicals. Consequently, good practice for this industry is to incorporate a 
+mechanism that accounts for greenhouse gases not listed in the IPCC Third Assessment Report (e.g., C4F6, 
+C5F8, Fluorinerts™, and Galdens®). These new FC materials have high GWPs or may produce high GWP by-
+product emissions.  
+• 
+Other sources: A small amount of FCs may be released during gas handling (e.g. distribution) and by 
+sources such as research and development (e.g. university) scale plants and tool suppliers. These emissions 
+are not believed to be significant (e.g., less than 1 percent of this industry’s total emissions).  
+• 
+Other products or processes: FC use has been identified in the electronics industry in emissive 
+applications including: micro-electro-mechanical systems (MEMS),18 hard disk drive manufacturing, device 
+testing (FC liquids), vapour phase reflow soldering,19 and precision cleaning.20 
+                                                           
+18 Emissions from micro-electro-mechanical systems (MEMS) manufacturing may be estimated using methods similar to 
+those used for the other electronic sub sectors. Company-specific emission and abatement factors are required. Very small 
+amounts of FCs are also used in and research and development laboratories/facilities. 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.25 
+6.2.5 
+Developing a consistent time series 
+Use of FCs by the semiconductor industry began in the late 1970s and accelerated significantly beginning in the 
+early 1990s. Determining a base year emissions level may present difficulties because few data are available for 
+emissions occurring before 1995. If historical emissions estimates were based on simple assumptions (e.g., use 
+equals emissions), then these estimates could be improved by applying the methods described above. If historical 
+data are not available to permit use of a Tier 3 or 2 method, then the Tier 1 method using default emission 
+parameters can be used retrospectively. Both Tier 1 and Tier 2 could then be applied simultaneously for the years 
+in which more data become available to provide a comparison or benchmark. This should be done according to 
+the guidance provided in Volume 1, Chapter 5. 
+In order to ensure a consistent emissions record over time, an inventory compiler should recalculate FC 
+emissions for all years reported whenever emissions calculation procedures are changed (e.g., if an inventory 
+compiler changes from the use of default values to actual values determined at the plant level). If plant-specific 
+data are not available for all years in the time series, the inventory compiler will need to consider how current 
+plant data can be used to recalculate emissions for these years. It may be possible to apply current plant-specific 
+emission parameters to sales data from previous years, provided that plant operations have not changed 
+substantially. Such a recalculation is required to ensure that any changes in emission trends are real and not an 
+artefact of changes in procedure. 
+6.3 
+UNCERTAINTY ASSESSMENT 
+Use of the Tier 3 method will result in the least uncertain inventory. Given the limited number of plants and the 
+close monitoring of production processes at the plant level, collection of data for use in Tier 2b or Tier 3 
+methods should be technically feasible. Inventory compilers should seek the advice of the industry on 
+uncertainties, using the approaches to obtaining expert judgement outlined in Volume 1, Chapter 3.  
+Of all the methods, Tier 1 is the most uncertain. Using a single factor to account for the FC emissions from the 
+diversity of semiconductor products is a glaring simplification. The factors presented in Table 6.2 are heavily 
+weighted toward the manufacture of advanced vintage-late-1990s memory and logic products, having 3 to 5 
+layers, respectively, manufactured on the silicon wafer. The factors for countries that are currently 
+manufacturing products at the leading-edge of technology (and are not using measures to reduce FC emissions) 
+would be larger, while countries that manufacture products that use older technologies or manufacture simpler 
+devices would use the same or an even smaller factor.  
+The Tier 1 emissions factors for TFT-FPD manufacturing represents a weighted average of the estimated 
+aggregate PFC emissions per unit area of substrate glass consumed during TFT-FPD manufacture for the area 
+where data were available (Burton, 2004b). The estimated emissions reported for Japan used Tier 2b factors for 
+semiconductor manufacturing from Good Practice Guidance and Uncertainty Management in National 
+Greenhouse Gas Inventories (IPCC, 2000) in semiconductor manufacturing (Nishida et al., 2004). For emissions 
+from Taiwan’s TFT-FPD manufacturers, the method for estimating emissions was not reported (Leu et al., 2004). 
+However, subsequently Leu (2004) reported an aggregate emission factor having a similar magnitude to that 
+developed by Burton (2004b). The uncertainty in the Tier 1 emissions factor for TFT-FPD manufacture is 
+probably large, but not known at this time. 
+When using Tier 3 method for semiconductor and TFT-FPD manufacturing, the resulting estimates of emissions 
+will be more accurate than the Tier 2a, 2b or Tier 1 methods, on the order of ± 30 percent (95 percent confidence 
+interval). Uncertainty in the efficacy of emission control technology appears to contribute most to this 
+uncertainty, especially the variability in the uptime of emission control devices and in flow rates to emission 
+control devices that may exceed device design limits. 
+Estimates of emissions from using heat transfer fluids using the Tier 2 method will be more accurate than Tier 1 
+method, of the order of ± 20 percent (95 percent confidence interval). 
+6.3.1 
+Emission factor uncertainties 
+The uncertainties in the emission factors suggested for the Tier 2b and 2a methods are shown in Table 6.9 for 
+semiconductor manufacturing and Table 6.10 for TFT-FPD manufacturing. The factors were developed 
+                                                                                                                                                                                     
+19 Emissions from vapour phase reflow soldering may be estimated to equal annual net FC purchases for maintaining vapour 
+phase reflow soldering equipment. 
+20 Emissions from precision cleaning are to be accounted for in Section 7.2 (Solvents) of this Volume. 
+Volume 3: Industrial Processes and Product Use 
+6.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+specifically for this guidance. For Tier 2b, relative errors for each entry (process and gas in the case of Tier 2b) 
+were estimated as the standard deviation of the factors provided by an expert group, normalised to the simple 
+(unweighted) average, rounded to one significant figure.12 The estimate for each value was then doubled to 
+estimate the 95 percent confidence interval. The same procedure was used to estimate the relative errors for 
+product-formation factors (B). The corresponding estimates for the Tier 2a method were derived for the Tier 2b 
+estimates, using the estimates of gas usage employed in development of the emission factors (see Section 6.2.2 
+Tier 2). 
+Tier 1 emission factors will have an uncertainty range that is skewed towards values close to zero extending up 
+to 200 percent (95 percent confidence interval for semiconductor and TFT-FPD manufacture). Uncertainty 
+estimates for PV manufacturing are not available. 
+6.3.2 
+Activity data uncertainties 
+Gas consumption constitutes the unit of activity to estimate emissions during semiconductor, TFT-FPD and PV 
+manufacture for the Tier 2a and 2b methods. Gas consumption can be either measured or estimated from data on 
+gas purchases, and requires knowledge of h, the unused gas returned to gas suppliers in the shipping containers. 
+The uncertainties (95 percent confidence interval) in gas consumption and h, whether measured or estimated 
+using expert judgment are shown in Table 6.10, Relative Errors (95 percent confidence interval) for Activity 
+Data for Tier 2a and 2b Methods for Semiconductor and TFT-FPD Manufacture. 
+For Tier 1 method, the unit of activity is substrate consumption. Uncertainties in the Tier 1 activity data are 
+attributed principally to missing data entries in the WFW and FPD databases. An estimate of the reliability of 
+entries derived from the WFW in Table 6.7 is ± 10 percent (95 percent confidence interval), which reflects errors 
+due to missing and incorrect entries in the database. The 95 percent confidence interval in capacity utilisation 
+over the 1991-2000 period is ± 12 percentage points (i.e., from 70 percent utilisation to 94 percent utilisation). 
+The corresponding entries for TFT-FPD and PV manufacture are assumed to be similar to those for 
+semiconductor manufacturing.  
+ 
+ 
+ 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.27 
+ 
+TABLE 6.9 
+TIER 2 DEFAULT ESTIMATES OF RELATIVE ERRORS (%) FOR EMISSION FACTOR FOR FC EMISSIONS FROM SEMICONDUCTOR MANUFACTURING,  
+95 PERCENT CONFIDENCE INTERVALS* 
+ 
+Greenhouse Gases with TAR GWP 
+Greenhouse Gases 
+without TAR GWP 
+Non-GHGs 
+Producing FC 
+By-products
+Process Gas (i) 
+CF4
+C2F6
+CHF3
+CH2F2
+C3F8
+c-C4F8
+NF3 
+Remote 
+NF3
+SF6
+C4F6
+C5F8
+C4F8O
+F2 
+COF2
+Tier 2a 
+1-Ui 
+15
+30
+100 
+400 
+20 
+80 
+400 
+70 
+300
+300 
+80† 
+40 
+NA 
+NA 
+BCF4 
+NA
+90
+300 
+200 
+60 
+100 
+200 
+200
+NA
+200 
+100†
+80 
+200 
+200
+BC2F6 
+NA
+NA
+NA 
+NA 
+NA 
+200 
+NA 
+NA 
+NA
+200 
+200 
+NA 
+NA 
+NA 
+BC3F8 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+40 
+NA 
+NA 
+Tier 2b 
+Etch 1-Ui 
+60 
+100 
+100 
+700 
+NA 
+200 
+NA 
+300
+300
+300 
+200†
+NA 
+NA 
+NA 
+CVD 1-Ui 
+10
+30
+NA 
+NA 
+0.4 
+30 
+400 
+70 
+NA
+NA 
+30† 
+40 
+NA 
+NA 
+Etch BCF4 
+NA
+200
+300 
+200 
+NA 
+200 
+NA 
+NA 
+NA
+200 
+200†
+NA 
+NA 
+NA 
+Etch BC2F6 
+NA
+NA
+NA 
+NA 
+NA 
+200 
+NA 
+NA 
+NA
+200 
+200†
+NA 
+NA 
+NA 
+CVD BCF4 
+NA
+80
+NA 
+NA 
+60 
+60 
+200 
+200
+NA
+NA 
+60† 
+80 
+200 
+200
+CVD BC2F6 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC3F8 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+40 
+NA 
+NA 
+Notes: NA denotes not applicable based on currently available information 
+* Values that exceed 100% imply a distribution that is skewed towards values close to zero extending up to the value given.  
+† Estimate relies on an analogy to c-C4F8 as the data for C5F8 were insufficient to estimate a confidence interval. 
+ 
+Volume 3: Industrial Processes and Product Use 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+6.28 
+ 
+ 
+ 
+ 
+TABLE 6.10 
+TIER 2 DEFAULT ESTIMATES OF RELATIVE ERRORS (%) FOR EMISSION FACTOR FOR FC EMISSIONS FROM LCD MANUFACTURING,  
+95 PERCENT CONFIDENCE INTERVALS 
+ 
+Greenhouse Gases with TAR GWP 
+Greenhouse Gases 
+without TAR GWP 
+Non-GHGs 
+Producing FC 
+By-products
+Process Gas (i) 
+CF4
+C2F6
+CHF3
+CH2F2
+C3F8
+c-C4F8
+NF3 
+Remote 
+NF3
+SF6
+C4F6
+C5F8
+C4F8O
+F2 
+COF2
+Tier 2a 
+1-Ui 
+50
+NA
+8 
+NA 
+NA 
+5 
+70 
+20 
+20 
+NA 
+NA 
+NA 
+NA 
+NA 
+BCF4 
+NA
+NA
+30 
+NA 
+NA 
+40 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BCHF3 
+NA
+NA
+NA 
+NA 
+NA 
+20 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+BC2F6 
+NA
+NA
+40 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Tier 2b 
+Etch 1-Ui 
+50 
+100 
+8 
+NA 
+NA 
+5 
+NA 
+60 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD 1-Ui 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+70 
+20 
+6 
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BCF4 
+NA
+NA
+30 
+NA 
+NA 
+40 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BCHF3 
+NA
+NA
+NA 
+NA 
+NA 
+20 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Etch BC2F6 
+NA
+NA
+40 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BCF4 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC2F6 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+CVD BC3F8 
+NA
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Notes: NA denotes not applicable based on currently available information 
+ 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.29 
+6.4 
+QUALITY ASSURANCE/QUALITY CONTROL 
+(QA/QC), REPORTING AND 
+DOCUMENTATION 
+6.4.1 
+Quality Assurance/Quality Control (QA/QC) 
+It is good practice to conduct quality control checks as outlined in Volume 1, Chapter 6, and an expert review of 
+the emissions estimates. Additional quality control checks as outlined in Volume 1 and quality assurance 
+procedures may also be applicable, particularly if higher tier methods are used to determine emissions from this 
+source category. Inventory compilers are encouraged to use higher tier QA/QC for key categories as identified in 
+Volume 1, Chapter 4. 
+Additional general guidance for higher tier QA/QC procedures is also included in Volume 1, Chapter 6. Due to 
+the highly competitive nature of the semiconductor industry, provisions for handling confidential business 
+information should be incorporated into the verification process. Methods used should be documented, and a 
+periodic audit of the measurement and calculation of data should be considered. A QA audit of the processes and 
+procedures should also be considered.  
+6.4.2 
+Reporting and Documentation 
+Care should be taken not to include emissions of HFCs used as ODS substitutes with those used in 
+semiconductor manufacturing. It is good practice to document and archive all information required to produce 
+the national emissions inventory estimates as outlined in Volume 1, Section 6.11. It is not practical to include all 
+documentation in the national inventory report. However, the inventory should include summaries of methods 
+used and references to source data such that the reported emissions estimates are transparent and steps in their 
+calculation may be retraced. 
+Explicit reporting on emissions in this industry would improve the transparency and comparability of emissions. 
+As a number of FCs gases are emitted by this industry, reporting by individual gas species rather than by 
+chemical type would also improve the transparency and usefulness of this data. Efforts to increase transparency 
+should take into account the protection of confidential business information related to specific gas use. Country-
+level aggregation of gas-specific emissions data should protect this information in countries with three or more 
+manufacturers. Table 6.11, Information Necessary for Full Transparency of Estimates of Emissions from 
+Semiconductor Manufacturing, shows the supporting information necessary for full transparency in reported 
+emissions estimates. 
+Good practice for Tier 3 is to document the development of company-specific emission factors, and to explain 
+the deviation from the generic default values. Given confidentiality concerns, inventory compilers may wish to 
+aggregate this information across manufacturers. In cases where manufacturers in a country have reported 
+different emission or conversion factors for a given FC and process or process type, inventory compilers may 
+provide the range of factors reported and used.  
+Volume 3: Industrial Processes and Product Use 
+6.30 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 6.11 
+INFORMATION NECESSARY FOR FULL TRANSPARENCY OF ESTIMATES OF EMISSIONS FROM  
+ELECTRONICS MANUFACTURING 
+Data 
+Tier 1 
+Tier 2a 
+Tier 2b 
+Tier 3 
+Total surface area of electronics substrate processed (e.g., m2 silicon, 
+m2 glass) 
+X 
+ 
+ 
+ 
+Capacity utilisation for semiconductor, TFT-FPD and PV 
+manufacturing 
+X 
+ 
+ 
+ 
+Fraction of PV manufacturing capacity that uses FC gases 
+X 
+ 
+ 
+ 
+Emissions of each FC (rather than aggregated for all FCs) 
+ 
+X 
+X 
+X 
+Sales/purchases of each FC  
+ 
+X 
+ 
+ 
+Mass of each FC used in each process or process type 
+ 
+ 
+X 
+X 
+Fraction of each FC used in processes with emission control 
+technologies 
+ 
+X 
+X 
+X 
+Use rate for each FC for each process or process type (This and 
+following information is necessary only if default value is not used) 
+ 
+ 
+ 
+X 
+Fraction of each FC transformed into CF4 for each process or process 
+type 
+ 
+ 
+ 
+X 
+Fraction of gas remaining in shipping container 
+ 
+ 
+ 
+X 
+Fraction of each FC destroyed by emission control technology 
+ 
+ 
+ 
+X 
+Fraction of CF4 by-product destroyed by emission control technology 
+ 
+ 
+ 
+X 
+ 
+ 
+Chapter 6: Electronics Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.31 
+References 
+Agnostinelli, G., Dekkers, H. F. W., DeWolf, S. and Beaucarne, G. (2004). “Dry Etching and Texturing 
+Processes for Cystalline Silicon Solar Cells: Sustainability for Mass Production”, presented at the 19th 
+European Photovoltaic Solar Energy Conference, Paris, 2004. 
+Alsema, E. A., Bauman, A. E., Hill, R. and Patterson, M. H. (1997) “Health, Safety and Environmental Issues in 
+Thin Film Manufacturing”, 14th European PV Solar Energy Conference, Barcelona, Spain. 1997. 
+Burton, C. S. (2004a). “Uses and Air Emissions of Liquid PFC Heat Transfer Fluids from the Electronics Sector: 
+Initial Findings”, report prepared for U. S. EPA’s Climate Change Division, October 2004. 
+Burton, C. S. (2004b). “PFC Uses, Emissions, and Trends in FPD Manufacture: An Update”, draft report 
+prepared for U. S. EPA’s Climate Change Division, June 2004. 
+Burton, C. S. (2006). “Sources and Methods Used to Develop PFC Emission Factors from the Electronics 
+Sector”, report prepared for U. S. EPA’s Climate Change Division, February 2006. 
+Cowles, D. (1999) “Oxide Etch Tool Emissions Comparison for C5F8 and C4F8 Process Recipes”, presented at 
+A Partnership for PFC Emissions Reductions, SEMICON Southwest 99, Austin, TX. October 1999. 
+Fthenakis, V. (2005) Personal communication to S. Bartos on 5 February 2005 of data tables quantifying 
+historical and current CF4 and C2F6 usage in PV manufacture for U. S. and Europe. 
+Fthenakis, V. (2006) Personal communication to S. Burton and S. Bartos explaining proposal to begin 
+monitoring FC emissions from European PV industry. Feb. 6, 2006. 
+IEA (2004). ‘Trends in Photovoltaic Applications: Survey report of selected IEA Countries between 1992 – 
+2003’, Photovoltaic Power Systems Programme (PVPS), International Energy Agency, Report IEA-PVPS 
+T1-13:2004, September 2004. 
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories. 
+Penman J., Kruger D., Galbally I., Hiraishi T., Nyenzi B., Emmanuel S., Buendia L., Hoppaus R., 
+Martinsen T., Meijer J., Miwa K., Tanabe K. (Eds). Intergovernmental Panel on Climate Change (IPCC), 
+IPCC/OECD/IEA/IGES, Hayama, Japan. 
+ITRS 
+(2004), 
+“International 
+Technology 
+Roadmap 
+for 
+Semiconductors” 
+available 
+at 
+http://public.itrs.net/report.htm 
+Kim, D-H., (2006) 9 January 2006 Personal communication to Hideki Nishida identifying the historical average 
+(50:50) proportion of SF6 usage for etching and CVD chamber-cleaning in Japanese, Korean and Taiwan 
+TFT-FPD manufacture. 
+Leu, C-H., (2004) “SF6 Abatement Strategy in Taiwan”, presented at SF6 Power Reduction Partnership for 
+Electric Power Systems, Scottsdale, Az., 1-3 December 2004. 
+Leu, C-H et al. (2004) “PFC emissions Abatement for TFT-LCD Industry in Taiwan”, available in the 
+Proceedings of the 15th Annual Earth Technology Forum, Washington, D. C., 13-15 April 2004. 
+Maycock, P. (2005) “PV market update: global PV production continues to increase”, Renewable Energy World, 
+Vol. 8 (4), pp 86-99. 
+Meyers, J., Maroulis, P., Reagan, B. and Green, D. (2001). “Guidelines for Environmental Characterization of 
+Semiconductor Equipment”, Technology Transfer #01104197A-XFR, pub.  International SEMATECH, 
+Austin, Texas, USA. December 2004, See: www.sematech.org/docubase/document/4197axfr.pdf. 
+Nishida, H. et al. (2004) “Voluntary PFC Emission Reduction in the LCD Industry”, available in the 
+Proceedings of the 15th Annual Earth Technology Forum, Washington, D. C., 13 – 15 April 2004. 
+Nishida, H., Marsumura, K., Kurokawa, H., Hoshino, A. and Masui, S. (2005), “PFC emission-reduction 
+strategy for the LCD industry”, J. Society for Information Display, Vol 13, pp. 841-848 (2005). 
+Nishda, H. (2006). 7 January 2006 Personal communication to D-H. Kim confirming historical average 50:50 
+proportion of SF6 usage for etching and CVD chamber-cleaning in Japan, Korean and Taiwan TFT-FPD 
+manufacture. 
+Phylipsen, G. J. M. and Alsema, E. A., (1995) “Environmental life-cycle assessment of multicrystalline silicon 
+solar cell modules”, report prepared for Netherlands Agency for Energy and the Environment, Report No. 
+95057, September 1995. 
+Volume 3: Industrial Processes and Product Use 
+6.32 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Rentsch, J., Schetter C., Schlemm H., Roth, K. and Preu, R. (2005). “Industrialization of Dry Phosphorous 
+Silicate Glass Etching and Edge Isolation for Crystalline Silicon Solar Cells”, Presented at the 20th 
+European Photovoltaic Solar Energy Conference and Exhibition, Barcelona, Spain. 6-10 June, 2005. 
+Sekiya, A. (2003). “Climate-Friendly Alternative Refrigerant and the Others: New Evaluations for 
+sustainability”, The Earth Technologies Forum, Washington, D. C., 23 April, 2003. 
+Shah, A., Meier, J., Buechel, A., Kroll, U., Steinhauser, J., Meillaud, F. and Schade, H. (2004). “Toward Very 
+Low-Cost Mass Production of Thin-film silicon Photovoltaic (PV) Solar Modules on Glass“, presented at 
+ICCG5 Conference in Saarbrucken, Germany, July 2004. 
+SIA (2000). “Equipment Environmental Characterisation Guidelines”, Revision 3.0, Semiconductor Induistry 
+Association (SIA), San Jose, California, USA, February 2000 
+Strategic Marketing Associates (2004a). WORLD FAB WATCH: The Industry’s Encyclopedia of Wafer Fabs 
+Since 1994, January 2004 Edition. 
+Strategic Marketing Associates (2004b). WORLD FAB WATCH: The Industry’s Encyclopedia of Wafer Fabs 
+Since 1994, October 2004 Edition. 
+Tuma, P.E. and Tousignant, L. (2001). “Reducing Emissions of PFC Heat Transfer Fluids,” Presented at 
+Semicon West, San Francisco, July 2001. 
+U.S. EPA (2005). U.S. Environmental Protection Agency, Inventory of U.S. Greenhouse Gas and Sinks: 1990-
+2003, EPA 430-R-05-003, April 2005. 
+ 

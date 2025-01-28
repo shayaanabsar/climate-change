@@ -1,0 +1,949 @@
+ENERGY
+1.128
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+•
+production disposition analyses (e.g., oil and gas production; vented, flared and
+reinjected volumes of gas; and fuel gas consumption),
+•
+accidental releases (i.e., well blow-outs and pipeline ruptures),
+•
+typical design and operating practices and their impact on the overall level of
+emission control.
+The amount of emissions is then assessed by applying appropriate emission factors,
+empirical correlations, process simulation results, and field measurements to these data.
+Some examples of detailed emission inventories that have been developed in this manner
+are listed below:
+•
+US Environmental Protection Agency (US EPA).  Anthropogenic Methane Emissions
+in the United States.  Estimates for 1990: Report to the Congress.  October 1992
+(US EPA, 1993).
+•
+Picard, D.J., B.D. Ross, and D.W.H. Koon. A Detailed Inventory of CH4 and VOC
+Emissions from Upstream Oil and Gas Operations in Alberta. Clearstone
+Engineering Ltd., for the Canadian Petroleum Association, March 1992 (Picard et al.,
+1992).
+•
+UK Offshore Operators Association Ltd. (1992).  Methane Emissions From
+Offshore Oil & Gas Exploration & Production Activities.  Submitted to The Watt
+Committee on Energy, 1993.
+•
+Norwegian Oil Industry Association - OLF. Report from OLF Environmental
+Programme - Phase 2. 1993.
+1 . 8 . 7 U n c e r t a i n t y
+Some of these studies do analyse uncertainties, but emissions estimates in general are
+very uncertain.  The overall magnitude of the emissions estimates that will be obtained
+for some countries using the methods and assumptions outlined in this chapter is driven
+by two key studies:
+•
+Rabchuk et al. (1991) report that emissions from gas production and
+transportation in the former USSR is very high, about 3 to 7 per cent of total gas
+production.  Recent visits to this region indicate that system construction,
+maintenance, and operations may be consistent with high emissions rates (Craig,
+1992).  However, a better quantitative evaluation is needed to validate the current
+emissions estimates.
+•
+Barns and Edmonds (1990) report emissions from venting and flaring by region.
+The emissions estimates for the OPEC countries are relatively high, and account for
+most of the emissions from this category.  The safety concerns associated with
+venting, and the value of re-injecting gas into oil reservoirs to maintain reservoir
+pressures, would tend to render the high emissions estimates questionable.
+Improved data are needed to resolve this question.
+The adoption of emission factor estimates from US EPA (1992) for various regions also
+adds uncertainty to the overall estimates.  US oil and gas production facilities and
+refineries are subject to emission control requirements.  The US emission factors,
+particularly for refining, may under-estimate emissions in other regions.  Nevertheless,
+this may not be a significant global uncertainty since, if the emission factors for oil
+production and oil refining were increased by a factor of 10 for the entire world, the
+estimate of total global emissions would only increase by about 1 to 6 Tg for 1988.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.129
+TABLE 1-60
+USA AND CANADA -  EMISSION FACTORS
+Emissions Type
+Emission factor
+kg/petajoule
+Source
+Oil and Gas Production
+Oil
+Gas
+Oil & Gas
+290 - 4 670 of Oil Production
+39 590 - 104 220 of Gas Production
+2 870 - 13 920 of Oil & Gas Production
+US EPA (1992)
+US EPA (1992)
+US EPA (1992)
+Crude Oil Transportation and Refining
+Transportation
+Refining
+Storage Tanks
+745 of Oil Tankered
+90 - 1 400 of Oil Refined
+20 - 260 of Oil Refined
+API (1987)
+US EPA (1992)
+US EPA (1992)
+Natural Gas Processing, Transport, and
+Distribution
+Gas Processing
+Gas Pipelines
+Gas Distribution
+59 660 - 116 610 of Gas Consumption
+..
+..
+..
+US EPA (1992)
+..
+..
+..
+TABLE 1-61
+EASTERN EUROPE AND FORMER USSR - EMISSION FACTORS
+Emissions Type
+Emission factor
+kg/petajoule
+Source
+Oil and Gas Production
+Oil
+Gas
+Oil & Gas
+290 - 4 670 of Oil Produced
+218 000 - 567 600 of Gas Produced
+6 300 - 29 700 of Gas Produced
+US EPA (1992)
+Rabchuk et al. (1991)
+Barns and Edmonds (1990)
+Crude Oil Transportation and Refining
+Transportation
+Refining
+Storage Tanks
+745 of Oil Tankered
+90 - 1 400 of Oil Refined
+20 - 260 of Oil Refined
+API (1987)
+US EPA (1992)
+US EPA (1992)
+Natural Gas Processing, Transport, and
+Distribution
+Gas Processing
+Gas Pipelines
+Gas Distribution
+340 000 - 715 800 of Gas Consumption
+..
+..
+..
+Rabchuk et al. (1991)
+..
+..
+..
+ENERGY
+1.130
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-62
+WESTERN EUROPE - EMISSION FACTORS
+Emissions Type
+Emission factor
+kg/petajoule
+Source
+Oil and Gas Production
+Oil
+Gas
+Oil & Gas
+290 - 4 670 of Oil Produced
+14 800 - 27 000 of Gas Produced
+13 000-16 000 of Gas Produced
+3 000-8 000 of Gas Produced
+US EPA (1992)
+Schneider-Fresenius
+et al. (1989)
+Norwegian SPCA (1992)
+Norwegian O.I.A. OLF (1993)
+Crude Oil Transportation and Refining
+Transportation
+Refining
+Storage Tanks
+745 of Oil Tankered
+2 500 of Oil Tankered
+90 - 1 400 of Oil Refined
+20 - 260 of Oil Refined
+API (1987)
+Norwegian SPCA (1992)
+US EPA (1992)
+US EPA (1992)
+Natural Gas Processing, Transport, and
+Distribution
+Gas Processing
+Gas Pipelines
+Gas Distribution
+58 000 - 111 000 of Gas Consumption
+1 800 of Gas Processed
+..
+..
+Schneider-Fresenius et al. (1989)
+Norwegian SPCA (1992)
+..
+..
+TABLE 1-63
+OTHER OIL EXPORTING COUNTRIES - EMISSION FACTORS
+Emissions Type
+Emission factor
+kg/petajoule
+Source
+Oil and Gas Production
+Oil
+Gas
+Oil & Gas
+290 - 4 670 of Oil Produced
+39 590 - 96 000 of Gas Produced
+739 470 - 1 019 220 of Gas Produced
+US EPA (1992)
+US EPA (1992) and Barns
+and Edmonds (1990)
+Barns and Edmonds (1990)
+Crude Oil Transportation and Refining
+Transportation
+Refining
+Storage Tanks
+745 of Oil Tankered
+90 - 1 400 of Oil Refined
+20 - 260 of Oil Refined
+API (1987)
+US EPA (1992)
+US EPA (1992)
+Natural Gas Processing, Transport, and
+Distribution
+Gas Processing
+Gas Pipelines
+Gas Distribution
+116 610 - 340 000 of Gas Consumption
+..
+..
+..
+US EPA (1992 and
+Rabchuk et al. (1991)
+..
+..
+..
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.131
+TABLE 1-64
+REST OF THE WORLD - METHANE EMISSION FACTORS
+Emissions Type
+Emission factor
+kg/petajoule
+Source
+Oil and Gas Production
+Oil
+Gas
+Oil & Gas
+290 - 4 670 of Oil Produced
+39 590 - 96 000 of Gas Produced
+170 000 - 209 000 of Gas Produced
+US EPA (1992)
+US EPA (1992) and Barns and
+Edmonds. (1990)
+Barns and Edmonds (1990)
+Crude Oil Transportation and Refining
+Transportation
+Refining
+Storage Tanks
+745 of Oil Tankered
+90 - 1 400 of Oil Refined
+20 - 260 of Oil Refined
+API (1987)
+US EPA (1992)
+US EPA (1992)
+Natural Gas Processing, Transport, and
+Distribution
+Gas Processing
+Gas Pipelines
+Gas Distribution
+116 610 - 340 000  of Gas Consumption
+..
+..
+..
+US EPA (1992 and
+Rabchuk et al. (1991)
+..
+..
+..
+1 . 8 . 8 F u g i t i v e  E m i s s i o n s  o f  O t h e r  G H G s
+Methane is by far the most important greenhouse gas emitted on a fugitive basis from oil
+and gas activities.  However, other GHGs are clearly emitted and should be included in a
+comprehensive national inventory.
+After methane, the most significant fugitive emissions from oil and gas activities are of
+non-methane volatile organic compounds (NMVOCs).  Oil and gas are largely composed
+of organic compounds, and releases through evaporation or leakages are likely at all
+stages wherever the fuels or their products come into contact with the atmosphere.
+Fugitive emissions from refining, transport and distribution of oil products are a major
+component of national NMVOC emissions in many countries.
+The IPCC/OECD/IEA programme has not yet addressed the indirect GHGs (including
+NMVOCs) in detail.  However, the Joint EMEP/CORINAIR Guidebook offers both a
+simplified and a more detailed approach to the estimation of ozone precursors and SO2.
+The relevant tables and accompanying text are summarised below.
+National experts interested in including the other fugitive emissions of GHGs from oil
+and natural gas systems should consult the existing literature which provides detailed
+emission factors and procedures for calculating emissions.  Some key examples are:
+•
+Default Emission Factors Handbook (EEATF, 1992);
+•
+Proceedings of the TNO/EURASAP Workshop (TNO Inst. of Environmental
+Sciences, 1993);
+•
+Atmospheric Emission Inventory Guidebook (Joint EMEP/CORINAIR, 1996);
+•
+EMEP and CORINAIR Emission Factors and Species Profiles for Organic
+Compounds. (Veldt, 1991);
+•
+US EPA's Compilation of Air Pollutant Emissions Factors (AP-42), 5th Edition 1995
+(US EPA, 1995);
+ENERGY
+1.132
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+•
+Criteria Pollutant Emission Factors for the 1985 NAPAP Emissions Inventory
+(Stockton and Stelling, 1987).
+1 . 8 . 9 R e f i n e r i e s
+O V E R V I E W
+A basic refinery converts crude petroleum into a variety of sub-products.  Principal
+products of a refinery may include liquid fuels, coke, feedstocks and primary
+petrochemicals (like ethylene).  This section covers basic refineries, not the synthesis of
+petrochemicals.  Chemical production is included in Chapter 2, Industrial Processes,
+whether or not the actual production takes place at a refinery or in a separate plant.
+Storage and handling of intermediates and products may account for between 1 to 8 per
+cent of  a country’s NMVOC emissions.  There are also significant non-combustion
+emissions of SO2, NOx, and CO.
+Refinery Operations
+Refinery operations include separation processes (distillation and gas processing),
+petroleum conversion processes (cracking, coking, catalytic reforming, alkylation,
+polymerisation), petroleum treating processes (desulphurisation, chemical sweetening,
+acid gas removal, deasphalting) and blending.
+Vacuum distillation, catalytic cracking, thermal cracking, sweetening, blowdown systems,
+sulphur recovery and asphalt blowing have been identified as being potentially significant
+sources of SO2 and NMVOCs from these sources.  Storage and handling of petroleum
+products will lead to NMVOC emissions.
+S I M P L E  M E T H O D O L O G Y  F O R  O Z O N E  P R E C U R S O R S
+A N D  S O 2
+A simple estimation can be made on the basis of throughput and single emission factors.
+However in most cases more detailed information may be available and the more detailed
+approach outlined in the Joint EMEP/CORINAIR Guidebook (1996) under SNAP code
+40100 or in the following section here should be adopted.  This considers the actual
+processes taking place in the refinery and the throughput of crude and products.  While
+emission rates will depend on the specific process and equipment in a refinery, its state of
+maintenance and the sulphur content of the crude oil, a very simple estimate can be made
+on the basis of the throughput of crude oil and simple emission factors alone.  The default
+emission factors are shown in Table 1-65.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.133
+TABLE I-65
+NON-COMBUSTION EMISSION FACTORS FOR PETROLEUM REFINING.  SIMPLE METHODOLOGY
+(KG/M3 REFINERY FEEDSTOCK  E.G., CRUDE OIL)
+POLLUTANT
+EMISSION FACTOR
+SOURCES
+SO2(a)
+0.8
+Vacuum tower, catalytic cracker, fluid coking, sulphur plant, SWS,
+incinerator, caustic regeneration, vents, off gases, others
+NOx(a)
+0.05
+Catalytic cracking
+CO(a)
+0.08
+Fluid catalytic cracker only
+NMVOC(b)
+0.53
+Fugitive and process emissions
+Source :
+(a) EMEP/CORINAIR (1996).
+(b) based on  CPPI and Environment CANADA (1991).
+NMVOC Emissions estimates vary widely.  The proposed default value is 0.53 kg/m3 input.
+Estimates range from 0.085 kg/m3 from the best West European refinery to 10 kg/m3 for
+a Russian refinery.
+In practice it may be possible to use a more detailed approach where some of the
+makeup of the refinery is known or where only some of the emission activities are
+known.  Some of  these constituent parts are outlined below as an alternative to the
+above approach.
+D E T A I L E D  M E T H O D O L O G Y  F O R  O Z O N E  P R E C U R S O R S
+A N D  S O 2
+In the detailed methodology, emissions are calculated separately from sub processes in
+the refinery.  The total emissions are the sum of the emissions from each individual sub
+process.  The calculations should be based on plant specific data.
+Fluid Catalytic Cracking (SNAP 40102)
+Emission factors for a petroleum refinery which uses a fluid catalytic cracking system are
+shown in Table I-66.
+TABLE I-66
+NON-COMBUSTION EMISSION FACTORS FOR REFINERIES
+(FLUID CATALYTIC CRACKING KG/M3 OIL TREATED IN THE FLUID CATALYTIC CRACKER)
+POLLUTANT
+EMISSION FACTOR
+(VALUE)
+EMISSION FACTOR
+(RANGE)
+SO2
+1.4
+0.286-1.505
+NOx
+0.2
+0.107-0.416
+CO
+39.2
+NA
+NMVOC
+0.6
+NA
+Source: US EPA (1985a, 1995).
+ENERGY
+1.134
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+No emission factors are currently available for cracking of coal to fluid products.
+Sulphur recovery plants  (SNAP 40103)
+Sulphur recovery is the conversion of hydrogen sulphide to elemental sulphur.  Emission
+factors  are  based  on  the  amount of elemental sulphur produced and are shown in
+Table I-67.
+TABLE I-67
+ NON-COMBUSTION EMISSION FACTORS FOR
+REFINERIES AND SULPHUR RECOVERY PLANTS.
+(KG/TONNE SULPHUR)
+POLLUTANT
+EMISSION FACTOR
+SO2
+139
+Source : US EPA (1993b).
+Storage and handling (SNAP 40104)
+Emissions of NMVOC result from evaporation from tanks during storage, displacement of
+vapour during volume changes, loading and unloading and spillages.  Storage may occur at
+a refinery or at separate locations.  Emissions depend on the type and state of the tanks.
+Emission factors are suggested in Table I-68.  Where nothing is known the highest factor
+should be used.  The activity statistic is the crude oil throughput of the refineries.
+TABLE I-68
+NON-COMBUSTION EMISSION FACTORS FOR REFINERIES
+(STORAGE AND HANDLING.  G/KG OIL THROUGHPUT)
+CONDITION
+EMISSION FACTOR
+• 
+Majority of volatile products are stored in floating roof tanks with
+secondary seals
+0.2
+• 
+Majority of volatile products are stored in floating roof tanks with
+only primary seals
+0.7
+• 
+Majority of volatile products are stored in fixed roof tanks
+4.9
+Source : EMEP/CORINAIR (1996).
+These emissions are intended to account for evaporative losses during storage and the
+displacement losses resulting from the loading and unloading of storage tanks.
+Emissions from this source may be higher in countries with a warm climate.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.135
+1.9
+Further Work
+At the end of the Experts’ Meeting on GHG Emissions from Fuel Combustion (Abingdon,
+29-30 March 1996), experts were asked to identify areas for future work on emissions
+from energy.  The subsequent list was then prioritised into short/medium-term activities
+and longer-term activities.
+Short to Medium term (1-3 years):
+1. 
+Perform sensitivity analysis to assess importance of emission factors for various
+sectors.
+2. 
+Critically assess key emission factors found during sensitivity analysis, and key
+calorific values and activity data.
+3. 
+Enhance the EDGAR emission factors that feed into the Tier I methodology with
+information from US country studies and from other sources.
+4. 
+Critically compare IPCC emission factors and methodology with US EPA (1995) and
+CORINAIR.
+5. 
+Perform a literature search on emission factors:
+• 
+Mobile sources in developing countries
+• 
+N2O (all sources)
+• 
+Biomass (especially fuelwood)
+6. 
+Perform more research on emission factors for developing countries, including
+emission factors for biomass.
+7. 
+Enhance the section on fugitive emissions: coal mines (CH4), oil & gas industry (CH4
+and NMVOC).
+8. 
+Analyse double counting with Industrial Processes section of IPCC Guidelines.  Re-
+evaluate the default carbon stored values provided in the Guidelines, including the
+fate of carbon stored in petroleum products.
+9. 
+Add a category for non-fuel energy related emissions, such as from geothermal
+energy, CH4 from flooding to create reservoirs, etc.
+10. Evaluate the adequacy of guidelines.
+11. Compare the results obtained by using Tier 1 and Tier 2 calculations for the non-
+CO2 gases.
+12. Investigate the possibility of reporting inventories and background information on
+the Internet.
+Long term:
+1.
+Develop/update software to support computation and reporting of both the Tier I
+and Tier 2 approaches.
+2.
+Enhance reliability of biomass consumption figures.
+3.
+Perform statistical analysis of data reported, and validate results with globally
+measured concentrations of all direct greenhouse gases.
+ENERGY
+1.136
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.10 References
+Abrahamson D. (1989), Relative Greenhouse Effect of Fossil Fuels and the Critical Contribution
+of Methane, presented to The Oil Heat Task Force.
+AGA (1989), Natural Gas Transmission and Distribution Methane Emissions, AGA,
+Engineering Technical Note, Arlington, VA, USA.
+Airuni, A.T. and V.E. Zeidenvarg (1992), The Role of Coal Production in the Global
+Contamination of the Biosphere by Methane, Russian Institute of Comprehensive
+Mineral Resources Exploitation, Moscow, Russia.
+Alexandersson, A. (1990), “The Swedish investigation - Exhaust emissions from ships”.
+Proc. EMEP Workshop on Emissions from Ships. Oslo, Norway, June 7-8, 1990.
+State Pollution Control Authority, Oslo, Norway.
+Alphatania (1989), Methane Leakage from Natural Gas Operations. The Alphatania Group.
+Ando, J. (1992), Global Environment and Energy Economics, Energy in Japan, 113. 36-46
+(January).
+Andrias, A., D. Zafiris and Z. Samaras (1992), CORINAIR “Working group on emission
+factors for calculating 1990 emissions from road traffic”, Volume 2: COPERT
+Users Manual, September.
+Andrias, A., Z. Samaras and K.H. Zierock (1994), “The Estimation of the Emissions of
+‘Other Mobile Sources and Machiner’ Supbparts ‘Off-Road Vehicles and
+Machines, Railways and Inland Waterways’ in the European Union”, EC Study
+Contract B4-3040/93/000803/B3, Berlin, Germany.
+API (American Petroleum Institute) (1987), Atmospheric Hydrocarbon Emissions from
+Marine Vessel Transfer Operations, API publication 2514A, Washington, DC, USA.
+Archer, Leonie J. (1993), Aircraft Emissions and the Environment, Oxford Institute for
+Energy Studies, EV 17, UK.
+Baas, J. (1991), “Study of literature on emission of nitrous oxide by road traffic” (in Dutch
+with English summary). TNO Report No. R91/322. IMW-TNO, Delft, The
+Netherlands, November 1991.
+Bakkum, A., and C. Veldt (1986), PHOXA:  Statistical Data and Emission Factors. MT-TNO,
+Department of Environmental Technology, Apeldoorn, The Netherlands.
+Bakkum, A., H. Bartelds, J.A. Duiser, and C. Veldt (1987), Handbook of Emission Factors:
+Part 3 - Emissions from Stationary Sources. Ministry of Housing, Physical Planning,
+and Environment (VROM), Government Publishing Office, The Hague, The
+Netherlands, November.
+Ballantyne, V.F., P. Howes and L. Stephanson (1994), “Nitrous oxide emissions from light
+duty vehicles.”  Society of Automotive Engineers Technical Paper Series 940304.
+Barns, D.W. and J.A. Edmonds (1990), An Evaluation of the Relationship between the
+Production and Use of Energy and Atmospheric Methane Emissions, TR047,
+US DOE/NBB0088P, US Department of Energy, Washington, DC, USA.
+Baughcum, S.L., T.G. Tritz, S.C. Henderson, and D.C. Pickett (1996), Scheduled Civil
+Aircraft Emission Inventories for 1992: Database Development and Analysis,
+NASA Contractor Report 4700, April 1996.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.137
+BCTSRE (1992), Quantification of Methane Emissions from British Coal Mine Sources,
+prepared by British Coal Technical Services and Research Executive for the
+Working Group on Methane Emissions, The Watt Committee on Energy, UK.
+Berdowski, J., J. Olivier and C. Veldt (1993a), “Methane from fuel combustion and
+industrial processes”. In A.R. van Amstel, (ed.), Proceedings of an International IPCC
+Workshop on Methane and Nitrous Oxide: Methods in National Emissions Inventories
+and Options for Control. RIVM Report No. 481507003, Bilthoven, The
+Netherlands.
+Berdowski, J., L. Beck, S. Piccot, J. Olivier and C. Veldt (1993b), “Working group report:
+methane emissions from fuel combustion and industrial sources”. In A.R. van
+Amstel, (ed.), Proceedings of an International IPCC Workshop on Methane and
+Nitrous Oxide: Methods in National Emissions Inventories and Options for Control.
+RIVM Report No. 481507003, Bilthoven, The Netherlands.
+Bibler, C.J., et al. (1992), Assessment of the Potential for Economic Development and
+Utilisation of Coalbed Methane in Czechoslovakia. EPA/430/R-92/1008, US
+Environmental Protection Agency, Office of Air and Radiation, Washington, DC,
+USA.
+Bose, R. (1996), Energy Demand and Environmental Implications in Urban Transport Case of
+Delphi, Atmospheric Environment Vol. 30, No. 3, pp. 403-412.
+Boyer, C.M., et. al (1990), Methane Emissions from Coal Mining:  Issues and Opportunities for
+Reduction, EPA-400/9-90/008, US Environmental Protection Agency, Office of Air
+and Radiation, Washington, DC, USA.
+Bremmes, P.K. (1990), “Calculations of exhaust gas emissions from sea transport:
+Methodology and results”. Proc. EMEP Workshop on Emissions from Ships. Oslo,
+Norway, June 7-8, 1990. State Pollution Control Authority, Oslo, Norway.
+Brocard, D., C. Lacaux and J.P. Lacaux (1996), Emissions from the Combustion of Biofuels
+in Western Africa, to be published in: Levine, J.S. (ed.) (1996), Biomass Burning
+and Global Change, MIT Press, Cambridge, Mass., USA.
+Brok, P.H.H. (1995), Personal communication 18.10.1995.  Data developed in the
+framework of EDGAR/LULU, National Aerospace Laboratory 
+(NLR),
+Amsterdam, the Netherlands.
+Canadian Petroleum Products Institute (CPPI) and Environment Canada (1991),
+Atmospheric Emissions from Canadian Petroleum Refineries and the Associated
+Gasoline Distribution System for 1988. CPPI Report No. 91-7. Prepared by B.H
+Levelton and Associates Ltd. and RTM Engineering Ltd.
+CIAB (1992), Global Methane Emissions from the Coal Industry, prepared by the Coal
+Industry Advisory Board, Global Climate Committee/International Energy
+Agency, Paris, France.
+Cicerone, R.J. and R.S. Oremland (1988), "Biogeochemical aspects of atmospheric
+methane," Global Biogeochemical Cycles, Vol. 2, No. 4, Dec. 1988, pp. 299 - 327.
+CMRC (1990), Methane Emissions from Canadian Coal Operations:  A Quantitative Estimate,
+prepared by B. Hollingshead, Coal Mining Research Company, CI 8936, Devon,
+Alberta, Canada.
+Craig, Bruce. (1992), Personal communication. US Environmental Protection Agency,
+Global Change Division, Washington, DC, USA.
+ENERGY
+1.138
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Creedy, D.P. (1991), "An introduction to geological aspects of methane occurrence and
+control in British deep coal mines," Quarterly Journal of Engineering Geology,
+No. 24, pp. 209-220.
+Crutzen, P.J. (1987), "Role of the tropics in atmospheric chemistry," in Geophysiology of
+Amazonia, R. Dickenson, ed. John Wiley, New York, USA, pp. 107-132.
+Dasch, J.M. (1992), “Nitrous oxide emissions from vehicles”, Journal of Air and Waste
+Management Association, 42:63-67 (January).
+Delmas, R. (1993), “An overview of present knowledge on methane emission from
+biomass burning”. In A.R, van Amstel (ed.). Proceedings of an International IPCC
+Workshop: Methane and Nitrous Oxides, Methods in National Emissions Inventories
+and Options for Control, 3-5 February 1993, Amersfoort, NL. RIVM Report
+No. 481507003, Bilthoven, The Netherlands, July.
+Delmas, R., J.P. Lacaux and D. Brocard (1995), Determination of Biomass Burning Emission
+Factors:  Methods and Results, Env. Mon. and Assessment 38, 181-204.
+De Soete, G.G. (1989), “Updated evaluation of nitrous oxide emissions from industrial
+fossil fuel combustion”. Institut français du pétrole, Ref. 37-559.
+De Soete, G.G. (1993), “Nitrous oxide from combustion and industry: Chemistry,
+emissions and control”. In A.R. van Amstel, (ed.), Proceedings of an International
+IPCC Workshop on Methane and Nitrous Oxide: Methods in National Emissions
+Inventories and Options for Control. RIVM Report No. 481507003, Bilthoven, The
+Netherlands.
+Ebert, C., D. Picard, P. Pope, and A. Roslund (1993), “Methane emissions from oil and
+natural gas systems:  A methodology to estimate national emissions.”  In A.R, van
+Amstel (ed.). Proceedings of an International IPCC Workshop: Methane and Nitrous
+Oxides, Methods in National Emissions Inventories and Options for Control,
+3-5 February 1993, Amersfoort, NL. RIVM Report No. 481507003, Bilthoven, The
+Netherlands, July.
+Eggleston, H.S. and G. McInnes (1987), Method for the Compilation of UK Air Pollutant
+Emission Inventories, ISBN-0-85624-493-7. Warren Spring Laboratory, Stevenage,
+UK.
+Eggleston, H.S. et al. (1992), CORINAIR “Working group on emission factors for
+calculating 1990 emissions from road traffic”, Volume 1: Methodology, Final Report,
+December.
+Joint EMEP/CORINAIR (1996), Atmospheric Emission Inventory Guidebook. Volume 1, 2.
+European Environment Agency Task Force (EEATF) (1992), Default Emission Factor
+Handbook.
+FAO (1990), FAO Yearbook, Forest products 1979-1990, FAO Forestry series no. 25.
+FAO Statistics series no. 103, Food and Agricultural Organization of the UN,
+Rome, Italy.
+Fritsche, U. (1989), Zusammenstellung von klimarelevanten Emissionsdaten für Energiesysteme
+in der BRD, Endbericht, Germany.
+Gardner et al. (1997), ANCAT/EC2 Aircraft Emission Inventories.  Report produced by
+the European Civil Aviation Conference’s Group of Experts on the Abatement
+of Nuisances Caused by Air Transport (ANCAT) and the European
+Commission.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.139
+GOB (Government of Bangladesh) (1987), Bangladesh Energy Planning Project (BEPP),
+Final Report, Vol. I-VII, Sir Halcrow and Partners, Motor Columbus Consulting
+Engineering Inc., Petronus Consultants SA in association with TSL and PSL.
+Grubb, M.J. (1989),  On Coefficients for Determining Greenhouse Gas Emissions From Fossil
+Fuel Production and Consumption. Energy and Environmental Programme, Royal
+Institute of International Affairs, London, UK, April.  Prepared for IEA/OECD
+Expert Seminar on Energy Technologies for Reducing Emissions of Greenhouse Gases,
+Paris, France.
+Hadler, C. (1990), “Investigation of exhaust gas emission from heavy fuel operated diesel
+engines on board ships”. Proc. EMEP Workshop on Emissions From Ships. Oslo,
+Norway, June 7-8, 1990. State Pollution Control Authority, Oslo, Norway.
+Hall, D.O. and Y.S. Mao (eds.) (1994a), Biomass Energy and Coal in Africa, Zed Books,
+London, UK.
+Hall, D.O., F. Rosillo-Calle and J. Woods (1994b), Biomass Utilization in Households &
+Industry;  Energy Use and Development, Chemosphere 29:5, pp. 1099-1119.
+Hao, W.M., S.C. Wofsy, M.B. McElroy, J.M. Beer and M.A. Toqan (1987), “Sources of
+atmospheric nitrous oxide from combustion”. Journal of Geophysical Research
+92:3098-3104.
+Hargraves, A.J. (1990), "Coal seam gas and the atmosphere," in Greenhouse and Energy,
+North Ryde, NSW, Australia.
+Hitchcock D.R. and A.E. Wechsler (1972), Biological Cycling of Atmospheric Trace Gases,
+prepared for the National Aeronautics and Space Administration, Washington,
+DC, USA.
+Houghton, J. (1994), Global Warming, the Complete Briefing, Oxford, UK.
+IAEA (1993), Assessment of Data Bases on Energy Demand and Supply in Terms of their
+Adequacy for Use in Studies of Greenhouse Gas Emissions: Report of Advisory Group
+Meeting, IAEA, Vienna, 5-7 April, 1993. International Atomic Energy Agency,
+Vienna, Austria.
+ICAO (1994), Manual on the ICAO Statistics Programme, (Doc. 9069), International Civil
+Aviation Organization, Montreal, Canada.
+ICAO (1995), Engine Exhaust Emissions Databank.  First Edition-1995.  ICAO doc. 9646-
+AN/943.
+INGAA (1989), Global Warming and Methane Loss from Interstate Natural Gas Pipeline,
+(Interstate Natural Gas Association of America Rate and Policy Analysis
+Department, Washington, DC, USA.
+International Petroleum Encyclopedia (1990), Vol 23, PennWell Publishing Co., Tulsa,
+Oklahoma, USA.
+International Road Federation (1990), World Road Statistics 1986-1990. Edition 1990,
+Washington, DC and Geneva, Switzerland, September.
+IPCC (1992), Climate Change 1992:  The Supplementary Report to the IPCC Scientific
+Assessment. The Intergovernmental Panel on Climate Change (World
+Meteorological 
+Organisation/United 
+Nations 
+Environment 
+Programme).
+Cambridge University Press, UK.
+ENERGY
+1.140
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+IPCC/OECD (1991), Proceedings of a Workshop on National GHG Emission Methods,
+Geneva, 3-7 December, 1991. Intergovernmental Panel on Climate Change,
+Working Group I, Bracknell, UK and Organisation for Economic Co-operation
+and Development, Environment Directorate, Paris, France.
+IPCC/OECD (1993), IPCC/OECD Workshop on National GHG Inventories: Transparency in
+Estimation and Reporting, 1 October, 1992, Bracknell, UK.  IPCC/OECD Joint
+Programme on National GHG Inventories, Intergovernmental Panel on Climate
+Change and Organisation for Economic Co-operation and Development, Paris,
+France, April.
+JAERI (1988), Data provided through personal communication with Mr. Doug Hill,
+Operating Agent for the IEA Energy Technology Systems Analysis Project
+(ETSAP), Annex III, Japanese Atomic Energy Research Institute, Japan.
+Johansson, T.B., H. Kelly, A.K.N. Reddy and R.H. Williams (1992), Renewable Energy:
+Sources for Fuels and Electricity. Island Press, Washington, DC, USA.
+KfA (1993), personal communication from W. Katscher.
+Kirchgessner, D.A., S.D. Piccot and J.D. Winkler (1993), "Estimate of global methane
+emissions from coal mines," Chemosphere.
+Koyama, T. (1963), "Gaseous metabolism in lake sediment and paddy soils and the
+production of atmospheric methane and hydrogen," Journal of Geophysical
+Research, 68 (13):  3971.
+Lacaux, J.P., H. Cachier and R. Delmas (1993), “Biomass burning in Africa: An overview of
+its impact on atmospheric chemistry.”  In P.J. Crutzen and J.G. Goldammer (eds.)
+Fire in the Environment: The Ecological, Atmospheric and Climatic Importance of
+Vegetation Fires, J. Wiley & Sons Ltd.
+Lama, R.D. (1992), "Methane gas emissions from coal mining in Australia:  Estimates and
+control strategies."  In Proceedings of the IEA/OECD Conference on Coal, the
+Environment and Development:  Technologies to Reduce Greenhouse Gas Emissions,
+IEA/OECD, Paris, France, pp. 255-266.
+Leach, G. and M. Gowen (1987), Household Energy Handbook; an Interim Guide and
+Reference Manual, World Bank Technical Paper no. 67, World Bank, Washington
+D.C., USA.
+Levine, J.S. (ed.) (1990), Global Biomass Burning: Atmospheric, Climatic and Biospheric
+Implications. The MIT Press, Cambridge, MA, USA.
+Linak, W.P., J.A. McSorley, R.E. Hall, J.V. Ryan, R.K. Srivastava, J.O.L. Wendt and
+J.B. Mereb (1990), “Nitrous oxide emissions from fossil fuel combustion”. Journal
+of Geophysical Research 95:7533-7541.
+Lloyd’s Register (1995), Marine Exhaust Emissions Research Programme, Lloyd’s Register
+House, Croydon, England.
+Marland, G. and A. Pippin (1990), "United States emissions of carbon dioxide to the
+Earth's atmosphere by economic activity," Energy Systems and Policy, Volume 14,
+pp. 319-336.
+Marland, G., and R.M. Rotty (1984), “Carbon dioxide emissions from fossil fuels: A
+procedure for estimation and results for 1950-1982”, Tellus 36b:232-261.
+Melhus, O. (1990), “NOx emission factors from marine diesel engines”. Proc. EMEP
+Workshop on Emissions from Ships. Oslo, Norway, June 7-8, 1990. State Pollution
+Control Authority, Oslo, Norway.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.141
+Montgomery, T.A., G.S. Samuelsen and L.J. Muzio (1989), “Continuous infrared analysis of
+N2O in combustion products”. Journal of the American Chemical Society 39:721-
+726.
+Norwegian SPCA (1992a), Emissions of Greenhouse Gases in Norway - 1989. National versus
+IPCC estimation method (Transparency study). Rapport 92:29, State Pollution
+Control Authority, Norway.
+Norwegian SPCA (1992b), Letter on “Methane emissions from oil activities” from Audun
+Rosland, State Pollution Control Authority to Craig D. Ebert, ICF Incorporated.
+Norwegian Oil Industry Association - OLF (1993), Report from OLF Environmental
+Programme - Phase 2.
+OECD (1991), Estimation of Greenhouse Gas Emissions and Sinks; Final Report from OECD
+Experts Meeting 18-21 February 1991. Prepared for the IPCC, Paris, France.
+OECD/IEA (1996), Coal Information, International Energy Agency, OECD, Paris, France.
+OECD/IEA (1991), Greenhouse Gas Emissions:  The Energy Dimension.  International Energy
+Agency, OECD, Paris, France.
+OECD/IEA (1993a), Energy Balances of OECD Countries, 1990-1991.  International Energy
+Agency, OECD, Paris, France.
+OECD/IEA (1993b), Energy Statistics and Balances of Non-OECD Countries:  1990-1991.
+International Energy Agency, OECD, Paris, France.
+OECD/IEA (1996a), Energy Balances of OECD Countries, 1993-1994.  International Energy
+Agency, OECD, Paris, France.
+OECD/IEA (1996b), Energy Statistics and Balances of Non-OECD Countries:  1993-1994.
+International Energy Agency, OECD, Paris, France.
+OECD/IEA (1996c), Energy Statistics of OECD Countries, 1993-1994.  International Energy
+Agency, OECD, Paris, France.
+Okken, P.A. (1989), “Impact of NOx and CO2 constraints on the Netherlands energy
+system.”  In: Proceedings of the 8th World Clean Air Congress, The Hague, The
+Netherlands, September.
+Okken, P.A. and T. Kram (1989), “CH4/CO - Emission from fossil fuels global warming
+potential”, paper presented at the IEA/ETSAP - Workshop, Paris, France, June
+1989.  ESC-WR-89-12, Petten, The Netherlands, Energy Study Centre,
+Netherlands Energy Research Foundation.
+Okken, P.A., and T. Kram (1990), “Calculation of actual CO2 emissions from fossil fuels”.
+Presented at ETSAP-IV Workshop Petten, the Netherlands, 9-12 April 1990 and
+IPCC Preparatory Workshop, Paris, France, 22-23 May 1990.
+Olivier, J.G.J. (1991), Inventory of Aircraft Emissions: a Review of Recent Literature. RIVM
+Report No. 736 301 008. RIVM, Bilthoven, The Netherlands, November 1991.
+Olivier, J.G.J. (1993), “Working group report: nitrous oxide missions from fuel
+combustion and industrial processes”.  In A.R. van Amstel, (ed.), Proceedings of an
+International IPCC Workshop on Methane and Nitrous Oxide: Methods in National
+Emissions Inventories and Options for Control. RIVM Report No. 481507003,
+Bilthoven, The Netherlands.
+Olivier, J.G.J (1995), Scenarios for Global Emissions from Air Traffic, National Institute of
+Public Health and Environment (RIVM), Report No. 773 002 003, Bilthoven, the
+Netherlands.
+ENERGY
+1.142
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Olivier, J.G.J, A.F. Bouwman, C.W.M. van der Maas, J.J.M Berdowski, C. Veldt, J.P.J. Bloos,
+A.J.H. Visschedijk, P.Y.J. Zandveld and J.L. Haverlag (1995), Description of EDGAR
+Version 2.0; A set of global emission inventories of greenhouse gases and ozone-
+depleting substance for all anthropogenic and most natural sources on a per country
+basis and on 1o x 1o grid.  National Institute of Public Health and Environment
+(RIVM), RIVM Report No. 771060 002, TNO-MEP Report No. R96/119.
+Bilthoven, the Netherlands.
+PG&E (1990), Unaccounted for Gas Project Summary Volume Pacific Gas & Electric Company
+Research & Development, San Ramon, CA, USA; GRI-90/0067.1.
+Picard, D.J., B.D. Ross and D.W.H. Koon (1992), A Detailed Inventory of CH4 and VOC
+Emissions from Upstream Oil and Gas Operations in Alberta. Clearstone Engineering
+Ltd., for the Canadian Petroleum Association, March 1992.
+Pilcher, R.C., et al. (1991), Assessment of the Potential for Economic Development and
+Utilisation of Coalbed Methane in Poland. EPA/400/1-91/032, US Environmental
+Protection Agency, Washington, DC, USA.
+Polish Central Mining Institute (1990), Official Polish Methane Emissions Data for 1989,
+provided to Raven Ridge Resources, November 1990.
+Prigent, M. and G. De Soete (1989), Nitrous Oxide N2O in Engines Exhaust Gases - A First
+Appraisal of Catalyst Impact. SAE Paper No. 890492, SAE International,
+Warrendale, PA, USA.
+Rabchuk, V.I, N.I. Ilkevich and Y.D. Kononov (1991), A Study of Methane Leakage in the
+Soviet Natural Gas Supply System, prepared for the Battelle Pacific Northwest
+Laboratory, Siberian Energy Institute, Irktsk, USSR.
+Radian Corporation (1990), Emissions and Cost Estimates for Globally Significant
+Anthropogenic Combustion Sources of NOx, N2O, CH4, CO, and CO2. Prepared for
+the Office of Research and Development, US Environmental Protection Agency,
+Washington, D.C., USA.
+Radian Corporation (1992) Venting and Flaring Emissions from Production, Processing, and
+Storage in the US Natural Gas Industry,  Updated Draft Report prepared for the
+US EPA and the Gas Research Institute.
+Rentz, O., H.D, Haasis, T. Morgensterm, F. Pewrello-Aracena, J. Remmers and G. Schons
+(1988), Optimal Control Strategies for Reducing Emissions from Energy Conversion and
+Energy Use. Institute for Industrial Production, Karlsruhe, Germany, March.
+Rentz, O., R. Dorn, R. Holschumacher and C. Padberg (1992), Application of advanced SO2
+and NOx emission control technologies at stationary combustion installations in OECD
+countries, Institute for Industrial production, University of Karlsruhe, Germany.
+Riveros, H., J. Tejeda, L. Ortiz, A. Julián-Sánchez, H. Riveros-Rosas (1995), Hydrocarbons
+and Carbon Monoxide in the Atmosphere of Mexico City, J. Air & Waste Manage
+Assoc. 45: 973-980.
+Ryan, P. and K. Openshaw (1991), “Assessment of biomass energy resources: A
+discussion of its need and methodology”, World Bank Energy Series Paper No. 48.
+Washington, DC, USA.
+Schneider-Fresenius, W., R.A. Hintz, U. Hoffmann-Meienbrock, W. Klopffer and
+J. Wittekind (1989) Determination of Methane Emission into the Atmosphere due to
+Losses in the Natural Gas Supply System of the Federal Republic of Germany -
+Contribution of Methane to the Global Greenhouse Effect. Battelle-Institut, Frankfurt,
+Germany.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.143
+Seiler, W. (1984), "Contribution of biological processes to the global budget of CH4 in
+the atmosphere." In: Current Perspectives in Microbial Ecology, American Society for
+Microbiology, Washington, DC, USA.
+Seltzer, H. and W. Zittel (1990), Emissions of Methane Gas Affecting the Climate:  An
+Investigation of Global Methane Emissions from the Use of Fossil Fuels, Waste
+Incineration, Agriculture, and the Earth, LBST-Report No. 10/90, Ottobrunn,
+Germany.
+Smith, I.M. and L.L. Sloss (1992), Methane Emissions from Coal:  IEA Perspectives. IEAPER/04,
+London, UK, November 1992.
+Smith, K.R. and J. Ramakrishna (1990), Biomass Fuels and Health, in: Lamptey et al. (1990),
+Bioenergy, Wiley Eastern Ltd, IDRC, Ottawa, Canada.
+Smith, K.R., M.A.K. Khalil, R.A. Rasmussen, S.A. Thornloe, F. Manegdeg and M. Apte
+(1993), Greenhouse Gas Emissions from Biomass and Fossil Fuel Stoves in Developing
+Countries: a Manila pilot study, Chemosphere 26:1-4, pp. 479-505.
+Southern California Gas Company (SOCAL) (1992), Unaccounted for Gas Project Summary
+Volume SOCAL Research & Development, Los Angeles, CA, USA.
+Statens forurensningstilsyn (1990), Klimagass Regnskap for Norge. Oslo, Norway.
+Stockton, M.B. and J. Stelling (1987), Criteria Pollutant Emission Factors for the 1985 NAPAP
+Emissions Inventory. EPA-600/7-87-015. Office of Research and Development,
+US EPA, Washington, DC, USA.
+Summers, G. (1993), Personal communication on behalf of the Coal Industry Advisory
+Board, Global Climate Committee, 22nd July.
+Susuki, M., M. Nakazawa, T. Hidaka and M. Kaneko (1992): “Study on N2O emission from
+motor vehicles”. Proc. of the 33rd Annual meeting of the Japan Society of Air Pollution,
+347, Osaka, Japan, 1992.
+TNO (1993), Proceedings of the TNO/EUROSAP Workshop, Delft, June 1993. TNO, Institute
+of Environmental Sciences, Petten, The Netherlands.
+UK Offshore Operators Association Ltd (1993), Methane Emissions From Offshore Oil &
+Gas Exploration & Production Activities. Submitted to The Watt Committee on
+Energy.
+UN (1996), 1994 Energy Statistics Yearbook.  United Nations, New York, USA.
+UN ECE (1989), Annual Bulletin of Transport Statistics for Europe:  Volume XXXIX. United
+Nations, New York, USA.
+US CSP (1996), Greenhouse Gas Emission Inventories.  Interim results from the US Country
+Studies Program.  Environmental Science and Technology Library 9.  Kluwer Acad.
+Publishers, UK.
+US DOE/EIA (1992), Analysis of the Relationship Between the Heat and Carbon Content of US
+Coals. Energy Information Administration, Department of Energy, USA,
+September.
+US EPA (1985a), “Compilation of Air Pollutant Emission Factors”, Vol. I, Stationary Point
+and Area Sources, AP-42, 4th Edition 1985; Suppl. A/1986, Suppl. B/1988, Suppl.
+C/1990. Environmental Protection Agency, USA.
+US EPA (1985b), “Compilation of Air Pollutant Emission Factors”:  Highway Mobile
+Sources. AP-42, Fourth Edition, Ann Arbor, Michigan, USA.
+ENERGY
+1.144
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+US EPA (1992), Procedures for Emission Inventory Preparation, Vol. IV:  Mobile Sources,
+EPA-450/4-81-026d.
+US EPA (1993a). Anthropogenic Methane Emissions in the United States:  Estimates for 1990,
+Report to the US Congress, US Environmental Protection Agency, Office of Air and
+Radiation, Washington, DC, USA.
+US EPA (1993b), “Compilation of Air Pollutant Emission Factors”, Vol. I, Stationary Point
+and Area sources, AP-42, Supplement F. US Environmental Protection Agency,
+USA.
+US EPA (1993c), Global Anthropogenic Methane Emissions:  Estimates for 1990, Report to the
+US Congress, , US Environmental Protection Agency, Office of Policy, Planning and
+EvaluationWashington, DC, USA.
+US EPA (1994a), User's Guide to Mobile5 (Mobile Source Emission Factor Model, EPA-AA-
+AQAB-94-01, US Environmental Protection Agency, Office of Mobile Sources, ,
+Ann Arbor, MI, USA.
+US EPA (1994b), International Anthropogenic Methane Emissions, Estimates for 1990 (Report
+to Congress). EPA 230-R-93-010, , US Environmental Protection Agency, Office
+of Policy Planning and EvaluationWashington, DC, USA.
+US EPA (1995), Compilation of Air Pollutant Emission Factors. Vol. I: Stationary Point and
+Area Sources, 5th Edition, AP-42; US Environmental Protection Agency, Office
+of Air Quality Planning  and Standards, Research Triangle Park, North Carolina,
+USA.
+US GS (1993), personal communication.
+US Office of Environment and Energy (1991), FAA Aircraft Emission Database User’s
+Manual.
+Veldt, C. (1991), Development of EMEP and CORINAIR Emission Factors and Species Profiles
+for emissions of Organic Compounds. IMET-TNO Report 91-299.
+Veldt, C. and J.J.M. Berdowski (1995), GEIA-note on the combustion of biomass fuels
+(Emission factors for CO, CH4  and NMVOC), TNO-MW-R94/218, Delft, the
+Netherlands.
+Vernon, J.L. (1990), “Coal and Environmental Quality Throughout the 1990s and Sulphur
+Emissions Worldwide”, Energy Business Review, 1(2), pp. 35-60 (Oct-Dec 1990).
+Venon, J.L. and T. Jones (1993), Sulphur and Coal, IEA Coal Research, IEACR/57, London,
+UK.
+Weaver, C.S. (1988), Feasibility and Cost-Effectiveness of Controlling Emissions from Diesel
+Engines Used in Rail, Marine, Construction, Farm, and Other Mobile Off-Highway
+Equipment. Report under EPA Contract No. 68-01-7288, Radian Corporation,
+Sacramento, CA, USA.
+Wiesen, P., J. Kleffmann, R. Kortenbach and K.H. Becker (1994), Nitrous Oxide and
+Methane Emissions from Aero Engines, Geophys. Res. Lett. 21:18 2027-2030.
+Williams, A. and C. Mitchell (1992), Methane Emissions from Coal Mining, Department of
+Fuel and Energy, The University of Leeds, Leeds, UK.
+Wuebbles, D.J., S.L. Baughcum, M. Metwally and R.K. Seals Jr. (1993) Emissions Scenario
+Development, Emissions scenarios committee report in: Stolarski, R.S. and H.L.
+Wesoky (1993), The Atmospheric Effects of Stratospheric Aircraft: a third program
+report.  NASA, Reference Publication RP-1313.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.145
+Zeedijk, H. (1986), “Emissions by Combustion of Solid Fuels in Domestic Stoves”. Proc. 7th
+World Clean Air Congress, Sydney, Australia, H.F. Hartmann (ed.)., Vol. IV,
+pp. 78-85.
+Zimmermeyer, G. (1989), Methane Emissions and Hard Coal Mining, Glückaufhaus, Essen,
+Germany, Gesamtverband des deutschen Steinkohlenbergbaus, personal
+communication.

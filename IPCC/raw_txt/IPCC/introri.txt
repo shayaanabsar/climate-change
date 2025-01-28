@@ -1,0 +1,254 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+I N T R O D.1
+I N T R O D U C T I O N  T O  T H E
+R E P O R T I N G  I N S T R U C T I O N S
+1
+Using the Reporting Instructions
+If you are engaged in preparing a national inventory you should read the
+Reporting Instructions. Even if you have already made an inventory, or have
+started to do so, and are simply reporting existing data to IPCC, you should
+still read them. These instructions provide the primary means of ensuring
+that all reports are consistent, transparent and comparable. The remaining
+chapters in this book are as follows:
+Chapter 1: Understanding the Common Reporting Framework contains a listing
+of the categories you should use when reporting emissions and removals.
+Each of the categories is further broken down into sub-categories and given
+a definition if necessary. It also contains a listing of the basic fuel categories,
+some standard equivalents and unit definitions, and descriptions of the
+Sectoral Report Tables and Summary Report Tables used for reporting an
+inventory in IPCC format.
+Chapter 2: Reporting the National Inventory contains step-by-step instructions
+for completing the Sectoral Report Tables and Summary Report Tables that
+are used to bring together and make a record of the estimates which have
+been made in your own inventory.
+Tables: You will use these tables to assemble data from your national
+greenhouse gas inventory and present them in the IPCC reporting format.
+Finally, having completed the Sectoral Report Tables and the Summary
+Report Tables, you can assess the quality and completeness of the inventory
+by completing the Overview Table which provides a synoptic view of the
+results of the IPCC Greenhouse Gas Inventory.
+Annex 1: Managing Uncertainties provides guidance on the theoretical
+considerations involved in taking account of uncertainties in creating an
+inventory.
+INTRODUCTION
+I N T R O D.2
+  R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+Annex 2: IPCC and CORINAIR Source Categories looks at the ways in which
+data assembled for the CORINAIR inventory conducted by the European
+Union (EU) member countries as well as by the United Nations Economic
+Commission for Europe (UNECE) and IPCC data relate to each other.
+Glossary:  A glossary containing definitions of terms used in the Guidelines
+can be found at the end of this book.
+2
+Underlying Principles
+The Revised 1996 IPCC Guidelines allow for the use of a range of methods at
+different levels of detail, including methods which are appropriate to
+national conditions. Default methods and assumptions are provided for
+calculating the major emissions and removals of greenhouse gases at the
+minimum acceptable level of detail. The IPCC default methods have been
+developed with efficiency in mind. They build on data that are readily
+available and should be easily applicable to all countries of the world. More
+detailed methods are also discussed in the Guidelines and national experts
+are encouraged to use them wherever this is possible and likely to produce
+more accurate national estimates. In some cases, national experts may
+choose to use an entirely different methodology if they believe this better
+reflects their national situation. Common reporting instructions are
+therefore needed to accommodate inventories developed at different levels
+of detail and (potentially) with different methods. The objective of the
+instructions is to establish minimum requirements for reporting data which
+allow for comparison and identification of differences in inventory
+construction (transparency). For this reason the IPCC recommends that all
+users of the Guidelines follow the Reporting Instructions explicitly when they
+communicate their national inventories to the IPCC or other international
+bodies.
+Several main principles underlie the Revised 1996 IPCC Reporting Instructions:
+•
+Common Reporting Framework
+The core of the reporting system is the establishment and use of a
+standard table format using common source/sink categories and
+common fuel categories. Common definitions of pollutants, units, and
+time intervals are necessary. Ultimately, all countries should be
+working toward complete greenhouse gas inventories within each, and
+across all, greenhouse gases.
+Emission inventory results should be transmitted using the Sectoral
+and Summary Report Tables . Use of these reporting conventions will
+not only enhance the comparability of data, it will facilitate the speed
+with which inventories can be processed, made available in summary
+form, aggregated and reviewed internationally.
+•
+Documentation Standards
+Documentation standards are necessary to ensure transparency of
+national inventories and hence to allow the inventory to be reviewed.
+By providing the necessary documentation, the comparability of
+national inventories can also be evaluated. Therefore, along with
+Sectoral and Summary Report Tables, countries should provide the
+worksheets used to develop the national  inventory, containing at least
+INTRODUCTION
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+I N T R O D.3
+all major assumptions activity data and emission factors. The IPCC also
+recommends that, countries submit a description of the method used,
+any definitions, as well as other relevant assumptions that cannot be
+summarised in table form. Enough data should be provided to allow a
+third party to reconstruct the inventory from national activity data and
+assumptions (the working definition of transparency).
+To limit the volume of data to be provided, written documentation
+should focus on describing fully any differences in method and
+assumptions from the IPCC default methods.
+•
+Verification and Uncertainty Assessment
+To improve the quality of inventory data and to help assess the
+uncertainty surrounding estimates, the Revised 1996 IPCC Reporting
+Instructions recommend that inventories be verified through the use of
+a set of simple checks for completeness and accuracy of submissions.
+These checks can be performed centrally, although it is preferable for
+the countries to do as much as possible themselves.  Finally, an
+uncertainty assessment should also be conducted as far as possible and
+summarised for each major part of the inventory. Conceptual guidance
+for the assessment of the uncertainty of emission estimates are
+provided in Annex 1 Managing Uncertainties. Other approaches to
+describing uncertainty associated with point estimates of emissions and
+removals are also possible.  Whether you use one of the approaches
+provided by the IPCC or another approach, you should include an
+uncertainty discussion in your inventory submission.
+Each of these three principles is addressed in more detail in the following
+chapters.
+INTRODUCTION
+I N T R O D.4
+  R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+3
+Basic Information to Help Work with
+the IPCC Guidelines
+P r e f i x e s  a n d  m u l t i p l i c a t i o n  f a c t o r s
+The following multiplication factors are used throughout the Guidelines:
+Multiplication
+Factor
+Abbreviation
+Prefix
+Symbol
+1 000 000 000 000 000
+1015
+peta
+P
+1 000 000 000 000
+1012
+tera
+T
+1 000 000 000
+109
+giga
+G
+1 000 000
+106
+mega
+M
+1 000
+103
+kilo
+k
+100
+102
+hecto
+h
+10
+101
+deca
+da
+0.1
+10-1
+deci
+d
+0.01
+10-2
+centi
+c
+0.001
+10-3
+milli
+m
+0.000 001
+10-6
+micro
+µ
+A b b r e v i a t i o n s  f o r  c h e m i c a l  c o m p o u n d s
+The following abbreviations are used in the Guidelines:
+CH4
+Methane
+N2O
+Nitrous Oxide
+CO2
+Carbon Dioxide
+CO
+Carbon Monoxide
+NOx
+Nitrogen Oxides
+NMVOC
+Non-Methane Volatile Organic Compound
+NH3
+Ammonia
+CFCs
+Chlorofluorocarbons
+HFCs
+Hydrofluorocarbons
+PFCs
+Perfluorocarbons
+SO2
+Sulphur Dioxide
+SF6
+Sulphur hexafluoride
+CCl4
+Carbon tetrachloride
+C2F6
+Hexafluoroethane
+INTRODUCTION
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+I N T R O D.5
+S t a n d a r d  e q u i v a l e n t s
+1 tonne of oil equivalent (toe)
+1 x 1010 calories
+103 toe
+41.868 TJ
+1 short ton
+0.9072 tonne
+1 tonne
+1.1023 short tons
+1 tonne
+1 megagram
+1 kilotonne
+1 gigagram
+1 megatonne
+1 teragram
+1 kilogram
+2.2046 lbs
+1 hectare
+104 m2
+1 calorie IT
+4.1868 Joules
+1 atmosphere
+101.325 kPa
+U n i t s 1 a n d  a b b r e v i a t i o n s
+The following abbreviations are used in the Guidelines:
+cubic metre
+m3
+hectare
+ha
+gram
+g
+tonne
+t
+joule
+J
+degree Celsius
+°C
+calorie
+cal
+year
+yr
+capita
+cap
+gallon
+gal
+dry matter
+dm
+                                                  
+     1 For decimal prefixes see previous page.

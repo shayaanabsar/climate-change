@@ -1,0 +1,1183 @@
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.21
+S T E P  2   C A L C U L A T E  A N N U A L  C A R B O N
+U P T A K E  I N  A B O V E G R O U N D  B I O M A S S  ( L A N D
+A B A N D O N E D  F O R  M O R E  T H A N  T W E N T Y
+Y E A R S )
+1 
+Enter the Total Area Abandoned for more than Twenty Years (in
+kilohectares) in column G.
+2 
+Enter the Annual Rate of Aboveground Biomass Growth (in tonnes of
+dry matter per hectare) in column H.
+ 
+Table 5-8 provides default values.
+3 
+Multiply the Total Area Abandoned (column G) by the Annual Rate of
+Aboveground Biomass Growth (column H) to give the Annual
+Aboveground Biomass Growth (in kt dm).  Enter the result in column I.
+4 
+Enter the Carbon Fraction of Aboveground Biomass in column J
+(default fraction 0.5).
+5 
+Multiply the Annual Aboveground Biomass Growth (column I) by the
+Carbon Fraction of Aboveground Biomass (column J) to give the
+Annual Carbon Uptake in Aboveground Biomass.  Enter the result in
+column K.
+6 
+Add the figures in column K and enter the total in the Subtotal box at
+the bottom of the column.
+S T E P  3   C A L C U L A T E  T O T A L  C O 2 R E M O V A L S
+F R O M  A B A N D O N E D  L A N D S
+1 
+Add the subtotals from columns E and K and enter the Total Carbon
+Uptake from Abandoned Lands in column L.
+2 
+Multiply the Total Carbon Uptake from Abandoned Lands by 44/12 to
+give the Total Carbon Dioxide Uptake from the abandonment of
+managed lands in Gg.  Enter the result in column M.
+3 
+For summary reporting purposes and for consistency with other
+emission/removal categories, it is necessary to reverse the sign of these
+results, so that the removal of CO2 by abandoned lands is expressed as
+a negative (i.e., negative emissions) value.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the
+end of this section to complete
+the inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+LAND USE CHANGE & FORESTRY
+5.22
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 5-8
+ANNUAL AVERAGE ABOVEGROUND BIOMASS GROWTH BY NATURAL REGENERATION
+(TONNES DM/HA)
+Tropical Forests
+Wet
+Moist
+with Short
+Dry Season
+Moist
+with Long
+Dry Season
+Dry
+Montane
+Moist
+Montane
+Dry
+R ≥ 2000
+2000>R>1000
+R≤1000
+R>1000
+R<1000
+Africa
+≤20 years
+>20 years
+10
+2.5
+5.3
+1.3
+2.3-2.5
+0.6-3.0
+0.8-1.5
+0.2-1.6
+5
+1
+2
+0.5
+Asia:
+Continental
+≤20 years
+>20 years
+Insular
+≤20 years
+>20 years
+11
+3
+13
+3.4
+9
+2
+11
+3
+6
+1.5
+no data
+5
+1.3
+little to
+none exist
+5
+1
+12
+3
+no data
+none exist
+America
+≤20 years
+>20 years
+10
+2.6
+no data
+4
+1
+4
+1
+5
+1.4
+1.8
+0.4
+Note: R= annual rainfall in mm/yr
+Temperate Forests
+0-20 Years
+20-100 Years
+Coniferous
+3.0
+3.0
+Broadleaf
+2.0
+2.0
+Boreal Forests
+0-20 Years
+20-150 Years
+Mixed Broadleaf-Coniferous and
+Broadleaf
+0.7-2.0
+0.7-6.4
+Coniferous
+0.5-1.9
+0.5-5.0
+Forest-tundra
+0.2-0.5
+ALL OF THESE REGIONAL AVERAGE GROWTH RATES SHOULD BE CONSIDERED INDICATIVE ONLY.  IF
+FORESTS ARE A SIGNIFICANT PART OF A COUNTRY’S TOTAL GREENHOUSE GAS INVENTORY, LOCALLY
+AVAILABLE DATA OR EXPERT JUDGEMENT SHOULD BE SOUGHT TO DEVELOP VALUES REFLECTING
+CONDITIONS AND PRACTICES.
+See Reference Manual for sources.
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.23
+5.6 
+CO 2 Emissions or Uptake by Soil
+from Land-Use Change and
+Management
+5 . 6 . 1  I n t r o d u c t i o n
+The methodology includes estimates of net CO2 emissions (sinks and
+sources) from three processes: 1) changes in carbon stored in soil and litter
+of mineral soils due to changes in land-use practices, 2) CO2 emissions from
+organic soils converted to agriculture or plantation forestry, and 3) CO2
+emissions from liming of agricultural soils.  At present, CO2 emissions or
+uptake associated with naturally ocurring carbonate minerals in soils are not
+included.
+5 . 6 . 2  D a t a  S o u r c e s
+There are no standard global data sets available for these calculations.  The
+primary data needed are information on the distribution of different soil
+types and land-use practices within a country.  Information to estimate
+impacts of various land-use practices on soil carbon inventories can be
+obtained from long-term field experiments.  Sources of such information
+include:
+• Soil survey and other national resource inventories
+• Land-use statistics, agricultural production statistics
+• Compendia of long-term field experiments. (See Reference Manual for
+references.)
+Information for estimating CO2 emissions from lime applications can be
+obtained from statistics of lime use or derived from production and import-
+export statistics.
+5 . 6 . 3  M e t h o d o l o g y
+The calculations for CO2 emissions from mineral soils are based on an
+accounting of changes in soil (and litter) carbon stocks as a function of
+changes in land-use and agricultural management practices.  To calculate
+changes in carbon stocks a twenty-year inventory period is used.  This
+requires that an estimate of the distribution of land-use systems by soil
+types is needed for the present (i.e., inventory) year and for twenty years
+ago.  See the Reference Manual for an example calculation.  Estimates of soil
+carbon stocks are based on the top 30 cm of the soil profile only.  Deeper
+soil layers can also have appreciable carbon stocks, particularly in tropical
+soils, but they are generally much less impacted by changes in land
+use/management than are topsoil layers and there are less data available for
+deeper soil layers.
+LAND USE CHANGE & FORESTRY
+5.24
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+The calculations for CO2 emissions from organic soils are performed using
+annual emission estimates which depend on climate region and landuse.
+Thus they require data on the areal extent of organic soils which are
+presently used and their current landuse.  The emission rates provided in
+the method are derived from a world-wide survey of the scientific
+literature.
+The calculations for emissions from agricultural liming require only data on
+the amount and (preferably) the type of material applied.
+C o m p l e t i n g  t h e  W o r k s h e e t s
+Use WORKSHEET 5-5 CHANGE IN SOIL CARBON FOR MINERAL SOILS at the end of
+this module to record inventory data.
+S T E P  1   E S T I M A T I N G  T H E  D I S T R I B U T I O N  O F
+L A N D - U S E / M A N A G E M E N T  S Y S T E M S  B Y  S O I L
+T Y P E S  ( F O R  M I N E R A L  S O I L S  O N L Y )  F O R  T H E
+B E G I N N I N G  A N D  E N D  O F  T H E  I N V E N T O R Y
+P E R I O D
+1 
+Define the types of land-use management systems to be used in the
+inventory.
+2 
+Enter the Land-use/Management System in column A.
+ 
+Worksheet 5-5, sheet 1 should be copied as needed to accommodate
+all the management systems used in the inventory (see Appendix in the
+Workbook and Table 5-10 in Reference Manual for an example).
+3 
+Enter the Land Area in column E for each system subdivided by soil
+type in million hectares for the current inventory year (t).
+ 
+If a land-use system does not occur on a particular soil type, a zero
+("0") should be entered.
+4 
+Enter the Land Area in column D for the inventory year, (t-20), i.e.,
+twenty years prior to the current inventory year.
+ 
+Note: The total areas for each soil type (summed over  all land-use
+systems) in year, t, and year, t-20, must be the same.  As a check, sum
+values in column D over all land-use systems.  Repeat for all values in
+column E.  The sums for columns D and E must be identical (i.e. equal
+to the total land area in the inventory).
+LAND-USE MANAGEMENT SYSTEMS
+These should represent the major
+types of land management systems
+present in the country as well as
+ecosystem types which are either
+being converted to agriculture (e.g.,
+forest, savanna, grassland) or have
+been 
+derived 
+from 
+previous
+agricultural landuse (e.g., abandoned
+lands, reforested lands).  Systems
+should also reflect differences in soil
+carbon stocks that can be related to
+differences in management.  For
+shifts in management where changes
+in carbon stocks occur over a
+relatively long time (i.e., > 10 years),
+one or more "successional" systems
+(e.g., young abandoned land, old
+abandoned land) should be defined
+(see Step 2).  Examples of default
+management systems for different
+climatic regions are given in the
+Appendix.
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.25
+S T E P  2   A S S I G N  C A R B O N  S T O C K  V A L U E S
+A C C O R D I N G  T O  L A N D - U S E / M A N A G E M E N T
+S Y S T E M  A N D  S O I L  T Y P E
+1 
+For native ecosystem types, enter the Soil Carbon values into column C
+in tonnes C/ha.  Table 5-9 shows default values.
+In cases where the ecosystem is agriculturally-impacted, use the
+Supplemental Worksheet 5-5A to estimate soil carbon instead.
+For agriculturally-impacted systems the following equation is used:
+Soil Carbon managed = Soil Carbon native x Base factor x Tillage factor
+x Input factors
+Worksheet 5-5A (Supplemental): 
+SOIL 
+CARBON 
+FOR 
+AGRICULTURALLY
+IMPACTED LANDS.
+1 Enter the Land-use/Management System in column A, as identified in
+Step 1 of Worksheet 5-5.
+ 
+Worksheet 5-5A (Supplemental) should be copied as needed to
+accommodate all the management systems.
+2 Enter Soil Carbon under Native Vegetation into column C. Table 5-9
+provides default values.
+3 Enter the Base Factor into column D. Table 5-10 provides default values.
+4 Enter the Tillage Factor into column E. Table 5-10 provides default
+values. Where no default or country-specific data are available, enter 1.
+5 Enter Input Factors into column F. Table 5-10 provides default values.
+Where no default or country-specific data are available, enter 1.
+6 Multiply the values in columns C, D, E and F.  Enter these values into
+column G to obtain the Soil Carbon into Agriculturally-Impacted Lands.
+7 Enter the values in column E into column C of Worksheet 5-5, sheet 1.
+DEFAULT TILLAGE AND INPUT
+FACTORS
+Default Tillage and Input Factors,
+can be found in Table 5-10,
+according to the default definitions
+of Land-Use Management Systems
+shown. Please note that the all
+definitions found in the Appendix
+can be categorised under the default
+definitions summarised in Table 5-
+10.
+LAND USE CHANGE & FORESTRY
+5.26
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 5-9
+APPROXIMATE SOIL CARBON CONTENTS
+UNDER NATIVE VEGETATION
+ (TONNES C/HA FOR 0-30 CM DEPTH)
+Region
+High activity
+soils
+Low activity
+soils
+Sandy
+soils
+Volcanic soils
+(Andisols)
+Wetland soils
+(Aquic)
+Cold temperate,
+dry
+50
+40
+10
+20
+70
+Cold temperate,
+moist
+80
+80
+20
+70
+180
+Warm temperate,
+dry
+70
+60
+15
+70
+120
+Warm temperate,
+moist
+110
+70
+25
+130
+230
+Tropical, dry
+60
+40
+4
+50
+60
+Tropical, moist-
+long dry season
+100
+50
+5
+70
+100
+Tropical, moist-
+short dry season
+140
+60
+7
+100
+140
+Tropical, wet
+180
+70
+8
+130
+180
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.27
+TABLE 5-10a
+COEFFICIENTS USED IN DEFAULT CALCULATION PROCEDURES
+System
+SGb
+BF
+Tillage Factorc
+Input Factorsd
+Temperate
+No
+tillage
+Red.
+tillage
+Full
+tillage
+Low
+input
+Med.
+input
+High
+input
+Mature
+fallow
+Shortened
+fallow
+Long-term
+cultivated
+A,B,C,D
+0.7
+1.1
+1.05
+1.0
+0.9
+1.0
+1.1/1.2
+Long-term
+cultivated
+E
+0.6
+1.1
+1.05
+1.0
+0.9
+1.0
+1.1/1.2
+Improved
+pasture
+All soils
+1.1
+ND
+ND
+ND
+Set aside
+(<20 years)
+All soils
+0.8
+ND
+ND
+ND
+Set aside
+(>20 years)
+All soils
+0.9
+ND
+ND
+ND
+Tropical
+Long-term
+cultivated
+A,B,C,D
+0.6
+1.1
+1.0
+0.9
+0.8
+0.9
+1.1/1.2
+Long-term
+cultivated
+E
+0.5
+1.1
+1.0
+0.8
+0.8
+0.9
+1.1/1.2
+Wetland
+(Paddy) rice
+All
+soils
+1.1
+ND
+ND
+ND
+ND
+ND
+ND
+Shifting
+cultivation
+(including
+fallow)
+All
+soils
+0.8
+ND
+ND
+ND
+ND
+ND
+ND
+1.0
+0.8
+Abandoned/
+Degraded land
+All
+soils
+0.5
+Unimproved
+pasture
+All soils
+0.7
+ND
+ND
+ND
+Improved
+pasture
+All
+soils
+1.1
+ND
+ND
+ND
+a Filled portions of the table, where tillage and input factors are not given, denote instances where these factors are not applicable to a
+management system.  Where tillage or input factors were not determined (ND), information was deemed insufficient to go beyond
+estimating a base factor.
+SG = Soil Group, BF = Base Factor, Red. = Reduced, Med. = Medium.
+b Soil groups A = High activity, B = Low activity, C = Sandy, D = Volcanic, E = Aquic
+c Use of no-till is assumed to increase soil C by over full tillage (full soil inversion).  Reduced tillage (i.e., significant soil disturbance but
+without inversion) is assumed to yield small increases over full tillage.
+d Input factors apply to residue levels and residue management, use of cover crops, mulching, agroforestry, bare fallow frequency in semi-
+arid temperate systems.  Low input applies to where crop residues are removed or burned, or use of bare fallow; medium input to where
+crop residues are retained; high input applies to where residue additions are significantly enhanced with addition of mulches, green
+manures, or enhanced crop residue production (1.1) or regular addition of high rates of animal manure (1.2), relative to the nominal
+(medium) case.
+LAND USE CHANGE & FORESTRY
+5.28
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+S T E P  3   C A L C U L A T I N G  N E T  A N N U A L
+E M I S S I O N S  F R O M  M I N E R A L  S O I L S .
+1 
+Multiply the Soil Carbon value in column C by the Land Area in
+column D.  Enter this value in column F.
+2 
+Multiply the Soil Carbon value in column C by the Land Area in
+column E.  Enter the value in column G.
+3 
+Subtract the value in column F from column G.  Enter this value in
+column H for the Net Change in Soil Carbon in Mineral Soils for each
+landuse by soil type.
+ 
+Negative values represent net losses of carbon and positive
+values are net gains in stored carbon.
+4 
+Sum values in the column H over all land-use/management systems and
+enter this value at the bottom of column H.
+S T E P  4   C A L C U L A T I N G  A N N U A L  E M I S S I O N S
+F R O M  O R G A N I C  S O I L S
+1 
+Enter the Land Area (in hectares) of organic soils into column A of
+Worksheet 5-5, sheet 2, for the appropriate climate zone (see
+Appendix for climate zone definitions) and soils use.
+2 
+Enter the Annual Loss Rate in column B.  Default values are provided in
+Table 5-11. Use country specific data where available.
+3 
+Multiply the Land Area in column A by the Annual Loss Rate in column
+B and enter this value in column C.
+4 
+Sum the values in column C and enter this value at the bottom of the
+column.
+S T E P  5   C A L C U L A T I N G  A N N U A L  E M I S S I O N S
+F R O M  L I M I N G  O F  A G R I C U L T U R A L  S O I L S
+1 
+Enter the Total Annual Amount of Lime (country-wide), into column A
+of Worksheet 5-5, sheet 3, according to the type of lime.  If
+information is not available on the type of lime applied, assume all lime
+to be limestone (CaCO3).
+2 
+Multiply values in column A by the Carbon Conversion Factors in
+column B and enter these values in column C.
+3 
+Sum the values in column C and enter at bottom of the column.
+ORGANIC SOILS UNDER INTENSIVE
+USE
+Emissions of CO2 from organic soils
+are only considered for soils which
+are currently under intensive use
+for crop production or plantation
+forestry.  Organic soils under native
+ecosystem types (which are likely to
+have stable or increasing C stocks)
+are not to be included in the
+inventory.
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.29
+S T E P  6   E S T I M A T E S  F O R  T O T A L  N E T
+E M I S S I O N S  F R O M  S O I L S
+1 
+Enter the Total Net Change in Soil Carbon in Mineral Soils from all
+Worksheets 5-5, sheet 1, into column A (first row).
+2 
+Enter the Total Net Carbon Loss from Organic Soils from all
+Worksheets 5-5, sheet 2 into column A (second row).
+3 
+Enter the Carbon Emissions from Liming from Worksheet 5-5, sheet 3
+into column A (third row).
+4 
+Multiply the values in column A by Unit Conversion Factors in column
+B to express all values as Total Annual Carbon Emissions in Gigagrams
+per year.  Enter these values in column C.
+ 
+Note that the explicit sign (i.e., + or -) for the change of
+carbon stocks for mineral soils must be carried over from
+Worksheet 5-5, sheet 1.
+5 
+Multiply each value in column C by 44/12 and enter in column D.
+6 
+Sum all values in column D and enter in the bottom of the column to
+obtain the (net) Total Annual CO2 Emissions from agriculturally-
+impacted soils.
+TABLE 5-11
+DEFAULT VALUES FOR CARBON LOSS
+FROM ORGANIC SOILS
+Agricultural Use of
+Organic Soils
+Annual Loss Rate
+(MgC/ha/yr)
+Cool temperate
+Upland crops
+1.0
+Pasture/Forest
+0.25
+Warm temperate
+Upland crops
+10
+Pasture/Forest
+2.5
+Tropical
+Upland crops
+20
+Pasture/Forest
+5
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.31
+Appendix: Default Definitions of
+Land-Use/Management Systems
+1.   COLD TEMPERATE, DRY
+Characterised by mean annual temperature (MAT) of < 10°C and
+annual precipitation less than evapotranspiration.  Crop production
+is limited by inadequate water, and by a relatively short growing season and
+harsh winters which restrict the choice of crops.  Includes the following
+areas: northern portion of the Great Plains of North America, and
+extensive areas in central and eastern Asia.
+a) Rangeland (unimproved): grassland, often dominated by native species,
+used to support grazing livestock (chiefly cattle) at comparatively low
+intensity.  Usually receive only minimal inputs for fertility amendment or
+pest control.
+b) Small grain with summer-fallow: predominantly spring annuals (e.g.,
+wheat, barley, flax, rapeseed/canola) grown in a sequence with periodic
+summer-fallow (a practice, used to replenish soil moisture and nutrients,
+whereby land is left unplanted for an entire growing season and weeds
+are controlled by tillage and/or herbicide application).  Soils typically
+receive only minor inputs of nutrients and other amendments.
+c) Small 
+grain 
+with 
+continuous 
+cropping 
+- 
+conventional 
+tillage:
+predominantly spring annuals, either in monoculture or in various
+combinations (including wheat, barley, oats, flax, canola, rye, mustard,
+lentil, pea).  Continuous cropping requires higher inputs of nutrients
+than cropping systems with summer fallow.  Weed control is achieved
+using herbicides (during growing season) in combination with tillage in
+spring and/or fall.
+d) Small grain with continuous cropping - no till: predominantly spring
+annuals, either in monoculture or in various combinations (including
+wheat, barley, oats, flax, canola, rye, mustard, lentil, pea).  Continuous
+cropping requires higher inputs of nutrients than cropping systems with
+summer fallow.  Weed control is achieved using only herbicides, and
+crops are seeded without prior tillage directly into residues remaining
+from the previous crop.
+e) Small grain/forage rotations: predominantly perennial grasses or legumes,
+interrupted periodically by several consecutive annual crops (typically
+spring-seeded cereals or oilseeds).  A typical rotation might be five to 10
+years in length.  As this system is often used in concert with livestock
+production, significant amounts of nutrients may be returned in
+manures.
+f) Hay/improved pasture: predominantly perennial legumes and grasses
+maintained for extended periods of time, primarily as a forage.  The
+forages are typically non-native species, introduced because of their
+comparatively high productivity.
+g) Successional grasslands: previously cultivated land which has been
+returned to grassland, but has not yet attained characteristics of native
+rangeland.  Usually a single species or mixture of grasses established
+LAND USE CHANGE & FORESTRY
+5.32
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+either through land abandonment or as part of a government program,
+often to stabilise degrading lands or to reduce cultivated areas in the
+wake of surplus production.
+h) Irrigated cropping systems: typically include wide diversity of relatively
+high value crops adapted to short-growing seasons, including spring-
+seeded cereals and oilseeds, high-value forages, and vegetables (e.g.,
+potatoes, root crops, vegetables).  Owing to the high cost of irrigation,
+the cropping systems usually involve high inputs of nutrients and other
+amendments to maximise yield and crop quality.
+2.   COLD TEMPERATE, MOIST
+Characterised by MAT < 10°C and annual precipitation similar to
+or higher than evapotranspiration.  Crop production is limited by the
+short growing season and relatively harsh winters.  Inadequate temperature
+to support heat-requiring feedgrains such as maize and soybean; production
+dominated by small grain cereals, forages, root crops.  Includes most of
+Scandinavia, Finland, and parts of Russia and North America.
+a) Forest: natural vegetation includes deciduous forest and Taiga
+(coniferous forest); often interspersed with wetlands (peat bogs).
+Relatively young soils due to glaciation; many acid with thick litter layer
+(podzols).
+b) Small grain monocultures: predominantly wheat but also barley, oats,
+rye, rapeseed (canola) grown annually.  Full tillage (plough) generally
+used.  Often highly fertilised and high-yielding, 5-10 t/ha.  On some
+minor areas, a full year bare-fallow may be used at irregular intervals;
+earlier used more commonly for weed control (prior to herbicides).
+c) Grain/perennial forage crop rotations: small grains and rapeseed grown
+in rotation with grass and legume forages, also root crops.  Typical for
+mixed farms with livestock, including dairy production.
+d) Permanent pasture: used for grazing and/or hay production.  Generally
+on soils or in climate zones which are unsuitable for intensive crop
+production (e.g., common in Northern Scandinavia and Finland).
+e) Grassland and forest set-aside lands: grassland area very fluctuating
+between years due to varying subsidy policies.  Short-term rotation
+forest for bioenergy is increasing.
+3.   WARM TEMPERATE, DRY
+Mean annual growing season temperatures in this zone usually
+range from 10 to 20°C with annual precipitation usually less than
+600 mm; includes continental and Mediterranean climates.
+Includes major grain and livestock producing areas in the Great
+Plains and Pacific Northwest in the United States, Mediterranean
+regions in Australia, Europe and South Africa, and the semi-arid
+belt across southern Russia, central Asia and China.
+a) Pastoral rangelands: unimproved grassland, often dominated by native
+species, used to support grazing livestock (cattle and sheep) at
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.33
+comparatively low intensity.  Fertiliser additions and pest control are
+virtually non-existent.
+b) Small grain with summer-fallow (or long-fallow): predominantly small
+grains (usually high value wheat) with a year of bare fallow to replenish
+soil moisture and nutrients.  This practice is most prevalent in the driest
+areas, e.g., where annual precipitation may be less than 400 mm.  Weeds
+are controlled by tillage, herbicide application (increasing with use of no-
+till), and animal grazing (e.g., sheep in Australia).  Inputs of nutrients and
+other amendments often low compared to more continuous cropping
+and erosion and soil degradation can be high due to lengthy bare
+fallowing.
+c) Small grain/legumes with summer-fallow: Legumes in the form of chick
+or field peas, lupin and faba beans, are grown in rotation with grain.
+This system requires less fertiliser inputs than small grains only due to N
+fixation by the legume.  The potential for soil loss through erosion is
+usually increased after grain legumes such as field and chick peas as they
+tend to provide less residue cover compared to other crops.
+d) Small grain with continuous cropping - conventional tillage: Includes small
+grains in monoculture (wheat, barley) but increasingly more diverse crop
+rotations are being used (e.g., triticale, mustard, canola, sunflower,
+maize, sorghum, millet).  These system require a higher input of
+nutrients and are more common in higher precipitation zones (> 400
+mm).
+e) Small grain with continuous cropping - no till: Similar crops as listed
+above for conventionally tilled systems, but use of no-till can increase
+efficiency of water use and extend the use of more continuous cropping
+regimes to lower rainfall areas.  Greater surface residue levels help
+control erosion.
+f) Small grain with hay/improved pasture: The typical rotation may include
+one or two consecutive years of sown annual pasture or hay.  A long-
+fallow may also be included prior to the cereal phase.  However, this
+practice is being phased out and its use is restricted to marginal cropping
+regions.  Organic carbon levels have been found to increase quite
+dramatically as has aggregate stability with well-managed pastures.
+Rotations of two years cereal and 2-4 years pasture have been used but
+are usually non-economical.
+g) Successional grasslands: previously cultivated land which has been
+returned to grassland, but has not yet attained characteristics of native
+rangeland.  Usually a single species or mixture of grasses established
+either through land abandonment or as part of a government
+programme, often to stabilise degrading lands or to reduce cultivated
+areas in the wake of surplus production.
+h) Irrigated cropping systems: may include a wide diversity of related crops,
+including major field crops (maize, wheat, rice, cotton) as well high value
+vegetable crops.  The cropping systems usually involve high inputs of
+nutrients and other amendments to maximise yield and crop quality.
+LAND USE CHANGE & FORESTRY
+5.34
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+4.   WARM TEMPERATE, MOIST
+Mean annual growing season temperatures in this zone usually
+range from 10-20°C and with annual precipitation near or
+exceeding potential evapotranspiration.  Soils in this region include
+young glacial-derived soils grading into more highly weathered soils in
+warmer (lower latitude) regions.  This zone is dominated by intensively
+managed, highly productive agricultural systems.  Includes the central
+latitudes of western and eastern Europe, south-eastern Russia,
+parts of China, Korea, Japan, the central and eastern United
+States, and parts of Australia, New Zealand and South America.
+a) Forest: the dominant native ecosystem is temperate deciduous forest, as
+well as some areas of humid grasslands and temperate coniferous forests
+especially where impacted by frequent fires.  Native grasslands in this
+area have been almost exclusively converted to permanent agriculture as
+have large areas of formerly forested lands.  Similarly, significant areas of
+formerly cultivated areas have been abandoned and reverted to forest,
+particularly in the United States.
+b) Pasture/hay: permanent pastures which are either grazed and/or
+harvested for hay.  Can occupy a significant land area in dairy and
+livestock producing areas and also occur on areas which have limitations
+for use as cropland, including hilly terrain and areas with poor drainage.
+c) Intensive grain production: dominated by production of food and
+feedgrains for trade, including maize, soybean, wheat, oats as well as
+potato and root crops.  In general these systems receive high inputs of
+fertiliser and other agrochemicals and are highly mechanised.  For
+inventory purposes, sub-classification into systems according to organic
+matter inputs (and residue management) and tillage practices is
+recommended.
+• Contrasting carbon input level-high residue input systems would
+include one or more of the following practices: significant manure or
+sewage sludge applications, crop rotations which include multiple
+years of perennial hay crops, double-cropping, and use of winter
+cover crops that are returned to the soil.  Nominal input systems
+would include grain production systems with normal rates of
+fertilisation and residues returned to the soil.  Low residue input
+systems would include grain production where residues are removed
+from the soil.
+• Tillage practices - separate categories could be included for no-till,
+reduced tillage and full (intensive tillage).  Reduced tillage would
+include practices with infrequent and minimal and shallow soil
+disturbance.  Full tillage refers to tillage where there is substantial
+soil inversion and mixing (e.g., moldboard ploughing) of the A
+horizon as well as secondary tillage.
+d) Speciality crop production: includes systems which are dominated by
+intensively managed non-grain crops, such as tobacco, cotton, peanuts,
+truck (vegetable) crops, in which most of the biomass produced is
+removed from the field or where there is otherwise low rates of
+residues returned.
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.35
+e) Reverted land: includes former agricultural land which has been taken
+out of production and either converted or allowed to revert to
+perennial grass or forest vegetation.  Subdivisions according to "age
+classes" or successional stages is recommended for specifying soil carbon
+contents.
+5.   TROPICAL, DRY
+Characterised by MAT above 20°C and annual precipitation
+generally below 1000 mm with a long and pronounced dry season
+that results in a growing season of limited length.  Soils are highly
+variable, e.g., high activity Vertisols (India) Lateritic Alfisols (Africa) and
+highly acid Alfisols and Oxisols (South America).  Average productivity for
+most common crops is low, not only due to water deficiency but also due
+to nutrient deficiencies which are not corrected by fertilisation because
+fertiliser investment is risky in a drought-prone zone.
+a) Savanna: the natural vegetation climax in this zone.  The cover by woody
+plants can range from none to virtually complete, although the average is
+less than 30 per cent.  Increases in woody cover often result from
+sustained grazing pressure and the exclusion of fire; depletion of woody
+cover results from unsustainable demand for firewood.  The carbon
+density of the system is strongly affected by the amount of tree cover,
+both through the tree biomass and through elevated soil organic matter
+below the canopy.  Main use is grazing.  In grass-dominated regions,
+extensive grazing of cattle with no pasture management (e.g., Llanos in
+Venezuela and Colombia).  Productivity is low (stocking rates at 10-20
+ha/animal) and endangered by overgrazing and desertification.  In grass
+and shrub regions, extensive grazing and migratory herding with no
+management and often serious overstocking with cattle, goats and sheep
+(e.g., Sahel) occurs.
+b) Subsistence farming with drought-resistant grain crops: millet and
+sorghum are staples for subsistence farmers, who may also plant maize
+in wetter years.  Includes Latifundia in which slash-burning and arable
+production relies on sharecroppers.  Mixed cropping with 5-10
+intercropped crops is typical.  After 3-8 years of cropping, areas are
+rotated through bush fallow, which is often extensively grazed or
+browsed.  Common throughout the South American and Southern
+African dry zone.  An African variant of Latifundia is village-owned land
+where arable use rights are conferred to families. This system has shown
+great stability (>600 years in West Africa) but is crumbling under
+population pressure.  Also includes small owner-operator farms that rely
+on family labour.  When yields are low, rotation of cropped areas
+requires a large landholding to permit bush fallowing or, otherwise land
+may be abandoned in shifting cultivation.
+c) Irrigated cropping: where river or groundwater are available, a wide
+range of cash crops can be grown, including maize, sugarcane, citrus and
+tropical fruits, vegetables, tobacco and cotton.
+LAND USE CHANGE & FORESTRY
+5.36
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+6 and 7. TROPICAL, MOIST WITH LONG, AND SHORT DRY
+SEASONS
+MAT above 20°C and annual precipitation between 1000 to 2000
+mm.  Can be subdivided into regions with long dry season (> 5 months)
+versus short dry season of < 5 months.  Production varies with
+precipitation amount and dry season length with an increasing importance
+of high input, mechanised agriculture in the more humid areas on suitable
+soils.  Crop production is seasonal but two crops can often be produced in
+a year in more humid areas.  The soils in the drier regions may be more
+fertile, and with higher pH, due to less weathered soils.  These zones
+includes large areas of Africa, the majority of the India
+subcontinent and continental Southeast Asia, and pockets in Latin
+America and Australia.
+a) Forests: vegetation is often described as tropical deciduous, or tropical
+dry forests, the canopy becoming more completely deciduous as the
+length of the dry season increases, fires are common in drier habitats
+and mixtures of deciduous and evergreens occur at the wetter extreme.
+b) Unimproved grazing: extensive livestock grazing, often in combination
+with crop production on adjacent areas in subsistence agriculture, where
+manure from grazing livestock is utilised.
+c) Improved grazing: at the higher end of the rainfall range, pastures may
+be improved through species selection, weed control, and fertilisation,
+and reach higher productivity.
+d) Shifting cultivation and fallow rotation systems: burns are more
+complete than the more humid regions due to prolonged dry seasons
+resulting in more biomass combusted and lower carbon stocks, a
+cropping phase (2-3 years) may be longer with respect to the fallow
+phase (10 years) as compared to more humid regions but fallow
+reaccumulation is slower particularly on infertile soils.  Much of the land
+in Africa has shifted to more continuous cultivation while large tracts of
+Southeast Asia and India could still be classified as shifting cultivation.  In
+some cases, lands have degraded due to increasingly short fallow
+intervals and derived savannas have replaced natural succession to
+deciduous forest.
+e) Mixed continuous cropping (manual): this is the most prevalent land use
+in this zone in Africa and has replaced large areas of land previously used
+for shifting agriculture over the past 50 years.  These farming systems
+occupy some of the most densely populated agricultural landscapes in
+the tropics consisting of mixtures of annual field crops (maize, beans)
+and perennials (banana, coffee, sugarcane).  Crop residues are regarded
+as an important component of yield as animal feed to confined livestock
+but manure and composting strategies are often very advanced.
+Nonetheless, soil carbon stocks in highland cropping systems have
+dropped to less than 50 per cent of their original levels.
+f) Mechanised continuous cropping (residue management): continuous
+mechanised cropping became a major land use in Asia with the advent of
+the Green Revolution.  Major crops are rice and wheat, and the degree
+of residue return varies greatly with either burning residues and
+complete removal for animal feed common, but a trend toward residue
+incorporation is increasing as burning is prohibited.  Some parts of Latin
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.37
+America have converted native deciduous forest to mechanical
+continuous cultivation of soybean, rice and maize.
+g) Plantations: the plantations of the tropics are generally located in this
+zone and the subhumid zone with a shorter dry season, teak plantations
+being the most renowned.  Other plantations include coffee, tea and
+pineapple.  One trend which has reduced carbon stocks in coffee is the
+conversion of shade coffee, with its accompanying shade trees, to sun
+grown coffee.
+h) Irrigated cropping: can include crops similar to that described for the
+semi-arid zone as well as wetland rice.  Only one crop per year of
+wetland rice is possible where there is an extended dry season.  This is
+probably the dominant cropping system in India and Southeast Asia but
+is seldom found in Africa or Latin America.
+8.   TROPICAL, WET
+Characterised by MAT of above 20°C and annual precipitation >
+2000 mm, with no significant dry season.  Crop production is
+generally limited by low soil fertility and soil acidity on heavily leached soils
+and/or by rapid invasion of weeds such as Imperata.  Exceptions are the
+fertile soils of recent volcanic origin and the rice paddies, which often
+benefit from sediments eroded from the uplands.  Perennial-based
+production systems are the most sustainable land use.  Covers substantial
+parts of South America (the Amazon basin), equatorial Africa and
+Southeast Asia.
+a) Forest: the natural climax vegetation in this zone, with the highest
+biodiversity of the world.  Forest degradation and soil damage can occur
+due to logging impacts, especially on skidding trails and roads; non-climax
+natural vegetation often occurs in mosaics with “shifting cultivation” and
+is dealt with under that category.
+b) Agroforests and other mixed perennial (multi-strata) systems: human-
+made, diverse forest-like vegetation with a mixture of useful trees and
+elements of the natural vegetation; ecological functions, such as soil C
+storage, are close to those of natural secondary forests of similar age;
+this land use category is often not (yet) recognised in the available
+statistics.
+c) Intensive upland food crop production with all crop residues maintained:
+mechanised or based or human labour, intensive food crop production
+while retaining all crop residues and providing sufficient nutrient inputs
+can maintain adequate soil organic matter levels and meet sustainable
+production targets.  This group includes intensive vegetable production
+at higher elevations, unless soil erosion is dominant.
+d) Monoculture plantations of perennial crops: monospecific stands of
+perennial crops (e.g., industrial trees, rubber, oil palm, coconut,
+sugarcane, pineapple); generally intermediate levels of soil organic
+matter, depending on residue management.  Substantial differences in
+soil organic carbon with sugarcane occur, as on part of the area all
+residues are (still) burned after harvest, while on others they are
+incorporated into the soil.
+LAND USE CHANGE & FORESTRY
+5.38
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+e) Shifting cultivation and fallow rotation systems: a very broad group of
+land-use systems, based on a few years of crop production with declining
+soil organic carbon contents and a “recovery” fallow period of a few
+years (short (bush) fallow rotation systems) or longer (long fallow
+rotation and classical shifting cultivation, based on secondary forest
+succession).  Calculations of C stocks should be based on a weighted
+average of the currently cropped fields and the fallow vegetation.  In
+Southeast Asia, the system can be an early stage of “agroforest”
+development, but can also lead to “degraded grasslands”.
+f) Improved pastures: with the use of introduced grasses, a sufficient
+legume component, adequate soil fertility maintenance and carefully
+managed animal stocking rates, soil organic carbon can be maintained
+close to that of the forests which were replaced.
+g) Degraded pastures and frequently burnt grasslands: low amounts of
+organic inputs due to burning or physical damage to the standing
+vegetation lead to a decrease in soil organic carbon.
+h) Wetland or paddy rice fields, on a range of soils: variation occurs in the
+number of rice crops per year, the presence or absence of a dry period
+(with or without dryland food crops) during which soil organic carbon
+decomposes rapidly, and the burning, removal or incorporation of crop
+residues will affect organic carbon levels.
+5
+LAND USE CHANGE & FORESTRY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+5.39
+MODULE
+LAND USE CHANGE AND FORESTRY
+SUBMODULE
+CHANGES IN FOREST AND OTHER WOODY BIOMASS STOCKS
+WORKSHEET
+5-1
+SHEET
+1 OF 3
+STEP 1
+A
+Area of
+Forest/Biomass
+Stocks
+(kha)
+B
+Annual Growth
+Rate
+(t dm/ha)
+C
+Annual Biomass
+Increment
+(kt dm)
+D
+Carbon Fraction
+of Dry Matter
+E
+Total Carbon
+Uptake
+Increment
+(kt C)
+C=(A x B)
+E=(C x D)
+Tropical
+Plantations
+Acacia spp.
+Eucalyptus spp.
+Tectona grandis
+Pinus spp
+Pinus caribaea
+Mixed
+Hardwoods
+Mixed Fast-
+Growing
+Hardwoods
+Mixed
+Softwoods
+Other Forests
+Moist
+Seasonal
+Dry
+Other (specify)
+Temperate
+Plantations
+Douglas fir
+Loblolly pine
+Commercial
+Evergreen
+Deciduous
+Other
+Boreal
+Non-Forest Trees (specify type)
+A
+Number of
+Trees
+(1000s of trees)
+B
+Annual Growth
+Rate
+(kt dm/1000
+trees)
+Total
+LAND USE CHANGE & FORESTRY
+5.40
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+LAND USE CHANGE AND FORESTRY
+SUBMODULE
+CHANGES IN FOREST AND OTHER WOODY BIOMASS STOCKS
+WORKSHEET
+5-1
+SHEET
+2 OF 3
+STEP 2
+Harvest Categories
+(specify)
+F
+Commercial
+Harvest
+(if applicable)
+(1000 m3
+roundwood)
+G
+Biomass
+Conversion/
+Expansion
+Ratio
+(if applicable)
+(t dm/m3)
+H
+Total Biomass
+Removed in
+Commercial
+Harvest
+(kt dm)
+I
+Total
+Traditional
+Fuelwood
+Consumed
+(kt dm)
+J
+Total Other
+Wood Use
+(kt dm)
+K
+Total Biomass
+Consumption
+(kt dm)
+L
+Wood
+Removed
+From Forest
+Clearing
+(kt dm)
+M
+Total Biomass
+Consumption
+From Stocks
+(kt dm)
+H = (F x G)
+FAO data
+K =
+(H + I + J)
+(From column
+M, Worksheet
+5-2, sheet 3)
+M = K - L
+Totals

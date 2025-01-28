@@ -1,0 +1,1345 @@
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.41
+2.15 Food and Drink
+I n t r o d u c t i o n
+NMVOCs are emitted during the production of alcoholic beverages,
+breadmaking and other food products.
+D a t a  S o u r c e s
+The emission estimates are based on the total annual production of the
+particular food manufacturing process. National production statistics for
+alcoholic beverages broken down into a minimum of wine, beer and spirits
+are required.  The Standard Nomenclature for Air Pollution (SNAP)
+numbers for food and drink are: alcoholic beverages (40606 - 40608) and
+breadmaking and other food products (40605).
+For the breadmaking and other food production, national production
+statistics broken down into the categories listed in Table 2-26 are required.
+2 . 1 5 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  
+o f  
+N M V O C  
+f r o m
+A l c o h o l i c  B e v e r a g e s
+NMVOCs are produced during the processing of cereals and fruits in
+preparation for the fermentation processes.  The emission factors shown
+below in Table 2-25 are taken from in the EMEP/CORINAIR Guidebook and
+are based on the total annual production of an individual beverage.
+TABLE 2-25
+EMISSION FACTORS FOR NMVOC FROM ALCOHOLIC BEVERAGE
+PRODUCTION
+(KG/HL BEVERAGE)
+Beverage
+Emission Factor
+Wine
+0.08
+Red wine
+0.08
+White wine
+0.035
+Beer
+0.035
+Spirits (unspecified)
+15
+Malt whiskey
+15
+Grain whiskey
+7.5
+Brandy
+3.5
+Note:  hl = 100 litres
+BIOLOGICAL CARBON
+Carbon 
+dioxide 
+emitted 
+during
+certain operations in the production
+of food and drink, including vegetable
+oil extraction and tobacco are not
+counted here.  They are from the
+use of biological carbon which, for
+the purposes of this chapter, is
+considered not to lead to net CO2
+emissions.
+INDUSTRIAL PROCESSES
+2.42
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+The emission factors and sources used here are derived for Europe.  If more
+region specific data are available, these should be used.  There may be
+different processes and emission factors in other parts of the world.  Please
+note that if the breakdown of red and white wine and spirits is known, use
+the specific emission factor.
+2 . 1 5 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  
+o f  
+N M V O C  
+f r o m
+B r e a d  M a k i n g  a n d  O t h e r  F o o d
+NMVOC are released during the heating of fats and oils and foodstuffs
+containing them, the baking of cereals, flour and beans, fermentation in
+bread making, the cooking of vegetables and meats, and the drying of
+residues.  Food production is divided into seven categories, each with its
+own emission factor.  The emission factors given in the EMEP/CORINAIR
+Guidebook are shown in Table 2-26.
+TABLE 2-26
+EMISSION FACTORS FOR NMVOC FROM BREAD AND OTHER FOOD
+PRODUCTION
+(KG/TONNE)
+Food Production Process
+Emission Factor
+Meat, fish and poultry
+0.3
+Sugar
+10
+Margarine and solid cooking fats
+10
+Cakes, biscuits and breakfast cereals
+1
+Bread
+8
+Animal feed
+1
+Coffee roasting
+0.55
+The emission factors and sources used here are derived for Europe.  There
+may be different processes and emission factors in other parts of the world.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET  2-13 ALCOHOLIC BEVERAGE PRODUCTION to enter data for
+this submodule.
+S T E P  1  E S T I M A T I N G  N M V O C  E M I T T E D
+F R O M  A L C O H O L I C  B E V E R A G E S
+1
+Estimate total annual Quantity of Alcoholic Beverage Produced in
+hectolitres (hl), broken down into categories of beverages listed in
+Table 2-25 and enter this value in column A.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.43
+2
+Enter the corresponding Emission Factor, in kilograms NMVOC per
+hectolitre of beverage produced, in column B.
+3
+Multiply column A by column B to obtain NMVOC Emitted in
+kilograms and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams NMVOC
+and enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NMVOC emitted.
+S T E P  2   E S T I M A T I N G  N M V O C  E M I T T E D
+F R O M  B R E A D  M A K I N G  A N D  O T H E R  F O O D
+1
+Estimate total annual Quantity of Food Produced, in tonnes, broken
+down into categories of food manufacturing processes listed in
+Table 2-26 and enter into column A.
+2
+Enter the corresponding Emission Factor, in kilograms NMVOC per
+tonne of food produced, in column B.
+3
+Multiply column A by column B to obtain NMVOC Emitted in
+kilograms and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams NMVOC
+and enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NMVOC Emitted.
+2.16 Emissions Related to Production of
+Haloc arbons 
+(HFCs, 
+PFCs) 
+and
+Sulphur Hexafluoride (SF 6)
+I n t r o d u c t i o n
+Atmospheric release of materials may be the result of by-product emissions
+during manufacture or from fugitive releases.  A fugitive emission is an
+emission that is not controlled or contained, such as a leak from a flange or
+coupling.
+D a t a  S o u r c e s
+The type of data required depends on the level of effort that is to be
+expended and the accuracy required.  For the simpler methodology that
+uses an emission factor, data on production should be available from
+chemical companies. For the more detailed approach, plant specific emission
+information is required.
+INDUSTRIAL PROCESSES
+2.44
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2 . 1 6 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  B y - P r o d u c t s
+It is estimated that the HFC-23 released, as a by-product during manufacture
+of HCFC-22, is currently equivalent to 4 per cent of the production of
+HCFC-22 assuming no abatement measures, although lower figures have
+been suggested.
+This factor, or a similar number derived for the particular country's
+circumstances, can be used to estimate national emissions of HFC-23 from
+the total national HCFC-22 production (for both potentially dispersive and
+feedstock end-uses).
+The Reference Manual (Section 2.16.1) describes a Tier 2 methodology but
+no worksheets are provided here.
+2 . 1 6 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+F u g i t i v e  E m i s s i o n s
+Fugitive emissions of a chemical may occur both during the production and
+the distribution of a chemical.  For this section, fugitive emissions associated
+with use are not addressed as they are covered in the section related to
+consumption (see Section 2.17).  In the case of fluorocarbon processes,
+fugitive emissions have been estimated to be approximately 0.5 per cent of
+the total production of each compound (UNEP, 1994).
+This factor, or a similar number derived for the particular country's
+circumstances, can be used to estimate national fugitive emissions of
+individual HFCs and PFCs associated with national production.
+The Reference Manual (Section 2.16.2) describes a Tier 2 methodology but
+no worksheets are provided here.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-14 PRODUCTION OF HALOCARBONS AND SULPHUR
+HEXAFLUORIDE - BY-PRODUCTS - HFCS AND PFCS to enter data for this
+submodule.
+Note that only a Tier 1 method is presented.  If data exist, the Tier 2
+method described above is preferable.
+S T E P   1  E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D
+1
+Estimate the total annual Quantity of Halocarbon Produced in
+tonnes of the specific halocarbon in question and enter into the
+appropriate column A.
+2
+Enter the corresponding Emission Factor, in kilograms of pollutant
+(HFCs or PFCs) per tonnes of halocarbon, in column B.
+3
+Multiply column A by column B to obtain Halocarbon Emitted in
+kilograms and enter this value in column C.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.45
+4
+Divide column C by 106 to convert to units of gigagrams HFCs or
+PFCs and enter this value in column D.
+S T E P  2  E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D
+1
+Estimate the total annual  Quantity of Halocarbon Produced in
+tonnes of the specific pollutant in question and enter it into the
+appropriate column A.
+2
+Enter the corresponding Emission Factor, in kilograms of pollutant
+(HFCs or PFCs) per tonnes of halocarbon produced, in column B.
+3
+Multiply column A by column B to obtain Halocarbon Emitted in
+kilograms and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams HFCs or
+PFCs and enter this value in column D.
+2.17 Emissions Relat ed to Consumpt ion
+of Haloc arbons (HFCs, PFCs) and
+Sulphur Hexafluoride (SF 6)
+I n t r o d u c t i o n
+The chemicals (HFCs, PFCs, SF6) are of concern, because they have high
+global warming potentials and long atmospheric residence times.
+Current and expected application areas of HFCs and PFCs include:
+-
+refrigeration and air conditioning
+-
+fire suppression and explosion protection
+-
+aerosols
+-
+solvent cleaning
+-
+foam blowing
+-
+other applications1
+Primary uses of SF6 include:
+-
+gas insulated switch gear and circuit breakers
+-
+fire suppression and explosion protection
+-
+other applications2
+                                                     
+     1 HFCs and PFCs may be used in sterilisation equipment, for tobacco
+expansion applications, and as solvents in the manufacture of adhesives,
+coating, and inks.
+     2 SF6 may be used as an insulating medium, a tracer, in leak detectors,
+and in various electronic applications.  For SF6 consumption in magnesium
+and aluminium foundries, see Section 2.13.6.1.
+THE MONTREAL PROTOCOL
+Partially 
+and 
+fully 
+fluorinated
+hydrocarbons, HFCs and PFCs, are
+not controlled by the Montreal
+Protocol because they do not
+contribute to depletion of the
+stratospheric ozone layer.
+INDUSTRIAL PROCESSES
+2.46
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+Table 2-26 (Reference Manual) gives an overview of the most important
+HFCs and PFCs including application area and GWP relative to CO2 (100
+year integration time).
+D a t a  S o u r c e s
+The type of data required depends on the level of effort that is to be
+expended and the accuracy required.  At a minimum, quantities of
+halocarbons and SF6 imported and exported in bulk and national production
+are required.  For the next level, the quantities of these materials contained
+in products imported and exported are required. Data on production and
+exports of chemicals in bulk should be available from chemical companies
+and/or national production statistics. Information on imports of chemicals in
+bulk and in products may be available from Customs and Duty records.
+National environmental protection authorities may keep records of
+HFCs/PFCs destroyed, if any.
+G e n e r a l  M e t h o d o l o g y
+In Tier 1 (a and b) methodology, potential emissions of a certain chemical
+are equal to the amount of virgin chemical consumed in the country minus
+the amount of chemical recovered for destruction or exported in the year
+under consideration.  All chemicals consumed will eventually be emitted to
+the atmosphere over time if not destroyed, and in the long term (e.g., 50 yr),
+potential emissions will equal actual emissions.
+In the Tier 2 methodology, actual emission estimates take into account the
+time lag between consumption and emission, which may be considerable in
+some application areas, e.g., closed cell foams, refrigeration and fire
+extinguishing equipment.  Time lags result from the fact that a chemical is
+placed in new products and then slowly leaks out over time.
+Actual emissions estimates are the most accurate with respect to emissions
+in individual years, provided that the necessary information is available for
+their calculation.  If essential data are not available, the potential emission
+calculations provide a simpler approach for reasonable emission estimates.
+The following procedures described for HFCs/PFCs are applicable for SF6 as
+well.
+2 . 1 7 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  
+f o r  
+T i e r  1 a  
+a n d
+T i e r  1 b
+Since net consumption of a chemical equals production plus imports minus
+exports, the calculation formula for the basic method (Tier 1) is as follows:
+Potential Emissions = Production + Imports - Exports - Destruction
+HFCS, PFCS AND SF6
+HFCs are chemicals containing only
+hydrogen, 
+carbon, 
+and 
+fluorine.
+PFCs are chemicals containing only
+carbon and fluorine.  SF6 is a
+particularly potent GHG with a 100-
+year GWP of 23,900 and an
+estimated lifetime of about 3,200
+years.
+POTENTIAL AND ACTUAL
+EMISSIONS
+Emissions from industrial processes
+can be estimated in two ways; as
+potential emissions, Tier 1 (a and b),
+and as actual emissions, Tier 2.   Tier
+1b is preferred to the Tier 1a
+methodology.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.47
+By-product emissions during HFC/PFC production and fugitive emissions
+related to production and distribution have to be calculated separately, as
+described in Section 2.16.
+Production refers to production of new chemical only and not the
+reprocessing of recovered fluid.
+There are two versions of Tier 1 (a and b) depending upon whether
+HFCs/PFCs in products are taken into account.  Two versions are presented
+because it is expected that there may be difficulties in many countries with
+the availability of data regarding imports and exports of HFCs/PFCs in
+products, at least in the short term.  The Tier 1b methodology is preferred
+if the relevant data are available.
+Tier 1a
+In Tier 1a, only chemicals imported or exported in bulk are considered in
+the calculation of potential emissions.  The following definitions apply:
+Imports  =  Imported HFC/PFC in bulk
+Exports  =  Exported HFC/PFC in bulk
+The application of Tier 1a may lead to an under-estimation or an over-
+estimation of potential emissions, depending on whether the majority of
+HFC/PFC-containing products is being imported or exported.
+Tier 1b
+Tier 1b is an extension of Tier 1a and includes HFCs/PFCs contained in
+various products which are imported and exported.  The following
+definitions apply:
+Imports
+= 
+Imported chemical in bulk + quantity of chemical
+imported in HFC/PFC containing products
+Exports
+=
+Exported chemical in bulk + quantity of chemical
+exported in HFC/PFC containing products
+The product types that should be considered are
+- refrigeration and air conditioning units
+-
+foam products
+-
+fire extinguishers
+-
+solvents
+-
+aerosol cans
+Most of these items will use mixtures of halocarbons that must be assessed
+separately due to their vastly different global warming potentials.
+REFRIGERATION, FIRE
+EXTINGUISHERS AND SOLVENTS
+Refrigeration units, fire extinguishers
+and solvents will normally contain
+HFC/PFC mixtures.  The fraction of
+each chemical must be considered
+separately.  Refrigeration units may
+be refrigerators, ice machines, AC
+window units, split-units, chillers, etc.
+FOAM PRODUCTS
+Foam products include insulating and
+non-insulating foams in a variety of
+products, like refrigerators,
+insulation panels, pour-in-place
+sprays, car seats, furniture, bedding,
+packaging material, etc.
+INDUSTRIAL PROCESSES
+2.48
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2 . 1 7 . 2  T i e r  2 :  A d v a n c e d  M e t h o d o l o g y
+f o r  E s t i m a t i n g  E m i s s i o n s
+The advanced method, Tier 2, contains actual emission calculations for each
+individual chemical.  This is the preferred method if input data are available. It
+is recommended that routines are established to report HFC/PFC emissions
+according to Tier 2.
+To use this methodology one must employ a “bottom-up” approach or a
+“top-down” approach. In a “bottom-up” approach, one calculates or
+estimates the consumption of each individual HFC and PFC chemical based
+on the number of pieces of equipment or uses at a detailed level, e.g.,
+refrigerators, other stationary refrigeration/AC equipment, soft foam, hard
+foam etc., to establish the volume basis for emission calculations. A
+“top-down” approach estimates emissions on the basis of the consumption
+distribution and emission characteristics related to various processes and
+equipment, also taking current service and recovery practices into account.
+Table 2-27 gives examples of current distribution of HFC/PFC use among
+various application areas in certain countries.  Since HFCs and PFCs have
+only recently entered the market, the relative size of each area will change
+over time and will have to be updated.
+TABLE 2-27
+EXAMPLE  DISTRIBUTION OF HFC/PFC USE BY APPLICATION AREA (1994)
+Country
+Refrigeration Air
+Conditioning
+Foam
+Blowing
+Solvent
+Fire
+Extinguishing
+Aerosol
+Propellant
+Other
+Applications
+Norway
+Sweden
+United
+Kingdom
+99%
+90%
+76%
+<1%
+5%
+12%
+0%
+0%
+0%
+<1%
+0%
+7%
+0%
+5%
+5%
+0%
+0%
+0%
+See the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories Reference Manual for sources.
+Any given application area may employ several types of HFC/PFC fluid.
+Consumption figures should be collected or estimated and the type of
+HFC/PFC used should be identified.
+A)
+Refrigeration and Air Conditioning Equipment
+For the purposes of emission estimation, refrigeration and air-conditioning
+systems are classified into three categories, according to their emission
+characteristics:
+i)
+Household refrigerators and freezers;
+ii)
+Other stationary refrigeration and air conditioning equipment,
+including:
+-
+cold storage warehouses;
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.49
+-
+retail food refrigeration;
+-
+industrial process refrigeration;
+-
+commercial and industrial appliances such as refrigerated vending
+machines, ice machines, dehumidifiers, and water coolers;
+-
+refrigerated transport including trucks, trains, and ships with
+refrigerated compartments; and
+-
+commercial and residential air conditioning including chillers,
+heat pumps, window air conditioners, central air conditioners.
+iii)
+Mobile air conditioners used to cool the passenger compartment of
+automobiles, trucks, buses, and trains.
+Methods for estimating average emission rates for the above-uses sectors
+are outlined below.
+The quantity of refrigerant emitted during system assembly is related to the
+amount charged by the following empirical formula:
+EQUATION 1
+E assembly, t = E charged, t • (k/100)
+where:
+Eassembly,t
+=
+emissions during system manufacture/assembly in year
+t
+Echarged,t
+=
+amount of refrigerant charged into new systems in
+year t
+k
+=
+assembly losses in per cent of the amount charged
+The amount charged (Echarged,t) should include all systems which are charged
+in the country, including those which are made for export.  Systems that are
+imported precharged should not be considered.
+Annual leakage from the stock, including venting during service, is given by :
+EQUATION 2
+E operation, t = E stock, t • (x/100)
+where:
+Eoperation,t
+=
+amount of HFC/PFC emitted during system operation
+in year t
+Estock,t
+=
+amount of HFC/PFC stocked in existing systems in
+year t
+x
+=
+annual leakage rate in per cent of total HFC/PFC
+charge in the stock, per cent.
+HFC USE IN REFRIGERANTS
+HFC-134a 
+is 
+the 
+primary
+fluorocarbon substitute for CFC-12
+in 
+many 
+refrigeration 
+and 
+air-
+conditioning applications including
+refrigerators, chillers, and mobile air
+conditioners.  Other HFCs may also
+be used in refrigeration applications,
+particularly as components of blends.
+These include HFC-23, HFC-32,
+HFC-125, HFC-143a, and HFC-152a.
+PFC USE IN REFRIGERANTS
+PFC-218 is used as a component in
+refrigerant blends.  PFC-116 may be
+used in a blend as a substitute for R-
+503.
+INDUSTRIAL PROCESSES
+2.50
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+In calculating the refrigerant “bank” (Estock,t) all systems in operation in the
+country (home-made and imported) have to be considered.
+The amount of refrigerant released from scrapped systems depends upon the
+amount of refrigerant left at the time of disposal, and the portion recovered.
+To estimate emissions at system disposal, the following calculation formula is
+applicable:
+EQUATION 3
+E disposal, t = Ei charge, (t - n) • (y/100) • (100 - z )/100
+or
+ E disposal, t = E i charge, (t - n) • Q
+where:
+Edisposal,t
+=
+amount of HFC/PFC emitted at system disposal in
+year t
+Eicharge; (t-n)
+=
+amount of HFC/PFC initially charged into new
+systems installed in year (t-n)
+n
+=
+average equipment lifetime, years
+y
+=
+amount of HFC/PFC in systems at time of disposal in
+per cent of initial charge, per cent
+z
+=
+amount of HFC/PFC recovered in per cent of actual
+charge (“recovery efficiency”), per cent
+Q
+=
+amount of HFC/PFC emitted at system disposal in
+per cent of the quantity of chemical originally
+charged into the system, per cent (Q = y(100-z)/100)
+In estimating the amount of refrigerant initially charged into the systems
+(Ei, charged (t-n)), both systems charged in the country (for home market) and
+systems imported precharged should be taken into account.  The first charge
+into systems made for export should not be considered.  For example, if
+calculating emissions for 1995 with equipment that has a 15-year lifetime,
+then information on quantity of HFC/PFC charged in 1980 (1995-15) is
+required.  Total emissions in year t will then be found as the sum of
+emissions at assembly, during operational life and at disposal:
+EQUATION 4
+E total, t = E assembly, t + E operation, t + E disposal, t
+See Section 2.17.4.2 in the Reference Manual for more information on the
+“top-down” and “bottom-up” approaches and on the derivation of the
+factors used in Equations 1 to 4.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.51
+i)
+Household Refrigerators and Freezers
+TABLE 2-28
+HOUSEHOLD REFRIGERATORS AND FREEZERS INPUT PARAMETERS
+Input
+Definition
+Default
+Value
+Comment
+k
+assembly losses in % of amount charged
+2%
+range 2-5%
+x
+annual leakage rate in % of the total
+HFC/PFC charge in the stock
+1%
+n
+average equipment lifetime
+15 yr
+y
+amount of HFC/PFC in systems at time
+of disposal in % of initial charge
+90%
+z
+amount of HFC/PFC recovered in % of
+actual charge (“recovery efficiency”)
+50%
+0% if no
+recovery
+practices
+These values are typical of industrialised countries and may be different for
+developing countries.
+ii)
+Other Stationary Refrigeration and Air Conditioning Equipment
+TABLE 2-29
+OTHER STATIONARY REFRIGERATION AND AIR CONDITIONING EQUIPMENT INPUT
+PARAMETERS
+Input
+Definition
+Default
+Value
+Comment
+k
+assembly losses in % of amount
+charged
+2-5%
+2-3% for factory built
+4-5% for site built
+x
+annual leakage rate in % of the total
+HFC/PFC charge in the stock
+17%
+3% if improved valves
+and fittings are used
+n
+average equipment lifetime
+15 yr
+y
+amount of HFC/PFC in systems at
+time of disposal in % of initial charge
+90%
+z
+amount of HFC/PFC recovered in %
+of actual charge (“recovery
+efficiency”)
+0%
+80% if use recovery
+practices
+Refrigerant charge may vary over a wide range, depending upon system size
+and design.  The following range may indicate orders of magnitude.
+·
+Residential air conditioning: 
+2 to 3 kg
+·
+Transport Refrigeration:
+8 kg
+·
+Retail Food Refrigeration: 
+10 to 230 kg
+·
+Chillers: 
+75 to 900 kg
+·
+Industrial Process Refrigeration: 
+340 to 9100 kg
+·
+Commercial and industrial appliances: 
+0.10 to 0.50 kg
+REFRIGERANT ACTIVITY DATA
+Reasonable estimates for the number
+of 
+refrigerators 
+and 
+freezers
+manufactured are generally available,
+as well as the number of imported
+and exported units and the total
+stock.  The amount of refrigerant
+banked in the stock can be estimated
+by multiplying the number of units by
+the average charge size.
+INDUSTRIAL PROCESSES
+2.52
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+To apply the bottom-up approach, reliable average values for system charge
+sizes valid for each country will be required to develop useful estimates.
+iii)
+Mobile Air Conditioning (MAC) Equipment
+TABLE 2-30
+MOBILE AIR CONDITIONING (MAC) EQUIPMENT INPUT PARAMETERS
+Input
+Definition
+Default
+Value
+Comment
+k
+assembly losses in % of amount
+charged
+4-5%
+x
+annual leakage rate in % of the
+total HFC/PFC charge in the stock
+30%
+10% with improved
+seals fittings and hosing
+n
+average equipment lifetime
+12 yr
+11 yr (small cars) to 15
+yr (trucks)
+y
+amount of HFC/PFC in systems at
+time of disposal in % of initial
+charge
+75%
+z
+amount of HFC/PFC recovered in
+% of actual charge (“recovery
+efficiency”)
+0%
+80% if use recovery
+practices
+Typical refrigerant charges in mobile air conditioners are 1.2 kg/unit for cars
+and 1.5 kg/unit for trucks.  MACs in newer cars may have a lower charge,
+e.g., 800 g which is typical for Japanese passenger cars.
+B)
+Foam Blowing
+i)
+Open Cell Foam
+For open cell foams, HFC and PFC emissions occur at the time of
+manufacture and are equal to 100 per cent of the total quantity of chemical
+used as the blowing agent.  As a result total HFC or PFC emissions in year t
+for open cell foam can be calculated as follows:
+Emissions of HFCs or PFCs in year t = 100% of the quantity of HFCs or
+PFCs sold for blowing open cell foam in year t
+ii)
+Closed Cell Foam
+For closed cell foams, only about 10 per cent of the blowing agent is
+released during the blowing of the foam, while the remaining chemical is
+contained in the insulation.  This quantity remaining in the foam is slowly
+released over the 20 to 25 year lifetime of the foam.  HFC or PFC emissions
+from insulating foam in year t are therefore calculated as follows:
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.53
+Emissions of HFCs or PFCs in year t
+=
+10 per cent of the total quantity of HFC or PFC used in manufacturing
+new insulating foam in year t
++
+4.5 per cent of the quantity of original HFC or PFC charge blown into
+the insulated foam manufactured between year t and year t-20
+The total quantity of HFC or PFC contained in the existing stock of
+insulating foam can be calculated as the product of the total quantity of
+insulating foam in use in year t and the average charge of chemical contained
+in each tonne of such installed insulating foam.
+If action is taken to control emissions from foam blowing by recycling or
+leakage control then an alternative formula may be applicable. See Reference
+Manual, Section 2.17.4.3.
+C)
+Fire Extinguishers
+Total halon emissions can be estimated as 60 per cent of total halon 1211
+contained in new portable halon fire extinguishers installed each year, and as
+35 per cent of total Halon 1301 contained in new total flooding equipment
+installed each year.  The remaining amounts of chemical, 40 per cent for
+portable fire extinguishers and 65 per cent for total flooding equipment
+respectively, adds to the bank of fire extinguishing chemicals.  As halons are
+replaced, emissions of HFCs and PFCs may be calculated:
+Emissions of HFCs or PFCs in year t
+=
+60 per cent of the total quantity of HFC or PFC used in new portable
+halocarbon fire extinguishing equipment installed in year t
+Similarly, emissions estimates in year t for total flooding equipment can be
+calculated as:
+Emissions of HFCs or PFCs in year t
+=
+35 per cent of the total quantity of HFC or PFC used new fixed
+halocarbon fire extinguishing equipment installed in year t
+D)
+Aerosols
+Emissions from aerosols are modelled by the following equation :
+Emissions of HFCs in year t
+=
+50% of the quantity of HFCs contained in aerosols sold in year t
++
+50% of the quantity of HFC contained in aerosols sold in year t-1
+HFC AND PFC USE IN FIRE
+EXTINGUISHERS
+HFCs 
+and 
+PFCs 
+are 
+potential
+replacements for Halon 1211 in
+portable fire extinguishers and Halon
+1301 in total flooding fixed fire
+extinguishing systems.  Potential
+substitutes include HFC-23, HFC-
+125, HFC-227ea, PFC-410, and  PFC-
+614.
+SF6  USE IN FIRE EXTINGUISHERS
+Some of the new substitutes for
+halon in fire extinguishing equipment
+contain sulphur hexafluoride, SF6,
+probably in blends with HFC.  If the
+products contain SF6, it is emitted to
+the atmosphere in the same manner
+as HFC or PFC.  The equations for
+the estimation of HFC and PFC
+emissions from fire extinguishing
+equipment are therefore also valid
+for SF6, since they have to be
+adjusted for the proportion of the
+SF6 in the original blend.  Emissions
+of SF6 are to be calculated according
+to the proportion of this chemical in
+the blend.
+INDUSTRIAL PROCESSES
+2.54
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+This calculation accounts for the six-month lag from purchase to use.
+E)
+Solvents
+Chemicals used as cleaning agents are emitted during, or shortly after, use
+and are typically 100 per cent of total use.  This methodology assumes that
+solvents, on average, are used six months after they are sold.
+Emissions of HFCs or PFCs in year t
+=
+50% of the quantity of HFCs or PFC
+sold for use in solvent applications in year t
++
+50% of the quantity of HFCs
+sold for use in solvent applications in year t-1
+F)
+Other Applications
+For other applications, it is assumed that all HFCs and PFC are released
+within 6 months after production.  Emissions in the year t can be calculated
+as follows:
+Emissions of HFCs or PFCs in year t
+=
+50% of the quantity of HFCs/PFCs sold for other applications in year t
++
+ 50% of the quantity of HFCs/PFCs sold in year t-1
+Sulphur Hexafluoride (SF6) Emissions
+SF6 is used as an insulation medium in high tension electrical equipment
+including gas insulated switchgear (GIS) and circuit breakers.
+The use of SF6 in production of aluminium and magnesium is covered under
+Reference Manual, Section 2.13.8.
+Total annual emissions of SF6 used in GIS applications and circuit breakers
+can be assumed to be approximately 1 per cent of the total quantity of SF6
+contained in equipment.  In addition, if it is assumed that GIS has a lifetime of
+30 years, then approximately 70 per cent of the SF6 will remain in the
+equipment upon retirement and will then be released upon disposal of the
+equipment.  Total emissions from GIS applications can therefore be
+estimated as:
+HFC AND PFC USE AS SOLVENTS
+HFCs and PFCs may be used as
+replacements for CFC-113 in metal
+cleaning, electronics, and precision
+cleaning 
+applications 
+and 
+as
+replacements for aerosol cleaning.
+The compounds that may be used
+include HFC-43-10, PFC-614, PFC-
+512, PFC-612, PFC-716, and PFC-
+819.
+OTHER HFC AND PFC USE
+Other applications in which HFCs
+and PFCs may replace CFC and
+HCFC include sterilisation
+equipment, tobacco expansion
+applications, and as solvents in the
+manufacture of adhesives, coatings
+and inks. The specific compounds
+include HFC-125, HFC-134a, and
+HFC-227 ea.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.55
+Emissions of SF6 in year t
+=
+1% of the total charge of SF6 contained in the existing stock of equipment in
+year t
++
+ 70% of the quantity in equipment manufactured in year t-30.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEETS  2-15 CONSUMPTION OF HALOCARBONS AND SULPHUR
+HEXAFLUORIDE  - TIER 1a AND TIER 1b to enter data for this submodule.  Each
+individual compound must be assessed separately.
+S T E P  1   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D  -  T I E R  1 a  A N D  T I E R  1 b
+1
+Estimate the total annual Quantity of Halocarbon Produced in
+tonnes of the specific halocarbon in question and enter it into
+column A.
+2
+Estimate the total annual Quantity of Halocarbon Imported and
+Exported in Bulk, into and out of the country, in tonnes of the
+specific halocarbon in question, and enter these values into columns
+B and C, respectively.
+3
+Estimate the total annual Quantity of Halocarbon Destroyed in
+tonnes of the specific halocarbon in question that was destroyed
+and enter it into column D.
+4
+Add column A to column B, subtract column C, subtract column D
+and enter the result in column E to obtain the Potential Bulk
+Halocarbon Emissions.
+S T E P  2   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D  -  T I E R  1 b
+1
+Estimate the total annual Number of Units of Imported (as positive
+numbers) or Exported (as negative numbers) of individual product
+types, containing the specific halocarbon in question, and enter
+these into column F.
+2
+Estimate the total Quantity of Material per Unit for each individual
+product type in kg and the fraction of halocarbon in material (%100)
+of the specific halocarbon in question and enter these into
+columns G and H, respectively.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+INDUSTRIAL PROCESSES
+2.56
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+3
+Multiply column F, G and H to calculate kg of each halocarbon,
+convert to tonnes by dividing by 103 and enter this value in column I
+to obtain Potential Product Halocarbon Emissions.
+4
+Sum the values in column I and enter the result in the bottom of
+that column to obtain the total Potential Product Halocarbon
+Emissions.
+S T E P  3   S U M M A R Y  O F  H F C S  A N D  P F C S
+E M I T T E D  -  T I E R  1 a  A N D  T I E R  1 b
+1 
+Enter the totals from columns E and I repectively in the appropriate
+columns J and K and sum these two columns and enter result in
+column L.
+2 
+Divide column L by 103 to convert to units of gigagrams HFCs or
+PFCs and enter this value in column M to obtain the Total Potential
+Halocarbon Emissions.
+S T E P  4   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D -  R E F R I G E R A T I O N  A S S E M B L Y
+T I E R  2
+1 
+Estimate the Amount of HFC/PFC Charged into New Systems in
+Year t (inventory year) in tonnes and enter in column A.
+2 
+Enter appropriate value of k Assembly Losses in amount charged in
+per cent into column B.
+ 
+3 
+Multiply column A by column B (see Equation 1), and enter result in
+column C.
+ 
+4 
+Divide the result in column C by 103  and enter the result in
+column D.
+S T E P  5   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D  -  R E F R I G E R A T I O N  O P E R A T I O N -
+T I E R  2
+1 
+Estimate the total Amount of HFC/PFC Stocked in Existing Systems
+in Year t ( inventory year) in tonnes, and enter in column E.
+2 
+Enter appropriate value of x, Annual Leakage Rate, in per cent, into
+column F.
+3 
+Estimate the Halocarbon Emitted in tonnes using Equation 2 as
+shown in Column G. Enter result in column G.
+4 
+Divide the result in column G by 103 and enter the result in
+column H.
+WORKSHEET
+The same worksheet can be used for
+home refrigeration and freezers,
+other stationary refrigeration and air
+conditioning equipment and mobile
+air conditioning.  Each worksheet
+must be duplicated for every HFC
+and PFC under assessment.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.57
+S T E P  6   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D  -  R E F R I G E R A T I O N  D I S P O S A L -
+T I E R  2
+1 
+Estimate the total Amount of HFC/PFC Charged into New Systems
+in Year t-n in tonnes  and enter in column I.
+2 
+Enter appropriate values of n, Average Equipment Lifetime in years
+into column J.
+3 
+Enter appropriate values of y, Amount of HFC/PFC in Systems at
+Time of Disposal in Per Cent of Original Charge into column K.
+4 
+Enter appropriate values of z,  Amount of HFC/PFC Recovered in
+Per Cent of Actual Charge into column L.
+5 
+Calculate Halocarbon Emitted during disposal by using Equation 3 as
+shown in Column M. Enter the result in column M.
+6 
+Divide the value in column M by 103 and enter the result in
+column N.
+S T E P  7   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D - S U M M A R Y  -  T I E R  2
+1 
+Transfer sums of columns D, H and N for emissions during
+Assembly, Operation and Disposal respectively into appropriate
+columns O, P and Q.
+2 
+Sum the values in columns O, P and Q and enter the result in
+column R to obtain the Total Halocarbon Emissions.
+S T E P  8   E S T I M A T I N G  H F C S  A N D  P F C S
+E M I T T E D  F R O M  F O A M  P R O D U C T S -  T I E R  2
+This worksheet contains both open cell and closed cell foams.  Each
+worksheet must be duplicated for every HFC and PFC under assessment.
+Open Cell
+1 
+Estimate the Quantity of HFCs/PFCs Used in open cell foam for the
+year under study, in tonnes, and enter it in column A.
+ 
+2 
+Enter the appropriate Fraction Loss during Production for open cell
+foam in per cent (100% if no recovery) in column C.
+ 
+3 
+Calculate HFC/PFC Emitted during production by multiplying
+column A by column C and enter result in tonnes into column E.
+ 
+4 
+Divide column E by 103 to convert to units of gigagrams HFCs or
+PFCs and enter this value in column F
+HFC AND HCFC USE IN FOAM
+HFCs are potential replacements for
+CFCs and HCFCs in the manufacture
+of 
+insulating, 
+cushioning, 
+and
+packaging foams.  The specific
+compounds that may be used include
+HFC-125, HFC-134a, HFC-143a, and
+HFC-152a.
+INDUSTRIAL PROCESSES
+2.58
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+Closed Cell Foam
+1 
+Estimate the Quantity of HFC/PFC Used in closed cell foam for the
+year under study, in tonnes, and enter it in column A.
+2 
+Estimate the Quantity  of HFC/PFC in Use contained in existing
+stock of insulating foam for the year under study in tonnes and
+enter this value in column B.
+3 
+Enter the appropriate  Fraction Loss during Production (closed cell)
+in per cent (100% if no recovery) in columnC.
+4 
+Enter the  Fraction Loss during Use in per cent in column D.
+5 
+Multiply column A by column C and add this value to the result of
+column B times column D.  Enter the result in tonnes in column E.
+6 
+Divide column E by 103 to convert to units of gigagrams HFCs or
+PFCs and enter this value in column F.
+S T E P  9   E S T I M A T I N G  H F C S ,  P F C S  A N D  S F 6
+E M I T T E D  F R O M  F I R E  E X T I N G U I S H E R S  -
+T I E R  2
+Portable and Fixed Fire Extinguishers
+1 
+Estimate the Total Quantity of HFC/PFC/SF6 Used in New
+Extinguishers in tonnes,  broken down into portable and fixed,
+systems for the year under study and enter this value into column
+A.
+2 
+Enter appropriate Fractional Loss Factor for portable and fixed fire
+extinguishers in per cent  into column B.
+3 
+Calculate HFC/PFC/SF6 Emitted by multiplying column A by column
+B and enter result, in tonnes, in column C.
+4 
+Divide column C by 103 to convert to units of gigagrams HFCs,
+PFCs or SF6 and enter this value in column D.
+5 
+Sum the values in column D and enter the result in the bottom of
+column to obtain the Total HFC/PFC/SF6 Emitted.
+S T E P  1 0   E S T I M A T I N G  H F C S ,  P F C S  A N D
+S F 6  E M I T T E D  F R O M  A E R O S O L S  -  T I E R  2
+1 
+Estimate the Use of HFCs or PFCs for Aerosols in Inventory Year
+in tonnes, and enter this number in column A.
+2 
+Estimate the Use of HFCs/PFCs for Aerosols in Prior Year in
+tonnes and enter this number in column B.
+ 
+RECYCLING
+Approximately 55 per cent of the
+HFC or PFC used as a blowing agent
+in the manufacture of open cell
+foams could potentially be recycled.
+If 
+such 
+recycling 
+occurs, 
+total
+emissions from open cell foam
+manufacture would still be 100 per
+cent of the chemical sold for foam
+blowing purposes.  The quantity
+required, 
+however, 
+would 
+be
+reduced since the gas used for the
+blowing process will be a mixture of
+45 per cent virgin chemical and 55
+per cent recycled chemical.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+•
+Each 
+worksheet 
+must 
+be
+duplicated for every HFC, PFC
+and SF6 under assessment.
+HFC USE IN AEROSOLS
+HFCs  may be used as replacements
+for CFCs in aerosol propellants in
+industrial and technical applications,
+and household, medical and personal
+care products. The HFCs that may
+be used include HFC-125, HFC-134a,
+152a, and HFC-227ea.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.59
+3 
+Enter the appropriate factor of Loss of Current Year’s Use for the
+year under inventory in column C in per cent divided by 100.  A
+default of 0.5 can be used.
+4 
+Calculate the Emission of HFCs/PFCs from Aerosols by multiplying
+column A by column C and adding the result to the multiplication
+of column B times (1-column C).  Enter the result into column D.
+5 
+Divide column D by 103 to convert to units of gigagrams HFC or
+PFCs and enter this value in column E.
+ 
+S T E P  1 1   E S T I M A T I N G  H F C S ,  P F C S  A N D  S F 6
+E M I T T E D  F R O M  S O L V E N T S  -  T I E R  2
+1 
+Estimate the Use of HFCs or PFCs for Solvents in Inventory Year
+in tonnes, and enter this number in column A.
+2 
+Estimate the Use of HFCs/PFCs for Solvents in Prior Year in tonnes
+and enter this number in column B.
+3 
+Enter the appropriate factor of Loss of Current Year’s Use for the
+year under study in column C in per cent divided by 100.  A default
+value of 0.5 can be used.
+4 
+Calculate the Emission of HFCs/PFCs from Solvents by multiplying
+column A by column C and adding the result to the multiplication
+of column B times (1-column C).  Enter the result into column D.
+5 
+Divide column D by 103 to convert to units of gigagrams HFC or
+PFCs and enter this value in column E.
+ 
+S T E P  1 2   E S T I M A T I N G  H F C S ,  P F C S  A N D
+S F 6 E M I T T E D  F R O M  O T H E R  A P P L I C A T I O N S  -
+T I E R  2
+1 
+Estimate the Use of HFCs or PFCs for Other Applications in
+Inventory Year in tonnes, and enter this number in column A.
+2 
+Estimate the Use of HFCs/PFCs for Other Applications in Prior
+Year in tonnes and enter this number in column B.
+3 
+Enter the appropriate factor of Loss of Current Year’s Use for the
+year under study in column C in per cent divided by 100.  A default
+value of 0.5 can be used.
+4 
+Calculate the Emission of HFCs/PFCs from Other Applications by
+multiplying column A by column C and adding the result to the
+multiplication of column B times (1-column C).  Enter the result
+into column D.
+5 
+Divide column D by 103 to convert to units of gigagrams HFC or
+PFCs and enter this value in column E.
+ 
+INDUSTRIAL PROCESSES
+2.60
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+S T E P  1 3
+E S T I M A T I N G  S F 6  E M I T T E D
+This worksheet is for SF6 used in GIS and circuit breakers.
+1 
+Estimate the Quantity of SF6 in Use in Inventory Year, in tonnes, in
+GIS and circuit breakers and enter this value in column A.
+2 
+Enter the appropriate Loss Factor for SF6 in Use for the year under
+study, in column B, in per cent divided by 100.
+3 
+Estimate the Quantity of SF6 in Use 30 years Prior to the Inventory
+Year in tonnes, in GIS and circuit breakers and enter this in
+column C.
+4 
+Enter the appropriate Fraction Remaining in SF6 Equipment at Time
+of Disposal, in column D, in per cent divided by 100.
+5 
+Calculate SF6 Emitted by multiplying column A by column B, and
+adding it to the result of multiplying column C by column D.  Enter
+the result into column E.
+6 
+Divide column E by 103 to convert to units of gigagrams SF6 Emitted
+and enter this value in column F.
+SF6 ACTIVITY DATA
+The total charge of SF6 contained in
+equipment can be estimated as the
+product of the total quantity of
+equipment in operation and the
+typical charge size.  Charge sizes for
+GIS equipment rated to 50 kV or
+more can range from hundreds to
+thousands 
+of 
+kilograms 
+per
+installation, 
+and 
+for 
+low-voltage
+switches 
+contain 
+1-2 
+kg 
+per
+installation.  If data on the total stock
+of GIS are unavailable, it should be
+assumed 
+that 
+emissions 
+equal
+consumption.

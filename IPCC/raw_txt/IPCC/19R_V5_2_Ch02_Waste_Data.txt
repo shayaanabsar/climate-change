@@ -1,0 +1,6016 @@
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories                                  2.1 
+CHAPTER 2 
+WASTE GENERATION, COMPOSITION 
+AND MANAGEMENT DATA  
+ 
+ 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+2.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors  
+Sirintornthep Towprayoon (Thailand), Sergii Shmarin (Ukraine), Qingxian Gao (China), Amr Osama Abdel-
+Aziz (Egypt), Juraj Farkaš (Slovakia), Nuria Mariana Zanzottera (Argentina), Muhammad Ijaz (Pakistan), 
+Chhemendra Sharma (India) 
+ 
+Contributing Authors 
+Zhanyun Ma (China), Komsilp Wangyao (Thailand), Sunil Kumar (India)  
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories                                  2.3 
+ 
+Contents 
+ 
+2 
+Waste Generation, Composition and Management Data ............................................................................ 2.5 
+2.1 
+Introduction ......................................................................................................................................... 2.5 
+2.2 
+Waste generation and management data ............................................................................................. 2.6 
+2.2.1 
+Municipal Solid Waste (MSW) ................................................................................................... 2.6 
+2.2.2 
+Sludge ......................................................................................................................................... 2.9 
+2.2.3 
+Industrial waste ........................................................................................................................... 2.9 
+2.2.4 
+Other waste ................................................................................................................................. 2.9 
+2.3 
+Waste composition .............................................................................................................................. 2.9 
+2.3.1 
+Municipal Solid Waste (MSW) ................................................................................................... 2.9 
+2.3.2 
+Sludge ....................................................................................................................................... 2.13 
+2.3.3 
+Industrial waste ......................................................................................................................... 2.14 
+2.3.4 
+Other waste ............................................................................................................................... 2.14 
+Annex 2A.1 (Updated) Waste Generation and Management Data – by country and regional averages ............ 2.15 
+Annex 2A.2 (New)       Waste composition – by country and regional averages ............................................... 2.28 
+References .......................................................................................................................................................... 2.34 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+2.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+Table 2.1 (Updated) 
+MSW generation and treatment data – regional defaults ........................................ ……..2.6 
+Table 2.3 (Updated) 
+MSW composition data by percent – regional defaults ................................................. 2.11 
+Table 2.4a (New)  
+Default value and uncertainty of carbon content, nitrogen content and DOC of  domestic 
+and industrial sludge (percent or fraction of dry matter) ................................................ 2.14 
+Table 2A.1 (Updated) MSW generation and management data – by country and regional average ................. 2.15 
+Table 2A.2 (New) 
+Waste composition – by country and regional averages ................................................ 2.28 
+ 
+Boxes 
+Box 2.1    
+Example of activity data collection for estimation of emissions from solid waste treatment 
+based on waste stream analysis by waste type ................................................................. 2.8 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories                                  2.5 
+2 WASTE GENERATION, COMPOSITION AND 
+MANAGEMENT DATA 
+Users are expected to go to Mapping Tables in Annex 1, before reading this chapter. This is required to 
+correctly understand both the refinements made and how the elements in this chapter relate to the corresponding 
+chapter in the 2006 IPCC Guidelines. 
+ 
+2.1 
+INTRODUCTION 
+The starting point for the estimation of greenhouse gas emissions from solid waste disposal, biological treatment 
+and incineration and open burning of solid waste is the compilation of activity data on waste generation, 
+composition and management. General guidance on the data collection for solid waste disposal, biological 
+treatment and incineration and open burning of waste is given in this chapter in order to ensure consistency 
+across these waste categories. More detailed guidance on choice of activity data, emission factors and other 
+parameters needed to make the emission estimates is given under Chapter 3, Solid Waste Disposal, Chapter 4, 
+Biological Treatment of Solid Waste, and in Chapter 5, Incineration and Open Burning of Waste. 
+Solid waste generation is the common basis for activity data to estimate emissions from solid waste disposal, 
+biological treatment, and incineration and open burning of waste. Solid waste generation rates and composition 
+vary from country to country depending on the economic situation, industrial structure, waste management 
+regulations and life style. The availability and quality of data on solid waste generation as well as subsequent 
+treatment also vary significantly from country to country. Statistics on waste generation and treatment have been 
+improved substantially in many countries during the last decade, but at present only a small number of countries 
+have comprehensive waste data covering all waste types and treatment techniques. Historical data on waste 
+disposal at solid waste disposal sites (SWDS) are necessary to estimate methane (CH4) emissions from this 
+category using the First Order Decay method (see Chapter 3 Solid Waste Disposal, Section 3.2.2). Very few 
+countries have data on historical waste disposal going back several decades. 
+Solid waste is generated from households, offices, shops, markets, restaurants, public institutions, industrial 
+installations, water works and sewage facilities, construction and demolition sites, and agricultural activities 
+(emissions from manure management as well as on-site burning of agricultural residues are treated in the 
+Agriculture, Forestry and Other Land Use (AFOLU) Volume). It is a good practice to account for all types of 
+solid waste when estimating waste-related emissions in the greenhouse gas inventory. 
+Solid waste management practices include: collection, recycling, solid waste disposal on land, biological and 
+other treatments as well as incineration and open burning of waste. Although recycling (material recovery) 
+activities will affect the amounts of waste entering into other management and treatment systems, the impact on 
+emissions due to recycling (e.g., changes in emissions in production processes and transportation) is covered 
+under other sectors and will not be addressed here in more detail 
+This chapter provides updated data for the year (2010) for waste generation rates and waste composition by 
+region according to UN classification. Waste generation rate and waste composition are key parameters used in 
+the First Order Decay (FOD) model for estimation of CH4 emissions from SWDS. These two parameters are 
+subject to change over time depending on waste policies such as promotion of waste to energy, recycling and 
+other treatment technologies. The refinement tables provide data which are based on references found during the 
+period 2005 to 2010 which are assumed to be applicable for estimates of the year 2010. Data provided in Revised 
+1996 IPCC Guidelines and 2006 IPCC Guidelines also help countries construct proper historical time series for 
+waste generation which varies by time. In case data for countries are available beyond 2010, such data can be 
+used to improve estimates of emissions for these years. The update of waste composition by country and region 
+based on city and country level information is provided. Waste composition provided are in line with IPCC FOD 
+model. The refinement provides detailed information per country in the tables in the Annexes. When country 
+values are not available in the annex, default regional values provided in Table 2.1 (Updated) and Table 2.3 
+(Updated) can be used. 
+In addition to waste generation rate and waste composition, this refinement provides data on carbon, nitrogen 
+and degradable organic carbon (DOC) contents in sludge which are also used in Chapters 5 and 6, Volume 5 
+(Waste) and Chapter 11, Volume 4 (AFOLU).    
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+2.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.2 
+WASTE GENERATION AND MANAGEMENT 
+DATA 
+No refinement. 
+2.2.1 
+Municipal Solid Waste (MSW) 
+Default data 
+Updated default data of region-specific waste generation rate per capita per year are provided in updated Table 
+2.1. To generate data sets on waste practice at the country level for EU countries, the data were derived from 
+Eurostat, for other countries–World Bank data based on references. These data are based on weight of wet waste 
+and can be assumed to be applicable for the year 2010. Waste generation per capita for subsequent or earlier 
+years can be estimated using the same guidance indicated in 2006 IPCC Guidelines. Data from Revised 1996 
+IPCC Guidelines and 2006 IPCC Guidelines provided in Table 2A.1 (Updated) help countries construct proper 
+historical time series for waste generation which varies by time. 
+ 
+For developing countries using regional waste generation rates provided in the Table 2.1 (Updated) and for 
+developing countries in italics in the Table 2 A.1 (Updated), the generation rates should be multiplied by the 
+urban population only to obtain the total waste generated in the country since these rates assume that the waste is 
+generated by urban population only and not rural population. Hoornweg and Bhada (2012) was the main 
+reference used for data from developing countries. The methodology used for most developing countries in this 
+reference estimated the waste generation rates from the total waste generated in the country divided by the urban 
+population1.  For other countries (not in italics in the table), the generation rates should be multiplied by the total 
+population to estimate the total waste generated in the country. 
+ 
+TABLE 2.1 (UPDATED) 
+MSW GENERATION AND TREATMENT DATA – REGIONAL DEFAULTS  
+Region 
+MSW 
+Generation 
+Rate1,2,3 
+(tonnes/cap/yr) 
+Fraction 
+of MSW 
+open 
+dumped 
+Fraction of 
+MSW 
+disposed to 
+landfills 
+Fraction 
+of MSW 
+incinerat
+ed 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified4 
+Asia 
+ 
+ 
+ 
+ 
+ 
+ 
+Central Asia 
+0.34 
+ 
+ 
+ 
+ 
+ 
+Eastern Asia 
+0.48 
+0.00 
+0.23 
+0.24 
+0.00 
+0.52 
+South-Eastern Asia 
+0.46 
+ 
+ 
+ 
+ 
+ 
+Southern Asia 
+0.50 
+ 
+ 
+ 
+ 
+ 
+Western Asia 
+0.69 
+0.11 
+0.68 
+0.08 
+0.01 
+0.12 
+Africa 
+ 
+ 
+ 
+ 
+ 
+ 
+Northern Africa 
+0.41 
+0.79 
+0.17 
+0.00 
+0.00 
+0.04 
+Eastern Africa 
+0.29 
+0.98 
+0.00 
+0.00 
+0.01 
+0.01 
+Middle Africa 
+0.19 
+0.95 
+0.00 
+0.00 
+0.00 
+0.05 
+Southern Africa 
+0.33 
+ 
+ 
+ 
+ 
+ 
+Western Africa 
+0.18 
+0.00 
+0.64 
+0.00 
+0.00 
+0.36 
+ 
+ 
+ 
+ 
+1 During the time of finalizing this refinement, a new version of the report was issued in September 2018. Inventory 
+compilers are encouraged to refer to the new version of the report for any updated values taking into account any updates in 
+the methodology of estimating the generation rates.   
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories                                  2.7 
+TABLE 2.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND TREATMENT DATA – REGIONAL DEFAULTS 
+Region 
+MSW 
+Generation 
+Rate1,2,3 
+(tonnes/cap/yr) 
+Fraction 
+of MSW 
+open 
+dumped 
+Fraction of 
+MSW 
+disposed to 
+landfills 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified4 
+Europe 
+ 
+ 
+ 
+ 
+ 
+ 
+Eastern Europe 
+0.37 
+0.00 
+0.71 
+0.06 
+0.04 
+0.19 
+Northern Europe 
+0.48 
+0.00 
+0.47 
+0.20 
+0.09 
+0.24 
+Southern Europe 
+0.47 
+0.00 
+0.76 
+0.04 
+0.03 
+0.17 
+Western Europe 
+0.59 
+0.00 
+0.08 
+0.40 
+0.21 
+0.31 
+America 
+ 
+ 
+ 
+ 
+ 
+ 
+Caribbean 
+0.78 
+0.03 
+0.78 
+0.00 
+0.01 
+0.18 
+Central America 
+0.58 
+0.13 
+0.62 
+0.00 
+0.00 
+0.25 
+South America 
+0.43 
+0.43 
+0.40 
+0.00 
+0.00 
+0.18 
+Northern America 
+0.96 
+0.00 
+0.22 
+0.26 
+0.13 
+0.38 
+Oceania 
+ 
+ 
+ 
+ 
+ 
+ 
+Australia and New 
+Zealand 
+0.60 
+0.00 
+0.69 
+0.04 
+0.00 
+0.27 
+Melanesia 
+1.18 
+ 
+ 
+ 
+ 
+ 
+Polynesia 
+1.35 
+ 
+ 
+ 
+ 
+ 
+1 Data are based on weight of wet waste. 
+2 To obtain the total waste generation in the country, the per-capita values should be multiplied with the population whose waste is collected. 
+For developing countries using regional values from the table above, the generation rates should be multiplied by the urban population. 
+3 The data are default data for the year 2010, although for some countries the year for which the data are applicable was not given in the 
+reference, or data for the year 2010 were not available. This year for which the data are collected, where available, is given in Annex 2A.1 
+(Updated) 
+4 Other, unspecified, includes data on recycling for some countries. 
+ 
+Country-specific data  
+It is good practice that countries use data on country-specific MSW generation, composition and management 
+practices as the basis for their emission estimation.  
+ 
+Country-specific data on MSW generation and management practices can be obtained from waste statistics, 
+surveys (municipal or other relevant administration, waste management companies, waste association 
+organisations, other) and research projects (World Bank, Organization for Economic Co-operation and 
+Development (OECD), Asian Development Bank (ADB), Japan International Cooperation Agency (JICA), US 
+Environmental Protection Agency (US EPA), International Institute for Applied Systems Analysis (IIASA), 
+European environment Agency (EEA), etc.). 
+ 
+Large countries with differences in waste generation and treatment within the domestic regions are encouraged to 
+use data from these regions to the extent possible. Additional guidance on data collection in general and on waste 
+surveys is given in Chapter 2, Approaches to Data Collection, in Volume 1. 
+Data from waste stream analyses  
+MSW treatment techniques are often applied in a chain or in parallel. A more accurate but data intensive 
+approach to data collection is to follow the streams of waste from one treatment to another taking into account 
+the changes in composition and other parameters that affect emissions. Waste stream analyses should be 
+combined with high quality country-specific data on waste generation and management. The approach is often 
+complemented with modelling. When using this approach, it is good practice to verify the data using separately 
+collected data on MSW generation, treatment and disposal, especially in cases where they are based largely on 
+modelling. This method is only more accurate than the approaches given above if countries have good quality, 
+detailed data on each end point and have verified the information.  
+Volume 5: Waste 
+ 
+ 
+ 
+2.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+An example of applying the approach for estimating the amount of paper waste disposed at SWDS is given in 
+Box 2.1, Example of Activity Data Collection for Estimation of Emissions from Solid Waste Treatment Based 
+on Waste Stream Analysis by Waste Type. Using this approach following all waste streams in the country would 
+provide activity data for all solid waste treatment and disposal (including waste incineration and open burning of 
+waste). The data needed for the approach could be estimated based on surveys to industry, households and waste 
+management companies/facilities, complemented with statistical data on MSW generation, treatment and 
+disposal.  
+ 
+BOX 2.1 
+ EXAMPLE OF ACTIVITY DATA COLLECTION FOR ESTIMATION OF EMISSIONS FROM SOLID WASTE 
+TREATMENT BASED ON WASTE STREAM ANALYSIS BY WASTE TYPE 
+Waste streams begin at the point of generation, flow through collection and transportation, 
+separation for resource recovery, treatment for volume reduction, detoxification, stabilisation, 
+recycling and/or energy recovery and terminate at SWDS. Waste streams are country-specific. 
+Traditionally most solid waste has been disposed at SWDS in many countries. Recent growing 
+recognition of the need for resource conservation and environmental protection has increased solid 
+waste recycling and treatment before disposal in developed countries. In developing countries, 
+recovery of valuable material at collection, during transportation and at SWDSs has been common. 
+Degradable organic carbon (DOC) is one of the main parameters affecting the CH4 emissions from 
+solid waste disposal. DOC is estimated based on the waste composition, and varies for different 
+waste fractions. Accurate estimates of the amount of waste and amount of DOC in waste (DOCm) 
+disposed at SWDS could be achieved by sampling waste at the gate of SWDS and measuring 
+DOCm in that waste, or specifying the waste stream for each waste type and/or source. 
+Intermediate processes in the waste stream can significantly change physical and chemical 
+properties of waste, including moisture and DOCm. DOCm in waste at SWDS will differ 
+considerably from that at generation, depending on the treatment before the disposal. For those 
+countries that do not have reliable data based on measurements on DOCm disposed at SWDS, the 
+analysis on the change in mass of moisture and DOCm during earlier treatment for each waste 
+type, could provide a method to avoid over-/under-estimating the CH4 emissions at SWDS. 
+ 
+ 
+ 
+Note 1: ‘Mois.’ means moisture and DOCm is the mass of degradable organic carbon. 
+Note 2:  Values in each box give the weight of the total mass (Total), moisture (Mois.) and DOCm 
+in mass units (tonnes or kilograms or other).  
+ 
+ 
+ 
+Paper Waste 
+Generation 
+Total 1000 
+( Mois . 200) 
+DOC m 400 
+Stream A (composting) 
+Total 100  - > 80 
+( Mois . 20  - >20) 
+DOC m 40  - >20 
+Stream B (incineration) 
+Total 200  - > 40 
+( Mois . 40  - >4) 
+DOC m 80  - >0 
+Stream C (disposal) 
+Total 200  - > 190 
+( Mois . 40  - >30) 
+DOC m 80  - >80 
+Resource  
+Recovery 
+Total 500 
+( Mois . 100) 
+DOC m 200 
+SWDS 
+total 270 
+( Mois . 44) 
+DOC m 90 
+Use on Land 
+Total 40 
+( Mois . 10) 
+DOC m 10 
+Ash 
+Compost 
+50% reduction of  DOC m 
+80% reduction of Total Mass 
+90% reduction of  Mois . 
+100% reduction of  DOC m 
+25% loss of  Mois . during  
+reshipment & transportation 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories                                  2.9 
+BOX 2.1 (CONTINUED) 
+ EXAMPLE OF ACTIVITY DATA COLLECTION FOR ESTIMATION OF EMISSIONS FROM SOLID WASTE 
+TREATMENT BASED ON WASTE STREAM ANALYSIS BY WASTE TYPE 
+The figure above shows an example of a paper waste flow chart for analysis of change in DOCm 
+in waste during the treatment before disposal. Some portion of paper waste would be recovered as 
+material, and be diverted from the waste management flow. The DOCm in paper waste is reduced 
+by intermediate processes, such as composting and incineration before disposal at the SWDS. 
+Mass of total waste, DOCm and moisture at the exit of each process can be given by multiplying 
+mass of these components at the entrance by reduction rates of the process. In this figure the 
+changes of mass are studied for paper waste solely, although the treatment steps would usually 
+include also other waste types. Incineration will remove most of the moisture, but the ash will be 
+re-wetted to avoid the fly loss during transportation and loading into SWDS. Greenhouse gas 
+emissions from other categories than SWDS (i.e., resource recovery, composting, incineration and 
+use on land) should be estimated under guidelines in relevant chapters. The estimates in this figure 
+are based on expert judgement only as an example. 
+To apply this approach national statistics on municipal waste generation and treatment streams, 
+country-specific parameters on waste composition and fraction moisture as well as DOC estimates 
+for each waste type are needed for precise estimation. It may be difficult to obtain all these data 
+and parameters in many countries. If country-specific reduction rates of moisture and DOCm at 
+each intermediate treatment step before disposal at SWDS can be obtained, estimated DOCm 
+disposed into SWDS will be more precise than when based on data measured at generation. 
+2.2.2 
+Sludge 
+No refinement.  
+2.2.3 
+Industrial waste  
+No refinement. 
+2.2.4 
+Other waste   
+No refinement. 
+2.3 
+WASTE COMPOSITION   
+2.3.1 
+Municipal Solid Waste (MSW) 
+ 
+Waste composition is one of the main factors influencing emissions from solid waste treatment, and is influenced 
+by factors such as cultural norms, level of economic development, climate, and energy consumption etc. In the 
+municipal solid waste stream, waste can be classified into organic and inorganic component.  Food waste, garden 
+(yard) and park waste, and wood are classified as organic waste while paper/cardboard, textiles, nappies, and 
+leather/rubber contain some fossil carbon. The different waste types contain different amount of DOC and fossil 
+carbon. Waste compositions, as well as the classifications used to collect data on waste composition in MSW 
+vary widely in different regions and countries.  
+In this Volume, default data on waste composition in MSW are provided for the following waste types: 
+(1) food waste;  
+(2) garden (yard) and park waste; 
+(3) paper and cardboard; 
+(4) wood;  
+(5) textiles; 
+(6) nappies (disposable diapers); 
+(7) rubber and leather; 
+(8) plastics; 
+Volume 5: Waste 
+ 
+ 
+ 
+2.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(9) metal; 
+(10) glass (and pottery and china); 
+(11) other (e.g., ash, dirt, dust, soil, electronic waste). 
+Waste types from (1) to (6) contain most of the DOC in MSW. Ash, dust, rubber and leather contain also certain 
+amounts of non-fossil carbon, but this is hardly degradable. Some textiles, plastics (including plastics in 
+disposable nappies), rubber and electronic waste contain the bulk part of fossil carbon in MSW. Paper (with 
+coatings) and leather (synthetic) can also include small amounts of fossil carbon.  
+Based on data on MSW compositions collected from international literatures, the regional average components 
+were calculated and the regional default data on waste composition in MSW are given in Table 2.3 (Updated). 
+These updated default data are by specific region using UN classification in accordance to the updated default 
+data of waste generation rate. 
+These data are based on weight of wet waste without industrial waste. Table 2.3 (Updated) and Table 2A.2 
+(New) provide default data for garden and park waste and nappies. These values are based on limited number of 
+countries which have data on these waste types. In Table 2A.2 (New), when values of nappies and garden and 
+yard waste are not included for a country, the country should subtract the assumed value for nappies and garden 
+and park waste from the “others” category.  
+This refinement updates waste composition by region with the average from city and country level on wet weight 
+basis. Waste components are in line with IPCC Waste model. Detailed information on waste composition is 
+provided in Annex 2A.2 (New). 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.11 
+TABLE 2.3 (UPDATED) 
+MSW COMPOSITION DATA BY PERCENT – REGIONAL DEFAULTS 
+Region 
+Food waste 
+Garden 
+waste 
+Paper 
+/cardboard 
+Wood 
+Textiles 
+Nappies 
+Rubber 
+/Leather 
+Plastic 
+Metal 
+Glass 
+Other 
+Asia 
+Central 
+Asia 
+30.0 
+1.4 
+24.7 
+2.5 
+3.5 
+0 
+0 
+8.4 
+0.8 
+5.9 
+23.0 
+Eastern 
+Asia 
+40.3 
+0.0 
+20.4 
+2.1 
+1.0 
+0.0 
+0.0 
+6.5 
+2.7 
+4.3 
+22.9 
+South-
+Eastern 
+Asia 
+49.9 
+1.0 
+11.2 
+0.8 
+0.4 
+0.0 
+0.0 
+10.2 
+4.2 
+3.7 
+18.6 
+Southern 
+Asia 
+66.1 
+0.0 
+9.2 
+0.0 
+1.2 
+0.0 
+0.4 
+7.0 
+0.9 
+1.5 
+13.9 
+Western 
+Asia 
+42.2 
+3.2 
+15.3 
+0.8 
+3.0 
+0.4 
+0.3 
+17.2 
+2.5 
+3.4 
+11.8 
+Africa 
+Northern 
+Africa 
+50.4 
+0.0 
+12.1 
+0.0 
+5.8 
+0.0 
+0.0 
+13.8 
+4.4 
+3.3 
+10.5 
+Eastern 
+Africa 
+44.4 
+6.9 
+10.4 
+0.5 
+3.0 
+0.0 
+0.4 
+8.0 
+2.6 
+2.1 
+21.7 
+Middle 
+Africa 
+28.4 
+0 
+8 
+0 
+1.3 
+0 
+0 
+7.1 
+1.4 
+1.1 
+52.7 
+Southern 
+Africa 
+24.0 
+0.0 
+14.5 
+0.0 
+5.5 
+0.0 
+0.0 
+26.5 
+6.5 
+9.0 
+14.0 
+Western 
+Africa 
+53.9 
+0.0 
+7.5 
+0.0 
+1.9 
+0.0 
+0.0 
+6.4 
+2.7 
+1.3 
+26.5 
+ 
+ 
+ 
+ Volume 5: Waste 
+ 
+ 
+ 
+2.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2.3 (UPDATED) (CONTINUED) 
+MSW COMPOSITION DATA BY PERCENT – REGIONAL DEFAULTS 
+Region 
+Food waste 
+Garden 
+waste 
+Paper/ 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+Rubber/ 
+Leather 
+Plastic 
+Metal 
+Glass 
+Other 
+Europe 
+Eastern 
+Europe 
+31.8 
+2.4 
+17.1 
+2.5 
+3.1 
+0.1 
+0.5 
+4.6 
+0.7 
+1.8 
+35.3 
+Northern 
+Europe 
+30.3 
+5.2 
+13.8 
+1.8 
+3.2 
+1.2 
+0.0 
+4.9 
+1.4 
+4.3 
+34.0 
+Southern 
+Europe 
+37.1 
+2.2 
+19.2 
+1.4 
+3.2 
+1.1 
+0.2 
+11.8 
+1.9 
+3.6 
+18.3 
+Western 
+Europe 
+33.2 
+2.7 
+17.2 
+2.3 
+5.9 
+3.0 
+0.0 
+20.5 
+1.5 
+1.4 
+12.3 
+America 
+Central 
+America 
+62.7 
+0.0 
+12.6 
+0.3 
+2.2 
+0.0 
+0.0 
+10.3 
+2.7 
+3.3 
+6.0 
+South 
+America 
+54.1 
+3.3 
+12.4 
+0.0 
+1.7 
+1.9 
+0.6 
+13.7 
+2.0 
+3.0 
+7.2 
+Northern 
+America 
+20.2 
+6.8 
+23.3 
+4.1 
+3.9 
+0 
+1.6 
+15.8 
+6.4 
+4.2 
+14.0 
+Oceania 
+Australia 
+and New 
+Zealand 
+25.9 
+12.2 
+12.0 
+6.5 
+2.9 
+3.5 
+0.0 
+8.3 
+1.8 
+2.8 
+24.1 
+Note 1: Data are based on weight of wet waste of MSW without industrial waste at generation around year 2010.  
+Note 2: The region-specific values are calculated from national, partly incomplete composition data. The percentages given may therefore not add up to 100percent. Some regions may not have data for some waste types - 
+blanks in the table represent missing data.  
+Note 3: Data of rest of Oceania and Caribbean are not refined 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+        2.13 
+2.3.2 
+Sludge 
+ 
+The 2006 IPCC Guidelines elaborate sludge as “…Sludge from domestic and industrial wastewater treatment 
+plants is addressed as a separate waste category in this Volume. In some countries, sludge from domestic 
+wastewater treatment is included in MSW and sludge from industrial wastewater treatment in industrial waste. 
+Countries may also include all sludge in industrial waste. When country-specific categorization is used, it should 
+be documented transparently…”.  
+ 
+In this refinement, definition of sludge is addressed. Sludge is a mixture of liquid and solid components and can 
+be produced as sewage sludge from wastewater treatment processes or as a settled suspension obtained from 
+conventional drinking water treatment or from numerous other industrial processes. Sludge from industrial 
+processes is usually process-specific and it is good practice to obtain sludge composition data from producers.  
+ 
+Data characterizing sludge composition needed for emission estimations include carbon content, nitrogen content 
+and DOC of sludge. Default values are presented percent or fraction of sludge as dry mass in Table 2.4a (New). 
+ 
+The carbon (C) content and nitrogen (N) content are result of ultimate analysis (quantifying C or N disregarding 
+the form or chemical compound in which they are present in sludge).  
+ 
+The DOC content in sludge will vary depending on the wastewater treatment method producing the sludge, and  
+be different for domestic and industrial sludge. 
+For domestic sludge, the default DOC value (as percentage of wet waste assuming a default dry matter content of 
+10 percent) is 5 percent (range 4 - 5 percent, which means that the DOC content would be 40-50 percent of dry 
+matter 
+In this refinement, the DOC in sludge was estimated as multiplication of carbon content and volatile suspended 
+solids fraction of sludge. It is assumed, that volatile suspended solids fraction is equivalent to degradable 
+organics in sludge. This approach is applicable to sludge (mainly from industrial activities), where carbon is 
+evenly distributed in the sludge. In case of sludge from wastewater treatment, which consists from inorganic and 
+organic fractions, majority of carbon is concentrated in organic fraction and therefore DOC of sewage sludge is 
+equivalent to total carbon content. The DOC content 40-50 percent as shown in 2006 IPCC Guidelines is 
+applicable to untreated sludge. The default DOC value for treated sludge is 30 percent (Werle, 2013; Werle and 
+Dudziak, 2014; He et al. 2007; Boutchich et al. 2015; Phyllis 2 database). 
+ 
+A rough default value of 9 percent DOC (assuming the dry matter content to be 35 percent) can be used for 
+industrial sludge, when country and/or industry-specific is not available. The default DOC value applies for total 
+industrial sludge in a country. Sewage, food industry, paper industry, textile industry and chemical industry will 
+generate organic sludge. DOC is also found in sludge from water work and dredging. The DOC in sludge can 
+vary much by industry type. Examples of carbon contents in some organic sludge (percentage of dry matter) in 
+Japan are: 27 percent for pulp and paper industry, 30 percent for food industry and 52 percent for chemical 
+industry (Yamada et al. 2003). 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+2.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2.4A (NEW)  
+DEFAULT VALUE AND UNCERTAINTY OF CARBON CONTENT, NITROGEN CONTENT AND DOC OF DOMESTIC AND 
+INDUSTRIAL SLUDGE (PERCENT OF DRY MATTER)  
+Sludge 
+Carbon content 
+Nitrogen content 
+DOC 
+Default 
+value 
+(percent) 
+Uncertainty 
+(percent)  
+Default 
+value 
+(percent) 
+Uncertainty 
+(percent) 
+Default 
+value 
+(percent) 
+Uncertainty 
+(percent)  
+Domestic Sewage 
+Treated Sludge 2-6 
+31 
++/- 27 
+4.2 
++/- 56 
+30 
++/- 61 
+Domestic Sewage 
+Untreated Sludge 1 
+ 
+ 
+ 
+ 
+50 
++/- 30 
+Food Industry  
+(fruits & 
+vegetables)2 
+44 
++/- 33 
+1.1 
++/- 45 
+36 
++/- 69 
+Paper Industry 
+(process sludge)2 
+28 
++/- 49 
+0.5 
++/- 100 
+12 
++/- 25 
+Paper Industry  
+(Wastewater 
+sludge)2 
+31 
++/- 15 
+0.9 
++/- 60 
+ 
+ 
+Chemical Industry1 
+52 
++/- 100 
+ 
+ 
+ 
+ 
+Default for 
+Industrial Sludge1 
+ 
+ 
+ 
+ 
+26 
+ 
+Source:  
+1 Derived from 2006 IPCC Guidelines  
+2 Derived from Phyllis2 database for biomass and waste, https://www.ecn.nl/phyllis2 Energy research Centre of the Netherlands with 
+uncertainty is estimated as 95 percentile (2*sigma) 
+3 Werle and Dudziak, 2014 
+4 Werle, 2013 
+5 He et al. 2007 
+6 Boutchich et al. 2015 
+ 
+In addition to emission estimate and reporting in the 2006 IPCC Guidelines Chapter 2, Section 2.2.2 estimation 
+of CH4 generated from anaerobic sludge stabilization at a wastewater treatment plant should be estimated 
+according to methodology Chapter 4 (Volume 5) and resulting emissions should be included in Chapter 6 
+(Volume 5). 
+ 
+2.3.3 
+Industrial waste   
+No refinement. 
+2.3.4 
+Other waste 
+No refinement. 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.15 
+Annex 2A.1 (Updated) Waste Generation and Management Data – by country and regional averages 
+TABLE 2A.1 (UPDATED)  
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+Asia 
+Central Asia 
+0.12 
+0.21 
+0.34 
+0.60 
+0.74 
+ 
+ 
+ 
+ 
+ 
+ 
+    Tajikistan 
+ 
+ 
+0.32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Turkmenistan 
+ 
+ 
+0.36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Eastern Asia 
+0.41 
+0.37 
+0.48 
+0.38 
+0.55 
+0.00 
+0.23 
+0.24 
+0.00 
+0.52 
+ 
+    China 
+ 
+0.27 
+0.37 
+ 
+0.97 
+ 
+ 
+ 
+ 
+ 
+2 
+Hong Kong 
+Special    
+Administrative 
+Region, China 
+ 
+ 
+0.93 
+ 
+ 
+0.00 
+0.51 
+0.00 
+0.00 
+0.49 
+3 
+ Macao Special 
+Administrative 
+Region, China  
+ 
+ 
+0.62 
+ 
+ 
+0.00 
+0.23 
+0.00 
+0.00 
+0.77 
+3 
+    Japan 
+0.41 
+0.47 
+0.35 
+0.38 
+0.25 
+0.00 
+0.01 
+0.76 
+0.00 
+0.22 
+4 
+    Mongolia 
+ 
+ 
+0.24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Republic of 
+Korea 
+ 
+0.38 
+0.35 
+ 
+0.42 
+0.00 
+0.18 
+0.22 
+0.00 
+0.61 
+5 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+FRACTION OF 
+MSW 
+INCINERATED 
+Fraction 
+of MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+South-Eastern 
+Asia 
+ 
+0.27 
+0.46 
+ 
+0.59 
+ 
+ 
+ 
+ 
+ 
+ 
+    Brunei 
+Darussalam 
+ 
+ 
+0.32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Indonesia 
+ 
+0.28 
+0.19 
+ 
+0.80 
+ 
+ 
+ 
+ 
+ 
+1 
+    Lao People's 
+Democratic                            
+Republic 
+ 
+0.25 
+0.26 
+ 
+0.40 
+ 
+ 
+ 
+ 
+ 
+1 
+    Malaysia 
+ 
+0.30 
+0.55 
+ 
+0.70 
+ 
+ 
+ 
+ 
+ 
+6 
+    Myanmar 
+ 
+0.16 
+0.16 
+ 
+0.60 
+ 
+ 
+ 
+ 
+ 
+1 
+    Philippines 
+ 
+0.19 
+0.18 
+ 
+0.62 
+ 
+ 
+ 
+ 
+ 
+1 
+    Singapore 
+ 
+0.40 
+1.28 
+ 
+0.20 
+0.00 
+0.03 
+0.40 
+0.00 
+0.57 
+7, 8 
+    Thailand 
+ 
+0.40 
+0.64 
+ 
+0.80 
+ 
+ 
+ 
+ 
+ 
+1 
+    Viet Nam 
+ 
+0.20 
+0.53 
+ 
+0.60 
+ 
+ 
+ 
+ 
+ 
+1 
+Southern Asia 
+0.12 
+0.21 
+0.50 
+0.60 
+0.74 
+ 
+ 
+ 
+ 
+ 
+ 
+    Bangladesh 
+ 
+0.18 
+0.18 
+ 
+0.95 
+ 
+ 
+ 
+ 
+ 
+9 
+    Bhutan 
+ 
+ 
+0.53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    India 
+0.12 
+0.17 
+0.12 
+0.60 
+0.70 
+ 
+ 
+ 
+ 
+ 
+1 
+    Iran (Islamic 
+Republic of) 
+ 
+ 
+0.06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Maldives 
+ 
+ 
+0.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10  
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.17 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Nepal 
+ 
+0.18 
+0.04 
+ 
+0.40 
+ 
+ 
+ 
+ 
+ 
+1 
+   Pakistan 
+ 
+ 
+0.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Sri Lanka 
+ 
+0.32 
+1.86 
+ 
+0.90 
+ 
+ 
+ 
+ 
+ 
+1 
+Western Asia 
+ 
+ 
+0.69 
+ 
+ 
+0.11 
+0.68 
+0.08 
+0.01 
+0.12 
+ 
+    Armenia 
+ 
+ 
+0.25 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+1 
+    Bahrain 
+ 
+ 
+0.40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Cyprus 
+ 
+0.68 
+0.69 
+ 
+1.00 
+0.00 
+0.86 
+0.00 
+0.00 
+0.14 
+11 
+    Georgia 
+ 
+ 
+0.62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Israel 
+ 
+ 
+0.62 
+ 
+ 
+0.00 
+0.89 
+0.00 
+0.00 
+0.11 
+4 
+    Jordan 
+ 
+ 
+0.38 
+ 
+ 
+0.00 
+0.85 
+0.00 
+0.00 
+0.15 
+1 
+    Kuwait 
+ 
+ 
+3.05 
+ 
+ 
+0.00 
+0.75 
+0.00 
+0.00 
+0.25 
+3 
+    Lebanon 
+ 
+ 
+0.43 
+ 
+ 
+0.37 
+0.46 
+0.00 
+0.08 
+0.09 
+1 
+    Oman 
+ 
+ 
+0.26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+    Qatar 
+ 
+ 
+1.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+    Saudi Arabia 
+ 
+ 
+0.47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+    State of 
+Palestine 
+ 
+ 
+0.38 
+ 
+ 
+0.00 
+0.29 
+0.69 
+0.00 
+0.02 
+3 
+    Syrian Arab 
+Republic 
+ 
+ 
+0.50 
+ 
+ 
+0.60 
+0.23 
+0.00 
+0.04 
+0.13 
+1, 12 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Turkey 
+ 
+0.50 
+0.41 
+ 
+0.99 
+0.00 
+0.84 
+0.00 
+0.01 
+0.16 
+11 
+    United Arab 
+Emirates 
+ 
+ 
+0.61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Africa 
+Northern 
+Africa 
+ 
+0.29 
+0.41 
+ 
+0.69 
+0.79 
+0.17 
+0.00 
+0.00 
+0.04 
+ 
+    Algeria 
+ 
+ 
+0.44 
+ 
+ 
+0.97 
+0.00 
+0.00 
+0.01 
+0.02 
+1 
+    Egypt 
+ 
+ 
+0.50 
+ 
+0.70 
+ 
+ 
+ 
+ 
+ 
+1 
+    Morocco 
+ 
+ 
+0.53 
+ 
+ 
+0.95 
+0.01 
+0.00 
+0.00 
+0.04 
+1 
+    Sudan 
+ 
+0.29 
+0.29 
+ 
+0.82 
+ 
+ 
+ 
+ 
+ 
+1 
+    Tunisia 
+ 
+ 
+0.30 
+ 
+ 
+0.45 
+0.50 
+0.00 
+0.00 
+0.05 
+1 
+Eastern Africa 
+ 
+0.29 
+0.29 
+ 
+0.69 
+0.98 
+0.00 
+0.00 
+0.01 
+0.01 
+ 
+    Burundi 
+ 
+ 
+0.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Comoros 
+ 
+ 
+0.81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Eritrea 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Ethiopia 
+ 
+ 
+0.11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+    Kenya 
+ 
+ 
+0.11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Madagascar 
+ 
+ 
+0.29 
+ 
+ 
+0.96 
+0.00 
+0.00 
+0.04 
+0.00 
+1 
+    Malawi 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.19 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Mauritius 
+ 
+ 
+0.31 
+ 
+ 
+0.98 
+0.00 
+0.00 
+0.00 
+0.02 
+1, 3 
+    Mozambique 
+ 
+ 
+0.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Réunion 
+ 
+ 
+0.69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+    Rwanda 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Seychelles 
+ 
+ 
+1.09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Uganda 
+ 
+ 
+0.12 
+ 
+ 
+1.00 
+0.00 
+0.00 
+0.00 
+0.00 
+1 
+    United 
+Republic of 
+Tanzania 
+ 
+ 
+0.09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Zambia 
+ 
+ 
+0.08 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Zimbabwe 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Middle Africa 
+ 
+0.29 
+0.19 
+ 
+0.69 
+0.95 
+0.00 
+0.00 
+0.00 
+0.05 
+ 
+    Angola 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Cameroon 
+ 
+ 
+0.28 
+ 
+ 
+0.95 
+0.00 
+0.00 
+0.00 
+0.05 
+1, 14 
+    Central 
+African 
+Republic 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Chad 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Congo 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Democratic 
+Republic of the    
+Congo 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Gabon 
+ 
+ 
+0.16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Sao Tome 
+and Principe 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Southern 
+Africa 
+ 
+0.29 
+0.33 
+ 
+0.69 
+ 
+ 
+ 
+ 
+ 
+ 
+    Botswana 
+ 
+ 
+0.38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Lesotho 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Namibia 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    South Africa 
+ 
+ 
+0.73 
+1.00 
+0.90 
+ 
+ 
+ 
+ 
+ 
+1 
+    Swaziland 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Western Africa 
+ 
+0.29 
+0.18 
+ 
+0.69 
+0.00 
+0.64 
+0.00 
+0.00 
+0.36 
+ 
+    Benin 
+ 
+ 
+0.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Burkina Faso 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Cabo Verde 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Côte d'Ivoire 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Gambia 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Ghana 
+ 
+ 
+0.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Mali 
+ 
+ 
+0.24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+    Mauritania 
+ 
+ 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.21 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to 
+landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Niger 
+ 
+ 
+0.18 
+ 
+ 
+0.00 
+0.64 
+0.00 
+0.00 
+0.36 
+1 
+    Nigeria 
+ 
+ 
+0.20 
+ 
+0.40 
+ 
+ 
+ 
+ 
+ 
+16 
+    Senegal 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Sierra Leone 
+ 
+ 
+0.16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+    Togo 
+ 
+ 
+0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Europe 
+Eastern 
+Europe 
+ 
+0.38 
+0.37 
+ 
+0.90 
+0.00 
+0.71 
+0.06 
+0.04 
+0.19 
+ 
+    Belarus 
+ 
+ 
+0.38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+    Bulgaria 
+ 
+0.52 
+0.55 
+ 
+1.00 
+0.00 
+0.74 
+0.00 
+0.00 
+0.26 
+11 
+    Czechia 
+ 
+0.33 
+0.32 
+ 
+0.75 
+0.00 
+0.65 
+0.15 
+0.02 
+0.18 
+11 
+    Hungary 
+ 
+0.45 
+0.40 
+ 
+0.92 
+0.00 
+0.70 
+0.10 
+0.04 
+0.16 
+11 
+    Poland 
+ 
+0.32 
+0.32 
+ 
+0.98 
+0.00 
+0.62 
+0.00 
+0.07 
+0.31 
+11 
+    Romania 
+ 
+0.36 
+0.31 
+ 
+1.00 
+0.00 
+0.76 
+0.00 
+0.10 
+0.14 
+11 
+    Russian 
+Federation 
+0.32 
+0.34 
+0.34 
+0.94 
+0.71 
+ 
+ 
+ 
+ 
+ 
+1 
+    Slovakia 
+ 
+0.32 
+0.32 
+ 
+1.00 
+0.00 
+0.77 
+0.11 
+0.03 
+0.09 
+11 
+Northern 
+Europe 
+ 
+0.64 
+0.48 
+ 
+0.47 
+0.00 
+0.47 
+0.20 
+0.09 
+0.24 
+ 
+    Denmark 
+0.46 
+0.67 
+0.76 
+0.20 
+0.10 
+0.00 
+0.03 
+0.48 
+0.18 
+0.31 
+11 
+    Estonia 
+ 
+0.44 
+0.31 
+ 
+0.98 
+0.00 
+0.66 
+0.00 
+0.08 
+0.26 
+11 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Finland 
+0.62 
+0.50 
+0.47 
+0.77 
+0.61 
+0.00 
+0.45 
+0.22 
+0.13 
+0.20 
+11 
+    Iceland 
+ 
+1.00 
+0.48 
+ 
+0.86 
+0.00 
+0.72 
+0.08 
+0.05 
+0.15 
+11 
+    Ireland 
+0.31 
+0.60 
+0.62 
+1.00 
+0.89 
+0.00 
+0.53 
+0.04 
+0.04 
+0.40 
+11 
+    Latvia 
+ 
+0.27 
+0.32 
+ 
+0.92 
+0.00 
+0.91 
+0.00 
+0.01 
+0.09 
+11 
+    Lithuania 
+ 
+0.31 
+0.40 
+ 
+1.00 
+0.00 
+0.86 
+0.00 
+0.02 
+0.12 
+11 
+    Norway 
+0.51 
+0.62 
+0.47 
+0.75 
+0.55 
+0.00 
+0.06 
+0.50 
+0.16 
+0.28 
+11 
+    Sweden 
+0.37 
+0.43 
+0.44 
+0.44 
+0.23 
+0.00 
+0.01 
+0.51 
+0.14 
+0.34 
+11 
+    United 
+Kingdom and 
+Northern Ireland 
+0.69 
+0.57 
+0.51 
+0.90 
+0.82 
+0.00 
+0.46 
+0.13 
+0.15 
+0.26 
+11 
+Southern 
+Europe 
+ 
+0.52 
+0.47 
+ 
+0.85 
+0.00 
+0.76 
+0.04 
+0.03 
+0.17 
+ 
+    Bosnia and 
+Herzegovina 
+ 
+ 
+0.33 
+ 
+ 
+0.00 
+0.82 
+0.00 
+0.00 
+0.18 
+11 
+    Croatia 
+ 
+ 
+0.38 
+ 
+1.00 
+0.00 
+0.94 
+0.00 
+0.01 
+0.05 
+11 
+    Greece 
+0.31 
+0.41 
+0.53 
+0.93 
+0.91 
+0.00 
+0.83 
+0.00 
+0.02 
+0.15 
+11 
+    Italy 
+0.34 
+0.50 
+0.55 
+0.88 
+0.70 
+0.00 
+0.46 
+0.17 
+0.12 
+0.25 
+11 
+    Malta 
+ 
+0.48 
+0.60 
+ 
+1.00 
+0.00 
+0.91 
+0.00 
+0.00 
+0.09 
+11 
+    Montenegro 
+ 
+ 
+0.54 
+ 
+ 
+0.00 
+0.88 
+0.00 
+0.00 
+0.12 
+11 
+    Portugal 
+0.33 
+0.47 
+0.52 
+0.86 
+0.69 
+0.00 
+0.62 
+0.19 
+0.07 
+0.11 
+11 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.23 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Serbia 
+ 
+ 
+0.36 
+ 
+ 
+0.00 
+0.71 
+0.00 
+0.00 
+0.29 
+11 
+    Slovenia 
+ 
+0.51 
+0.49 
+ 
+0.90 
+0.00 
+0.57 
+0.01 
+0.02 
+0.40 
+11 
+    Spain 
+0.36 
+0.60 
+0.51 
+0.85 
+0.68 
+0.00 
+0.62 
+0.09 
+0.12 
+0.18 
+11 
+    Republic of 
+Macedonia 
+ 
+ 
+0.35 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+11 
+Western 
+Europe 
+0.45 
+0.56 
+0.59 
+0.57 
+0.47 
+0.00 
+0.08 
+0.40 
+0.21 
+0.31 
+ 
+    Austria 
+0.34 
+0.58 
+0.56 
+0.40 
+0.30 
+0.00 
+0.03 
+0.35 
+0.32 
+0.30 
+11 
+    Belgium 
+0.40 
+0.47 
+0.46 
+0.43 
+0.17 
+0.00 
+0.02 
+0.40 
+0.21 
+0.37 
+11 
+    France 
+0.47 
+0.53 
+0.53 
+0.46 
+0.43 
+0.00 
+0.31 
+0.34 
+0.17 
+0.18 
+11 
+    Germany 
+0.36 
+0.61 
+0.60 
+0.66 
+0.30 
+0.00 
+0.00 
+0.37 
+0.17 
+0.46 
+11 
+    Luxembourg 
+0.49 
+0.66 
+0.68 
+0.35 
+0.27 
+0.00 
+0.18 
+0.36 
+0.19 
+0.27 
+11 
+    Netherlands 
+0.58 
+0.62 
+0.57 
+0.67 
+0.11 
+0.00 
+0.02 
+0.49 
+0.24 
+0.25 
+11 
+    Switzerland 
+0.40 
+0.40 
+0.71 
+0.23 
+1.00 
+0.00 
+0.00 
+0.50 
+0.17 
+0.34 
+11 
+America 
+Caribbean 
+ 
+0.49 
+0.78 
+ 
+0.83 
+0.03 
+0.78 
+0.00 
+0.01 
+0.18 
+ 
+    Anguilla 
+ 
+ 
+1.10 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+3 
+    Antigua and 
+Barbuda 
+ 
+ 
+1.39 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+3 
+    Bahamas 
+ 
+0.95 
+1.19 
+ 
+0.70 
+ 
+ 
+ 
+ 
+ 
+1 
+    Barbados 
+ 
+ 
+1.73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Cuba 
+ 
+0.21 
+0.30 
+ 
+0.90 
+0.00 
+0.84 
+0.00 
+0.11 
+0.04 
+1 
+    Dominica 
+ 
+ 
+0.32 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+1, 3 
+    Dominican 
+Republic 
+ 
+0.25 
+0.43 
+ 
+0.90 
+ 
+ 
+ 
+ 
+ 
+1 
+    Grenada 
+ 
+ 
+0.99 
+ 
+ 
+0.00 
+0.90 
+0.00 
+0.00 
+0.10 
+1 
+    Guadeloupe 
+ 
+ 
+0.60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+    Haiti 
+ 
+ 
+0.37 
+ 
+ 
+0.24 
+0.00 
+0.00 
+0.00 
+0.76 
+1 
+    Jamaica 
+ 
+ 
+0.07 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+1 
+    Saint Kitts 
+and Nevis 
+ 
+ 
+1.99 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+1 
+    Saint Lucia 
+ 
+0.55 
+0.25 
+ 
+0.83 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+3 
+    Saint Vincent 
+and the 
+Grenadines 
+ 
+ 
+0.35 
+ 
+ 
+0.00 
+0.85 
+0.00 
+0.00 
+0.15 
+3 
+    Trinidad and 
+Tobago 
+ 
+ 
+0.58 
+ 
+ 
+0.06 
+0.00 
+0.00 
+0.00 
+0.94 
+1 
+Central 
+America 
+ 
+0.21 
+0.55 
+ 
+0.50 
+0.13 
+0.62 
+0.00 
+0.00 
+0.25 
+ 
+    Belize 
+ 
+ 
+1.05 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+1 
+    Costa Rica 
+ 
+0.17 
+0.50 
+ 
+ 
+0.22 
+0.72 
+0.00 
+0.00 
+0.06 
+1 
+ 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.25 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    El Salvador 
+ 
+ 
+0.41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Guatemala 
+ 
+0.22 
+0.73 
+ 
+0.40 
+0.00 
+0.22 
+0.00 
+0.00 
+0.78 
+1 
+    Honduras 
+ 
+0.15 
+0.53 
+ 
+0.40 
+ 
+ 
+ 
+ 
+ 
+1 
+    Mexico 
+ 
+0.31 
+0.34 
+ 
+ 
+0.00 
+0.96 
+0.00 
+0.00 
+0.04 
+4 
+    Nicaragua 
+ 
+0.28 
+0.40 
+ 
+0.70 
+0.34 
+0.28 
+0.00 
+0.00 
+0.38 
+1 
+    Panama 
+ 
+ 
+0.44 
+ 
+ 
+0.20 
+0.56 
+0.00 
+0.00 
+0.24 
+1 
+South America 
+ 
+0.26 
+0.43 
+ 
+0.54 
+0.43 
+0.40 
+0.00 
+0.00 
+0.18 
+ 
+    Argentina 
+ 
+0.28 
+0.37 
+ 
+0.59 
+ 
+ 
+ 
+ 
+ 
+18 
+    Bolivia  
+ 
+0.16 
+0.12 
+ 
+0.70 
+ 
+ 
+ 
+ 
+ 
+1 
+    Brazil 
+ 
+0.18 
+0.31 
+ 
+0.80 
+ 
+ 
+ 
+ 
+ 
+3 
+    Chile 
+ 
+ 
+0.35 
+ 
+ 
+0.00 
+1.00 
+0.00 
+0.00 
+0.00 
+4 
+    Colombia 
+ 
+0.26 
+0.35 
+ 
+0.31 
+0.54 
+0.46 
+0.00 
+0.00 
+0.00 
+1 
+    Ecuador 
+ 
+0.22 
+0.41 
+ 
+0.40 
+ 
+ 
+ 
+ 
+ 
+1 
+    French 
+Guiana 
+ 
+ 
+0.37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+    Guyana 
+ 
+ 
+1.95 
+ 
+ 
+0.37 
+0.59 
+0.00 
+0.00 
+0.04 
+1 
+    Paraguay 
+ 
+0.44 
+0.08 
+ 
+0.40 
+0.42 
+0.44 
+0.00 
+0.00 
+0.14 
+1 
+    Peru 
+ 
+0.20 
+0.37 
+ 
+0.53 
+0.19 
+0.66 
+0.00 
+0.00 
+0.15 
+1 
+    Suriname 
+ 
+ 
+0.50 
+ 
+ 
+1.00 
+0.00 
+0.00 
+0.00 
+0.00 
+1 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+Region/country 
+MSW 1, 2 
+Generation 
+Rate IPCC-
+1996 Values 4 
+(tonnes/cap/yr) 
+MSW 1, 2, 3 
+Generation Rate 
+IPCC-2006 
+Values 5 
+(tonnes/cap/yr) 
+MSW 
+Generation 
+Rate Values 
+1,2,3 
+(tonnes/cap/yr) 
+Fraction of 
+MSW disposed 
+to SWDS 
+IPCC-1996 
+Values 4 
+Fraction of 
+MSW disposed 
+to SWDS IPCC-
+2006 Values 5  
+Fraction of MSW 
+disposed to SWDS 
+Fraction of 
+MSW 
+incinerated 
+Fraction of 
+MSW 
+composted 
+Fraction of 
+other MSW 
+management, 
+unspecified 6 
+Source 
+Open 
+dumped 
+Disposed 
+to 
+landfills 
+Year 
+1990 
+2000 
+2010 
+1990 
+2000 
+2010 
+2010 
+2010 
+2010 
+2010 
+ 
+    Uruguay 
+ 
+0.26 
+0.04 
+ 
+0.72 
+0.32 
+0.03 
+0.00 
+0.00 
+0.66 
+1 
+    Venezuela  
+ 
+0.33 
+0.42 
+ 
+0.50 
+0.59 
+0.00 
+0.00 
+0.00 
+0.41 
+1 
+ Northern 
+America 
+0.70 
+0.65 
+0.96 
+0.69 
+0.58 
+0.00 
+0.22 
+0.26 
+0.13 
+0.38 
+ 
+    Bermuda 
+ 
+ 
+1.30 
+ 
+ 
+0.00 
+0.12 
+0.68 
+0.18 
+0.02 
+3 
+    Canada 
+0.66 
+0.49 
+0.85 
+0.75 
+0.71 
+0.00 
+0.00 
+0.00 
+0.12 
+0.88 
+1 
+    United States 
+of America 
+0.73 
+1.14 
+0.74 
+0.62 
+0.55 
+0.00 
+0.54 
+0.12 
+0.08 
+0.26 
+4 
+Oceania 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Australia and 
+New Zealand 
+0.47 
+0.69 
+0.60 
+1.00 
+0.85 
+0.00 
+0.69 
+0.04 
+0.00 
+0.27 
+ 
+    Australia 
+0.46 
+0.69 
+0.61 
+1.00 
+1.00 
+0.00 
+0.52 
+0.08 
+0.00 
+0.40 
+4 
+    New Zealand 
+0.49 
+ 
+0.58 
+1.00 
+0.70 
+0.00 
+0.85 
+0.00 
+0.00 
+0.15 
+1, 4 
+Melanesia 
+ 
+ 
+1.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Fiji 
+ 
+ 
+0.77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Solomon 
+Islands 
+ 
+ 
+1.57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+    Vanuatu 
+ 
+ 
+1.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Polynesia 
+ 
+ 
+1.35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Tonga 
+ 
+ 
+1.35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.27 
+TABLE 2A.1 (UPDATED) (CONTINUED) 
+MSW GENERATION AND MANAGEMENT DATA – BY COUNTRY AND REGIONAL AVERAGE 
+1 Data are based on weight of wet waste. Blank cells mean that no data is available for the country, regional data may be used in this case. 
+2 To obtain the total waste generation in the country, the per-capita values should be multiplied with the population whose waste is collected. For developing countries in italics in the table, the waste generation rates should be multiplied by 
+the urban population only. 
+3 The data are default data for the year 2010, although for some countries the year for which the data are applicable was not given in the reference, or data for the year 2010 were not available. The year for which the data are collected is 
+given below with source of the data, where available. 
+4 Values shown in this column are the ones included in the Revised 1996 IPCC Guidelines. 
+5Values shown in this column are the ones included in the 2006 IPCC Guidelines.  
+6 Other, unspecified, includes data on recycling for some countries. 
+Source: 1. Hoornweg et al. 2012; 2. Hoornweg et al. 2005; 3. UNSD 2017; 4. OECD 2017; 5. The Ministry of Environment of Korea, 2011; 6. Saeed et al. 2009; 7. Singapore Department of Statistics 2017; 8. National 
+Environment Agency of Singapore 2010; 9. SAARC Workshop 2004; 10. UNEP 2002; 11. Eurostat 2017; 12. UNEP 2003; 13. Tadesse et al. 2008; 14. Parrot et al. 2009; 15. Samake, et al. 2009; 16. Solomon 2009; 17. Vanguard 2007; 18. 
+The Ministry of Environment and Sustainable Development of Argentina, 2012.  
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 2A.2 (New) Waste composition–by country and regional averages 
+TABLE 2A.2 (NEW) 
+WASTE COMPOSITION – BY COUNTRY AND REGIONAL AVERAGES  
+Countries 
+Food 
+waste 
+Garden 
+(yard) and 
+park waste 
+Paper and 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+(disposable 
+diapers) 
+Rubber 
+and 
+leather 
+Plastics 
+Metal 
+Glass (and 
+pottery and 
+china) 
+Other 
+Sources 
+Asia 
+Central Asia 
+30.0 
+1.4 
+24.7 
+2.5 
+3.5 
+0 
+0 
+8.4 
+0.8 
+5.9 
+23.0 
+ 
+   Kazakhstan 
+21.5 
+2.8 
+26.5 
+0.0 
+7.0 
+0.0 
+0.0 
+16.8 
+1.5 
+11.8 
+11.9 
+1, 2 
+  Uzbekistan 
+38.4 
+0 
+22.8 
+4.9 
+ 
+ 
+ 
+ 
+ 
+ 
+34.0 
+3 
+Eastern Asia 
+40.3 
+0.0 
+20.4 
+2.1 
+1.0 
+0.0 
+0.0 
+6.5 
+2.7 
+4.3 
+22.9 
+ 
+  China 
+59.1 
+0.0 
+8.5 
+1.6 
+4.1 
+0.0 
+0.0 
+13.0 
+1.1 
+4.1 
+8.5 
+4-9 
+  Japan 
+26.0 
+0.0 
+46.0 
+0.0 
+0.0 
+0.0 
+0.0 
+9.0 
+8.0 
+7.0 
+4.0 
+9 
+  Mongolia 
+70.8 
+0.0 
+4.3 
+0.0 
+0.0 
+0.0 
+0.0 
+3.8 
+0.1 
+3.7 
+17.3 
+10, 11 
+  Republic of Korea 
+5.2 
+0.0 
+22.6 
+6.6 
+0.0 
+0.0 
+0.0 
+0.0 
+1.7 
+2.3 
+61.7 
+9, 12 
+South-Eastern Asia 
+49.9 
+1.0 
+11.2 
+0.8 
+0.4 
+0.0 
+0.0 
+10.2 
+4.2 
+3.7 
+18.6 
+ 
+  Cambodia 
+65.0 
+ 
+4.0 
+ 
+ 
+ 
+ 
+13.0 
+1.0 
+5.0 
+12.0 
+9 
+  Indonesia 
+74.0 
+0.0 
+10.0 
+0.0 
+2.0 
+0.0 
+0.0 
+8.0 
+2.0 
+2.0 
+2.0 
+9, 13 
+  Lao People's        
+Democratic Republic 
+54.3 
+0.0 
+3.3 
+0.0 
+0.0 
+0.0 
+0.0 
+7.8 
+3.8 
+8.5 
+22.3 
+9, 13 
+  Malaysia 
+32.4 
+0.0 
+20.0 
+0.0 
+0.0 
+0.0 
+0.0 
+9.8 
+2.5 
+3.3 
+32.0 
+9, 13-18 
+  Myanmar 
+80.0 
+ 
+4.0 
+ 
+ 
+ 
+ 
+2.0 
+ 
+ 
+14.0 
+9 
+  Philippines 
+41.6 
+0.0 
+19.5 
+0.0 
+0.0 
+0.0 
+0.0 
+13.8 
+4.8 
+2.5 
+17.8 
+9, 13 
+  Singapore 
+10.1 
+4.1 
+15.1 
+6.8 
+1.9 
+0.0 
+0.4 
+10.5 
+18.6 
+0.9 
+31.4 
+19 
+  Thailand 
+48.6 
+0.0 
+14.6 
+0.0 
+0.0 
+0.0 
+0.0 
+13.9 
+3.6 
+5.1 
+14.2 
+9, 13, 20 
+  Viet Nam 
+42.7 
+5.0 
+10.7 
+0.0 
+0.0 
+0.0 
+0.0 
+12.9 
+1.1 
+5.8 
+21.9 
+9, 13, 21 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.29 
+ 
+TABLE 2A.2 (NEW) (CONTINUED) 
+WASTE COMPOSITION – BY COUNTRY AND REGIONAL AVERAGES  
+Countries 
+Food 
+waste 
+Garden 
+(yard) and 
+park waste 
+Paper and 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+(disposable 
+diapers) 
+Rubber 
+and 
+leather 
+Plastics 
+Metal 
+Glass (and 
+pottery and 
+china) 
+Other 
+Sources 
+Southern Asia 
+66.1 
+0.0 
+9.2 
+0.0 
+1.2 
+0.0 
+0.4 
+7.0 
+0.9 
+1.5 
+13.9 
+ 
+  Bangladesh 
+54.9 
+0.0 
+12.6 
+0.0 
+4.7 
+0.0 
+1.5 
+14.7 
+1.6 
+1.1 
+8.8 
+4 
+  India 
+53.0 
+0.0 
+6.4 
+0.0 
+0.0 
+0.0 
+0.0 
+5.1 
+0.2 
+0.4 
+35.0 
+4, 23-27 
+  Nepal 
+80.0 
+0.0 
+7.0 
+0.0 
+0.0 
+0.0 
+0.0 
+2.5 
+0.5 
+3.0 
+7.0 
+4, 13, 28 
+  Sri Lanka 
+76.4 
+0.0 
+10.6 
+0.0 
+0.0 
+0.0 
+0.0 
+5.7 
+1.3 
+1.3 
+4.7 
+4, 29, 30 
+Western Asia 
+42.2 
+3.2 
+15.3 
+0.8 
+3.0 
+0.4 
+0.3 
+17.2 
+2.5 
+3.4 
+11.8 
+ 
+  Cyprus 
+34.2 
+13.1 
+22.5 
+0 
+0 
+0 
+0 
+6.7 
+0.8 
+5.3 
+17.4 
+31 
+  Iraq 
+54.8 
+0.0 
+7.0 
+2.6 
+3.5 
+0.0 
+0.5 
+25.2 
+3.0 
+2.9 
+0.4 
+32 
+  Jordan 
+52.0 
+0.0 
+13.0 
+0.0 
+0.0 
+0.0 
+0.0 
+17.0 
+1.0 
+3.0 
+14.0 
+33 
+  Oman 
+8.2 
+6.1 
+19.4 
+1.4 
+14.3 
+0.0 
+0.0 
+31.3 
+2.6 
+2.9 
+13.8 
+34 
+  Saudi Arabia 
+48.0 
+0.0 
+21.0 
+1.0 
+0.0 
+0.0 
+0.0 
+13.0 
+6.0 
+4.0 
+7.0 
+35 
+  State of Palestine 
+56.6 
+0.0 
+7.3 
+0.0 
+0.0 
+0.0 
+0.0 
+14.0 
+2.4 
+2.0 
+17.7 
+36, 37 
+  Turkey 
+48.7 
+6.8 
+8.1 
+0.0 
+2.9 
+2.9 
+0.0 
+5.9 
+1.4 
+3.4 
+19.9 
+38 
+  United Arab Emirates 
+35.4 
+0.0 
+24.3 
+1.0 
+3.2 
+0.0 
+1.7 
+24.2 
+2.4 
+3.4 
+4.4 
+39 
+Africa 
+Northern Africa 
+50.4 
+0.0 
+12.1 
+0.0 
+5.8 
+0.0 
+0.0 
+13.8 
+4.4 
+3.3 
+10.5 
+ 
+  Libya 
+36.3 
+0.0 
+15.3 
+0.0 
+11.5 
+0.0 
+0.0 
+18.6 
+6.7 
+3.5 
+8.0 
+40 
+  Tunisia 
+64.4 
+0.0 
+8.9 
+0.0 
+0.0 
+0.0 
+0.0 
+8.9 
+2.0 
+3.0 
+12.9 
+40 
+ 
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2A.2 (NEW) (CONTINUED) 
+WASTE COMPOSITION – BY COUNTRY AND REGIONAL AVERAGES 
+Countries 
+Food 
+waste 
+Garden 
+(yard) and 
+park waste 
+Paper and 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+(disposable 
+diapers) 
+Rubber 
+and 
+leather 
+Plastics 
+Metal 
+Glass (and 
+pottery and 
+china) 
+Other 
+Sources 
+Eastern Africa 
+44.4 
+6.9 
+10.4 
+0.5 
+3.0 
+0.0 
+0.4 
+8.0 
+2.6 
+2.1 
+21.7 
+ 
+  Kenya 
+64.4 
+0.0 
+5.9 
+0.0 
+0.0 
+0.0 
+0.0 
+11.9 
+1.0 
+2.0 
+14.9 
+4 
+  Mauritius 
+29.4 
+34.7 
+14.1 
+0.0 
+2.4 
+0.0 
+0.0 
+11.7 
+2.0 
+1.2 
+4.4 
+4 
+  United Republic of 
+Tanzania 
+57.1 
+0.0 
+10.9 
+2.4 
+6.7 
+0.0 
+0.0 
+9.3 
+1.9 
+3.2 
+8.4 
+41 
+  Zambia 
+39.0 
+0.0 
+3.0 
+0.0 
+0.0 
+0.0 
+0.0 
+7.0 
+1.0 
+2.0 
+48.0 
+4 
+  Zimbabwe 
+32.0 
+0.0 
+18.0 
+0.0 
+6.0 
+0.0 
+2.0 
+0.0 
+7.0 
+2.0 
+33.0 
+42 
+Middle Africa 
+28.4 
+0 
+8 
+0 
+1.3 
+0 
+0 
+7.1 
+1.4 
+1.1 
+52.7 
+ 
+  Cameroon 
+28.4 
+0.0 
+8.0 
+0.0 
+1.3 
+0.0 
+0.0 
+7.1 
+1.4 
+1.1 
+52.7 
+43-45, 97 
+Southern Africa 
+24.0 
+0.0 
+14.5 
+0.0 
+5.5 
+0.0 
+0.0 
+26.5 
+6.5 
+9.0 
+14.0 
+ 
+  South Africa 
+24 
+0 
+14.5 
+0 
+5.5 
+0 
+0 
+26.5 
+6.5 
+9 
+14 
+46 
+Western Africa 
+53.9 
+0.0 
+7.5 
+0.0 
+1.9 
+0.0 
+0.0 
+6.4 
+2.7 
+1.3 
+26.5 
+ 
+  Ghana 
+73.0 
+0.0 
+8.0 
+0.0 
+4.0 
+0.0 
+0.0 
+8.0 
+0.0 
+0.0 
+7.0 
+21, 47 
+  Mali 
+25.0 
+0.0 
+4.8 
+0.0 
+0.0 
+0.0 
+0.0 
+2.4 
+4.8 
+1.2 
+61.9 
+4，48 
+  Nigeria 
+63.6 
+0.0 
+9.7 
+0.0 
+1.6 
+0.0 
+0.0 
+8.7 
+3.2 
+2.6 
+10.6 
+49, 50-53 
+Europe 
+Eastern Europe 
+31.8 
+2.4 
+17.1 
+2.5 
+3.1 
+0.1 
+0.5 
+4.6 
+0.7 
+1.8 
+35.3 
+ 
+  Bulgaria 
+18.7 
+10.0 
+13.4 
+1.7 
+3.6 
+0.0 
+1.9 
+0.0 
+0.0 
+0.0 
+50.8 
+54 
+  Czechia 
+35.0 
+0.0 
+16.0 
+13.0 
+8.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+28.0 
+55 
+  Hungary 
+29.0 
+0.0 
+15.0 
+0.0 
+0.0 
+0.0 
+0.0 
+17.0 
+2.0 
+2.0 
+35.0 
+7 
+  Poland 
+35.9 
+0.3 
+14.7 
+0.6 
+3.7 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+44.8 
+56, 57, 58 
+  Republic of Moldova 
+29.2 
+0.0 
+10.1 
+0.0 
+1.6 
+0.0 
+0.0 
+12.8 
+1.5 
+5.7 
+39.0 
+59 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.31 
+TABLE 2A.2 (NEW) (CONTINUED) 
+WASTE COMPOSITION – BY COUNTRY AND REGIONAL AVERAGES 
+Countries 
+Food 
+waste 
+Garden 
+(yard) and 
+park waste 
+Paper and 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+(disposable 
+diapers) 
+Rubber 
+and 
+leather 
+Plastics 
+Metal 
+Glass (and 
+pottery and 
+china) 
+Other 
+Sources 
+  Romania 
+43.5 
+5.3 
+10.3 
+1.7 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+39.2 
+60, 61 
+  Russian Federation 
+30.2 
+0 
+42.5 
+1.5 
+4.0 
+0 
+0 
+0 
+0 
+0 
+21.8 
+62 
+  Ukraine 
+33.1 
+3.8 
+14.6 
+1.7 
+4.0 
+1.1 
+1.7 
+6.9 
+2.0 
+6.9 
+24.2 
+63, 64 
+Northern Europe 
+30.3 
+5.2 
+13.8 
+1.8 
+3.2 
+1.2 
+0.0 
+4.9 
+1.4 
+4.3 
+34.0 
+ 
+  Denmark 
+41.0 
+4.1 
+23.2 
+0.0 
+0.0 
+0.0 
+0.0 
+9.2 
+3.3 
+2.9 
+16.3 
+65 
+  Estonia 
+26.0 
+12.0 
+20.0 
+3.0 
+2.0 
+0.0 
+0.0 
+9.0 
+4.0 
+6.0 
+18.0 
+66 
+  Finland 
+35.1 
+8.8 
+20.8 
+2.2 
+1.7 
+0.0 
+0.0 
+7.9 
+0.0 
+0.5 
+23.0 
+36 
+  Iceland 
+41.2 
+1.4 
+10.3 
+3.0 
+3.5 
+5.1 
+0.0 
+0.0 
+0.0 
+0.0 
+35.4 
+68 
+  Latvia 
+0.0 
+0.0 
+6.4 
+2.1 
+0.0 
+0.0 
+0.0 
+8.5 
+2.4 
+20.6 
+60.0 
+69 
+  Lithuania 
+25.5 
+0.0 
+5.7 
+1.2 
+7.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+60.4 
+70 
+  Sweden 
+43.0 
+10.0 
+10.0 
+1.0 
+8.0 
+3.0 
+0.0 
+0.0 
+0.0 
+0.0 
+25.0 
+71 
+Southern Europe 
+37.1 
+2.2 
+19.2 
+1.4 
+3.2 
+1.1 
+0.2 
+11.8 
+1.9 
+3.6 
+18.3 
+ 
+  Croatia 
+30.9 
+5.7 
+23.2 
+1.0 
+3.7 
+4.0 
+0.7 
+22.9 
+2.1 
+3.7 
+2.3 
+72 
+  Greece 
+43.1 
+0.0 
+22.6 
+1.0 
+3.3 
+0.0 
+0.0 
+11.1 
+3.2 
+4.2 
+11.5 
+73, 74 
+  Italy 
+21.9 
+5.6 
+23.9 
+1.6 
+3.0 
+0.0 
+0.0 
+11.8 
+2.3 
+6.4 
+23.5 
+75 
+  Portugal 
+31.8 
+0.0 
+10.0 
+0.7 
+8.1 
+0.0 
+0.0 
+12.5 
+1.6 
+3.2 
+32.2 
+7, 76, 77 
+  Serbia 
+44.3 
+0.0 
+13.0 
+0.0 
+4.5 
+4.0 
+0.4 
+13.9 
+1.4 
+4.2 
+14.4 
+78, 79 
+  Slovenia 
+31.8 
+2.0 
+22.6 
+5.6 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+38.0 
+80 
+  Spain 
+56.2 
+1.8 
+19.0 
+0.0 
+0.0 
+0.0 
+0.0 
+10.7 
+3.0 
+3.3 
+6.0 
+81 
+Western Europe 
+33.2 
+2.7 
+17.2 
+2.3 
+5.9 
+3.0 
+0.0 
+20.5 
+1.5 
+1.4 
+12.3 
+ 
+  United Kingdom of 
+Great Britain and 
+Northern Ireland 
+21.3 
+3.5 
+18.3 
+5.3 
+5.6 
+3.1 
+0.0 
+18.0 
+3.7 
+3.0 
+18.2 
+82-85 
+Volume 5: Waste 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+2.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 2A.2 (NEW) (CONTINUED) 
+WASTE COMPOSITION – BY COUNTRY AND REGIONAL AVERAGES 
+Countries 
+Food 
+waste 
+Garden 
+(yard) and 
+park waste 
+Paper and 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+(disposable 
+diapers) 
+Rubber 
+and 
+leather 
+Plastics 
+Metal 
+Glass (and 
+pottery and 
+china) 
+Other 
+Sources 
+  Ireland 
+17.0 
+4.5 
+19.8 
+0.0 
+23.4 
+6.3 
+0.0 
+0.0 
+0.0 
+0.0 
+29.1 
+86 
+  France 
+18.8 
+4.0 
+14.9 
+4.0 
+3.0 
+6.9 
+0.0 
+21.8 
+0.0 
+0.0 
+26.7 
+87 
+  Germany 
+63.2 
+0.0 
+15.5 
+0.0 
+5.0 
+0.0 
+0.0 
+10.4 
+2.8 
+3.1 
+0.0 
+88 
+  Luxembourg 
+45.5 
+5.0 
+8.9 
+5.0 
+1.0 
+5.0 
+0.0 
+29.7 
+0.0 
+0.0 
+0.0 
+89 
+  Netherlands 
+35.0 
+0.0 
+26.0 
+0.0 
+0.0 
+0.0 
+0.0 
+19.0 
+4.0 
+4.0 
+12.0 
+90 
+  Switzerland 
+31.5 
+1.7 
+17.2 
+1.8 
+3.2 
+0.0 
+0.0 
+44.6 
+0.0 
+0.0 
+0.0 
+91 
+America  
+Center American 
+62.7 
+0.0 
+12.6 
+0.3 
+2.2 
+0.0 
+0.0 
+10.3 
+2.7 
+3.3 
+6.0 
+ 
+  Jamaica 
+62.0 
+0.0 
+15.0 
+1.0 
+5.0 
+0.0 
+0.0 
+12.0 
+2.0 
+3.0 
+0.0 
+92 
+  Mexico 
+51.4 
+0.0 
+13.6 
+0.0 
+1.5 
+0.0 
+0.0 
+10.7 
+5.1 
+5.8 
+12.0 
+92 
+  Nicaragua 
+74.8 
+0.0 
+9.1 
+0.0 
+0.0 
+0.0 
+0.0 
+8.1 
+1.0 
+1.0 
+6.1 
+4 
+Southern America 
+54.1 
+3.3 
+12.4 
+0.0 
+1.7 
+1.9 
+0.6 
+13.7 
+2.0 
+3.0 
+7.2 
+ 
+  Brazil 
+53.5 
+0.0 
+17.6 
+0.0 
+0.0 
+0.0 
+0.0 
+17.5 
+2.2 
+4.0 
+5.3 
+4, 93, 94 
+  Argentina 
+38.8 
+10.0 
+13.7 
+  
+5.0 
+5.7 
+1.9 
+14.6 
+1.8 
+3.1 
+5.3 
+95 
+  Peru 
+70.0 
+0.0 
+6.0 
+0.0 
+0.0 
+0.0 
+0.0 
+9.0 
+2.0 
+2.0 
+11.0 
+4 
+Northern America 
+20.2 
+6.8 
+23.3 
+4.1 
+3.9 
+0 
+1.6 
+15.8 
+6.4 
+4.2 
+14.0 
+ 
+  Canada 
+18.8 
+5.6 
+32.3 
+0.0 
+0.0 
+0.0 
+0.0 
+13.1 
+3.4 
+3.1 
+23.7 
+7 
+  United States of 
+America 
+21.6 
+7.9 
+14.3 
+8.1 
+7.7 
+0.0 
+3.1 
+18.5 
+9.4 
+5.2 
+4.2 
+4, 96, 97, 
+98 
+ 
+ 
+ 
+Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.33 
+TABLE 2A.2 (NEW) (CONTINUED) 
+WASTE COMPOSITION – BY COUNTRY AND REGIONAL AVERAGES 
+Countries 
+Food 
+waste 
+Garden 
+(yard) and 
+park waste 
+Paper and 
+cardboard 
+Wood 
+Textiles 
+Nappies 
+(disposable 
+diapers) 
+Rubber 
+and 
+leather 
+Plastics 
+Metal 
+Glass (and 
+pottery and 
+china) 
+Other 
+Sources 
+Australia and New 
+Zealand 
+25.9 
+12.2 
+12.0 
+6.5 
+2.95 
+3.5 
+0.0 
+8.3 
+1.8 
+2.8 
+24.1 
+ 
+  Australia 
+35.0 
+16.5 
+13.0 
+1.0 
+0 
+4.0 
+0 
+16.7 
+3.6 
+5.6 
+4.6 
+99, 100 
+  New Zealand 
+16.8 
+7.9 
+10.9 
+11.9 
+5.9 
+3.0 
+0.0 
+0.0 
+0.0 
+0.0 
+43.6 
+101 
+Sources： 
+1. Inglezakis et al. 2015; 2. Kazakhstan NIR, 2017; 3. National Report of Uzbekistan 2016; 4. Wilson et al. 2010; 5. Ji et al. 2016; 6. Xiao et al. 2007; 7. Zhang et al. 2010; 8. Liu et al. 2017; 9. Moh & Manaf 2014; 10．
+Byamba & Ishikawa 2017; 11. Delgermaa & Matsumoto 2016; 12. Hwang et al. 2017; 13. Shekdar 2009; 14. Badgie et al. 2012; 15. Hamid et al. 2015; 16. Mukhtar et al. 2016; 17. Kalanatarifard  & Yang 2012; 18. 
+Saeed et al. 2008; 19. National  Environment Agency of Singapore 2016; 20. Pollution Control Department 2004; 21. Hoang et al. 2017; 22. Asase et al. 2009; 23. Narayana 2009; 24. Thitame et al. 2010; 25. Ali 2016; 
+26. Gupta et al. 2015; 27. Basha et al. 2015; 28. Ranabhat 2015; 29. Thivyatharsan et al., 2016; 30. Liyanage et al. 2015; 31. Zorpas  et al. 2015; 32. Abbas et al. 2016; 33. Kabir 2016; 34. Baawain et al. 2017); 35. 
+Hakami & Seif 2015; 36. Finland NIR, 2018; 37. Al-Khatib et al. 2010; 38. Turkey NIR, 2018; 39. Saifaie 2013; 40. Moftah et al. 2016; 41. Mgimba & Sanga 2016; 42. Zimbabwe TNC, 2018; 43. Mbeng et al. 2016; 44. 
+Castrejón-Godínez et al. 2015; 45. Mbue et al. 2015; 46. Ayeleru et al. 2016); 47. Ghana NIR, 2015; 48. Samake et al. 2009; 49. Nabegu 2010; 50. Imam et al. 2008; 51. Nwankwo and Amah 2013; 52. Ogwueleka 2013; 
+53. Kadafa 2017; 54. Bulgaria NIR, 2018; 55. Czechia NIR, 2018; 56. Cyranka et al. 2016; 57. Poland NIR, 2018; 58. Boer et al. 2010; 59. Republic of Moldova NIR, 2018, 60. Romania NIR, 2018; 61. Ghinea et al. 
+2016; 62. Russian Federation NIR, 2018; 63. Skripnik 2007; 64. Shmarin et al. 2014; 65. Riber et al. 2009; 66. Moora et al. 2010; 67.  Havukainen et al. 2016; 68. Iceland NIR, 2018; 69. Latvia NIR, 2018; 70. Lithuania 
+NIR, 2018; 71. Sweden NIR, 2018; 72. Croatia NIR, 2018; 73. Greece NIR, 2018; 74. Gidarakos et al. 2006; 75. Italy NIR, 2018; 76. Portugal NIR, 2018; 77. Sepúlveda et al. 2016; 78. Batinic et al. 2011; 79. Živančev et 
+al. 2016; 80. Slovenia NIR, 2018; 81. Gallardo et al. 2016; 82. Burnley et al. 2007; 83. UK NIR, 2018; 84. Coggins 2010; 85. Burnley 2007; 86. Ireland NIR, 2018; 87. France NIR, 2018; 88. Germany NIR, 2018; 89. 
+Luxembourg NIR, 2018; 90. Netherlands NIR, 2018; 901 Switzerland NIR, 2018; 92. Gómez et al. 2009; 93. Munnich et al. 2006; 94. Poletto et al. 2016; 95. Girsu 2012; 96. Parrot et al. 2009; 97. US NIR, 2018; 98. 
+Staley & Barlaz 2009; 99.Australia NIR, 2018; 100. Department of Environment and Energy, 2016; 101. New Zealand NIR, 2018.  
+ 
+Volume 5: Waste 
+ 
+ 
+ 
+2.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+ 
+References newly cited in the 2019 Refinement 
+Abbas, A.A.K., Al-Rekabi, W.S. & Yousif, Y.T. (2016) Integrated Solid Waste Management for Urban Area in 
+Basrah District. Journal of Babylon University/Engineering Sciences 24(3): 2016. 
+Al-Khatib, A.I., Monou, M., Zahra, A.S.A., Shaheen, H.Q. & Kassinos, D.  (2010) Solid waste characterization, 
+quantification and management practices in developing countries. A case study: Nablus district – Palestine. 
+Journal of Environmental Management 91: 1131-1138. 
+Ali, S.A. (2016) Status of solid waste generation and management practice in Kolkata municipal corporation, 
+West Bengal. International Journal of Environmental Sciences 6(6):  ISSN 0976 – 4402.  
+Asase, M., Yanful, E., Mensah, M., Stanford, J. & Amponsah, S. (2009) Comparison of municipal solid waste 
+management systems in Canada and Ghana: A case study of the cities of London, Ontario, and Kumasi, 
+Ghana. Waste Management 29: 2779-2786. 
+Australia National Inventory Report (NIR), 2018. 
+Ayeleru, O.O., Ntuli, F. & Mbohwa, C. (2016) Municipal solid waste composition determination in the city of 
+Johannesburg. Proceedings of the World Congress on Engineering and Computer Science 2016 Vol II, 
+WCECS 2016, October 19-21, 2016, San Francisco, USA. 
+Baawain, M., Al-Mamun, A., Omidvarborna, H. & Wal, A. (2017) Ultimate composition analysis of municipal 
+solid waste in Muscat. Journal of Cleaner Production 148: 355-362. 
+Badgie, D., Samah, M.A.A., Manaf, L.A. & Muda, A.B. (2012) Assessment of Municipal Solid Waste 
+Composition in Malaysia: Management, Practice, and Challenges. Pol. J. Environ. Stud. 21(3): 539-547. 
+Basha, B.M., Parakalla, N. & Reddy, K. R. (2015) Experimental and statistical evaluation of compressibility of 
+fresh and landfilled municipal solid waste under elevated moisture contents. International Journal of 
+Geotechnical Engineering, 10(1): 86-98. 
+Batinić, B., Vukmirović, S., Vujić, G., Stanisavljević, N., Ubavin, D. & Vukmirović, G. (2011) Using ANN 
+model to determine future waste characteristics in order to achieve specific waste management targets-case 
+study of Serbia. Journal of Scientific and Industrial Research (JSIR) 70(07): 513-518. 
+Boer, E.D., Jędrczak, A., Kowalski, Z., Kulczycka, J. & Szpadt, R. (2010) A review of municipal solid waste 
+composition and quantities in Poland. Waste management 30: 369-377. 
+Boutchich, G.E.K., Mahi, S.T.M., Gallart-Mateu, D., de la Guardia, M., Aarfane, A., Lhadi, E. & El Krati, M. 
+(2015) Characterization of activated sludge from domestic sewage treatment plants and their management 
+using composting and co-composting in aerobic silos. J. Mater. Environ. Sci 6(8): 2206-2220. 
+Burnley, S. J. (2007) A review of municipal solid waste composition in the United Kingdom. Waste 
+management, 27: 1274-1285. 
+Burnley, S.J., Ellis, J.C. & Flowerdew, R. (2007) Assessing the composition of municipal solid waste in Wales. 
+Resources, conservation and recycling, 49: 264-283. 
+Bulgaria National Inventory Report (NIR) 2018. 
+Byamba, B. & Ishikawa, M. (2017) Municipal Solid Waste Management in Ulaanbaatar, Mongolia: Systems 
+Analysis. Sustainability 9: 896. 
+Castrejón-Godínez, M., Sánchez-Salinas, E., Rodríguez, A. & Ortiz-Hernández, M. (2015) Analysis of Solid 
+Waste Management and Greenhouse Gas Emissions in México: A Study Case in the Central Region. Journal 
+of Environmental Protection, 6: 146-159. 
+Coggins P.C. (2010) Waste Composition and Analysis. In Waste Management and Minimization (Smith SR, 
+Cheeseman, C & Blakely N (eds)). Encyclopaedia of Life Support Systems, United Nations Education, 
+Science, and Cultural Organization.  
+Croatia National Inventory Report (NIR) 2018  
+Cyranka, M., Jurczyk, M. & Pajak, T. (2016) Municipal Waste-to-Energy plants in Poland - current projects. 
+E3S Web of Conferences 10, 00070 (2016). SEED 2016. 
+Czechia National Inventory Report (NIR) 2018. 
+ 
+ Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+     2.35 
+Delgermaa, G. & T. Matsumoto. (2016) A Study of Waste Management of Households in Ulaanbaatar Based on 
+Questionnaire Surveys G. International Journal of Environmental Science and Development, 7(5): 368-371. 
+Department of the Environment and Energy (2016) Australian National Waste Report 2016/workbook, Australia  
+Eurostat. (2017) Europe in figures - Eurostat yearbook. http://ec.europa.eu/eurostat/data/database  
+Finland National Inventory Report (NIR) 2018. 
+France National Inventory Report (NIR) 2018. 
+Gallardo, A., Edo-Alcón, N., Carlos, M. & Renau, M. (2016) The determination of waste generation and 
+composition as an essential tool to improve the waste management plan of a university. Waste management, 
+53: 3-11. 
+Germany National Inventory Report (NIR) 2018. 
+Gidarakos, E., Havas, G. & P. Ntzamilis, P. (2006) Municipal solid waste composition determination supporting 
+the integrated solid waste management system in the island of Crete. Waste Management 26: 668–679. 
+Girsu, D.D. L. (2012) Estratagia Nacional Para La Gestion Integral De Los Residuos Solidos Urbanos Repulica 
+Argentina. Actualización. ARS. 
+Ghana National Inventory Report (NIR) 2015. 
+Ghinea, C., Bressers, H. & Gavrilescu, M. (2016). Multicriteria evaluation of municipal solid waste management 
+scenarios: Case study Iasi, Romania. Food and Environment Safety Journal, 13(1): 38-47.  
+Gómez, G., Meneses, M., Ballinas, L. & Castells, F. (2009). Seasonal characterization of municipal solid waste 
+(MSW) in the city of Chihuahua, Mexico. Waste Management 29(7): 2018-2024. 
+Greece National Inventory Report (NIR) 2018. 
+Gupta, N., Yadav, K. K. & Kumar, V. (2015) A review on current status of municipal solid waste management in 
+India. Journal of Environmental Sciences 37: 206-217. 
+Hakami, B.A. & Seif, E. S.S.A. (2015) Household solid waste composition and management in Jeddah City, 
+Saudi Arabia: a planning model. International Research Journal of Environment Sciences, 4(1): 1-10. 
+Hamid, K.B.A., Ishak, M. Y. & Samah, M.A.A. (2015) Analysis of Municipal Solid Waste Generation and 
+Composition at Administrative Building Café in Universiti Putra Malaysia: A Case Study. Pol. J. Environ. 
+Stud. 24(5):1969-1982. 
+Havukainen, J., Heikkinen S. & Horttanainen, M. (2016) Possibilities to improve the share of material recovery 
+of municipal solid waste in Finland, LUT Scientific and Expertise PublicationsTutkimusraportit- Research 
+Reports 51 
+He, P. J., F. Zhang L., H., Shaoand, L. M. & Lee, D.J. (2007) Sewage Sludge in China: Challenges Towards 
+Sustainble Future. Water Practice and Technology 2(4)  
+Hoang, M. G., Takeshi Fujiware, T. & Phan Phu, S.T. (2017). Municipal Waste Generation and composition in 
+touristy city- Hoian, Vietnam. Journal of JSCE 5: 123-132. 
+Hoornweg, D. & Bhada-Tata, P. (2012) What a waste - A Global Review of Solid Waste Management. Urban 
+Development Series March (15). 
+Hoornweg, D., Lam, P., & Chaudhry, M. (2005) Waste Management in China: Issues and Recommendations. 
+Urban Development Working Papers No. 9. East Asia Infrastructure Department. World Bank. 
+Hwang, K.L., Choi, S.M., Kim, M.K., Heo, J.B. and Zoh, K.D. (2017) Emission of greenhouse gases from waste 
+incineration in Korea. Journal of Environmental Management 96: 710 -718. 
+Iceland National Inventory Report (NIR) 2018. 
+Imam, A., Mohammed, B., Wilson, D. C., and Cheeseman, C. R. (2008). Solid waste management in Abuja, 
+Nigeria. Waste management 28(2): 468-472. 
+Inglezakis,V., Rojas-Solórzano L., Kim, J., Aitbekova, A., Ismailova, A., Shorakyzy, G. & Kystauova, A. (2015) 
+Comparison between landfill gas and waste incineration for power generation in Astana, Kazakhstan.  J. 
+Waste Management & Research, 33(5): 486-494. 
+Ireland National Inventory Report (NIR) 2018. 
+Italy National Inventory Report (NIR) 2018. 
+Volume 5: Waste 
+ 
+ 
+ 
+2.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ji, L., Lu, S., Yang, J., Du, C., Chen, Z., Buekens, A. & Yan, J. (2016) Municipal solid waste incineration in 
+China and the issue of acidification: A review. Waste Management & Research 34(4): 280-297. 
+Kabir, M.R. (2016). Municipal Solid Waste Management System: A Study on Dhaka North and South City 
+Corporations. Journal of Bangladesh Institute of Planners, 8: 35-48, © Bangladesh Institute of Planners, 
+ISSN 2075-9363. 
+Kadafa, A.A. (2017) Solid Waste Management Practice of Residents in Abuja Municipalities (Nigeria). Journal 
+of Environmental Science, Toxicology and Food Technology 11(2): 87-106. 
+Kalanatarifard, A. & Yang, G. S. (2012) Identification of the municipal solid waste characteristics and potential 
+of plastic recovery at Bakri Landfill, Muar, Malaysia. Journal of Sustainable Development 5(7): 11-17. 
+Kazakhstan National Inventory Report (NIR) 2017. 
+Latvia National Inventory Report (NIR) 2018. 
+Lithuania National Inventory Report (NIR) 2018. 
+Liu, Yili, Zhe, N., Kong, X. & Liu, J. (2017) Greenhouse gas emissions from municipal solid waste with a high 
+organic fraction under different management scenarios. Journal of Cleaner Production 147: 451-457. 
+Liyanage, B. C., Gurusinghe, R., Herat, S. & Tateda, M. (2015) Case study: finding better solutions for 
+municipal solid waste management in a semi local authority in Sri Lanka. Open Journal of Civil Engineering 
+5: 63-73. 
+Luxemburg National Inventory Report (NIR) 2018. 
+Mbeng, O., Ndonge, F.D. & Ebonji, R.S. (2016) Household Waste Composition and Valorization in Banengo, A 
+Residencial Neighborhood of Bafoussam, Cameroon. International Journal of Trend in Research and 
+Development, 3(5): 309-311   ISSN: 2394-9333 www.ijtrd.com  
+Mbue, N.I., Bitondo D. & Balgah R.A. (2015). Municipal Solid Waste Generation, Composition, and 
+Management in the Douala Municipality, Cameroon. Journal of Environment and Waste Management 2(3): 
+091-101. 
+Mgimba, C. & Sanga, A. (2016) Municipal Solid Waste Composition Characterization for Sustainable 
+Management Systems in Mbeya City, Tanzania. International Journal of Science, Environment and 
+Technology 5: 47-58. 
+Moftah, W.A.S., Marković, D., Moftah, O.A.S. & Nesseef, L. (2016) Characterization of Household Solid 
+Wasteand Management in Tripoli City—Libya. Open Journal of Ecology, 6: 435-442. Published Online June 
+2016 in SciRes.  
+Moh, Y. C. & Manaf, L.A. (2014) Overview of household solid waste recycling policy status and challenges in 
+Malaysia. Resources, Conservation and Recycling 82: 50-61. 
+Moora, H., Piirsalu, E. & Voronova, V. (2010) The Climate Change Impact of Possible Municipal Solid Waste 
+Management Scenario in Estonia. Linnaeus ECO-TECH  10 Kalmar, Sweden, November 22-24.  
+Mukhtar, E.M., Williams, I.D., Shaw, P.J. & Ongondo, F.O. (2016) A tale of two cities: the emergence of urban 
+waste systems in a developed and a developing city. Recycling, 1(2): 254-270. 
+Munnich K., Mahler C.F. & Fricke K. (2006) Pilot project of mechanical-biological treatment of waste in Brazil. 
+Waste Management 26:150-157. 
+Nabegu, A.B. (2010) An analysis of municipal solid waste in Kano metropolis, Nigeria. Journal of Human 
+Ecology, 31(2): 111-119. 
+Narayana, T. (2009) Municipal solid waste management in India: from waste disposal to recovery of resources? 
+Waste management, 29(3): 1163-1166. 
+National Environment Agency of Singapore (2010) Environmental Protection Division, National Environment 
+Agency, Singapore, 2010 
+National Environmental Agency (2016) EPD Report 2016, Environmental Protection Department, National 
+Environment Agency, Republic of Singapore 
+National Report of Uzbekistan (2016) Inventory of Anthropogenic Emissions Sources and Sinks of Greenhouse 
+Gases in the Republic of Uzbekistan. 
+National Status of Solid Waste Generation and Treatment, the Ministry of Environment, Korea, 2011. 
+New Zealand national Inventory Report (NIR) 2018. 
+ 
+ Chapter 2: Waste Generation, Composition and Management Data 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+     2.37 
+Nwankwo, C.A. & Amah, V.E. (2013) Estimating Energy Content of Municipal Solid Waste by Multiple 
+Regression Analysis. International Journal of Science and Research (IJSR) 6: 687-691. 
+OECD. (2017) OECD Environmental Data ‒Waste. https://data.oecd.org/environment.htm#profile-Waste 
+Ogwueleka, T.C. (2013) Survey of household waste composition and quantities in Abuja, Nigeria. Resources, 
+Conservation and Recycling 77: 52-60. 
+Parrot, L., Sotamenou, J. & Kamgnia, Di.B. (2009) Municipal solid waste management in Africa: Strategies and 
+livelihoods in Yaoundé, Cameroon. Waste Management 29: 986-995. 
+Phyllis2, database for biomass and waste, https://www.ecn.nl/phyllis2 Energy research Centre of the Netherlands 
+Poland National Inventory Report (NIR) 2018. 
+Poletto, M., De Mori, P.R., Schneider, V.E. & Zattera, A.J. (2016) Urban solid waste management in caxias do 
+Sul/Brazil: Practices and Challenges. Journal of Urban and Environmental Engineering 10(1): 50-56. 
+Pollution Control Department (2004) Municipal solid waste composition of Thailand (from National survey 
+conducted in 2003), (in Thailand language). 
+Portugal National Inventory Report (NIR) 2018. 
+Ranabhat, R. (2015) Life Cycle Assessment of Municipal Solid Waste Management System in Kathmandu, 
+Nepal. Journal of Advanced College of Engineering and Management, 1: 1-10. 
+Riber, C. Petersen, C. & Christensen, T.H. (2009) Chemical composition of material fractions in Danish 
+household waste. Waste Management 29: 1251-1257.  
+Republic of Moldova National Inventory Report (NIR) 2018. 
+Romania National Inventory Report (NIR) 2018. 
+Russian Federation National Inventory Report (NIR) 2018. 
+SAARC Workshop on Solid Waste Management, Dhaka, Bangladesh, October 10-12, 2004. Prepared by 
+Bangladesh DoE, Waste Concern, and ITN-BUET. 
+Saeed, M. O., Hassan, M. N. & Mujeebu, M. A. (2008) Development of municipal solid waste generation and 
+recyclable components rate of Kuala Lumpur: Perspective study. In International Conference on 
+Environment (ICENV 2008) Penang, Malaysia. 
+Saeed, M.O, Hassan, M.N. & Mujeebu, M.A. (2009) Assessment of municipal solid waste generation and 
+recyclable materials potential in Kuala Lumpur, Malaysia. Waste Management 29: 2209-2213. 
+Saifaie, E. A. A. (2013) Waste Management in Dubai. Envirocitiese Magazine Issue 4, January 2013. A 
+Magazine for the Environmental Center for Arab, FI-53851 LAPPEENRANTA. 
+Samake, M., Tang, Z., Hlaing, W. & Wang, J. (2009) State and Management of Solid Wastes in Mali: Case 
+Study of Bamako. Environmental Research Journal 3(3): 81-86. 
+Sepúlveda, D., Loureiro, I., Vilarinho, C. & Carvalho, J. (2016) Municipal Waste Map: A Case Study of 
+Guimarães, Portugal. European Journal of Sustainable Development 5(4): 77-90. 
+Shekdar.A.V. (2009) Sustainable solid waste management: An integrated approach for Asian countries. Waste 
+Management 29: 1438-1448. 
+Shmarin, S., Alekseyevets, I., Filosof, R., Remez, N. & Denafas, G. (2014) Content of Biodegradable 
+Components in Municipal Solid Waste of Ukraine / Ecology and Industry, 1: 73-77. 
+Singapore Department of Statistics (2017). Population Trend 2017, ISSN 1793-2424 
+Skripnik, A.P. (2007) Municipal solid waste morphological composition analysis as the constituent of the 
+approach to waste problem decision. Bulletin of the Odessa State Environmental University. Vol 4: 78-86. 
+Slovenia National Inventory Report (NIR) 2018. 
+Solomon, U. (2009) The state of solid waste management in Nigeria. Waste Management 29: 2787-2790. 
+Staley, B.F. & Barlaz, M.A. (2009). Composition of Municipal Solid Waste in the United States and Implications 
+for Carbon Sequestration and Methane Yield, Journal of Environmental Engineering, 135(10): 901-909. 
+Strategy for the Integral Management of Solid Urban Wastes, the Ministry of Environment and Sustainable 
+Development, Argentina, 2012. 
+Volume 5: Waste 
+ 
+ 
+ 
+2.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Sweden National Inventory Report (NIR) 2018. 
+Switzerland National Inventory Report (NIR) 2018. 
+Tadesse, T., Ruijs, A. & Hagos, F. (2008) Household waste disposal in Mekelle city, Northern Ethiopia. Waste 
+Management 28: 2003-2012. 
+The Netherland National Inventory Report (NIR) 2018. 
+Thitame, S.N., Pondhe, G.M. & Meshram, D.C. (2010) Characterisation and composition of municipal solid 
+waste (MSW) generated in Sangamner City, District Ahmednagar, Maharashtra, India. Environmental 
+monitoring and assessment, 170(1-4):1-5. 
+Thivyatharsan, R., Muhilini, J. & Dasinaa, S. (2016) Estimation and characterization of municipal solid waste 
+generation in ThirukkovilPradeshiya Sabha, Ampara District. International Journal of multidisciplinary 
+Studies, 3(1): 25-33. 
+Turkey National Inventory Report (NIR) 2018. 
+UK National Inventory Report (NIR) 2018. 
+UNEP (2002) State of the Environment ‒ Maldives.  
+UNEP (2003) Regional Office for West Asia (ROWA), Al-Yousfi, A.B., Sound Environmental management of 
+solid waste ‒ The Landfill Bioreactors, 379-401. 
+UNSD (2009) Environmental Indicators ‒ Waste. https://unstats.un.org/unsd/envstats/qindicators.cshtml 
+USA National Inventory Report (NIR) 2018. 
+Vanguard, P. (2007) World Bank Report: Solid Waste Management in Freetown. The Patriotic Vanguard 
+Newspaper. Available at http://www.thepatrioticvanguard.com/article.php3?id_article=955#. 
+Werle, S. (2013) Sewage Sludge Gasification: Theoretical and Experimental Investigation.  Environment 
+Protection Engineering 39(2): 25-32. 
+Werle, S. & Dudziak, M. (2014) Analysis of Organic and Inorganic Contaminants in Dried Sewage Sludge and 
+By-Products of Dried Sewage Sludge Gasification. Energies 7: 462-476. 
+Wilson, C.D., Ann Scheinberg, L.R. & Alabaster, G., (2010) Comparative Analysis of Solid Waste Management 
+in the Cities Around the World. Proceedings Waste 2010: Waste and Resource Management - Putting 
+Strategy into Practice Stratford-upon-Avon, Warwickshire, England, Habitat. 
+Xiao, Y., Bai, X. Ouyang, Z., Zheng, H. & Fangfang Xing, F. (2007) The composition, trend and impact of 
+urban solid waste in Beijing. Environmental Monitoring and Assessment, 135:21–30. 
+Zhang, D.Q., Tan, S.K. & Gersberg, R.  (2010). Municipal solid waste management in China: Status, problems 
+and challenges. Journal of Environmental Management 91(8): 1623-1633. 
+Zimbabwe Third National Communications (TNC) 2018. 
+Živančev, M., Batinić, B., Vujović, S., Stanisavljević, N. & Ribić, Č. (2016) Possibilities for improvement of 
+municipal 
+waste 
+collection 
+system 
+in 
+transition 
+countries. 
+http://uest.ntua.gr/cyprus2016/proceedings/pdf/Miodrag_Zivancev.pdf 
+Zorpas, A.A., Lasaridi, K., Voukkali, I., Loizia, P. & Chroni, C. (2015) Household waste compositional analysis 
+variation from insular communities in the framework of waste prevention strategy plans. Waste Management 
+38: 3-11 
+ 
+References copied from the 2006 IPCC Guidelines 
+Yamada, M., Ishigaki, T., Tachio, K. and Inue, Y. (2003) Carbon flow and landfill methane emissions in 
+Japanese waste stream. Sardinia 2003, Nineth International Waste Management and Landfill Symposium, 
+Cagliari, Italy. 

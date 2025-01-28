@@ -1,0 +1,1366 @@
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.21
+Operations of aircraft are divided into two parts:
+• 
+The Landing/Take-Off (LTO) cycle4 which includes all activities near the
+airport that take place under the altitude of 914 metres (3000 feet).
+This includes taxi-in and out, climbing and descending.
+• 
+Cruise is defined as all activities that take place at altitudes above
+914 metres (3000 feet).  No upper limit is given.
+D a t a  s o u r c e s
+Locally available data should be used whenever possible.  The fuel
+consumption and LTO information can be obtained from the national
+airports.  Total number of aircraft per type and engines types can be
+obtained from the airline companies.  Some emission factors are in the
+Reference Manual tables.  At the Tier 2 level, emission factors are based on
+the specific national aircraft fleet and typical airport TIM (ICAO Engine
+Exhaust Emissions Databank, International Civil Aviation Organization).
+Another possibility is US EPA (1985): Compilation of air pollutant emission
+factors, Vol. II: Mobile sources, 4th edition, or US Office of Environment and
+Energy (1991) FAA Aircraft Emission Database User’s Manual.
+M e t h o d o l o g y
+To use the Tier 2 method, the aircraft types used for both domestic and
+international flights, as well as the number of LTO’s carried out by the
+various aircraft types, must be known.  If this information on a per aircraft
+type basis is not available, it is recommended that the Tier 1 method be
+used.
+The Tier 2 Approach breaks the calculation of emissions from aviation into
+4 steps:
+Step 1: Estimate the total fuel consumption for domestic and international
+aviation
+Step 2: Estimate the fuel consumption for LTO activities by aircraft type
+Step 3: Estimate the fuel consumption for cruise activities by aircraft type
+Step 4: Estimate the emissions for each gas
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-5:  EMISSIONS FROM AIRCRAFT (TIER 2) to enter the data
+for this submodule.
+                                                  
+     4 Some statistics count either a landing or a take-off as one operation.
+However it is both one take-off and one landing, that together
+define one LTO-operation.
+ENERGY
+1.22
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+S T E P  1   E S T I M A T E  T H E  F U E L  C O N S U M P T I O N
+F O R  D O M E S T I C  A N D  I N T E R N A T I O N A L
+A V I A T I O N
+1
+Enter the total amount of fuel sold for all flights (in kt) in Column A.
+2
+Enter the total amount of fuel sold for domestic flights (in kt) in
+Column B.
+3
+Calculate the total amount of fuel sold for international flights by
+subtracting the total amount of fuel sold for domestic flights
+(Column B) from the total fuel sold (Column A) and enter in
+Column C.
+S T E P  2   E S T I M A T E  T H E  F U E L  C O N S U M P T I O N
+F O R  L T O  C Y C L E S  B Y  A I R C R A F T  T Y P E
+Do the following calculations for domestic aviation and international
+aviation separately.
+1
+Enter the total number of LTO’s carried out per aircraft type (a1..an)
+and (b1..bn) in Column D.
+2
+Enter the appropriate fuel consumption per LTO (in t/LTO) in
+Column E (see Reference Manual, Section 1.5.3.5 for default values).
+3
+Calculate the fuel consumption for LTO activity per aircraft type
+(a1..an) and (b1..bn) in tonnes by multiplying the fuel use per LTO
+(Column E) by the number of LTO’s carried out for that specific
+aircraft type (Column D) and enter the results in Column F.
+4
+Calculate the total fuel use for LTO activities by summing the results
+of the individual aircraft type in Column F and enter the results in the
+Totala and Totalb rows of Column F.
+S T E P  3   E S T I M A T E  T H E  F U E L  C O N S U M P T I O N
+F O R  C R U I S E  A C T I V I T I E S  B Y  A I R C R A F T  T Y P E
+Do the following calculations for domestic aviation and international
+aviation separately.5
+1
+Enter the total amount of fuel sold for domestic flights in tonnes
+(Column B multiplied by 1000) and the total amount of fuel sold for
+international aviation in tonnes (Column C multiplied by 1000) in
+Column G.
+                                                  
+     5 This method assumes that the share in fuel consumption in the cruise
+mode by a type of aircraft will by and large be proportional to the number
+of LTO cycles of that type of aircraft.  It is recognised that by using this
+method the contribution from larger aircraft may be underestimated.
+However, this simplifying assumption has been made in order to minimise
+the amount of aircraft specific data required for the Tier 2 method.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.23
+2
+Calculate the total fuel consumption for cruise by subtracting the total
+amount of fuel for LTO activities (total from Column F) from the
+total fuel sold (Column G) and enter the results in Column H.
+3
+Calculate the fuel consumption for cruise activities for each aircraft
+type as:  total fuel used for cruise activities (total in Column H) x
+(number of LTO’s carried out by aircraft type (Column D) / total
+number of LTO’s (total in Column D)) and enter in Column I.
+S T E P  4   E S T I M A T E  T H E  E M I S S I O N S  F O R
+E A C H  G A S
+Photocopy Sheet 3 seven times and do the following calculations for each
+gas (CO2, CH4, N2O, NOX, CO, NMVOC and SO2).  The calculations for
+domestic aviation and international aviation should be done separately.
+1
+Enter the emission factors per LTO for each aircraft type (in kg/LTO)
+in Column J.  Default emission factors are available in Section 1.5.3.5
+in the Reference Manual.
+2
+Calculate the emissions from LTO’s for each aircraft type (in tonnes)
+by multiplying the total number of LTO’s per aircraft type
+(Column D) by the emission factors per LTO (Column J) and then
+dividing by 1000.  Enter the results in Column K.
+3
+Enter the emission factors per fuel consumption for cruise activities
+for various engine types (in kg/t) in Column L.  Default emission
+factors are available in the Reference Manual, Section 1.5.3.5.
+4
+Calculate the emissions from cruise activities for each aircraft type (in
+tonnes) by multiplying the fuel used for cruise activities (Column I) by
+the emission factors per fuel consumption for cruise activities
+(Column L) and then dividing by 1000.  Enter the results in
+Column M.
+5
+Calculate the total emissions by type of aircraft (in Gigagrams) by
+adding the emissions from LTO activities (Column K) and the
+emissions from cruise activities (Column M) and dividing by 1000.
+Enter the results in Column N.
+6
+Calculate total emissions from aircraft by summing the results of the
+individual aircraft type in Column N and enter the results in the
+Totala and Totalb rows of Column N.
+ENERGY
+1.24
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+F U G I T I V E  S O U R C E S
+1.5
+Methane Emissions from Coal
+Mining and Handling
+I n t r o d u c t i o n
+The process of coal formation, commonly called coalification, inherently
+generates methane and other by-products. The degree of coalification
+(defined by the rank of the coal) determines the quantity of methane
+generated and, once generated, the amount of methane stored in coal is
+controlled by the pressure and temperature of the coal seam and by other,
+less well-defined characteristics of the coal.  The methane will remain
+stored in the coal until the pressure on the coal is reduced, which can occur
+through the erosion of overlying strata or the process of coal mining. Once
+the methane has been released, it flows through the coal toward a region of
+lower pressure (such as a coal mine) and into the atmosphere.
+The amount of CH4 generated during coal mining is primarily a function of
+coal rank and depth, as well as other factors such as moisture.  If two coal
+seams have the same rank, the deeper seam will hold larger amounts of
+CH4 because the pressure is greater at lower depths, all other things being
+equal.  As a result, most methane released to the atmosphere from coal
+mining is assumed to come from underground rather than surface mining.
+As a result, the methane emission factors for surface-mined coal are
+assumed to be lower than for underground mining.
+Methane is also emitted from post-mining activities such as coal processing,
+transportation, and utilisation. Methane is released mainly because the
+increased surface area allows more CH4 to desorb from the coal.
+Transportation of the coal contributes to CH4 emissions, because CH4
+desorbs directly from the coal to the atmosphere while in transit (e.g., in
+railroad cars).  Coal may also release methane during its preparation for
+final use.  For instance, in steel production coal is crushed to a particle size
+of less than 5 mm, vastly increasing the surface area of the coal and allowing
+more CH4 to desorb.
+D a t a  S o u r c e s
+The basic data necessary to perform these calculations are, at a minimum,
+quantity of coal mined by type of mine (underground or surface).  Use
+locally available data where these are reliable.
+Country statistics on underground and surface coal production are available
+from the OECD/IEA (for certain OECD Member countries). Data on coal
+production by type (hard coal and lignite) are also available for most
+countries in the world.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.25
+M e t h o d o l o g y
+On the advice of an expert group (see the Section 1.7 in the Reference
+Manual), calculations have been organised around a single formula which
+relates tonnes of coal production to total CH4 emissions from mining and
+post-mining activities.
+The Workbook enables the user to operate at several different levels of
+detail or "tiers" (discussed in more detail in the Reference Manual).
+Tier 1 is the least accurate and is based upon global average emission
+factors.
+Tier 2 is possible when a country has enough information to develop
+average emission factors of its own. More detailed calculations can be
+accommodated by making extra copies of the worksheet and breaking the
+calculations into sub-national components for which more specific emissions
+factors may be available.
+Tier 3 is based on mine-specific measurement of emissions from mine
+ventilation and degasification. This method is recommended if data are
+available as it should provide much more accurate country-based estimates.
+The equation for calculating CH4 emissions from mining activities is:
+CH4
+Emissions
+=
+Coal
+Production
+x
+Emission
+Factor
+x
+Conversion
+Factor
+(Gg)
+(106 t)
+(m3 CH4 /
+tonne coal)
+(Gg CH4 /
+106 m3 CH4)
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-6:  METHANE EMISSIONS FROM COAL MINING AND
+HANDLING to enter your data for this submodule.
+S T E P  1   E S T I M A T I N G  M E T H A N E  E M I S S I O N S
+F R O M  C O A L  M I N I N G  A N D  H A N D L I N G
+1
+Enter the amount of coal produced by each type of mining activity, in
+millions of tonnes, in Column A.
+The total amount of coal should be consistent with that used in the
+CO2 from Energy submodule (Worksheet 1-1, Sheet 1, Column A).
+2
+Select an Emission Factor using Table 1-5 below. Do this for each type
+of mining activity involved in your inventory. Select a point within the
+possible range of values which is appropriate to your country. If you do
+not have the information to select a point, use an average value. Enter
+the value in Column B.
+ALTERNATIVE LEVELS OF DETAIL -
+TIERS
+The information provided in this
+Workbook, including global default
+emission 
+factors, 
+allows 
+for
+calculation at the Tier 1 level. Tier 2
+calculations 
+follow 
+the 
+same
+structure, but would use country or
+basin-specific emission factors if
+available locally. If a country is
+capable of Tier 3 estimates this
+would indicate that the emissions
+estimates 
+are 
+already 
+available
+(having been directly measured) and
+the Workbook 
+methodology for
+calculating emissions is not needed.
+Countries with Tier 3 estimates can
+move directly to the Reporting
+Instructions 
+volume 
+of 
+these
+Guidelines for guidance on reporting
+and 
+documenting 
+emissions
+estimates.
+The highest tier of estimation
+methodology possible should be
+used for each component of mining
+activity. It is acceptable to provide
+estimates using different tiers for
+various components, provided that
+the level of calculation is clearly
+identified in each component. For
+example, even if Tier 3 is used to
+estimate 
+underground 
+emissions,
+Tier 1 or 2 can be used to estimate
+emissions from other components
+of mining activity.
+USING THE WORKSHEET
+•
+Copy the worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary
+ENERGY
+1.26
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 1-5
+HIGH AND LOW EMISSION FACTORS FOR MINING ACTIVITIES (M3/TONNE)
+Type of Mine/Activity
+Emission Factor
+Underground
+Surface
+Mining
+10 - 25
+0.3 - 2.0
+Post-mining
+0.9 - 4.0
+0 - 0.2
+Source:  Compiled from various country studies as summarised in Reference Manual
+3
+Multiply the Amount of Coal Produced (Column A) by the Emission
+Factor (Column B) to give Methane Emissions (in millions of cubic
+metres) for each type of mining activity. Enter the result in Column C.
+S T E P  2   C O N V E R T I N G  M E T H A N E
+E M I S S I O N S  I N  M 3  T O  M E T H A N E  E M I S S I O N S
+I N  G I G A G R A M S
+1
+Enter a Conversion Factor in Column D.
+The conversion factor converts volume of CH4 to a weight measure
+(gigagrams) using the density of methane at 20oC and at a pressure of
+1 atmosphere.  This conversion factor, expressed in a form suitable for this
+Workbook, is 0.67 Gg/106 m3.
+2
+Multiply the Methane Emissions in millions of m3 by the Conversion Factor
+to give the Methane Emissions in gigagrams.  Enter the result in Column E.
+Sum the figures and enter the total in the Total box at the bottom of the
+column.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.27
+1.6
+Methane Emissions from Oil and
+Natural Gas Activities
+I n t r o d u c t i o n
+Fugitive emissions of methane from oil and gas activities probably account
+for about 30 to 70 teragrams per year of global methane emissions.  The
+category includes all emissions from the production, processing, transport
+and use of oil and natural gas, and from non-productive combustion.  It
+excludes use of oil and gas or derived fuel products to provide energy for
+internal use, in energy production processing and transport. The latter are
+considered fuel combustion and treated in an earlier section of this chapter.
+Fugitive emissions do include, however, emissions which result from the
+combustion of natural gas during flaring operations.  Sources of emissions
+within oil and gas systems include:
+• 
+emissions during normal operation, such as emissions associated with
+venting and flaring during oil and gas production, chronic leaks or
+discharges from process vents;
+• 
+emissions during repair and maintenance, ; and
+• 
+emissions during system upsets and accidents.
+To calculate methane emissions from oil and gas activities in your country, you
+require the following energy data:
+Oil
+Gas
+Number of wells drilled
+Quantity of gas produced
+Quantity of oil produced
+Quantity of gas consumed
+Quantity of oil refined
+In addition, emission factors will be required as discussed below.
+D a t a  s o u r c e s
+Locally available data should be used wherever possible.  Energy data for a
+large number of countries are also published by the International Energy
+Agency and the United Nations Statistical Division.  See Reference Manual
+Sections 1.8.2 and 1.8.3.
+In addition to energy data, default emissions factors and other input
+assumptions, are provided in the Workbook methodology where available.
+In calculating national emissions, users of this method are free to override
+any of these assumptions or recommendations if other information is
+preferred.  Wherever information is used other than the values
+recommended in the Workbook, this should be noted and documentation
+should be provided on the sources of the information.
+Users should ensure that data used in this section are consistent with those
+entered in the CO2 from Energy calculations.  Countries which have significant
+emissions from oil and natural gas should consult the discussion in the Reference
+ENERGY
+1.28
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+Manual and look for locally available data which will allow the development of
+more country-specific factors.
+M e t h o d o l o g y
+Three different tiers or levels of detail for calculating these emissions are
+presented in the Reference Manual.
+•
+Tier 1  Production-Based Average Emission Factors Approach
+•
+Tier 2  Mass Balance Approach
+•
+Tier 3  Rigorous Source-Specific Approach
+Only Tier 1 is presented in this Workbook.
+This requires assembling activity data (production etc.) for the country,
+selecting emission factors based on information in the tables of typical
+regional values (or from locally available data), and multiplying through to
+produce emissions estimates by major subcategory. Explanations of the
+regions used are provided below.
+Regional Definitions
+Regions have been defined recognising the limitations in data on emissions
+factors and activity levels, and key differences in oil and gas activities
+throughout the world. The following five regions have been chosen:
+•
+USA and Canada:
+•
+Former USSR and Eastern Europe:  This region includes the
+former USSR (which is by far the largest oil and gas producer in the
+region), Albania, Bulgaria, Czech & Slovak Republics, Hungary, Poland,
+Romania, and the former Yugoslav republics.
+•
+Western Europe:  This region includes: Austria, Belgium, Denmark,
+Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Iceland,
+Ireland, Italy, Luxembourg, Malta, Netherlands, Norway, Portugal, Spain,
+Sweden, Switzerland, and the United Kingdom.
+•
+Other Oil Exporting Countries:  This region includes the world's
+other major oil producing countries: the 11 OPEC members (Algeria,
+Libya, Nigeria, Venezuela, Indonesia, Iran, Iraq, Kuwait, Qatar, Saudi
+Arabia and the United Arab Emirates) Gabon, Ecuador and Mexico.
+•
+Rest of the World: This region includes the remaining countries of
+Asia, Africa, Middle East, Oceania and Latin America.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-7:  METHANE EMISSIONS FROM OIL AND GAS ACTIVITIES
+(TIER 1) to enter your data for this submodule.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.29
+E S T I M A T I N G  T H E  A M O U N T  O F  M E T H A N E
+E M I T T E D  B Y  O I L  A N D  G A S  A C T I V I T I E S
+1
+Enter data for each type of oil and gas production activity in
+Column A.
+Data sources are discussed above. Ensure that the data you use are
+consistent with the activity data used to calculate CO2 from Energy
+Sources in the first submodule of this module.
+2
+For each type of activity enter an Emission Factor in Column B.
+Use locally available data or the data in Table 1-6 below. Note that
+these tables provide a range of values to account for the uncertainty
+implicit in this method. You should use your judgement to select a
+single value from this range. You are also encouraged to provide an
+estimate of uncertainty with the values (see the Greenhouse Gas
+Inventory Reporting Instructions).
+3
+Multiply the amounts of oil and gas for each Activity (Column A) by
+the Emission Factor (Column B) to give the amount of CH4 emitted
+in kilograms CH4.  Enter the results in kilograms in Column C.
+4
+Divide the emissions of CH4 in kilograms (Column C) by 106 to
+convert to gigagrams. Enter the results, in gigagrams CH4, in
+Column D and complete the “total” boxes.
+EXPLORATION AND DRILLING
+A category of exploration and
+drilling is included on the worksheet.
+However, no sources of activity
+data 
+or 
+default 
+emissions 
+are
+provided. If you have locally available
+data for these values, enter this. If
+you are working from default
+sources you should ignore this
+category which is only expected to
+be a small component of emissions.
+ENERGY
+1.30
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+TABLE 1-6
+REVISED REGIONAL EMISSION FACTORS FOR METHANE FROM OIL AND GAS ACTIVITIES SYSTEMS (kg/PJ)
+Source Type
+Basis
+Western
+Europe
+USA &
+Canada
+Former USSR,
+Central &
+Eastern
+Europe
+Other Oil
+Exporting
+Countries
+Rest of the
+World
+OIL & GAS PRODUCTION
+Fugitive and Other
+Routine
+Maintenance
+Emissions from Oil
+Production
+Oil Produced
+300 - 5 000
+300 - 5 000
+300 - 5 000
+300 - 5 000
+300 - 5 000
+Fugitive and Other
+Routine
+Maintenance
+Emissions from Gas
+Production
+Gas Produced
+15 000 -
+27 000
+46 000 -
+84 000
+140 000 -
+314 000
+46 000 - 96 000
+46 000 - 96 000
+Venting & Flaring
+from Oil and Gas
+Production
+Oil & Gas
+Produced(a)
+-
+3 000 - 14 000
+-
+-
+-
+Oil Produced
+1 000 - 3 000
+-
+-
+-
+-
+Gas Produced
+-
+-
+6 000 - 30 000
+758 000 -
+1 046 000
+175 000 - 209 000
+CRUDE OIL TRANSPORTATION, STORAGE AND REFINING
+Transportation
+Oil Tankered
+745
+745
+745
+745
+745
+Refining
+Oil Refined
+90 - 1 400
+90 - 1 400
+90 - 1 400
+90 - 1 400
+90 - 1 400
+Storage Tanks
+Oil Refined
+20 - 250
+20 - 250
+20 - 250
+20 - 250
+20 - 250
+NATURAL GAS PROCESSING, TRANSPORT AND DISTRIBUTION
+Emissions from
+Processing,
+Transmission and
+Distribution
+Gas Produced
+-
+-
+288 000 -
+628 000
+288 000 (high)(b)
+288 000 (high) (b)
+Gas Consumed
+72 000 -
+133 000
+57 000 -
+118 000
+-
+118 000 (low) (c)
+118 000 (low) (c)
+Leakage at industrial
+plants and power
+stations
+Non-residential Gas
+Consumed(d)
+-
+-
+175 000 -
+384 000
+0 - 175 000
+0 - 175 000
+Leakage in the
+residential and
+commercial sectors
+Residential Gas
+Consumed(e)
+-
+-
+87 000 - 192 000
+0 - 87 000
+0 - 87 000
+(a) In the United States and Canada, the emissions are based on total production of both oil and gas produced.
+(b) The emission factor of 288 000 kg/PJ of gas produced is used only for the high emissions estimate.
+(c) The emission factor of 118 000 kg/PJ of gas consumed is used only for the low emissions estimate.
+(d) Gas consumption by utilities and industries.
+(e) Gas consumption by the residential and commercial sectors.
+Source:  Constructed from the literature summarised in the Reference Manual
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.31
+1.7
+Ozone Precursors and SO 2  Emissions
+from Oil Refining
+I n t r o d u c t i o n
+A basic refinery converts crude petroleum into a variety of sub-products.
+Principal products of a refinery may include liquid fuels, coke, feedstocks
+and primary petrochemicals (like ethylene).  This section covers basic
+refineries, not the synthesis of petrochemicals.  Chemical production is
+included in Chapter 2, Industrial Processes, whether or not the actual
+production takes place at a refinery or in a separate plant.
+D a t a  S o u r c e s
+Data on crude oil throughput, required for the simplified Tier 1 approach, is
+usually readily available from national sources or international compendia of
+energy statistics.  The Tier 2 methods require data on internal refinery
+operations which can be obtained only locally either through a national
+industry association including refiners or by direct contact with the refiners.
+These contacts also provide the opportunity to obtain local emission factors
+for use in place of the default factors provided below.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 1-8 OZONE PRECURSORS AND SO2 EMISSIONS FROM OIL
+REFINING to enter your data for this submodule.
+E S T I M A T I N G  E M I S S I O N S  O F  C O ,  N O X ,
+N M V O C  A N D  S O 2
+Tier 1 - Using Crude Oil Throughput
+A simple estimation method uses average default emission factors for all
+four pollutants based on the crude oil throughput of the refineries.  Local
+emission factors should be used wherever possible as values, particularly for
+NMVOCs, can vary widely.
+Using Worksheet 1-8, Sheet 1
+1
+Enter the crude oil throughput of the refinery(ies) in Column A
+expressed in 1000 tonnes.
+2
+In Column C, overwrite the default emission factors with local values if
+available.
+3
+Multiply, in turn, the figure in Column A by each of the emission
+factors entered in Column C and place the results in the
+corresponding rows of Column D.
+4
+Divide the figures in Column D by 1000 to convert to gigagrams and
+place the results in Column E.
+ENERGY
+1.32
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+Tier 2 Methods
+Separate methods for the estimation of the four pollutants from catalytic
+cracking, SO2 from desulphurisation and NMVOCs from oil storage are
+presented below.
+The discussion in Section 1.8.9 of the Reference Manual makes clear that the
+default emission factors for SO2 and NOx are subject to wide ranges.
+Efforts should be made to use local values for these pollutants and for
+NMVOCs.
+E S T I M A T I N G  E M I S S I O N S  O F  O Z O N E
+P R E C U R S O R S  A N D  S O 2  F R O M  C A T A L Y T I C
+C R A C K I N G
+Using Worksheet 1-8, Sheet 2
+1
+Enter the oil throughput of the catalytic cracker units in Column A
+expressed in 1000 tonnes.
+2
+In Column C, overwrite the default emission factors with local values if
+available.
+3
+Multiply, in turn, the figure in Column A by each of the emission
+factors entered in Column C and place the results in the
+corresponding rows of Column D.
+4
+Divide the figures in Column D by 1000 to convert to gigagrams and
+place the results in Column E.
+E S T I M A T I N G  E M I S S I O N S  O F  S O 2  F R O M
+D E S U L P H U R I S A T I O N
+Using Worksheet 1-8, Sheet 3
+1
+Enter the quantity of sulphur recovered in tonnes in Column A.
+2
+Multiply this figure by 139 (the default emission factor in kg/t) and
+place the result in Column C.
+3
+Divide the figure in kg in Column C by 106 to convert to gigagrams
+and put the result in Column D.
+E S T I M A T I N G  E M I S S I O N S  O F  N M V O C S  F R O M
+O I L  S T O R A G E
+Using Worksheet 1-8, Sheet 4
+1
+For each refinery in the country, identify the major storage type.  Sum
+the crude oil throughputs for each storage type and enter the result in
+Column A expressed in 1000 tonnes.
+2
+Multiply the emission factor by the crude oil throughput in Column A
+and place the result in the appropriate row in Column D.
+3
+Divide the figure in Column D by 1000 and put the result in gigagrams
+in Column E.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.33
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM ENERGY SOURCES (REFERENCE APPROACH)
+WORKSHEET
+1-1
+SHEET
+1 OF 5
+STEP 1
+A
+Production
+B
+Imports
+C
+Exports
+D
+International
+Bunkers
+E
+Stock Change
+F
+Apparent
+Consumption
+FUEL TYPES
+F=(A+B
+-C-D-E)
+Liquid Fossil Primary Fuels
+Crude Oil
+Orimulsion
+Natural Gas Liquids
+Secondary Fuels Gasoline
+Jet Kerosene
+Other Kerosene
+Shale Oil
+Gas / Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Bitumen
+Lubricants
+Petroleum Coke
+Refinery Feedstocks
+Other Oil
+Liquid Fossil Totals
+Solid Fossil
+Primary Fuels
+Anthracite(a)
+Coking Coal
+Other Bit. Coal
+Sub-bit. Coal
+Lignite
+Oil Shale
+Peat
+Secondary Fuels BKB & Patent Fuel
+Coke Oven/Gas Coke
+Solid Fossil Totals
+Gaseous Fossil
+Natural Gas (Dry)
+Total
+Biomass Total
+Solid biomass
+Liquid biomass
+Gas biomass
+(a) If anthracite is not separately available, include with Other Bituminous Coal.
+ENERGY
+1.34
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM ENERGY SOURCES (REFERENCE APPROACH)
+WORKSHEET
+1-1
+SHEET
+2 OF 5
+STEP 2
+STEP 3
+G(a)
+Conversion
+Factor
+(TJ/Unit)
+H
+Apparent
+Consumption
+(TJ)
+I
+Carbon Emission
+Factor
+(t C/TJ)
+J
+Carbon Content
+(t C)
+K
+Carbon Content
+(Gg C)
+FUEL TYPES
+H=(FxG)
+J=(HxI)
+K=(Jx10-3)
+Liquid Fossil Primary Fuels
+Crude Oil
+Orimulsion
+Natural Gas Liquids
+Secondary Fuels Gasoline
+Jet Kerosene
+Other Kerosene
+Shale Oil
+Gas / Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Bitumen
+Lubricants
+Petroleum Coke
+Refinery Feedstocks
+Other Oil
+Liquid Fossil Totals
+Solid Fossil
+Primary Fuels
+Anthracite
+Coking Coal
+Other Bit. Coal(b)
+Sub-bit. Coal
+Lignite
+Oil Shale
+Peat
+Secondary Fuels BKB & Patent Fuel
+Coke Oven/Gas Coke
+Solid Fossil Totals
+Gaseous Fossil
+Natural Gas (Dry)
+Total
+Biomass Total
+Solid biomass
+Liquid biomass
+Gas biomass
+(a) Please specify units.
+(b) If anthracite is not separately available, include with Other Bituminous Coal.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.35
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM ENERGY SOURCES (REFERENCE APPROACH)
+WORKSHEET
+1-1
+SHEET
+3 OF 5
+STEP 4
+STEP 5
+STEP 6
+L
+Carbon Stored
+(Gg C)
+M
+Net Carbon
+Emissions
+(Gg C)
+N
+Fraction of
+Carbon
+Oxidised
+O
+Actual Carbon
+Emissions
+(Gg C)
+P
+Actual CO2
+Emissions
+(Gg CO2)
+FUEL TYPES
+M=(K-L)
+O=(MxN)
+P=(Ox[44/12])
+Liquid Fossil
+Primary Fuels
+Crude Oil
+Orimulsion
+Natural Gas Liquids
+Secondary Fuels
+Gasoline
+Jet Kerosene
+Other Kerosene
+Shale Oil
+Gas / Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Bitumen
+Lubricants
+Petroleum Coke
+Refinery Feedstocks
+Other Oil
+Liquid Fossil Totals
+Solid Fossil
+Primary Fuels
+Anthracite
+Coking Coal
+Other Bit. Coal(a)
+Sub-bit. Coal
+Lignite
+Oil Shale
+Peat
+Secondary Fuels
+BKB & Patent Fuel
+Coke Oven/Gas Coke
+Solid Fossil Totals
+Gaseous Fossil
+Natural Gas (Dry)
+Total
+Biomass Total
+Solid biomass
+Liquid biomass
+Gas biomass
+(a) If anthracite is not separately available, include with Other Bituminous Coal.
+ENERGY
+1.36
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM ENERGY SOURCES (REFERENCE APPROACH)
+WORKSHEET
+1-1
+SHEET
+4 OF 5  EMISSIONS FROM INTERNATIONAL BUNKERS (INTERNATIONAL MARINE AND AIR
+TRANSPORT)
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Quantities
+Delivered(a)
+Conversion
+Factor
+(TJ/unit)
+Quantities
+Delivered
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon Content
+(Gg C)
+FUEL TYPES
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Solid Fossil
+Other Bituminous
+Coal
+Sub-Bituminous Coal
+Liquid Fossil
+Gasoline
+Jet Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+Lubricants
+Total
+(a) Enter the quantities from Table 1-1, Sheet 1, Column D: “International Bunkers”.
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM ENERGY SOURCES (REFERENCE APPROACH)
+WORKSHEET
+1-1
+SHEET
+5 OF 5  EMISSIONS FROM INTERNATIONAL BUNKERS (INTERNATIONAL MARINE AND AIR
+TRANSPORT)
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Fraction of
+Carbon
+Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon
+Oxidised
+Actual
+Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+FUEL TYPES
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(Kx44/12)
+Solid Fossil
+Other Bituminous
+Coal
+0
+0
+Sub-Bituminous Coal
+0
+0
+Liquid Fossil
+Gasoline
+0
+0
+Jet Kerosene
+0
+0
+Gas/Diesel Oil
+0
+0
+Residual Fuel Oil
+0
+0
+Lubricants
+0.5
+Total(a)
+(a) The bunker emissions are not to be added to national totals.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.37
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM ENERGY
+WORKSHEET
+AUXILIARY WORKSHEET 1-1: ESTIMATING CARBON STORED IN PRODUCTS
+SHEET
+1 OF 1
+A
+Estimated Fuel
+Quantities
+B
+Conversion
+Factor
+(TJ/Units)
+C
+Estimated Fuel
+Quantities
+(TJ)
+D
+Carbon
+Emission Factor
+(t C/TJ)
+E
+Carbon
+Content
+(t C)
+F
+Carbon
+Content
+(Gg C)
+G
+Fraction of
+Carbon Stored
+H
+Carbon Stored
+(Gg C)
+FUEL TYPES
+C=(AxB)
+E=(CxD)
+F=(Ex10-3)
+H=(FxG)
+Naphtha(a)
+0.80
+Lubricants
+0.50
+Bitumen
+1.0
+Coal Oils and Tars
+(from Coking
+Coal)
+0.75
+Natural Gas(a)
+0.33
+Gas/Diesel Oil(a)
+0.50
+LPG(a)
+0.80
+Ethane(a)
+0.80
+Other fuels(b)
+(a) Enter these fuels when they are used as feedstocks.
+(b) Use the Other fuels rows to enter any other products in which carbon may be stored
+ENERGY
+1.38
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+1 OF 16  ENERGY INDUSTRIES
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Energy Industries
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Crude Oil
+(a)
+Natural Gas Liquids
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Lubricants
+Petroleum Coke
+Refinery Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Coke
+Gas Works Gas
+Coke Oven Gas
+Blast Furnace Gas
+Natural Gas
+Municipal Solid Waste
+Industrial Waste
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+(a)  Include only consumption of crude oil that is burned, not crude oil which is refined into petroleum products.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.39
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+2 OF 16  ENERGY INDUSTRIES
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Energy Industries
+Fraction of
+Carbon Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Crude Oil
+Natural Gas Liquids
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Lubricants
+(a)
+Petroleum Coke
+Refinery Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Coke
+Gas Works Gas
+Coke Oven Gas
+Blast Furnace Gas
+Natural Gas
+Municipal Solid Waste
+Industrial Waste
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+(a)  Use a value of 0.5 for lubricants.
+ENERGY
+1.40
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+3 OF 16  MANUFACTURING INDUSTRIES AND CONSTRUCTION
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Manufacturing
+Industries and
+Construction
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Crude Oil
+Natural Gas Liquids
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Lubricants
+Petroleum Coke
+Refinery Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Coke
+Gas Works Gas
+Coke Oven Gas
+Blast Furnace Gas
+Natural Gas
+Municipal Solid Waste
+Industrial Waste
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+Note:  To separately identify emissions associated with autogeneration from those associated with process heat, photocopy sheets 3 and 4, clearly
+indicating the source of the emissions.

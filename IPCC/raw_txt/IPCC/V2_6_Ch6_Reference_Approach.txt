@@ -1,0 +1,711 @@
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.1 
+CHAPTER 6 
+REFERENCE APPROACH 
+Volume 2: Energy 
+6.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Karen Treanton (IEA)  
+Francis Ibitoye (Nigeria), Kazunari Kainou (Japan), Jos G. J. Olivier (Netherlands), Jan Pretel (Czech Republic), 
+Timothy Simmons (UK), and Hongwei Yang (China) 
+Contributing Author 
+Roberta Quadrelli (IEA) 
+ 
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.3 
+Contents 
+ 
+6 
+Reference Approach 
+6.1 
+Overview...............................................................................................................................................6.5 
+6.2 
+Source categories covered.....................................................................................................................6.5 
+6.3 
+Algorithm..............................................................................................................................................6.5 
+6.4 
+Activity data..........................................................................................................................................6.6 
+6.4.1 
+Apparent consumption ..................................................................................................................6.6 
+6.4.2 
+Conversion to energy units............................................................................................................6.7 
+6.5 
+Carbon content ......................................................................................................................................6.7 
+6.6 
+Excluded carbon....................................................................................................................................6.7 
+6.6.1 
+Feedstock.......................................................................................................................................6.8 
+6.6.2 
+Reductant.......................................................................................................................................6.9 
+6.6.3 
+Non-energy products use...............................................................................................................6.9 
+6.6.4 
+Method ........................................................................................................................................6.10 
+6.7 
+Carbon unoxidised during fuel combustion ........................................................................................6.11 
+6.8 
+Comparison between the Reference Approach and a Sectoral Approach ...........................................6.11 
+6.9 
+Data sources ........................................................................................................................................6.13 
+6.10 
+Uncertainties .......................................................................................................................................6.13 
+6.10.1 
+Activity data................................................................................................................................6.13 
+6.10.2 
+Carbon content and net calorific values ......................................................................................6.13 
+6.10.3 
+Oxidation factors.........................................................................................................................6.14 
+References 
+.....................................................................................................................................................6.14 
+Equations 
+Equation 6.1 
+CO2 emissions from fuel combustion using the Reference Approach ...................................6.5 
+Equation 6.2 
+Apparent consumption of primary fuel..................................................................................6.6 
+Equation 6.3 
+Apparent consumption of secondary fuel..............................................................................6.7 
+Equation 6.4 
+Carbon excluded from fuel combustion emissions..............................................................6.10 
+Figure 
+Figure 6.1 
+Reference Approach versus sectoral approach ....................................................................6.12 
+Volume 2: Energy 
+6.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+Table 6.1 
+Products used as feedstocks, reductants and for non-energy purposes..................................6.8 
+Table 6.2 
+Activity data for excluded carbon flows..............................................................................6.11 
+ 
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.5 
+6 REFERENCE APPROACH 
+6.1 
+OVERVIEW 
+The Reference Approach is a top-down approach, using a country’s energy supply data to calculate the emissions 
+of CO2 from combustion of mainly fossil fuels. The Reference Approach is a straightforward method that can be 
+applied on the basis of relatively easily available energy supply statistics. Excluded carbon has increased the 
+requirements for data to some extent. However, improved comparability between the sectoral and reference 
+approaches continues to allow a country to produce a second independent estimate of CO2 emissions from fuel 
+combustion with limited additional effort and data requirements. 
+It is good practice to apply both a sectoral approach and the reference approach to estimate a country’s CO2 
+emissions from fuel combustion and to compare the results of these two independent estimates. Significant 
+differences may indicate possible problems with the activity data, net calorific values, carbon content, excluded 
+carbon calculation, etc. (see Section 6.8 for a more detailed explanation of this comparison). 
+6.2 
+SOURCE CATEGORIES COVERED 
+The Reference Approach is designed to calculate the emissions of CO2 from fuel combustion, starting from high 
+level energy supply data. The assumption is that carbon is conserved so that, for example, carbon in crude oil is 
+equal to the total carbon content of all the derived products. The Reference Approach does not distinguish 
+between different source categories within the energy sector and only estimates total CO2 emissions from Source 
+category 1A, Fuel Combustion. Emissions derive both from combustion in the energy sector, where the fuel is 
+used as a heat source in refining or producing power, and from combustion in final consumption of the fuel or its 
+secondary products. The Reference Approach will also include small contributions that are not part of 1A and 
+this is discussed in Section 6.8. 
+6.3 
+ALGORITHM 
+The Reference Approach methodology breaks the calculation of carbon dioxide emissions from fuel combustion 
+into 5 steps: 
+Step 1: Estimate Apparent Fuel Consumption in Original Units 
+Step 2: Convert to a Common Energy Unit 
+Step 3: Multiply by Carbon Content to Compute the Total Carbon 
+Step 4: Compute the Excluded Carbon 
+Step 5: Correct for Carbon Unoxidised and Convert to CO2 Emissions  
+These steps are expressed in the following equation: 
+EQUATION 6.1  
+CO2 EMISSIONS FROM FUEL COMBUSTION USING THE REFERENCE APPROACH 
+∑
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+•
+•
+−
+•
+•
+•
+=
+−
+all fuels
+fuel
+fuel
+fuel
+fuel
+fuel
+COF
+Carbon
+Excluded
+CC
+Conv Factor
+ApparentConsumption
+CO Emissions
+44/12
+)
+) 10
+((
+3
+2
+ 
+Where: 
+CO2 Emissions 
+= CO2 emissions (Gg CO2) 
+Apparent Consumption 
+= production + imports – exports – international bunkers - stock change 
+Conv Factor (conversion factor) 
+= conversion factor for the fuel to energy units (TJ) on a net calorific value basis 
+CC  
+= carbon content (tonne C/TJ) 
+ 
+ 
+   Note that tonne C/TJ is identical to kg C/GJ 
+Excluded Carbon 
+=carbon in feedstocks and non-energy use excluded from fuel 
+                                                                combustion emissions (Gg C) 
+Volume 2: Energy 
+6.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+        
+COF (carbon oxidation factor) 
+= fraction of carbon oxidised. Usually the value is 1, reflecting 
+complete oxidation. Lower values are used only to account for carbon 
+retained indefinitely in ash or soot 
+44/12 
+= molecular weight ratio of CO2 to C. 
+6.4 
+ACTIVITY DATA 
+The Reference Approach starts from statistics for production of fuels and their external (international) trade as 
+well as changes in their stocks. From this information the “Apparent Consumption” is estimated. It also needs a 
+limited number of values for the consumption of fuels used for non-energy purposes where carbon may be 
+emitted through activities not covered or only partly covered under fuel combustion.  
+6.4.1 
+Apparent consumption 
+The first step of the Reference Approach is to estimate apparent consumption of fuels within the country. This 
+requires a supply balance of primary and secondary fuels (fuels produced, imported, exported, used in 
+international transport (bunker fuels) and stored or removed from stocks). In this way carbon is brought into the 
+country from energy production and imports (adjusted for stock changes) and moved out of the country through 
+exports and international bunkers. In order to avoid double counting it is important to distinguish between 
+primary fuels, which are fuels found in nature such as coal, crude oil and natural gas, and secondary fuels or fuel 
+products, such as gasoline and lubricants, which are derived from primary fuels. A complete list of fuels is 
+provided in Section 1.4.1.1 of the Energy Volume Introduction chapter. 
+To calculate the supply of fuels to the country, the following data are required for each fuel and inventory year: 
+• 
+the amounts of primary fuels produced1 (production of secondary fuels and fuel products is not included);  
+• 
+the amounts of primary and secondary fuels imported; 
+• 
+the amounts of primary and secondary fuels exported; 
+• 
+the amounts of primary and secondary fuels used in international bunkers; 
+• 
+the net increases or decreases in stocks of primary and secondary fuels. 
+The apparent consumption of a primary fuel is, therefore, calculated from the above data as: 
+ EQUATION 6.2 
+APPARENT CONSUMPTION OF PRIMARY FUEL 
+fuel
+fuel
+fuel
+fuel
+fuel
+fuel
+Stock Change
+nal Bunkers
+Internatio
+Exports
+Imports
+Production
+Consumption
+Apparent
+−
+−
+−
++
+=
+ 
+ 
+An increase in stocks is a positive stock change which withdraws supply from consumption. A stock reduction is 
+a negative stock change which, when subtracted in the equation, causes an increase in apparent consumption. 
+The total apparent consumption of primary fuels will be the sum of the apparent consumptions for each primary 
+fuel. 
+Apparent consumption of secondary fuels should be added to apparent consumption of primary fuels. The 
+production (or manufacture) of secondary fuels should be ignored in the calculations because the carbon in these 
+fuels is already included in the supply of primary fuels from which they were derived; for instance, the estimate 
+for apparent consumption of crude oil already contains the carbon from which gasoline would be refined. 
+Apparent consumption of a secondary fuel is calculated as follows: 
+ 
+                                                           
+1  Production of natural gas is measured after purification and extraction of NGLs and sulphur. Extraction losses and 
+quantities re-injected, vented or flared are not included. Production of coal includes the quantities extracted or produced 
+calculated after any operation for removal of inert matter. Production of oil includes marketable production and excludes 
+volumes returned to formation. 
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.7 
+ EQUATION 6.3  
+APPARENT CONSUMPTION OF SECONDARY FUEL 
+ 
+fuel
+fuel
+fuel
+fuel
+fuel
+Stock Change
+nal Bunkers
+Internatio
+Exports
+Imports
+Consumption
+Apparent
+−
+−
+−
+=
+ 
+ 
+Note that this calculation can result in negative numbers for apparent consumption of a given fuel. This is 
+possible and it indicates a net export or stock increase of that fuel in the country.  
+The total apparent consumption of secondary fuels will be the sum of the apparent consumptions for each 
+secondary fuel.  
+6.4.2 
+Conversion to energy units 
+Often oil and coal data are expressed in metric tonnes. Natural gas may be expressed in cubic meters or in a heat 
+value such as BTU on a gross or net calorific value basis2. For the purposes of the Reference Approach, the 
+apparent consumption should be converted to terajoules on a net calorific value basis. However, since the 
+intention of the Reference Approach is to verify the estimates made using a more detailed approach, if the 
+country has used gross calorific values in their detailed calculations, then it is preferable to do so also in the 
+calculations for the Reference Approach. When selecting a country-specific calorific value for the Reference 
+Approach based on detailed consumption values, good practice suggests that a weighted average be used. See 
+the Introduction chapter of this Volume for a detailed description of the conversion to energy units (Section 
+1.4.1.2).  
+6.5 
+CARBON CONTENT 
+The carbon content of the fuel may vary considerably both among and within primary fuel types: 
+• 
+For natural gas, the carbon content depends on the composition of the gas which, in its delivered state, is 
+primarily methane, but can include small quantities of ethane, propane, butane, CO2 and heavier 
+hydrocarbons. Natural gas flared at the production site will usually be "wet", i.e., containing far larger 
+amounts of non-methane hydrocarbons. The carbon content will be correspondingly different.  
+• 
+For crude oil, the carbon content may vary depending on the crude oil's composition (e.g. depending on API 
+gravity and sulphur content). For secondary oil products, the carbon content for light refined products such 
+as gasoline is usually less than for heavier products such as residual fuel oil.  
+• 
+For coal, the carbon content per tonne varies considerably depending on the coal's composition of carbon, 
+hydrogen, sulphur, ash, oxygen, and nitrogen. 
+Since the carbon content is closely related to the energy content of the fuel, the variability of the carbon content 
+is small when the activity data are expressed in energy units. 
+Since carbon content varies by fuel type, data should be used for detailed categories of fuel and product types. 
+The default values for carbon content given in the Introduction chapter of the Energy Volume are suggested only 
+if country-specific values are not available. When selecting a country-specific carbon content for the Reference 
+Approach based on detailed consumption values, good practice suggests that a weighted average be used. 
+For a given fuel, the country-specific carbon content may vary over time. In this instance, different values may 
+be used in different years. 
+6.6 
+EXCLUDED CARBON 
+The next step is to exclude from the total carbon the amount of carbon which does not lead to fuel combustion 
+emissions, because the aim is to provide an estimate of fuel combustion emissions (Source category 1A).  
+                                                           
+2  The difference between the “net” and the “gross“ calorific value for each fuel is the latent heat of vaporisation of the water 
+produced during combustion of the fuel. For the purposes of the IPCC Guidelines, the default carbon emission factors have 
+been given on a net calorific value basis. Some countries may have their energy data on a gross calorific value basis. If 
+these countries wish to use the default emission factors, they may assume that the net calorific value for coal and oil is 
+about 5% less than the gross value and for natural gas is 9 to 10% less. 
+Volume 2: Energy 
+6.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Carbon excluded from fuel combustion is either emitted in another sector of the inventory (for example as an 
+industrial process emission) or is stored in a product manufactured from the fuel. In the 1996 Guidelines, carbon 
+in the apparent consumption that does not lead to fuel combustion emissions has been referred to as “stored 
+carbon” but, as the above definition makes clear, stored carbon is only part of the carbon to be excluded from 
+“total carbon” in the 2006 IPCC Guidelines. 
+The main flows of carbon concerned in the calculation of excluded carbon are those used as feedstock, reductant 
+or as non-energy products. Table 6.1 sets out the main products in each group.3 If countries have other fossil fuel 
+carbon products which should be excluded they should be taken into consideration and documented. 
+TABLE 6.1  
+PRODUCTS USED AS FEEDSTOCKS, REDUCTANTS 
+AND FOR NON-ENERGY PURPOSES 
+Naphtha 
+LPG (butane/propane) 
+Refinery gas 
+Gas/diesel oil and Kerosene 
+Natural gas 
+Feedstock 
+Ethane 
+Coke oven coke (metallurgical coke) and 
+petroleum coke 
+Coal and coal tar/pitch 
+Reductant 
+Natural gas 
+Bitumen 
+Lubricants 
+Paraffin waxes 
+Non-energy products 
+White spirit 
+6.6.1 
+Feedstock  
+Carbon emissions from the use of fuels listed above as feedstock are reported within the source categories of the 
+Industrial Processes and Product Use (IPPU) chapter. Consequently, all carbon in fuel delivered as feedstock is 
+excluded from the total carbon of apparent energy consumption. Most of the fuels used as feedstock are also 
+used for heat raising in refineries or elsewhere. For example, gas oil or natural gas may be delivered for heat 
+raising purposes in addition to any feedstock uses. It is therefore essential that only the quantities of fuel 
+delivered for feedstock use are subtracted from the total carbon of apparent energy consumption. The distinction 
+between the feedstock use of fuels and use for fuel combustion needs careful consideration. 
+Processing feedstock may produce by-product gases or oils. Equally, part of a feedstock supply to a process may 
+be used to fuel the process. The reporting of emissions from the combustion of by-product (or ‘off’) gases from 
+petrochemical processing or iron and steel manufacture or from the direct use of the feedstock as a fuel is guided 
+by the principle formulated in Section 1.2 of the Introduction chapter of this Volume for allocating fuel 
+combustion emissions between the IPPU and the fuel combustion sectors. Application of the principle will mean 
+that some countries will report some of the feedstock carbon as fuel combustion emissions in their inventories. 
+However, as simplicity is an objective of the Reference Approach, complete exclusion of the feedstock carbon 
+should be maintained there. It is good practice that any discrepancies that this generates between the Reference 
+Approach and Sectoral Approach be quantified and explained at the reporting stage. 
+                                                           
+3  Detailed bottom-up methods for estimating emissions from use of fuels for feedstock, reductant or other non-energy use are 
+provided in Volume 3, Chapter 5. 
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.9 
+6.6.2 
+Reductant 
+COKE OVEN COKE AND PETROLEUM COKE 
+Cokes manufactured from coals and oil products may be used for fuel combustion or industrial processes, most 
+notably in the iron and steel and non-ferrous metals industries. When used as a reductant in industrial processes 
+the coke is heated with inorganic oxides and reduces them carrying away the oxygen in the carbon monoxide and 
+dioxide. The ‘off gases' so produced may be combusted on site to help heat the process or combusted elsewhere 
+in another source category. In the latter case, the emissions are reported as fuel combustion. Section 1.2 of the 
+Introduction chapter of this Volume provides guidance on the principles of the reporting. However, as data for 
+this activity are not always readily available and, in order to preserve the simplicity of the Reference Approach, 
+quantities of coke delivered for the iron and steel and non-ferrous metals industries should be excluded from 
+total carbon. The effect of this will be reflected as a difference between the Reference Approach and Sectoral 
+Approach when the comparison is made. See Section 6.8. 
+COAL AND COAL TAR/PITCH 
+Pulverised coal may be injected into blast furnaces as a reductant and coal is similarly used as a reductant in 
+some titanium dioxide manufacturing processes. The carbon will largely enter the by-product gases associated 
+with the processes and the emissions covered under the activity where the gases are burned. For the pulverised 
+coal this will be mainly within the iron and steel industry and reported under IPPU. Only where some blast 
+furnace gas is transferred to another industry as fuel will the emissions be classified as Energy sector and the 
+portion of the emissions attributable to the pulverised coal and other injected hydrocarbons will be very small. 
+The distillation of coal in coke ovens to produce coke leads to the production of tars and light oils recovered 
+from coke oven gas. The light oils include benzene, toluene, xylene and non-aromatics as well as lesser amounts 
+of other chemicals. Tars include naphthalene, anthracene, and pitch. The light oils are valuable as solvents and as 
+basic chemicals. The related emissions are assumed covered under IPPU. 
+Pitches are often used as binders for anode production. Heavier oils associated with pitches may be used for 
+dyestuffs, wood preservatives or in road oils for asphalt laying. All of these activities are covered under IPPU 
+and their related emissions are excluded from fuel combustion. 
+If there are coke manufacturing plants where the oils or tars are burned for heat raising, it is suggested that any 
+instances of this activity in a country be taken into account to explain differences between the Reference 
+Approach and a Sectoral Approach when the reconciliation is made. 
+NATURAL GAS 
+In some iron and steel plants natural gas may be injected into blast furnaces as a reductant in the iron making 
+process. The classification of the emissions related to the injection of gas is identical to that made for pulverised 
+coal discussed above and these amounts should be excluded. 
+6.6.3 
+Non-energy products use 
+BITUMEN 
+Bitumen/asphalt is used for road paving and roof covering where the carbon it contains remains stored for long 
+periods of time. Consequently, there are no fuel combustion emissions arising from the deliveries of bitumen 
+within the year of the inventory. 
+LUBRICANTS 
+Lubricating oil statistics usually cover not only use of lubricants in engines but also oils and greases for 
+industrial purposes and heat transfer and cutting oils. All deliveries of lubricating oil should be excluded from 
+the Reference Approach. This avoids a potential double count of emissions from combustion of waste lubricants 
+covered in the Reference Approach under “other fossil fuels” but ignores the inclusion of emissions from 
+lubricants in two-stroke engines. See the discussion under ‘Simplifications in the Reference Approach’ in 
+Section 6.8. 
+PARAFFIN (PETROLEUM) WAXES 
+All quantities of paraffin waxes are excluded from the Reference Approach. Within the many uses for paraffin 
+waxes there are two main uses which lead to fuel combustion as defined in Section 1.2. These are the burning of 
+candles in heating or warming devices (for example, chafing dishes) and the incineration of wax-coated 
+materials amongst other waste in municipal waste plants with heat recovery. Use of candles for lighting is 
+Volume 2: Energy 
+6.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+considered mainly a decorative purpose and not fuel combustion. Emissions from combustion of waxes in 
+municipal waste plants with heat recovery are already included in the Reference Approach (under “Other fossil 
+fuels”) so the relevant wax quantities should be excluded. Data on the contribution from the remaining small 
+source of energy are very difficult to obtain so, within the Reference Approach, these sources are excluded from 
+fuel combustion. 
+WHITE SPIRIT 
+White spirit leads to solvent emissions which are not fuel combustion emissions and therefore should be 
+excluded. 
+6.6.4 
+Method 
+The quantity of carbon to be excluded from the estimation of fuel combustion emissions is calculated according 
+to following equation. 
+EQUATION 6.4 
+CARBON EXCLUDED FROM FUEL COMBUSTION EMISSIONS 
+10 3
+ 
+−
+•
+•
+=
+fuel
+fuel
+fuel
+CC
+Activity Data
+Excluded Carbon
+ 
+Where: 
+Excluded Carbon 
+= carbon excluded from fuel combustion emissions (Gg C) 
+Activity Data 
+= activity data (TJ) 
+CC  
+= carbon content (tonne C/TJ) 
+The activity data for each relevant product are given in Table 6.2. 
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.7 
+CARBON UNOXIDISED DURING FUEL 
+COMBUSTION 
+A small part of the fuel carbon entering combustion escapes oxidation but the majority of this carbon is later 
+oxidised in the atmosphere. It is assumed that the carbon that remains unoxidised (e.g. as soot or ash) is stored 
+indefinitely. For the purposes of the Reference Approach, unless country-specific information is available, a 
+default value of 1 (full oxidation) should be used. 
+6.8 
+COMPARISON BETWEEN THE REFERENCE 
+APPROACH AND A SECTORAL APPROACH 
+The Reference Approach and the Sectoral Approach often have different results because the Reference Approach 
+is a top-down approach using a country’s energy supply data and has no detailed information on how the 
+individual fuels are used in each sector. 
+The Reference Approach provides estimates of CO2 to compare with estimates derived using a Sectoral 
+Approach. Since the Reference Approach does not consider carbon captured, the results should be compared to 
+the CO2 emissions before those amounts are subtracted out. Theoretically, it indicates an upper bound to the 
+Sectoral Approach ‘1A Fuel Combustion’, because some of the carbon in the fuel is not combusted but will be 
+emitted as fugitive emissions (as leakage or evaporation in the production and/or transformation stage).  
+Calculating CO2 emissions with the two approaches can lead to different results for some countries. Typically, 
+the gap between the two approaches is relatively small (5 per cent or less) when compared to the total carbon 
+flows involved. In cases where 1) fugitive emissions are proportional to the mass flows entering production 
+and/or transformation processes, 2) stock changes in final consumer level are not significant and 3) statistical 
+differences in the energy data are limited, the Reference Approach and the Sectoral Approach should lead to 
+similar evaluations of the CO2 emissions trends. 
+TABLE 6.2  
+ACTIVITY DATA FOR EXCLUDED CARBON FLOWS 
+Fuel 
+Activity data1 
+LPG, ethane, naphtha, 
+refinery gas2, gas/diesel oil, 
+kerosene 
+Deliveries to petrochemical feedstocks3 
+Bitumen 
+Total deliveries 
+Lubricants 
+Total deliveries 
+Paraffin waxes2 
+Total deliveries 
+White spirit2 
+Total deliveries 
+Cokes 
+ 
+      Calcined petroleum coke 
+Total deliveries 
+      Coke oven coke 
+Deliveries to the iron and steel and non-ferrous metals 
+industries 
+Coal Tar 
+ 
+      Light oils from coal 
+Deliveries to chemical industry 
+      Coal tar/pitch 
+Deliveries to chemical industry and construction 
+Natural gas 
+Deliveries to petrochemical feedstocks and for the 
+direct reduction of iron ore in the iron and steel 
+industry 
+Notes: 
+1 Deliveries refers to the total amount of fuel delivered and is not the same thing as apparent 
+ consumption (where the production of secondary fuels is excluded). 
+2 Refinery gas, paraffin waxes and white spirit are included in “other oil”. 
+3 For the purposes of the Reference Approach, the deliveries used as activity data should be net of any 
+ oils returned to refineries from petrochemical processing. 
+Volume 2: Energy 
+6.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 6.1 
+Reference approach versus sectoral approach 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When significant discrepancies and/or large time-series deviation do occur, the main reasons are listed below. 
+• 
+Large statistical differences between the energy supply and the energy consumption in the basic energy 
+data. Statistical differences arise from the collection of data from different parts of the fuel flow from its 
+supply origins to the various stages of downstream conversion and use. They are a normal and proper part of 
+a fuel balance. Large random statistical differences must always be examined to determine the reason for the 
+difference but equally important smaller statistical differences which systematically show an excess of 
+supply over demand (or vice versa) should be pursued. 
+• 
+Significant mass imbalances between crude oil and other feedstock entering refineries and the (gross) 
+petroleum products manufactured. 
+• 
+The use of approximate net calorific and carbon content values for primary fuels which are converted 
+rather than combusted. For example, it may appear that there is no conservation of energy or carbon 
+depending on the calorific value and/or the carbon content chosen for the crude oil entering refineries and 
+for the mix of products produced from the refinery for a particular year. This may cause an overestimation or 
+underestimation of the emissions associated with the Reference Approach.  
+• 
+The misallocation of the quantities of fuels used for conversion into derived products (other than power 
+or heat) or quantities combusted in the energy sector. When reconciling differences between the 
+Reference Approach and a Tier 1 Sectoral Approach it is important to ensure that the quantities reported in 
+the transformation and energy sectors (e.g. for coke ovens) reflect correctly the quantities used for 
+conversion and for fuel use, respectively, and that no misallocation has occurred. Note that the quantities of 
+fuels converted to derived products should have been reported in the transformation sector of the energy 
+balance.  If any derived products are used to fuel the conversion process, the amounts involved should have 
+been reported in the energy sector of the energy balance. In Tier 1 Sectoral Approach the inputs to the 
+transformation sector should not be included in the activity data used to estimate emissions. 
+• 
+Missing information on combustion of certain transformation outputs. Emissions from combustion of 
+secondary fuels produced in integrated processes (for example, coke oven gas) may be overlooked in Tier 1 
+Sectoral Approach if data are poor or unavailable. The use of secondary fuels (the output from the 
+transformation process) should be included in the Sectoral Approach for all secondary products. Failure to 
+do so will result in an underestimation of the Sectoral Approach. 
+• 
+Simplifications in the Reference Approach. There are small quantities of carbon which should be included 
+in the Reference Approach because their emissions fall under fuel combustion. These quantities have been 
+excluded where the flows are small or not represented by a major statistic available within energy data. 
+Examples of quantities not accounted for in the Reference Approach include lubricants used in two-stroke 
+e.g. natural gas leakage from 
+pipelines, emissions from energy 
+transformation, etc. Likely to be 
+<5% of the reference approach. 
+Reference
+Approach 
+Sectoral
+Approach 
+ 
+ 
+ 
+ 
+1A Fuel 
+Combustion 
+ 
+Part of 1B
+Fugitive 
+Emissions 
+Stock Changes
+at final 
+consumers etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference 
+Approach 
+ 
+Chapter 6: Reference Approach 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.13 
+engines, blast furnace and other by-product gases which are used for fuel combustion outside their source 
+category of production and combustion of waxed products in waste plants with heat recovery. On the other 
+hand, there are flows of carbon which should be excluded from the Reference Approach but for reasons 
+similar to the above no practical means can be found to exclude them without over complicating the 
+calculations. These include coals and other hydrocarbons injected into blast furnaces as well as cokes used 
+as reductants in the manufacture of inorganic chemicals. The effects of these simplifications will be seen in 
+the discrepancy between the Reference Approach and a Sectoral Approach and if data are available, their 
+magnitudes can be estimated. 
+• 
+Missing information on stock changes that may occur at the final consumer level. The relevance of 
+consumer stocks depends on the method used for the Sectoral Approach. If delivery figures are being used 
+(this is often the case) then changes in consumers’ stocks are irrelevant. If, however, the Sectoral Approach 
+is using actual consumption of the fuel, then this could cause either an overestimation or an underestimation 
+of the Reference Approach. 
+• 
+High distribution losses for gas will cause the Reference Approach to be higher than the Sectoral Approach, 
+• 
+Unrecorded consumption of gas or other fuels may lead to an underestimation of the Sectoral Approach. 
+• 
+The treatment of transfers and reclassifications of energy products may cause a difference in the Sectoral 
+Approach estimation since different net calorific values and emission factors may be used depending on how 
+the fuel is classified. 
+• 
+It should be noted that for countries that produce and export large amounts of fuel, the uncertainty on 
+the residual supply may be significant and could affect the Reference Approach. 
+6.9 
+DATA SOURCES 
+The IPCC approach to the calculation of emission inventories encourages the use of fuel statistics collected by an 
+officially recognised national body, as this is usually the most comprehensive and accessible source of activity 
+data. In some countries, however, those charged with the task of compiling inventory information may not have 
+ready access to the entire range of data available within their country and may wish to use data specially 
+provided by their country to the international organisations whose policy functions require knowledge of energy 
+supply and use in the world. There are, currently, two main sources of international energy statistics: the 
+International Energy Agency (IEA), and the United Nations (UN). Information on international data sources is 
+given in the Introduction chapter of the Energy Volume (Section 1.4.1.3). 
+6.10 
+UNCERTAINTIES 
+If the Reference Approach is the primary accounting method for the CO2 from fuel combustion, then it is good 
+practice to carry out an uncertainty analysis. 
+6.10.1 
+Activity data 
+Overall uncertainty in activity data is a combination of both systematic and random errors. Most developed 
+countries prepare balances of fuel supply and this provides a check on systematic errors. In these circumstances, 
+overall systematic errors are likely to be small. However, incomplete accounting may occur in places where 
+individuals and small producers are extracting fossil fuel (generally coal) for their own use and it does not enter 
+into the formal accounting system. However, experts believe that uncertainty resulting from errors in the activity 
+data of countries with well-developed statistical systems is probably in the range of ±5% for a given fuel. For 
+countries with less well-developed energy data systems, this could be considerably larger, probably about ±10% 
+for a given fuel. 
+6.10.2 
+Carbon content and net calorific values 
+The uncertainty associated with the carbon content and the net calorific values results from two main elements, 
+the accuracy with which the values are measured, and the variability in the source of supply of the fuel and 
+quality of the sampling of available supplies. Consequently, the errors can be considered mainly random. The 
+uncertainty will result mostly from variability in the fuel composition. For traded fuels, the uncertainty is likely 
+to be less than for non-traded fuels (see Tables 1.2 and 1.3). 
+Volume 2: Energy 
+6.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.10.3 
+Oxidation factors 
+Default uncertainty ranges are not available for oxidation factors. Uncertainties for oxidation factors may be 
+developed based on information provided by large consumers on the completeness of combustion in the types of 
+equipment they are using.  
+ 
+References 
+IPCC Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories (2000) 
+Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 

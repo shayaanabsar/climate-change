@@ -1,0 +1,1099 @@
+1
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+M O D U L E  2
+I N D U S T R I A L  P R O C E S S E S
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.1
+2. INDUSTRIAL PROCESSES
+2.1 
+Introduction
+Greenhouse gas emissions are produced from a variety of industrial activities
+which are not related to energy.  The main emission sources are industrial
+production processes which chemically or physically transform materials.
+During these processes, many different greenhouse gases, including CO2,
+CH4, N2O, and PFCs, can be released.
+In some instances, industrial process emissions are produced in combination
+with fuel combustion emissions and it may be difficult to decide whether a
+particular emission should be reported within the energy or industrial
+emission sector. The criterion used to make this decision is discussed in the
+Section 2.1 of the Reference Manual.
+All emissions, including evaporative emissions, which occur in energy
+transformation activities are discussed in the Energy Chapter.  Emissions
+from petrochemical processes are, however, covered in this chapter.
+Emissions of NMVOC from use of solvents are discussed in the chapter
+“Solvents and other product use” even if they originate from an industrial
+process.
+CO2 from the use of biological carbon as feedstock and fermentation
+processes should not be reported under “Industrial Processes”, or any other
+sector of the IPCC Guidelines if they originate from sources of carbon that
+are from a closed cycle.
+Non-combustion industrial processes resulting in N2O emissions are
+recognised as important anthropogenic contributors to global N2O
+emissions.  It is estimated that this source category represents 10 to 50 per
+cent of anthropogenic N2O emissions and 3 to 20 per cent of all global
+emissions of N2O (IPCC, 1992).
+HFCs, PFCs and SF6 are also emitted from industrial processes, such as
+production of aluminium, magnesium and halocarbons (e.g., HCFC-22).  In
+some countries PFC emissions from industrial processes could be an
+important contributor to national GHG emissions due to their high GWPs.
+Current and expected applications of these compounds include refrigeration
+and air-conditioning, fire extinguishing, aerosols, solvents, and foam
+production.  Consumption of HFCs, and to some extent PFCs and SF6, is
+expected to grow substantially in the next decades due to their importance
+as substitutes for ozone-depleting substances.
+It is essential for a full understanding of the methodologies presented in this
+workbook that inventory compilers read the related sections in Chapter 2
+of the Reference Manual.
+DOUBLE COUNTING
+In situations where a country has
+difficulty in distinguishing whether an
+emission is energy, or industrial
+based, to avoid double counting of
+emissions, developers of emission
+inventories should take care not to
+include the same data in both
+categories.
+INDUSTRIAL PROCESSES
+2.2
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.2 
+General Methodology
+The general methodology employed to estimate emissions associated with
+each industrial process involves the product of activity level data, e.g.,
+amount of material produced or consumed, and an associated emission
+factor per unit of consumption/production according to:
+TOTALij   =   Aj x EFij
+where:
+TOTALij
+=
+the process emission (tonnes) of gas i from
+industrial sector j
+Aj
+=
+the amount of activity or production of process
+material in industrial sector j (tonnes/yr)
+EFij
+=
+the emission factor associated with gas i per unit
+of activity in industrial sector j (tonne/tonne)
+A number of mathematical steps may be involved in reducing more complex
+mathematical formulae to the simplified form of the equation above.  In
+cases where mathematical transformations are involved, justifications are
+presented in the reference manual.
+For certain industrial processes, more than one estimation methodology is
+presented here. The simplified approach is referred to as Tier 1, and the
+more detailed methodology as Tier 2. Recognising that data availability is
+often the main factor in estimating GHG emissions, several options are
+provided for certain industrial processes under Tier 1, as Tier 1a, 1b, 1c.
+More detailed discussion is given later.
+D a t a  S o u r c e s
+Often process emissions from certain industrial sectors are caused by
+emissions from a few plants in each country for which measurement data
+exist or may be collected. In these cases, emission estimates should be based
+on such data instead of the more generalised methodology. Even if
+measurements are not available, it is preferable to base calculation on plant-
+specific data.
+Many of the production data needed for emission estimation methods given
+in this workbook are available from the United Nations (1988) and from the
+US Bureau of Mines (1988) data sets. There is substantial overlap between
+US Bureau of Mines and the UN data sets, but the former is more complete.
+In some countries, national data may be available from appropriate
+government ministries.  In Canada, for example, a national data base is
+maintained by Statistics Canada.  Similar sources of standard production
+statistics may be available from national statistical publications.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.3
+2.3 
+Cement Production
+I n t r o d u c t i o n
+Carbon dioxide is produced during the production of clinker, an
+intermediate product from which cement is made.  High temperatures in
+cement kilns chemically change raw materials into cement clinker.  In a
+process called calcination or calcining, calcium carbonate is heated, forming
+lime and carbon dioxide.
+SO2 emissions will originate from sulphur in the fuel and in the clay raw
+material. The fuel emissions are counted as energy emissions while the SO2
+from the clay should be counted as non-combustion emissions.
+D a t a  S o u r c e s
+International cement production data are available from the United Nations
+(1988) and from the US Bureau of Mines (1988).  A trade association,
+European Cement Associations (CEMBUREAU) also publishes information
+(see CEMBUREAU, 1990, World Cement Market in Figures and World
+Statistical Review).  The Standard Nomenclature for Air Pollution (SNAP)
+numbers for cement are 30311 and 40612 (EMEP/CORINAIR,1996).
+2 . 3 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Because CO2 is emitted during clinker production (rather than cement
+production itself), emission estimates should be based on the lime content
+and production of clinker. Clinker statistics, however, may not be readily
+available in some countries.  If this is the case, cement production statistics
+can be used.
+Estimation of CO2 emissions from clinker production is accomplished by
+applying an emission factor, in tonnes of CO2 released per tonne of clinker
+produced, to the annual clinker output.
+2 . 3 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  S O 2
+Estimation of SO2 emissions from cement production is accomplished by
+applying an emission factor, in terms of SO2 released per tonne of cement
+produced, to the annual cement output. A non-combustion emission factor
+of 0.3 kg SO2/tonne cement has been calculated (see the Revised 1996 IPCC
+Guidelines for National Greenhouse Gas Inventories Reference Manual for
+sources).
+INDUSTRIAL PROCESSES
+2.4
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-1 CEMENT PRODUCTION  to enter data for this
+submodule.
+S T E P  1  E S T I M A T I N G  C O 2  E M I T T E D
+1 
+Enter the  Quantity of Clinker Produced in column A in tonnes.  If
+it is not available, estimate Quantity of Cement Produced.
+2
+For clinker production enter the Emission Factor of 0.5071 tonnes
+of CO2 per tonne of clinker produced in column B.  If the fraction
+(f) of lime in the clinker is known to be different from 0.646 then
+the emission factor can be converted as follows:
+Emission  Factor (t  CO2/t clinker)  =  0.5701 x (f) / 0.646
+For cement production enter the Emission Factor of 0.4985 tonnes
+of CO2 per tonne of cement produced in column B.  If the fraction
+(f) of lime in the cement is known to be different from 0.635 then
+the emission factor can be converted as follows:
+Emission Factor (t CO2/t cement) = 0.4985 x (f) / 0.635
+3
+Multiply column A by column B to obtain CO2 Emitted in tonnes of
+CO2, and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+S T E P  2  E S T I M A T I N G  S O 2  E M I T T E D
+1 
+Estimate Quantity of Cement Produced and enter this value in
+column A in tonnes.
+2
+Enter the Emission Factor in kg SO2/tonne cement in column B.  If
+no information on sulphur content and degree of absorption is
+available, enter a default of 0.3 kg SO2/tonne cement.
+3
+Multiply column A by column B to obtain SO2 Emitted in kg of SO2,
+and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams SO2, and
+enter this value in column D.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.5
+2.4 
+Lime Production
+I n t r o d u c t i o n
+The production of lime involves a series of steps comparable to those used
+in the production of Portland cement clinker.  These include quarrying the
+raw materials, crushing and sizing, calcining (i.e., high temperature heat
+processing ~ 1100° C) the raw materials to produce lime, hydrating the lime
+to calcium hydroxide followed by miscellaneous transfer, storage and
+handling operations.
+D a t a  S o u r c e s
+International lime production data are available from the United Nations
+(1988) and from the US Bureau of Mines (1988). The Standard
+Nomenclature for Air Pollution (SNAP) numbers for limestone and dolomite
+production are 30312 and 40613 (EMEP/CORINAIR, 1996).
+2 . 4 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Estimation of CO2 emissions from lime production is accomplished by
+applying an emission factor, in tonnes of CO2 released per tonne of lime
+produced, to the annual lime output. The emission factors are tabulated in
+Table 2-1.
+TABLE 2-1
+SUMMARY OF EMISSION FACTORS FOR LIME PRODUCTION
+Process
+Component
+Emission Factor
+Lime Kiln-Calcite Feed
+CO2
+0.79 tonnes CO2/tonne
+quicklime produced
+Lime Kiln-Dolomite Feed
+CO2
+0.91 tonnes CO2/tonne
+dolomitic lime produced
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-2 LIME  PRODUCTION to enter data for this submodule.
+E S T I M A T I N G  C O 2 E M I T T E D
+1 
+Estimate  Quantity of Lime Produced  by Lime Type and enter this
+value in column A in tonnes.
+2
+Enter the corresponding Emission Factor from Table 2-1 in
+column B in tonnes of CO2 per tonne of quicklime or dolomitic
+lime produced.
+DATA SOURCES
+Note that SNAP codes and emission
+factors are correct at the time of
+publication 
+of 
+this 
+Workbook.
+Readers should refer to the most
+recent edition of the UNECE/
+CORINAIR Guidebook for updated
+SNAP codes and emission factors.
+EMISSION FACTORS
+Emission factors  assume pure lime,
+but in some cases the purity may
+range from 85 to 95 per cent).  In
+these cases, the equations should be
+adjusted to account for the lime
+purity.
+INDUSTRIAL PROCESSES
+2.6
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+3
+Multiply column A by column B to obtain CO2 Emitted in tonnes of
+CO2, and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+the column to obtain the total CO2 Emitted.
+2.5 
+Limestone and Dolomite Use
+I n t r o d u c t i o n
+In industrial applications involving the heating of limestone or dolomite at
+high temperatures, CO2 is generated.
+D a t a  S o u r c e s
+International Limestone and Dolomite production data are available from the
+United Nations (1988) and from the US Bureau of Mines (1988). Limestone
+and dolomite use is not included in the Standard Nomenclature for Air
+Pollution (SNAP) (EMEP/CORINAIR, 1996).
+2 . 5 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Estimation of CO2 emissions from limestone use is accomplished by applying
+an emission factor, in kilograms of CO2 released per tonne of limestone, to
+the annual limestone use.
+Consumption of limestone or dolomite in tonnes per year is assumed to
+equal material mined (or dredged) plus material imported minus material
+exported.  Limestone or dolomite used for producing cement, lime and
+magnesium, agricultural activities and processes where CO2 is not generated
+should be excluded from this calculation.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-3 LIMESTONE AND DOLOMITE USE  to enter data for this
+submodule.
+E S T I M A T I N G  C O 2 E M I T T E D
+1
+Estimate Quantity of Limestone or Dolomite Used and enter these
+values in column A in tonnes.
+2
+For the calculation of CO2 emissions from limestone use, enter the
+Emission Factor of 440 kg of CO2 per tonne of limestone used in
+column B.  If the fractional purity (f) of limestone in CaCO3 per
+tonne of total raw material is known, the emission factor can be
+converted as follows:
+LIMESTONE USE
+CO2 from liming of agricultural soils
+should be reported in the Land-use
+Change 
+and 
+Forestry 
+Chapter.
+Limestone and dolomite used in
+cement and lime production should
+be reported under that industry
+sector. This section covers all other
+uses of limestone and dolomite
+which produce CO2 emissions.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.7
+Emission Factor (kg CO2/t limestone)   =   440 x (f )
+For the calculation of CO2 emissions from dolomite use, enter the
+emission factor of 477 kg of CO2 per tonne of dolomite used in
+column B.  If the fractional purity (f) of dolomite in CaCO3�MgCO3
+per tonne of total raw material is known, the emission factor can
+be converted as follows:
+Emission Factor (kg CO2/t dolomite)   =   477 x (f )
+3
+Multiply column A by column B to obtain CO2 Emitted in kilograms
+of CO2, and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CO2, and
+enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total CO2 emitted.
+2.6 
+Soda Ash Produc t ion and Use
+I n t r o d u c t i o n
+Carbon dioxide is emitted from the use of soda ash, and may be emitted
+during production, depending on the industrial process used to manufacture
+it.
+Emissions of CO2 from the production of soda ash vary substantially with
+the manufacturing process.  Four different processes may be used
+commercially to produce soda ash.  Three of these processes, monohydrate,
+sesquicarbonate and direct carbonation, are referred to as natural processes.
+The fourth, the Solvay process, is classified as a synthetic process.
+During the production process, trona (the principal ore from which natural
+soda ash is made) is calcined in a rotary kiln and chemically transformed into
+a crude soda ash.  Carbon dioxide and water are generated as by-products
+of this process.
+D a t a  S o u r c e s
+International soda ash production and use data are available from the United
+Nations (1988) and from the US Bureau of Mines (1988).  Soda ash
+production and use is not included in the Standard Nomenclature for Air
+Pollution (SNAP) (EMEP/CORINAIR, 1996).
+DOUBLE COUNTING
+In order to avoid double counting,
+CO2 emissions associated with the
+use of coke in soda ash production
+should be accounted for separately
+and those emissions associated with
+the 
+non-energy 
+use 
+of 
+coke
+subtracted from the totals in the
+combustion section.
+INDUSTRIAL PROCESSES
+2.8
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-4 SODA ASH PRODUCTION  AND USE  to enter data for this
+submodule.  There is no methodology available to estimate CO2 emission
+from the Solvay Process.
+S T E P  1   E S T I M A T I N G  C O 2 E M I T T E D  F R O M
+S O D A  A S H  P R O D U C T I O N  [ N A T U R A L
+P R O C E S S ]
+1
+Estimate Quantity of Trona Utilised and enter this value in column
+A in tonnes.
+2
+Enter the Emission Factor of 0.097 tonnes of CO2 per tonne of
+trona in column B.
+3
+Multiply column A by column B to obtain CO2 Emitted in tonnes of
+CO2, and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+S T E P  2  E S T I M A T I N G  C O 2 E M I T T E D  F R O M
+S O D A  A S H  U S E
+1 
+Estimate Quantity of Soda Ash Used and enter this value in column
+A in tonnes.
+2
+Enter the Emission Factor of 415 kilograms of CO2 per tonne of
+soda ash used in column B.
+3
+Multiply column A by column B to obtain CO2 Emitted in kilograms
+of CO2, and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CO2, and
+enter this value in column D.
+2.7 
+Produc t ion and Use of
+Misc ellaneous Mineral Product s
+I n t r o d u c t i o n
+Greenhouse gas emissions and ozone and aerosol precursor emissions
+resulting from asphalt roofing production, road paving with asphalt, the
+manufacture of other mineral products such as concrete pumice stone, and
+glass manufacture are addressed in this section.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.9
+D a t a  S o u r c e s
+International production data are available from the United Nations (1988)
+and from the US Bureau of Mines (1988). The Standard Nomenclature for
+Air Pollution (SNAP) code for; asphalt roofing is 40610 (asphalt blowing is
+60310); road paving is 40611; and flat and container glass are 33014 and
+33015 respectively (EMEP/CORINAIR, 1996).
+2 . 7 . 1  A s p h a l t  R o o f i n g  P r o d u c t i o n
+2 . 7 . 1 . 1  M e t h o d o l o g y  
+F o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N M V O C  a n d  C O
+Emissions from asphalt roofing production can be estimated from the
+national total mass of products.  The emission factors in Table 2-2, given in
+the EMEP/CORINAIR Guidebook (SNAP 40610) are default factors.
+TABLE 2-2
+EMISSION FACTORS FOR ASPHALT ROOFING PRODUCTION (KG/TONNE PRODUCT)a
+Emission Factor
+(Saturation with Spray)
+Emission Factor
+(Saturation without Spray)
+NMVOC
+0.13 - 0.16
+0.046 - 0.049
+CO
+NAV
+0.0095
+NAV = Not Available
+a  There are no data available for the emission of CO from a process in which the
+saturation includes a spray section.  It was assumed that the emission would be the same
+as from a process with a dip saturator only.
+Asphalt blowing is the process of polymerising and stabilising asphalt to
+improve its weathering characteristics.  This activity leads to emissions of
+NMVOC.  The emission factors in Table 2-3, given in the EMEP/CORINAIR
+Guidebook, are default factors.  It may be assumed that all of the asphalt
+used for non-paving use will be blown.
+TABLE 2-3
+EMISSION FACTORS FOR ASPHALT BLOWING PROCESS (KG/TONNE PRODUCT)
+Emission Factor
+(with Afterburners)
+Emission Factor
+(No Control)
+NMVOC
+0.1
+2.4
+INDUSTRIAL PROCESSES
+2.10
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2 . 7 . 2  R o a d  P a v i n g  w i t h  A s p h a l t
+I n t r o d u c t i o n
+Asphalt road surfaces are composed of compacted aggregate and asphalt
+binder.  NMVOC is emitted from the asphalt plant during manufacture, the
+road surfacing operations and the subsequent road surface.
+2 . 7 . 2 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N M V O C
+The emissions of NMVOC depend on the type of asphalt (slow, medium or
+rapid cure) and the amount of diluent.  A default emission factor of 320 kg of
+NMVOC per tonne of road surface is suggested (see the Revised 1996 IPCC
+Guidelines for National Greenhouse Gas Inventories Reference Manual for
+sources).  The amount of diluent used is usually lower in warm countries
+than in colder ones, and hence lower emission factors may be expected in
+warm countries.
+2 . 7 . 3  P r o d u c t i o n  
+o f  
+O t h e r  
+M i n e r a l
+P r o d u c t s
+I n t r o d u c t i o n
+There may be several other mineral production processes emitting
+pollutants.  These are probably not significant sources on a global scale, but
+may be significant on a national or local scale.  There is generally limited
+information on emissions available from these processes.
+2 . 7 . 3 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  f r o m  O t h e r  M i n e r a l
+P r o d u c t s  ( N M V O C  a n d  S O 2 )
+C o n c r e t e  P u m i c e  S t o n e  P r o d u c t i o n
+The production of concrete pumice stone is similar to cement production in
+that SO2 emissions will originate from the fuel use and the sulphur in clay.
+About 45 per cent of the SO2 generated in the process will be sequestered
+in the product.  An emission factor of approximately 0.5 kilograms SO2
+/tonne product should be adopted where no plant specific information is
+available (see the Revised 1996 IPCC Guidelines for National Greenhouse Gas
+Inventories Reference Manual for sources).
+G l a s s  P r o d u c t i o n
+NMVOC may be emitted from the production of glass.  An emission factor
+of 4.5 kg per tonne of product has been derived (see the Revised 1996 IPCC
+CONVERSION FACTOR
+If the tonnes of asphalt paved is not
+known but rather the area paved, a
+conversion 
+factor 
+of 
+100 
+kg
+asphalt/m
+2 road surface may be used.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.11
+Guidelines for National Greenhouse Gas Inventories Reference Manual for
+sources).
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-5, PRODUCTION AND USE OF MISCELLANEOUS MINERAL
+PRODUCTS  to enter data for this submodule.
+S T E P  1  E S T I M A T I N G  N M V O C  E M I T T E D
+F R O M  A S P H A L T  R O O F I N G  P R O D U C T I O N
+1 
+Estimate the Quantity of Asphalt Roofing Produced  and enter this
+value in column A in tonnes.
+2
+For saturation processes, enter the corresponding Emission Factor
+from Table 2-2 in column B.
+For asphalt blowing processes, enter the corresponding Emission
+Factor from Table 2-3 in column B
+3
+Multiply column A by column B to obtain NMVOC Emitted in
+kilograms of NMVOC, and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams NMVOC,
+and enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NMVOC Emitted.
+S T E P  2  E S T I M A T I N G  C O  E M I T T E D  F R O M
+A S P H A L T  R O O F I N G  P R O D U C T I O N
+1 
+Estimate the Quantity of Asphalt Roofing Produced and enter this
+value in column A in tonnes.
+2
+Enter the corresponding Emission Factor from Table 2-2 in
+column B.
+3
+Multiply column A by column B to obtain CO Emitted in kilograms
+of CO, and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CO, and
+enter this value in column D.
+S T E P  3  E S T I M A T I N G  N M V O C  E M I T T E D
+F R O M  R O A D  P A V I N G  W I T H  A S P H A L T
+1
+Estimate Quantity of Road Paving Material Used for each Emission
+Source in one year and enter this value in column A in tonnes.
+2
+Enter the Emission Factor of 320 kg NMVOC per tonne of asphalt
+paved in column B.
+3
+Multiply column A by column B to obtain NMVOC Emitted in
+kilograms of NMVOC, and enter this value in column C.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+INDUSTRIAL PROCESSES
+2.12
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+4
+Divide column C by 106 to convert to units of gigagrams of
+NMVOC Emitted, and enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NMVOC.
+S T E P  4  E S T I M A T I N G  N M V O C  E M I T T E D
+F R O M  G L A S S  P R O D U C T I O N
+1 
+Estimate the Quantity of Glass Produced by Glass Type and enter
+this value in tonnes in column A.
+2
+Enter the corresponding Emission Factor for glass production
+(default 4.5 kg NMVOC per tonne of product) in column B in
+kilograms of NMVOC per tonne of product produced.
+3
+Multiply column A by column B to obtain NMVOC Emitted in
+kilograms of NMVOC and enter this value in column C.
+4  
+Divide column C by 106 to convert to units of gigagrams of
+NMVOC, and enter this value in column D.
+5
+Sum the values in column D and enter the result in the bottom of
+that column to obtain the total NMVOC Emitted.
+S T E P  5  E S T I M A T I N G  S O 2  E M I T T E D  F R O M
+C O N C R E T E  S T O N E
+1 
+Estimate the Quantity of Concrete Pumice Stone Produced and
+enter this value in tonnes in column A.
+2
+Enter the Emission Factor for concrete pumice stone production
+(default 0.5 kg SO2 per tonne of product) in column B in kilograms
+of SO2 per tonne of product produced.
+3
+Multiply column A by column B to obtain SO2 Emitted in kilograms
+of SO2 and enter this value in column C.
+4  
+Divide column C by 106 to convert to units of gigagrams SO2 and
+enter this value in column D.
+2.8 
+Ammonia Production
+I n t r o d u c t i o n
+In most instances, anhydrous ammonia is produced by catalytic steam
+reforming of natural gas (mostly CH4) or other fossil fuels.  Natural gas is
+used as the feedstock in most plants, while other fuels (e.g., heavy oils) may
+be used with the partial oxidation process.  Hydrogen is chemically
+separated from the fuel and combined with nitrogen to produce ammonia
+(NH3).  The remaining carbon is eventually emitted as CO2.
+Emissions of NOx, NMVOC, CO and SO2 may also occur during ammonia
+production.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.13
+D a t a  S o u r c e s
+There will usually be only a few ammonia plants in a country, and it is
+recommended that emissions be estimated based on plant specific data
+and/or point source methods.  International production data are available
+from the United Nations (1988) and from the US Bureau of Mines (1988).
+The Standard Nomenclature for Air Pollution (SNAP) number for ammonia
+production is 40403 (EMEP/CORINAIR, 1996).
+2 . 8 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2
+Emissions of CO2 will depend on the amount and composition of gas (or oil)
+used in the process.  It is assumed that all carbon will be emitted to the
+atmosphere.
+The most accurate method of estimation will be based on the consumption
+of gas.  The carbon content of natural gas may vary, and it is recommended
+that this be determined for each plant.  For example, data from Canada (see
+the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories
+Reference Manual for sources) provide the values 812 m3 gas/tonne NH3 and
+0.525 kg carbon/m3 gas.
+If the gas consumption is not available, an alternative is to calculate the
+emissions from the ammonia production.  The recommended emission
+factor is 1.5 tonnes CO2 per tonne NH3 produced which excludes gas used
+as a fuel (see the Revised 1996 IPCC Guidelines for National Greenhouse Gas
+Inventories Reference Manual for sources).  Gas used as a fuel must be
+excluded if other data are going to be used for emission factors. This figure
+depends on the carbon content in the feedstock.
+The CO2 from ammonia production may also be used for producing urea or
+dry ice.  This carbon will only be stored for a short time.  Therefore, no
+account should consequently be taken for intermediate binding of CO2 in
+downstream manufacturing processes and products.
+2 . 8 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N M V O C ,  C O  a n d
+S O 2
+Default emission factors for uncontrolled emissions from the plant are found
+in Table 2-4.
+TABLE 2-4
+EMISSION FACTORS FOR AMMONIA PRODUCTION (KG/TONNE PRODUCT)
+TOCa
+CO
+SO2
+4.7
+7.9
+0.03
+aTotal organic compounds.
+DOUBLE COUNTING
+In order to avoid double counting,
+the quantities of oil or gas used must
+be subtracted from the quantity
+reported under energy and non-
+energy use in the Energy Chapter.
+INDUSTRIAL PROCESSES
+2.14
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+The production of ammonia may be a source of NOx.  However, due to the
+lack of data for estimating NOx emissions, a method for estimating emissions
+is not recommended here.
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-6 AMMONIA PRODUCTION  to enter data for this
+submodule.  Two methods are presented for estimating CO2 Emitted: Tier
+1a - Estimation from Gas Consumption and Tier 1b - Estimation from
+Ammonia Production.
+Tier 1a - Based on Gas Consumption
+S T E P  1  E S T I M A T I N G  C O 2  E M I T T E D
+1
+Obtain an estimate of the Amount of Gas Consumed in m3 during
+the production of ammonia and enter this value in column A. If
+these data are not available proceed to Tier 1b: Estimation from
+Ammonia Production.
+2
+Enter the Carbon Content of Gas, in units of kg carbon per m3 gas,
+in column B.
+3
+Multiply column A by column B and the Conversion Ratio in
+column C (the ratio of molecular weights between CO2 and
+carbon), to obtain CO2 Emitted in kg of CO2, and enter this value
+in column D.
+4
+Divide column D by 106 to convert to units of gigagrams CO2, and
+enter this value in column E.
+Tier 1b - Based on Ammonia Production
+S T E P  2  E S T I M A T I N G  C O 2  E M I T T E D
+1
+Obtain an estimate of the Amount of  Ammonia Produced in tonnes
+and enter this value in column A.
+2
+Enter the corresponding Emission Factor in column B in tonnes
+CO2 per tonne of ammonia produced.  The default emission factor
+is 1.5 t CO2/t NH3 produced.
+3
+Multiply column A by column B to obtain CO2 Emitted in tonnes of
+CO2, and enter this value in column C.
+4
+Divide column C by 103 to convert to units of gigagrams CO2, and
+enter this value in column D.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.15
+S T E P  3  E S T I M A T I N G  N M V O C ,  C O  A N D  S O 2
+E M I T T E D
+1
+Obtain an estimate of the Amount of Ammonia Produced in tonnes,
+and enter this value in column A for each pollutant, NMVOC, CO
+and SO2.
+2
+Enter the corresponding Emission Factor for each pollutant
+NMVOC, CO and SO2 as given in Table 2-4, in column B in kg per
+tonne of ammonia produced.
+3
+Multiply column A by column B to obtain Pollutant Emitted in kg,
+and enter the corresponding value for each pollutant NMVOC, CO
+and SO2 in column C.
+4
+Divide column C by 106 to convert to units of gigagrams for each
+pollutant NMVOC, CO and SO2, and enter this value in column D.
+2.9 
+Nitric Acid Production
+I n t r o d u c t i o n
+The production of nitric acid (HNO3) generates nitrous oxide (N2O) as a
+by-product of the high temperature catalytic oxidation of ammonia (NH3).
+D a t a  S o u r c e s
+There are usually only a few plants in each country producing nitric acid, so
+measured data on emissions are often available.  These data also take into
+account the effect of any abatement technology installed at the specific
+plants. The Standard Nomenclature for Air Pollution (SNAP) number for
+nitric acid production is 40402 (EMEP/CORINAIR, 1996).
+2 . 9 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N 2 O
+Emissions should be calculated from production data of nitric acid within a
+country, and specific emission figures based on the actual technology.  Table
+2-5 gives examples of emissions factors from nitric acid production plants,
+based on measurements. Emission rates depend upon technology and
+operating conditions.
+INDUSTRIAL PROCESSES
+2.16
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+TABLE 2-5
+EMISSION FACTORS FOR N2O FROM NITRIC ACID PRODUCTION
+Emission Factor
+kg N2O/tonne nitric acid
+USA
+2-9 a
+Norway: - modern, integrated plants
+<2
+- atmospheric pressure plants
+4-5
+- medium pressure plants
+6-7.5
+Japan
+2.2-5.7
+a Emission factors up to 19 kg N2O/tonne nitric acid have been reported for plants
+not equipped with non-selective catalytic reduction technology (NSCR) (see NGGI
+Reference in the Revised 1996 IPCC Guidelines Manual for sources).
+2 . 9 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N O x
+Nitric acid is produced from the catalytic oxidation of ammonia. In addition
+to the N2O emissions described previously, there may be non-combustion
+emissions of NOx.
+Emissions are estimated from the amount of nitric acid produced. The
+emission factor is multiplied by the production of nitric acid.  Table 2-6
+provides estimates of emission factors for NOx.  A value of 12.0 kg
+NOx/tonne nitric acid should be used where the process and technology
+details are not known.
+TABLE 2-6
+EMISSION FACTORS FOR NOX FROM NITRIC ACID PRODUCTION
+Process
+Emission Factor
+kg NOx/t nitric acid
+Strong Acid Production
+0.1 - 1
+Low Pressure Process
+10 - 20
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-7 NITRIC ACID PRODUCTION to enter data for this
+submodule.
+E S T I M A T I N G  N 2 O   A N D  N O X  E M I T T E D
+1
+Obtain an estimate of the Amount of Nitric Acid Produced in
+tonnes and enter this value in column A.
+2
+Enter the corresponding Emission Factor for each pollutant  in kg
+pollutant per tonne of nitric acid produced in column B. For the
+appropriate emission factor see Table 2-5  for N2O and Table 2-6
+for NOx.
+EMISSION FACTORS
+When no measured data exist, the
+emissions 
+are 
+estimated 
+by
+multiplying the emission factor by
+the production 
+quantity. 
+ 
+The
+specific emission factors at the upper
+end of the appropriate range should
+be chosen.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.17
+3
+Multiply column A by column B to obtain Pollutant  Emitted in kg
+and enter this value in column C for each pollutant.
+4
+Divide column C by 106 to convert to units of gigagrams for each
+pollutant, and enter this value in column D.
+2.10 Adipic Acid Production
+I n t r o d u c t i o n
+Adipic 
+acid 
+is 
+a 
+dicarboxylic 
+acid 
+manufactured 
+from 
+a
+cyclohexanone/cyclohexanol mixture oxidised by nitric acid.  N2O is
+generated as a by-product of the oxidation stage.
+Adipic acid production also results in emissions of NOx, NMVOC and CO.
+Process emissions from the production of adipic acid vary substantially with
+the level of emission control employed.
+D a t a  S o u r c e s
+International production data are available from the United Nations (1988)
+and from the US Bureau of Mines (1988). The Standard Nomenclature for
+Air Pollution (SNAP) number for adipic acid production is 40521
+(EMEP/CORINAIR, 1996).
+2 . 1 0 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N 2 O
+Adipic acid production produces N2O at a rate (for unabated emissions) of
+300g N2O/kg adipic acid produced.
+2 . 1 0 . 2  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  N O x ,  N M V O C  a n d
+C O
+The EMEP/CORINAIR Guidebook indicates that there may be emissions of
+NOX, NMVOC and CO in addition to N2O, but does not propose emission
+factors at present.  US EPA emission factors are given in Table 2-7 (see the
+Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories Reference
+Manual for sources).
+TABLE 2-7
+ EMISSION FACTORS FOR ADIPIC ACID PRODUCTION (KG/TONNE PRODUCT)
+NOX
+NMVOC
+CO
+8.1
+43.3
+34.4
+TECHNOLOGY ABATEMENT
+There is a range of abatement
+efficiencies attainable with currently
+available 
+technologies. 
+ 
+Any
+reduction in N2O emissions due to
+the installation of abatement systems
+should be assessed on a plant-
+specific basis where possible.
+INDUSTRIAL PROCESSES
+2.18
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-8 ADIPIC ACID PRODUCTION to enter data for this
+submodule.
+E S T I M A T I N G  N 2 O ,  N O X ,  N M V O C  A N D  C O
+E M I T T E D
+1
+Obtain an estimate of the Amount of Adipic Acid Produced in
+tonnes and enter this value in column A.
+2
+Enter the corresponding Emission Factor, in kg pollutant per tonne
+of adipic acid produced, in column B. For N2O,  a default value of
+300 kg N2O/t adipic acid produced can be used. For NOx, NMVOC
+and CO, see Table 2-7 for default emission factors.
+3
+Multiply column A by column B to obtain Pollutant Emitted in kg
+and enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams of
+pollutant, and enter this value in column D for each pollutant.
+2.11 Carbide Production
+I n t r o d u c t i o n
+The production of carbide can result in emissions of CO2, CH4, CO and
+SO2.
+D a t a  S o u r c e s
+International production data are available from the United Nations (1988)
+and from the US Bureau of Mines (1988).  Carbide manufacturing is not
+included in the Standard Nomenclature for Air Pollution (SNAP)
+(EMEP/CORINAIR, 1996).
+2 . 1 1 . 1  M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g
+E m i s s i o n s  o f  C O 2  a n d  C H 4  f r o m
+S i l i c o n  C a r b i d e  P r o d u c t i o n
+C O 2  E m i s s i o n s
+In the production of silicon carbide, CO2 is released as a by-product from a
+reaction between quartz and carbon.  Petrol coke is used as a carbon
+source.  A typical emission factor based on Norwegian plants, is 2.3 tonnes
+CO2/tonne coke.
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.19
+C H 4  E m i s s i o n s
+The petrol coke used in this process may contain volatile compounds which
+will form CH4.  Some of this CH4 will escape to the atmosphere, particularly
+during start up.  Measurements at Norwegian plants suggest emission factors
+of 10.2 kg CH4/tonne petrol coke or 11.6 kg CH4/tonne carbide product.
+2 . 1 1 . 2  M e t h o d o l o g y  f o r  E s t i m a t i n g
+E m i s s i o n s  o f  C O 2  f r o m  C a l c i u m
+C a r b i d e  P r o d u c t i o n
+Calcium carbide is made by heating calcium carbonate (CaCO3) and
+subsequently reducing lime (CaO) with carbon (e.g., petrol coke).  Both
+steps lead to emissions of CO2.
+The emission factors in Table 2-8 are suggested for estimating emissions.
+Emissions may be calculated from the use of raw materials (limestone and
+coke).  Limestone contains about 98 per cent CaCO3.  1750 kg limestone
+(or 950 kg CaO) and 640 kg reducing agent (including 20 kg carbon
+electrodes) are required to produce 1 tonne of carbide.
+TABLE 2-8
+EMISSION FACTORS FOR CO2 FROM CALCIUM CARBIDE
+Limestone
+0.76
+tonnes CO2/tonne carbide
+Reduction
+1.090
+tonnes CO2/tonne carbide
+Use of product
+1.100
+tonnes CO2/tonne carbide
+C o m p l e t i n g  t h e  W o r k s h e e t
+Use WORKSHEET 2-9 CARBIDE PRODUCTION - to enter data for this
+submodule.  If the quantity of coke consumed is not known, CO2 emissions
+can be estimated from carbide production data.  See method presented for
+calcium carbide production.
+For CH4 emissions from Silicon Carbide,  two methods are presented:
+• Tier 1a which is based on consumption of petrol coke; and,
+• Tier 1b which is based on carbide production data for silicon.
+S i l i c o n  C a r b i d e
+S T E P  1  E S T I M A T I N G  C O 2  E M I T T E D  F R O M
+S I L I C O N  C A R B I D E  P R O D U C T I O N
+1 
+Obtain an estimate of the Consumption Of Coke in tonnes and
+enter this value in column A.
+2 
+Enter the Carbon Content in Coke (in per cent) in column B. A
+default value of 97 per cent can be used.
+CALCIUM CARBIDE
+Note that the CaO (lime) might not
+be produced at the carbide plant. In
+this case, the emissions from the
+CaO step should be reported as
+emissions from lime production
+(Section 2.4) and only the emissions
+from the reduction step and use of
+the product should reported as
+emissions 
+from 
+calcium 
+carbide
+manufacture.
+USING THE WORKSHEET
+•
+Copy the Worksheet at the end
+of this section to complete the
+inventory.
+•
+Keep 
+the 
+original 
+of 
+the
+Worksheet blank so you can
+make 
+further 
+copies 
+if
+necessary.
+INDUSTRIAL PROCESSES
+2.20
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+3 
+Enter the Carbon Input Sequestered in Product (in per cent) in
+column C.  If no other data are available, a value of 35 per cent can
+be used.
+4 
+Multiply column A by column B and by 100 minus column C, and
+the factor 3.67 x 10-4 to obtain CO2 Emitted in tonnes, and enter
+this value in column D.
+5 
+Divide column D by 103 to convert to units of gigagrams CO2, and
+enter this value in column E.
+Tier 1a - Based On Petrol Coke Consumption
+S T E P  2  E S T I M A T I N G  C H 4  E M I T T E D  F R O M
+S I L I C O N  C A R B I D E  P R O D U C T I O N  -  T I E R  1 a
+1
+Obtain an estimate of the Amount of  Petrol Coke Consumed in
+tonnes and enter this value in column A.
+2
+Enter the corresponding  Emission Factor, in kg CH4 per tonne of
+petrol coke consumed, in column B.  The suggested emission factor
+is 10.2 kg CH4/tonne petrol coke if no other information is
+available.
+3
+Multiply column A by column B to obtain CH4 Emitted in kg and
+enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CH4, and
+enter this value in column D.
+Tier 1b - Based On Silicon Carbide Production
+S T E P  3  E S T I M A T I N G  C H 4  E M I T T E D  F R O M
+S I L I C O N  C A R B I D E  P R O D U C T I O N -  T I E R  1 b
+1
+Obtain an estimate of the Amount of Silicon Carbide Produced in
+tonnes and enter this value in column A.
+2
+Enter an Emission Factor, in kg CH4 per tonne of carbide produced,
+in column B.  An emission factor of 11.6 kg CH4/tonne carbide
+product can be used if no other information is available.
+3
+Multiply column A by column B to obtain CH4 Emitted in kg, and
+enter this value in column C.
+4
+Divide column C by 106 to convert to units of gigagrams CH4, and
+enter this value in column D.

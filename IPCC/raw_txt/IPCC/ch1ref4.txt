@@ -1,0 +1,2286 @@
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.61
+TABLE 1-23
+RESIDENTIAL AND COMMERCIAL EMISSION CONTROLS PERFORMANCE
+Technology
+Efficiency
+Loss(a)
+(%)
+CO
+Reduction
+(%)
+CH4
+Reduction
+(%)
+NOx
+Reduction
+(%)
+N2O
+Reduction
+(%)
+NMVOCs
+Reduction
+(%)
+Date
+Available(b)
+Catalytic Woodstove
+-44
+90
+90
+-27
+NAV
+NAV
+1985
+Non-Catalytic Modified
+Combustion Stove
+-30
+15
+50
+-5
+NAV
+NAV
+1985
+Flame Retention Burner Head
+-9
+28
+NAV
+NAV
+NAV
+NAV
+Controlled Mixed Burner
+Head
+-7
+43
+NAV
+44
+NAV
+NAV
+Integrated Furnace System
+-12
+13
+NAV
+69
+NAV
+NAV
+Blueray Burner/Furnace
+-12
+74
+NAV
+84
+NAV
+NAV
+M.A.N. Burner
+-13
+NAV
+NAV
+71
+NAV
+NAV
+1980
+Radiant Screens
+-7
+62
+NAV
+55
+NAV
+NAV
+Secondary Air Baffle
+NAV
+16
+NAV
+40
+NAV
+NAV
+Surface Comb. Burner
+NAV
+55
+NAV
+79
+NAV
+NAV
+Amana HTM
+-21
+-55
+NAV
+79
+NAV
+NAV
+Modulating Furnace
+-7
+NAV
+NAV
+32
+NAV
+NAV
+Pulse Combuster
+-36
+NAV
+NAV
+47
+NAV
+NAV
+Catalytic Combuster
+-29
+NAV
+NAV
+86
+NAV
+NAV
+Replace Worn Units
+NAV
+65
+NAV
+NAV
+NAV
+NAV
+Tuning, Seasonal Maintenance
+-2
+16
+NAV
+NAV
+NAV
+NAV
+Reduced Excessive Firing
+-19
+14
+NAV
+NAV
+NAV
+NAV
+Reduced Excessive Firing with
+New Retention Burner
+-40
+14
+NAV
+NAV
+NAV
+NAV
+Positive Chimney Dampers
+-8
+11
+NAV
+NAV
+NAV
+NAV
+Increased Thermostat
+Anticipator
+-1
+43
+NAV
+NAV
+NAV
+NAV
+Night Thermostat Cutback
+-15
+17
+NAV
+NAV
+NAV
+NAV
+Low Excess Air
+-0.8
+NAV
+NAV
+15
+NAV
+NAV
+1970
+Flue Gas Recirculation
+0.6
+NAV
+NAV
+50
+NAV
+NAV
+1975
+Over-fire Air
+1
+NAV
+NAV
+20-30
+NAV
+NAV
+1970
+Low NOx Burners
+0.6
+NAV
+NAV
+40-50
+NAV
+NAV
+1980
+(a) Efficiency loss as a percentage of end-user energy conversion efficiency (ratio of energy output to energy input for each
+technology) due to the addition of an emission control technology.  Negative loss indicates an efficiency improvement.
+(b) Date technology is assumed to be commercially available.
+Source:  Radian, 1990.
+ENERGY
+1.62
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-24
+NET CALORIFIC VALUES FOR PRECEDING TABLES(a)
+(THESE VALUES SHOULD NOT BE USED TO CALCULATE INVENTORIES, SEE NOTE BELOW)
+Fuel
+Net Calorific Value
+(TJ/kilotonne)
+GAS
+     Butane
+44.4
+     Propane
+47.1
+     Natural Gas
+52.3
+LIQUID
+     Crude Oil
+40.9
+     Crude Shale Oil
+42
+     Diesel/Distillate
+42.9
+     Gasoline
+46.5
+     Residual Oil
+42
+SOLID
+     Bagasse/Agriculture
+8.8
+     Bituminous Coal
+28.7
+     Anthracite
+27.2
+     Lignite
+15.9
+     MSW
+10.7
+     Wood
+11.5
+NOTE:  These values are given for information only and refer to the preceding tables.
+They should not be used by countries to convert energy data to TJ for the inventories.
+The default net calorific values used in the Guidelines have not been changed and can be
+found in the Reference Manual Tables I-2 and 1-3.
+Source: US EPA (1995).
+(a) Values in preceding tables were originally based on gross calorific value; they were converted to net
+calorific value by assuming that net calorific values were 5 per cent lower than gross calorific values for
+coal and oil, and 10 per cent lower for natural gas.  These percentage adjustments are the OECD/IEA
+assumption on how to convert from gross to net calorific values.
+1 . 5 . 3 M o b i l e  C o m b u s t i o n
+1 . 5 . 3 . 1
+O V E R V I E W
+Emissions of greenhouse gases from mobile sources, including carbon dioxide (CO2),
+carbon monoxide (CO), nitrogen oxides (NOx), methane (CH4), nitrous oxide (N2O)
+and non-methane volatile organic compounds (NMVOCs) are most easily estimated by
+major transport activity, i.e., road, air, rail, and ships.  However, as road transport and
+aviation account for the majority of mobile-source fuel consumption (e.g., 82 per cent in
+1988 for the OECD), followed by air transport (about 13 per cent), greater priority has
+been attached to the development of emission models and inventories for road vehicles
+and aircraft.
+The diversity of the types of mobile source and the range of characteristics which affect
+emission factors are amply demonstrated by the tables included in this section for both
+road and air transport.  Recent work has both updated and strengthened the data given
+and a fuller methodology for estimating aircraft emissions has been introduced based
+upon the EMEP/CORINAIR work in this field.  Despite these advances more work is
+needed to fill in many gaps in knowledge of emissions from certain vehicle types and on
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.63
+the effects of ageing on catalytic control of road vehicle emissions.  Equally, there is very
+little information on the appropriate emission factors for road transport in developing
+countries where age of fleet, maintenance and patterns of use are different from those in
+industrialised countries.
+It should be recalled that transport is a significant source of CO2 emissions and emission
+factors for CO2 emissions are provided in the following tables to permit the estimation of
+CO2 at this detailed level.
+1 . 5 . 3 . 2
+R E C O M M E N D E D  M E T H O D O L O G Y
+Estimation of mobile source emissions is a very complex undertaking that requires
+consideration of many parameters, including:
+•
+transport class
+•
+fuel consumed
+•
+operating characteristics
+•
+emission controls
+•
+maintenance procedures
+•
+fleet age
+The need for data on several parameters and the wide variety of conditions that can
+affect the performance of each category of mobile source makes it very difficult to
+generalise their emission characteristics.  Also, within the transport sector, the primary
+measure of activity is less likely than in other sectors to be fuel consumption.
+The underlying general emissions model may be expressed as:
+Emissions =  ∑ (EFabc x Activityabc)
+where:
+EF
+=
+emission factor
+Activity
+=
+amount of energy consumed or distance travelled for a given
+mobile source activity
+a
+=
+fuel type (diesel, gasoline, LPG, bunker, etc.)
+b
+=
+vehicle type (e.g., passenger, light-duty or heavy-duty for road
+vehicles)
+c
+=
+emission control
+which implies the following steps:
+•
+Determine the amount of energy consumed by fuel type for the major transport
+modes using national data or, as an alternative, IEA or UN international data sources
+(all values should be reported in terajoules).
+•
+For each fuel type, determine the amount of energy that is consumed by each
+vehicle type, e.g., light-duty gasoline vehicles, etc. (all units are in terajoules).  If
+distance travelled is the activity measure, determine the total distance travelled by
+each vehicle type.  In this case, the energy consumption associated with these
+distance travelled figures should be calculated and aggregated by fuel for comparison
+ENERGY
+1.64
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+with national energy balance figures.  If necessary, further subdivide each vehicle type
+into uncontrolled and key classes of emission control technology.
+•
+Multiply the amount of energy consumed, or the distance travelled by each category
+of vehicle or vehicle/control technology, by the appropriate emission factor for that
+category.  Data presented in the next section (Emission Factors) can be used as a
+starting point.  However, national experts are encouraged to consult other data
+sources referenced in this chapter or locally available data before determining
+appropriate factors for a particular country.
+•
+Emissions of each pollutant can be summed across all categories of fuel and
+technology type, including for all levels of emission control, to determine total
+emissions from mobile source-related activities.
+Emission Factors
+The tables given for road transport summarise results of a detailed analysis of mobile-
+source emission factors covering North American and European vehicles and conditions.
+Recently published work has permitted the updating of figures appearing in the 1995
+edition of the Guidelines.  The US emission factors for mobile sources, published in the
+1995 edition, were developed using the MOBILE4 model.  This was one of a series of
+emissions models developed and periodically updated by the US Environmental Protection
+Agency for use in its analysis of motor vehicle regulatory and policy issues.  The MOBILE4
+model is now out of date.  Since the analysis done in 1991, several improvements have
+been based on new information and vehicle testing results.  Emission factors developed
+using the latest version of the MOBILE model (MOBILE5a) are higher for most pollutants.
+The US tables included here contain this latest information.
+CO2 factors are derived from the carbon content of the fuels and therefore include the
+carbon present in other carbon molecule based emissions.
+The European data are drawn from the CORINAIR COPERT model.  However, for
+actual calculations of national emissions, users are encouraged to also consult a range of
+recent and more detailed information sources (see Data Sources in Section 1.5.1).
+Particularly for indirect GHGs, more comprehensive sources are available based on
+programmes outside the GHG emissions area.
+Emission factor estimates are presented for CO2, CO, NOx, N2O, CH4 and NMVOCs
+for several classes of non-road vehicles - railway locomotives, ships and boats, farm and
+construction equipment.
+This section on mobile sources also contains a more comprehensive explanation of a
+methodology for the estimation of emissions from aircraft and greater specificity of
+aircraft/engine emission factors for NOx.
+All emission factor data are stated on the basis of full molecular weight of the respective
+pollutant; NOx factors are stated as NO2.
+Emission Factors for Mobile Sources in Developing Countries
+In highly populated developing countries the estimated emissions per kilometre travelled
+should be altered.  First, there are virtually no catalytic converters on the vehicles.
+Second, the number of accelerations and decelerations that the vehicle will undergo is
+much larger than for corresponding travel in countries that are less populated and have
+well arranged highway systems.  The measured pollutant value of NOx in an engine at
+constant rpm conditions is about 1.0 g/MJ for the United States and for Europe.
+However, for highly populated developing countries 1.8 g/MJ should be used.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.65
+Further  information on emission factors for developing countries is available from
+Riveros et. al (1995), Bose (1996) and other sources listed in the bibliography.
+1 . 5 . 3 . 3
+R O A D  V E H I C L E S
+United States Emission Estimates
+Technical Approach
+The US emissions estimates for NOx, CO, CH4 and NMVOC from highway vehicles were
+developed directly from the US EPA’s MOBILE5a model.  The model calculates exhaust
+emission factors for gasoline and diesel fuelled US vehicles, based on the year in which
+they were manufactured.  For gasoline vehicles, it also calculates VOC emissions due to
+evaporative, running and refuelling losses (VOC emissions from diesel vehicles due to
+these causes are negligible).
+Assumptions
+To develop emission estimates for different control technology types, calculations were
+carried out for specific model years during which US vehicles were equipped with the
+technology in question.  Table 1-25 shows the correspondence between the technology
+types and the US model years used to represent them in the model.  Average lifetime
+emissions were calculated for each vehicle type based on their assumed lifetimes.  The
+model uses a two-step linear function to estimate deterioration rates from vehicle
+mileage.  Linear equations are fitted to vehicle emission estimates at 0 and 50 000 miles
+and 50 000 and 100 000 miles and from the results lifetime average factors were
+calculated.
+The emission factors calculated by MOBILE5a are affected by assumptions regarding
+average speeds, ambient temperature, diurnal temperature range, altitude and fuel
+volatility that are provided to the model.  They are also affected by the assumed presence
+or absence of inspection/maintenance (I/M) programmes and anti-tampering programmes
+as well as the type of I/M programme used.  The model calculates emission factors using
+three seasonal conditions: Spring/Fall, Winter and Summer.  The model was also run with
+three different I/M scenarios; no I/M programme, basic I/M and enhanced I/M.  Where I/M
+influences emissions, the emission factors given in the tables included here are shown as
+range estimates with the lower value representing the enhanced I/M and the upper value
+reflecting no I/M.  Since there is no I/M programme for diesel vehicles in the United
+States the diesel vehicle emission factors generated by the model for different I/M
+programmes were the same.  The average speed assumed by the model is 31.4 km/h -
+typical of uncongested urban driving (see Table 1-26).
+ENERGY
+1.66
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-25
+EMISSION CONTROL TECHNOLOGY TYPES AND US VEHICLE MODEL
+YEARS USED TO REPRESENT THEM
+Technology
+Model Year
+Gasoline Passenger Cars and Light Trucks
+Uncontrolled
+1964
+Non-catalyst controls
+1973
+Oxidation catalyst
+1978
+Early three-way catalyst
+1983
+Three-way catalyst
+1996
+Heavy-Duty Gasoline Vehicles
+Uncontrolled
+1968
+Non-catalyst control
+1983
+Three-way catalyst
+1996
+Diesel Passenger Cars and Light Trucks
+Uncontrolled
+1978
+Moderate control
+1983
+Advanced control
+1996
+Heavy-Duty Diesel Vehicles
+Uncontrolled
+1968
+Moderate control
+1983
+Advanced control
+1996
+Motorcycles
+Uncontrolled
+1973
+Non-catalyst controls
+1996
+TABLE 1-26
+ASSUMED AMBIENT TEMPERATURE, DIURNAL RANGE AND REID VAPOUR PRESSURE FOR
+DIFFERENT SEASONS
+Ambient
+Temperature
+(°°C)
+Diurnal Range
+(°°C)
+Reid Vapour Pressure
+(kPa)
+Spring/Fall
+16
+7 to 24
+62
+Winter
+2
+-7 to 10
+103
+Summer
+29
+21 to 38
+54
+The estimated vehicle fuel economies were also used to calculate fuel specific and energy
+specific emission factors for all of the pollutants.  Energy specific emission factors were
+based on the net calorific value of the fuel in each case.  Since emission and fuel
+consumption tend to vary in parallel (vehicles and operating modes causing high emission
+rates also tend to result in high fuel consumption, and vice-versa) these energy specific
+emission factors are expected to be more generally applicable than the factors in grams
+per kilometre and their use is to be preferred.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.67
+BOX 4
+LIMITATIONS OF MOBILE5A RESULTS
+Emission factors for many greenhouse gases from road vehicles have been
+developed using the MOBILE5a Model(a) as presented in Tables 1-27 to
+1-33.  This model is one of a series of emissions models developed and
+periodically updated by the US Environmental Protection Agency for use in
+its analysis of motor vehicle regulatory and policy issues.  The model has
+been used to derive average emission factors for NOx, CO, and NMVOC
+by class of vehicle and for gasoline and diesel fuel.  Calculations for other
+gases and for alternative fuels were done separately.
+All “global” average emission factors like these should be considered
+illustrative and should not be directly used in national emissions calculations.
+Such values are by necessity based on “global” average assumptions in
+several key areas.  Average emission factors by class of vehicle are sensitive
+to very specific assumptions including those about
+• 
+vehicle models, average age and accumulated mileage
+• 
+per cent driving in cold start, hot start and stabilised conditions
+• 
+average driving speed
+• 
+ambient temperature
+• 
+fuel comparison
+• 
+rates of tampering with control systems
+• 
+proper maintenance
+Obviously, many of these assumed conditions will vary significantly from
+country to country and even by region within countries.  For example, the
+light-duty gasoline vehicle class does not include two-stroke engines, which
+are not used in the United States, but are important in Central and Eastern
+Europe.  Therefore, “global” illustrative factors should not be used to
+calculate actual emissions in a specific country.
+For the above reasons, illustrative emission factors should not be
+directly used for national calculations.  National inventory experts should
+consult the more detailed references on mobile source emission factors and
+use these sources to develop or adapt emission factors which are
+appropriate for their specific conditions.  The expert group on GHG
+emissions from fuel combustion has identified the need for more detailed
+guidance and assistance to national experts on the development of locally
+applicable emission factors as a priority for future work.
+(a) The MOBILE5a Model and its User Guide can be obtained from Terry Newell, US EPA Office
+of Mobile Sources, 2565 Plymouth Road, Ann Arbor MI 48105, USA; tel: (313) 668-4462, Email:
+Newell.Terry@epamail.epa.gov or access the latest information on mobile sources on the world
+wide web at http://www.epa.gov/OMSWWW/omshome.htm.
+N2O emission from internal combustion engines is not well understood and data on
+emissions are scarce.  The 1995 edition of the Guidelines contained supplementary
+information used by the Canadian Government, based on a review of data available in
+1994 (Ballantyne et al., 1994).  The Canadian estimates show that N2O emissions from
+vehicles with three-way catalysts increased markedly during the first 15 to 20 000 km, so
+that earlier estimates based on tests of low mileage vehicles are too low.  These results
+are summarised in Box 5.  The US tables, included in this section, use the Canadian data
+to estimate N2O emissions from gasoline passenger cars.  For light-duty gasoline trucks
+and motorcycles, fuel specific N2O emissions were assumed to be the same as for the
+corresponding passenger car technology.  N2O emissions per kilometre were then
+ENERGY
+1.68
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+calculated from the fuel specific emissions and the fuel consumption characteristics for
+each class.
+In the absence of direct data, N2O emissions from heavy-duty gasoline trucks were
+estimated by assuming that their fuel specific emissions were similar to those for
+passenger cars with similar technology.  N2O emission factors for heavy-duty diesel trucks
+were derived from emissions for these vehicles reported by Dietzmann, Parness and
+Bradow (1980).  The corresponding fuel specific emission rates were used to estimate
+N2O emissions from light-duty diesel vehicles in the absence of information on this class.
+BOX 5
+RECENT INFORMATION ON N2O MEASUREMENTS
+Since the initial illustrative emission factors were estimated in 1991, a number of
+measurement studies have been carried out to improve understanding of vehicle N2O
+emissions.  A paper by Ballantyne, et al., (1994) summarised measurements in Canada,
+the United States and Europe.
+    Canadian
+US Measurements
+    European
+   Values Used in
+ Measurements
+    (Dasch, 1992)
+ Measurements
+       Canadian
+(Ballantyne, et al.,
+(De Soete, 1989)
+National Inventory
+       1994)
+mg/miles
+    g/km
+mg/miles
+    g/km
+mg/miles
+   g/km
+mg/miles
+g/km
+New three-way
+catalysts
+21-126
+0.013-0.078
+13-101
+0.008-0.06
+60-170
+0.037-0.106
+ 60
+0.04
+Aged three-way
+72-211
+0.045-0.131
+    -
+    -
+260-356
+0.162-0.221
+280
+0.17
+Oxidation
+catalyst
+    -
+    -
+ 3-66
+0.002-0.04
+  120
+     0.075
+120
+0.075
+No catalyst
+    -
+    -
+2.4-4.8
+0.001-0.003
+ 8-32
+0.005-0.02
+ 32
+0.02
+Results of this analysis are presented by categories defined by the US EPA as listed below:
+Table 1-27: Light-duty gasoline passenger cars - vehicles with rated gross weight less
+than 8 500 lb (3 855 kg) designed primarily to carry 12 or fewer passengers.  Six levels of
+gasoline-vehicle control technology are shown:
+1
+Uncontrolled (still typical of most vehicles around the world).
+2
+Non-catalyst emission controls - including modifications to ignition timing and air-
+fuel ratio to reduce emissions, exhaust gas recirculation (EGR), and air injection into
+the exhaust manifold.
+3
+Oxidation catalyst systems normally including many of the same techniques, plus a
+two-way catalytic converter to oxidise hydrocarbons and CO.
+4
+"Early" three-way catalyst results representative of vehicles sold in the United States
+in the early to mid-1980s, which were mostly equipped with carburettors having
+electronic "trim".
+5
+"Advanced" three-way catalyst values based on current US technology vehicles, using
+electronic fuel injection under computer control.
+6
+Low Emission Vehicles (LEV) are expected to include sequential multi-port fuel
+injection with adaptive learning, more sophisticated computer diagnostics and heated
+catalysts with secondary air injection.
+Table 1-28: Light-duty gasoline trucks -  vehicles having rated gross vehicle weight less
+than 8 500 lb (3 855 kg), and which are designed primarily for transportation of cargo or
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.69
+more than 11 passengers at a time, or which are equipped with special features for off-
+road operation. They include most pickup trucks, passenger and cargo vans, four-wheel
+drive vehicles, and derivatives of these.  The technology classifications used are the same
+as those for gasoline passenger vehicles.
+Table 1-29: Heavy-duty gasoline vehicles -  manufacturer's gross vehicle weight rating
+exceeding 8 500 lb (3 855 kg).  This includes large pickups, vans and specialised trucks
+using pickup and van chassis, as well as the larger "true" heavy-duty trucks, which have
+gross vehicle weights of eight short tons or more.  In the United States, the large pickups
+and vans in this category greatly outnumber the heavier trucks, so that the emission
+factors calculated by MOBILE5a, and fuel economy estimates, are more representative of
+these vehicles.  Three levels of emission control technology are shown:
+1
+Uncontrolled.
+2
+Non-catalyst emission controls, including control of ignition timing and air-fuel ratio
+to minimise emissions, EGR, and air injection into the exhaust manifold to reduce
+hydrocarbons and CO emissions.
+3
+Three-way catalyst technology presently used in the United States includes
+electronically-controlled fuel injection, EGR, air injection, and electronic control of
+ignition timing, as well as the catalyst itself.
+Table 1-30: Light-duty diesel passenger cars - a diesel passenger car designed primarily
+to carry fewer than 12 passengers, with gross vehicle weight less than 8 500 lb (3 855 kg).
+Three levels of emission control technology are shown:
+1
+Uncontrolled.
+2
+Moderate emissions control (achieved by changes in injection timing and combustion
+system design).
+3
+Advanced emissions control utilising modern electronic control of the fuel injection
+system, and exhaust gas recirculation.
+Table 1-31: Light-duty diesel trucks - light-duty diesel trucks defined like their gasoline
+counterparts, including weight, utility, and off-road operation features.  The technology
+classifications are the same as those for diesel passenger cars.
+Table 1-32: Heavy-duty diesel vehicles - the classification for heavy-duty diesel vehicles
+is the same as for gasoline vehicles, but the characteristics of US vehicle fleets are
+different.  Heavy-duty diesel vehicles are primarily large trucks, with gross vehicle weight
+ratings of 10 to 40 tons.  Therefore, the MOBILE5a emission factors are more
+representative of large trucks (and buses) than the smaller pickup and van-type vehicles,
+and this is reflected in the fuel economy estimates.  Three levels of control are presented:
+1
+Uncontrolled.
+2
+Moderate control (typical of 1983 US engines).
+3
+Advanced control (for engines meeting US 1991 emissions standards).
+Table 1-33: Motorcycles - The MOBILE5a emission factors for these vehicles are based
+on the US motorcycle population, which probably reflects higher average power ratings
+and fuel consumption than for many developing countries.  The factors for uncontrolled
+motorcycles include a mixture of two-stroke and four-stroke engines, with the VOC
+emissions due primarily to the two-strokes, and the NOx to the four-stroke engines.  The
+factors for motorcycles with non-catalyst emission controls reflect four-stroke engines
+only, as US emission control regulations have essentially eliminated two-stroke engines
+from the market.
+ENERGY
+1.70
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-27
+ESTIMATED EMISSION FACTORS FOR US GASOLINE PASSENGER CARS
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Low-Emission Vehicle Technology;(a) Assumed Fuel Economy:  8.5 km/litre (11.8 l/100 km)
+Spring/Fall
+0.26-0.34
+0.02-0.03
+0.30-0.46
+3.15-5.30
+-
+-
+Summer
+0.25-0.32
+0.02-0.03
+0.32-0.47
+2.69-4.67
+-
+-
+Winter
+0.31-0.39
+0.03-0.04
+0.29-0.51
+4.78-7.60
+-
+-
+Average (g/km)
+0.27-0.34
+0.02-0.03
+0.30-0.47
+3.44-5.72
+0.040
+280
+Average (g/kg fuel)
+3.07-3.91
+0.25-0.38
+3.42-5.35
+38.96-64.77
+0.453
+3172.31
+Average (g/MJ)
+0.070-0.089
+0.006-0.009
+0.078-0.122
+0.885-1.472
+0.010
+72.098
+Three-Way Catalyst Control;(a)  Assumed Fuel Economy:  8.3 km/litre (12.0 l/100 km)
+Spring/Fall
+0.41-0.48
+0.02-0.03
+0.49-0.66
+3.62-5.78
+-
+-
+Summer
+0.39-0.46
+0.02-0.03
+0.80-0.95
+2.90-4.89
+-
+-
+Winter
+0.47-0.56
+0.03-0.04
+0.37-0.60
+6.35-9.14
+-
+-
+Average (g/km)
+0.42-0.50
+0.03
+0.54-0.72
+4.12-6.40
+0.170
+285
+Average (g/kg fuel)
+4.67-5.53
+0.28-0.39
+6.00-7.99
+45.92-71.22
+1.892
+3172.31
+Average (g/MJ)
+0.106-0.126
+0.006-0.009
+0.136-0.182
+1.044-1.619
+0.043
+72.098
+Early Three-Way Catalyst;(a) Assumed Fuel Economy:  8.0 km/litre (12.5 l/100 km)
+Spring/Fall
+0.41-0.51
+0.03-0.04
+0.63-0.81
+4.77-7.08
+-
+-
+Summer
+0.39-0.49
+0.03-0.04
+1.44-1.62
+4.46-6.87
+-
+-
+Winter
+0.50-0.63
+0.04-0.06
+0.45-0.70
+7.75-10.42
+-
+-
+Average (g/km)
+0.43-0.54
+0.03-0.05
+0.79-0.99
+5.44-7.86
+0.170
+298
+Average (g/kg fuel)
+4.55-5.71
+0.37-0.48
+8.41-10.52
+57.93-83.73
+1.810
+3172.31
+Average (g/MJ)
+0.103-0.130
+0.008-0.011
+0.191-0.239
+1.317-1.903
+0.041
+72.098
+Oxidation Catalyst; Assumed Fuel Economy:  6.2 km/litre (16.1 l/100 km)
+Spring/Fall
+1.10-1.17
+0.05-0.07
+1.26-1.76
+8.79-14.96
+-
+-
+Summer
+0.84-0.90
+0.06-0.08
+2.58-3.25
+12.16-20.79
+-
+-
+Winter
+1.29-1.38
+0.07-0.09
+1.07-1.66
+12.28-19.72
+-
+-
+Average (g/km)
+1.08-1.16
+0.06-0.08
+1.54-2.11
+10.51-17.61
+0.075
+383
+Average (g/kg fuel)
+8.97-9.58
+0.50-0.63
+12.77-17.48
+87.08-145.95
+0.622
+3172.31
+Average (g/MJ)
+0.204-0.218
+0.011-0.014
+0.290-0.397
+1.979-3.317
+0.014
+72.098
+Non-Catalyst Control; Assumed Fuel Economy:  4.5 km/litre (22.2 l/100 km)
+Spring/Fall
+1.33-1.37
+0.10-0.12
+1.97-2.36
+14.76-21.63
+-
+-
+Summer
+1.06-1.09
+0.11-0.13
+4.06-4.61
+20.59-30.70
+-
+-
+Winter
+1.35-1.40
+0.13-0.15
+1.62-2.05
+17.53-26.09
+-
+-
+Average (g/km)
+1.27-1.31
+0.11-0.13
+2.41-2.84
+16.91-25.01
+0.020
+531
+Average (g/kg fuel)
+7.56-7.82
+0.65-0.75
+14.38-17.00 101.06-149.45
+0.125
+3172.31
+Average (g/MJ)
+0.172-0.178
+0.015-0.017
+0.327-0.386
+2.297-3.397
+0.003
+72.098
+Uncontrolled; Assumed Fuel Economy:  4.7 km/litre (21.3 l/100 km)
+Spring/Fall
+1.54
+0.12-0.14
+5.72-6.06
+28.23-38.04
+-
+-
+Summer
+1.31
+0.11-0.12
+9.76-10.07
+28.22-38.04
+-
+-
+Winter
+1.83
+0.16-0.17
+4.24-4.66
+30.89-41.63
+-
+-
+Average (g/km)
+1.56
+0.13-0.14
+6.36-6.71
+28.89-38.94
+0.020
+506
+Average (g/kg fuel)
+9.76
+0.82-0.90
+39.88-42.09 181.14-244.14
+0.130
+3172.31
+Average (g/MJ)
+0.222
+0.019-0.020
+0.906-0.957
+4.117-5.549
+0.003
+72.098
+(a) Recent measurement results (De Soete, 1993, Ballantyne, et al., 1994) have shown that N2O emissions from aged
+catalysts, e.g., tested after driving 15 000 - 25 000 km, are substantially higher than from new catalyst-equipped cars.
+Tests on comparable models show aged catalysts emitting from roughly 30% more to almost 5 times the rate of new
+equipment.  As indicated in Box 5, Environment Canada has used a value almost 5 times as high for aged catalysts in
+its national inventory calculations.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.71
+TABLE 1-28
+ESTIMATED EMISSION FACTORS FOR US LIGHT-DUTY GASOLINE TRUCKS.
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Low-Emission Vehicle Technology;(a)  Assumed Fuel Economy:  6.0 km/litre (16.7 l/100 km)
+Spring/Fall
+0.31-0.40
+0.02-0.04
+0.30-0.50
+3.57-6.03
+-
+-
+Summer
+0.29-0.38
+0.02-0.03
+0.31-0.50
+2.87-5.11
+-
+-
+Winter
+0.37-0.47
+0.03-0.05
+0.34-0.62
+6.02-9.33
+-
+-
+Average (g/km)
+0.32-0.41
+0.02-0.04
+0.31-0.53
+4.01-6.62
+0.058
+396
+Average (g/kg fuel)
+2.50-3.23
+0.18-0.29
+2.43-4.13
+31.30-51.71
+0.450
+3172.31
+Average (g/MJ)
+0.057-0.073
+0.004-0.007
+0.055-0.094
+0.711-1.175
+0.010
+72.098
+Three-Way Catalyst Control;(a) Assumed Fuel Economy:  6.0 km/litre (16.7 l/100 km)
+Spring/Fall
+0.49-0.59
+0.02-0.04
+0.47-0.69
+4.45-7.08
+-
+-
+Summer
+0.47-0.56
+0.02-0.03
+0.66-0.87
+3.64-6.05
+-
+-
+Winter
+0.57-0.69
+0.04-0.05
+0.47-0.77
+7.68-11.22
+-
+-
+Average (g/km)
+0.50-0.61
+0.03-0.04
+0.52-0.76
+5.06-7.86
+0.236
+396
+Average (g/kg fuel)
+4.04-4.86
+0.21-0.30
+4.14-6.06
+40.46-62.87
+1.890
+3172.31
+Average (g/MJ)
+0.092-0.111
+0.005-0.007
+0.094-0.138
+0.920-1.429
+0.043
+72.098
+Early Three-Way Catalyst;(a) Assumed Fuel Economy:  4.8 km/litre (20.8 l/100 km)
+Spring/Fall
+0.63-0.76
+0.05-0.07
+0.74-1.04
+6.49-9.97
+-
+-
+Summer
+0.60-0.73
+0.05-0.07
+1.34-1.65
+5.97-9.52
+-
+-
+Winter
+0.76-0.93
+0.08-0.10
+0.76-1.19
+9.58-13.54
+-
+-
+Average (g/km)
+0.65-0.80
+0.06-0.08
+0.90-1.23
+7.13-10.75
+0.227
+396
+Average (g/kg fuel)
+5.23-6.36
+0.47-0.63
+7.16-9.82
+56.96-85.86
+1.810
+3172.31
+Average (g/MJ)
+0.119-0.144
+0.011-0.014
+0.163-0.223
+1.294-1.951
+0.041
+72.098
+Oxidation Catalyst; Assumed Fuel Economy:  4.8 km/litre (20.8 l/100 km)
+Spring/Fall
+1.15-1.28
+0.07-0.09
+1.48-2.31
+9.56-18.76
+-
+-
+Summer
+0.77-0.86
+0.09-0.11
+2.70-3.85
+13.72-27.86
+-
+-
+Winter
+1.34-1.50
+0.10-0.12
+1.30-2.30
+13.47-26.33
+-
+-
+Average (g/km)
+1.10-1.23
+0.08-0.10
+1.74-2.69
+11.58-22.93
+0.097
+498
+Average (g/kg fuel)
+7.03-7.84
+0.52-0.66
+11.08-17.16
+73.77-146.07
+0.620
+3172.31
+Average (g/MJ)
+0.160-0.178
+0.012-0.015
+0.252-0.390
+1.677-3.320
+0.014
+72.098
+Non-Catalyst; Assumed Fuel Economy:  4.0 km/litre (25.0 l/100 km)
+Spring/Fall
+1.62-1.68
+0.12-0.14
+3.09-3.55
+18.41-27.08
+-
+-
+Summer
+1.28-1.32
+0.13-0.15
+5.80-6.39
+23.76-35.80
+-
+-
+Winter
+1.67-1.72
+0.15-0.17
+2.29-2.83
+23.08-34.24
+-
+-
+Average (g/km)
+1.55-1.60
+0.13-0.15
+3.57-4.08
+20.92-31.05
+0.023
+601
+Average (g/kg fuel)
+8.17-8.45
+0.69-0.80
+18.85-21.55
+110.41-163.90
+0.120
+3172.31
+Average (g/MJ)
+0.186-0.192
+0.016-0.018
+0.428-0.490
+2.509-3.725
+0.003
+72.098
+Uncontrolled; Assumed Fuel Economy:  4.1 km/litre (24.4 l/100 km)
+Spring/Fall
+1.84
+0.12-0.14
+6.87-7.24
+29.92-40.29
+-
+-
+Summer
+1.56
+0.11-0.12
+11.07-11.41
+29.91-40.29
+-
+-
+Winter
+2.18
+0.16-0.17
+5.31-5.77
+33.17-44.09
+-
+-
+Average (g/km)
+1.85
+0.13-0.14
+7.53-7.92
+30.73-41.24
+0.024
+579
+Average (g/kg fuel)
+10.16
+0.71-0.79
+41.26-43.37
+168.36-225.95
+0.130
+3172.31
+Average (g/MJ)
+0.231
+0.016-0.018
+0.938-0.986
+3.826-5.135
+0.003
+72.098
+(a) Recent measurement results (De Soete, 1993, Ballantyne, et al., 1994) have shown that N2O emissions from aged
+catalysts, e.g., tested after driving 15 000 - 25 000 km, are substantially higher than from new catalyst-equipped cars.  Tests on
+comparable models show aged catalysts emitting from roughly 30% more to almost 5 times the rate of new equipment.  As
+indicated in Box 5, Environment Canada has used a value almost 5 times as high for aged catalysts in its national inventory
+calculations.
+ENERGY
+1.72
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-29
+ESTIMATED EMISSION FACTORS FOR US HEAVY-DUTY GASOLINE VEHICLES
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Three-Way Catalyst Control;(a) Assumed Fuel Economy:  2.3 km/litre (43.5 l/100 km)
+Spring/Fall
+1.69-1.74
+0.07-0.08
+0.88-1.03
+6.06-7.49
+-
+-
+Summer
+1.76-1.81
+0.07
+1.64-1.80
+6.22-7.67
+-
+-
+Winter
+1.81-1.86
+0.07-0.08
+0.65-0.79
+6.75-8.35
+-
+-
+Average (g/km)
+1.74-1.78
+0.07-0.08
+1.01-1.16
+6.27-7.75
+0.606
+1017
+Average (g/kg fuel)
+5.42-5.56
+0.21-0.24
+3.17-3.62
+19.57-24.19
+1.890
+3172.31
+Average (g/MJ)
+0.123-0.126
+0.005
+0.072-0.082
+0.445-0.550
+0.043
+72.098
+Non-Catalyst Control; Assumed Fuel Economy:  2.3 km/litre (43.5 l/100 km)
+Spring/Fall
+2.37-2.39
+0.12-0.13
+3.97-4.20
+27.04-32.15
+-
+-
+Summer
+1.85-1.88
+0.12-0.13
+9.92-10.20
+40.28-47.89
+-
+-
+Winter
+2.54-2.56
+0.12-0.13
+1.71-1.97
+30.12-35.81
+-
+-
+Average (g/km)
+2.28-2.31
+0.12-0.13
+4.89-5.14
+31.12-37.00
+0.591
+1036
+Average (g/kg fuel)
+6.98-7.06
+0.36-0.41
+14.98-15.75
+95.28-113.28
+1.810
+3172.31
+Average (g/MJ)
+0.159-0.161
+0.008-0.009
+0.341-0.358
+2.166-2.575
+0.041
+72.098
+Uncontrolled; Assumed Fuel Economy:  1.8 km/litre (55.6 l/100 km)
+Spring/Fall
+3.48-4.13
+0.26-0.29
+13.38-14.55
+97.66-115.91
+-
+-
+Summer
+2.83-3.38
+0.25-0.29
+19.97-21.11
+111.10-131.87
+-
+-
+Winter
+4.11-4.88
+0.26-0.29
+12.01-13.38
+103.06-122.33
+-
+-
+Average (g/km)
+3.47-4.13
+0.25-0.29
+14.68-15.90
+102.37-121.51
+0.054
+1320
+Average (g/kg fuel)
+8.35-9.92
+0.61-0.70
+35.30-38.21
+246.08-292.08
+0.130
+3172.31
+Average (g/MJ)
+0.190-0.226
+0.014-0.016
+0.802-0.868
+5.593-6.638
+0.003
+72.098
+(a) Recent measurement results (De Soete, 1993, Ballantyne, et al., 1994) have shown that N2O emissions from aged
+catalysts, e.g., tested after driving 15 000 - 25 000 km, are substantially higher than from new catalyst-equipped cars.  Tests
+on comparable models show aged catalysts emitting from roughly 30% more to almost 5 times the rate of new equipment.
+As indicated in Box 5, Environment Canada has used a value almost 5 times as high for aged catalysts in its national
+inventory calculations.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.73
+TABLE 1-30
+ESTIMATED EMISSION FACTORS FOR US DIESEL PASSENGER CARS
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Advanced Control; Assumed Fuel Economy:  10.0 km/litre (10 l/100 km)
+Spring/Fall
+0.42
+0.01
+0.17
+0.56
+-
+-
+Summer
+0.42
+0.01
+0.17
+0.56
+-
+-
+Winter
+0.44
+0.01
+0.19
+0.58
+-
+-
+Average (g/km)
+0.43
+0.01
+0.17
+0.56
+0.007
+237
+Average (g/kg fuel)
+5.68
+0.06
+2.32
+7.54
+0.09
+3172.31
+Average (g/MJ)
+0.129
+0.001
+0.053
+0.171
+0.002
+72.098
+Moderate Control; Assumed Fuel Economy:  9.6 km/litre (10.4 l/100 km)
+Spring/Fall
+0.54
+0.01
+0.17
+0.56
+-
+-
+Summer
+0.54
+0.01
+0.17
+0.62
+-
+-
+Winter
+0.54
+0.01
+0.17
+0.56
+-
+-
+Average (g/km)
+0.54
+0.01
+0.17
+0.58
+0.01
+248
+Average (g/kg fuel)
+6.88
+0.08
+2.17
+7.35
+0.13
+3172.31
+Average (g/MJ)
+0.156
+0.002
+0.049
+0.167
+0.003
+72.098
+Uncontrolled; Assumed Fuel Economy:  7.5 km/litre (13.3 l/100 km)
+Spring/Fall
+0.67
+0.01
+0.24
+0.61
+-
+-
+Summer
+0.67
+0.01
+0.24
+0,.61
+-
+-
+Winter
+0.67
+0.01
+0.24
+0.61
+-
+-
+Average (g/km)
+0.67
+0.01
+0.24
+0,.61
+0.014
+319
+Average (g/kg fuel)
+6.62
+0.12
+2.39
+6.04
+0.14
+3172.31
+Average (g/MJ)
+0.150
+0.003
+0.054
+0.137
+0.003
+72.098
+ENERGY
+1.74
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-31
+ESTIMATED EMISSION FACTORS FOR US LIGHT-DUTY DIESEL TRUCKS
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Advanced Control; Assumed Fuel Economy:  7.2 km/litre (13.9 l/100 km)
+Spring/Fall
+0.49
+0.01
+0.24
+0.64
+-
+-
+Summer
+0.49
+0.01
+0.24
+0.64
+-
+-
+Winter
+0.49
+0.01
+0.24
+0.64
+-
+-
+Average (g/km)
+0.49
+0.01
+0.24
+0.64
+0.024
+330
+Average (g/kg fuel)
+4.70
+0.08
+2.35
+6.11
+0.23
+3172.31
+Average (g/MJ)
+0.107
+0.002
+0.053
+0.139
+0.005
+72.098
+Moderate Control; Assumed Fuel Economy:  7.2 km/litre (13.9 l/100 km)
+Spring/Fall
+0.68
+0.01
+0.24
+0.64
+-
+-
+Summer
+0.68
+0.01
+0.24
+0.64
+-
+-
+Winter
+0.68
+0.01
+0.24
+0.64
+-
+-
+Average (g/km)
+0.68
+0.01
+0.24
+0.64
+0.063
+331
+Average (g/kg fuel)
+6.52
+0.08
+2.34
+6.10
+0.60
+3172.31
+Average (g/MJ)
+0.148
+0.002
+0.053
+0.139
+0.014
+72.098
+Uncontrolled; Assumed Fuel Economy:  5.7 km/litre (17.5 l/100 km)
+Spring/Fall
+0.92
+0.01
+0.49
+1.01
+-
+-
+Summer
+0.92
+0.01
+0.49
+1.01
+-
+-
+Winter
+0.92
+0.01
+0.49
+1.01
+-
+-
+Average (g/km)
+0.92
+0.01
+0.49
+1.01
+0.031
+415
+Average (g/kg fuel)
+7.02
+0.10
+3.76
+7.73
+0.24
+3172.31
+Average (g/MJ)
+0.159
+0.002
+0.086
+0.176
+0.005
+72.098
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.75
+TABLE 1-32
+ESTIMATED EMISSION FACTORS FOR US HEAVY DUTY DIESEL VEHICLES
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Advanced Control; Assumed Fuel Economy:  2.4 km/litre (41.7 l/100 km)
+Spring/Fall
+3.52
+0.04
+0.86
+4.36
+-
+-
+Summer
+3.52
+0.04
+0.86
+4.36
+-
+-
+Winter
+3.52
+0.04
+0.86
+4.36
+-
+-
+Average (g/km)
+3.52
+0.04
+0.86
+4.36
+0.025
+987
+Average (g/kg fuel)
+11.32
+0.14
+2.78
+14.01
+0.08
+3172.31
+Average (g/MJ)
+0.257
+0.003
+0.063
+0.318
+0.002
+72.098
+Moderate Control; Assumed Fuel Economy:  2.4 km/litre (41.7 l/100 km)
+Spring/Fall
+7.96
+0.05
+1.13
+5.01
+-
+-
+Summer
+7.96
+0.05
+1.13
+5.01
+-
+-
+Winter
+7.96
+0.05
+1.13
+5.01
+-
+-
+Average (g/km)
+7.96
+0.05
+1.13
+5.01
+0.025
+1011
+Average (g/kg fuel)
+24.96
+0.16
+3.55
+15.71
+0.08
+3172.31
+Average (g/MJ)
+0.567
+0.004
+0.081
+0.357
+0.002
+72.098
+Uncontrolled; Assumed Fuel Economy:  2.2 km/litre (45.5 l/100 km)
+Spring/Fall
+10.30
+0.06
+1.63
+4.85
+-
+-
+Summer
+10.30
+0.06
+1.63
+4.85
+-
+-
+Winter
+10.30
+0.06
+1.63
+4.85
+-
+-
+Average (g/km)
+10.30
+0.06
+1.63
+4.85
+0.031
+1097
+Average (g/kg fuel)
+29.79
+0.18
+4.70
+14.03
+0.09
+3172.31
+Average (g/MJ)
+0.677
+0.004
+0.107
+0.319
+0.002
+72.098
+TABLE 1-33
+ESTIMATED EMISSION FACTORS FOR US MOTORCYCLES
+EMISSIONS
+Season
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Non-catalytic Control; Assumed Fuel Economy:  10.8 km/litre (9.3 l/100 km)
+Spring/Fall
+0.37
+0.12
+2.26
+13.77
+-
+-
+Summer
+0.31
+0.12
+2.59
+16.74
+-
+-
+Winter
+0.43
+0.14
+2.47
+18.01
+-
+-
+Average (g/km)
+0.37
+0.13
+2.39
+15.57
+0.002
+219
+Average (g/kg fuel)
+5.40
+1.83
+36.60
+225.14
+0.03
+3172.31
+Average (g/MJ)
+0.123
+0.042
+0.786
+5.117
+0.001
+72.098
+Uncontrolled; Assumed Fuel Economy:  8.9 km/litre (11.2 l/100 km)
+Spring/Fall
+0.19
+0.25
+5.87
+21.78
+-
+-
+Summer
+0.16
+0.24
+5.96
+21.55
+-
+-
+Winter
+0.22
+0.31
+6.93
+24.09
+-
+-
+Average (g/km)
+0.19
+0.26
+6.16
+22.30
+0.002
+266
+Average (g/kg fuel)
+2.29
+3.13
+73.33
+265.51
+0.02
+3172.31
+Average (g/MJ)
+0.052
+0.071
+1.667
+6.034
+0.001
+72.098
+ENERGY
+1.76
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+European Emission Estimates
+The European emission estimates for NOx, CH4, NMVOC (total VOC minus CH4), CO,
+N2O and CO2 are based on the COPERT90 model, developed for the Commission of the
+European Communities.19  The calculation is based on five main types of input
+parameters:
+• 
+total fuel consumption
+• 
+vehicle park
+• 
+driving condition
+• 
+emission factors
+• 
+other parameters
+For these main types of input parameters, additional information (e.g., on vehicle classes,
+production years etc.) is needed in order to carry out the calculations.
+The methodology is defined in such a way that it uses the firm technical data and that
+national variations among European countries can be incorporated.  The variations may
+include such things as composition of vehicle park, vehicle age, driving patterns, some fuel
+parameters and a few climatic parameters.  Other variations which may exist, for
+example, variations in vehicle maintenance, mountain driving etc., are not accounted for
+because there is not enough data available to do so.
+Vehicle categories
+The vehicle categories chosen by CORINAIR 1990 do not meet all the requirements for
+modelling vehicle emissions considered important by the working group.  In particular the
+age of vehicle (year of production) and the engine technology are not sufficiently
+reflected.  Thus, for the purpose of the COPERT work only, a more detailed vehicle
+category split has been developed.
+Hot Emissions
+These emissions depend on a variety of factors including the distance that each vehicle
+travels, its speed (or road type), its age and engine size.
+The basic formula for estimating hot emissions using an experimentally obtained emission
+factor is:
+Emissions [g] = emission factor [g/km] . vehicle kilometres per year [km]
+The emission factors and vehicle kilometres are in most cases split into certain classes of
+road types and vehicle categories.
+However, for many countries the only data known with any certainty are the total fuel
+consumption of gasoline, diesel and LPG, not vehicle kilometres.  It is therefore suggested
+that fuel consumption data are used to check vehicle mileage where they are known and
+to make a final fuel balance.
+Cold Start Emissions
+Cold starts result in additional emissions.  They take place under all three (urban, rural
+and highway) driving conditions, but seem to be most significant for urban driving.  In
+                                                  
+     19 As is the convention throughout these Guidelines, CO2 emissions are calculated to
+include the carbon emitted as CO and as VOC.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.77
+principle they occur for all vehicle categories.  However, emission factors are available or
+can be reasonably estimated only for gasoline, diesel and LPG passenger cars and -
+assuming that these vehicles behave like passenger cars - light-duty vehicles.
+Consequently, only these categories are covered by the methodology.  Moreover, cold
+start emissions are considered not to be a function of vehicle age.
+Cold start emissions are calculated as emissions additional to emissions that would be
+expected if all vehicles had only hot engines.  A factor, the ratio of cold to hot emissions,
+is used and applied to the fraction of kilometres driven with cold engines.  These factors
+may vary from country to country.  Different driving behaviour, road conditions and
+climate as well as trip length affect the warm up time and the fraction of distance
+travelled with cold engines.  These factors can be taken into account, but again
+information may not be available to do this thoroughly in all countries, so that estimates
+have to close identified gaps.
+Evaporative VOC Emissions
+There are three primary sources of evaporative emissions from vehicles:
+i)
+diurnal (daily) emissions;
+ii)
+hot soak emissions;  and
+iii)
+running losses.
+These are estimated separately.  Again they are affected by factors that vary from country
+to country.
+All three types of evaporative emissions are significantly affected by the volatility of the
+gasoline being used, the absolute ambient temperature and temperature changes, and
+vehicle design characteristics.  For hot soak emissions and running losses the driving
+pattern is also of importance.
+In general, the estimation of evaporative emissions from gasoline vehicles involves a large
+number of uncertainties which can not be resolved without carrying out further
+measurements.
+Application of the baseline methodology to the different vehicle categories and pollutants
+Due to gaps in knowledge, the baseline methodology can not be applied in full and in the
+same way to all vehicle categories.  Moreover, there are variations depending on the
+pollutant considered.  In general, one can distinguish between four methods:
+ENERGY
+1.78
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Method A
+Hot emissions are calculated based on:
+-
+the total annual kilometres driven per vehicle;
+-
+the share of kilometres driven under the driving modes “urban”,
+“rural” and “highway”;
+-
+the average speed of the vehicles under the driving modes “urban”,
+“rural” and “highway”;
+-
+speed-dependent hot emission factors.
+Cold start emissions are calculated based on:
+-
+the average trip length per vehicle trip;
+-
+the average monthly temperature;
+-
+temperature and trip length dependent cold start correction factor.
+Evaporative emissions are calculated based on:
+-
+the fuel volatility (RVP);
+-
+the average monthly temperature and the average monthly
+temperature variation;
+-
+fuel volatility and temperature dependent emission factors.
+Method B
+The total annual emissions per vehicle are calculated based on:
+-
+the total annual kilometres driven per vehicle;
+-
+the share of kilometres driven under the driving modes “urban”,
+“rural” and “highway”;
+-
+the average speed of the vehicles under the driving modes “urban”,
+“rural” and “highway”;
+-
+speed-dependent emission factors.
+Note:  for diesel passenger cars, cold start extra emissions for CO, NOx
+and NMVOC, as well as extra fuel consumption, are added using the
+method described under A.  For LPG passenger cars a simplified method is
+used.
+Method C
+The total annual emissions per vehicle are calculated based on:
+-
+the total annual kilometres driven per vehicle;
+-
+the share of kilometres driven under the driving modes “urban”,
+“rural” and “highway”;
+-
+driving mode dependent emissions factors.
+Note:  for gasoline and diesel light-duty vehicle, cold start extra emissions
+for CO, NOX and NMVOC, as well as fuel consumption, are added using
+the method described under A.  For gasoline light-duty vehicles, NMVOC
+evaporative emissions are added using the method described under A.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.79
+Method D
+The total annual emissions per vehicle category are calculated based on:
+-
+the total annual fuel consumption of the vehicle category and/or the
+total annual kilometres driven by the vehicle category;
+-
+fuel consumption and/or kilometre related emission factors.
+Note:  For two wheelers NMVOC evaporative emissions are added using
+the method described under A.
+TABLE 1-34
+SUMMARY OF PRECISION INDICATORS OF THE EMISSION ESTIMATES AND OF CALCULATION
+METHODS APPLIED FOR THE DIFFERENT VEHICLE CATEGORIES AND POLLUTANTS
+(A, B, C, D:  Method Indicators - 1, 2, 3, 4:  Precision Indicators)
+Vehicle Category
+NOx
+CO
+NMVOC
+CH4
+N2O
+CO2
+Fuel
+Passenger Cars
+Gasoline
+A/1
+A/1
+A/1
+C/1
+C/3
+D/1
+A/1
+Diesel
+B/1
+B/1
+B/1
+C/2
+C/3
+D/1
+B/1
+LPG
+B/1
+B/1
+B/1
+-
+-
+D/1
+B/1
+Two stroke
+C/2
+C/2
+C/2
+C/4
+C/4
+D/2
+C/2
+Light-Duty Vehicles
+C/1
+C/1
+C/1
+C/3
+C/4
+D/1
+C/1
+Heavy-Duty Vehicles
+C/2
+C/2
+C/2
+C/4
+D/4
+D/2
+C/2
+Two Wheelers
+D/2
+D/2
+D/2
+D/4
+-
+D/2
+D/2
+Evaporation
+Passenger Cars
+-
+-
+A/3(a)
+-
+-
+-
+-
+Light-Duty Vehicles
+-
+-
+C/4(a)
+-
+-
+-
+-
+Two Wheelers
+-
+-
+D/4
+-
+-
+-
+-
+Cold Start
+Passenger Cars
+Conventional Gas.
+A/2
+A/2
+A/2
+-
+-
+A/2
+A/2
+Catalyst Gasoline
+A/3
+A/3
+A/3
+-
+-
+A/2
+A/3
+Diesel
+A/3
+A/3
+A/3
+-
+-
+A/3
+A/3
+LPG
+B/3
+B/3
+B/3
+-
+-
+B/3
+B/3
+Light Duty Vehicles
+C/4
+C/4
+C/4
+-
+-
+C/4
+C/4
+1:
+Statistically significant emission factors based on a sufficiently large set of measured and re-
+evaluated data.
+2:
+Emission factors non-statistically significant based on a small set of measured and re-evaluated
+data.
+3:
+Emission factors estimated on the basis of available literature.
+4:
+Emission factors estimated applying similarity considerations and/or extrapolation.
+(a) Only for gasoline engine vehicles.
+For the IPCC Guidelines, the emission factors from the COPERT model are presented
+using the American vehicle and control type categories, for ease of comparison.  The
+emission factors have been calculated using data from 15 western and eastern European
+countries.  Therefore the vehicle usage pattern, such as average speed and frequency of
+cold starts, climatic conditions like the monthly average temperature, and the fuel
+ENERGY
+1.80
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+characteristics of these countries are incorporated in the figures.  The emission factors
+provided are therefore valid for an average European situation.
+In developing the following tables, a net calorific value of 43.5 TJ/kt was assumed for
+gasoline, 42.4 TJ/kt for diesel and 46.1 TJ/kt for LPG.
+TABLE 1-35
+EUROPEAN EMISSION CONTROL TECHNOLOGY TYPES
+AND CORRESPONDING EU LEGISLATION AND MODEL YEARS
+TECHNOLOGY
+LEGISLATION (MODEL YEAR)
+Uncontrolled
+Pre ECE (up to 1970)
+Early non-catalyst controls
+ECE 15 00 to 02 (1971-1979)
+Non-catalyst controls
+ECE 15 03 to 04 (1980-early 1990s)
+Oxidation catalyst
+88/76/EEC (1988-1991)
+Three-way catalyst
+91/441/EEC (1989-1995)

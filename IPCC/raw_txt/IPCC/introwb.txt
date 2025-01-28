@@ -1,0 +1,328 @@
+1
+ENERGY
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+I N T R O D U C T I O N.1
+I N T R O D U C T I O N  T O  T H E
+W O R K B O O K
+1.
+Getting Started
+The gases covered in the Guidelines are the direct greenhouse gases, carbon
+dioxide (CO2), methane  (CH4), and nitrous oxide (N2O), the indirect
+greenhouse gases carbon monoxide (CO), oxides of nitrogen (NOx) non-
+methane volatile organic compounds (NMVOCs), halocarbons (HFCs, PFCs)
+sulphur hexafluoride (SF6), and sulphur dioxide (SO2). Halogenated species (i.e.
+chlorofluorocarbons (CFCs), hydro-chlorofluorocarbon 22 (HCFC-22), the
+halons, methyl chloroform and carbon tetrachloride) are not included because of
+parallel reporting requirements of countries in compliance with commitments
+under the Montreal Protocol.
+Although estimation methods are not provided, countries are encouraged to
+report any emissions or removals for which they have data and which they
+consider significant to climate change. Procedures for reporting other gases are
+discussed in Volume 1 of the Guidelines, Reporting Instructions.
+To estimate greenhouse gas emissions and removals you should begin by
+developing a plan or strategy. The first step is to identify the range of possible
+source and sink activities that exist in your country. Second, you will need to
+establish priorities for inventory work based on several considerations. One
+consideration is the priorities among various greenhouse gases. The IPCC has
+recommended the direct greenhouse gases CO2, CH4, and N2O as having
+highest priority. A second consideration is the relative importance of source and
+sink activities within the country and the availability of relevant information.
+Finally, once initial priorities have been developed, the analyst must identify and
+allocate resources to develop the inventory.
+A description of greenhouse gas source and sink activities is provided in
+Volume I. The IPCC Scientific Assessments of 1990, 1995 and the 1992
+Supplement presents the current understanding of the contributions of various
+source and sink activities in the global atmospheric balances of CO2, CH4 and
+N2O. This information may be used by national experts in prioritising national
+inventory efforts. However, the relative importance of source and sink
+categories for a specific country may be substantially different than at a global
+level.
+INTRODUCTION
+I N T R O D U C T I O N.2
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+The stages are:
+S T E P  1   P L A N N I N G  T H E  I N V E N T O R Y
+1
+Review Reporting Instructions
+Review the Reporting Instructions (Volume 1 of IPCC Guidelines) so you
+know what data are required. Look in detail at Chapter 1:
+Understanding the Common Reporting Framework. This discusses standard
+definitions of pollutants, units, source/sink categories and time periods.
+2
+Identify priority sources/sinks and priority greenhouse gases. Ultimately,
+each country should report all important sources and sinks of all
+greenhouse gases. However, in practice, countries with little prior
+experience, which are getting started on national inventories, may wish
+to prioritise the possible gases and sources in terms of relative
+importance to global and national totals. Proceeding with highest
+priority sources first will reduce the initial burden on national experts
+and allow key results to be reported more quickly in international fora.
+General priorities for countries preparing inventories are (listed in
+order of highest to lowest priority):
+•
+CO2 from Energy sources
+•
+CO2 from Land-Use Change
+•
+CH4 from major source categories: Rice Production; Coal Mining;
+Oil and Natural Gas; Enteric Fermentation and Animal Waste;
+Landfills and Other Waste, and Biomass Burning
+• 
+N2O from Agriculture
+•
+Other greenhouse gases
+This Workbook provides simple methods for all of the CO2, CH4 and
+N2O, categories listed above to help national experts in the high
+priority areas. Countries can modify the suggested priorities based on
+the importance of these source and sink activities in their own national
+context.
+S T E P  2   U S I N G  T H E  I P C C  D E F A U L T
+M E T H O D S / D A T A
+The Workbook contains default methods for the estimation of each of the
+main source categories for CO2, CH4, N2O, halocarbons (HFCs, PFCs)
+sulphur hexafluoride (SF6), and ozone and aerosol precursors. The Reference
+Manual contains background information on these methods and more
+detailed options. These methods are in various stages of testing and
+therefore are associated with different levels of confidence or "quality."
+IPCC's default methodology aims to provide the simplest realistic
+procedures for countries to use when making greenhouse gas emissions
+inventories. Default values are provided for emission factors and (some)
+activity data. Because default information is frequently general, and
+applicable to all countries of the world, it may not capture the variations in
+activities at the regional and national level that may significantly influence
+INTRODUCTION
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+I N T R O D U C T I O N.3
+emission levels. The Workbook is nevertheless a starting point for many
+countries that are preparing GHG inventories for the first time.
+Countries may use more detailed methodologies, emission factors or
+activity data where these are compatible with IPCC source categories, and
+can be shown to give consistent and accurate results.  Default emission
+factors and activity data also provide useful points of comparison for
+national assumptions. If a country's data vary significantly from the default
+data, the IPCC asks that the difference be explained.
+S T E P  3   U S I N G  T H E  W O R K B O O K
+The Workbook
+The Workbook is designed to be a working document. You use it as an
+integral part of making an inventory of your country's greenhouse gas
+emissions and removals. It is divided into six modules, each with its own
+icon:
+•
+Energy
+•
+Industrial Processes
+•
+Solvent and Other Product Use
+[Solvent and Other Product Use is included in this version of the
+Workbook as a placeholder only. No simple estimation methods are
+provided for this category.]
+•
+Agriculture
+•
+Land-Use Change and Forestry
+•
+Waste
+Within each module a series of emission sources are identified.  Each
+emission source contains one (or more) Worksheets. These are blank
+forms for making the inventory which you fill in and return to IPCC.
+To help you to use the Worksheets, each emission source section also
+contains:
+•
+a brief introduction
+•
+a survey of data sources
+•
+an overview of the methodology recommended for the source
+•
+instructions for completing the Worksheet
+If you want to know more about a particular emission source, refer to the
+IPCC Greenhouse Gas Inventory Reference Manual.
+INTRODUCTION
+I N T R O D U C T I O N.4
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+S T E P  4  P R O V I D I N G  D O C U M E N T A T I O N
+In every case written documentation should be provided along with
+inventory results explaining the sources of any input data which were not
+taken from the default data included in the Workbook. For example, energy
+related GHG input data includes energy data, conversion factors, emission
+factors, production data for products which store carbon and any other
+information which might affect the results in the inventory.
+Preferably your documentation should cite published reports as the source
+of data. Government ministries, institutes or private firms that have
+provided data should be identified by a mailing address and a contact
+person. See Volume 1: Reporting Instructions for details of documentation
+requirements.
+S T E P  5  R E P O R T I N G  F I N E R  L E V E L S  O F
+D E T A I L  I N  T H E  W O R K S H E E T S
+For simplicity and clarity, the Workbook deals with calculation of emissions
+at a national level, with source categories broken down into relatively few
+subcategories. The level of detail in the subcategories is designed to match
+the available sources of default input data, carbon contents and other
+assumptions. However, as a user of the emissions methodology Guidelines,
+you are encouraged to carry out your national inventory at as fine a level of
+detail as possible. If your country has more detailed information on any of
+the source categories than that used in constructing the default values in
+this Workbook, you are encouraged to use it.
+There are two ways in which this is possible:
+•
+Finer geographic detail
+Experts may find that it is necessary to divide a country into different
+regions to capture differences between ecosystems and biomass
+densities, agricultural practices, rates of burning etc.
+•
+Finer detail by subcategory
+Where data are available, experts may subdivide the categories of
+activity to reflect important differences in economic activity, ecology
+or species, land use or agricultural practices, rate of burning, etc.
+Working at a finer level of disaggregation does not change the nature of the
+calculations although more locally developed data and assumptions will
+generally be required. Use multiple copies of the Worksheets for these
+calculations.
+If you have calculated greenhouse gas emissions at a finer level of  detail,
+you should also aggregate results up to the most detailed level of
+information requested by the IPCC Methodology in order to report them.
+This allows comparisons to be made among the results from countries
+participating in the inventory. You are also encouraged to report at the
+underlying level of detail if it is manageable.
+Make sure that you report data and assumptions to the IPCC in order to
+ensure transparency and replicability of methods. Reporting Instructions
+(Volume 1 of the Guidelines) discusses these issues in more detail.
+INTRODUCTION
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+I N T R O D U C T I O N.5
+2
+Basic Information to Help Work with
+the IPCC Guidelines
+P r e f i x e s  a n d  m u l t i p l i c a t i o n  f a c t o r s
+The following multiplication factors are used throughout the Guidelines:
+Multiplication
+Factor
+Abbreviation
+Prefix
+Symbol
+1 000 000 000 000 000
+1015
+peta
+P
+1 000 000 000 000
+1012
+tera
+T
+1 000 000 000
+109
+giga
+G
+1 000 000
+106
+mega
+M
+1 000
+103
+kilo
+k
+100
+102
+hecto
+h
+10
+101
+deca
+da
+0.1
+10-1
+deci
+d
+0.01
+10-2
+centi
+c
+0.001
+10-3
+milli
+m
+0.000 001
+10-6
+micro
+µ
+A b b r e v i a t i o n s  f o r  c h e m i c a l  c o m p o u n d s
+The following abbreviations are used in the Guidelines:
+CH4
+Methane
+N2O
+Nitrous Oxide
+CO2
+Carbon Dioxide
+CO
+Carbon Monoxide
+NOx
+Nitrogen Oxides
+NMVOC
+Non-Methane Volatile Organic Compound
+NH3
+Ammonia
+CFCs
+Chlorofluorocarbons
+HFCs
+Hydrofluorocarbons
+PFCs
+Perfluorocarbons
+SF6
+Sulphur hexafluoride
+CCL4
+Carbon tetrachloride
+C2F6
+Hexafluoroethane
+SO2
+Sulphur Dioxide
+INTRODUCTION
+I N T R O D U C T I O N.6
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+S t a n d a r d  e q u i v a l e n t s
+1 tonne of oil equivalent (toe)
+1 x 1010 calories
+103 toe
+41.868 TJ
+1 short ton
+0.9072 tonne
+1 tonne
+1.1023 short tons
+1 tonne
+1 megagram
+1 kilotonne
+1 gigagram
+1 megatonne
+1 teragram
+1 kilogram
+2.2046 lbs
+1 hectare
+104 m2
+1 calorie IT
+4.1868 Joules
+1 atmosphere
+101.325 kPa
+U n i t s 1 a n d  a b b r e v i a t i o n s
+The following abbreviations are used in the Guidelines:
+cubic metre
+m3
+hectare
+ha
+gram
+g
+tonne
+t
+joule
+J
+degree Celsius
+°C
+calorie
+cal
+year
+yr
+capita
+cap
+gallon
+gal
+dry matter
+dm
+                                                  
+     1 For decimal prefixes see previous page.

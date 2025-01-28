@@ -1,0 +1,2347 @@
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+CHAPTER 1 
+INTRODUCTION 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Bofeng Cai (China) and Deborah A. Ottinger (USA)  
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+Contents 
+1 
+Introduction .................................................................................................................................................. 1.5 
+1.1 
+Introduction ........................................................................................................................................ 1.5 
+1.2 
+General and cross-cutting issues ......................................................................................................... 1.8 
+1.2.1 
+Definition of industrial process, fuel combustion and fuel transformation emissions .................... 1.8 
+1.2.2 
+Capture and abatement ................................................................................................................... 1.8 
+1.2.3 
+Precursors ....................................................................................................................................... 1.8 
+1.2.4 
+Indirect N2O ................................................................................................................................... 1.8 
+1.2.5 
+International data sources ............................................................................................................... 1.8 
+1.3 
+Nature of non-energy uses of fuels ................................................................................................... 1.11 
+1.3.1 
+Types of uses ................................................................................................................................ 1.11 
+1.3.2 
+Accounting for feedstock and reductant uses of fossil fuels and their CO2 emissions ................. 1.12 
+1.3.3 
+Emissions from refinery processes ............................................................................................... 1.12 
+1.4 
+QC of Completeness and Allocation of CO2 from Non-Energy Uses .............................................. 1.13 
+1.4.1 
+Introduction .................................................................................................................................. 1.13 
+1.4.2 
+Scope of methods ......................................................................................................................... 1.13 
+1.4.3 
+Quality control of completeness ................................................................................................... 1.13 
+1.4.3.1 
+CO2 completeness check ..................................................................................................... 1.13 
+1.4.3.2 
+Feedstock balance check ..................................................................................................... 1.17 
+1.4.4 
+Reporting and documentation of allocation and QC of completeness .......................................... 1.21 
+1.4.4.1 
+Allocation of CO2 from non-energy use .............................................................................. 1.21 
+1.4.4.2 
+Completeness of CO2 from non-energy use ........................................................................ 1.21 
+1.5 
+Choosing between the mass-balance and emission-factor approaches ............................................. 1.24 
+References 
+ ..................................................................................................................................................... 1.25 
+Equation 
+Equation 1.1  Total feedstock requirement ...................................................................................................... 1.18 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure 1.1 (Updated)  Industrial Processes and Product Use categories .............................................................. 1.7 
+Figure 1.3  
+Flowchart for verification of completeness of accounting for non-energy uses of fuels. 1.20 
+Tables 
+Table 1.1 (Updated)   Industrial Processes and Product Use categories and their possible emissions ................ 1.9 
+Table 1.2 (Updated)   Types of use and examples of fuels used for non-energy applications ........................... 1.12 
+Table 1.3 (Updated)  Verification of completeness of reported CO2 from non-energy use of fossil fuels ....... 1.15 
+Table 1.4 (Updated)  List of fuels that can be used as chemical feedstock or reductant .................................. 1.17 
+Table 1.5a (Updated) Comparison of feedstock supply with requirements implied by production .................. 1.18 
+Table 1.5b (Updated) Specific Feedstock Consumption (TJ/Gg) for feedstock/reductants ............................... 1.19 
+Table 1.6 (Updated)  Allocation of CO2 from non-energy use of fossils fuels: IPPU and other Sectors .......... 1.23 
+ 
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+1 INTRODUCTION 
+Users are expected to go to Mapping Tables in Annex 5, before reading this chapter. This is required to 
+correctly understand both the refinements made and how the elements in this chapter relate to the corresponding 
+chapter in the 2006 IPCC Guidelines. 
+1.1 
+INTRODUCTION 
+This volume, Industrial Processes and Product Use (IPPU), covers greenhouse gas emissions occurring from 
+industrial processes, from the use of greenhouse gases in products, and from non-energy uses of fossil fuel 
+carbon. The former section 'Solvent and Other Product Use' in the Revised 1996 IPCC Guidelines for National 
+Greenhouse Gas Inventories has been incorporated in this volume. 
+Greenhouse gas emissions are produced from a wide variety of industrial activities. The main emission sources 
+are releases from industrial processes that chemically or physically transform materials. (Examples include  the 
+blast furnace in the iron and steel industry, ammonia and other chemical products manufactured from fossil fuels 
+used as chemical feedstock, the cement industry, aluminium production, and HCFC-22 production). During these 
+processes, many different greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide 
+(N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and other fluorinated compounds such as 
+trifluoromethyl sulphur pentafluoride (SF5CF3) can be produced and emitted. 
+In addition, greenhouse gases often are used in products such as refrigerators, foams or aerosol cans. For 
+example, HFCs are used as alternatives to ozone depleting substances (ODS) in various types of product 
+applications. Similarly, sulphur hexafluoride (SF6) and N2O are used in a number of products used in industry 
+(e.g., SF6 used in electrical equipment, N2O used as a propellant in aerosol products primarily in food industry) 
+or by end-consumers (e.g., SF6 used in running-shoes, N2O used during anaesthesia). A notable feature of these 
+product uses is that, in almost all cases, significant time can elapse between the manufacture of the product and 
+the release of the greenhouse gas. The delay can vary from a few weeks (e.g., for aerosol cans) to several 
+decades as in the case of rigid foams. (See Section 1.5 and Chapters 7 and 8 for discussions of the 
+methodological issues associated with this delay.) In some applications (e.g., refrigeration) a fraction of the 
+greenhouse gases used in the products can be recovered at the end of product’s life and either recycled or 
+destroyed. In addition, HFCs, PFCs, SF6, NF3, and several other fluorinated greenhouse gases may be used in 
+and/or emitted by processes such as electronics manufacturing.  Other fluorinated greenhouse gases1 that are 
+used in such processes, that are not covered by Annexes A through E of the Montreal Protocol, and that have had 
+their global warming potentials (GWPs) listed in IPCC Assessment Reports include, for example: 
+• 
+halogenated ethers and perfluoropolyethers used for temperature control, device testing, cleaning substrate 
+surfaces and other parts, and soldering during electronics manufacturing and other processes. (e.g., HFE-
+449s1, HFE-569sf2, and PFPMIE)2 (see Table 6.5 of this volume for a more complete list); 
+• 
+fluoroketones; 
+• 
+and other halocarbons not covered by Annexes A through E of the Montreal Protocol including, for example 
+CF3I, CH2Br2, CHCl3, CH3Cl, CH2Cl2. 
+This volume of the 2019 Refinement also provides estimation methods for halogenated greenhouse gases which 
+are not covered by Annexes A through E of the Montreal Protocol and for which GWP values were not available 
+from an IPCC Assessment Report at the time the 2019 Refinement was developed. Examples of such GHGs 
+include: 
+• 
+c-C4F8O; 
+• 
+perfluorotripropylamine, 
+perfluoromethylmorpholine, 
+3-ethoxy-1,1,1,2,3,4,4,5,5,6,6,6-dodecafluoro-2-
+trifluoromethyl-hexane, and other fluorinated liquids used for temperature control, device testing, cleaning 
+                                                           
+1 Some of these compounds are liquid at room temperature but enter the atmosphere through evaporation, particularly when 
+used at high temperatures, as many of them are. 
+2 The first two compounds are hydrofluoroethers marketed under the NovecTM Engineered Fluid tradename by 3MTM. The 
+last compound, PFPMIE, is marketed under the GaldenTM tradename by Solvay. 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+substrate surfaces and other parts, and soldering during electronics manufacturing and other processes (see 
+Table 6.5 for a more complete list)3;  
+• 
+fluoronitriles. 
+Product use is combined with the industrial process guidance because in many cases production and 
+import/export data are needed to estimate emissions in products and because product use may also occur as part 
+of industrial activities, apart from the non-industrial sectors (retail, services, households.) It is therefore desirable 
+to link estimation of emissions associated with production and product use. The non-energy uses of fossil fuels 
+encompass their uses as feedstock, reductants and as non-energy products in which their physical properties are 
+used directly rather than combusted for energy purposes. 
+This chapter presents: 
+• 
+the definition and structure of the treatment of industrial processes and product use (1.1); 
+• 
+a number of general or cross-cutting issues (1.2), among which are the definition of industrial process and 
+fuel combustion emissions (1.2.1) and sources of international data (1.2.5); 
+• 
+the nature of non-energy uses of fossil fuels (1.3); 
+• 
+the completeness and allocation of CO2 from non-energy use of fuels (1.4); and 
+• 
+the choice between the mass-balance and emission-factor approaches (1.5) with specific relevance to the 
+fluorinated gases covered in Chapters 7 and 8 of this volume. 
+SECTOR CLASSIFICATION AND STRUCTURE 
+Figure 1.1 sets out the structure and classification codes for each category and subcategory for the IPPU Sector. 
+In the 2019 Refinement, Figure 1.1 has been updated by (1) adding subcategories for Hydrogen Production 
+(2B10), Rare Earths Production (2C7), Micro electrical mechanical Systems (2E4), and Waterproofing of 
+Electronic Circuits (2G2c) to reflect the addition of new guidance for these subcategories; (2) adding several 
+subcategories under Fluorochemical Production to reflect the broad range of fluorochemical products, (3) 
+updating the name of the Electronics subcategory previously called “TFT Flat Panel Display” to the more 
+comprehensive “Display,” and (4) removing the subcategory “Heat Transfer Fluid” from the Electronics 
+category, because the fluorinated liquids previously covered by this subcategory may be used in any of the 
+Electronics sub-sectors (Semiconductors, Displays, Photovoltaics, or microelectromechanical systems (MEMS)), 
+may be used for applications other than heat transfer (including for testing, soldering, and cleaning), and are 
+identifiable through their chemical contents, which are reported based on the columns of Table 1.1 (see note 10 
+to Table 1.1).  
+ 
+                                                           
+3  The first two compounds are marketed under the Fluorinert™ trade name, along with other fully fluorinated compounds 
+such as alkanes, other tertiary amines and aminoethers. The last compound is marketed under the Novec Engineered 
+FluidTM tradename.  
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.7 
+Figure 1.1 (Updated) Industrial Processes and Product Use categories 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.2 
+GENERAL AND CROSS-CUTTING ISSUES 
+1.2.1 
+Definition of industrial process, fuel combustion and 
+fuel transformation emissions 
+Allocating emissions from the use of fossil fuel between the Energy and IPPU Sectors can be complex. The 
+feedstock and reductant uses of fuels frequently produce gases that may be combusted to provide energy for the 
+process. Equally part of the feedstock may be combusted directly for heat (Sector 1A) or transformed into other 
+energy products (Sector 1B). This can lead to uncertainty and ambiguity in reporting. To help to overcome this 
+problem, these Guidelines introduce practical guidance on when to allocate CO2 emissions released from 
+combustion of fuel to the subcategory fuel combustion within the energy source category or to the industrial 
+process source category. The rule is given in Box 1.1.  
+Further guidance for specific source categories is also presented in the 2019 Refinement (including the revised 
+guidance on coke production and new guidance for hydrogen production), to include cross-references to the 
+relevant methodology sections of the Energy Volume, and to present good practice for reporting allocations.  
+The problems encountered when allocating CO2 emissions to fuel combustion, fuel transformation or industrial 
+processes are particularly prominent when by-product fuels or waste gases are transferred from the 
+manufacturing site and combusted elsewhere in quite different activities. This fact has formed the principle for 
+the guidance given in Box 1.1, which provides a definition for fuel combustion and a criterion for deciding 
+whether emissions from by-product fuels should be reported in the IPPU Sector or in an Energy Sector source 
+category. Section 1.3 provides background information on the nature of non-energy uses of fossil fuels, 
+accounting for feedstock and reductant uses of fossil fuels and on the links with the fossil fuel use in the Energy 
+Sector. 
+1.2.2 
+Capture and abatement 
+No refinement. 
+1.2.3 
+Precursors  
+No refinement. 
+1.2.4 
+Indirect N2O  
+No refinement. 
+1.2.5 
+International data sources 
+Good national data are to be preferred and used wherever available. In cases where data availability is a problem, 
+inventory compilers may consult international data sources for proxy data for IPPU estimates. Sources include: 
+• 
+United Nations (UN) industrial production statistics which are available in hard copy in the ‘Industrial 
+Commodity Statistics Yearbook’ (UN, 2004) from 1991 onwards and as CD-ROM with statistics from 1950 
+onwards; data (in physical units) are given by commodity and country for all years and almost all 
+commodities relevant for emission inventories.  
+• 
+Organisation for Economic Co-operation and Development (OECD) publishes production data in monetary 
+units 
+(value 
+of 
+production) 
+for 
+the 
+OECD 
+countries 
+(http://www.oecd.org/statsportal/0,2639,en_2825_293564_1_1_1_1_1,00.html) but data for the most recent 
+years are not available. OECD also sells a publication with additional data (http://www.oecd.org/ 
+document/63/0,2340,en_2825_499554_1935935_1_1_1_1,00.html), but according to the web site the most 
+recent data are for 2001. National account data can be also accessed, for a charge, for the years up to 2002. 
+Most useful is perhaps the STAN (Industry Structural Analysis) database of the OECD (again only available 
+via 
+subscription 
+at 
+http://hermia.sourceoecd.org/vl=4126925/cl=58/nw=1/rpsv/cw/vhosts/oecdstats/ 
+16081307/v265n1/contp1-1.htm), this contains monetary production data, for years up to 2002, for major 
+industries. Note, however, that the monetary value reflects not only the production quantity but also the 
+price of the product - which may fluctuate from one year to another - so the data should be used with care.  
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.9 
+• 
+Eurostat publishes PRODCOM data (Eurostat, 2005) for many European countries.  
+• 
+Statistics on production of a large number of commodities and capacity of individual plants are provided by 
+the commodity and country by the U.S. Geological Survey as part of the International Minerals Statistics 
+and Information (USGS, 2005). 
+ 
+TABLE 1.1 (UPDATED) 
+INDUSTRIAL PROCESSES AND PRODUCT USE CATEGORIES AND THEIR POSSIBLE EMISSIONS 
+2 Industrial Processes and Product Use (Note 1, 2) 
+CO2 
+CH4 
+N2O 
+HFCs 
+PFCs 
+SF6 
+NF3 
+Other  
+halogenated 
+compounds 
+(Note3) 
+2A Mineral Industry 
+ 
+2A1: Cement Production 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2A2: Lime Production 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2A3: Glass Production 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2A4: Other Process Uses of Carbonates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2A4a: Ceramics 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2A4b: Other Uses of Soda Ash 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2A4c: Non Metallurgical Magnesia Production 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2A4d: Other  
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2A5: Other 
+X 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+2B Chemical Industry 
+ 
+2B1: Ammonia Production 
+X 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2B2: Nitric Acid Production 
+* 
+* 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+2B3: Adipic Acid Production 
+* 
+* 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+2B4: Caprolactam, Glyoxal and Glyoxylic Acid 
+Production 
+* 
+* 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+2B5: Carbide Production 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2B6: Titanium Dioxide Production 
+X 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2B7: Soda Ash Production 
+X 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2B8: Petrochemical and Carbon Black Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   2B8a: Methanol 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+   2B8b: Ethylene 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+   2B8c: Ethylene Dichloride and Vinyl Chloride 
+Monomer 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+   2B8d: Ethylene Oxide 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+   2B8e: Acrylonitrile 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+   2B8f: Carbon Black  
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2B9: Fluorochemical Production (Note 4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2B9a: HCFC-22 Production 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+X 
+ 
+  2B9b: HFC Production 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+  2B9c: PFC Production 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+  2B9d: SF6 Production 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+  2B9e: NF3 Production 
+ 
+ 
+X 
+ 
+X 
+ 
+X 
+ 
+ 
+  2B9f: Fluoropolymer Production 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+X 
+ 
+  2B9g: Other Fluorochemical Production(Note 5)
+ 
+ 
+ 
+ 
+X 
+X 
+X 
+X 
+X 
+ 
+2B10: Hydrogen 
+X 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2B11: Other 
+* 
+* 
+* 
+* 
+* 
+* 
+ 
+* 
+2C Metal Industry 
+ 
+2C1: Iron and Steel Production 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2C2: Ferroalloys Production 
+X 
+X 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2C3: Aluminium Production 
+X 
+* 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+2C4: Magnesium Production (Note 6) 
+X 
+ 
+ 
+X 
+X 
+X 
+ 
+X 
+ 
+2C5: Lead Production 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2C6: Zinc Production 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2C7: Rare Earths Production 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+2C8: Other  
+* 
+* 
+* 
+* 
+* 
+* 
+ 
+* 
+2D Non-Energy Products from Fuels and Solvent Use (Note 7) 
+ 
+2D1: Lubricant Use 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2D2: Paraffin Wax Use  
+X 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+2D3: Solvent Use (Note 8) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2D4: Other  (Note 9) 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+2E Electronics Industry 
+ 
+2E1: Integrated Circuit or Semiconductor (Note 10) 
+* 
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+2E2: Display (Note 10) 
+ 
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+2E3: Photovoltaics  (Note 10) 
+ 
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+2E4: MEMS (Note 10) 
+ 
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+2E5: Other 
+* 
+* 
+* 
+* 
+* 
+* 
+ 
+* 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 1.1 (UPDATED) (CONTINUED)  
+INDUSTRIAL PROCESSES AND PRODUCT USE CATEGORIES AND THEIR POSSIBLE EMISSIONS 
+2 Industrial Processes and Product Use (Note 1, 2) 
+CO2 
+CH4 
+N2O 
+HFCs 
+PFCs 
+SF6 
+NF3 
+Other  
+halogenated 
+compounds 
+(Note3) 
+2F Product Uses as Substitutes for Ozone Depleting Substances 
+ 
+2F1: Refrigeration and Air Conditioning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   2F1a: Refrigeration and Stationary Air 
+Conditioning 
+* 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+   2F1b: Mobile Air Conditioning 
+* 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+2F2: Foam Blowing Agents 
+* 
+ 
+ 
+X 
+* 
+ 
+ 
+* 
+ 
+2F3: Fire Protection 
+* 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+2F4: Aerosols  
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+2F5: Solvents  (Note 11) 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+* 
+ 
+2F6: Other Applications 
+* 
+* 
+* 
+X 
+X 
+ 
+ 
+* 
+2G Other Product Manufacture and Use 
+ 
+2G1: Electrical Equipment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2G1a: Manufacture of Electrical Equipment (Note 12)  
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+X 
+ 
+  2G1b: Use of Electrical Equipment (Note 12)   
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+X 
+ 
+  2G1c: Disposal of Electrical Equipment (Note 12)  
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+X 
+ 
+2G2: SF6 and PFCs from Other Product Uses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2G2a: Military Applications(Note 13) 
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+X 
+ 
+  2G2b: Accelerators (Note 14) 
+ 
+ 
+ 
+ 
+* 
+X 
+ 
+X 
+ 
+  2G2c: Waterproofing of Electronic Circuits 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+ 
+  2G2d: Other(Note 15) 
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+ 
+ 
+2G3: N2O from Product Uses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2G3a: Medical Applications 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+  2G3b: Propellant for Pressure and Aerosol Products 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+  2G3c: Other 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+2G4: Other 
+* 
+* 
+ 
+* 
+ 
+ 
+ 
+* 
+2H Other 
+ 
+2H1: Pulp and Paper Industry (Note 16) 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2H2: Food and Beverages Industry (Note 16) 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2H3: Other  
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+1) ‘X’ denotes gases for which methodological guidance is provided in this volume.  
+2) ‘*’ denotes gases for which emissions may occur but for which no methodological guidance is provided in this volume. 
+3) For precursors (NOx, CO, NMVOC, SO2 and NH3) see Table 7.1 in Chapter 7 of Volume 1. 
+4) The Tier 2 and 3 methodologies are applicable to any fluorinated greenhouse gas, including those specifically listed in the columns 
+above and other fluorinated compounds. In these tiers all estimates are based on measurements, either measured losses from the process 
+or measured emissions, and accommodate process-specific releases. For the Tier 1 methodology, default emission factors (for the 
+product and/or by-products) are provided specifically for production of HCFC-22, SF6 and NF3. For the production of HFCs, PFCs, and 
+other fluorochemicals, a Tier 1 default emission factor based on a wide range of fluorochemical products and processes is provided. In 
+addition, a representative combination of emitted HFCs and PFCs is provided for situations when the inventory compiler does not know 
+the chemical identities of the emitted gases. 
+5) The ‘Other halogenated gases’ include but are not limited to fluorinated ethers, perfluoropolyethers, fluoroketones, fluorinated alcohols, 
+SF5CF3, and perfluoroamines. 
+6) Small amounts of CO2 used as a diluent for SF6 and emitted during magnesium processing is considered insignificant and is usually 
+counted elsewhere. The ‘other halogenated gases’ here mainly comprise fluorinated ketones.  
+7) Emissions from feedstock uses in petrochemical industry should be addressed in 2B8 (Petrochemical and Carbon Black Production). 
+Emissions from some product uses should be allocated to each industry source category (e.g., CO2 from carbon anodes and electrodes  
+2C (Metal Industry)). 
+8) Only NMVOC emissions and no direct greenhouse gases are relevant to this category. Therefore no methodological guidance is 
+provided in this volume. For guidance on NMVOC, see Chapter 7, Volume 1. 
+9) Emissions from Asphalt Production, Paving of Roads and Roofing are included here. For details, see Section 5.4 of this volume. 
+10) The ‘Other halogenated compounds’ may include, for example, c-C4F8O, as well as hydrofluoroethers, perfluoropolyethers, 
+perfluoroamines, and perfluoroalkyl morpholines used for temperature control, device testing, cleaning substrate surfaces and other parts, 
+and soldering during electronics manufacturing. Specific compounds to be reported here include (but are not limited to) those listed in 
+Table 6.5 of Volume 3, such as HFE-449s1 (3MTM NovecTM HFE-7100), HFE-569sf2, (3MTM NovecTM HFE-7200), 
+perfluorotripropylamine (PTPA, 3MTM FluorinertTM FC-3283/FC-8270), perfluoroisopropylmorpholine (3MTM FluorinertTM FC-770), 
+and various PFPMIE fractions marketed by SolvayTM under the GaldenTM trademark, such as HT-55 through HT-270. See Volume 3, 
+Chapter 6 for more potentially emitted compounds. 
+11) Emissions from use of fluorinated gases as solvent should be reported here. Emissions from aerosols containing solvents should be 
+reported under Category 2F4 rather than under this category. Emissions from other solvent use should be reported under 2D3. 
+12) ‘Other halogenated gases’ may include fluoroketones and fluoronitriles.  
+13) ‘Other halogenated gases’ may include, for example, hydrofluoroethers, perfluoropolyethers, perfluoroamines, and perfluoroalkyl 
+morpholines used for temperature control and other applications. Specific compounds to be reported here include (but are not limited to) 
+those listed in Table 6.5 of Volume 3. 
+14) ‘Other halogenated gases’ may include fluoroketones and fluoronitriles.  
+15) Appendix 1 of this volume includes a basis for future methodological development for estimating fluorinated GHG emissions from the 
+textile, carpet, leather, and paper industries. Gases that are believed to be emitted from these industries include HFCs, PFCs, SF6, and 
+potentially other fluorinated GHGs.  
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.11 
+16) No specific section on these categories is provided in this volume, but methodological guidance on CO2 emissions from use of 
+carbonates from these industries is provided in Chapter 2, Section 2.5 of this volume. 
+ 
+1.3 
+NATURE OF NON-ENERGY USES OF FUELS 
+As explained in Section 1.1 some CO2 emissions from fossil fuels arise from uses that are not primarily for 
+energy purposes and, in this section, the principles are described which have guided their estimation and 
+reporting. The methods used to estimate emissions are described in the specific IPPU source category chapters 
+(Chapters 3, 4 and 5). This section provides important and additional background information for the use of data 
+relating to non-energy use and the links between these data and the fossil fuel use. 
+Non-energy use is widespread, diverse and the correct reporting of its emissions is conceptually difficult. It is 
+good practice to ensure that all fossil fuels supplied for non-energy purposes can be linked to uses covered by 
+the inventory and the reported emissions are consistent with the carbon supplied. Accordingly, Section 1.4 
+provides guidance for assessing consistency and completeness of carbon emissions from feedstock use of fuels 
+by (a) checking that feedstock requirements of processes included in the inventory are in balance with the 
+feedstock supply as recorded in national energy statistics, (b) checking that total reported bottom-up calculated 
+CO2 emissions from feedstock sources at different subcategory levels are complete and consistent, (c) 
+documenting and reporting how these emissions are allocated in the inventory. 
+Note that in the 2019 Refinement, new methods are presented to reflect the use of bio-fuels and biomass in non-
+energy applications, for example as feedstock in the production of hydrogen (see Section 3.11). These IPPU 
+processes may generate methane or nitrous oxide for inclusion within the national inventory total, and also 
+generate IPPU bio-CO2 emissions as a memo item to the national inventory. The principles outlined in this 
+section, whilst primarily developed to account for fossil carbon across the Energy and IPPU sectors, equally can 
+be applied to reconcile inventory NEU and energy use data for biofuels against national commodity balance data. 
+1.3.1 
+Types of uses 
+Some primary fuels (coal, natural gas) and secondary fuels derived from coal and crude oil may be used for non-
+fuel purposes. These are commonly referred to as non-energy use of fuels although their use may involve 
+combustion of part of the hydrocarbon content for heat-raising. 
+Three categories of non-energy use can be distinguished depending on its use: 
+1. Feedstock: Feedstocks are fossil fuels that are used as raw materials in chemical conversion processes in 
+order to produce primarily organic chemicals and, to a lesser extent, inorganic chemicals (especially 
+ammonia) and their derivatives (OECD/IEA/Eurostat, 2004). In most cases, part of the carbon remains 
+embodied in the product manufactured. The use of hydrocarbon feedstocks in chemical conversion 
+processes is almost entirely confined to the chemical and petrochemical industries. 
+2. Reductant: Carbon is used as reducing agent for the production of various metals (Chapter 4) and inorganic 
+products (Sections 3.6 – 3.8). It is either used directly as reducing agent or indirectly via the intermediate 
+production of electrodes used for electrolysis. In most cases, only very small amounts of carbon are 
+embodied in the product manufactured, while the major part is oxidised during the reduction process.  
+3. Non-energy product: Apart from fuels, refineries and also coke ovens produce some non-energy products 
+which are used directly (i.e., without chemical conversion) for their physical or diluent properties or which 
+are sold to the chemical industry as chemical intermediate. Lubricants and greases are used in engines for 
+their lubricating properties; paraffin waxes are used as candles, for paper coating etc.; bitumen on roofs and 
+roads for its waterproofing and wear qualities. Refineries also produce white spirits, which are used for their 
+solvent properties. 
+This chapter discusses emissions that result from the first use of the hydrocarbons belonging to these three 
+categories. Table 1.2 shows the types of hydrocarbons used in the three categories and the main applications. 
+The list of fuel types and processes is illustrative and not exhaustive as some lesser uses of refinery or coke oven 
+products are omitted. For example, refinery olefins are not shown because only a minor portion of the olefins 
+used for the manufacture of intermediate products is produced in refineries.  
+This section focuses on the issues surrounding the reporting of industrial process and fuel combustion emissions 
+from the use of fossil fuels as feedstocks and reductants (the first and second categories in Table 1.2). The 
+relatively simpler issues affecting estimation of emissions from the first uses of non-energy products (the third 
+category in Table 1.2) are presented with the methods in Chapter 5. 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+In addition to the emissions from the first use of hydrocarbons, products made from feedstocks (methanol, 
+ethylene, carbon black) and their derivatives may lead to additional emissions after manufacture and sale. For 
+example, the conversion of ethylene to ethylene oxide leads to substantial industrial process CO2 emissions 
+(Section 3.9).  
+Emissions from subsequent uses of ‘used’ non-energy products (post-consumer waste) are not included in this 
+volume on IPPU Sector but are covered under the Energy and Waste Sectors depending on whether the treatment 
+occurs with or without energy recovery or in the form of wastewater treatment. 
+ 
+TABLE 1.2 (UPDATED)  
+TYPES OF USE AND EXAMPLES OF FUELS USED FOR NON-ENERGY APPLICATIONS 
+Type of use 
+Example of fuel types 
+Product/process 
+Chapter 
+Feedstock 
+natural gas, oils, coal 
+ammonia 
+3.2 
+natural gas, oils, coal, biofuels, biomass 
+hydrogen 
+3.11 
+naphtha, natural gas, ethane, propane, butane, 
+gas oil, fuel oils 
+methanol, olefins (ethylene, 
+propylene), carbon black 
+3.9 
+Reductant 
+petroleum coke 
+carbides 
+3.6 
+coal, petroleum coke 
+titanium dioxide 
+3.7 
+metallurgical cokes, pulverised coal, natural gas 
+iron and steel (primary) 
+4.2 
+metallurgical cokes 
+ferroalloys 
+4.3 
+petroleum coke, pitch (anodes) 
+aluminium 1 
+4.4 
+petroleum coke, pitch (anodes) 
+Rare Earths Production 
+4.8 
+metallurgical coke, coal 
+lead 
+4.6 
+metallurgical coke, coal 
+zinc 
+4.7 
+Non-energy 
+product 
+lubricants 
+lubricating properties 
+5.2 
+paraffin waxes 
+misc. (e.g., candles, coating) 
+5.3 
+bitumen (asphalt) 
+road paving and roofing 
+5.4 
+white spirit2, some aromatics 
+as solvent (paint, dry cleaning) 
+5.5 
+1. Also used in secondary steel production (in electric arc furnaces) (see Chapter 4.2). 
+2. Also known as mineral turpentine, petroleum spirits, industrial spirit (‘SBP’). 
+ 
+1.3.2 
+Accounting for feedstock and reductant uses of fossil 
+fuels and their CO2 emissions 
+No refinement. 
+1.3.3 
+Emissions from refinery processes 
+Refineries manufacture petroleum products for fuel and for non-energy uses, and in doing so produce hydrogen 
+and other gases, intermediate products and basic chemicals. The CO2 emissions from fuel consumed by the 
+refinery for this activity are reported as Energy Sector emissions. This principle is maintained in the Guidelines 
+even when some fuel use in the refinery is to support manufacture of chemicals for sale (for example, propylene 
+or aromatics). In the 2019 Refinement, this principle is re-iterated within the new guidance presented for 
+hydrogen production, which is a new IPPU source category; the emissions from hydrogen production within a 
+refinery as an intermediate product are primarily to support Energy sector activities, with emissions to be 
+reported in the Energy sector. 
+The manufacture of basic chemicals in refineries is a normal occurrence usually through the treatment of by-
+products of mainstream manufacture and they may be used in other refinery processes or transferred to adjoining 
+petrochemical works. However, in some circumstances the demand for basic chemicals may cause the refinery to 
+adjust production processes to increase supply of the chemical and sell directly into the market. Despite this 
+Chapter 1: Introduction 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.13 
+activity the fuel use to support all processes is still considered as refinery fuel and the emissions as Energy 
+Sector emissions. It is important to recognise that the production for sale of basic chemicals in refineries is 
+considered a secondary activity distinct from the manufacture of chemicals in adjoining or co-located 
+petrochemical works. This is consistent with the separate statistical classification of the two economic activities. 
+1.4 
+QC OF COMPLETENESS AND ALLOCATION 
+OF CO2 FROM NON-ENERGY USES 
+1.4.1 
+Introduction 
+No refinement. 
+1.4.2 
+Scope of methods 
+No refinement. 
+1.4.3 
+Quality control of completeness 
+The CO2 completeness check (Section 1.4.3.1) starts from energy balance data and is designed to check that all 
+significant emissions of CO2 from the first non-energy uses of fossil fuels are reported somewhere in the 
+inventory, without double counting. The emissions are the sum of CO2 emissions from (a) fuels used as 
+feedstock in the chemical industry, (b) fuels used as reductant in the metal industry, (c) fuel products oxidised 
+during use (partly or fully; direct emissions or emissions of carbon containing non-CO2 gases (Non-methane 
+volatile organic compound (NMVOC), carbon monoxide (CO) and CH4) oxidised in the atmosphere). 
+Subsequent CO2 emissions may occur in the waste phase if the waste oils or waste products are incinerated. 
+However, the amount of fossil-carbon containing products disposed of annually as waste is not equal to the 
+amount used annually for first uses because fossil-carbon containing products may be imported or exported or 
+they may be used for several years before they are discarded. The complications which arise from external trade 
+hold equally for emissions resulting from the use of products made from feedstocks and their derivatives. Since 
+derivative products may also be imported or exported the emissions from their use (e.g., from ethylene oxide or 
+acrylonitrile production) cannot be linked directly to the first non-energy use of fossil fuels. For these reasons the 
+CO2 completeness check is limited to the first non-energy uses of fossil carbon which lead to emissions and does 
+not include CO2 emissions from waste incineration. Other non-energy sources of fossil CO2 are flaring, venting 
+and other fugitive emissions in the Category 1B and are also excluded from this completeness checking method. 
+The feedstock balance check (Section 1.4.3.2) is simpler in concept and starts from non-energy statistics for 
+feedstock/reductant supplies and compares them with the reported (or implied) requirements for feedstock by the 
+various IPPU processes. This check identifies discrepancies between the two sets of data that may indicate 
+omitted processes or feedstock use classified as fuel combustion. 
+1.4.3.1 
+CO2 COMPLETENESS CHECK 
+The principle of this method is based on comparisons of reported CO2 emissions with potential CO2 emissions 
+from the fuel for non-energy uses and consists of three steps: 
+1. CO2-equivalent carbon contents are calculated for the non-energy use of fossil fuels as reported in national 
+energy statistics (including the coke and other solid fuel inputs into blast furnaces).  
+2. Total CO2 emissions reported per IPPU subcategory are related to (main) fuels used for non-energy 
+purposes. This should include emissions from by-product fuels transferred from the IPPU Sector and 
+reported elsewhere in the Energy Sector. 
+3. Total reported fossil IPPU CO2 emissions are compared with a top-down estimate of potential CO2 of the 
+carbon content of the feedstocks used. The comparison is made by calculating the actual CO2 released as a 
+fraction of the total potential CO2 in the input fuels. The fractions may then be compared with values 
+observed for different industries (see below, ‘Step 3: Actions arising from the comparison’). In case of 
+significant discrepancies, likely causes of differences should be listed, taking into account the accuracy of 
+the allocation of sources to individual fuels. 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+ 
+1.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Step 1: Feedstock amount and CO2-equivalent carbon content 
+The amount of feedstock and non-energy use entered in Table 1.3 is the final consumption of each fuel for ‘non-
+energy’ purposes as reported in the national energy statistics. The quantities should be expressed in, or converted 
+to, Terajoules (TJ) using the net calorific (lower heating) values (see Chapter 1 of Volume 2 for IPCC default 
+values). Next the potential CO2-eq. emissions associated with the carbon contents can be calculated using 
+country-specific or IPCC default carbon content values (see Chapter 1 of Volume 2 for IPCC default values). 
+If a country accounts separately for the production of by-product gases from chemical production processes in 
+their energy statistics, these should also be added in the top row of fuel amounts associated with feedstock 
+emissions of CO2 and the corresponding amount of CO2-eq. calculated using country-specific carbon content 
+values. 
+Step 2: Allocating source category CO2 emissions to one or more feedstock fuels 
+The CO2 emissions reported in the IPPU Sector that arise mainly from the metal and chemical industries, should 
+be allocated to the corresponding fuel types used as input for the process. Emissions resulting from the non-
+energy use of fossil fuels reported elsewhere should be included here too. Guidance for this allocation is 
+provided in Table 1.3, where for each subcategory the most common feedstock fuel is marked as a bolded box. 
+Other fuels that are known to be used as feedstock for these sources are indicated with a regular box. In most 
+cases these boxes are the only allocations to be checked for the country-specific application. If no specific 
+information is available, all CO2 emissions may be assigned to the bold box. Where country-specific information 
+shows that several fuels are used as feedstock, either the specific fractions for each fuel can be used or each may 
+be given an equal share of the source total. 
+Step 3: Actions arising from the comparison  
+The fraction of potential CO2 actually released may be calculated per fuel type or per group of fuels, and can be 
+assessed for their level, trend and interannual variation. The values of the fractions may be compared with values 
+inferred from the information provided for the methodological tiers for the source categories or from literature 
+(e.g., Neelis et al., 2005). 
+Small differences or changes may be expected due to process-specific technological or operational differences. 
+Major differences can arise from large differences in technologies or, when comparing with other countries’ data 
+or literature, from the use of a different definition of feedstocks (for details see Section 1.3). A third explanation 
+of discrepancies may be due to errors in the presumed allocation of source category emissions to specific fuel 
+types used as feedstock in the process. 
+ 
+ Chapter 1: Introduction 
+    2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+                                                                                                                             1.15 
+TABLE 1.3 (UPDATED) VERIFICATION OF COMPLETENESS OF REPORTED CO2 FROM NON-ENERGY USE OF FOSSIL FUELS 
+NOTES
+Solids
+1
+Year:__________
+Unit
+Coal
+Coke
+Coal tars
+Coal oils
+BF/OF gas
+(CO gas) b)
+Total solids
+2
+A: Declared NEU (from commodity balance)
+TJ
+3
+B: Carbon Content
+kg C/GJ
+C: Total supplied for feedstock/non-energy
+Gg C
+4
+D: Total supplied for feedstock/non-energy
+Gg CO2-eq.
+5
+E: Implied carbon fraction oxidised
+%
+Activity a)
+CO2
+IEF
+Emissions a)
+CO2
+6
+F: Total fossil IPPU CO2 reported
+Gg CO2
+2 INDUSTRIAL PROCESSES
+Gg CO2
+7
+2A: Mineral Industry
+Gg CO2
+(Please specify the subcategory.)
+Gg CO2
+7
+2B: Chemical Industry
+Gg CO2
+2B1: Ammonia Production
+Gg CO2
+2B5: Carbide Production
+Gg CO2
+2B6: Titanium Dioxide Production
+Gg CO2
+2B8: Petrochemical and Carbon Black Production
+Gg CO2
+2B8a: Methanol
+Gg CO2
+2B8b: Ethylene
+Gg CO2
+2B8f: Carbon Black
+Gg CO2
+2B10: Hydrogen
+Gg CO2
+2B11: Other
+Gg CO2
+7
+2C: Metal Industry
+Gg CO2
+2C1: Iron and Steel Production
+Gg CO2
+2C2: Ferroalloys Production
+Gg CO2
+2C3: Aluminium Production
+Gg CO2
+2C5: Lead Production
+Gg CO2
+2C6: Zinc Production
+Gg CO2
+2C7: Rare Earths Production
+Gg CO2
+2C8: Other
+Gg CO2
+7
+2D: Non-Energy Products from Fuels and Solvent Use
+Gg CO2
+2D1: Lubricant Use
+Gg CO2
+2D2: Paraffin Wax Use
+Gg CO2
+2D3: Solvent Use
+Gg CO2
+2D4: Other
+Gg CO2
+7
+2H: Other
+Gg CO2
+2H1: Pulp and Paper Industry
+Gg CO2
+2H2: Food and Beverage Industry
+Gg CO2
+2F3: Other
+Gg CO2
+EXCEPTIONS REPORTED ELSEWHERE
+Gg CO2
+7
+1A FUEL COMBUSTION ACTIVITIES
+Gg CO2
+1A1a:  Main Activity Electricity and Heat Production
+Gg CO2
+1A1b: Petroleum Refining
+Gg CO2
+1A1c: Manufacture of Solid Fuels and Other Energy Industries
+Gg CO2
+1A2: Manufacturing Industries and Construction
+Gg CO2
+a)
+Same Activity Data and emissions as in sectoral background table (also for Activity Data NE, NO, C, and for emissions NE, NO, IE, where applicable).
+b)
+To be included only if coke production is reported as part of integrated iron and steel production.
+1:
+To be specified per year
+2:
+Cf. Auxiliary worksheet for CO2-Reference Approach to subtract the NEU from total apparent consumption 
+3:
+IPCC default or country-specific values
+4:
+So-called potential emissions, i.e., carbon embodied in the feedstock/non-energy fuels expressed in CO2-eq.
+5:
+Ratio of CO2 emissions (direct emissions as well as atmospheric inputs of CO2 from other carbon (non-CO2)) at some aggregation level (by detailed fuel type or by major fuel type) to total potential CO2 in feedstock NEU fuels consumed
+6:
+Sum of subcategories below including IPPU sources allocated to Fuel Combustion Activities 1A (due to transfer of by-product fuels to another source category (and 1B, 4C when appropriate))
+7:
+Sum of subcategories of that category
+[E = F / D * 100]
+[C = A * B / 1000]
+[D = C * 44/12]
+ 
+    Volume 3: Industrial Processes and Product Use 
+ 
+  2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+1.16 
+ 
+ 
+TABLE 1.3 (UPDATED) (CONTINUED) VERIFICATION OF COMPLETENESS OF REPORTED CO2 FROM NON-ENERGY USE OF FOSSIL FUELS 
+NOTES
+Liquids
+Gas
+1
+Year:__________
+Unit
+Naphtha
+Gas oil
+Fuel Oil Ethane
+LPG b)
+Petcoke Other
+Chem. gas
+Lubricants
+Waxes
+Bitumen Total liquids
+Nat Gas
+Total gas
+2
+A: Declared NEU (from commodity balance)
+TJ
+3
+B: Carbon Content
+kg C/GJ
+C: Total supplied for feedstock/non-energy
+Gg C
+4
+D: Total supplied for feedstock/non-energy
+Gg CO2-eq.
+5
+E: Implied carbon fraction oxidised
+%
+Activity a)
+CO2
+IEF
+Emissions a)
+CO2
+6
+F: Total fossil IPPU CO2 reported
+Gg CO2
+2 INDUSTRIAL PROCESSES
+Gg CO2
+7
+2A: Mineral Industry
+Gg CO2
+(Please specify the subcategory.)
+Gg CO2
+7
+2B: Chemical Industry
+Gg CO2
+2B1: Ammonia Production
+Gg CO2
+2B5: Carbide Production
+Gg CO2
+2B6: Titanium Dioxide Production
+Gg CO2
+2B8: Petrochemical and Carbon Black Production
+Gg CO2
+2B8a: Methanol
+Gg CO2
+2B8b: Ethylene
+Gg CO2
+2B8f: Carbon Black
+Gg CO2
+2B10: Hydrogen
+Gg CO2
+2B11: Other
+Gg CO2
+7
+2C: Metal Industry
+Gg CO2
+2C1: Iron and Steel Production
+Gg CO2
+2C2: Ferroalloys Production
+Gg CO2
+2C3: Aluminium Production
+Gg CO2
+2C5: Lead Production
+Gg CO2
+2C6: Zinc Production
+Gg CO2
+2C7: Rare Earths Production
+Gg CO2
+2C8: Other
+Gg CO2
+7
+2D: Non-Energy Products from Fuels and Solvent Use
+Gg CO2
+2D1: Lubricant Use
+Gg CO2
+2D2: Paraffin Wax Use
+Gg CO2
+2D3: Solvent Use
+Gg CO2
+2D4: Other
+Gg CO2
+7
+2H: Other
+Gg CO2
+2H1: Pulp and Paper Industry
+Gg CO2
+2H2: Food and Beverage Industry
+Gg CO2
+2F3: Other
+Gg CO2
+EXCEPTIONS REPORTED ELSEWHERE
+Gg CO2
+7
+1A FUEL COMBUSTION ACTIVITIES
+Gg CO2
+1A1a:  Main Activity Electricity and Heat Production
+Gg CO2
+1A1b: Petroleum Refining
+Gg CO2
+1A1c: Manufacture of Solid Fuels and Other Energy Industries
+Gg CO2
+1A2: Manufacturing Industries and Construction
+Gg CO2
+[E = F / D * 100]
+[C = A * B / 1000]
+[D = C * 44/12]
+ 
+Note: In the tabular part, bolded boxes mark the main fuels as feedstock or reductant for the processes at the left hand side. Regular boxes mark other known feedstock/reductant for the processes at 
+the left hand side. 
+Chapter 1: Introduction 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.17 
+1.4.3.2 
+FEEDSTOCK BALANCE CHECK 
+The principle of the feedstock balance check method is to compare the supply of feedstock/reductants as reported 
+in national fuel statistics with the requirements for the feedstocks by each of the processes using them. A 
+significant difference between the supply and the requirements of a feedstock leads to several suggested actions 
+intended to identify omission of feedstock uses from the inventory or uses of fuel as feedstock that have been 
+reported as fuel consumption or conversion. 
+Unlike the CO2 completeness check the feedstock balance check is conducted at the level of fuel quantities and 
+not CO2 emissions. The method seeks confirmation that all feedstock carbon has been satisfactorily attributed to 
+source categories identified in the inventory. 
+The workings of the method are explained below and readily set out in a worksheet (Table 1.5a). A list of 
+feedstock fuels to be considered is presented in Table 1.4. 
+TABLE 1.4 (UPDATED) 
+LIST OF FUELS THAT CAN BE USED AS CHEMICAL FEEDSTOCK OR REDUCTANT 
+Solids 
+Liquids 
+Gases 
+Other fuels 
+coal 
+refinery gas 
+naphtha 
+natural gas 
+other fuel 
+metallurgical coke* 
+Ethane 
+kerosene 
+ 
+waste (fossil carbon) 
+petroleum coke* 
+propane 
+gas oil 
+ 
+Biofuels / biomass 
+coal tars and oils* 
+butane 
+fuel oil 
+ 
+ 
+ 
+LPG 
+waste oils 
+ 
+ 
+* Includes uses as electrodes. 
+Step 1: Feedstock supply 
+Figures for supply of each feedstock/reductant are taken from national fuel statistics presented in commodity or 
+energy balances. They will be shown as non-energy use or feedstock use according to the country’s particular 
+conventions and reductants as inputs to a transformation process. The quantities should be expressed in, or 
+converted to, Terajoules (TJ) using net calorific (lower heating) values (see Chapter 1 of Volume 2 for IPCC 
+default values). 
+The definitional basis for feedstock reporting differs between countries and this consideration is fully discussed 
+in Sections 1.2.1 and 1.3.2. Some care is therefore needed to identify and use the correct hydrocarbon input 
+figures that will correspond with a process’s gross hydrocarbon requirements for the feedstock or reductant 
+(including inputs not or only partly labelled as non-energy use in energy statistics). The total hydrocarbon 
+process input attributed to feedstock/reductant use is required for the feedstock balance check described here, 
+because the Specific Feedstock Consumption (SFC) figures of each process, as given in the table, include the 
+fuel requirement. The SFC is the amount (expressed in TJ/Gg) of feedstock/reductant required per tonne of 
+product produced. 
+Step 2: Feedstock requirements 
+The feedstock requirements of each process will include fuels taken directly or indirectly from the feedstock. 
+Where the necessary data are available from industry sources they can then be entered into the ‘requirements’ 
+part of the worksheet. Where the data are not available the requirements should be calculated from the 
+production figures for the processes and where necessary, using expert judgement based on the emissions 
+estimation used for the process(es). The figure for the process requirement is likely to be identical to the quantity 
+supplied (taken from energy statistics) only when the latter has been obtained from industry sources. 
+When requirements are calculated from production using the spreadsheet the production figures are those 
+relevant to the process for the given feedstock. If two or more feedstocks supply a single process then the 
+corresponding production figures should be used for each feedstock. 
+Table 1.5b provides SFC factors linking production figures to feedstock requirements. The factors are the 
+specific feedstock requirements of the process and include fuel use of the feedstock. The factors provided in 
+Table 1.5b have been derived from the methods described in this volume of these Guidelines and may be 
+considered as default values. It is good practice to use national factors if they are demonstrably more relevant 
+than the default factors given here. 
+If Rij represents the feedstock requirements of process i for feedstock j, then the total requirement for feedstock j 
+(Rj), can be expressed as: 
+Volume 3: Industrial Processes and Product Use 
+1.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+EQUATION 1.1 
+TOTAL FEEDSTOCK REQUIREMENT 
+(
+)
+∑
+∑
+•
+=
+=
+i
+ij
+ij
+i
+ij
+j
+P
+SFC
+R
+R
+ 
+Where: 
+Rj  
+= total requirement for feedstock j, TJ 
+Rij  
+= feedstock requirements of process i for feedstock j, TJ 
+SFCij = Specific Feedstock Consumption of feedstock j in process i, TJ/Gg 
+Pij 
+= production from process i using feedstock j, Gg 
+The Rj is then compared with the figure for the supply of feedstock j. The difference appears in the Table 1.5a. 
+The implementation procedure for this check is set out in the flowchart in Figure 1.3. 
+Step 3: Actions arising from the comparison 
+It is suggested that if the difference observed exceeds 10 percent of the feedstock supply action should be taken 
+to check the data and, if the difference is confirmed, it should be investigated. The 10 percent threshold is 
+necessarily arbitrary and chosen to reflect the likely overall inherent uncertainties in the data. 
+It is considered good practice to focus the investigation on differences in which feedstock supply significantly 
+exceeds the apparent requirements because this suggests that: 
+• 
+Processes and therefore sources of emissions may have been omitted; or 
+• 
+The specific energy requirements used in the method are too low. The specific energy requirements should 
+then be adjusted to reflect the national situation. 
+When the calculated requirements exceed the apparent feedstock supply it suggests that: 
+• 
+Uses of feedstock fuels are reported elsewhere as fuel combustion or fuel conversion uses. 
+• 
+A ‘net’ definition of feedstock supply may have been used in the energy statistics instead of a ‘gross’ 
+definition (see the reference to ethylene and other chemicals in Section 1.3.2).  
+• 
+Feedstock requirements, obtained directly from industry sources, are overstated through the inclusion of 
+fuels entering the plant (or more generally, the source category) which are not used in the process and 
+therefore not for feedstock use. The inclusion of non-feedstock fuels should not occur when the feedstock 
+requirements are derived from production data. 
+Where significant discrepancies remain the likely causes of differences should be listed, taking into account the 
+accuracy of the calculation with default Specific Feedstock Consumption values per source category/feedstock 
+combination. 
+TABLE 1.5A (Updated)  COMPARISON OF FEEDSTOCK SUPPLY WITH REQUIREMENTS IMPLIED BY PRODUCTION 
+YEAR
+Feedstock 
+or 
+Reductant  
+(TJ)
+Process
+SFC (TJ/kt)
+Production 
+(Gg [=kt])
+Feedstock 
+Quantity delivered
+Difference
+Ammonia prodn
+Silicon carbide
+Calcium carbide
+Ethylene
+Values
+Methanol
+from 
+Carbon black
+Table 1.5b
+Hydrogen
+Other
+Iron and steel
+Ferroalloys
+Aluminium
+Zinc
+Lead
+Rare Earths
+Other
+Chemicals
+Metals
+   
+ 
+Table 1.5a is a reduced form of the full 
+table in which the tabular part is 
+replicated as many times as there are 
+types of feedstock or reductant. In each of 
+the 
+replications 
+the 
+‘Feedstock 
+or 
+Reductant’ heading in column 1 is 
+replaced by the name of the fuel. The 
+corresponding SFC values are then 
+entered in column 2. The default SFC 
+values are given in Table 1.5b below. 
+An Excel workbook is provided in the 
+2006 
+IPCC 
+Guidelines 
+CDROM 
+containing the full table, the default 
+values and the formulae to carry out 
+automatically 
+the 
+requirements 
+calculation. 
+ 
+Chapter 1: Introduction  
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.19 
+TABLE 1.5B (Updated) SPECIFIC FEEDSTOCK CONSUMPTION (TJ/Gg) FOR FEEDSTOCK/REDUCTANTS 
+Coal
+Met coke
+Pet Coke
+Coal tars 
+and oils
+Ref gas
+Ethane
+Propane
+Butane
+LPG
+Naphtha
+Kerosene
+Gas oil
+Fuel oil
+Waste oils
+Natural gas
+Ammonia prodn
+42(l) 
+37(o)
+Silicon carbide
+36(e)
+Calcium carbide
+17(f)
+Ethylene
+59(j)
+100(k)
+104(k)
+102(k)
+137(k)
+Methanol
+72(a)
+37(m)
+34(p)
+Carbon black
+60(h)
+60(n)
+12(q)
+Hydrogen prodn
+215 (r )
+165 (r )
+165 (r )
+165 (r )
+Other
+Iron and steel
+14(b)
+Ferroalloys
+Aluminium
+12(g)
+3(i)
+Zinc
+21(c)
+Lead
+7(d)
+Rare Earths
+4 (s)
+1 (s)
+Other
+NOTES (a) Methanol: From Section 3.9.2.2; Table 3.13 Consult table for precise value according to process used.
+(b) Iron and Steel: From Section 4.2.2.3:"Coke is consumed at a rate of about 475 kg/tonne of iron (or hot metal) produced." so coke requirement is 0.475 x cv(coke) 28.5 = 3.54 GJ/t iron.
+(c) Zinc: From Section 4.7.1 (pyrometallurgical process only) taken from Sjardin(2003) Coke consumption is 0.74t coke/t zinc. That is: 0.74 x 28.5 GJ/t or 21 GJ coke / t zinc.
+(d) Lead: taken from Sjardin(2003) Coke consumption is 0.26t coke/t lead. That is: 0.26 x 28.5 GJ/t or 7 GJ coke / t lead
+(e) Silicon carbide: From Section 3.6.2.2: ". . . This implies a typical emission factor of 2.3 tonnes CO2/tonne petroleum coke used (IPCC, 1996), or 2.62 tonnes CO2/tonne carbide produced.
+ Or 2.62/2.3 t coke per t carbide; = 1.14 t coke/t carbide. That is; 1.14 x 32 = 36 GJ per tonne of SiC.
+(f) Calcium carbide: From: Section 3.6.2.2 "1750 kg limestone (or 950 kg CaO), 640 kg of petroleum coke and 20 kg carbon electrodes are required to produce 1 tonne of carbide."
+So coke requirement is:Prodn x (640-20) x CV(coke) per tonne of CaC2. or  .620 x 32.5 = 20.15 GJ/tonne CaC2
+(g) Aluminium: From Section 4.4.2.2; Table 4.11 average of two processes 1.65t CO2/t alu. = 0.45tC/t alu. Assume anodes contain 84% coke and 16% pitch. (Sjardin 2003).  Assume coke is 92% C 
+and pitch 93% C. Assume CV calcined coke is 30MJ.kg and NCV for pitch 35.6MJ/kg. Then coke requirement is 12.3 GJ/t alu and pitch requirement 2.8 GJ/t alu.
+(h) Carbon black: Assumed identical to fuel oil.
+(i) Aluminium: See note for pet coke.
+(j) Ethylene: From Section 3.9.2.3; Table 3.25 Ethane requirement is: NCV(Ethane)x1/yield matrix value. That is:47.5 x 1/0.803 = 59.15
+(k) Ethylene: See ethane for sources and method.
+(l) Ammonia: From 3.2.2.2; Table 3.1;Partial oxidation assumed 
+(m) Methanol: From Section 3.9.2.2; Table 3.13. Consult table for precise value according to process used.
+(n) Carbon Black: Based on Voll et al and BREF LVIC Table 4.13
+(o) Ammonia: From Section 3.2.2.2; Table 3.1
+(p) Methanol: From Section 3.9.2.2; Table 3.13;Consult table for precise value according to process used.
+(q) Carbon black: Based on Voll et al and BREF LVIC Table 4.13
+(r) Hydrogen: From Section 3.11.2.2; Table 3.30 Consult table for precise value according to process used.
+(s) Rare Earths: From Section 4.8.2.2; Table 4.26 indicates average emissions of 0.15 tC / t RE produced, which is one third that of Aluminium production.
+Applying the same assumptions as for Aluminium in item (g) above derives the values for RE production for coke and pitch.
+Chemicals
+Metals
+Volume 3: Industrial Processes and Product Use 
+1.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 1.3 
+Flowchart for verification of completeness of accounting for non-energy uses of fuels 
+Start
+Do you have
+feedstock data from energy
+statistics?
+Do you
+have any national SFCij 
+values?
+Do you
+have all production
+data?
+Are any Rij
+missing?
+Do you have
+actual process feedstock
+requirements?
+Accept defaults
+in Table 1.5b.
+Make
+comparisons.
+No
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+No
+Yes
+Use expert judgement 
+to obtain missing Pij
+Put Rij data
+in table. (Table 1.5a)
+Put SFCij in
+table. (Table 1.5a)
+Put Pij in table. 
+(Table 1.5a)
+Obtain data.
+Note:
+  Rij = feedstock requirements of process i for feedstock j, TJ
+  SFCij = Specific Feedstock Consumption of feedstock j in process i, TJ/Gg
+  Pij = production from process i using feedstock j, Gg
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 1: Introduction  
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.21 
+1.4.4 
+Reporting and documentation of allocation and QC 
+of completeness 
+It is good practice to review, summarise and document the completeness checks, if performed, for non-energy 
+uses of fuels and fugitive emissions from fuel manufacture. This involves identifying the uses within the IPPU 
+Sector, Fuel Combustion Activities (Category 1A) and Fuel Transformation activities (Category 1B) in the 
+Energy Sector, as discussed in this section. 
+Different national methods exist for accounting for feedstock use of fuels in energy statistics and there is a 
+possibility, in exceptional cases, of reporting part of the CO2 in the Energy Sector (see Sections 1.2.1 and 1.3.2). 
+Consequently, it is good practice to show in the inventory report: 
+• 
+Where and how non-energy use of fuels has been accounted for in the inventory (whether in the Energy 
+Sector or the Industrial Processes and Product Use Sector.) (Section 1.4.4.1). 
+• 
+Where and how carbon emissions, other than CO2, have been accounted for in the inventory. These arise 
+from non-combustion and non-biogenic processes involving fossil carbon such as solvent use. 
+• 
+Results of completeness checks performed, when applicable. Details on the QC activities on completeness 
+should be kept as internal documentation (Section 1.4.4.2), in accordance with the guidance on QA/QC (see 
+Chapter 6 of Volume 1). 
+The first bullet point refers to the allocation of corresponding emissions, in the IPPU Sector or, possibly, also in 
+the Fuel Combustion Activities (Category 1A) in the Energy Sector, and to the definition of ‘non-energy’ or 
+‘feedstock’ used in the national energy statistics. Depending on the definition of the source categories, the 
+contribution of feedstock and non-energy use CO2 emissions varies from less than a percent up to about 5 
+percent of national total fossil fuel related CO2 emissions.  
+The description of the completeness check should explain any allocation of a particular source to several sectors. 
+In particular, how adjustments have been made to industrial process emissions should be explained in cases 
+where fuel by-products (off-gases or process vent gas) are transferred to another source category in the IPPU 
+Sector or in the Energy Sector. 
+1.4.4.1 
+ALLOCATION OF CO2 FROM NON-ENERGY USE 
+Table 1.6 can be used to document and report the following information, summarising the subcategories in 
+which the sectoral CO2 emissions (other than those from fuel combustion) from the fossil fuels used are reported.  
+The amounts of each fuel type consumed for non-combustion purposes (which correspond to excluded carbon in 
+the CO2 Reference Approach) should be recorded as internal documentation.  This relates to: 
+• 
+The division between manufacturing process emissions reported in the IPPU Sector and fuel combustion 
+emissions reported in the Energy Sector. 
+• 
+The allocation of CO2 emissions from the direct use of ‘fuels’ for their physical properties and from the use 
+of chemical products in the IPPU Sector. The emissions from the waste disposal of these products (e.g., 
+incineration) are dealt with in the Waste Sector. 
+In the allocation reporting table (Table1.6) the ‘Primary NEU fuel type’ and ‘Other NEU fuel types’ should be 
+entered for each category. The same CO2 emissions reported in the IPPU sectoral background table are entered 
+into the IPPU emissions column (or the notation keys NE, NO, IE, where applicable). Then CO2 emissions 
+related to the use of fossil fuels for non-energy purposes reported in source categories other than IPPU are added 
+to the appropriate 1A subcategories. These are labelled in the IPPU source categories as (partly) included 
+elsewhere in the IPPU reporting with a reference to where they are reported. Thus the table includes all 
+emissions from the IPPU Sector wherever they are reported and so documents the complete reporting of these 
+emissions in the IPPU and Energy Sectors. 
+The inclusion of the Energy Sector improves transparency of complete CO2 emissions reporting as regards the 
+emissions from waste gases and other gases such as blast furnace gas produced from industrial processes but 
+used for fuel combustion in other economic sectors and thus reported in the Energy Sector.  
+1.4.4.2 
+COMPLETENESS OF CO2 FROM NON-ENERGY USE 
+In addition to the summary of the review of the allocation and completeness of emissions from non-energy uses 
+of fossil fuels it is good practice to document: 
+Volume 3: Industrial Processes and Product Use 
+1.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• 
+A description of the emission calculation methods used, in the respective source category sections of the 
+report. This should include the reason for any departure of allocations compared to the suggested IPCC 
+source classification, if applicable. 
+• 
+The results of the CO2 completeness check if used, for at least the base year (where data permit) and the last 
+reported year, presented in a table such as Table 1.3, as internal documentation. 
+• 
+If the feedstock balance check for completeness was also used, a table showing the difference between the 
+inferred estimate of feedstock consumption and the reported feedstock deliveries; at minimum for the base 
+year (where data permit) and the two most recent years (i.e., as in Table 1.5a) as internal documentation. 
+• 
+An explanation of significant unexpected discrepancies, if any, in level or trend. This should include the 
+main cause of these differences. 
+• 
+Conclusions from the comparison in terms of whether significant CO2 emissions seem to be missing, and if 
+so, in which part of the inventory they occur, and an estimate of the sizes of the omissions. 
+• 
+A summary of bio-CO2 emissions from the use of bio-fuels and biomass feedstocks that are reported as 
+memo items to the national inventory. 
+Chapter 1: Introduction  
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.23 
+ 
+TABLE 1.6 (UPDATED) 
+ALLOCATION OF CO2 FROM NON-ENERGY USE OF FOSSILS FUELS: IPPU AND OTHER SECTORS 
+Category 
+Reported in year: …….. 
+Notes 
+Primary NEU fuel (1) 
+Other NEU fuel(s) (1) 
+Emissions Amount 
+Reported in IPPU 
+Sector 
+CO2 (2)  
+(Gg) 
+In case reported 
+elsewhere:  
+Sub-category in 1A 
+where these 
+emissions are 
+(partly) reported 
+2 Industrial Processes and Product Use  
+2A Mineral Industry 
+(Please specify the sub-category) 
+ (coal, ..) 
+  
+ 
+ 
+4 
+2B Chemical Industry 
+ 
+2B1 Ammonia Production 
+natural gas 
+oil, coal 
+ 
+ 
+ 
+2B5 Carbide Production 
+pet coke 
+oil 
+ 
+ 
+ 
+2B6 Titanium Dioxide Production 
+coal 
+  
+ 
+ 
+ 
+2B8  Petrochemical and Carbon Black Production  
+2B8a  Methanol 
+natural gas 
+coal, oil 
+ 
+ 
+5 
+2B8b  Ethylene 
+naphtha 
+gas oil; butane, ethane, 
+propane, LPG 
+ 
+ 
+5 
+2B8f  Carbon Black 
+natural gas 
+oil, coke oven gas 
+ 
+ 
+ 
+2B10 Hydrogen 
+natural gas 
+LPG, naphtha, coal, 
+methanol 
+ 
+ 
+6 
+2B11  Other 
+ 
+ 
+ 
+ 
+ 
+2C Metal Industry  
+2C1  Iron and Steel Production 
+coke 
+coal, pet coke (carbon 
+electrode) 
+ 
+ 
+7 
+2C2  Ferroalloys Production 
+(carbon electrode) 
+coke, coal 
+ 
+ 
+8 
+2C3  Aluminium Production 
+(carbon electrode) 
+coke, coal 
+ 
+ 
+8 
+2C5  Lead Production 
+coke 
+  
+ 
+ 
+ 
+2C6  Zinc Production 
+coke 
+  
+ 
+ 
+ 
+2C7  Rare Earths Production 
+(carbon electrode) 
+coke, coal 
+ 
+ 
+8 
+2C8  Other 
+(carbon electrode) 
+coke, coal 
+ 
+ 
+ 
+2D Non-Energy Products from Fuels and Solvent Use 
+2D1  Lubricant Use 
+lubricants 
+greases 
+ 
+ 
+ 
+2D2  Paraffin Wax Use 
+waxes 
+  
+ 
+ 
+ 
+2D3  Solvent Use 
+(mineral turpentine) coal tars and oils 
+ 
+ 
+9 
+2D4  Other 
+ 
+ 
+ 
+ 
+10 
+2H Other  
+2H1  Pulp and Paper Industry 
+  
+  
+ 
+ 
+ 
+2H2  Food and Beverages Industry 
+coke 
+  
+ 
+ 
+ 
+2H3  Other 
+  
+  
+ 
+ 
+ 
+1 ENERGY  
+1A Fuel Combustion Activities  
+ 
+ 
+Reported in 
+Sector 1A (3)  
+ 
+1A1a  Main Activity Electricity and 
+Heat Production 
+(BF gas) 
+(chemical off-gases)  
+ 
+ 
+11 
+1A1b  Petroleum Refining 
+  
+  
+ 
+ 
+ 
+1A1c  Manufacture of Solid Fuels and 
+Other Energy Industries 
+BF gas 
+ 
+ 
+ 
+ 
+1A2    Manufacturing Industries and 
+Construction 
+(BF gas)  
+(lubricants, chemical off-
+gases)) 
+ 
+ 
+ 
+(1)  
+The columns ‘Primary NEU fuel’ and ‘Other NEU fuel’ should be completed with the actual fuel types used. 
+ 
+(2)  
+These are the same emissions reported in the sectoral background table (also the same emissions notation keys NE, NO, IE, where applicable). If (partly) reported 
+elsewhere, a reference to that other source category should be added in the next column. 
+(3)  
+Report here only the CO2 emissions from combustion of waste gases produced from industrial processes but used for fuel combustion in other economic sectors 
+and reported in the Energy sector.(e.g. from combustion of blast furnace gas or chemical off-gases transferred offsite to another source category). 
+(4)  
+For example powdered anthracite coal may be used in Glass Production (2A3). 
+(5)  
+In cases where the production of off-gases (i.e. byproduct gases) is fully accounted for in the energy statistics, the combustion of these gases may be used to 
+calculate and report CO2 emissions from the feedstock losses. Part of these off-gases may be combusted off-site (i.e. in a sector other than the petrochemical 
+industry) and should thus be accounted for separately as fuel combustion in the Energy Sector. 
+ 
+(6) 
+In some cases the emissions from feedstock use to produce hydrogen will be accounted for within other source categories, including petroleum refining (1A1b) and 
+ammonia production (2B1).  
+(7)  
+Part of the blast furnace gas produced from coke used in blast furnaces may be combusted off-site (i.e. in a sector other than the iron and steel industry) and should 
+thus be accounted for separately as fuel combustion in the Energy Sector.  
+(8)  
+Carbon electrodes are generally manufactured from coke, coal or tar either on-site by the users themselves or separately by anode production plants and then sold 
+to users domestically and/or exported. If anodes are also imported and/or exported, there is no direct correspondence between fuels used for anode production and 
+the amounts of anodes used in the country. 
+(9)  
+Mineral turpentines are often used as solvent, possibly blended with other liquids. Aromatics derived from coal oils may also be used as solvents. 
+(10)  Emissions from asphalt production, paving of roads and roofing should be reported under 2D4. However, bitumen - and other oil as diluent or 'road oil' - used for this 
+activity does not result in CO2 emissions. 
+(11)  CO2 from blast furnace gas and chemical off-gases should be reported here only when utilised in public power or heat production. 
+Volume 3: Industrial Processes and Product Use 
+1.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+CHOOSING BETWEEN THE MASS-BALANCE 
+AND EMISSION-FACTOR APPROACHES  
+No refinement. 
+  
+Chapter 1: Introduction  
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.25 
+References 
+References copied from the 2006 IPCC Guidelines 
+SECTIONS 1.1 AND 1.2 
+EEA (2005). “EMEP/CORINAIR. Emission Inventory Guidebook – 2005”, European Environment Agency, 
+Technical report No 30. Copenhagen, Denmark, (December 2005). Available from web site see: 
+http://reports.eea.eu.int/EMEPCORINAIR4/en 
+Eurostat (2005). Europroms. PRODCOM Data. The PRODCOM annual dataset DS-008451 is available at 
+website: http://fd.comext.eurostat.cec.eu.int/xtweb/setupdimselection.do 
+IPCC (2001). Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third 
+Assessment Report of the Intergovernmental Panel on Climate Change [Houghton, J.T.,Y. Ding, D.J. 
+Griggs, M. Noguer, P.J. van der Linden, X. Dai, K. Maskell, and C.A. Johnson (eds.)]. Cambridge 
+University Press, Cambridge, United Kingdom and New York, NY, USA, 881pp. 
+Milbrath, D. (2002). “Development of 3M™ Novec™ 612 Magnesium Protection Fluid as a Substitute for SF6 
+Over Molten Magnesium,” International Conference on SF6 and the Environment: Emission Reduction 
+Technologies, November 21-22, 2002, San Diego, CA. 
+UN (2004). 2001 Industrial Commodity Statistics Yearbook. United Nations Statistics Division, Energy and 
+Industry Statistics Section, Report no. ST/ESA/STAT/SER.P/41, 17 September 2004. Series P, No. 41, 
+Sales number: E/F.03.XVII.10. Also available on CD-ROM as ‘Industrial Commodity Statistics Dataset 
+(1950-2002)’. See internet: http://unstats.un.org/unsd/industry/publications.htm 
+USGS (2005). International Minerals Statistics and Information. U.S. Geological Survey. Available at website: 
+http://minerals.usgs.gov/minerals/pubs/country/index.html#pubs 
+ 
+SECTIONS 1.3 AND 1.4 
+EU Integrated Pollution Prevention and Control (2004). Draft Reference Document on Best Available 
+Techniques in the Large Volume Inorganic Chemicals - Solid and Others Industry. (Draft August 2004) 
+Neelis, M.L., Patel, M., Gielen, D.J. and Blok, K. (2005). Modelling CO2 emissions from non-energy use with 
+non-energy use emission accounting tables (NEAT) model, Resources, Conservation and Recycling, 
+Volume 45, Issue 3, pp. 226-251. 
+OECD/IEA/Eurostat (2004). Energy Statistics Manual. IEA PUBLICATIONS, 9 rue de la Fédération, 75739 
+PARIS Cedex 15 PRINTED IN FRANCE BY STEDI, September 2004. Available at website: 
+http://www.iea.org/dbtw-wpd/textbase/nppdf/free/2004/statistics_manual.pdf. 
+Patel, M.K. (1999). Statistical definitions of non-energy use. 1st NEU-CO2 project workshop, 23-24 September 
+1999. IEA, Paris. Available at website: http://www.chem.uu.nl/nws/www/nenergy/wrkshp1c.htm. 
+Sjardin, M. (2003). CO2 Emission Factors for Non-Energy Use in the Non-Ferrous Metal, Ferroalloys and 
+Inorganics Industry. Copernicus Institute, Utrecht, The Netherlands. June 2003. 
+Voll, M. and Kleinschmit, P. (1997). ‘Carbon Black’ in Ullman’s encyclopedia of industrial chemistry. 5th ed. 
+on CD-ROM, Vol. A5. John Wiley and Sons; 1997. 
+ 
+SECTION 1.5 
+Schaefer, D. (2002). A Potential Error Associated with Using Chemical and Equipment Sales Data to Estimate 
+Greenhouse Gas Emissions from Long-lived, Pressurized Equipment, Non-CO2 Greenhouse Gases: 
+Scientific Understanding, Control Options and Policy Aspects, Proceedings of the Third International 
+Symposium, Maastricht, The Netherlands, 21-23 January 2002, pp. 229- 230. 
+Millpress, 
+Rotterdam, 
+Netherlands, 2002. 
+ 

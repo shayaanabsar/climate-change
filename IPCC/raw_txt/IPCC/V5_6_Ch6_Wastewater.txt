@@ -1,0 +1,2443 @@
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.1 
+CHAPTER 6 
+WASTEWATER TREATMENT AND 
+DISCHARGE 
+Volume 5: Waste 
+6.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors  
+Michiel R. J. Doorn (Netherlands), Sirintornthep Towprayoon (Thailand), Sonia Maria Manso Vieira (Brazil), 
+William Irving (USA), Craig Palmer (Canada), Riitta Pipatti (Finland), and Can Wang (China)  
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.3 
+Contents 
+6  
+Wastewater Treatment and Discharge 
+6.1 
+Introduction ......................................................................................................................................... 6.6 
+6.1.1 
+Changes compared to 1996 Guidelines and Good Practice Guidance ......................................... 6.9 
+6.2 
+Methane emissions from wastewater ................................................................................................... 6.9 
+6.2.1 
+Methodological issues ................................................................................................................. 6.9 
+6.2.2 
+Domestic wastewater ................................................................................................................. 6.10 
+6.2.2.1 
+Choice of method ................................................................................................................. 6.10 
+6.2.2.2 
+Choice of emission factors ................................................................................................... 6.12 
+6.2.2.3 
+Choice of activity data ......................................................................................................... 6.13 
+6.2.2.4 
+Time series consistency ....................................................................................................... 6.16 
+6.2.2.5 
+Uncertainties ........................................................................................................................ 6.16 
+6.2.2.6 
+QA/QC, Completeness, Reporting and Documentation ....................................................... 6.17 
+6.2.3 
+Industrial wastewater ................................................................................................................. 6.18 
+6.2.3.1 
+Choice of method ................................................................................................................. 6.19 
+6.2.3.2 
+Choice of emission factors ................................................................................................... 6.20 
+6.2.3.3 
+Choice of activity data ......................................................................................................... 6.21 
+6.2.3.4 
+Time series consistency ....................................................................................................... 6.22 
+6.2.3.5 
+Uncertainties ........................................................................................................................ 6.23 
+6.2.3.6 
+QA/QC, Completeness, Reporting and Documentation ....................................................... 6.23 
+6.3 
+Nitrous oxide emissions from wastewater ......................................................................................... 6.24 
+6.3.1 
+Methodological issues ............................................................................................................... 6.24 
+6.3.1.1 
+Choice of method ................................................................................................................. 6.24 
+6.3.1.2 
+Choice of emission factors ................................................................................................... 6.25 
+6.3.1.3 
+Choice of activity data ......................................................................................................... 6.25 
+6.3.2 
+Time series consistency ............................................................................................................. 6.26 
+6.3.3 
+Uncertainties .............................................................................................................................. 6.26 
+6.3.4 
+QA/QC, Completeness, Reporting and Documentation ............................................................ 6.27 
+References ......................................................................................................................................................... 6.28 
+ 
+Volume 5: Waste 
+6.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equations 
+Equation 6.1  
+Total CH4 emissions from domestic wastewater ............................................................... 6.11 
+Equation 6.2  
+CH4 emission factor for  each domestic wastewater  
+treatment/discharge pathway or system ............................................................................. 6.12 
+Equation 6.3  
+Total organically degradable material in domestic wastewater ......................................... 6.13 
+Equation 6.4  
+Total CH4 emissions from industrial wastewater ............................................................... 6.20 
+Equation 6.5  
+CH4 emission factor for industrial wastewater .................................................................. 6.21 
+Equation 6.6  
+Organically degradable material in industrial wastewater ................................................. 6.22 
+Equation 6.7  
+N2O emissions from wastewater effluent .......................................................................... 6.25 
+Equation 6.8  
+Total nitrogen in the effluent ............................................................................................. 6.25 
+Equation 6.9  
+N2O emission from centralized wastewater treatment processes ....................................... 6.25 
+ 
+ 
+ 
+Figures 
+Figure 6.1  
+Wastewater treatment systems and discharge pathways ...................................................... 6.7 
+Figure 6.2  
+Decision Tree for CH4 emissions from domestic wastewater ............................................ 6.10 
+Figure 6.3  
+Decision Tree for CH4 emissions from industrial wastewater treatment ........................... 6.19 
+ 
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.5 
+Tables 
+Table 6.1  
+CH4 and N2O emission potentials for wastewater and  sludge treatment  
+and discharge systems ......................................................................................................... 6.8 
+Table 6.2  
+Default maximum CH4 producing capacity (Bo) for domestic wastewater ....................... 6.12 
+Table 6.3  
+Default MCF values for domestic wastewater ................................................................... 6.13 
+Table 6.4  
+Estimated BOD5 values in domestic wastewater for selected regions and countries ......... 6.14 
+Table 6.5   
+Suggested values for urbanisation (U) and degree of utilisation of treatment,  
+discharge pathway or method (Ti,j) for each income group for selected countries ............ 6.15 
+Table 6.6   
+Example of the application of default values  for degrees of treatment utilization (T)  
+by income groups .............................................................................................................. 6.16 
+Table 6.7  
+Default uncertainty ranges for domestic wastewater ......................................................... 6.17 
+Table 6.8  
+Default MCF values for industrial wastewater .................................................................. 6.21 
+Table 6.9   
+Examples of industrial wastewater data ............................................................................. 6.22 
+Table 6.10   
+Default uncertainty ranges for industrial wastewater ........................................................ 6.23 
+Table 6.11   
+N2O methodology default data .......................................................................................... 6.27 
+ 
+ 
+ 
+Boxes 
+Box 6.1  
+Subcategory - Emissions from advanced centralised wastewater treatment plants ........... 6.26 
+ 
+ 
+ 
+Volume 5: Waste 
+6.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6 WASTEWATER TREATMENT AND 
+DISCHARGE 
+6.1 
+INTRODUCTION 
+Wastewater can be a source of methane (CH4) when treated or disposed anaerobically. It can also be a source of 
+nitrous oxide (N2O) emissions. Carbon dioxide (CO2) emissions from wastewater are not considered in the IPCC 
+Guidelines because these are of biogenic origin and should not be included in national total emissions. 
+Wastewater originates from a variety of domestic, commercial and industrial sources and may be treated on site 
+(uncollected), sewered to a centralized plant (collected) or disposed untreated nearby or via an outfall. Domestic 
+wastewater is defined as wastewater from household water use, while industrial wastewater is from industrial 
+practices only.1 Treatment and discharge systems can sharply differ between countries. Also, treatment and 
+discharge systems can differ for rural and urban users, and for urban high income and urban low-income users.  
+Sewers may be open or closed. In urban areas in developing countries and some developed countries, sewer 
+systems may consist of networks of open canals, gutters, and ditches, which are referred to as open sewers. In 
+most developed countries and in high-income urban areas in other countries, sewers are usually closed and 
+underground. Wastewater in closed underground sewers is not believed to be a significant source of CH4. The 
+situation is different for wastewater in open sewers, because it is subject to heating from the sun and the sewers 
+may be stagnant allowing for anaerobic conditions to emit CH4. (Doorn et al., 1997). 
+The most common wastewater treatment methods in developed countries are centralized aerobic wastewater 
+treatment plants and lagoons for both domestic and industrial wastewater. To avoid high discharge fees or to 
+meet regulatory standards, many large industrial facilities pre-treat their wastewater before releasing it into the 
+sewage system. Domestic wastewater may also be treated in on-site septic systems. These are advanced systems 
+that may treat wastewater from one or several households. They consist of an anaerobic underground tank and a 
+drainage field for the treatment of effluent from the tank. Some developed countries continue to dispose of 
+untreated domestic wastewater via an outfall or pipeline into a water body, such as the ocean. 
+The degree of wastewater treatment varies in most developing countries. In some cases industrial wastewater is 
+discharged directly into bodies of water, while major industrial facilities may have comprehensive in-plant 
+treatment. Domestic wastewater is treated in centralized plants, pit latrines, septic systems or disposed of in 
+unmanaged lagoons or waterways, via open or closed sewers. In some coastal cities domestic wastewater is 
+discharged directly into the ocean. Pit latrines are lined or unlined holes of up to several meters deep, which may be 
+fitted with a toilet for convenience. Figure 6.1 shows different pathways for wastewater treatment and discharge. 
+Centralized wastewater treatment methods can be classified as primary, secondary, and tertiary treatment. In 
+primary treatment, physical barriers remove larger solids from the wastewater. Remaining particulates are then 
+allowed to settle. Secondary treatment consists of a combination of biological processes that promote 
+biodegradation by micro-organisms. These may include aerobic stabilisation ponds, trickling filters, and activated 
+sludge processes, as well as anaerobic reactors and lagoons. Tertiary treatment processes are used to further purify 
+the wastewater of pathogens, contaminants, and remaining nutrients such as nitrogen and phosphorus compounds. 
+This is achieved using one or a combination of processes that can include maturation/polishing ponds, biological 
+processes, advanced filtration, carbon adsorption, ion exchange, and disinfection. 
+Sludge is produced in all of the primary, secondary and tertiary stages of treatment. Sludge that is produced in 
+primary treatment consists of solids that are removed from the wastewater and is not accounted for in this 
+category. Sludge produced in secondary and tertiary treatment results from biological growth in the biomass, as 
+well as the collection of small particles. This sludge must be treated further before it can be safely disposed of. 
+Methods of sludge treatment include aerobic and anaerobic stabilisation (digestion), conditioning, centrifugation, 
+composting, and drying. Land disposal, composting, and incineration of sludge is considered in Volume 5, 
+Section 2.3.2 in Chapter 2, Waste Generation, Composition, and Management Data, Section 3.2 in Chapter 3, 
+Solid Waste Disposal, Section 4.1 in Chapter 4,  Biological Treatment and Disposal, and Chapter 5, Incineration 
+and Open Burning of Waste, respectively. Some sludge is incinerated before land disposal. N2O emissions from 
+sludge and wastewater spread on agricultural land are considered in Section 11.2, N2O emissions from managed 
+                                                           
+1  Because the methodology is on a per person basis, emissions from commercial wastewater are estimated as part of 
+domestic wastewater. To avoid confusion, the term municipal wastewater is not used in this text. Municipal wastewater is a 
+mix of household, commercial and non-hazardous industrial wastewater, treated at wastewater treatment plants. 
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.7 
+soils, in Chapter 11, N2O Emissions from Managed Soils, and CO2 Emissions from Lime and Urea Application, 
+in Volume 4 of the Agriculture, Forestry, and Other Land Use (AFOLU) Sector. 
+Figure 6.1  
+Wastewater treatment systems and discharge pathways 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Emissions from boxes with bold frames are accounted for in this chapter. 
+Methane(CH4) 
+Wastewater as well as its sludge components can produce CH4 if it degrades anaerobically. The extent of CH4 
+production depends primarily on the quantity of degradable organic material in the wastewater, the temperature, 
+and the type of treatment system. With increases in temperature, the rate of CH4 production increases. This is 
+especially important in uncontrolled systems and in warm climates. Below 15°C, significant CH4 production is 
+unlikely because methanogens are not active and the lagoon will serve principally as a sedimentation tank. 
+However, when the temperature rises above 15°C, CH4 production is likely to resume.  
+The principal factor in determining the CH4 generation potential of wastewater is the amount of degradable 
+organic material in the wastewater. Common parameters used to measure the organic component of the 
+wastewater are the Biochemical Oxygen Demand (BOD) and Chemical Oxygen Demand (COD). Under the 
+same conditions, wastewater with higher COD, or BOD concentrations will generally yield more CH4 than 
+wastewater with lower COD (or BOD) concentrations. 
+The BOD concentration indicates only the amount of carbon that is aerobically biodegradable. The standard 
+measurement for BOD is a 5-day test, denoted as BOD5. The term ‘BOD’ in this chapter refers to BOD5. The 
+COD measures the total material available for chemical oxidation (both biodegradable and non-biodegradable). 2 
+Since the BOD is an aerobic parameter, it may be less appropriate for determining the organic components in 
+anaerobic environments. Also, both the type of wastewater and the type of bacteria present in the wastewater 
+influence the BOD concentration of the wastewater. Usually, BOD is more frequently reported for domestic 
+wastewater, while COD is predominantly used for industrial wastewater. 
+                                                           
+2  In these guidelines, COD refers to chemical oxygen demand measured using the dichromate method. (American Public 
+Health Association, American Water Works Association and Water Environment Federation, 1998) 
+Collected 
+Uncollected 
+Untreated 
+Treated 
+Untreated
+Rivers, lakes, 
+estuaries, sea 
+Sewered to 
+plant 
+Treated on site  
+Domestic: latrine, septic tank  
+Industrial: on site plant  
+Stagnant 
+sewer 
+To  
+ground 
+Rivers, lakes, 
+estuaries, sea 
+Aerobic treatment 
+Reactor 
+Lagoon 
+Sludge 
+Anaerobic 
+Digestion 
+Land 
+Disposal 
+Landfill or  
+Incineration 
+Anaerobic treatment 
+Wetland 
+Domestic/industrial wastewater
+Volume 5: Waste 
+6.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Nitrous Oxide (N2O) 
+Nitrous oxide (N2O) is associated with the degradation of nitrogen components in the wastewater, e.g., urea, 
+nitrate and protein. Domestic wastewater includes human sewage mixed with other household wastewater, which 
+can include effluent from shower drains, sink drains, washing machines, etc. Centralized wastewater treatment 
+systems may include a variety of processes, ranging from lagooning to advanced tertiary treatment technology 
+for removing nitrogen compounds. After being processed, treated effluent is typically discharged to a receiving 
+water environment (e.g., river, lake, estuary, etc.). Direct emissions of N2O may be generated during both 
+nitrification and denitrification of the nitrogen present. Both processes can occur in the plant and in the water 
+body that is receiving the effluent. Nitrification is an aerobic process converting ammonia and other nitrogen 
+compounds into nitrate (NO3
+-), while denitrification occurs under anoxic conditions (without free oxygen), and 
+involves the biological conversion of nitrate into dinitrogen gas (N2). Nitrous oxide can be an intermediate 
+product of both processes, but is more often associated with denitrification. 
+Treatment and Discharge Systems and CH4 and N2O Generation Potential 
+Treatment systems or discharge pathways that provide anaerobic environments will generally produce CH4 
+whereas systems that provide aerobic environments will normally produce little or no CH4. For example, for 
+lagoons without mixing or aeration, their depth is a critical factor in CH4 production. Shallow lagoons, less than 
+1 metre in depth, generally provide aerobic conditions and little or no CH4 is likely to be produced. Lagoons 
+deeper than about 2-3 metres will generally provide anaerobic environments and significant CH4 production can 
+be expected. 
+Table 6.1 presents the main wastewater treatment and discharge systems in developed and developing countries, 
+and their potentials to emit CH4 and N2O. 
+ 
+TABLE 6.1 
+CH4 AND N2O EMISSION POTENTIALS FOR WASTEWATER AND  SLUDGE TREATMENT AND DISCHARGE SYSTEMS   
+Types of treatment and disposal 
+CH4 and N2O emission potentials 
+River discharge 
+Stagnant, oxygen-deficient rivers and lakes may allow for 
+anaerobic decomposition to produce CH4.  
+Rivers, lakes and estuaries are likely sources of N2O. 
+Sewers (closed and under 
+ground) 
+Not a source of CH4/N2O. 
+Untreated 
+Sewers (open) 
+Stagnant, overloaded open collection sewers or ditches/canals are 
+likely significant sources of CH4. 
+Centralized aerobic 
+wastewater treatment 
+plants 
+May produce limited CH4 from anaerobic pockets.  
+Poorly designed or managed aerobic treatment systems produce 
+CH4. 
+Advanced plants with nutrient removal (nitrification and 
+denitrification) are small but distinct sources of N2O. 
+Sludge anaerobic 
+treatment in centralized 
+aerobic wastewater 
+treatment plant 
+Sludge may be a significant source of CH4 if emitted CH4 is not 
+recovered and flared. 
+Aerobic treatment 
+Aerobic shallow ponds 
+Unlikely source of CH4/N2O.  
+Poorly designed or managed aerobic systems produce CH4. 
+Anaerobic lagoons 
+Likely source of CH4.  
+Not a source of N2O. 
+Collected 
+Treated 
+Anaerobic 
+treatment 
+Anaerobic reactors 
+May be a significant source of CH4 if emitted CH4 is not 
+recovered and flared. 
+Septic tanks 
+Frequent solids removal reduces CH4 production. 
+Open pits/Latrines 
+Pits/latrines are likely to produce CH4 when temperature and 
+retention time are favourable. 
+Uncollected 
+River discharge 
+See above.  
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.9 
+6.1.1 
+ Changes compared to 1996 Guidelines and Good 
+Practice Guidance 
+The Revised 1996 IPCC Guidelines (1996 Guidelines, IPCC, 1997) included separate equations to estimate 
+emissions from wastewater and from sludge removed from the wastewater. The distinction has been removed 
+because the CH4 generation capacities for sludge and wastewater with dissolved organics are generally the same, 
+and separated equations are not necessary. The 2006 Guidelines include a new section to estimate CH4 emissions 
+from uncollected wastewater. Also, guidance has been included to estimate N2O emissions from advanced 
+wastewater treatment plants. Furthermore, the industrial wastewater section has been simplified by suggesting 
+that only the most significant industrial sources need to be addressed. See Section 6.2.3. 
+ 
+6.2 
+METHANE EMISSIONS FROM WASTEWATER 
+6.2.1 
+Methodological issues 
+Emissions are a function of the amount of organic waste generated and an emission factor that characterises the 
+extent to which this waste generates CH4.  
+Three tier methods for CH4 from this category are summarised below: 
+The Tier 1 method applies default values for the emission factor and activity parameters. This method is 
+considered good practice for countries with limited data. 
+The Tier 2 method follows the same method as Tier 1 but allows for incorporation of a country specific emission 
+factor and country specific activity data. For example, a specific emission factor for a prominent treatment 
+system based on field measurements could be incorporated under this method. The amount of sludge removed 
+for incineration, landfills, and agricultural land should be taken into consideration.  
+For a country with good data and advanced methodologies, a country specific method could be applied as a Tier 
+3 method. A more advanced country-specific method could be based on plant-specific data from large 
+wastewater treatment facilities.  
+Wastewater treatment facilities can include anaerobic process steps. CH4 generated at such facilities can be 
+recovered and combusted in a flare or energy device. The amount of CH4 that is flared or recovered for energy 
+use should be subtracted from total emissions through the use of a separate CH4 recovery parameter. The amount 
+of CH4 which is recovered is expressed as R in Equation 6.1. 
+Note that only a few countries may have sludge removal data and CH4 recovery data. The default for sludge 
+removal is zero. The default for CH4 recovery is zero. If a country selects to report CH4 recovery, it is good 
+practice to distinguish between flaring and CH4 recovery for energy generation, which should be reported in the 
+Energy Sector taking into account the avoidance of double counting emissions from flaring and energy used.  
+Emissions from flaring are not significant, as the CO2 emissions are of biogenic origin, and the CH4 and N2O 
+emissions are very small so good practice in the Waste Sector does not require their estimation. However, if it is 
+wished to do so these emissions should be reported under the Waste Sector. A discussion of emissions from 
+flares and more detailed information are given in Volume 2, Energy, Chapter 4.2. Emission from flaring is not 
+treated at Tier 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 5: Waste 
+6.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.2.2 
+Domestic wastewater 
+6.2.2.1 
+CHOICE OF METHOD 
+A decision tree for domestic wastewater is included in Figure 6.2.  
+Figure 6.2 Decision Tree for CH4 emissions from domestic wastewater 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees. 
+ 
+ 
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Are
+wastewater
+treatment pathways
+characterised?
+Is this a
+key category1?
+Are
+country-specific
+emission factors available
+for the key 
+pathways?
+Is a
+country-
+specific method
+available?
+Are
+measurements or
+other bottom-up data available 
+from the most important
+pathways?
+Start
+Collect data on the
+share of wastewater
+treatment in each
+pathway.
+Estimate emissions
+using default emission
+factors. (Bo, MCF, etc.)
+Estimate emissions
+using country-specific
+emission factors.
+(Bo, MCF, etc.)
+Estimate
+emissions using
+bottom-up data.
+Estimate country-specific
+Bo and MCFs for the key
+pathways.
+No
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+No
+No
+No
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.11 
+The steps for good practice in inventory preparation for CH4 from domestic wastewater are as follows:  
+Step 1: 
+Use Equation 6.3 to estimate total organically degradable carbon in wastewater (TOW).  
+Step 2: 
+Select the pathway and systems (See Figure 6.1) according to country activity data. Use Equation 6.2 
+to obtain the emission factor for each domestic wastewater treatment/discharge pathway or system. 
+Step 3: 
+Use Equation 6.1 to estimate emissions, adjust for possible sludge removal and/or CH4 recovery and 
+sum the results for each pathway/system.  
+As described earlier, the wastewater characterisation will determine the fraction of wastewater treated or 
+disposed of by a particular system. To determine the use of each type of treatment or discharge system, it is good 
+practice to refer to national statistics (e.g., from regulatory authorities). If these data are not available, 
+wastewater associations or international organisations such as the World Health Organization (WHO) may have 
+data on the system usage.  
+Otherwise, consultation with sanitation experts can help, and expert judgement can also be applied (see Chapter 
+2, Approaches to Data Collection, in Volume 1). Urbanisation statistics may provide a useful tool, e.g., city sizes 
+and income distribution. 
+If sludge separation is practised and appropriate statistics are available, then this category should be separated 
+out as a subcategory. If default factors are being used, emissions from wastewater and sludge should be 
+estimated together. Regardless of how sludge is treated, it is important that CH4 emissions from sludge sent to 
+landfills, incinerated or used in agriculture are not included in the wastewater treatment and discharge category. 
+If sludge removal data are available, the data should be consistent across the sectors, and categories, amount 
+disposed at SWDS, applied to agricultural land, incinerated or used elsewhere should be equal to the amount 
+organic component removed as sludge in Equation 6.1. Wastewater and sludge that is applied on agricultural 
+land should be considered in Volume 4 for AFOLU Sector, Section 11.2, N2O emissions from managed soils, in 
+Chapter 11, N2O Emissions from Managed Soils, and CO2 Emissions from Lime and Urea Application. 
+Wastewater treatment system/pathway usage often differs for rural and urban residents. Also, in developing 
+countries, there are likely to be differences between urban high-income and urban low-income residents. Hence, 
+a factor U is introduced to express each income group fraction. It is good practice to treat the three categories: 
+rural population, urban high income population, and urban low income population separately. It is suggested to 
+use a spreadsheet, as shown in Table 6.5 below. 
+ 
+The general equation to estimate CH4 emissions from domestic wastewater is as follows:  
+EQUATION 6.1 
+TOTAL CH4 EMISSIONS FROM DOMESTIC WASTEWATER 
+(
+) (
+)
+R
+S
+TOW
+EF
+T
+U
+Emissions
+CH
+i j
+j
+i j
+i
+4
+−
+−
+⎥⎥
+⎦
+⎤
+⎢⎢
+⎣
+⎡
+•
+•
+= ∑
+,
+.
+ 
+Where: 
+CH4 Emissions = 
+CH4 emissions in inventory year, kg CH4/yr 
+TOW 
+= total organics in wastewater in inventory year, kg BOD/yr 
+S 
+=  organic component removed as sludge in inventory year, kg BOD/yr 
+Ui 
+=  fraction of population in income group i in inventory year, See Table 6.5. 
+Ti,j 
+=  degree of utilisation of treatment/discharge pathway or system, j, for each income group 
+fraction i in inventory year, See Table 6.5. 
+i 
+=  income group: rural, urban high income and urban low income 
+j 
+=  each treatment/discharge pathway or system 
+EFj    =   emission factor, kg CH4 / kg BOD 
+R 
+=  amount of CH4 recovered in inventory year, kg CH4/yr 
+Volume 5: Waste 
+6.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.2.2.2 
+CHOICE OF EMISSION FACTORS 
+The emission factor for a wastewater treatment and discharge pathway and system (terminal blocks with bold 
+frames in Figure 6.1) is a function of the maximum CH4 producing potential (Bo) and the methane correction 
+factor (MCF) for the wastewater treatment and discharge system, as shown in Equation 6.2. The Bo is the 
+maximum amount of CH4 that can be produced from a given quantity of organics (as expressed in BOD or COD) 
+in the wastewater. The MCF indicates the extent to which the CH4 producing capacity (Bo) is realised in each 
+type of treatment and discharge pathway and system. Thus, it is an indication of the degree to which the system 
+is anaerobic. 
+ 
+EQUATION 6.2 
+CH4 EMISSION FACTOR FOR  
+EACH DOMESTIC WASTEWATER TREATMENT/DISCHARGE PATHWAY OR SYSTEM 
+j
+o
+j
+MCF
+B
+EF
+•
+=
+ 
+Where: 
+EFj =   emission factor, kg CH4/kg BOD 
+j 
+=  each treatment/discharge pathway or system 
+Bo 
+=  maximum CH4 producing capacity, kg CH4/kg BOD 
+MCFj 
+=  methane correction factor (fraction), See Table 6.3. 
+ 
+Good practice is to use country-specific data for Bo, where available, expressed in terms of kg CH4/kg BOD 
+removed to be consistent with the activity data. If country-specific data are not available, a default value, 0.6 kg 
+CH4/kg BOD can be used. For domestic wastewater, a COD-based value of Bo can be converted into a BOD-
+based value by multiplying with a factor of 2.4. Table 6.2 includes default maximum CH4 producing capacity (Bo) 
+for domestic wastewater. 
+ 
+TABLE 6.2 
+DEFAULT MAXIMUM CH4 PRODUCING CAPACITY (BO) FOR DOMESTIC WASTEWATER 
+0.6 kg CH4/kg BOD 
+0.25 kg CH4/kg COD 
+Based on expert judgment by lead authors and on Doorn et al., (1997)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.13 
+Table 6.3 includes default MCF values. 
+TABLE 6.3 
+DEFAULT MCF VALUES FOR DOMESTIC WASTEWATER 
+Type of treatment and 
+discharge pathway or 
+system 
+Comments  
+MCF 1 
+Range 
+Untreated system 
+ 
+ 
+ 
+Sea, river and lake 
+discharge 
+Rivers with high organics loadings can turn 
+anaerobic.  
+0.1 
+    0   –   0.2 
+Stagnant sewer 
+Open and warm 
+0.5 
+0.4   –  0.8 
+Flowing sewer  
+(open or closed) 
+Fast moving, clean. (Insignificant amounts 
+of CH4 from pump stations, etc) 
+0 
+0 
+Treated system 
+ 
+ 
+ 
+Centralized, aerobic 
+treatment plant 
+Must be well managed. Some CH4 can be 
+emitted from settling basins and other 
+pockets.  
+0 
+  0   –  0.1 
+Centralized, aerobic 
+treatment plant 
+Not well managed. Overloaded. 
+0.3 
+0.2  –  0.4 
+Anaerobic digester for 
+sludge 
+CH4 recovery is not considered here. 
+0.8 
+0.8  –  1.0 
+Anaerobic reactor 
+CH4 recovery is not considered here. 
+0.8 
+0.8  –  1.0 
+Anaerobic shallow lagoon 
+Depth less than 2 metres, use expert 
+judgment.  
+0.2 
+   0  –  0.3 
+Anaerobic deep lagoon  
+Depth more than 2 metres 
+0.8 
+0.8  –  1.0 
+Septic system 
+Half of BOD settles in anaerobic tank. 
+0.5 
+0.5 
+Latrine 
+Dry climate, ground water table lower than 
+latrine, small family (3-5 persons) 
+0.1 
+ 0.05 –  0.15 
+Latrine 
+Dry climate, ground water table lower than 
+latrine, communal (many users) 
+0.5 
+0.4  –  0.6 
+Latrine 
+Wet climate/flush water use, ground water 
+table higher than latrine 
+0.7 
+0.7  –  1.0 
+Latrine 
+Regular sediment removal for fertilizer 
+0.1 
+0.1 
+1 Based on expert judgment by lead authors of this section. 
+ 
+6.2.2.3 
+CHOICE OF ACTIVITY DATA 
+The activity data for this source category is the total amount of organically degradable material in the wastewater 
+(TOW). This parameter is a function of human population and BOD generation per person. It is expressed in 
+terms of biochemical oxygen demand (kg BOD/year). The equation for TOW is: 
+ 
+EQUATION 6.3 
+TOTAL ORGANICALLY DEGRADABLE MATERIAL IN DOMESTIC WASTEWATER 
+365
+.0 001
+•
+•
+•
+•
+=
+I
+BOD
+P
+TOW
+ 
+Where: 
+TOW 
+= 
+total organics in wastewater in inventory year, kg BOD/yr 
+P 
+= 
+country population in inventory year, (person) 
+Volume 5: Waste 
+6.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOD 
+= 
+country-specific per capita BOD in inventory year, g/person/day, See Table 6.4. 
+0.001 
+= 
+conversion from grams BOD to kg BOD 
+I 
+= 
+correction factor for additional industrial BOD discharged into sewers 
+(for collected the default is 1.25, for uncollected the default is 1.00.) 
+The factor I values in Equation 6.3 are based on expert judgment by the authors. It expresses the BOD from 
+industries and establishments (e.g., restaurants, butchers or grocery stores) that is co-discharged with domestic 
+wastewater. In some countries, information from industrial discharge permits may be available to improve I. 
+Otherwise, expert judgment is recommended. Total population statistics should be readily available from 
+national statistics agencies or international agencies (e.g., United Nations Statistics, see http://esa.un.org/unpp/). 
+Table 6.4 includes BOD default values for selected countries. It is good practice to select a BOD default value 
+from a nearby comparable country when country-specific data are not available. The degree of urbanization for a 
+country can be retrieved from various sources, (e.g., Global Environment Outlook, United Nations Environment 
+Programme and World Development Indicators, World Health Organization). The urban high-income and urban-
+low income fractions can be determined by expert judgment when statistical or other comparable information is 
+not available. Table 6.5 includes default values of Ui and Ti,j for selected countries. 
+ 
+ 
+TABLE 6.4 
+ESTIMATED BOD5 VALUES IN DOMESTIC WASTEWATER FOR SELECTED REGIONS AND COUNTRIES 
+Country/Region 
+BOD5  
+(g/person/day) 
+Range 
+Reference 
+Africa 
+37 
+35 – 45 
+1 
+Egypt 
+34 
+27 – 41 
+1 
+Asia, Middle East, Latin America 
+40 
+35 – 45 
+1 
+India 
+34 
+27 – 41 
+1 
+West Bank and Gaza Strip (Palestine) 
+50 
+32 – 68 
+1 
+Japan 
+42 
+40 – 45 
+1 
+Brazil 
+50 
+45 – 55 
+2 
+Canada, Europe, Russia, Oceania 
+60 
+50 – 70 
+1 
+Denmark 
+62 
+55 – 68 
+1 
+Germany 
+62 
+55 – 68 
+1 
+Greece 
+57 
+55 – 60 
+1 
+Italy 
+60 
+49 – 60 
+3 
+Sweden 
+75 
+68 – 82 
+1 
+Turkey 
+38 
+27 – 50 
+1 
+United States 
+85 
+  50 – 120 
+4 
+Note: These values are based on an assessment of the literature. Please use national values, if available. 
+Reference:  
+1. 
+Doorn and Liles (1999). 
+2. 
+Feachem et al. (1983).  
+3. 
+Masotti (1996).  
+4. 
+Metcalf and Eddy (2003).  
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 6: Wastewater Treatment and Discharge 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.15 
+TABLE 6.5  
+SUGGESTED VALUES FOR URBANISATION (U) AND DEGREE OF UTILISATION OF TREATMENT, DISCHARGE PATHWAY OR METHOD (Ti,j) FOR EACH INCOME GROUP FOR SELECTED COUNTRIES 
+ 
+Urbanization(U) 1 
+Degree of utilisation of treatment or discharge pathway or method for each income group (Ti,j )3 
+ 
+Fraction of Population 
+U=rural 
+U= urban high income 
+U=urban low income 
+Country 
+Rural urban-high2 urban-low2 Septic 
+Tank 
+Latrine Other  Sewer4 None  
+Septic 
+Tank 
+Latrine Other Sewer4 None 
+Septic 
+Tank 
+Latrine Other Sewer4 None 
+Africa 
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+Nigeria 
+0.52 
+0.10 
+0.38 
+0.02 
+0.28 
+0.04 
+0.10 
+0.56 
+0.32 
+0.31 
+0.00 
+0.37 
+0.00 
+0.17 
+0.24 
+0.05 
+0.34 
+0.20 
+Egypt 
+0.57 
+0.09 
+0.34 
+0.02 
+0.28 
+0.04 
+0.10 
+0.56 
+0.15 
+0.05 
+0.10 
+0.70 
+0.00 
+0.17 
+0.24 
+0.05 
+0.34 
+0.20 
+Kenya 
+0.62 
+0.08 
+0.30 
+0.02 
+0.28 
+0.04 
+0.10 
+0.56 
+0.32 
+0.31 
+0.00 
+0.37 
+0.00 
+0.17 
+0.24 
+0.05 
+0.34 
+0.20 
+South Africa 
+0.39 
+0.12 
+0.49 
+0.10 
+0.28 
+0.04 
+0.10 
+0.48 
+0.15 
+0.15 
+0.00 
+0.70 
+0.00 
+0.17 
+0.24 
+0.05 
+0.34 
+0.20 
+Asia 
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+China 
+0.59 
+0.12 
+0.29 
+0.00 
+0.47 
+0.50 
+0.00 
+0.03 
+0.18 
+0.08 
+0.07 
+0.67 
+0.00 
+0.14 
+0.10 
+0.03 
+0.68 
+0.05 
+India 
+0.71 
+0.06 
+0.23 
+0.00 
+0.47 
+0.10 
+0.10 
+0.33 
+0.18 
+0.08 
+0.07 
+0.67 
+0.00 
+0.14 
+0.10 
+0.03 
+0.53 
+0.20 
+Indonesia 
+0.54 
+0.12 
+0.34 
+0.00 
+0.47 
+0.00 
+0.10 
+0.43 
+0.18 
+0.08 
+0.00 
+0.74 
+0.00 
+0.14 
+0.10 
+0.03 
+0.53 
+0.20 
+Pakistan 
+0.65 
+0.07 
+0.28 
+0.00 
+0.47 
+0.00 
+0.10 
+0.43 
+0.18 
+0.08 
+0.00 
+0.74 
+0.00 
+0.14 
+0.10 
+0.03 
+0.53 
+0.20 
+Bangladesh 
+0.72 
+0.06 
+0.22 
+0.00 
+0.47 
+0.00 
+0.10 
+0.43 
+0.18 
+0.08 
+0.00 
+0.74 
+0.00 
+0.14 
+0.10 
+0.03 
+0.53 
+0.20 
+Japan 
+0.20 
+0.80 
+0.00 
+0.20 
+0.00 
+0.50 
+0.30 
+0.00 
+0.00 
+0.00 
+0.10 
+0.90 
+0.00 
+0.10 
+0 
+0 
+0.90 
+0 
+Europe 
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+Russia 
+0.27 
+0.73 
+0.00 
+0.30 
+0.10 
+0.00 
+0.60 
+0.00 
+0.10 
+0.00 
+0.00 
+0.90 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+Germany5 
+0.06 
+0.94 
+0.00 
+0.20 
+0.00 
+0.00 
+0.80 
+0.00 
+0.05 
+0.00 
+0.00 
+0.95 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+United Kingdom 
+0.10 
+0.90 
+0.00 
+0.11 
+0.00 
+0.00 
+0.89 
+0.00 
+0.00 
+0.00 
+0.00 
+1.00 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+France 
+0.24 
+0.76 
+0.00 
+0.37 
+0.00 
+0.00 
+0.63 
+0.00 
+0.00 
+0.00 
+0.00 
+1.00 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+Italy 
+0.32 
+0.68 
+0.00 
+0.42 
+0.00 
+0.00 
+0.58 
+0.00 
+0.04 
+0.00 
+0.00 
+0.96 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+North America 
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+United States 
+0.22 
+0.78 
+0.00 
+0.90 
+0.02 
+0.00 
+0.08 
+0.00 
+0.05 
+0.00 
+0.00 
+0.95 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+Canada 
+0.20 
+0.80 
+0.00 
+0.90 
+0.02 
+0.00 
+0.08 
+0.00 
+0.05 
+0.00 
+0.00 
+0.95 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+Latin America 
+and Caribbean 
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+Brazil 
+0.16 
+0.25 
+0.59 
+0.00 
+0.45 
+0.00 
+0.10 
+0.45 
+0.00 
+0.20 
+0.00 
+0.80 
+0.00 
+0.00 
+0.40 
+0.00 
+0.40 
+0.20 
+Mexico 
+0.25 
+0.19 
+0.56 
+0.00 
+0.45 
+0.00 
+0.10 
+0.45 
+0.00 
+0.20 
+0.00 
+0.80 
+0.00 
+0.00 
+0.40 
+0.00 
+0.40 
+0.20 
+Oceania  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Australia and  
+New Zealand 
+0.08 
+0.92 
+0.00 
+0.90 
+0.02 
+0.00 
+0.08 
+0.00 
+0.05 
+0.00 
+0.00 
+0.95 
+0.00 
+NA 
+NA 
+NA 
+NA 
+NA 
+Notes: 
+1. 
+Urbanization projections for 2005 (United Nations, 2002).  
+2. 
+Suggested urban-high income and urban low income division. Countries are encouraged to use their own data or best judgment. 
+3. 
+Ti.j values based on expert judgment, (Doorn and Liles, 1999). 
+4.               Sewers may be open or closed, which will govern the choice of MCF, see Table 3.3 
+5.               Destatis, 2001.  
+Note: These values are from the literature or based on expert judgment. Please use national values, if available. 
+Volume 5: Waste 
+ 
+6.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Example 
+Table 6.6 includes an example. Categories with negligible contributions are not shown. Note that the table can 
+easily be expanded with a column for MCF for each category. The degree of urbanization for this country is 65 
+percent. 
+ 
+TABLE 6.6  
+EXAMPLE OF THE APPLICATION OF DEFAULT VALUES  
+FOR DEGREES OF TREATMENT UTILIZATION (T) BY INCOME GROUPS 
+Treatment or discharge system or pathway 
+T (%) 
+Notes 
+Urban high-income 
+To sea 
+10 
+No CH4 
+ 
+To aerobic plant 
+20 
+Add industrial component 
+ 
+To septic systems 
+10 
+Uncollected 
+Urban low-income 
+To sea 
+10 
+Collected  
+ 
+To pit latrines 
+15 
+Uncollected 
+Rural 
+To rivers, lakes, sea 
+15 
+ 
+To pit latrines 
+15 
+ 
+To septic tanks 
+5 
+Uncollected 
+Total 
+ 
+100% 
+Must add up to 100 % 
+Reference: Doorn and Liles (1999) 
+ 
+6.2.2.4 
+TIME SERIES CONSISTENCY  
+The same method and data sets should be used for estimating CH4 emissions from wastewater for each year. The 
+MCF for different treatment systems should not change from year to year, unless such a change is justifiable and 
+documented. If the share of wastewater treated in different treatment systems changes over the time period, the 
+reasons for these changes should be documented. 
+Sludge removal and CH4 recovery should be estimated consistently across years in the time series. Methane 
+recovery should be included only if there are sufficient facility-specific data. The quantity of recovered methane 
+should be subtracted from the methane produced as shown in Equation 6.1.  
+Because activity data are derived from population data, which is available for all countries and all years, 
+countries should be able to construct an entire time series for uncollected and collected wastewater. If data on the 
+share of uncollected wastewater treated onsite vs. untreated are missing for one or more years, the surrogate data 
+and extrapolation/interpolation splicing techniques described in Chapter 5, Time Series Consistency, of Volume 
+1, General Guidance and Reporting, can be used to estimate emissions. Emissions from wastewater typically do 
+not fluctuate significantly from year to year. 
+6.2.2.5 
+UNCERTAINTIES 
+Chapter 3, Uncertainties, in Volume 1 provides advice on quantifying uncertainties in practice. It includes 
+guidance on eliciting and using expert judgements which in combination with empirical data can provide overall 
+uncertainty estimates. Table 6.7 provides default uncertainty ranges for emission factor and activity data of 
+domestic wastewater. The following parameters are believed to be very uncertain: 
+• 
+The degrees to which wastewater in developing countries is treated in latrines, septic tanks, or removed by 
+sewer, for urban high, urban low income groups and rural population (Ti,,j).  
+• 
+The fraction of sewers that are ‘open’, as well as the degree to which open sewers in developing countries 
+are anaerobic and will emit CH4. This will depend on retention time and temperature, and on other factors 
+including the presence of a facultative layer and possibly components that are toxic to anaerobic bacteria 
+(e.g., certain industrial wastewater discharges).  
+• 
+The amount of industrial TOW that is discharged into open or closed domestic sewers for each country is 
+very difficult to quantify. 
+ 
+Chapter 6: Wastewater Treatment and Discharge
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.17 
+TABLE 6.7 
+DEFAULT UNCERTAINTY RANGES FOR DOMESTIC WASTEWATER 
+Parameter 
+Uncertainty Range 
+Emission Factor  
+ 
+Maximum CH4 producing capacity (Bo) 
+± 30%   
+Fraction treated anaerobically (MCF) 
+The MCF is technology dependent. See Table 6.3. Thus the uncertainty 
+range is also technology dependent. The uncertainty range should be 
+determined by expert judgement, bearing in mind that MCF is a fraction 
+and must be between 0 and 1. Suggested ranges are provided below. 
+Untreated systems and latrines, ± 50% 
+Lagoons, poorly managed treatment plants± 30%  
+Centralized well managed plant, digester, reactor, ± 10% 
+Activity Data 
+ 
+Human population (P) 
+± 5%   
+BOD per person 
+± 30%   
+Fraction of population income group (U) 
+Good data on urbanization are available, however, the distinction 
+between urban high income and urban low income may have to be 
+based on expert judgment.  ± 15%   
+Degree of utilization of treatment/ 
+discharge pathway or system for each 
+income group (Ti,j) 
+Can be as low as ± 3% for countries that have good records and only 
+one or two systems. Can be ± 50% for an individual method/pathway. 
+Verify that total Ti,j = 100% 
+Correction factor for additional industrial 
+BOD discharged into sewers (I) 
+For uncollected, the uncertainty is zero %. For collected the 
+uncertainty is ± 20% 
+Source: Judgement by Expert Group (Authors of this section). 
+ 
+ 
+ 
+6.2.2.6 
+QA/QC, COMPLETENESS, REPORTING AND 
+DOCUMENTATION  
+It is good practice to conduct quality control checks and quality assurance procedures as outlined in Chapter 6, 
+Volume 1. Below, some fundamental QA/QC procedures are included. 
+Activity Data 
+• 
+Characterize all wastewater according to the percentages flowing to different treatment systems (aerobic and 
+anaerobic), and the percentage of untreated wastewater. Make sure that all wastewater is characterized so 
+that the wastewater flows sum to 100 percent of the wastewater generated in the country.  
+• 
+Inventory compilers should compare country-specific data on BOD in domestic wastewater to IPCC default 
+values. If inventory compilers use country-specific values they should provide documented justification why 
+their country-specific values are more appropriate for their national circumstances. 
+Emission Factors 
+• 
+For domestic wastewater, inventory compilers can compare country-specific values for Bo with the IPCC 
+default value (0.25 kg CH4/kg COD or 0.6 kg CH4/kg BOD). Although there are no IPCC default values for 
+the fraction of wastewater treated anaerobically, inventory compilers are encouraged to compare values for 
+MCFs against those from other countries with similar wastewater handling practices.  
+• 
+Inventory compilers should confirm the agreement between the units used for degradable carbon in the 
+waste (TOW) with the units for Bo. Both parameters should be based on the same units (either BOD or COD) 
+in order to calculate emissions. This same consideration should be taken into account when comparing the 
+emissions. 
+ 
+Volume 5: Waste 
+ 
+6.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CH4 Recovery and Sludge Removal 
+• 
+A carbon balance check can be used to ensure that the carbon contained in the inflow and outflow (effluent 
+BOD, methane emission and methane recovery) are comparable. 
+• 
+If sludge removal is reported in the wastewater inventory, check for consistency with the estimates for 
+sludge applied to agriculture soils, sludge incinerated, and sludge deposited in solid waste disposal. 
+Comparison of emissions estimates using different approaches 
+• 
+For countries that use country-specific parameters, or Tier 2 or higher methods, inventory compilers can 
+cross-check the national estimate with emissions using the IPCC default method and parameters. 
+COMPLETENESS 
+Completeness can be verified on the basis of the degree of utilization of a treatment or discharge system or 
+pathway (T). The sum of T should equal 100 percent. It is a good practice to draw a diagram similar to Figure 
+6.1 for the country to consider all potential anaerobic treatment and discharge systems and pathways, including 
+collected and uncollected, as well as treated and untreated. Any industrial wastewater treated in domestic 
+wastewater treatment facilities should be included in the collected category. If sludge is removed for the purpose 
+of incineration, disposal in landfills or as fertilizer on agricultural lands, the amount of organic material removed 
+as sludge should be consistent with data used in the relevant sectors (see text under Section 6.2.2). 
+REPORTING AND DOCUMENTATION 
+ It is good practice to document and report a summary of the methods used, activity data and emission factors. 
+Worksheets are provided at the end of this volume. When country-specific methods and/or emission factors are 
+used, the reasoning for the choices as well as references to how the country-specific data (measurements, literature, 
+expert judgement, etc.) have been derived (measurements, literature, expert judgement, etc.) should be documented 
+and included in the reporting. 
+If sludge is incinerated, landfilled, or spread on agricultural lands, the quantities of sludge, and associated 
+emissions, should be reported in the waste incineration, SWDS, or agricultural categories, respectively. 
+Where CH4 is recovered for energy use, then the resulting greenhouse gas emissions should be reported under 
+Energy Sector. As discussed in Section 6.2.1, good practice in the Waste Sector does not require the estimation 
+of CH4 and N2O from CH4 recovery and flaring. However, if it is wished to do so emissions from flaring should 
+be reported under the Waste Sector. 
+More information on reporting and documentation can be found in Volume 1, Chapter 6, Section 6.11 
+Documentation, archiving and reporting.  
+6.2.3 
+Industrial wastewater 
+Industrial wastewater may be treated on site or released into domestic sewer systems. If it is released into the 
+domestic sewer system, the emissions are to be included with the domestic wastewater emissions. This section 
+deals with estimating CH4 emissions from on-site industrial wastewater treatment. Only industrial wastewater 
+with significant carbon loading that is treated under intended or unintended anaerobic conditions will produce 
+CH4. Organics in industrial wastewater are often expressed in terms of COD, which is used here. 
+ 
+Chapter 6: Wastewater Treatment and Discharge
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.19 
+6.2.3.1 
+CHOICE OF METHOD 
+A decision tree for industrial wastewater is included in Figure 6.3.  
+Figure 6.3  
+Decision Tree for CH4 emissions from industrial wastewater treatment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), 
+ for discussion of key categories and use of decision trees. 
+ 
+Assessment of CH4 production potential from industrial wastewater streams is based on the concentration of 
+degradable organic matter in the wastewater, the volume of wastewater, and the propensity of the industrial 
+sector to treat their wastewater in anaerobic systems. Using these criteria, major industrial wastewater sources 
+with high CH4 gas production potential can be identified as follows:  
+• 
+pulp and paper manufacture, 
+• 
+meat and poultry processing (slaughterhouses), 
+Start
+For
+these industrial
+sectors, is a country-specific 
+method from individual
+facilities or companies
+available?
+For these
+industrial sectors, are
+COD and wastewater outflow 
+data available?
+Are
+country-specific
+emission factors for 
+selected industrial
+sectors
+available?
+Is
+industrial
+wastewater a key 
+category1?
+Estimate emission
+factors using a 
+review of industry
+wastewater 
+treatment practices.
+Collect COD 
+and outflow 
+for each
+industrial 
+sector.
+Estimate outflow
+using industrial
+production data.
+Estimate
+emissions using
+bottom-up data.
+Estimate CH4
+emissions using
+country-specific
+emission factors.
+Estimate
+emissions using
+default data.
+Identify major industrial 
+sectors with large potentials 
+for CH4 emission.
+Box 3: Tier 3
+Box 2: Tier 2
+Box 1: Tier 1
+Yes
+Yes     
+No
+No
+Yes
+No
+Yes
+No
+Volume 5: Waste 
+ 
+6.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• 
+alcohol, beer, starch production, 
+• 
+organic chemicals production, 
+• 
+other food and drink processing (dairy products, vegetable oil, fruits and vegetables, canneries, juice making, 
+etc.). 
+Both the pulp and paper industry and the meat and poultry processing industries produce large volumes of 
+wastewater that contain high levels of degradable organics. The meat and poultry processing facilities typically 
+employ anaerobic lagoons to treat their wastewater, while the paper and pulp industry also use lagoons and 
+anaerobic reactors. The non-animal food and beverage industries produce considerable amounts of wastewater 
+with significant organic carbon levels and are also known to use anaerobic processes such as lagoons and 
+anaerobic reactors. Anaerobic reactors treating industrial effluents with biogas facilities are usually linked with 
+recovery of the generated CH4 for energy. Emissions from the combustion process for energy should be reported 
+in the Energy Sector. 
+The method for estimating emissions from industrial wastewater is similar to the one used for domestic 
+wastewater. See the decision tree in Figure 6.3. The development of emission factors and activity data is more 
+complex because there are many types of wastewater, and many different industries to track. The most accurate 
+estimates of emissions for this source category would be based on measured data from point sources. Due to the 
+high costs of measurements and the potentially large number of point sources, collecting comprehensive 
+measurement data is very difficult. It is suggested that inventory compilers use a top-down approach that 
+includes the following general steps:  
+Step 1: 
+Use Equation 6.6 to estimate total organically degradable carbon in wastewater (TOW) for industrial 
+sector i 
+Step 2: 
+Select the pathway and systems (Figure 6.1) according to country activity data. Use Equation 6.5 to 
+obtain emission factor. For each industrial sector estimate the emission factor using maximum 
+methane producing capacity and the average industry-specific methane correction factor. 
+Step 3: 
+Use Equation 6.4 to estimate emissions, adjust for possible sludge removal and or CH4 recovery and 
+sum the results. 
+The general equation to estimate CH4 emissions from industrial wastewater is as follows: 
+EQUATION 6.4 
+TOTAL CH4 EMISSIONS FROM INDUSTRIAL WASTEWATER 
+(
+)
+[
+]
+∑
+−
+−
+=
+i
+i
+i
+i
+i
+4
+R
+EF
+S
+TOW
+Emissions
+CH
+ 
+Where: 
+CH4 Emissions = 
+ CH4 emissions in inventory year, kg CH4/yr 
+TOWi =  
+total organically degradable material in wastewater from industry i  
+in inventory year, kg COD/yr 
+i 
+ 
+=  
+industrial sector 
+Si 
+ 
+=  
+organic component removed as sludge in inventory year, kg COD/yr 
+EFi  
+=  
+emission factor for industry i, kg CH4/kg COD  
+for treatment/discharge pathway or system(s) used in inventory year 
+ 
+ 
+  
+If more than one treatment practice is used in an industry this factor would need to be 
+a weighted average. 
+Ri 
+ 
+=  
+amount of CH4 recovered in inventory year, kg CH4/yr 
+The amount of CH4 which is recovered is expressed as R in Equation 6.4. The recovered gas should be treated as 
+described in Section 6.2.1.  
+6.2.3.2 
+CHOICE OF EMISSION FACTORS 
+There are significant differences in the CH4 emitting potential of different types of industrial wastewater. To the 
+extent possible, data should be collected to determine the maximum CH4 producing capacity (Bo) in each 
+industry. As mentioned before, the MCF indicates the extent to which the CH4 producing potential (Bo) is 
+ 
+Chapter 6: Wastewater Treatment and Discharge
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.21 
+realised in each type of treatment method. Thus, it is an indication of the degree to which the system is anaerobic. 
+See Equation 6.5.  
+EQUATION 6.5 
+CH4 EMISSION FACTOR FOR INDUSTRIAL WASTEWATER 
+j
+o
+j
+MCF
+B
+EF
+•
+=
+ 
+Where: 
+EFj   
+= 
+emission factor for each treatment/discharge pathway or system, kg CH4/kg COD,  
+(See Table 6.8.) 
+j 
+ 
+= 
+each treatment/discharge pathway or system 
+Bo 
+ 
+= 
+maximum CH4 producing capacity, kg CH4/kg COD 
+MCFj  = 
+methane correction factor (fraction) (See Table 6.8.) 
+Good practice is to use country and industry sector specific data that may be available from government 
+authorities, industrial organisations, or industrial experts. However, most inventory compilers will find detailed 
+industry sector-specific data unavailable or incomplete. If no country-specific data are available, it is good 
+practice to use the IPCC COD-default factor for Bo (0.25 kg CH4/kg COD). 
+In determining the Methane correction factor (MCF), which is the fraction of waste treated anaerobically, expert 
+judgement is recommended. A peer-reviewed survey of industry wastewater treatment practices is one useful 
+technique for estimating these data. Surveys should be conducted frequently enough to account for major trends 
+in industry practices (i.e., every 3-5 years). Chapter 2, Approaches to Data Collection, in Volume 1, describes 
+how to elicit expert judgement for uncertainty ranges. Similar expert elicitation protocols can be used to obtain 
+the necessary information for other types of data if published data and statistics are not available. Table 6.8 
+includes default MCF values, which are based on expert judgment. 
+TABLE 6.8 
+DEFAULT MCF VALUES FOR INDUSTRIAL WASTEWATER 
+Type of treatment and discharge 
+pathway or system 
+Comments 
+MCF 1 
+Range 
+Untreated 
+Sea, river and lake discharge 
+Rivers with high organics loadings may turn 
+anaerobic, however this is not considered here. 
+0.1 
+   0  –  0.2 
+Treated 
+Aerobic treatment plant 
+Must be well managed. Some CH4 can be 
+emitted from settling basins and other pockets.  
+  0 
+  0  –  0.1 
+Aerobic treatment plant 
+Not well managed. Overloaded 
+0.3 
+0.2  –  0.4       
+Anaerobic digester for sludge 
+CH4 recovery not considered here 
+0.8 
+0.8  –  1.0 
+Anaerobic reactor  
+(e.g., UASB, Fixed Film Reactor) 
+CH4 recovery not considered here 
+0.8 
+0.8  –  1.0 
+Anaerobic shallow lagoon 
+Depth less than 2 metres, use expert judgment  
+0.2 
+   0  –  0.3 
+Anaerobic deep lagoon  
+Depth more than 2 metres 
+0.8 
+0.8  –  1.0 
+1 Based on expert judgment by lead authors of this section 
+ 
+6.2.3.3 
+CHOICE OF ACTIVITY DATA 
+The activity data for this source category is the amount of organically degradable material in the wastewater 
+(TOW). This parameter is a function of industrial output (product) P (tons/yr), wastewater generation W (m3/ton 
+of product), and degradable organics concentration in the wastewater COD (kg COD/m3). See Equation 6.6. The 
+following steps are required for determination of TOW: 
+(i) 
+Identify the industrial sectors that generate wastewater with large quantities of organic carbon, by 
+evaluating total industrial product, degradable organics in the wastewater, and wastewater produced. 
+Volume 5: Waste 
+ 
+6.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(ii) 
+Identify industrial sectors that use anaerobic treatment. Include those that may have unintended 
+anaerobic treatment as a result of overloading of the treatment system. Experience has shown that 
+usually three or four industrial sectors are key.  
+For each selected sector estimate total organically degradable carbon (TOW). 
+EQUATION 6.6 
+ORGANICALLY DEGRADABLE MATERIAL IN INDUSTRIAL WASTEWATER 
+i
+i
+i
+i
+COD
+W
+P
+TOW
+•
+•
+=
+ 
+Where: 
+TOWi 
+= 
+total organically degradable material in wastewater for industry i, kg COD/yr 
+i 
+ 
+= 
+industrial sector 
+Pi 
+ 
+= 
+total industrial product for industrial sector i, t/yr 
+Wi 
+ 
+= 
+wastewater generated, m3/t product 
+CODi 
+= 
+chemical oxygen demand (industrial degradable organic component in wastewater),  
+kg   COD/m3 
+Industrial production data and wastewater outflows may be obtained from national statistics, regulatory agencies, 
+wastewater treatment associations or industry associations. In some cases quantification of the COD loading in 
+the wastewater may require expert judgement. In some countries, COD and total water usage per sector data may 
+be available directly from a regulatory agency. An alternative is to obtain data on industrial output and tonnes 
+COD produced per tonne of product from the literature. Table 6.9 provides examples that could be used as 
+default values. These should be used with caution, because they are industry-, process- and country-specific. 
+TABLE 6.9  
+EXAMPLES OF INDUSTRIAL WASTEWATER DATA 
+Industry Type 
+Wastewater Generation W 
+Range for W 
+COD 
+COD Range 
+ 
+(m3/ton) 
+(m3/ton) 
+(kg/m3) 
+(kg/m3) 
+Alcohol Refining 
+24 
+16 – 32 
+11 
+ 5 – 22 
+Beer & Malt 
+6.3 
+5.0  – 9.0 
+2.9 
+2 – 7 
+Coffee 
+NA 
+NA –  
+9 
+  3 – 15 
+Dairy Products 
+7 
+  3 – 10 
+2.7 
+1.5 – 5.2 
+Fish Processing 
+NA 
+  8 – 18 
+2.5 
+ 
+Meat & Poultry 
+13 
+  8 – 18 
+4.1 
+2 – 7 
+Organic Chemicals 
+67 
+   0 – 400 
+3 
+       0.8 – 5 
+Petroleum Refineries 
+0.6 
+0.3 – 1.2 
+1.0 
+       0.4 – 1.6 
+Plastics & Resins 
+0.6 
+0.3 – 1.2 
+3.7 
+       0.8 – 5 
+Pulp & Paper (combined) 
+162 
+  85 – 240 
+9 
+  1 – 15 
+Soap & Detergents 
+NA 
+1.0 – 5.0 
+NA 
+0.5 – 1.2 
+Starch Production  
+9 
+ 4 – 18 
+10 
+       1.5 – 42 
+Sugar Refining 
+NA 
+ 4 – 18 
+3.2 
+1 – 6 
+Vegetable Oils 
+3.1 
+1.0 – 5.0 
+NA 
+0.5 – 1.2 
+Vegetables, Fruits &    
+Juices 
+20 
+ 7 – 35 
+5.0 
+  2 – 10 
+Wine & Vinegar 
+23 
+11 – 46 
+1.5 
+0.7 – 3.0 
+Notes: NA = Not Available. 
+Source: Doorn et al. (1997). 
+6.2.3.4 
+TIME SERIES CONSISTENCY  
+Once an industrial sector is included in the inventory calculation, it should be included for each subsequent year. 
+If the inventory compiler adds a new industrial sector to the calculation, then he or she should re-calculate the 
+ 
+Chapter 6: Wastewater Treatment and Discharge
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.23 
+entire time series so that the method is consistent from year to year. General guidance on recalculation of 
+estimates through time series is provided in Volume 1, Chapter 5, Time Series Consistency.  
+As with domestic wastewater, sludge removal and CH4 recovery should be treated consistently across years in 
+the time series. CH4 recovery should be included only if there are facility-specific data. The quantity of 
+recovered CH4 should be subtracted from the CH4 produced as shown in Equation 6.4. 
+6.2.3.5 
+UNCERTAINTIES 
+ Uncertainty estimates for Bo, MCF, P, W and COD are provided in Table 6.10. The estimates are based on 
+expert judgement. 
+TABLE 6.10  
+DEFAULT UNCERTAINTY RANGES FOR INDUSTRIAL WASTEWATER 
+Parameter 
+Uncertainty Range 
+Emission Factor 
+ 
+Maximum CH4 producing capacity (Bo) 
+± 30%   
+Methane correction factor (MCF) 
+The uncertainty range should be determined by expert judgement, bearing 
+in mind that this is a fraction and uncertainties cannot take it outside the 
+range of 0 to 1. 
+Activity Data 
+ 
+Industrial production (P) 
+± 25%  Use expert judgement regarding the quality of data source to 
+assign more accurate uncertainty range. 
+Wastewater/unit production (W) 
+ 
+COD/unit wastewater (COD) 
+These data can be very uncertain as the same sector might use different 
+waste handling procedures at different plants and in different countries. 
+The product of the parameters (W•COD) is expected to have less 
+uncertainty. An uncertainty value can be attributed directly to kg 
+COD/tonne of product. –50 %, +100% is suggested (i.e., a factor of 2). 
+Source: Judgement by Expert Group (Co-chairs, Editors and Authors of this sector). 
+ 
+6.2.3.6 
+QA/QC, COMPLETENESS, REPORTING AND 
+DOCUMENTATION  
+It is good practice to conduct quality control checks and quality assurance procedures as outlined in Chapter 6, 
+QA/QC and Verification, of Volume 1. Below, some fundamental QA/QC procedures include: 
+• 
+For industrial wastewater, inventory compilers may review the secondary data sets (e.g., from national 
+statistics, regulatory agencies, wastewater treatment associations or industry associations) , that are used to 
+estimate and rank industrial COD waste output. Some countries may have regulatory control over industrial 
+discharges, in which cases significant QA/QC protocols may already be in place for the development of the 
+wastewater characteristics on an industry basis. 
+• 
+For industrial wastewater, inventory compilers should cross-check values for MCFs against those from other 
+national inventories with similar wastewater characteristics. 
+• 
+The inventory compilers should review facility-specific data on CH4 recovery to ensure that it was reported 
+according to criteria on measurements outlined in Chapter 2, Approaches to Data Collection, in Volume 1. 
+• 
+Use a carbon balance check to ensure that the carbon contained in CH4 recovery is less than the carbon 
+contained in BOD entering the facility that reports CH4 recovery. 
+• 
+If sludge removal is reported in the wastewater inventory, check for consistency with the estimates for 
+sludge applied to agriculture soils, sludge incinerated, and sludge deposited in solid waste disposal. 
+• 
+For countries that use country-specific parameters or higher tier methods, inventory compilers should cross-
+check the national estimates with emissions using the IPCC default method and parameters.  
+Volume 5: Waste 
+ 
+6.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+COMPLETENESS  
+Completeness for estimating emissions from industrial wastewater depends on an accurate characterization of 
+industrial sectors that produce organic wastewater. In most countries, approximately 3-4 industrial sectors will 
+account for the majority of the organic wastewater volume, so the inventory compilers should ensure that these 
+sectors are covered. Periodically, the inventory compilers should re-survey industrial sources, particularly if 
+some industries are growing rapidly. 
+This category should only cover industrial wastewater treated onsite. Emissions from industrial wastewater 
+released into domestic sewer systems should be addressed and included with domestic wastewater. 
+Some sludge from industrial wastewater treatment may be incinerated or deposited in landfills or on agricultural 
+lands. This constitutes an amount of organic waste that should be subtracted from available TOW. It is good 
+practice to be consistent across sectors: the amount of sludge that is removed from TOW should be equal to the 
+amount of sludge disposed at landfills, applied to agricultural soils, incinerated or treated elsewhere.  
+REPORTING AND DOCUMENTATION 
+It is good practice to document and report a summary of the methods used, activity data and emission factors. 
+Worksheets are provided at the end of this volume. When country-specific methods and/or emission factors are 
+used, the reasoning for the choices as well as references to how the country-specific data (measurements, 
+literature, expert judgement, etc.) have been derived (measurements, literature, expert judgement, etc.) should be 
+documented and included in the reporting. 
+If sludge is incinerated, landfilled, or spread on agricultural lands, the quantities of sludge and associated emissions 
+should be reported in the waste incineration, SWDS, or agricultural categories, respectively.  
+If CH4 recovery data are available for industrial wastewater treatment, these should be documented for flaring 
+and energy recovery separately. The treatment of recovered CH4 and how to report emissions from flaring should 
+be the same as the guidance for domestic wastewater in Section 6.2.2.6.  
+More information on reporting and documentation can be found in Volume 1, Chapter 6, Section 6.11 
+Documentation, archiving and reporting. 
+6.3 
+NITROUS OXIDE EMISSIONS FROM 
+WASTEWATER 
+6.3.1 
+Methodological issues 
+6.3.1.1 
+CHOICE OF METHOD 
+Nitrous oxide (N2O) emissions can occur as direct emissions from treatment plants or from indirect emissions 
+from wastewater after disposal of effluent into waterways, lakes or the sea. Direct emissions from nitrification 
+and denitrification at wastewater treatment plants may be considered as a minor source and guidance is offered 
+in Box 6.1 to estimate these emissions. Typically, these emissions are much smaller than those from effluent and 
+may only be of interest to countries that predominantly have advanced centralized wastewater treatment plants 
+with nitrification and denitrification steps. 
+No higher tiers are given, so it is Good practice to estimate N2O from domestic wastewater effluent using the 
+method given here, No decision tree is provided. Direct emissions need to be estimated only for countries that 
+have predominantly advanced centralized wastewater treatment plants with nitrification and denitrification steps. 
+Accordingly, this section addresses indirect N2O emissions from wastewater treatment effluent that is discharged 
+into aquatic environments. The methodology for emissions from effluent is similar to that of indirect N2O 
+emissions explained in Volume 4, Section 11.2.2, in Chapter 11, N2O Emissions from Managed Soils, and CO2 
+Emissions from Lime and Urea Application. The simplified general equation is as follows: 
+ 
+Chapter 6: Wastewater Treatment and Discharge
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.25 
+EQUATION 6.7 
+N2O EMISSIONS FROM WASTEWATER EFFLUENT 
+• 44 / 28
+•
+=
+EFFLUENT
+EFFLUENT
+2
+EF
+N
+N O Emissions
+ 
+Where:  
+N2O emissions   =  N2O emissions in inventory year, kg N2O/yr 
+N EFFLUENT  
+=   
+nitrogen in the effluent discharged to aquatic environments, kg N/yr  
+EFEFFLUENT     =   
+emission factor for N2O emissions from discharged to wastewater, kg N2O-N/kg N    
+The factor 44/28 is the conversion of kg N2O-N into kg N2O. 
+6.3.1.2 
+CHOICE OF EMISSION FACTORS 
+The default IPCC emission factor for N2O emissions from domestic wastewater nitrogen effluent is 0.005 
+(0.0005 - 0.25) kg N2O-N/kg N. This emission factor is based on limited field data and on specific assumptions 
+regarding the occurrence of nitrification and denitrification in rivers and in estuaries. The first assumption is that 
+all nitrogen is discharged with the effluent. The second assumption is that N2O production in rivers and estuaries 
+is directly related to nitrification and denitrification and, thus, to the nitrogen that is discharged into the river. 
+(See Volume 4, Table 11.3 of Section 11.2.2 in Chapter 11, N2O Emissions from Managed Soils, and CO2 
+Emissions from Lime and Urea Application.) 
+6.3.1.3 
+CHOICE OF ACTIVITY DATA 
+The activity data that are needed for estimating N2O emissions are nitrogen content in the wastewater effluent, 
+country population and average annual per capita protein generation (kg/person/yr). Per capita protein generation 
+consists of intake (consumption) which is available from the Food and Agriculture Organization (FAO, 2004), 
+multiplied by factors to account for additional ‘non-consumed’ protein and for industrial protein discharged into 
+the sewer system. Food (waste) that is not consumed may be washed down the drain (e.g., as result of the use of 
+garbage disposals in some developed countries) and also, bath and laundry water can be expected to contribute to 
+nitrogen loadings. For developed countries using garbage disposals, the default for non-consumed protein 
+discharged to wastewater pathways is 1.4, while for developing countries this fraction is 1.1. Wastewater from 
+industrial or commercial sources that is discharged into the sewer may contain protein (e.g., from grocery stores 
+and butchers). The default for this fraction is 1.25. The total nitrogen in the effluent is estimated as follows: 
+ 
+EQUATION 6.8 
+TOTAL NITROGEN IN THE EFFLUENT 
+(
+)
+SLUDGE
+IND COM
+CON
+NON
+NPR
+EFFLUENT
+N
+F
+F
+F
+Protein
+P
+N
+−
+•
+•
+•
+•
+=
+−
+−
+ 
+Where: 
+NEFFLUENT  =  
+total annual amount of nitrogen in the wastewater effluent, kg N/yr 
+P 
+=  
+human population 
+Protein 
+=  
+annual per capita protein consumption, kg/person/yr 
+FNPR 
+=  
+fraction of nitrogen in protein, default = 0.16, kg N/kg protein   
+FNON-CON =  
+factor for non-consumed protein added to the wastewater  
+FIND-COM =  
+factor for industrial and commercial co-discharged protein into the sewer system  
+NSLUDGE  =  
+nitrogen removed with sludge (default = zero), kg N/yr 
+ 
+ 
+ 
+Volume 5: Waste 
+ 
+6.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 6.1 
+SUBCATEGORY - EMISSIONS FROM ADVANCED CENTRALISED WASTEWATER TREATMENT PLANTS  
+Emissions from advanced centralised wastewater treatment plants are typically much smaller than 
+those from effluent and may only be of interest for countries that have predominantly advanced 
+centralized wastewater treatment plants with controlled nitrification and denitrification steps. The 
+overall emission factor to estimate N2O emissions from such plants is 3.2 g N2O/person/year. This 
+emission factor was determined during field testing at a domestic wastewater treatment plant in the 
+Northern United States (Czepiel et al., 1995). The emission data were obtained at a plant that 
+received only domestic wastewater. This wastewater already included non-consumption protein, 
+but did not include any co-discharged industrial and commercial wastewater. No other country-
+specific emission factors are available. The emissions from N2O from centralized wastewater 
+treatment processes are calculated as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Where: 
+N2OPLANTS =  total N2O emissions from plants in inventory year, kg N2O/yr 
+P 
+=  human population 
+TPLANT 
+=  degree of utilization of modern, centralized WWT plants, % 
+FIND-COMM 
+=  fraction of industrial and commercial co-discharged protein (default = 1.25,  
+   
+ based on data in Metcalf & Eddy (2003) and expert judgment) 
+EFPLANT 
+=  emission factor, 3.2 g N2O/person/year 
+Note: When a country chooses to include N2O emissions from plants, the amount of nitrogen 
+associated with these emissions (NWWT) must be back calculated and subtracted from the 
+NEFFLUENT. The NWWT can be calculated by multiplying N2OPLANTS by 28/44, using the  
+molecular weights. 
+ 
+6.3.2 
+Time series consistency 
+If a country decides to incorporate plant emissions into the estimate, this change must be made for the entire time 
+series. Potential sludge removal should be treated consistently across years in the time series.  
+6.3.3 
+Uncertainties 
+Large uncertainties are associated with the IPCC default emission factors for N2O from effluent. Currently 
+insufficient field data exist to improve this factor. Also, the N2O emission factor for plants is uncertain, because 
+it is based on one field test. Table 6.11 below includes uncertainty ranges based on expert judgment. 
+ 
+ 
+ 
+EQUATION 6.9 
+N2O EMISION FROM  
+CENTRALIZED WASTEWATER TREATMENT PROCESSES 
+PLANT
+IND COM
+PLANT
+PLANTS
+2
+EF
+F
+T
+P
+N O
+•
+•
+•
+=
+−
+ 
+ 
+Chapter 6: Wastewater Treatment and Discharge
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.27 
+TABLE 6.11  
+N2O METHODOLOGY DEFAULT DATA 
+ 
+Definition 
+Default Value 
+Range 
+Emission Factor 
+ 
+ 
+EFEFFLUENT 
+Emission factor, (kg N2O-N/kg –N) 
+0.005 
+    0.0005 – 0.25   
+EFPLANTS 
+Emission factor, (g N2O/person/year) 
+3.2 
+2 – 8 
+Activity Data 
+ 
+ 
+P 
+Number of people in country 
+Country-specific 
+± 10 % 
+Protein 
+Annual per capita protein consumption 
+Country-specific 
+± 10 % 
+FNPR 
+Fraction of nitrogen in protein 
+(kg N/kg protein)  
+0.16 
+ 0.15 – 0.17 
+Tplant 
+Degree of utilization of large WWT plants 
+Country-specific 
+± 20 % 
+FNON-CON 
+Factor to adjust for non-consumed protein 
+1.1 for countries with no 
+garbage disposals, 
+1.4 for countries with 
+garbage disposals 
+1.0 – 1.5  
+FIND-COM 
+Factor to allow for co-discharge of industrial 
+nitrogen into sewers. For countries with significant 
+fish processing plants, this factor may be higher.  
+Expert judgment is recommended. 
+1.25 
+1.0 – 1.5 
+ 
+6.3.4 
+QA/QC, Completeness, Reporting and 
+Documentation 
+This method makes use of several default parameters. It is recommended to solicit experts’ advice in evaluating 
+the appropriateness of the proposed default factors.  
+COMPLETENESS 
+Unless sludge removal data are available, the methodology for estimating emissions from effluent is based on 
+population and on the assumption that all nitrogen associated with consumption and domestic use, as well as 
+nitrogen from co-discharged industrial wastewater, will eventually enter a waterway. As such, this estimate can 
+be seen as conservative estimate and covers the entire source associated with domestic wastewater use. 
+The methodology does not include N2O emissions from industrial sources, except for industrial wastewater that 
+is co-discharged with domestic wastewater into the sewer system. The N2O emissions from industrial sources are 
+believed to be insignificant compared to emissions from domestic wastewater. 
+Very few countries collect data on wastewater sludge handling. If these data exist, it is suggested to make them 
+available to the appropriate inventory teams. 
+The emission factor used for N2O emissions from effluent is the same as the emission factor used for indirect 
+N2O emissions in the AFOLU Sector.  
+REPORTING AND DOCUMENTATION 
+It is good practice to document and report a summary of the methods used, activity data and emission factors. 
+Worksheets are provided at the end of this volume. When country-specific methods and/or emission factors are 
+used, the reasoning for the choices as well as references to how the country-specific data (measurements, literature, 
+expert judgement, etc.) have been derived (measurements, literature, expert judgement, etc.) should be documented 
+and included in the reporting.   
+If sludge is incinerated, landfilled, or spread on agricultural lands, the associated quantities of sludge should be 
+reported in the waste incineration, SWDS, or agricultural categories, respectively.  
+More information on reporting and documentation can be found in Volume 1, Chapter 6, Section 6.11 
+Documentation, archiving and reporting.  
+ 
+Volume 5: Waste 
+ 
+6.28 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References  
+American Public Health Association and American Water Works Association (1998). Standard Methods for the 
+Examination of Water and Wastewater, 20th edition, Water Environment Federation, ISBN 0-87553-235-
+7.  
+Czepiel, P., Crill, P. and Harriss, R. (1995). ‘Nitrous oxide emissions from domestic wastewater treatment’ 
+Environmental Science and Technology, vol. 29, no. 9, pp. 2352-2356. 
+Destatis (2001). "Öffentliche Wasserversorgung und Abwasserbeseitigung 2001, Tabelle 1 "Übersichtstabelle 
+Anschlussgrade" (Statistical Office Germany (http://www.destatis.de/) 
+Doorn, M.R.J., Strait, R., Barnard, W. and Eklund, B. (1997). Estimate of Global Greenhouse Gas Emissions 
+from Industrial and Domestic Wastewater Treatment, Final Report, EPA-600/R-97-091, Prepared for 
+United States Environmental Protection Agency, Research Triangle Park, NC, USA. 
+Doorn, M.R.J. and Liles, D. (1999). Global Methane, Quantification of Methane Emissions and Discussion of 
+Nitrous Oxide, and Ammonia Emissions from Septic Tanks, Latrines, and Stagnant Open Sewers in the 
+World. EPA-600/R-99-089, Prepared for U.S. EPA, Research Triangle Park, NC, USA. 
+FAO (2004). FAOSTAT Statistical Database, United Nations Food and Agriculture Organization. Available on 
+the Internet at <http://faostat.fao.org/> 
+Feachem, R.G., Bradley, D.J., Gareleck H. and Mara D.D. (1983). Sanitation and Disease – Health Aspects of 
+Excreta and Wastewater Management,  World Bank, John Wiley & Sons, USA. 
+IPCC (1997). Houghton, J.T., Meira Filho, L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. 
+and Callander, B.A. (Eds). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+Masotti, L. (1996).  "Depurazione delle acque. Tecniche ed impianti per il tratatmento delle acque di rifiuto". 
+Eds Calderini. pp. 29-30 
+Metcalf & Eddy, Inc. (2003) Wastewater Engineering: Treatment, Disposal, Reuse. McGraw-Hill: New York, 
+ISBN 0-07-041878-0. 
+United Nations (2002). World Urbanization Prospects, The 2001 Revision Data Tables and Highlights. 
+Population Division, Department of Economic and Social Affairs, United Nations Secretariat. 
+ESA/P/WP.173. March 2002.  

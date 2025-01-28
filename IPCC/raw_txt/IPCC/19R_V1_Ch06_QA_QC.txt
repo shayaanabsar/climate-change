@@ -1,0 +1,3159 @@
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.1 
+CHAPTER 6 
+QUALITY ASSURANCE/QUALITY 
+CONTROL AND VERIFICATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Shamil Maksyutov (Japan and Russian Federation), Simon Eggleston (UK) 
+Jung Hun Woo (South Korea), Shuangxi Fang (China), Jongikhaya Witi (South Africa), Michael Gillenwater 
+(USA), Justin Goodwin (UK), Francesco Tubiello (USA and Italy) 
+Contributing Authors 
+Alistair Manning (UK), Stephen Ogle (USA), Cynthia Randles (USA), Michela Maione (Italy),  
+Melissa M. Weitz (USA)
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.3 
+Contents 
+6     Quality Assurance/Quality Control and Verification .................................................................................... 6.5 
+6.1     Introduction .............................................................................................................................................. 6.5 
+6.2     Practical considerations in developing QA/QC and verification systems ................................................ 6.6 
+6.3     Elements of a QA/QC and verification system ........................................................................................ 6.7 
+6.4     Roles and responsibilities ......................................................................................................................... 6.7 
+6.5     QA/QC plan ............................................................................................................................................. 6.7 
+6.6     General QC procedures ............................................................................................................................ 6.7 
+6.7     Category-specific QC procedures ............................................................................................................. 6.7 
+6.7.1     Emissions factor QC ......................................................................................................................... 6.7 
+6.7.2     Activity data QC............................................................................................................................... 6.7 
+6.7.3     Calculation-related QC ..................................................................................................................... 6.9 
+6.8     QA procedures .......................................................................................................................................... 6.9 
+6.9     QA/QC and uncertainty estimates ............................................................................................................ 6.9 
+6.10   Verification .............................................................................................................................................. 6.9 
+6.10.1     Comparisons of national estimates ................................................................................................. 6.9 
+6.10.2     Comparisons with atmospheric measurements ............................................................................. 6.11 
+6.11     Documentation, Archiving and Reporting ............................................................................................ 6.24 
+6.12     Use and reporting of models................................................................................................................. 6.24 
+6.12.1     Use of models ............................................................................................................................... 6.24 
+6.12.2     Why use more complex methods? ................................................................................................ 6.25 
+6.12.3     Models .......................................................................................................................................... 6.25 
+6.12.4     Good Practice Use of Models in National Greenhouse Gas Inventories ...................................... 6.26 
+6.12.5     QA/QC for selecting, adapting and using models ........................................................................ 6.30 
+6.12.6     Reporting on the use of models in emission inventories .............................................................. 6.30 
+6.12.7      Checklist for ensuring good practice in the use of complex, higher tier models in national greenhouse 
+gas inventories .............................................................................................................................. 6.31 
+References .......................................................................................................................................................... 6.33 
+Annex 6A.1 QC checklists ................................................................................................................................. 6.39 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure 6.1 (New) 
+A decision tree for checking the conditions for using the inverse model estimates in the 
+National Inventory verification ................................................................................... 6.23 
+Figure 6.2 (New) 
+Schematic of typical model development/selection process ........................................ 6.27 
+Tables 
+Table 6.2 (New) 
+Strengths, problems and prospects of using atmospheric measurements for verification of 
+GHG emissions ............................................................................................................ 6.17 
+Table 6.3 (New) 
+Implementation steps and share of responsibilities between partners .......................... 6.19 
+Table 6.4 (New) 
+Summary of the key steps implemented in national examples ..................................... 6.20 
+Table 6.5 (New) 
+General outline of national inventory comparison to global/regional inverse modelling 
+products ........................................................................................................................ 6.24 
+Table 6.6 (New) 
+General guidance related to models in Volumes 1 & 4 of the 2006 IPCC Guidelines . 6.25 
+Boxes 
+Box 6.1 (Updated) 
+Definitions of QA/QC and verification .......................................................................... 6.6 
+Box 6.3 
+Evaluation of data quality on external data in the transportation sector ........................ 6.8 
+Box 6.5 (New) 
+Comparison – verification actions on inventory compiler side .................................... 6.21 
+Box 6.6 (New) 
+UK methane (CH4) and nitrous oxide (N2O) inverse modelling .................................. 6.22 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.5 
+6 QUALITY ASSURANCE/QUALITY CONTROL 
+AND VERIFICATION 
+Users are expected to go to Mapping Tables in Annex 1, before reading this chapter. This is required to correctly 
+understand both the refinements made and how the elements in this chapter relate to the corresponding chapter 
+in the 2006 IPCC Guidelines. 
+6.1 
+INTRODUCTION 
+An important goal of IPCC inventory guidance is to support the development of national greenhouse gas 
+inventories that can be readily assessed in terms of quality. It is good practice to implement quality 
+assurance/quality control (QA/QC) and verification procedures in the development of national greenhouse gas 
+inventories to accomplish this goal. The procedures as described in this chapter also serve to drive inventory 
+improvement. 
+The guidance is designed to achieve practicality, acceptability, cost-effectiveness, incorporation of existing 
+experience, and the potential for application on a worldwide basis. A QA/QC and verification system contributes 
+to the objectives of good practice in inventory development, namely to improve transparency, consistency, 
+comparability, completeness, and accuracy of national greenhouse gas inventories. 
+QA/QC and verification activities should be integral parts of the inventory process (see Section 1.6.3 of Chapter 
+1, Volume 1). The outcomes of QA/QC and verification may result in:  
+• 
+improvements in the estimates of emissions and/or removals; 
+• 
+reassessment of inventory compilation processes and category uncertainty estimates.  
+For example, the results of the QA/QC process may point to particular variables within the estimation methodology 
+for a certain category that should be the focus of improvement efforts.  
+The terms ‘quality control’, ‘quality assurance’, and ‘verification’ are often used in different ways. The definitions 
+of QC, QA, and verification in Box 6.1 will be used for the purposes of this guidance. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 6.1 (UPDATED) 
+DEFINITIONS OF QA/QC AND VERIFICATION 
+Quality Control (QC) is a system of routine technical activities to assess and maintain the quality of 
+the inventory as it is being compiled. Personnel compiling the inventory perform it. The QC system 
+is designed to:  
+      (i) 
+Provide routine and consistent checks to ensure data integrity, correctness, and completeness;  
+      (ii) Identify and address errors and omissions; 
+      (iii) Document and archive inventory material and record all QC activities. 
+QC activities include general methods such as accuracy checks on data acquisition and calculations, 
+and the use of approved standardised procedures for emission and removal calculations, 
+measurements, estimating uncertainties, archiving information and reporting. QC activities also 
+include technical reviews of categories, activity data, emission factors, other estimation parameters, 
+and methods. 
+Quality Assurance (QA) is a planned system of review procedures conducted by personnel not 
+directly involved in the inventory compilation/development process. Reviews, preferably by 
+independent third parties, are performed upon a completed inventory following the implementation 
+of QC procedures. Reviews verify that measurable objectives (data quality objectives, see Section 
+6.5, QA/QC Plan) were met, ensure that the inventory represents the best possible estimates of 
+emissions and removals given the current state of scientific knowledge and data availability, and 
+support the effectiveness of the QC programme. 
+Verification refers to the collection of activities and procedures conducted during the planning and 
+development, or after completion of an inventory that can help to establish its reliability for the 
+intended applications of the inventory. For the purposes of this guidance, verification refers 
+specifically to those methods that are external to the inventory and apply independent data, including 
+comparisons with inventory estimates made by other bodies or through alternative methods. 
+Verification activities may be constituents of both QA and QC, depending on the methods used and 
+the stage at which independent information is used. It is important to distinguish verification, as 
+defined by the IPCC guidelines, from the term verification used in carbon markets, which is 
+synonymous with an independent audit. Such an audit would fall under the scope of a QA procedure 
+in the terminology of the IPCC Guidelines. For example, under the Kyoto Protocol Clean 
+Development Mechanism (CDM) verification is defined as the periodic independent review and ex 
+post determination by an auditing body of monitored reductions in anthropogenic emissions by 
+sources of GHGs that have occurred as a result of a registered CDM project activity during the 
+verification period. Verification has different meanings in different contexts, and in the case of 
+carbon markets, results-based payments, etc. has a meaning more similar to the QA definition above. 
+ 
+Before implementing QA/QC and verification activities, it is necessary to determine which techniques should be 
+used, and where and when they will be applied. QC procedures may be general with a possible extension to 
+category specific procedures. There are technical and practical considerations in making these decisions. The 
+technical considerations related to the various QA/QC and verification techniques are discussed in general in this 
+chapter, and specific applications to categories are described in the category-specific guidance in Volumes 2 to 5. 
+The practical considerations involve assessing national circumstances such as available resources and expertise, 
+and the particular characteristics of the inventory (e.g., whether or not a category is key).  
+ 
+6.2 
+PRACTICAL CONSIDERATIONS IN 
+DEVELOPING QA/QC AND VERIFICATION 
+SYSTEMS 
+No refinement. 
+ 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.7 
+6.3 
+ELEMENTS OF A QA/QC AND VERIFICATION 
+SYSTEM 
+No refinement. 
+6.4 
+ROLES AND RESPONSIBILITIES 
+No refinement. 
+ 
+6.5 
+QA/QC PLAN 
+No refinement. 
+6.6 
+GENERAL QC PROCEDURES  
+No refinement. 
+6.7 
+CATEGORY-SPECIFIC QC PROCEDURES  
+No refinement. 
+6.7.1 
+Emissions factor QC 
+No refinement. 
+6.7.1.1 
+IPCC DEFAULT EMISSION FACTORS 
+No refinement. 
+6.7.1.2 
+COUNTRY-SPECIFIC EMISSION FACTORS 
+No refinement. 
+6.7.1.3 
+DIRECT EMISSION MEASUREMENTS 
+No refinement. 
+6.7.2 
+Activity data QC 
+No refinement. 
+6.7.2.1 
+NATIONAL LEVEL ACTIVITY DATA 
+Following are fundamental QC checks that should be considered for assessing the quality of national level activity 
+data. In all cases, it is important to have a well-defined and documented data set from which appropriate checks 
+can be developed.  
+QC checks of reference source for national activity data: When using national activity data 
+from secondary data, it is good practice for the inventory compiler to evaluate and document the associated QA/QC 
+activities. This is particularly important with regard to activity data, since most activity data are originally prepared 
+for purposes other than as input to estimates of greenhouse gas emissions. Many statistical organisations, for 
+example, have their own procedures for assessing the quality of the data independently of what the end use of the 
+data may be.  
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+The inventory compiler should determine if the level of QC associated with secondary activity data includes, at a 
+minimum, those QC procedures listed in Table 6.1 of the 2006 IPCC Guidelines. In addition, the inventory 
+compiler may check for any peer review of the secondary data and document the scope of this review. If the 
+QA/QC associated with the secondary data is adequate, then the inventory compiler can simply reference the data 
+source and document the applicability of the data for use in its estimates (see Box 6.3 for an example of this 
+procedure). 
+If the QC associated with the secondary data is inadequate or if the data have been collected using 
+standards/definitions that deviate from this guidance, then the inventory compiler should establish QA/QC checks 
+on the secondary data. The uncertainty of estimates should be reassessed in the light of the findings. The inventory 
+compiler should also reconsider how the data are used and whether any alternative data and international data sets 
+may provide a better estimate of emissions or removals. If no alternative data sources are available, the inventory 
+compiler should document the inadequacies associated with the secondary data QC as part of its summary report 
+on QA/QC. 
+  
+BOX 6.3 
+EVALUATION OF DATA QUALITY ON EXTERNAL DATA IN THE TRANSPORTATION SECTOR 
+Countries typically use either fuel usage or kilometre (km) statistics to develop emissions estimates. 
+The national statistics on fuel usage and km travelled by vehicles are usually prepared by a 
+specialised agency. However, it is the responsibility of the inventory compiler to determine which 
+QA/QC activities were implemented by the agency that prepared the original fuel usage and km 
+statistics for vehicles. Questions that may be asked in this context are: 
+• 
+Does the statistical agency have a QA/QC plan that covers the collection and handling of the 
+data? 
+• 
+Was an adequate sampling protocol used to collect data on fuel usage or km travelled? 
+• 
+How recently was the sampling protocol reviewed? 
+• 
+Has any potential bias in the data been identified by the statistical agency? 
+• 
+Has the statistical agency identified and documented uncertainties in the data? 
+• 
+Has the statistical agency identified and documented errors in the data?  
+ 
+Comparisons with independently compiled data sets: Where possible, a comparison check of 
+the national activity data with independently compiled activity data sources should be undertaken. For example, 
+many of the agricultural source-categories rely on government statistics for activity data such as livestock 
+populations and production by crop type. Comparisons can be made to similar national statistics disseminated via 
+FAOSTAT1 by the United Nations Food and Agriculture Organization (FAO). Similarly, the International Energy 
+Agency (IEA) maintains a database on national energy production and usage that can be used for checks in the 
+energy. Industry trade associations, university research, and scientific literature are also possible sources of 
+independently derived activity data to use in comparison checks. Activity data may also derive from balancing 
+approaches – see Section 6.7.2.2 of the 2006 IPCC Guidelines for a description and an example. As part of the QC 
+check, the inventory compiler should ascertain whether alternative activity data sets are really based on 
+independent data. International information is often based on national reporting which is not independent from the 
+data used in the inventory. Available scientific or technical literature may also be used for a national inventory. In 
+some cases, the same data are treated differently by different agencies to meet varying needs. Comparisons may 
+need to be made at a regional level or with a subset of the national data since many alternative references for such 
+activity data have limited scope and do not cover the entire nation. 
+Comparisons with samples: The availability of partial data sets at sub-national levels may provide 
+opportunities to check the reasonableness of national activity data. For example, if national production data are 
+being used to calculate the inventory for an industrial category, it may also be possible to obtain plant-specific 
+production or capacity data for a subset of the total population of plants. Extrapolation of the sample production 
+data to a national level can then be done using a simple approximation method. The effectiveness of this check 
+                                                           
+1 http://www.fao.org/faostat. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.9 
+depends on how representative the sub-sample is of the national population, and how well the extrapolation 
+technique captures the national population.  
+Trend checks of activity data: National activity data should be compared with previous year’s data for 
+the category being evaluated. Activity data for most categories tend to exhibit relatively consistent changes from 
+year to year without sharp increases or decreases. If the national activity data for any year diverge greatly from the 
+historical trend, they should be checked for errors. If a calculation error is not detected, the reason for the sharp 
+change in activity should be confirmed and documented. A more thorough approach to take advantage of 
+similarities between years has been described in Chapter 5, Time Series Consistency. 
+6.7.2.2 
+SITE-SPECIFIC ACTIVITY DATA  
+No refinement. 
+6.7.3 
+Calculation-related QC 
+No refinement. 
+6.8 
+QA PROCEDURES 
+No refinement. 
+6.9 
+QA/QC AND UNCERTAINTY ESTIMATES 
+No refinement. 
+6.10 
+VERIFICATION 
+No refinement. 
+6.10.1 Comparisons of national estimates 
+There are a number of practical verification techniques that do not require specialised modelling expertise or 
+extended analyses. Most of these can be considered as method-based comparisons that consider the differences in 
+national estimates based on using alternative estimation methodologies for the same category or set of categories. 
+These comparisons look for major calculation errors and exclusion of major source categories or sub-source 
+categories. Method-based comparisons can be designed around the multi-tier level of methods outlined for each 
+category in the sector guidance, through comparisons to independent estimates developed by other institutions, 
+and, to a limited extent, through cross-country comparisons. The choice of method will depend on the method used 
+in the inventory, a clear definition and correlation of categories between methods, and the availability of alternative 
+data. 
+These checks can be extremely useful in confirming the reasonableness of national inventory estimates and may 
+help identify any gross calculation errors. Some of these techniques, such as the compilation of the reference 
+approach for Energy Sector estimates, should be considered as part of the inventory development process.  
+Discrepancies between inventory data and data compiled using alternative methods do not necessarily imply that 
+the inventory data are in error. When analysing discrepancies, it is important to consider that there may be large 
+uncertainties associated with the alternative calculations themselves. 
+Applying lower tier methods: Lower tier IPCC methods typically are based on ‘top-down’ approaches 
+that rely on highly aggregated data at a summary category level. Inventory compilers using higher tier, ‘bottom-
+up’ approaches may consider using comparisons to lower-tier methods as a simple verification tool. As an example, 
+for carbon dioxide (CO2) from fossil fuel combustion, a reference calculation based on apparent fuel consumption 
+per fuel type is specified as a verification check in the Energy Sector procedures (see Volume 2: Energy). As an 
+additional example, since 2014 the EU performs annually a full QA of its EU-28 GHG Inventories for agriculture, 
+using the FAOSTAT emissions estimates for verification2. This reference approach estimate can be compared to 
+the sum of sectoral-based estimates from a Tier 1, 2, or 3 approach. While the quality of the reference approach is 
+                                                           
+2 Data for agriculture and land use accessible at: http://www.fao.org/faostat/en/?#data/GT.  
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+typically lower than that of the sectoral approach, it remains useful as a simple approximation method. It is less 
+sensitive to errors due to its simplicity and can be used as a top-down completeness check. Another example, 
+where emissions are calculated as the sum of sectoral activities based on the consumption of a specific commodity, 
+e.g., fuels or products like hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) or sulphur hexafluoride (SF6), 
+the emissions could be estimated using apparent consumption figures, e.g., national total production + import – 
+export ± stock changes, taking into consideration any possible time lags in actual emissions. 
+Similar checks can be performed for industrial type sources, e.g., nitrous oxide estimates for nitric acid production 
+and adipic acid where inventory estimates were determined for each individual production plant based on plant-
+specific data. The check of emission estimates would consist of the comparison between the sum of the individual 
+plant-level emission estimates and a top-down emission estimate based on national nitric acid production figures 
+and IPCC default Tier 1 factors. Large differences do not necessarily indicate that there are problems with the 
+inventory estimate. As lower tier methods typically rely on more highly aggregated data, there may be relatively 
+large uncertainties with the Tier 1 approach compared to an inventory estimated using a bottom up approach based 
+on good practice. If differences cannot easily be explained, the inventory compiler may consider the following 
+questions in any further QA/QC checks: 
+• 
+Are there inaccuracies associated with any of the individual plant estimates (e.g., an extreme outlier may be 
+accounting for an unreasonable quantity of emissions)? 
+• 
+Are the plant-specific emission factors significantly different from each other? 
+• 
+Are the plant-specific production rates consistent with published national level production rates? 
+• 
+Is there any other explanation for a significant difference, such as the effect of controls, the manner in which 
+production is reported or possibly undocumented assumptions? 
+This is an example of how the results of a relatively simple emission check can lead to a more intensive 
+investigation of the representativeness of the emissions data. Knowledge of the category is required to isolate the 
+parameter that is causing the difference in estimates and to understand the reasons for the difference. 
+Applying higher tier methods: Higher tier IPCC methods typically are based on detailed ‘bottom-up’ 
+approaches that rely on highly disaggregated data and a well-defined subcategorization of sources and sinks. 
+Inventory compilers may find that they cannot fully implement a higher tier approach because they are lacking 
+sufficient data or resources. However, the availability of even partial estimates for a subcategory of sources may 
+provide a valuable verification tool for the inventory. An estimate based on higher tier data derived from a 
+proportion of the total sources in a country can be extrapolated to the national level, provided that the sample is 
+representative. Such an extrapolation can be used to corroborate the national estimate. 
+Comparisons with independently compiled estimates: Comparisons with other independently 
+compiled inventory data on national level (if available) are useful options to evaluate completeness, assess 
+approximate emission (removal) levels and correct category allocations. Although the inventory compiler is 
+ultimately responsible for preparing the national greenhouse gas inventory, other independent publications on this 
+subject may be available e.g., from scientific literature or publication by other institutes or agencies. For example, 
+national level CO2 emissions estimates associated with the combustion of fossil fuel are compiled by the IEA3, the 
+Carbon Dioxide Information and Analysis Centre (CDIAC)4, the Emission Database for Global Atmospheric 
+Research (EDGAR)5 and by British Petroleum (BP)6. Likewise, FAO compiles and disseminates national-level 
+CO2 and non-CO2 emissions and removals for AFOLU (http://www.fao.org/faostat), using underlying national 
+statistics as activity data. Estimates of emissions of other gases are available from the EDGAR, Regional Emission 
+inventory in Asia (REAS)7, and US Environment Protection Agency (EPA)8. The World Resources Institute 
+(WRI)9 combines data from several sources mentioned in this section to provide sector-specific emission estimates. 
+Use of multiple data sources in the comparison is advantageous as the data show differences between datasets, 
+even for relatively well-known emissions of carbon dioxide (Ciais et al. 2010). Additional, independently compiled 
+data for use in national greenhouse gas inventory may sometimes be found in national accounts, specifically those 
+                                                           
+3 https://www.iea.org/statistics. 
+4 https://cdiac.ess-dive.lbl.gov (doi:10.3334/CDIAC/00001_V2017). 
+5 http://edgar.jrc.ec.europa.eu. 
+6 https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/co2-emissions.html. 
+7 https://www.nies.go.jp/REAS/. 
+8 https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data. 
+9 http://cait.wri.org. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.11 
+developed under the UN System of Environmental and Economic Accounts (SEEA). If independently compiled 
+datasets use IPCC Tier 1 methodologies, the same considerations discussed above will apply.  
+While national data are normally considered more reliable as they are able to accommodate more detailed country-
+specific information, and international data are normally compiled at a lower tier, these international data sets 
+provide a good basis for comparison, as they are consistent between countries. Additionally, databases from 
+international agencies such as IEA and FAO, use as activity data the underlying national statistics, providing 
+enhanced opportunities for QA analysis. Furthermore, the FAOSTAT Tier 1 AFOLU estimates are available 
+together with the corresponding UNFCCC country data, and differences analysed in a dedicated ''compare'' 
+section 10. The comparisons can be made for different greenhouse gases at national, sectoral, category, and 
+subcategory levels, as far as the differences in definitions enable them. Before conducting these types of 
+comparisons, it is important to check the following items.  
+• 
+Confirm that the underlying data for the independent estimate are not the same as that used for the inventory; 
+a comparison is only meaningful if the data being compared are different. 
+• 
+Determine if the relationships between the sectors and categories in the different inventories can be defined 
+and matched appropriately. 
+• 
+Account for the data quality (e.g., QA/QC system or review) and for any known uncertainties in the estimate 
+used for the comparison to help interpret results. 
+Comparisons of intensity indicators between countries: Emission (removal) intensity 
+indicators, e.g., those commonly referred to as “Implied emission (removal) factors”, may be compared between 
+countries (e.g., emissions per capita, industrial emissions per unit of value added, transport emissions per car, 
+emissions from power generation per kWh of electricity produced, emissions from dairy ruminants per tonne of 
+milk produced). These indicators provide a preliminary check and verification of the order of magnitude of the 
+emissions or removals. Different practices and technological developments as well as the varying nature of the 
+source categories will be reflected in the emission intensity indicators. Thus, differences between countries need 
+to be expected. However, these checks may flag potential anomalies at the country or sector level. 
+6.10.2 Comparisons with atmospheric measurements 
+6.10.2.1 
+INTRODUCTION TO EMISSION ESTIMATES BASED ON 
+ATMOSPHERIC CONCENTRATION MEASUREMENTS 
+This section addresses the state of science for emission estimates based on atmospheric measurements and their 
+application to comparison with national emission inventories. Since the 2006 IPCC Guidelines were published, 
+the most notable advances have been achieved in the application of inverse models of atmospheric transport for 
+estimating emissions at the national scale. An increasing number of countries are considering applying such models.  
+An ideal condition for verification is the use of fully independent data as a basis for comparison. Measurements 
+of atmospheric concentrations provide such datasets, and recent scientific advances allow using such data as a 
+basis for emission modelling. The approach is particularly valuable as it can be largely independent of standard 
+estimation method drivers, such as sector activity data and implied emission factors. The scale of such models can 
+be designed around local, regional, or global boundaries and can provide information on either level or trends in 
+emissions. Some brief examples of these techniques are provided in this section; however, further discussion and 
+elaboration can be found in more comprehensive summaries on the use of these methods for inventory verification 
+(Rypdal et al. 2005; Benkovitz 2001; Benjey and Middleton 2002; NACP 2002; Jacob et al. 2016; DeCola et al. 
+2018; Miller & Michalak 2017; Bergamaschi et al. 2018). 
+Atmospheric measurements are being used to provide useful quality assurance of the national greenhouse gas 
+emission estimates (Manning et al. 2011; Fraser et al. 2014; Henne et al. 2016). Under the right measurement and 
+modelling conditions (discussed further in this section), they can provide a perspective on the trends and magnitude 
+of greenhouse gas (GHG) emission estimates that is largely independent of inventories. It should be recognized 
+that the technical complexity as well as the limited application potential of atmospheric models to inventory 
+verification, particularly at a national level, can restrict their utility to many inventory compilers. In addition, many 
+of the techniques will require specialised modelling skills, combined with a sufficient number and distribution of 
+measurement locations, proxy data and adequate modelling and computing resources, in order to appropriately 
+correlate the atmospheric data back to the inventory for comparison, and be cost- and labour intensive. Depending 
+                                                           
+10 http://www.fao.org/faostat/en/#compare.  
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+on specific conditions, results may be only applicable to parts of a country, to groups of countries, or to specific 
+categories or gases. Currently, the required analysis time typically extends beyond an inventory cycle, thus making 
+these types of comparisons more applicable for long- term verification programs. In many cases, the uncertainties 
+associated with the atmospheric models themselves may not be sufficiently quantified or may be too large for the 
+model to be used effectively as a verification tool.  
+In contrast to the other methods described in this chapter, comparisons with atmospheric measurements are not 
+established as a standard tool for verification to be applied by an inventory compiler. Still, considerable scientific 
+progress in this area needs to be noted and inventory compilers may wish to take advantage of the potential of this 
+approach, as it gives independent data for verification. If applicable, national inventory compilers may also 
+consider joining forces with neighbouring countries, in cases when emission modelling from atmospheric 
+measurement is more reliable for larger entities than countries. There is a difficulty of separating emissions from 
+neighboring countries in the inverse modelling estimates, especially in case of sparse observation network. Despite 
+the limitations given, there are a number of evolving techniques that deserve to be mentioned here:  
+Inverse Modelling: The concentrations of greenhouse gases in air samples are measured at monitoring sites and 
+can be used to provide emission estimates by a technique known as inverse modelling. Inverse models calculate 
+emission fluxes from concentration measurements and atmospheric transport models. For local and regional 
+estimation, complex mathematical and statistical models are required together with continuous, or quasi-
+continuous, measurements that capture all pollution incidents. The source discrimination of air sampling-derived 
+emissions requires highly precise and labour-intensive analysis, which may prevent the applicability of inverse 
+modelling approaches to source-specific emissions verification. In contrast to national inventories, flux 
+assessments from inverse modelling have problems with separating anthropogenic emissions from natural 
+sources/sinks as well as international transport (Desjardins et al. 2018). Considering the limited monitoring 
+network currently available for many of the greenhouse gases and the resulting uncertainties in the model results, 
+inverse modelling is not being widely applied as a verification tool of national inventories. However, there is 
+increasing scientific recognition for the potential of these techniques for both level and trend verification of 
+national inventories.  
+Inverse modelling techniques are undergoing rapid development and are being applied now in comparisons with 
+national inventory estimates (O'Doherty et al. 2003; Manning et al. 2011; Fraser et al. 2014; Henne et al. 2016), 
+European emission estimates (Manning et al. 2003) and to provide geographical distributions of emissions within 
+the European Union (Ryall et al. 2001). A useful measure of the utility of these techniques can be provided by 
+comparison of the uncertainties between the calculated inventory estimates and the inverse model-derived 
+estimates (Bergamaschi et al. 2004; Rypdal et al. 2005). For example, Henne et al. 2016 estimated Switzerland’s 
+methane emissions with 9% uncertainty. Brunner et al. 2017 estimated emissions of HFC-125 for four large 
+European countries with uncertainties ranging from 9% to 23%. Where the uncertainty of the model results is 
+larger than calculated inventory uncertainty, the results of the comparison should be treated with caution. Also, 
+where the model results are significantly different from the inventory, this can point to missing sources or possibly 
+large calculation errors.  
+Fluorinated gases and methane (CH4) are considered the most suitable greenhouse gases for which inverse 
+modelling could provide verification of emission estimates (Rypdal et al. 2005, Bergamaschi et al. 2004). The 
+fluorinated compounds are considered good candidates for inverse modelling verification because: they have 
+virtually no natural source interference in the atmospheric measurements, there can be considerable uncertainties 
+in inventory methods, they are long-lived, and the loss mechanisms are well known. Despite of influences by 
+natural sources, methane is considered a favourable candidate because of the generally high uncertainty in emission 
+estimates resulting from inventory methodologies, and the strong atmospheric signal to noise ratio of 
+measurements. Modelling of CO2 emissions for national inventory verification is more difficult since the inventory 
+methods already have low uncertainties, except where agriculture, forestry and other land-use is dominant. The 
+impacts of large natural sources and sinks on atmospheric measurements make a correlation to strictly 
+anthropogenic sources difficult. However, it may improve understanding of contributions from forests and natural 
+sources and sinks. Due to the large uncertainties associated with some of the N2O inventory methodologies, 
+verification through atmospheric measurements would be desirable. However, the influence of natural sources and 
+sinks on measurements, as well as very long atmospheric lifetime lead to a poor signal to noise ratio in measured 
+concentrations.  
+Inverse models calculate emissions by optimally combining concentration observations with an atmospheric 
+transport model. In doing so, the inverse model must take into account estimates of uncertainty from both the 
+observations and the atmospheric model. Flux assessments from inverse modelling necessarily include the 
+contribution from all sectors (anthropogenic and natural sources/sinks) as well as international transport from 
+country to country. As a result, it remains challenging to attribute estimated fluxes to specific source categories or 
+regions using currently available sparse observation networks, which complicates the application of inverse 
+modelling approaches for source-specific emissions verification (Miller & Michalak 2017). However, it is 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.13 
+expected to become less difficult in the future, with more dense observation networks (Pison et al. 2018), 
+complemented by observations of radiocarbon, atmospheric potential oxygen (APO), and co-emitted tracers, such 
+as carbon monoxide, that allows distinguishing the fossil CO2 component (14C), carbon to hydrogen ratio of burned 
+fuel (C/H ratio), and separating anthropogenically polluted air from natural background. Since 14C is absent in 
+fossil carbon, its measurements in CO2 plumes give clear indication of fossil fuel originated fraction of the 
+observed atmospheric CO2 variation, thus observation of 14C in CO2 is considered as a powerful tool to distinguish 
+between the fossil and biogenic CO2 emission sources (Levin et al. 2003). Atmospheric potential oxygen is a proxy 
+of the total oxygen (1.1CO2+delta(O2/N2)) that is conserved during exchange with biosphere. As consumption of 
+oxygen per unit of fuel carbon burned depends on fuel type, measurements of the atmospheric oxygen in the same 
+time with CO2 provide a tool for distinguishing burning hydrocarbons and natural gas from other CO2 emission 
+sources, such as coal combustion and biomass burning (Keeling 1988). 
+The quality of the derived emissions critically depends on the quality and quantity of measurements, and the quality 
+of the gridded emission inventory and the atmospheric model, since inverse methods typically propagate estimated 
+observation, inventory and model errors, the latter usually being the one of dominant components (Bergamaschi 
+et al. 2018).  
+The most demanding, but proven, approach for verification through atmospheric measurements is establishment 
+and operation of a national or regional/multi-national GHG observing network combined with inverse modelling 
+and analysis (Andrews et al. 2014; Lopez-Coto et al. 2017; Bergamaschi et al. 2018). Despite the availability of 
+inverse modelling tools, specialized training is required to apply them and obtain robust flux estimates that can be 
+used to verify emission estimates from a greenhouse gas inventory. More details are presented in the Integrated 
+Global Greenhouse Gas Information System (IG3IS) Science Implementation Plan prepared by the Global 
+Atmosphere Watch (GAW) program of WMO, which documents good practice methodological guidelines for 
+“how atmospheric measurements and analysis methods can deliver valuable information for inventory verification” 
+(IG3IS Science Implementation Plan 2018). Operational verification systems already exist in the UK and 
+Switzerland, where emission inventories for major non-CO2 GHGs are verified annually and numbers are reported 
+in the National Inventory Report to the UNFCCC. Another example of verification system based on inverse 
+modelling is also in place in Australia. 
+At sub-national scales, such as city-, facility- and basin-scale, studies using regional atmospheric monitoring 
+networks or targeted observation campaigns are being used for improving the knowledge about regional and 
+facility level emissions and contributing to updating the emission factors for selected emission categories. These 
+include the oil and gas sector, urban emissions, and emissions from agriculture, applying regional inverse 
+modelling (Keller et al. 2011; Breon et al. 2015; McKain et al. 2015; Yver-Kwok et al. 2015; Lauvaux et al. 2016; 
+Viatte et al. 2017), or mass-balance approaches (Zavala-Araiza et al. 2015; Conley et al. 2017). 
+Continental Plumes: A strong difference between source and non-source regions may generally be found between 
+a continent and an ocean where routine measurements of the difference between background air concentrations 
+and the offshore plume concentrations, coupled with wind vector analysis or trajectory analysis, may provide an 
+indication of emissions on a broad scale (Cape et al. 2000; Derwent et al. 2001). For example, a number of 
+greenhouse gases, including chlorofluorocarbons (CFCs), N2O and CH4 from the European continental plume have 
+been detected at Mace Head, Ireland. These results have then been used for subsequent quantification of the 
+European emission source strength by inverse modelling (Derwent et al. 1998a, 1998b; Vermeulen et al. 1999). 
+Use of Proxy Emission Databases: In the cases where one of the components measured in the air samples has a 
+well characterised emission inventory (a ‘marker’ or ‘tracer’ compound), the emissions of greenhouse gases may 
+be estimated from atmospheric measurements of their concentration ratio to this marker compound. The technique 
+is appropriate if sources of the compounds are co-located, and it has been used in the USA, for example with 
+carbon monoxide (CO) as the marker (Barnes et al. 2003a, 2003b), and in the EU employing radon (222Rn: Biraud 
+et al. 2000). 
+Global Dynamic Approaches: Trends over time in the atmospheric concentration of particular compounds may 
+also indicate a change in the global balance between sources and sinks and give an estimate of the globally 
+aggregated emissions, constraining the total of national emissions from an aggregate perspective and possibly 
+indicating areas of weakness in the inventories. Such approaches have been taken for CH4 (Dlugokencky et al. 
+1994; Saunois et al. 2016), SF6 (Maiss and Brenninkmeijer 1998; Levin et al. 2010), PFC-14 and carbon 
+tetrafluoride (CF4) (Harnisch and Eisenhauer 1998). These methods can be applicable to cover a large proportion 
+of global emissions, and monitoring is possible on a routine basis. Although the global trend data can not be 
+directly related to national inventory, the findings can be useful for identifying deficiencies in inventory 
+methodology, such as a need for revising default emission factors. Year to year changes of global abundance of 
+the long-lived atmospheric trace gases can be reliably measured at one or a few background monitoring stations 
+(Prinn et al. 2018). Atmospheric measurements are useful for evaluating the global emissions of the new 
+fluorinated compounds, even before reporting and inventory procedures are well established. For example, 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+emerging growth in the atmospheric content of HFC-365mfc, HFC-245fa, HFC-227ea, HFC-236fa, and NF3 were 
+quantified using background concentration monitoring (Stemmler et al. 2007; Vollmer et al. 2011; Arnold et al. 
+2012), and unexpected continuing emissions of CFC-11 were detected (Montzka et al. 2018). Measurements of 
+the methane isotopic composition were used by Schwietzke et al. 2016, Rice et al. 2016 and others to propose 
+corrections of the global emissions of methane, with implications for estimates of global methane emissions of 
+both fossil (including oil and gas) and biogenic (wetlands and agriculture) origin. Continuous observations of 
+multiple trace gases provide opportunity to use the strong correlations observed between short term variabilities 
+of different tracers to deduce (approximately) the regional emission rate ratios (e.g. CH4/CO, CH4/CO2) and their 
+trends over time, as shown by Fraser et al. 2014 for Australia, and Tohjima et al. 2014 for East Asia. 
+6.10.2.2 SUMMARY OF COMPONENTS NEEDED FOR GHG EMISSION 
+INVENTORY VERIFICATION USING ATMOSPHERIC 
+MEASUREMENTS 
+Establishing a verification system for national greenhouse gas inventories based on atmospheric observations and 
+inverse modelling requires overcoming technical challenges and involves costs. Such verification of emission 
+estimates needs to be undertaken by atmospheric observation scientists and modellers informed by GHG inventory 
+priorities and needs. The following key elements needed are summarized below (see also report by Manning et al. 
+2017 and Section 6.10.2.6 for a description of the implementation steps): 
+• 
+Atmospheric observations.  
+• 
+Surface-based and airborne observations of atmospheric GHGs are made by, usually, networks of 
+meteorological agencies, research institutes and site operators. The observations need to meet high standards 
+in all procedures including air sample analysis, data processing, reference gas maintenance, calibration 
+correction against international standards, accompanied by metadata on conditions of measurement. Data 
+quality can be better monitored by data submission to global databases such as World Data Centre for 
+Greenhouse Gases (WDCGG). Establishing a national GHG monitoring network involves optimal network 
+design in order to set up the observation locations that maximize the effect of the observations on reducing the 
+uncertainty of the emission estimates (Nickless et al. 2015; Lopez-Coto et al. 2017). The guidelines for 
+observation techniques and reference gas maintenance are provided by the WMO Global Atmospheric Watch 
+Program11, and Advanced Global Atmospheric Gases Experiment Network (AGAGE) (Prinn et al. 2018). 
+• 
+Satellite retrievals. While in situ measurements have the advantage of directly measuring concentrations 
+within the boundary layer, providing strong constraints on regional emissions, satellite retrievals are integrated 
+over a larger portion of the atmospheric column and are subject to biases. To reduce biases, satellite 
+observations are compared to observations of column abundance by a network of high-resolution ground-
+based spectrometers (Kulawik et al. 2016). Due to their greater spatial coverage, observations from satellites 
+were used to improve the inverse model estimates for methane, by Ganesan et al. 2017 for India, and Turner 
+et al. 2015 for USA. OCO-2 satellite observations have shown potential for quantifying carbon dioxide 
+emissions from large power plants (Nassar et al. 2017).  
+• 
+Inverse modelling tools backed by guidance from expert inverse model users and developers. A number of 
+transport models - Flexpart (Stohl et al. 2005), NAME (Jones et al. 2007), STILT (Lin et al. 2003) - and 
+inverse-modelling tools: Flexinvert (Thompson & Stohl 2014), NAME-InTEM (Manning et al. 2011),  
+Carbontracker (van der Laan-Luijkx et al. 2017), GEOS-Chem (Henze et al. 2007), PYVAR (Chevallier et al. 
+2005) are available from the developer groups for use in emission estimates. It should be noted that, despite 
+the availability of inverse modelling tools, experienced modellers are required to apply them. As a simple, but 
+less accurate alternative to inverse modelling, tracer correlation methods are also being used, especially for 
+selected halocarbons in Switzerland and Australia (Fraser et al. 2014). 
+• 
+Gridded prior inventory data as input for inverse modelling. For use in inverse modelling the national 
+GHG inventory should be spatially and temporally disaggregated and presented as a gridded emission dataset, 
+typically at 1 km to 10 km spatial resolution for national scale estimates (Maasakkers et al. 2016; Tsagatakis 
+et al. 2017), while continental or global emission inventory dataset can be used for larger geographical 
+domains, such as EDGAR (Janssens-Maenhout et al. 2017). While EDGAR is using Tier 1 emission factors 
+and global activity maps for multiple sectors, national scale datasets have the advantage of applying country 
+specific emission factors and have more detailed activity maps. In the absence of the current national gridded 
+inventory data, global coverage is provided by the EDGAR database and is often used. Spatial distribution of 
+the prior emission inventory influences the inverse model estimates, so it is of high value to develop realistic 
+                                                           
+11 WMO reports (https://www.wmo.int/pages/prog/arep/gaw/gaw-reports.html).  
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.15 
+gridded emissions based on the best available geospatial activity data. In several inverse modelling studies, 
+the influence of the gridded inventory of estimated emissions is checked by applying sensitivity tests, where 
+several versions of gridded inventories are used.  
+Spatial resolution of the gridded inventory should correspond to spatial coverage of observation network and 
+resolution of the transport model, and its temporal resolution should reflect temporal changes in emissions 
+modeled in the national inventory. The gridded inventory should to the extent possible match the methods, 
+data, and results in the national inventory. It should rely on detailed activity data spatial information from the 
+same activity data source as the inventory. In many cases, use of geospatial proxies is necessary (e.g., if data 
+are unavailable on landfill locations, waste emissions could be mapped to population maps). Where emissions 
+factors and activity are known to vary regionally (and if this is modeled in the national inventory), this should 
+be reflected in the gridded inventory. Sources with seasonal changes in emissions rates should also be reflected 
+in the gridded inventory. The information in each grid cell should allow tracing back the data sources to assess 
+which emissions sources in a grid may be relevant to comparing the inventory to independent estimates. In 
+addition, uncertainty information (both on emissions magnitude and spatial allocation) should be developed.   
+An example of a gridded inventory by Maasakkers et al. 2016 is based on the same data as U.S. Inventory 
+prepared by EPA. The authors (which include atmospheric scientists and the EPA Inventory compilers) 
+disaggregate the 2012 national emissions reported by the 2016 version of the U.S. Inventory into a gridded 
+0.1° × 0.1° monthly inventory. The gridded inventory is consistent with the EPA national emission totals for 
+each source type and distributes these emissions based on information at the state, county, sub-county, and 
+point source levels. A key input to the U.S. Inventory for many source calculations is EPA’s Greenhouse Gas 
+Reporting Program (GHGRP), which collects methane emission and supporting data from large facilities with 
+emissions greater than 25 Gg CO2 equivalent per year. Where possible, facility-level emissions from the 
+detailed GHGRP emission reports are used in both the gridded inventory and the U.S. Inventory. For facilities 
+that do not report to the GHGRP, emissions are assigned based on the remainder of total national or regional 
+emissions for the source type, and activity data. For source types outside of the scope of the GHGRP, 
+emissions are apportioned by other methods, such as use of detailed state-level modelling for emissions from 
+livestock. Spatial disaggregation is based on livestock population distribution, crop area maps, oil and gas 
+well databases, maps of natural gas pipelines, compressor stations, landfills, vegetation fires and other 
+available information. In the gridded inventory, emission estimates for each source in each month reflect 
+temporal variation by incorporating factors such as changes in livestock populations, and certain temperature-
+dependent emissions sources such as manure management and landfills. This helps the gridded inventory to 
+better align with studies taken over shorter time frames than the annual U.S. Inventory. 
+• 
+Collaboration between inventory compilers and inverse modellers. As an example, UK inventory and inverse 
+modelling teams have worked together historically to improve the value and credibility of the Inversion 
+Technique for Emission Modelling (InTEM) model estimates to the inventory compilers. Brown et al. 2018 
+noted a case, when a comparison of inventory estimates of HFC-134a with those modelled through the InTEM 
+system has suggested that the inventory may be over estimating its HFC-134a emissions. Further analysis of 
+the mobile air conditioning sector of the inventory, the main UK source of HFC-134a, has suggested several 
+parameters with high uncertainty that may be the source of the difference. Revisions to the refrigeration and 
+air conditioning model (reviewing assumptions following the implementation of the EU F-gas regulations, 
+and other corrections) have been made, resulting in better agreement between inverse modelling and inventory 
+results. 
+6.10.2.3 
+OVERVIEW OF THE EMISSION ESTIMATES BY TARGET GAS 
+Methane  
+Methane (CH4) is considered a favorable candidate to which inverse modelling techniques can be applied because 
+of the strong atmospheric signal to noise ratio of measurements (despite of the influence from seasonally varying 
+natural sources) and the generally high uncertainty in emission estimates that arises from uncertainty of activity 
+data and emission factors. Efforts to estimate national-scale methane emissions using atmospheric observations 
+and inverse models of atmospheric transport have been made in Switzerland (see Table 6.4), the UK (see example 
+in Box 6.6), the USA (Miller et al. 2013), the EU-28 countries, and other regions. Emission estimates for 28 EU 
+countries (Bergamaschi et al. 2018) were made with a set of several inverse models over the period 2006-2012 
+using observations from a network with 18 stations. The advantage of applying several models is that the spread 
+of individual inverse model results provides a measure of the errors and biases inherent to the transport and inverse 
+modelling. As a summary of the study, it was mentioned that influence of natural wetland emissions over Northern 
+Europe needs to be better quantified, transport models need to be improved, and a network with more monitoring 
+stations is needed.  
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Carbon dioxide  
+Uncertainties of carbon dioxide anthropogenic emissions due to fuel combustion are usually lower than that of 
+inverse model estimates. However, substantial effort is applied to quantify urban emissions (e.g. Lauvaux et al. 
+2016; Staufer et al. 2016) that may lead to developing capability to track the emission reduction trends with an 
+addition of dense urban monitoring networks, and supporting tracer measurements useful for discriminating 
+between natural fluxes and fossil emissions, such as atmospheric potential oxygen (APO), as discussed by 
+Minejima et al. 2012 and radiocarbon 14C in CO2 (Levin et al. 2003). High uncertainty makes carbon dioxide 
+emissions and sinks by AFOLU one of the more challenging sectors to verify, particularly carbon stock changes 
+and associated CO2 fluxes for land use and management. In this case, use of atmospheric observations is obstructed 
+by strong interference from natural fluxes. In the studies by Ogle et al. 2015, and Steinkamp et al. 2017 the authors 
+did find agreement between the results from the atmospheric CO2 concentration data and inverse modelling and 
+an inventory of CO2 emissions based on data from US and New Zealand greenhouse gas inventories. The US study 
+focused, in part, on a sub-region of the United States that is dominated by agricultural food production, and showed 
+that in order to verify emissions from the AFOLU sector, compilers will need to address all sources of CO2 uptake 
+and release, including lateral movement of carbon, such as transport of agricultural products. 
+Nitrous oxide  
+Nitrous oxide emissions by agricultural soils are known to have large uncertainty because of patchy heterogeneous 
+emission patterns and significant temporal variability, leading to uncertainty in activity data, emission factors and 
+emission rates, which makes it useful to test the estimated emissions with inverse modelling. Inverse model 
+estimates of the nitrous oxide emissions based on atmospheric monitoring are made for many regions of the globe 
+(Manning et al. 2011; Miller et al. 2012; Bergamaschi et al. 2015) and are also reported in UK National Inventory 
+Report (see Box 6.6). In several studies, a reasonable match is found between inventory and inverse model 
+estimates, for example N2O inverse modelling results for Europe (Bergamaschi et al. 2015) confirm that the 
+amount reported to UNFCCC by 15 EU countries are within the model uncertainty range. 
+Fluorinated gases  
+Fluorinated gases (HFCs, PFCs, SF6) are particularly suitable for inverse modelling as they are solely of 
+anthropogenic origin and sufficiently long-lived. In addition, bottom up inventories for fluorinated gases are 
+affected by considerable uncertainties. In the past decade, much progress has been made in the use of atmospheric 
+measurements for estimating emissions of these powerful greenhouse gases. This has been made possible due to 
+the increased capability of producing high-quality atmospheric datasets and to the rapid development of inverse 
+modelling techniques that have been extensively applied from the global to the regional (national) scale (Stohl et 
+al. 2009; Keller et al. 2011; Manning et al. 2011). Such studies are based on long-term and/or continuous 
+observations of the atmospheric levels of fluorinated gases that are carried out within international and national 
+programmes - AGAGE (Prinn et al. 2018). National Oceanic and Atmospheric Administration-Earth System 
+Research Laboratory-Global Monitoring Division (NOAA-ESRL-GMD 12 ) and others. Switzerland, United 
+Kingdom and Australia (Fraser et al. 2014) included estimates of fluorinated gas emissions based on atmospheric 
+measurements in their National Inventory Reports. Several regional and national scale estimates were made with 
+available observations by Hu et al. 2017 for USA, Keller et al. 2011 and Graziosi et al. 2017 for European countries, 
+Kim et al. 2010 and Fang et al. 2015 for East Asia (China). One of the most studied gases is HFC-134a, the most 
+abundant HFC in the global atmosphere, mainly used as refrigerant in mobile air conditioners and stationary 
+refrigeration. Differently to other HFCs, studies based on atmospheric measurements suggested that bottom-up 
+HFC-134a inventories were likely to overestimate the emissions (Graziosi et al. 2017; Hu et al. 2017; and 
+references therein).  
+As an example of using atmospheric observations for improving inventory procedures, Australia’s annual SF6 loss 
+rate from electricity supply and distribution has been calibrated to changes in atmospheric concentrations of SF6 
+measured at the Commonwealth Science and Industrial Research Organisation (CSIRO) Cape Grim monitoring 
+station (Fraser et al. 2014; Australian Government 2018). Interspecies correlation and inverse modelling 
+techniques are used to derive a national estimate of emissions of SF6 based on these atmospheric measurements at 
+Cape Grim. Fluctuations in measured concentrations are reflected in changes to the loss rate for each inventory 
+year from 2010 onwards. The strength of this approach is that it enables the inventory estimates to better reflect 
+improvements in industry practice in terms of gas handling, equipment maintenance and decommissioning. SF6 is 
+an ideal gas on which to use inverse modelling techniques to derive national estimates as the likely uncertainty of 
+model results is less than the uncertainty of inventory estimates, especially as inventory leakage rates are based on 
+limited measurements. There is also clarity over the interpretation of the observations of SF6 because this gas has 
+no natural sources or sinks and the remote southerly location of the Cape Grim monitoring station reduces the 
+likelihood of measurement error from trans-boundary sources. 
+                                                           
+12 https://www.esrl.noaa.gov/gmd. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.17 
+6.10.2.4 
+STRENGTHS AND WEAKNESSES OF USING ATMOSPHERIC 
+MEASUREMENTS FOR VERIFICATION OF GHG EMISSIONS 
+The current level of success with the use of atmospheric monitoring for testing anthropogenic GHG emission 
+inventories varies by target gas and region. Usefulness of atmospheric observations depends on several factors, 
+such as uncertainty of the emission inventory and of the models, number and location of available observations, 
+contribution of the natural fluxes to the observed concentration variability (Bergamaschi et al. 2018). Table 6.2 
+provides an overview of the strengths and weaknesses of using atmospheric measurements for verification of 
+anthropogenic emissions for particular greenhouse gases. More details on the uncertainty of inventory and 
+feasibility of applying inverse modelling for comparison with emission inventories for particular target gases, 
+regions and emission sectors are summarized by Rypdal et al. 2005, Rypdal & Winiwarter 2001 and Janssens-
+Maenhout et al. 2017. It is worth mentioning that the use of atmospheric measurement in countries like UK or 
+Australia, mentioned in Table 6.2, is facilitated by absence of substantial emissions from surrounding oceans, 
+while implementation of similar approaches in other countries may face different challenges, depending on 
+geographical location. 
+ 
+TABLE 6.2 (NEW) 
+STRENGTHS, PROBLEMS AND PROSPECTS OF USING ATMOSPHERIC MEASUREMENTS FOR VERIFICATION OF GHG 
+EMISSIONS 
+Gas 
+Strengths/Successes13 
+Problems/Weaknesses 
+Future Development/Possibilities 
+CO2 
+Large number of 
+observations, although 
+historically focusing on 
+natural fluxes. 
+With sparse observing networks, 
+uncertainties of models may be 
+significantly higher than those of 
+national anthropogenic CO2 
+emission inventories.  
+Need more CO2 observations 
+targeting anthropogenic emissions, 
+complemented by APO and 
+radiocarbon observations. 
+CO2 
+city-
+scale 
+City-scale studies show 
+some degree of success. 
+Inventory uncertainties are 
+relatively larger than at 
+national scale. 
+Even with dense observation 
+networks, errors in emission 
+estimates are large, due to 
+interference from strong vegetation 
+fluxes. Not used in national 
+reporting. 
+Large efforts are ongoing to 
+develop observation networks, 
+pilot projects for tracking urban 
+emissions, trends. Radiocarbon, 
+APO, satellite observations also 
+expected to contribute. 
+CH4 
+Large anthropogenic 
+emission fraction.  
+National reporting14: UK, 
+Switzerland.  
+National-scale emission 
+estimates15: EU-28, USA, 
+India, China and others. 
+Few countries have observations, 
+transport and inverse models have 
+uncertainties, interference from 
+natural emissions (wetlands) cited. 
+Regional observation networks and 
+satellite observations are 
+expanding. 
+N2O 
+National reporting: UK 
+National-scale emission 
+estimates: EU-28, US, and 
+others.    
+Observation sites are few, gridded 
+inventories are simplified, large 
+contribution from natural sources. 
+Expansion of surface networks will 
+contribute to better model 
+estimates. 
+HFCs, 
+SF6 
+Dominant anthropogenic 
+emission fraction.  
+National reporting: UK, 
+Switzerland, Australia. 
+National-scale emission 
+estimates: China, US, EU. 
+Revised EFs: Australia, 
+UK.  
+Measurements are sophisticated 
+and expensive. Observation sites 
+are few, gridded inventories are 
+simplified. 
+ 
+Expanding the monitoring network 
+depends on funding. 
+ 
+                                                           
+13 See references to country studies in Section 6.10.2.3. 
+14 Here “National reporting” means the model estimates are included in National Inventory Report. 
+15 “National-scale emission estimates” are made on research basis. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.10.2.5 
+USE OF COMPLIMENTARY OBSERVATIONS AND GLOBAL 
+MODELLING PRODUCTS 
+Comparing national inventory to the global inverse model products 
+For many countries where the national observing networks or national scale inverse model estimates are not 
+available, optionally, national scale emission estimates can still be derived from regional and global inverse 
+modelling results. Regional methane emission assessments have been made by several groups for the EU, East 
+Asia, and North America (Miller et al. 2013; Thompson et al. 2015; Bergamaschi et al. 2018). The data can be 
+requested from the authors and national estimates can be extracted from those inverse modelling results. Regularly 
+updated and publicly available inverse model estimates for CH4 and N2O emissions are provided by operational 
+global and regional inverse modelling products, such as Copernicus Atmosphere Monitoring Services (CAMS) for 
+CH4 (Segers & Houweling 2017) and N2O (Thompson 2017), NOAA Carbontracker-CH4 (Bruhwiler et al. 2014). 
+The work towards estimating anthropogenic CO2 emissions is recognized as important (GEO carbon and GHG 
+initiative, Ciais et al. 2014), and is being addressed by a number of national and international programmes, such 
+as the Copernicus initiative for CO2 observing systems (Pinty et al. 2017). The Global Carbon Project - Methane 
+(GCP-methane) compares and makes available multiple global inverse model estimates (Saunois et al. 2016). 
+Several institutions, such as LSCE, MPI BGC, and Wageningen University also make regular updates of their 
+emission estimates at the global scale and make their gridded flux data available upon request. Step-by-step 
+instructions for using global products for comparison to national inventory are provided in Table 6.5. 
+Satellite observations 
+In regions with sparse ground-based observational coverage, emission estimates by global and regional inverse 
+models have larger biases and uncertainties. This issue is being addressed by expansion of surface observing 
+networks and satellite observations of atmospheric GHGs. Satellite observations by Greenhouse Gases Observing 
+Satellite (GOSAT) were used for national scale methane emission estimates with regional inverse models by 
+Ganesan et al. 2017 for India and Turner et al. 2015 for the USA. Currently several global inverse modelling 
+products by the Copernicus atmospheric monitoring service (Segers & Houweling 2017), the GOSAT Level 4 
+product (Saito et al. 2016) and several others use satellite observations of methane in addition to the ground-based 
+observations. Emission estimates with inverse models utilizing satellite data are included in the GCP-methane 
+assessment. Use of satellite observations (GOSAT, SCIAMACHY, OCO-2) in inverse modelling for 
+anthropogenic emission estimates is still in the experimental stage, due to multiple technical challenges of 
+producing the high-quality concentration retrievals from the satellite-observed spectra. On the other hand, 
+currently available products are checked for consistency by comparing with estimates made with the use of ground-
+based observations, and generally do not produce significantly different results (Bruhwiler et al. 2017).  
+In addition to emission estimates made using inverse methods, several studies have shown the sensitivity of 
+satellite sensors to concentration enhancements around emission hot spots, as summarized in the review 16 
+(Matsunaga & Maksyutov 2018). A common technique applied in several estimates of anthropogenic CO2 and 
+CH4 emissions with satellites, is to take the difference between satellite observations over an emission hot spot or 
+a plume and background concentration defined as a mean of several observations away from polluted area. Local 
+GHG concentration enhancements observed by the GOSAT satellite correlate well with transport model 
+simulations (Janardanan et al. 2016; Janardanan et al. 2017), so that the anthropogenic emissions for large regions 
+like the US or temperate Asia can be estimated by fitting model simulated enhancements to a large number of 
+satellite observations. However, there was less success with country scale estimates due to a lack of observations. 
+With the expected availability of GHG observations from new satellite sensors, such as TROPOMI (Hu et al. 
+2018), GOSAT-2, GeoCarb, TanSat and others, the limitations of observation numbers will be relaxed, and 
+national scale emission estimates by hot-spot emission data analysis are expected to become possible (the 
+assumption that localised emissions by megacities and other compact sources are representative of regional and 
+national total is supported by large share of population and industrial production being concentrated in 
+conglomerates). Multiple new satellite missions with enhanced capabilities for GHG observations are in 
+preparation, such as listed in CEOS database17, so the emission estimates using satellite data will steadily improve. 
+                                                           
+16 http://www.nies.go.jp/soc/en/documents/guidebook. 
+17 http://database.eohandbook.com. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.19 
+6.10.2.6 
+PROCEDURES FOR INVENTORY COMPARISON TO 
+ESTIMATES BASED ON ATMOSPHERIC MEASUREMENTS  
+Key steps to follow in applying National scale observation program and inverse 
+modelling for verification of a national GHG inventory  
+Several working examples (Manning et al. 2011; Fraser et al. 2014; Henne et al. 2016) of inverse modelling use 
+for national reports are available, while implementing such a system requires advanced technological capability. 
+Alternatively, the use of global data products (see Section 6.10.2.8) can be considered. For countries capable of 
+developing their own observation program and inverse model, several key steps can be identified that are needed 
+for the successful use of inverse modelling in verification of a national GHG inventory. These are summarized in 
+Table 6.3. 
+ 
+TABLE 6.3 (NEW) 
+IMPLEMENTATION STEPS AND SHARE OF RESPONSIBILITIES BETWEEN PARTNERS 
+Step 
+Work package 
+Responsible group 
+1 
+Acquisition of GHG observations from a surface network (and when available, 
+from aircraft and satellites) that has sufficient coverage of the country's 
+emissions. The observation data have to be linked to the same calibration scale 
+and be processed by the compatible routines across the network. 
+Observation /atmospheric 
+modelling 
+2 
+Preparing gridded (spatially and temporally disaggregated) prior emissions data. 
+Gridded inventory  
+3 
+Preparing and operating the inverse model, other observation-based emission 
+estimation methods. 
+Atmospheric modelling  
+4 
+Quality Assurance / Quality Control to the inverse model output. 
+Atmospheric modelling  
+5 
+Comparison, verification, and reporting. Production of final outputs and update 
+of the GHG inventory improvement plan. 
+Inventory/ Atmospheric 
+modelling 
+ 
+In many cases, steps 1, 3, and 4 are conducted by research institutions/divisions not connected to the GHG 
+Inventory compilation, and steps 2, and 5 are conducted in collaboration with the GHG Inventory compiler. To 
+illustrate the content of the procedures made at each step, several examples of comparing the national inventory to 
+the inverse model estimates are provided in the Table 6.4, while a UK example is presented in more detail in the 
+Box 6.6.  
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 6.4 (New) 
+SUMMARY OF THE KEY STEPS IMPLEMENTED IN NATIONAL EXAMPLES 
+Examples 
+ 
+ 
+Comparison steps 
+Example 1 
+Methane emissions in 
+Switzerland18 
+Example 2 
+Methane emissions in 
+UK19 
+ 
+Example 3 
+SF6, HFCs emissions in 
+Australia20 
+ 
+Step 1: 
+Acquisition of the 
+concentration 
+measurements on 
+national GHGs network.  
+CarboCount-CH 
+measurement network (4 
+sites). 
+Advanced Global 
+Atmospheric Gases 
+Experiment (AGAGE) / 
+UK DECC network, four 
+sites. 
+Background AGAGE site 
+at Cape Grim (Tasmania), 
+and urban site at Aspendale 
+(Victoria). 
+Step 2: 
+Preparation of the 
+gridded prior emission 
+data. 
+Swiss Greenhouse Gas 
+Inventory (SGHGI). 
+Prior estimates not used. 
+Australian national 
+inventory. 
+Step 3: 
+Preparing and operating 
+the inverse model. 
+Lagrangian particle 
+dispersion model (LPDM) 
+FLEXPART. 
+Numerical Atmospheric 
+dispersion Modelling 
+Environment (NAME), 
+InTEM (Inversion 
+Technique for Emission 
+Modelling). 
+Interspecies correlation 
+(ISC), forward CSIRO 
+TAPM model, inverse 
+model NAME-InTEM. 
+Step 4: 
+Quality 
+assurance/Quality 
+Control to the inverse 
+model. 
+Sensitivity analysis, 
+Transport model 
+validation. 
+Sensitivity analysis, 
+Transport model 
+validation. 
+Sensitivity analysis, 
+Transport model 
+validation. 
+Step 5: 
+Comparison, verification, 
+and reporting. 
+Estimated national CH4 
+emissions of 196 ± 18 Gg 
+yr-1, agrees with SGHGI 
+estimation of 206 ± 33 Gg 
+yr-1. 
+The InTEM methane 
+emission estimates in 
+2013-2015 (with four 
+DECC sites data) are 
+consistent with UK GHG 
+inventory. 
+Agreement found to within 
+2% for HFC-125, HFC-
+134a, HFC-143a and HFC-
+152a, within 15% for HFC-
+23, HFC-365mfc and SF6, 
+within 35% for HFC-32. 
+ 
+The examples above generally found good agreement between the national inventories and the observation-based 
+emission estimates. In cases where there are discrepancies between the two estimates, the effort to reduce this 
+discrepancy should be taken by both the inverse modelling and inventory compiling groups, as summarized in Box 
+6.5. 
+ 
+                                                           
+18 Henne et al. 2016. 
+19 Brown et al. 2018; Manning et al. 2017.  
+20 Fraser et al. 2014. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.21 
+BOX 6.5 (NEW) 
+COMPARISON – VERIFICATION ACTIONS ON INVENTORY COMPILER SIDE 
+In cases where there are discrepancies between the two estimates, the effort to reduce this 
+discrepancy should be taken by both the inverse modelling and inventory compiling groups. On the 
+inventory compiler side, following steps are suggested to take:  
+1. Confirm that the observation-based emission estimates and the inventories represent the same time 
+period, areas. 
+2. Determine what emission dataset was used as a prior, and how it compares to the emission 
+inventory.  
+3. Assess how the estimation procedure treats anthropogenic and natural emissions, to confirm that 
+the estimates compare with anthropogenic and natural emissions included in the inventory.   
+4. Confirm that seasonal variability of the emissions and other effects have been considered in the 
+comparison. 
+5. Assess the uncertainties of the estimated emissions, and note whether the discrepancy is 
+statistically significant.   
+6. For sub-national scale regions with the larger discrepancies, determine which emissions activities 
+are occurring there, based on the gridded or regional GHG inventory:  
+      (i) 
+Recheck inventory activity data in that region; 
+      (ii) Assess factors that may make the regional emission rates different from the national inventory 
+average (e.g. different regulations, different technologies), and assess the extent to which these 
+have been taken into account in the national inventory and in its gridding/disaggregation. 
+7.In the national inventory improvement plan, prioritize emission sources/regions with larger 
+discrepancies. 
+Example of national inventory comparison to inverse modelling estimates (UK CH4 and N2O inverse modelling) 
+is provided in Box 6.6 below. 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 6.6 (NEW) 
+UK METHANE (CH4) AND NITROUS OXIDE (N2O) INVERSE MODELLING 
+Observation and modelling: In order to provide verification of the UK Greenhouse Gas Inventory 
+(GHGI), the UK government’s Department for Business, Energy and Industrial Strategy (BEIS) 
+maintains a high-quality remote observation station at Mace Head (MHD) (set up in 1987) on the 
+west coast of Ireland. The station reports high-frequency concentrations of the key greenhouse gases 
+under the supervision of the University of Bristol (O'Doherty et al. 2004). UK extended the 
+measurement programme in 2012 with three new tall tower stations across the UK: Tacolneston 
+(TAC) near Norwich; Ridge Hill (RGL) near Hereford; Tall Tower Angus (TTA) near Dundee, 
+Scotland (replaced by Bilsdale (BSD) in North Yorkshire in Sept 2015). Methane, carbon dioxide, 
+nitrous oxide and sulphur hexafluoride are measured across the UK network, whereas all of the other 
+gases (e.g. HFCs and PFCs) are only measured at MHD and TAC. The UK Met Office, under 
+contract, employs the Lagrangian dispersion model Numerical Atmospheric dispersion Modelling 
+Environment (NAME) (Jones et al. 2007) driven by three-dimensional modelled meteorology to 
+interpret the observations. By estimating the underlying baseline concentration trends (Northern 
+Hemisphere mid-latitude atmospheric concentrations where the short-term impact of regional 
+pollution has been removed from the data) and by modelling where the air has passed over en route 
+to the observation stations on a regional scale, estimates of UK emissions are made. A methodology 
+called Inversion Technique for Emission Modelling (InTEM) has been developed that uses a 
+Bayesian minimization technique, to determine the emission map that most accurately reproduces 
+the observations (Manning et al. 2003, 2011).  
+Output, analysis and arising actions:  
+In the UK National Inventory Report (Brown et al. 2018) emission estimates made for the UK using 
+the InTEM methodology are compared to the GHGI emission estimates for the period 1990 onwards. 
+It should be noted that findings, analysis and actions described in the UK National Inventory Report 
+are presented here as examples, and will be different for another country or time period. 
+Findings: 
+• 
+UK GHG inventory methane estimates have fallen steadily since 1990 largely due to estimated 
+reductions in emission from the waste disposal and energy (fugitives) sectors. 
+• 
+The InTEM methane emission estimates using all the available observations, including MHD, 
+TAC, RGL, TTA/BSD, and Cabauw (CBW), in 2013-2015 are consistent with UK GHG 
+inventory. Larger mismatch is found in earlier years when using the estimates based on data of 
+two sites (MHD+CBW). 
+• 
+The annual InTEM estimates for N2O are close to the GHG inventory estimates, with both 
+showing declining UK totals. Unlike the GHG inventory however, the InTEM estimates are 
+marginally higher than the GHGI post 2000 although well within the uncertainty. The GHG 
+inventory estimates show a sharp decline (40 Gg) between 1998 and 1999 in line with the 
+introduction of the clean technology at an adipic acid plant in Wilton, north east England. 
+Actions: 
+• 
+The differences between the GHGI and the inverse modelling trends are a subject of active 
+investigation by the modelling and GHG inventory teams. 
+• 
+Inventory actions – assessment of missing / underrepresented methane sources: 
+      (i) 
+Consider how the yearly variability of emissions from enteric fermentation (specifically 
+sheep) could impact emission estimates. A new agriculture model is being implemented 
+but this is unlikely to have a significant impact. 
+      (ii) 
+Review fugitive emissions from offshore oil/gas and coal mines. 
+      (iii) 
+Review the extent to which conservative assumptions have been made regarding landfill 
+emissions and methane capture in different parts of the time-series that may misrepresent 
+the real time-series of emissions. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.23 
+6.10.2.7 
+CHECK LIST FOR APPLYING INVERSE MODEL ESTIMATES 
+FOR COMPARISON WITH NATIONAL INVENTORIES 
+Utility of inverse model estimates for quality checks and improving the inventory depends on the accuracy and 
+precision of the emission estimates by inverse modelling. The inverse model estimates can be used for inventory 
+verification with more confidence when several conditions are achieved: 
+• 
+Inverse modelling system has been tested and validated by several methods, including transport model 
+validation with well-known tracers, inverse model validation by model comparison and sensitivity studies.  
+• 
+Sufficient number of observation sites, and measurement frequency are available. Three to four tall tower sites 
+are used for CH4 in the Swiss and UK cases, while useful estimates for HFCs were made with one/two sites 
+for UK, Australia and Switzerland. General requirement is to establish large enough number of observation 
+sites to ensure that inverse model estimates are guided more by the observations than by the prior emission 
+inventory. Required number varies by specific gas and target region, and can be determined with the inverse 
+model-guided observation network design, as implemented by (Nickless et al. 2015; Lopez-Coto et al. 2017) 
+and other studies.  
+• 
+Check if GHG inventory uncertainty is not too low already. This check is applied to avoid comparison of 
+inventories with significantly lower uncertainty (such as carbon dioxide from fossil fuel) to the inverse model 
+estimates. On the other hand, high emission inventory uncertainty is often linked to emissions of HFCs and 
+other fugitive compounds. 
+Based on these three criteria listed above, a model decision tree for evaluating feasibility of using inverse 
+modelling estimates for inventory verification is shown in Figure 6.1: 
+Figure 6.1 (New) A decision tree for checking the conditions for using the inverse model 
+estimates in the National Inventory verification 
+Start
+Is inverse model
+ validated?
+Is the number 
+of observations 
+sufficient to make the inverse model 
+uncertainty low enough for use 
+in comparison?
+Is difference between 
+estimated flux and uncertainty in acceptable 
+range?
+Document the results of the 
+comparison, take steps to assess 
+difference
+Improve and validate 
+the model
+Expand the observation 
+network (possibly, add 
+satellites)
+No
+Yes
+Yes
+No
+No
+Yes
+Actions by modelling 
+and inventory groups, 
+such as checking and 
+improving inventory
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.10.2.8 
+NECESSARY STEPS FOR COMPARING NATIONAL 
+INVENTORY TO THE GLOBAL/REGIONAL INVERSE 
+MODELLING PRODUCTS 
+An outline of the necessary steps for comparing annual total emissions by national inventory to the emission 
+estimates provided by global/regional inverse model products is given in Table 6.5. 
+ 
+TABLE 6.5 (NEW) 
+GENERAL OUTLINE OF NATIONAL INVENTORY COMPARISON TO GLOBAL/REGIONAL INVERSE MODELLING PRODUCTS  
+Defining target gases and 
+time periods 
+• 
+Based on inverse modelling data available at the time of report preparation, select 
+available gases (CO2, CH4, N2O, HFCs) and periods overlapping between 
+inventory data and inverse model results. Use advice from the modellers on the 
+degree of uncertainty the product is providing for a particular country’s emissions. 
+Data acquisition  
+• 
+Download gridded emission data files (including prior emissions, inverse model 
+estimated emissions and emission uncertainty data), file format descriptions and 
+release notes. Check if the data can be read with available software.  
+Remapping to make national 
+total (if national estimate is 
+not provided in the inverse 
+model product) 
+• 
+Prepare remapping table. Calculate area fraction of the national land in each grid 
+cell of the emission data grid.  
+• 
+Calculate national total emission for each time step, by summing grid emissions 
+multiplied by fraction of national land. Make national total for each year. 
+• 
+If data necessary for remapping emission uncertainties is available with inverse 
+modelling results, remap emission uncertainty.  
+Using multiple products 
+• 
+When the number of available inverse modelling products is more than one, 
+remapping to make national total can be made for all the available products. It is 
+recommended to include in the report national total estimates for each inverse 
+modelling product, along with average and standard deviation of the emissions 
+across the set of inverse modelling products. 
+Analysing differences 
+between inverse model 
+estimates and inventory  
+• 
+When significant differences between inverse model estimates and inventory are 
+found, check if activity data and emission factors used in inventory can be updated 
+to more recent version, if available. Report differences to inverse modellers, 
+request providing a feedback. 
+Documenting the results of 
+the comparison 
+• 
+Outline the dataset (datasets) used in the report, cite the product release version, 
+reference the release date, and version of the release note. Provide a description of 
+the remapping procedure used in the remapping. Prepare comparison table 
+showing the national emissions for all gases and years by inventory and emissions 
+with emission uncertainties estimated with inverse models, average value and 
+standard deviation across a set of inverse modelling products. 
+ 
+6.11 
+DOCUMENTATION, ARCHIVING AND 
+REPORTING 
+No refinement. 
+6.12 
+USE AND REPORTING OF MODELS 
+6.12.1 Use of models 
+The 2006 IPCC Guidelines provide some guidance on how to ensure that data from models can comply with good 
+practice when used in National Greenhouse Gas Inventories. For example, Table 6.6 indicates some of the specific 
+reference in the 2006 IPCC Guidelines related to the development and use of models. However, this guidance is 
+not complete or systematic: this section addresses this gap. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.25 
+TABLE 6.6 (NEW) 
+GENERAL GUIDANCE RELATED TO MODELS IN VOLUMES 1 & 4 OF THE 2006 IPCC GUIDELINES 
+Section in 2006 IPCC Guidelines 
+Guidance  
+Chapter 3, Volume 1: Uncertainties 
+3.2.1 Sources of data and information (p 3.14). 
+Guidance on uncertainties associated with models. 
+Chapter 5, Volume 1: Time Series Consistency 
+5.2.1 Recalculations due to methodological changes. 
+The calculation of emission factors and other parameters 
+and refinements (Box 5.1, p 5.6) in AFOLU may require a 
+combination of sampling and modelling work. Time series 
+consistency must apply to the modelling work as well. 
+Models can be viewed as a way of transforming input data 
+to produce output results. In most cases where changes are 
+made to the data inputs or mathematical relationships in a 
+model, the entire time series of estimates should be 
+recalculated. In circumstances where this is not feasible 
+due to available data, variations of the overlap method 
+could be applied. 
+Chapter 6, Volume 1: Quality Assurance/Quality Control and Verification 
+6.7.1 Emissions factor QC (p 6.12) 
+Guidance on QC checks on models 
+Chapter 2, Volume 4: Generic Methodologies Applicable to Multiple Land-Use Categories  
+2.5.2 Model-based Tier 3 inventories (p 2.52)  
+Guidance on developing model based Tier 3 inventories 
+for AFOLU sector  
+ 
+6.12.2 Why use more complex methods? 
+Simple approaches to estimating greenhouse gas emissions and removals may be unsatisfactory for some specific 
+categories in some countries because they fail to capture the complexity and diversity of systems and practices, in 
+that sector. Therefore, some inventories rely on more sophisticated approaches, using models or direct 
+measurements.  
+In general, models may be used to estimate those emissions or removals that cannot be easily otherwise obtained, 
+to extend limited information to cover national emissions and removals, both spatially and temporally, or to 
+improve the accuracy of the estimates. Model development relies on data from direct measurements and uses 
+measured data for calibration and evaluation. 
+However, models should be used with care. Complex models are not necessarily improvements over simple ones 
+(e.g. carbon dioxide emissions from road transport is best estimated from fuel sold and its carbon content: no 
+transport model will provide a better estimate although they may allocate the emissions to specific vehicle types 
+and estimate improved methane and nitrous oxide emissions). Models are limited by the underlying quality of the 
+data. Use of models will require resources for additional QA/QC and documentation. 
+6.12.3 Models 
+Models aim to transform input data into outputs in a way that replicates the real world. For example, with inputs 
+of the distance driven by road vehicles an appropriate model can estimate emissions of greenhouse gases. Thus, 
+models add value to original data. Models are frequently used to assess complex systems and can be used to 
+generate data; however, models are means of data transformation and do not remove the need for the original data 
+to drive them. 
+Every emission or removal estimate has an underlying model and assumptions. Even a simple calculation assumes 
+that units of activity, individually or on the average, carry the same emissions burden: 
+(
+) (
+).
+Emission
+= Emission factor x Activity data
+ 
+This assumption is the underlying model. More complex models are called for where this simple calculation seems 
+inadequate e.g., the sigmoid growth of a stand of trees means that one cannot simply multiply the removal rate by 
+the stand area to get a removal from the atmosphere: the age of the stand also matters. Linkages between processes 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+can be much more complicated than this. This situation can be captured by more complex models, but the greater 
+complexity can lead to reduced transparency. This guidance aims to achieve greater transparency in these situations. 
+There are many benefits in using complex models in national greenhouse gas inventories. These may include:  
+• 
+models may improve coverage and completeness as they can extend existing data to improve geographic 
+coverage/distribution and coverage of source/sink categories by filling in gaps in data;  
+• 
+models may increase spatial and temporal resolution of estimates;  
+• 
+generally, models may increase the accuracy of results by an improved representation of the processes covered 
+by the model and more systematic treatment of data;  
+• 
+models can provide an opportunity to test our understanding of cause-and-effect relationships, hence to 
+potentially assess the impacts of mitigation efforts;  
+• 
+models may provide comparability with other countries and systems;  
+• 
+models may improve transparency through stratification by making differences between strata (subcategories) 
+explicit;  
+• 
+models may improve time series consistency of inventory, for example, by providing annual estimates even 
+where only occasional measurements exist;  
+• 
+models may be a cost effective and, in many cases, the only possible option to estimate emissions and removals 
+compared to extensive data collection;  
+• 
+models can enable better projections by matching past estimates and future projections and treatment of 
+nationally specific circumstances, technologies and practices and mitigation efforts;  
+• 
+models can represent non-linear and dynamic systems better compared to the linear averaging done in most 
+Tier 1 and 2 methods; 
+• 
+models can be adapted to national circumstances;  
+• 
+models can provide frameworks for uncertainty analyses and identification of research priorities to improve 
+greenhouse gas inventories as far as is practicable.  
+However, using models may have some adverse effects in such cases where:  
+• 
+the model is incorrectly used (e.g., applied outside the domain of application without appropriate adaptation);  
+• 
+the key assumptions are not correct;  
+• 
+there are errors in the model; 
+• 
+inappropriate data are fed into the model; 
+• 
+models lack transparency unless they are fully documented;  
+• 
+model development may not be cost-effective; 
+• 
+models are limited by the underlying data when such data is missing. 
+6.12.4 Good Practice Use of Models in National Greenhouse 
+Gas Inventories 
+In the application of models in national greenhouse gas inventories, a critical issue is suitability. Suitability 
+describes how well the model reflects the national circumstances: It may have been specifically developed or 
+adapted from an existing model. A model should be correctly parameterized and calibrated, and this will be 
+demonstrated through the model evaluation and the uncertainty assessment. Previously, lack of transparency and 
+inconsistent documentation has been identified as a major concern (IPCC 2010). While these general guidelines 
+will not specify how to choose, build, calibrate or evaluate a model it is crucial that models are reported and 
+documented transparently in order for the model results to be understandable, assessable and credible and the 
+guidelines concentrate on these issues. It is good practice to follow the approach given here.  
+Most complex models should be well-documented covering model description, suitability, calibration, model 
+evaluation and uncertainty and where this exists, the documentation should be referenced: there is no need to 
+reproduce it. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.27 
+Established and well-known models (e.g. some transport models) are usually well documented, calibrated and 
+validated already. For these inventory compilers can rely on published reports and peer-reviewed publications and 
+simply reference this material. There is no need to duplicate the reports, calibration or validation work, or 
+uncertainty analysis. 
+Figure 6.2 (New) Schematic of typical model development/selection process 
+Start
+Model behaves 
+as expected.
+Check OK?
+Evaluation
+OK?
+Document and report
+Model selection or 
+development
+Model calibration and 
+parameterisation
+Evaluation of model
+behaviour
+Identify and collect 
+model data inputs
+Implement model
+Assess uncertainty
+Verification of 
+inventory estimates with 
+independent data
+Select Model
+Implement Model
+Evaluate Model
+No
+Yes
+Yes
+No
+Measured data needed
+for calibration and 
+parameterisation
+Measured data needed
+for comparison with
+model outputs
+Independent data
+needed to evaluate 
+full model
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.12.4.1 
+IDENTIFY MODEL: SELECT OR ADAPT EXISTING MODEL 
+OR DEVELOP NEW MODEL 
+A model must be suitable for its intended use. Suitability is the applicability of the model and any adaptation to 
+the specific national situation in which the model is used for greenhouse gas inventory purposes. A model could 
+be developed for the specific situation or could be a development or adaptation of an existing model. Where an 
+existing model is selected, compilers need to consider and document the following questions:  
+• 
+Is the model designed for, or portable to, the current national circumstances?  
+• 
+Are the other conditions for which the model is applied different from those for which the model originally 
+was developed (e.g. ecological or management)?  
+It is good practice to document the suitability of the model. The documentation (see Section 6.12.6) should include:  
+• 
+The reason for choosing or designing the model (applicability).  
+• 
+Are there differences in local conditions compared to those for which the model was constructed (or recently 
+adapted to and used) were treated (e.g. ecological or management)? 
+• 
+Is the model used outside the range of parameter for which the model was developed?  
+DEVELOPING OR ADAPTING A MODEL: PARAMETERISATION, 
+CALIBRATION AND EVALUATION OF MODEL BEHAVIOUR 21 
+In order to set up, calibrate and parameterise the model real data (“calibration data”) is needed. The data used and 
+outcome of this should be documented. 
+Following the establishment of the model and its calibration and parameterisation, it is good practice to compare 
+model outputs with data independent of the calibration data (e.g. evaluation of model behaviour). This will check 
+whether or not the model behaves as expected and indicates the extent to which the model reproduces the variation 
+in the data that were used to establish its parameter values.  
+It is good practice to ensure that a model responds appropriately to variations in activity data and that the model 
+is able to report results by the required categories. Re-calibration of the model or modifications to the structure 
+(i.e., algorithms) may be necessary if the model does not capture general trends or there are large systematic biases. 
+In some cases, a new model may be selected or developed based on this evaluation. Evaluation results are an 
+important component of the reporting documentation, justifying the use of a particular model for quantifying 
+emissions or removals in an inventory category.  
+The results of these checks should be documented and reported. It is good practice to document the input data 
+needed, the model structure and material assumptions. 
+6.12.4.2 
+IMPLEMENTING AND EVALUATING THE MODEL 
+Following the selection of the model, it needs to be implemented. This involves the identification and collection 
+of all the relevant input data and the refinement of the software implementation. Following this, the next step in 
+model development is model results evaluation: comparing model results with independent measurements.  
+This is an important step in the use of models as it involves testing the fully implemented model, as it will be used 
+in practice with independent data. Evaluation with independent data is done with a completely independent set of 
+data from model calibration, providing a more rigorous assessment of model components and results. Optimally, 
+independent evaluation should be based on measurements from a monitoring network or from research sites that 
+were not used to calibrate model parameters. The sampling does not need to be as dense as needed for 
+measurement-based estimates.   
+If this independent evaluation demonstrates that the model-based estimation system produces large differences 
+between model results and the measurements this may not indicate the model is wrong. Problems may stem from 
+two other possibilities: errors in the implementation step or poor input data. Implementation problems typically 
+arise from computer programming errors, while model inputs may generate erroneous results if these data are not 
+                                                           
+21 The term “model evaluation” is used instead of “validation” and “verification” in this section to describe activities used to 
+determine the appropriateness of models for estimating GHG emissions and/or removals. The terms, “validation” and 
+“verification” are often used differently in different contexts (e.g. in financial, engineering compared to GHG inventories) 
+and therefore not used here to avoid confusion. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.29 
+representative of the activity, management or environmental conditions. These possibilities need to be excluded 
+before the model is revised or discarded. 
+It is good practice for the results of this evaluation to be documented and reported.  
+The evaluation should cover the following points:  
+• 
+Testing should cover different conditions, circumstances and spatial scales.  
+• 
+Partial or component tests for the measurable parts should be performed.  
+• 
+Evaluation of the model output through model inter-comparison, if possible. This will show which models 
+best represent local conditions.  
+• 
+Evaluation of the model through comparison with Tier 1 or Tier 2 results. Differences between a complex 
+model and lower tier approaches may reflect that the model is better representing the real world (e.g. temporal 
+variability), by including effects not represented in the lower tier. Therefore, it is important to explain 
+significant differences in terms of the physical processes represented in the model. Uncertainty assessment 
+results from the lower tier approaches should be compared and findings documented. 
+In addition, it may be possible to produce some indicators that show the model is performing correctly. Reporting 
+such indicators and showing they are correctly conserved will demonstrate model robustness. Examples include:  
+• 
+AFOLU sector models should conserve mass and land area;  
+• 
+Energy sector models should be consistent with the energy balance;  
+• 
+In some industrial sectors, a mass balance is possible (e.g. carbon in refineries and iron and steel plant); 
+• 
+Transport models should conserve vehicle number.  
+UNCERTAINTY AND SENSITIVITY ANALYSIS 
+While an understanding of likely model uncertainty may be produced based on the model structure and algorithms, 
+uncertainty and sensitivity analysis should also be performed as part of model evaluation. This is important so that 
+a rigorous measure of model confidence, based on model inputs and structure, can be reported. When the model 
+is created or materially modified, it is good practice to document (preferably in peer reviewed publications which 
+can be referenced by an inventory report to avoid duplication): 
+• 
+the error distribution of key parameters; 
+• 
+the covariance matrix of the model parameters (if it is a parametric model);  
+• 
+results of either error propagation or Monte-Carlo analysis;  
+• 
+the results of an evaluation of uncertainties from the comparison of model outputs with the independent data; 
+• 
+the results of a sensitivity analysis or identification of key parameters/inputs to which the model outputs are 
+more sensitive. 
+INTERPRETATION OF MODEL RESULTS 
+In order to assist the correct interpretation of the model results, experience suggests that it would be useful to also 
+supply, as part of the model and inventory documentation:  
+• 
+Either a comparison of implied emission factors with country-specific factors or, if not available, IPCC default 
+values. This comparison should also provide an explanation for any significant differences.  
+• 
+An explanation of any unusual input values and results (i.e. outliers with respect to some reference data). 
+• 
+The distribution of input and output values.
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.12.5 QA/QC for selecting, adapting and using models 
+It is good practice for the selection, development and use of models to be part of the inventory QA/QC plan. The 
+elements described in Section 6.3 of the 2006 IPCC Guidelines are all relevant. There should be clear roles and 
+responsibilities. The inventory QA/QC plan should include the checking and evaluation steps described and should 
+check that documentation is available. References to appropriate documents and publications are acceptable. Do 
+not replicate existing documents. 
+Regular use of the model should include checks on the input of data and the reasonableness of outputs. 
+When the model is created or materially modified, it is good practice to include external experts (those not involved 
+in the model development) in the evaluation of the inventories. Publication of the model in peer-reviewed literature 
+is desirable. 
+In planning the implementation of any model, allowance should be made for sufficient resources to allow adequate 
+QA/QC. 
+6.12.6 Reporting on the use of models in emission 
+inventories 
+To ensure transparency in the use of models it is good practice to document the following items (references should 
+be made to existing model documentation and publications wherever possible): 
+• 
+Basis and type of model (statistical, deterministic, process-based, empirical, etc.);  
+• 
+Reasons for selecting the particular model;  
+• 
+If an existing model is being used and adapted: Area of application of original model and adaptation of the 
+model (description of why and how the model was adapted for conditions outside the originally intended 
+domain of application); 
+• 
+Main equations/processes;  
+• 
+Material assumptions (important assumptions made in developing and applying the model); 
+• 
+Domain of application (description of the range of conditions for which the model has been developed to 
+apply)22;  
+• 
+How the model parameters were estimated; 
+• 
+Description of key inputs and outputs;  
+• 
+Details of calibration and evaluation with calibration data and independent data (showing intermediate outputs 
+at an adequately disaggregated level); 
+• 
+Description of the approach taken to the uncertainty analysis and to the sensitivity analysis, and the results of 
+these analyses; 
+• 
+QA/QC procedures adopted; 
+• 
+Findings of QA by experts not involved in the model development; 
+• 
+Interpretation of model results; 
+• 
+Comparison of model results with lower tier approaches23; 
+• 
+References to peer-reviewed literature (where details of the research on the model can be found). 
+                                                           
+22 Model outputs should match the definitions and requirements of the IPCC Guidelines. 
+23 It is not necessary to do this every year, but in establishing a model as part of a national inventory system, the impact of the 
+model results compared with the lower tier approach should be considered. For example, a model may be able to better 
+describe annual temporal changes and so better describe larger year-to-year variability: this would be averaged out in lower 
+tiers. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.31 
+6.12.7 Checklist for ensuring good practice in the use of 
+complex, higher tier models in national greenhouse 
+gas inventories 
+These can be reported in publications and available model documentation and referenced in inventory reports: 
+duplication should be avoided. 
+Model Identification (covering selection, development or adaption of existing models): 
+• 
+Selection and applicability of model and adaptation to the situation in which the model is used for GHG 
+inventory purposes:  
+(i) 
+Document choice of model based on published studies using the model for the conditions in your 
+country and/or how the model has been adapted to represent the conditions in your country;  
+(ii) 
+Supplemental documentation may be needed to describe the adaptation of the model to the conditions 
+in a country if publications are not available with this information.  
+• 
+Basis and type of model (statistical, deterministic, process-based, empirical, top-down, bottom-up etc.):  
+(i) 
+Document the conceptual approach (e.g. model represents statistical relationships or processes), and 
+the mathematical formulation in general terms, such as the model is process-based with a bottom-up 
+approach to estimate emissions.  
+• 
+Identify main processes and equations:  
+(i) 
+Document the main processes and describe the driving variables for those processes; 
+(ii) 
+List the main equations if feasible (may not be feasible with highly complex models or not necessary 
+with simple bookkeeping models);  
+(iii) 
+Also, cite publications that describe the model in detail if they exist. It may be necessary to develop 
+supplemental information documents if the model description has not been published or to provide 
+regional parameter values that are too detailed to be publishable in a scientific journal.  
+• 
+Material assumptions in model:  
+(i) 
+Document material assumptions. For example, first order approximation was assumed to represent 
+soil organic matter decomposition for three kinetically defined pools with a short, medium and long 
+turnover time. 
+• 
+Domain of application: 
+(i) 
+Provide information about the extent of the model application to systems in the country, e.g., all 
+agricultural lands with arable crops grown on upland soils.  
+• 
+Model calibration and checks:  
+(i) 
+Briefly describe the calibration of the model (i.e., parameterization) which may include tuning 
+individual algorithms or the model in a single operation using informal (manual) adjustments to 
+parameters or an automated optimization that attempts to derive a set of parameters based on 
+minimizing the error in the predictions relative to a set of measurements.  
+• 
+Document the model checks: 
+(i) 
+Provide graphs or other summaries of the evaluation of calibrated model to measured emissions data. 
+Evaluation data should be from sites that were not used in calibration or data from the calibration 
+sites that were collected at different periods than the data used in the calibration step;  
+(ii) 
+Other key predictions from the model may also be evaluated e.g. net primary production and 
+respiration, litterfall, harvest transfers, or stock sizes that may be predicted in AFOLU sector models;  
+(iii) 
+May also compare performance to other models if other models were evaluated; 
+(iv) 
+Include references to published articles with more detail on the calibration and/or evaluation if 
+available. Supplemental documentation may be needed if this information is not published.  
+• 
+Model Implementation and Model Evaluation: 
+(i) 
+Identify Model Inputs: 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+i. Describe type of data inputs to the model. e.g., weather data were based on analysis of long-term 
+precipitation and temperature data from the national weather service or transportation data were 
+based a national scale monitoring of miles travelled by vehicle type, engine, condition and age;  
+ii. Include references to publications of the input data or online publication of the data;  
+iii. List any key assumptions that were necessary to use these data, such as representativeness of 
+management data;  
+iv. Describe any special considerations about the domain of the inventory application using the 
+model given input data. For example, were different input data sets used in different parts of the 
+domain, or was the application of the model limited to specific parts of the country due to the 
+domain of the input data. 
+  
+(ii) 
+Implementation of Model:  
+i. Briefly describe computing framework including the hardware, databases and programs that 
+were used to execute the inventory;  
+ii. Provide a description of output variables from the model and any conversions or modifications 
+made to derive the final emissions and removal estimates;  
+iii. Summarise QA/QC procedures adopted to ensure the modelling systems performed 
+appropriately, e.g. checking that of land area is conserved through the analysis; unit conversions 
+are correct; and review of the procedures, inputs and/or outputs by experts not involved with the 
+inventory. List any critical errors identified and corrective actions taken;  
+iv. Optionally provide examples of simple model calculations, such as emissions and removals by 
+forest stands or landscapes in response to different forest management, natural disturbance, or 
+mitigation scenarios. Examples of model performance may be easier to understand than lengthy 
+and complex descriptions of intended model behaviour. 
+  
+(iii) 
+Evaluation of inventory results:  
+i. Describe checks on emission results. This may include: 
+a) 
+Estimating implied emissions factors and comparing to lower tier emission factors 
+and/or expected ranges. Further explanation may be needed for differences;  
+b) 
+Compare to lower tier methods if inventory also estimated with lower tiers;  
+c) 
+Compare to independent measurements that were not used for calibration and 
+evaluation of the model, such as data from a monitoring network in the country.  
+ii. Where conservation of mass is expected (e.g. carbon from fuel combustion, storage and leakage 
+of fluorinated gases, carbon from land use and land use change, nitrogen in waste) check that the 
+mass entering the system in combination with the existing storage, is accounted for through 
+emissions and/or storage in the system. Note that losses of mass may not all be related to 
+greenhouse gas emissions (e.g., nitrate leaching from soils which does not contribute to direct 
+soil nitrous oxide emissions). 
+  
+(iv) 
+Assess Uncertainties:  
+i. Provide a description of any sensitivity analysis conducted and a summary of findings in terms 
+of key parameters influencing the model results;  
+ii. Describe the derivation of uncertainties in the model inputs and model structure, as well as any 
+other key uncertainties; 
+iii. Provide references to articles that contain additional detail on sensitivity or uncertainty analysis 
+from your application. Supplemental documentation may be needed if this information is not 
+published. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.33 
+References 
+References copied from the 2006 IPCC Guidelines 
+Barnes, D.H., Wofsy, S.C., Fehlau, B.P., Gottlieb, E.W., Elkins, J.W., Dutton, G.S. and Montzka S.A. (2003a) 
+Urban/industrial pollution for the New York City-Washington, D. C., corridor, 1996-1998:1. Providing 
+independent verification of CO and PCE emissions inventories, Geophys J. Res., 108(D6), 4185, 
+10.1029/2001JD001116, 2003a. 
+Barnes, D.H., Wofsy, S.C., Fehlau, B.P., Gottlieb, E.W., Elkins, J.W., Dutton, G.S., and Montzka, S.A. (2003b). 
+Urban/industrial pollution for the New York City-Washington, D. C., corridor, 1996-1998: 2. A study of the 
+efficacy of the Montreal Protocol and other regulatory measures, Geophys J. Res., 108(D6), 4186, 
+10.1029/2001JD001117, 2003b. 
+Benjey, W. and Middleton, P. (2002). ‘The Climate-Air Quality Scale Continuum and the Global Emission 
+Inventory Activity.’ Presented at the EPA Emissions Conference, April 15-18. 
+Benkovitz C. (2001). ‘Compilation of Regional to Global Inventories of Anthropogenic Emissions’. Submitted for 
+publication in “Emissions of Chemical Species and Aerosols into the Atmosphere”, Precursors of Ozone and 
+their Effects in the Troposphere (POET), Kluwer Academic Publishers, Dordrecht, Netherlands. 
+Bergamaschi, P., Behrend, H. and Andre, J., eds. (2004). Inverse Modeling of National and EU Greenhouse Gas 
+Emission Inventories. Report of the October 23-24 workshop “Inverse Modeling for Potential Verification of 
+National and EU Bottom-up GHG Inventories”, held by the European Commission, Joint Research Centre. 
+Report published. 
+Biraud, S., Ciais, P., Ramonet, M., Simmonds, P., Kazan, V., Monfray, P., O'Doherty S., Spain T.G. and Jennings, 
+S.G. (2000). European greenhouse gas emissions estimated from continuous atmospheric measurements and 
+radon 222 at Mace Head, Ireland, J. Geophys. Res., 105(D1), 1351-1366. 
+Cape, J.N., Methven, J. and Hudson L.E. (2000). The use of trajectory cluster analysis to interpret trace gas 
+measurements at Mace Head, Ireland, Atmospheric Environment, 34(22), 3651-3663. 
+Derwent, R.G., Manning, A.J. and Ryall D.B. (2001). Interpretation of Long-Term Measurements of Ozone-
+Depleting Substances and Radiatively Active Trace Gases: Phase III, Final Report: DETR Contract No: EPG 
+1/1/103, Dec 2001. 
+Derwent, R.G., Simmonds, P.G., O'Doherty, S., Ciais P., and Ryall, D.B. (1998b). European source strengths and 
+northern hemisphere baseline concentrations of radiatively active trace gases at Mace Head Ireland, 
+Atmospheric Environment 32(21), 3703-3715. 
+Derwent, R.G., Simmonds, P.G., O'Doherty, S. and Ryall, D.B. (1998a). The impact of the Montreal Protocol on 
+halocarbon concentrations in northern hemisphere baseline and European air masses at Mace Head Ireland 
+over a ten year period from 1987-1996, Atmospheric Environment 32(21), 3689-3702. 
+Dlugokencky, E.J., Steele, L.P., Lang, P.M. and Mesarie, K.A., (1994). The growth rate and distribution of 
+atmospheric CH4. J. Geophys. Res. 99, 17021-17043. 
+EDGAR. Emission Database for Global Atmospheric Research (EDGAR). RIVM-MNP, Bilthoven, TNO-MEP, 
+Apeldoorn, JRC-IES, ISPRA and MPIC-AC, URL: http://www.mnp.nl/edgar/. 
+Harnisch, J. and Eisenhauer, A. (1998). Natural CF4 and SF6 on Earth, Geophys. Res. Lett., 25(13), 2401-2404. 
+Maiss, M. and Brenninkmeijer, C.A.M. (1998) Atmospheric SF6: trends, sources and prospects. Environ. Sci. 
+Techn. 32, 3077-3086. 
+Manning, A.J., Ryall, D.B., Derwent, R.G., Simmonds, P.G. and O'Doherty S. (2003). Estimating European 
+emissions of ozone-depleting and greenhouse gases using observations and a modelling back-attribution 
+technique, J. Geophys. Res. Vol. 108, No. D14, 4405, 10.1029/2002JD002312, 17 July 2003. 
+NACP (2002). The North American Carbon Programme. NACP Committee of the U.S. Carbon Cycle Science 
+Steering Group (Steven C. Wofsy, Robert C. Harris, co-chairs), Chapter 2, Major Elements of the North 
+American Carbon Program Plan. U.S. Global Change Research Program, Washington, D.C., 2002. 
+http://www.esig.ucar.edu/nacp. 
+O'Doherty, S., McCulloch, A., O'Leary, E., Finn, J. and Cunningham, D. (2003). Climate Change: Emissions of 
+Industrial Greenhouse Gases (HFCs, PFCs and Sulphur Hexafluoride), Final Report, Environmental Protection 
+Agency ERDTI Report Series No. 10, EPA, Johnstown Castle, C. Wexford, Ireland, 2003. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ryall, D.B., Derwent, R.G., Manning, A.J., Simmonds, P.G. and O'Doherty S. (2001). Estimating source regions 
+of European emissions of trace gases from observations at Mace Head, Atmospheric Environment, 35, 2507-
+2523. 
+Rypdal, K., Stordal, F., Fuglestvedt, J.S. and Berntsen, T. (2005). Bottom-up vs. top-down methods in assessing 
+compliance with the Kyoto Protocol, Climate Policy 5, 393-405. 
+Vermeulen, A.T., Eisma, R., Hensen, A. and Slanina J. (1999). Transport model calculations of NW-European 
+methane emissions, Environmental Science & Policy, 2, 315-324. 
+ 
+References newly cited in the 2019 Refinement 
+Arnold, T., Muhle, J., Salameh, P., Harth, C., Ivy, D. & Weiss, R. (2012) Automated Measurement of Nitrogen 
+Trifluoride in Ambient Air. Analytical Chemistry 84(11): 4798-4804. 
+Bergamaschi P, Corazza M, Karstens U, Athanassiadou M, Thompson R, Pison I, Manning A, et al. (2015) Top-
+down estimates of European CH4 and N2O emissions based on four different inverse models. Atmospheric 
+Chemistry and Physics 15: 715-736. 
+Bergamaschi, P., Karstens, U., Manning, A., Saunois, M., Tsuruta, A., Berchet, A., Vermeulen, A., Arnold, T., 
+Janssens-Maenhout, G., Hammer, S., Levin, I., Schmidt, M., Ramonet, M., Lopez, M., Lavric, J., Aalto, T., 
+Chen, H., Feist, D., Gerbig, C., Haszpra, L., Hermansen, O., Manca, G., Moncrieff, J., Meinhardt, F., Necki, 
+J., Galkowski, M., O'Doherty, S., Paramonova, N., Scheeren, H., Steinbacher, M. & Dlugokencky, E. (2018) 
+Inverse modelling of European CH4 emissions during 2006-2012 using different inverse models and reassessed 
+atmospheric observations. Atmospheric Chemistry and Physics 18(2): 901-920. 
+Breon, F., Broquet, G., Puygrenier, V., Chevallier, F., Xueref-Remy, I., Ramonet, M., Dieudonne, E., Lopez, M., 
+Schmidt, M., Perrussel, O. & Ciais, P. (2015) An attempt at estimating Paris area CO2 emissions from 
+atmospheric concentration measurements. Atmospheric Chemistry and Physics 15(4): 1707-1724. 
+Brown P., Broomfield M., Cardenas L., Choudrie S., Kilroy E., Jones L., MacCarthy J., et al. (2018) UK 
+Greenhouse Gas Inventory 1990 to 2016: Annual Report for submission under the Framework Convention on 
+Climate Change. London: Ricardo Energy & Environment. 
+Bruhwiler, L., Dlugokencky, E., Masarie, K., Ishizawa, M., Andrews, A., Miller, J., Sweeney, C., Tans, P. & 
+Worthy, D. (2014) CarbonTracker-CH4: an assimilation system for estimating emissions of atmospheric 
+methane. Atmospheric Chemistry and Physics 14(16): 8269-8293. 
+Bruhwiler, L. M., Basu, S., Bergamaschi, P., Bousquet, P., Dlugokencky, E., Houweling, S., Ishizawa, M., Kim, 
+H.-S., Locatelli, R., Maksyutov, S., Montzka, S., Pandey, S., Patra, P. K., Petron, G., Saunois, M., Sweeney, 
+C., Schwietzke, S., Tans, P. & Weatherhead, E. C. (2017) US CH4 emissions from oil and gas production: 
+Have recent large increases been detected? Journal of Geophysical Research-Atmospheres 122(7): 4070-4083. 
+Chevallier, F., Fisher, M., Peylin, P., Serrar, S., Bousquet, P., Breon, F., Chedin, A. & Ciais, P. (2005) Inferring 
+CO2 sources and sinks from satellite observations: Method and application to TOVS data. Journal of 
+Geophysical Research-Atmospheres 110(D24). 
+Ciais, P., Dolman, A., Bombelli, A., Duren, R., Peregon, A., Rayner, P., Miller, C., Gobron, N., Kinderman, G., 
+Marland, G., Gruber, N., Chevallier, F., Andres, R., Balsamo, G., Bopp, L., Breon, F., Broquet, G., Dargaville, 
+R., Battin, T., Borges, A., Bovensmann, H., Buchwitz, M., Butler, J., Canadell, J., Cook, R., DeFries, R., 
+Engelen, R., Gurney, K., Heinze, C., Heimann, M., Held, A., Henry, M., Law, B., Luyssaert, S., Miller, J., 
+Moriyama, T., Moulin, C., Myneni, R., Nussli, C., Obersteiner, M., Ojima, D., Pan, Y., Paris, J., Piao, S., 
+Poulter, B., Plummer, S., Quegan, S., Raymond, P., Reichstein, M., Rivier, L., Sabine, C., Schimel, D., 
+Tarasova, O., Valentini, R., Wang, R., van der Werf, G., Wickland, D., Williams, M. & Zehner, C. (2014) 
+Current systematic carbon-cycle observations and the need for implementing a policy-relevant carbon 
+observing system. Biogeosciences 11(13): 3547-3602. 
+Ciais, P., Paris, J. D., Marland, G., Peylin, P., Piao, S. L., Levin, I., Pregger, T., Scholz, Y., Friedrich, R., Rivier, 
+L., Houwelling, S., Schulze, E. D. & members of the, C. S. T. (2010) The European carbon balance. Part 1: 
+fossil fuel emissions. Global Change Biology 16(5): 1395-1408. 
+Conley, S., Faloona, I., Mehrotra, S., Suard, M., Lenschow, D., Sweeney, C., Herndon, S., Schwietzke, S., Petron, 
+G., Pifer, J., Kort, E. & Schnell, R. (2017) Application of Gauss's theorem to quantify localized surface 
+emissions from airborne measurements of wind and trace gases. Atmospheric Measurement Techniques 10(9): 
+3345-3358. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.35 
+DeCola P., Tarasova O., Brunner D., Maksyutov S., Manning A., Vogel F., Gurney K., et al. (2018) An Integrated 
+Global Greenhouse Gas Information System (IG3IS) Science Implementation Plan. Geneva: WMO. 
+Desjardins, R., Worth, D., Pattey, E., VanderZaag, A., Srinivasan, R., Mauder, M., Worthy, D., Sweeney, C. & 
+Metzger, S. (2018) The challenge of reconciling bottom-up agricultural methane emissions inventories with 
+top-down measurements. Agricultural and Forest Meteorology 248: 48-59. 
+Fang, X., Stohl, A., Yokouchi, Y., Kim, J., Li, S., Saito, T., Park, S. & Hu, J. (2015) Multiannual Top-Down 
+Estimate of HFC-23 Emissions in East Asia. Environmental Science & Technology 49(7): 4345-4353. 
+Fraser P., Dunse B., Krummel P., Steele P., Derek N. (2014) Australian HFC, PFC, Sulfur Hexafluoride and 
+Sulfuryl Fluoride emissions. Aspendale, Australia: Centre for Australian Weather and Climate Research, 
+CSIRO Oceans and Atmosphere Flagship. 
+Ganesan, A. L., Rigby, M., Lunt, M. F., Parker, R. J., Boesch, H., Goulding, N., Umezawa, T., Zahn, A., Chatterjee, 
+A., Prinn, R. G., Tiwari, Y. K., van der Schoot, M. & Krummel, P. B. (2017) Atmospheric observations show 
+accurate reporting and little growth in India’s methane emissions. Nature Communications 8(1): 836. 
+Government A. (2018) National Inventory Report 2016 Volume 1, Commonwealth of Australia. Department of the 
+Environment and Energy. 
+Graziosi, F., Arduini, J., Furlani, F., Giostra, U., Cristofanelli, P., Fang, X., Hermanssen, O., Lunder, C., Maenhout, 
+G., O'Doherty, S., Reimann, S., Schmidbauer, N., Vollmer, M., Young, D. & Maione, M. (2017) European 
+emissions of the powerful greenhouse gases hydrofluorocarbons inferred from atmospheric measurements and 
+their comparison with annual national reports to UNFCCC. Atmospheric Environment 158: 85-97. 
+Henne, S., Brunner, D., Oney, B., Leuenberger, M., Eugster, W., Bamberger, I., Meinhardt, F., Steinbacher, M. & 
+Emmenegger, L. (2016) Validation of the Swiss methane emission inventory by atmospheric observations and 
+inverse modelling. Atmospheric Chemistry and Physics 16(6): 3683-3710. 
+Henze, D., Hakami, A. & Seinfeld, J. (2007) Development of the adjoint of GEOS-Chem. Atmospheric Chemistry 
+and Physics 7(9): 2413-2433. 
+Hu, L., Montzka, S. A., Lehman, S. J., Godwin, D. S., Miller, B. R., Andrews, A. E., Thoning, K., Miller, J. B., 
+Sweeney, C., Siso, C., Elkins, J. W., Hall, B. D., Mondeel, D. J., Nance, D., Nehrkorn, T., Mountain, M., 
+Fischer, M. L., Biraud, S. C., Chen, H. & Tans, P. P. (2017) Considerable contribution of the Montreal Protocol 
+to declining greenhouse gas emissions from the United States. Geophysical Research Letters 44(15): 8075-
+8083. 
+Hu H., Landgraf J., Detmers R., Borsdorff T., de Brugh J., Aben I., Butz A., et al. (2018) Toward Global Mapping 
+of Methane With TROPOMI: First Results and Intersatellite Comparison to GOSAT. Geophysical Research 
+Letters 45: 3682-3689. 
+Jacob, D. J., Turner, A. J., Maasakkers, J. D., Sheng, J., Sun, K., Liu, X., Chance, K., Aben, I., McKeever, J. & 
+Frankenberg, C. (2016) Satellite observations of atmospheric methane and their value for quantifying methane 
+emissions. Atmos. Chem. Phys. 16(22): 14371-14396. 
+Janardanan, R., Maksyutov, S., Ito, A., Yukio, Y. & Matsunaga, T. (2017) Assessment of Anthropogenic Methane 
+Emissions over Large Regions Based on GOSAT Observations and High Resolution Transport Modeling. 
+Remote Sensing 9(9). 
+Janardanan, R., Maksyutov, S., Oda, T., Saito, M., Kaiser, J., Ganshin, A., Stohl, A., Matsunaga, T., Yoshida, Y. 
+& Yokota, T. (2016) Comparing GOSAT observations of localized CO2 enhancements by large emitters with 
+inventory-based estimates. Geophysical Research Letters 43(7): 3486-3493. 
+Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Muntean, M., Schaaf, E., Dentener, F., Bergamaschi, P., 
+Pagliari, V., Olivier, J. G. J., Peters, J. A. H. W., van Aardenne, J. A., Monni, S., Doering, U. & Petrescu, A. 
+M. R. (2017) EDGAR v4.3.2 Global Atlas of the three major Greenhouse Gas Emissions for the period 1970-
+2012. Earth Syst. Sci. Data Discuss. 2017: 1-55. 
+Jones, A., Thomson, D., Hort, M. & Devenish, B. (2007) The U.K. Met Office's Next-Generation Atmospheric 
+Dispersion Model, NAME III. Air Pollution Modeling and Its Application XVII, eds. C. Borrego & A.-L. 
+Norman, pp. 580-589. Boston, MA: Springer US. 
+Keeling, R. F. (1988) Measuring correlations between atmospheric oxygen and carbon dioxide mole fractions: A 
+preliminary study in urban air. Journal of Atmospheric Chemistry 7(2): 153-176. 
+Keller, C. A., Brunner, D., Henne, S., Vollmer, M. K., O'Doherty, S. & Reimann, S. (2011) Evidence for under-
+reported western European emissions of the potent greenhouse gas HFC-23. Geophysical Research Letters 
+38(15). 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Kim, J., Li, S., Kim, K., Stohl, A., Muhle, J., Kim, S., Park, M., Kang, D., Lee, G., Harth, C., Salameh, P. & Weiss, 
+R. (2010) Regional atmospheric emissions determined from measurements at Jeju Island, Korea: Halogenated 
+compounds from China. Geophysical Research Letters 37. 
+Kulawik, S., et al. (2016). "Consistent evaluation of ACOS-GOSAT, BESD-SCIAMACHY, CarbonTracker, and 
+MACC through comparisons to TCCON." Atmospheric Measurement Techniques 9(2): 683-709. 
+Lauvaux, T., Miles, N., Deng, A., Richardson, S., Cambaliza, M., Davis, K., Gaudet, B., Gurney, K., Huang, J., 
+O'Keefe, D., Song, Y., Karion, A., Oda, T., Patarasuk, R., Razlivanov, I., Sarmiento, D., Shepson, P., Sweeney, 
+C., Turnbull, J. & Wu, K. (2016) High-resolution atmospheric inversion of urban CO2 emissions during the 
+dormant season of the Indianapolis Flux Experiment (INFLUX). Journal of Geophysical Research-
+Atmospheres 121(10): 5213-5236. 
+Levin, I., Kromer, B., Schmidt, M. & Sartorius, H. (2003) A novel approach for independent budgeting of fossil 
+fuel CO2 over Europe by (CO2)-C-14 observations. Geophysical Research Letters 30(23). 
+Levin, I., Naegler, T., Heinz, R., Osusko, D., Cuevas, E., Engel, A., Ilmberger, J., Langenfelds, R., Neininger, B., 
+Von Rohden, C., Steele, L., Weller, R., Worthy, D. & Zimov, S. (2010) The global SF6 source inferred from 
+long-term high precision atmospheric measurements and its comparison with emission inventories. 
+Atmospheric Chemistry and Physics 10(6): 2655-2662. 
+Lin, J., Gerbig, C., Wofsy, S., Andrews, A., Daube, B., Davis, K. & Grainger, C. (2003) A near-field tool for 
+simulating the upstream influence of atmospheric observations: The Stochastic Time-Inverted Lagrangian 
+Transport (STILT) model. Journal of Geophysical Research-Atmospheres 108(D16). 
+Lopez-Coto, I., Ghosh, S., Prasad, K. & Whetstone, J. (2017) Tower-based greenhouse gas measurement network 
+design - The National Institute of Standards and Technology North East Corridor Testbed. Advances in 
+Atmospheric Sciences 34(9): 1095-1105. 
+Maasakkers, J., Jacob, D., Sulprizio, M., Turner, A., Weitz, M., Wirth, T., Hight, C., DeFigueiredo, M., Desai, M., 
+Schmeltz, R., Hockstad, L., Bloom, A., Bowman, K., Jeong, S. & Fischer, M. (2016) Gridded National 
+Inventory of US Methane Emissions. Environmental Science & Technology 50(23): 13123-13133. 
+Manning, A.J., O'Doherty, S., Jones, A. R., Simmonds, P. G. & Derwent, R. G. (2011) Estimating UK methane 
+and nitrous oxide emissions from 1990 to 2007 using an inversion modeling approach. Journal of Geophysical 
+Research 116(D2). 
+Manning A.J., Stanley K., Redington A., O’Doherty S., Young D. (2017) Methodology Report Verification of 
+Emissions using Atmospheric Observations. BEIS. 
+Matsunaga T., Maksyutov S. (2018) A Guidebook on the Use of Satellite Greenhouse Gases Observation Data to 
+Evaluate and Improve Greenhouse Gas Emission Inventories. Japan: Satellite Observation Center, National 
+Institute for Environmental Studies. 
+McKain, K., Down, A., Raciti, S., Budney, J., Hutyra, L., Floerchinger, C., Herndon, S., Nehrkorn, T., Zahniser, 
+M., Jackson, R., Phillips, N. & Wofsy, S. (2015) Methane emissions from natural gas infrastructure and use in 
+the urban region of Boston, Massachusetts. Proceedings of the National Academy of Sciences of the United 
+States of America 112(7): 1941-1946. 
+Miller, S., Kort, E., Hirsch, A., Dlugokencky, E., Andrews, A., Xu, X., Tian, H., Nehrkorn, T., Eluszkiewicz, J., 
+Michalak, A. & Wofsy, S. (2012) Regional sources of nitrous oxide over the United States: Seasonal variation 
+and spatial distribution. Journal of Geophysical Research-Atmospheres 117. 
+Miller, S. & Michalak, A. (2017) Constraining sector-specific CO2 and CH4 emissions in the US. Atmospheric 
+Chemistry and Physics 17(6): 3963-3985. 
+Miller, S., Wofsy, S., Michalak, A., Kort, E., Andrews, A., Biraud, S., Dlugokencky, E., Eluszkiewicz, J., Fischer, 
+M., Janssens-Maenhout, G., Miller, B., Miller, J., Montzka, S., Nehrkorn, T. & Sweeney, C. (2013) 
+Anthropogenic emissions of methane in the United States. Proceedings of the National Academy of Sciences 
+of the United States of America 110(50): 20018-20022. 
+Minejima, C., Kubo, M., Tohjima, Y., Yamagishi, H., Koyama, Y., Maksyutov, S., Kita, K. & Mukai, H. (2012) 
+Analysis of Delta O-2/Delta CO2 ratios for the pollution events observed at Hateruma Island, Japan. 
+Atmospheric Chemistry and Physics 12(5): 2713-2723. 
+Montzka, S., Dutton, G., Yu, P., Ray, E., Portmann, R., Daniel, J., Kuijpers, L., Hall, B., Mondeel, D., Siso, C., 
+Nance, D., Rigby, M., Manning, A., Hu, L., Moore, F., Miller, B. & Elkins, J. (2018) An unexpected and 
+persistent increase in global emissions of ozone-depleting CFC-11. Nature 557(7705): 413-417. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.37 
+Nassar, R., Hill, T., McLinden, C., Wunch, D., Jones, D. & Crisp, D. (2017) Quantifying CO2 Emissions From 
+Individual Power Plants From Space. Geophysical Research Letters 44(19): 10045-10053. 
+Nickless, A., Ziehn, T., Rayner, P., Scholes, R. & Engelbrecht, F. (2015) Greenhouse gas network design using 
+backward Lagrangian particle dispersion modelling - Part 2: Sensitivity analyses and South African test case. 
+Atmospheric Chemistry and Physics 15(4): 2051-2069. 
+O'Doherty, S., Cunnold, D., Manning, A., Miller, B., Wang, R., Krummel, P., Fraser, P., Simmonds, P., McCulloch, 
+A., Weiss, R., Salameh, P., Porter, L., Prinn, R., Huang, J., Sturrock, G., Ryall, D., Derwent, R. & Montzka, S. 
+(2004) Rapid growth of hydrofluorocarbon 134a and hydrochlorofluorocarbons 141b, 142b, and 22 from 
+Advanced Global Atmospheric Gases Experiment (AGAGE) observations at Cape Grim, Tasmania, and Mace 
+Head, Ireland. Journal of Geophysical Research-Atmospheres 109(D6). 
+Ogle, S., Davis, K., Lauvaux, T., Schuh, A., Cooley, D., West, T., Heath, L., Miles, N., Richardson, S., Breidt, F., 
+Smith, J., McCarty, J., Gurney, K., Tans, P. & Denning, A. (2015) An approach for verifying biogenic 
+greenhouse gas emissions inventories with atmospheric CO2 concentration data. Environmental Research 
+Letters 10(3). 
+Pinty B., Janssens-Maenhout G., Dowell M., Zunker H., Brunhes T., Ciais P., Dee D., et al. (2017) An Operational 
+Anthropogenic CO₂ Emissions Monitoring & Verification Support capacity - Baseline Requirements, Model 
+Components and Functional Architecture. European Commission Joint Research Centre. 
+Pison, I., Berchet, A., Saunois, M., Bousquet, P., Broquet, G., Conil, S., Delmotte, M., Ganesan, A., Laurent, O., 
+Martin, D., O'Doherty, S., Ramonet, M., Spain, T., Vermeulen, A. & Kwok, C. (2018) How a European 
+network may help with estimating methane emissions on the French national scale. Atmospheric Chemistry 
+and Physics 18(5): 3779-3798. 
+Prinn, R. G., Weiss, R. F., Arduini, J., Arnold, T., DeWitt, H. L., Fraser, P. J., Ganesan, A. L., Gasore, J., Harth, 
+C. M., Hermansen, O., Kim, J., Krummel, P. B., Li, S., Loh, Z. M., Lunder, C. R., Maione, M., Manning, A. 
+J., Miller, B. R., Mitrevski, B., Mühle, J., O'Doherty, S., Park, S., Reimann, S., Rigby, M., Saito, T., Salameh, 
+P. K., Schmidt, R., Simmonds, P. G., Steele, L. P., Vollmer, M. K., Wang, R. H., Yao, B., Yokouchi, Y., Young, 
+D. & Zhou, L. (2018) History of chemically and radiatively important atmospheric gases from the Advanced 
+Global Atmospheric Gases Experiment (AGAGE). Earth Syst. Sci. Data 10(2): 985-1018. 
+Rice, A., Butenhoff, C., Teama, D., Roger, F., Khalil, M. & Rasmussen, R. (2016) Atmospheric methane isotopic 
+record favors fossil sources flat in 1980s and 1990s with recent increase. Proceedings of the National Academy 
+of Sciences of the United States of America 113(39): 10791-10796. 
+Rypdal, K. & Winiwarter, W. (2001) Uncertainties in greenhouse gas emission inventories - evaluation, 
+comparability and implications. Environmental Science & Policy 4(2): 107-116. 
+Saito, M., Kim, H., Ito, A., Yokota, T. & Maksyutov, S. (2016) Enhanced Methane Emissions during Amazonian 
+Drought by Biomass Burning. Plos One 11(11). 
+Saunois, M., Bousquet, P., Poulter, B., Peregon, A., Ciais, P., Canadell, J., Dlugokencky, E., Etiope, G., Bastviken, 
+D., Houweling, S., Janssens-Maenhout, G., Tubiello, F., Castaldi, S., Jackson, R., Alexe, M., Arora, V., 
+Beerling, D., Bergamaschi, P., Blake, D., Brailsford, G., Brovkin, V., Bruhwiler, L., Crevoisier, C., Crill, P., 
+Covey, K., Curry, C., Frankenberg, C., Gedney, N., Hoglund-Isaksson, L., Ishizawa, M., Ito, A., Joos, F., Kim, 
+H., Kleinen, T., Krummel, P., Lamarque, J., Langenfelds, R., Locatelli, R., Machida, T., Maksyutov, S., 
+McDonald, K., Marshall, J., Melton, J., Morino, I., Naik, V., O'Doherty, S., Parmentier, F., Patra, P., Peng, C., 
+Peng, S., Peters, G., Pison, I., Prigent, C., Prinn, R., Ramonet, M., Riley, W., Saito, M., Santini, M., Schroeder, 
+R., Simpson, I., Spahni, R., Steele, P., Takizawa, A., Thornton, B., Tian, H., Tohjima, Y., Viovy, N., 
+Voulgarakis, A., van Weele, M., van der Werf, G., Weiss, R., Wiedinmyer, C., Wilton, D., Wiltshire, A., 
+Worthy, D., Wunch, D., Xu, X., Yoshida, Y., Zhang, B., Zhang, Z. & Zhu, Q. (2016) The global methane 
+budget 2000-2012. Earth System Science Data 8(2): 697-751. 
+Schwietzke, S., Sherwood, O., Ruhwiler, L., Miller, J., Etiope, G., Dlugokencky, E., Michel, S., Arling, V., 
+Vaughn, B., White, J. & Tans, P. (2016) Upward revision of global fossil fuel methane emissions based on 
+isotope database. Nature 538(7623): 88-91. 
+Segers A., Houweling S. (2017) Description of the CH4 Inversion Production Chain. Copernicus Atmosphere 
+Monitoring Service. 
+Staufer, J., Broquet, G., Breon, F., Puygrenier, V., Chevallier, F., Xueref-Remy, I., Dieudonne, E., Lopez, M., 
+Schmidt, M., Ramonet, M., Perrussel, O., Lac, C., Wu, L. & Ciais, P. (2016) The first 1-year-long estimate of 
+the Paris region fossil fuel CO2 emissions based on atmospheric inversion. Atmospheric Chemistry and Physics 
+16(22): 14703-14726. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+6.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Steinkamp, K., Fletcher, S., Brailsford, G., Smale, D., Moore, S., Keller, E., Baisden, W., Mukai, H. & Stephens, 
+B. (2017) Atmospheric CO2 observations and models suggest strong carbon uptake by forests in New Zealand. 
+Atmospheric Chemistry and Physics 17(1): 47-76. 
+Stemmler, K., Folini, D., Ubl, S., Vollmer, M., Reimann, S., Doherty, S., Greally, B., Simmonds, P. & Manning, 
+A. (2007) European emissions of HFC-365mfc, a chlorine-free substitute for the foam blowing agents HCFC-
+141b and CFC-11. Environmental Science & Technology 41(4): 1145-1151. 
+Stohl, A., Forster, C., Frank, A., Seibert, P. & Wotawa, G. (2005) Technical note: The Lagrangian particle 
+dispersion model FLEXPART version 6.2. Atmospheric Chemistry and Physics 5(9): 2461-2474. 
+Stohl, A., Seibert, P., Arduini, J., Eckhardt, S., Fraser, P., Greally, B. R., Lunder, C., Maione, M., Mühle, J., 
+O'Doherty, S., Prinn, R. G., Reimann, S., Saito, T., Schmidbauer, N., Simmonds, P. G., Vollmer, M. K., Weiss, 
+R. F. & Yokouchi, Y. (2009) An analytical inversion method for determining regional and global emissions of 
+greenhouse gases: Sensitivity studies and application to halocarbons. Atmospheric Chemistry and Physics 9(5): 
+1597-1620. 
+Thompson R. (2017) Description of the N2O inversion production chain. Reading: Copernicus Atmosphere 
+Monitoring Service. 
+Thompson, R. & Stohl, A. (2014) FLEXINVERT: an atmospheric Bayesian inversion framework for determining 
+surface fluxes of trace species using an optimized grid. Geoscientific Model Development 7(5): 2223-2242. 
+Thompson, R., Stohl, A., Zhou, L., Dlugokencky, E., Fukuyama, Y., Tohjima, Y., Kim, S., Lee, H., Nisbet, E., 
+Fisher, R., Lowry, D., Weiss, R., Prinn, R., O'Doherty, S., Young, D. & White, J. (2015) Methane emissions 
+in East Asia for 2000-2011 estimated using an atmospheric Bayesian inversion. Journal of Geophysical 
+Research-Atmospheres 120(9): 4352-4369. 
+Tohjima, Y., Kubo, M., Minejima, C., Mukai, H., Tanimoto, H., Ganshin, A., Maksyutov, S., Katsumata, K., 
+Machida, T. & Kita, K. (2014) Temporal changes in the emissions of CH4 and CO from China estimated from 
+CH4/CO2 and CO/CO2 correlations observed at Hateruma Island. Atmospheric Chemistry and Physics 14(3): 
+1663-1677. 
+Tsagatakis I., Brace S., Passant N., Pearson B., Kiff B., Richardson J., Ruddy M. (2017) UK Emission Mapping 
+Methodology - A report of the National Atmospheric Emission Inventory 2015. London: Ricardo Energy & 
+Environment. 
+Turner, A., Jacob, D., Wecht, K., Maasakkers, J., Lundgren, E., Andrews, A., Biraud, S., Boesch, H., Bowman, 
+K., Deutscher, N., Dubey, M., Griffith, D., Hase, F., Kuze, A., Notholt, J., Ohyama, H., Parker, R., Payne, V., 
+Sussmann, R., Sweeney, C., Velazco, V., Warneke, T., Wennberg, P. & Wunch, D. (2015) Estimating global 
+and North American methane emissions with high spatial resolution using GOSAT satellite data. Atmospheric 
+Chemistry and Physics 15(12): 7049-7069. 
+Van der Laan-Luijkx, I. T., van der Velde, I. R., van der Veen, E., Tsuruta, A., Stanislawska, K., Babenhauserheide, 
+A., Zhang, H. F., Liu, Y., He, W., Chen, H., Masarie, K. A., Krol, M. C. & Peters, W. (2017) The 
+CarbonTracker Data Assimilation Shell (CTDAS) v1.0: implementation and global carbon balance 2001–2015. 
+Geosci. Model Dev. 10(7): 2785-2800. 
+Viatte, C., Lauvaux, T., Hedelius, J. K., Parker, H., Chen, J., Jones, T., Franklin, J. E., Deng, A. J., Gaudet, B., 
+Verhulst, K., Duren, R., Wunch, D., Roehl, C., Dubey, M. K., Wofsy, S. & Wennberg, P. O. (2017) Methane 
+emissions from dairies in the Los Angeles Basin. Atmos. Chem. Phys. 17(12): 7509-7528. 
+Vollmer, M., Miller, B., Rigby, M., Reimann, S., Muhle, J., Krummel, P., O'Doherty, S., Kim, J., Rhee, T., Weiss, 
+R., Fraser, P., Simmonds, P., Salameh, P., Harth, C., Wang, R., Steele, L., Young, D., Lunder, C., Hermansen, 
+O., Ivy, D., Arnold, T., Schmidbauer, N., Kim, K., Greally, B., Hill, M., Leist, M., Wenger, A. & Prinn, R. 
+(2011) Atmospheric histories and global emissions of the anthropogenic hydrofluorocarbons HFC-365mfc, 
+HFC-245fa, HFC-227ea, and HFC-236fa. Journal of Geophysical Research-Atmospheres 116. 
+Yver-Kwok, C., Muller, D., Caldow, C., Lebegue, B., Monster, J., Rella, C., Scheutz, C., Schmidt, M., Ramonet, 
+M., Warneke, T., Broquet, G. & Ciais, P. (2015) Methane emission estimates using chamber and tracer release 
+experiments for a municipal waste water treatment plant. Atmospheric Measurement Techniques 8(7): 2853-
+2867. 
+Zavala-Araiza, D., Lyon, D., Alvarez, R., Davis, K., Harriss, R., Herndon, S., Karion, A., Kort, E., Lamb, B., Lan, 
+X., Marchese, A., Pacala, S., Robinson, A., Shepson, P., Sweeney, C., Talbot, R., Townsend-Small, A., 
+Yacovitch, T., Zimmerle, D. & Hamburg, S. (2015) Reconciling divergent estimates of oil and gas methane 
+emissions. Proceedings of the National Academy of Sciences of the United States of America 112(51): 15597-
+15602. 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.39 
+Annex 6A.1 QC checklists 
+FORMS AND CHECKLISTS FOR QUALITY CONTROL 
+FOR SPECIFIC SOURCE CATEGORIES 
+This annex contains a number of example forms that provide means to record both general and category-specific 
+QC activities. These forms are only examples, and inventory compilers may find other means to effectively record 
+their QA/QC activities (to be defined in the QA/QC plan). Refer to the 2006 IPCC Guidelines chapters on QA/QC 
+and Verification, Data Collection, and for each category as described in Volumes 2-5 for more detailed guidance 
+on developing QC checks. 
+ 
+A1. GENERAL QC CHECKLIST  
+(to be completed for each category and for each inventory) 
+ 
+A2. CATEGORY-SPECIFIC QC CHECKLIST  
+(CHECKS TO BE DESIGNED FOR EACH CATEGORY) 
+ 
+Part A: Data Gathering and Selection 
+Part B: Secondary Data and Direct Emission Measurement 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+6.40 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1. GENERAL QC CHECKLIST 
+ 
+Inventory Report: ___________ Source/Sink Category24: ___________________________________________   
+ 
+Title(s) and Date(s) of Inventory Spreadsheet(s): __________________________________________________  
+ 
+Source (sink) category estimates prepared by (name/affiliation): ______________________________________  
+ 
+INSTRUCTIONS FOR COMPLETING THIS FORM:  
+This form is to be completed for each source/sink category, and provides a record of the checks performed and 
+any corrective actions taken. The form may be completed by hand or electronically. The form should be distributed 
+and filed according as specified in the QA/QC plan. If appropriate actions to correct any errors that are found are 
+not immediately apparent, the QC staff performing the check should discuss the results according to the procedures 
+predefined in the QA/QC plan.  
+The first page of this form summarises the results of the checks (once completed) and highlights any significant 
+findings or actions. The remaining pages in this form list categories of checks to be performed. The analyst has 
+discretion over how the checks are implemented. Not all checks will be applicable to every category. Checks/rows 
+that are not relevant or not available should indicate ‘n/r’ (not relevant) or ‘n/a’ (not available) so that no check 
+and no row is left blank or deleted. Rows for additional checks that are relevant to the source/sink category should 
+be added to the form.  
+The column for supporting documentation should be used to reference any relevant Supplemental Reports or 
+Contact Reports providing additional information.  
+ 
+ 
+Summary of general QC checks and corrective action 
+Summary of results of checks and corrective actions taken:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suggested checks to be performed in the future:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Any residual problems after corrective actions have been 
+taken:  
+ 
+ 
+ 
+ 
+ 
+                                                           
+24 Use IPCC recognized source/sink category names. See Table 8.2 of Chapter 8.  
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.41 
+Checklist for general QC checks (complete table for each category): 
+ 
+Item 
+Check completed 
+Corrective action 
+Supporting 
+documents 
+(provide 
+reference) 
+Date 
+Individual 
+(first initial, 
+last name) 
+Errors 
+(Y/N) 
+Date 
+Individual 
+(first initial, 
+last name) 
+DATA GATHERING, INPUT, AND HANDLING ACTIVITIES: QUALITY CHECKS 
+   1. 
+Check a sample of input data 
+for transcription errors 
+ 
+ 
+ 
+ 
+ 
+ 
+   2. 
+Review spreadsheets with 
+computerised checks and/or 
+quality check reports 
+ 
+ 
+ 
+ 
+ 
+ 
+   3. 
+Identify spreadsheet 
+modifications that could 
+provide additional controls 
+or checks on quality 
+ 
+ 
+ 
+ 
+ 
+ 
+   4.  
+Other (specify): 
+ 
+ 
+ 
+ 
+ 
+ 
+DATA DOCUMENTATION: QUALITY CHECKS 
+   5. 
+Check project file for 
+completeness 
+ 
+ 
+ 
+ 
+ 
+ 
+   6.   
+Confirm that bibliographical 
+data references are included 
+(in spreadsheet) for every 
+primary data element  
+ 
+ 
+ 
+ 
+ 
+ 
+   7.  
+Check that all appropriate 
+citations from the 
+spreadsheets appear in the 
+inventory document 
+ 
+ 
+ 
+ 
+ 
+ 
+   8.  
+Check that all citations in 
+spreadsheets and inventory 
+are complete (i.e., include all 
+relevant information) 
+ 
+ 
+ 
+ 
+ 
+ 
+   9.  
+Randomly check 
+bibliographical citations for 
+transcription errors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10.  
+Check that originals of new 
+citations are in current 
+docket submittal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11.  
+Randomly check that the 
+originals of citations 
+(including Contact Reports) 
+contain the material & 
+content referenced  
+ 
+ 
+ 
+ 
+ 
+ 
+ 12.  
+Check that assumptions and 
+criteria for selection of 
+activity data, emission 
+factors and other estimation 
+parameters are documented 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13.  
+Check that changes in data 
+or methodology are 
+documented 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.  
+  
+Check that citations in 
+spreadsheets and inventory 
+document conform to 
+acceptable style guidelines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15. 
+Other (specify): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+6.42 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Checklist for general QC checks (complete table for each category) (Continued): 
+ 
+Item 
+Check completed 
+Corrective action 
+Supporting 
+documents 
+(provide 
+reference) 
+Date 
+Individual 
+(first initial, 
+last name) 
+Errors 
+(Y/N) 
+Date 
+Individual 
+(first initial, 
+last name) 
+CALCULATING EMISSIONS AND CHECKING CALCULATIONS 
+16. 
+Check that all calculations are 
+included (instead of presenting 
+results only) 
+ 
+ 
+ 
+ 
+ 
+ 
+17. 
+Check whether units, 
+parameters, and conversion 
+factors are presented 
+appropriately  
+ 
+ 
+ 
+ 
+ 
+ 
+18. 
+Check if units are properly 
+labelled and correctly carried 
+through from beginning to end 
+of calculation 
+ 
+ 
+ 
+ 
+ 
+ 
+19. 
+Check that conversion factors 
+are correct 
+ 
+ 
+ 
+ 
+ 
+ 
+20. 
+Check that temporal and 
+spatial adjustment factors are 
+used correctly 
+ 
+ 
+ 
+ 
+ 
+ 
+21. 
+Check the data relationships 
+(comparability) and data 
+processing steps (e.g., 
+equations) in the spreadsheets 
+ 
+ 
+ 
+ 
+ 
+ 
+22. 
+Check that spreadsheet input 
+data and calculated data are 
+clearly differentiated 
+ 
+ 
+ 
+ 
+ 
+ 
+23. 
+Check a representative sample 
+of calculations, by hand or 
+electronically 
+ 
+ 
+ 
+ 
+ 
+ 
+24. 
+Check some calculations with 
+abbreviated calculations 
+ 
+ 
+ 
+ 
+ 
+ 
+25. 
+Check the aggregation of data 
+within a category 
+ 
+ 
+ 
+ 
+ 
+ 
+26. 
+When methods or data have 
+changed, check consistency of 
+time series inputs and 
+calculations 
+ 
+ 
+ 
+ 
+ 
+ 
+27. 
+Check current year estimates 
+against previous years (if 
+available) and investigate 
+unexplained departures from 
+trend 
+ 
+ 
+ 
+ 
+ 
+ 
+28. 
+Check value of implied 
+emission/removal factors 
+across time series and 
+investigate unexplained 
+outliers 
+ 
+ 
+ 
+ 
+ 
+ 
+29. 
+Check for any unexplained or 
+unusual trends for activity data 
+or other calculation 
+parameters in time series 
+ 
+ 
+ 
+ 
+ 
+ 
+30. 
+Check for consistency with 
+IPCC inventory guidelines and 
+good practices, particularly if 
+changes occur  
+ 
+ 
+ 
+ 
+ 
+ 
+31. 
+Other (specify): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.43 
+A2. CATEGORY-SPECIFIC QC CHECKLIST 
+ 
+Inventory Report: ___________ Source/sink Category25: ___________________________________________  
+ 
+Key category (or includes a key subcategory): (Y/N): ______________________________________________  
+ 
+Title(s) and Date(s) of Inventory Spreadsheet(s): __________________________________________________  
+ 
+Category estimates prepared by (name/affiliation): ________________________________________________  
+ 
+GENERAL INSTRUCTIONS FOR COMPLETING THIS FORM:  
+Category-specific checks focus on the particular data and methodology used for an individual source or sink 
+category. The specificity and frequency of these checks will vary across source categories. The form may be 
+completed by hand or electronically. Once completed, the form should be saved and included as part of the 
+inventory archive, as defined in the QA/QC plan.  
+The first table on this form summarises generally the results of the category-specific checks and highlights any 
+significant findings or corrective actions. The remaining pages in this form list categories of checks to be 
+performed or types of questions to be asked. Part A checks are designed to identify potential problems in the 
+estimates, factors, and activity data. Part B checks focus on the quality of secondary data and direct emission 
+measurement. The analyst has discretion over how the checks are implemented. Checks/rows that are not relevant 
+or not available should indicate ‘n/r’ (not relevant) or ‘n/a’ (not available) so that no check and no row is left blank 
+or deleted. Rows for additional checks that are relevant to the category should be added to the form.  
+The column for supporting documentation should be used to reference any relevant Supplemental Reports or 
+Contact Reports that provide additional information. Other sources may be included here, if they can be clearly 
+referenced. Any documents associated with the category specific plan should be clearly referenced in the column 
+for supporting documentation. 
+ 
+ 
+ 
+                                                           
+25 Use IPCC recognized source/sink category names. 
+Summary of category-specific QC activities 
+Summary of results of checks and corrective actions taken:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suggested checks to be performed in the future:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Any residual problems after corrective actions have been 
+taken:  
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+6.44 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ADDITIONAL INSTRUCTIONS FOR PART A:  
+The checklist below indicates the types of checks and comparisons that can be performed and is not intended to 
+be exhaustive. Supplemental Reports, Contact Reports, or other documents may be used to report detailed 
+information on the checks conducted. For example, a Supplemental Report could provide information on the 
+variables or sub-variables checked, comparisons made, conclusions that were drawn and rationale for conclusions, 
+sources of information (published, unpublished, meetings, etc.) consulted, and corrective actions required. 
+Category-specific checklist - Part A: Data gathering and selection 
+ 
+Item 
+Check completed 
+Corrective action 
+Supporting 
+documents 
+(provide 
+reference) 
+Date 
+Individual 
+(first initial, 
+last name) 
+Errors 
+(Y/N) 
+Date 
+Individual 
+(first initial, 
+last name) 
+EMISSION DATA QUALITY CHECKS 
+1. 
+Emission comparisons: 
+historical data for source, 
+significant sub-source 
+categories 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+Checks against independent 
+estimates or estimates based 
+on alternative methods 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+Reference calculations 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+Completeness  
+ 
+ 
+ 
+ 
+ 
+ 
+5. 
+Other (detailed checks) 
+ 
+ 
+ 
+ 
+ 
+ 
+EMISSION FACTOR QUALITY CHECK 
+6. 
+Assess representativeness of 
+emission factors, given 
+national circumstances and 
+analogous emissions data 
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+Compare to alternative factors 
+(e.g., IPCC default, cross-
+country, literature) 
+ 
+ 
+ 
+ 
+ 
+ 
+8. 
+Search for options for more 
+representative data 
+ 
+ 
+ 
+ 
+ 
+ 
+9. 
+Other (detailed checks) 
+ 
+ 
+ 
+ 
+ 
+ 
+ACTIVITY DATA QUALITY CHECK: NATIONAL LEVEL ACTIVITY DATA 
+10. 
+Check historical trends 
+ 
+ 
+ 
+ 
+ 
+ 
+11. 
+Compare multiple reference 
+sources 
+ 
+ 
+ 
+ 
+ 
+ 
+12. 
+Check applicability of data 
+ 
+ 
+ 
+ 
+ 
+ 
+13. 
+Check methodology for filling 
+in time series for data that are 
+not available annually 
+ 
+ 
+ 
+ 
+ 
+ 
+14. 
+Other (detailed checks) 
+ 
+ 
+ 
+ 
+ 
+ 
+ACTIVITY DATA QUALITY CHECK: SITE-SPECIFIC ACTIVITY DATA 
+15. 
+Check for inconsistencies 
+across sites 
+ 
+ 
+ 
+ 
+ 
+ 
+16. 
+Compare aggregated and 
+national data 
+ 
+ 
+ 
+ 
+ 
+ 
+17. 
+Other (detailed checks) 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 6: QA/QC and Verification 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+6.45 
+ADDITIONAL INSTRUCTIONS FOR PART B:  
+Completing the QC checks on secondary data and direct emission measurement may require consulting the primary 
+data sources or authors. The checklist below is intended to be indicative, not exhaustive. Additional information 
+on appropriate checks can be found in the QA/QC, Data Collection, and sectoral chapters of the 2006 IPCC 
+Guidelines.  
+Additional documentation is likely to be necessary to record the specific actions taken to check the data underlying 
+the category estimates. For example, Supplemental Reports may be needed to record the data or variables that 
+were checked, and the published references and individuals or organisations consulted as part of the investigation. 
+Contact Reports should be used to report the details of personal communications. Supplemental Reports may also 
+be used to explain the rationale for a finding reported in the summary, the results of research into the QC procedures 
+associated with a survey, or checks of site measurement procedures. Be sure to provide references to all supporting 
+documentation. 
+Category-specific checklist - Part B: Secondary data and direct emission measurement  
+Item 
+Check completed 
+Corrective action 
+Supporting 
+documents 
+(provide 
+reference) 
+Date 
+Individual 
+(first initial, 
+last name) 
+Errors 
+(Y/N) 
+Date 
+Individual 
+(first initial, 
+last name) 
+SECONDARY DATA: SAMPLE QUESTIONS REGARDING THE QUALITY OF INPUT DATA 
+1. 
+Are QC activities conducted during 
+the original preparation of the data 
+(either as reported in published 
+literature or as indicated by personal 
+communications) consistent with and 
+adequate when compared against (as 
+a minimum), general QC activities? 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+Does the statistical agency have a 
+QA/QC plan that covers the 
+preparation of the data? 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+For surveys, what sampling protocols 
+were used and how recently were 
+they reviewed? 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+For site-specific activity data, are any 
+national or international standards 
+applicable to the measurement of the 
+data? If so, have they been 
+employed? 
+ 
+ 
+ 
+ 
+ 
+ 
+5. 
+Have uncertainties in the data been 
+estimated and documented? 
+ 
+ 
+ 
+ 
+ 
+ 
+6. 
+Have any limitations of the secondary 
+data been identified and documented, 
+such as biases or incomplete 
+estimates? Have errors been found? 
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+Have the secondary data undergone 
+peer review and, if so, of what 
+nature? 
+ 
+ 
+ 
+ 
+ 
+ 
+8. 
+Other (detailed checks) 
+ 
+ 
+ 
+ 
+ 
+ 
+DIRECT EMISSION MEASUREMENT: CHECKS ON PROCEDURES TO MEASURE EMISSIONS 
+9. 
+Identify which variables rely on 
+direct emission measurement 
+ 
+ 
+ 
+ 
+ 
+ 
+10. 
+Check procedures used to measure 
+emissions, including sampling 
+procedures, equipment calibration 
+and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+11. 
+Identify whether standard procedures 
+have been used, where they exist 
+(such as IPCC methods or ISO 
+standards) 
+ 
+ 
+ 
+ 
+ 
+ 
+12. 
+Other (detailed checks) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,614 @@
+ 
+ 
+GLOSSARY 
+Glossary 
+ 
+G.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Accuracy 
+Accuracy is a relative measure of the exactness of an emission or removal estimate. Estimates should be accurate 
+in the sense that they are systematically neither over nor under true emissions or removals, so far as can be 
+judged, and that uncertainties are reduced so far as is practicable. Appropriate methodologies conforming to 
+guidance on good practices should be used to promote accuracy in inventories. Accuracy should be 
+distinguished from precision as illustrated below.  
+Illustration of Accuracy and Precision: (a) inaccurate but precise; (b) inaccurate and imprecise; (c) accurate 
+but imprecise; and (d) precise and accurate. 
+       
+ 
+ 
+ 
+ 
+                        (a)                                       (b)                                       (c)                                      (d) 
+ 
+Activity 
+A practice or ensemble of practices that take place on a delineated area over a given period of time. 
+Activity data 
+Data on the magnitude of a human activity resulting in emissions or removals taking place during a given period 
+of time. Data on energy use, metal production, land areas, management systems, lime and fertilizer use and 
+waste arisings are examples of activity data.  
+Anaerobic 
+Conditions in which oxygen is not readily available. These conditions are important for the production of 
+methane emissions. Whenever organic material decomposes in anaerobic conditions (in landfills, flooded rice 
+fields, etc.) methane is likely to be formed. 
+Andosol 
+A soil developed in volcanic ash. Generally andosols have good drainage and are prone to fertility problems. 
+Arithmetic mean 
+The sum of the values divided by the number of values. 
+ 
+Auto producer 
+An enterprise which generates electricity or heat for its own use and/or sells it as a secondary activity i.e., not as 
+its main business. 
+Back-casting 
+The opposite of forecasting. Predicting conditions in the past from current conditions. 
+Backflows 
+By-product oils from petrochemical processing of refinery products which are generally returned to the refinery 
+for further processing into petroleum products. 
+Base year 
+The starting year for the inventory. Currently this is typically 1990.  
+Bias  
+A systematic error of the observation method, whose magnitude in most cases is unknown. It can be introduced 
+by using measuring equipment that is improperly calibrated, by selecting items from a wrong population or by 
+favouring certain elements of a population, etc. For example: Estimating the total fugitive emission from gas 
+transport and distribution using only measurements of leakage from high/medium pressure pipelines can lead to 
+bias if the leakage in the lower pressure distribution network (which is significantly more difficult to measure) is 
+neglected. 
+ 
+ 
+ 
+Glossary 
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+G.3
+Biofuels  
+Any fuels derived from biomass, either deliberately grown or from waste products. Peat is not considered a 
+biofuel in these guidelines due to the length of time required for peat to re-accumulate after harvest. 
+Biogenic carbon  
+ 
+Carbon derived from biogenic (plant or animal) sources excluding fossil carbon. Note that peat is treated as a 
+fossil carbon in these guidelines as it takes so long to replace harvested peat. 
+Biological treatment of waste 
+Composting and anaerobic digestion of organic wastes, such as food waste, garden/park waste and sludge, to 
+reduce volume in the waste material, stabilisation of waste, and destruction of pathogens in the waste material. 
+This includes mechanical-biological treatment. 
+Biomass  
+(1) The total mass of living organisms in a given area or of a given species usually expressed as dry weight. 
+(2) Organic matter consisting of or recently derived from living organisms (espically regarded as fuel) 
+excluding peat. Includes products, by-products and waste derived from such material. 
+Blowing agent (for foam production) 
+A gas, volatile liquid, or chemical that generates gas during the foaming process. The gas creates bubbles or cells 
+in the plastic structure of a foam. 
+Bootstrap technique 
+Bootstrap technique is a type of computationally intensive statistical methods which typically uses repeated 
+resampling from a set of data to assess variability of parameter estimates.  
+Boreal 
+See polar/boreal. 
+Calcium carbide 
+Calcium carbide is used in the production of acetylene, in the manufacture of cyanamide (a minor historical use), 
+and as a reductant in electric arc steel furnaces. It is made from calcium carbonate (limestone) and carbon-
+containing reductant (e.g., petroleum coke). 
+Carbon budget 
+The balance of the exchanges of carbon between carbon pools or within one specific loop (e.g., atmosphere – 
+biosphere) of the carbon cycle.  
+Carbon dioxide equivalent  
+A measure used to compare different greenhouse gases based on their contribution to radiative forcing. The 
+UNFCCC currently (2005) uses global warming potentials (GWPs) as factors to calculate carbon dioxide 
+equivalent (see below).  
+Category 
+Categories are subdivisions of the four main sectors Energy; Industrial Processes and Product Use (IPPU); 
+Agriculture, Forestry and Other Land Use (AFOLU); and waste. Categories may be further divided into sub-
+categories. 
+Census 
+Data collected by interrogation or count of an entire population. 
+Chlorofluorocarbons (CFCs) 
+Halocarbons containing only chlorine, fluorine, and carbon atoms. CFCs are both ozone-depleting substances 
+(ODSs) and greenhouse gases. 
+Chronosequence 
+Chronosequences consist of measurements taken from similar but separate locations that represent a temporal 
+sequence in land use or management, for example, years since deforestation. Efforts are made to control all other 
+between-site differences (e.g., by selecting areas with similar soil type, topography, previous vegetation). 
+Chronosequences are often used as a surrogate for experimental studies or measurements repeated over time at 
+the same location. 
+Glossary 
+ 
+G.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Coefficient of variation 
+Statistical definition: The coefficient of variation, vx is the ratio of the population standard deviation, σx, and 
+mean, μx, where vx = σx /µx. It also frequently refers to the sample coefficient of variation, which is the ratio of 
+the sample standard deviation and sample mean.1 
+Cogeneration 
+See: Combined Heat and Power (CHP) generation. 
+Combined heat and power (CHP) 
+Combined heat and power (CHP), also known as cogeneration, is the simultaneous production of both electricity 
+and useful heat for application by the producer or to be sold to other users with the aim of better utilisation of the 
+energy used. Public utilities may utilise part of the heat produced in power plants and sell it for public heating 
+purposes. Industries as auto-producers may sell part of the excess electricity produced to other industries or to 
+electric utilities. 
+Comparability 
+Comparability means that estimates of emissions and removals reported by countries in inventories should be 
+comparable among countries. For this purpose, countries should use agreed methodologies and formats for 
+estimating and reporting inventories.  
+Completeness 
+Completeness means that an inventory covers all sources and sinks and gases included in the IPCC Guidelines 
+for the full geographic coverage in addition to other existing relevant source/sink categories which are specific to 
+individual countries (and therefore may not be included in the IPCC Guidelines).  
+Confidence 
+The term ‘confidence’ is used to represent trust in a measurement or estimate. Having confidence in inventory 
+estimates does not make those estimates more accurate or precise; however, it will eventually help to establish a 
+consensus regarding whether the data can be applied to solve a problem. This usage of confidence differs 
+substantially from the statistical usage in the term confidence interval. 
+Confidence interval 
+The value of the quantity for which the interval is to be estimated is a fixed but unknown constant, such as the 
+annual total emissions in a given year for a given country. The confidence interval is a range that encloses the 
+true value of a unknown fixed quantity with a specified confidence (probability). Typically, a 95 percent 
+confidence interval is assumed. From a traditional statistical perspective, the 95 percent confidence interval has a 
+95 percent probability of enclosing the true but unknown value of the quantity. An alternative interpretation is 
+that the confidence interval is a range that may safely be declared to be consistent with observed data or 
+information. The 95 percent confidence interval is enclosed by the 2.5th and 97.5th percentiles of the PDF. 
+Consistency 
+Consistency means that an inventory should be internally consistent in all its elements over a period of years. An 
+inventory is consistent if the same methodologies are used for the base year and all subsequent years and if 
+consistent data sets are used to estimate emissions or removals from sources or sinks. An inventory using 
+different methodologies for different years can be considered to be consistent if it has been estimated in a 
+transparent manner taking into account the guidance in Volume 1 on good practice in time series consistency. 
+Correlation 
+Mutual dependence between two quantities. See correlation coefficient. 
+Correlation coefficient 
+A number lying between –1 and +1, which measures the mutual dependence between two variables that are 
+observed together. A value of +1 means that the variables have a perfect linear relationship; a value of –1 means 
+that there is a perfect inverse linear relation; and a value of 0 means that there is no straight line relation. It is 
+defined as the covariance of the two variables divided by the product of their standard deviations.  
+Country-specific data 
+Data for either activities or emissions that are based on research carried out on sites either in that country or 
+otherwise representative of that country.  
+                                                           
+1  ‘Coefficient of variation’ is the term, which is frequently replaced by ‘error’ in a statement like ‘the error is 5%’.  
+ 
+Glossary 
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+G.5
+Cruise 
+(When applied to aircraft) All aircraft activities that take place at altitudes above 914 metres (3000 feet) 
+including any additional climb or descent operations above this altitude. There is no upper limit. 
+Decision tree 
+A decision tree is a flow chart describing the specific ordered steps which need to be followed to develop an 
+inventory or an inventory component in accordance with the principles of good practice. 
+Distribution function 
+A distribution function or cumulative distribution function F(x) for a random variable X specifies the probability 
+P(X ≤ x) that X is less than or equal to x.  
+Emission factor 
+A coefficient that quantifies the emissions or removals of a gas per unit activity. Emission factors are often based 
+on a sample of measurement data, averaged to develop a representative rate of emission for a given activity level 
+under a given set of operating conditions.  
+Emissions 
+The release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of 
+time. (UNFCCC Article 1.4) 
+Energy recovery 
+A form of resource recovery in which the organic fraction of waste is converted to some form of usable energy. 
+Recovery may be achieved through the combustion of processed or raw refuse to produce steam through the 
+pyrolysis of refuse to produce oil or gas; and through the anaerobic digestion of organic wastes to produce 
+methane gas.  
+Enhanced coal bed methane (recovery) 
+Increased CH4 recovery produced by the injection of CO2 into coal seams.  
+Estimation 
+The process of calculating emissions and/or removals. 
+Evaporative emissions 
+Evaporative emissions fall within the class of fugitive emissions and are released from area (rather than point) 
+sources. These are often emissions of Non-Methane Volatile Organic Compounds (NMVOCs), and are produced 
+when the product is exposed to the air – for example in the use of paints or solvents. 
+Excluded carbon 
+Carbon in non-energy uses of fossil fuels (feed stocks, reductant and non-energy products) excluded from fuel 
+combustion. 
+Expert judgement 
+A carefully considered, well-documented qualitative or quantitative judgement made in the absence of 
+unequivocal observational evidence by a person or persons who have a demonstrable expertise in the given field. 
+Feedstock 
+Fossil fuels used as raw materials in chemical conversion processes to produce primarily organic chemicals and, 
+to a lesser extent, inorganic chemicals. 
+First use 
+Distinguishes first uses (and related emissions) from later non-energy uses of fossil fuels. For example, first-use 
+emissions from lubricants are those which take place as a result of oxidation during use as a lubricant. Used 
+lubricants may be used subsequently for heat raising as waste oils.  
+Flaring 
+Deliberate burning of natural gas and waste gas/vapour streams, without energy recovery.  
+Fluorocarbons 
+Halocarbons containing fluorine atoms, including chlorofluorocarbons (CFCs), hydrochlorofluorocarbons 
+(HCFCs), hydrofluorocarbons (HFCs), and perfluorocarbons (PFCs). 
+Glossary 
+ 
+G.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Flux 
+(1) Raw materials, such as limestone, dolomite, lime, and silica sand, which are used to reduce the heat or other 
+energy requirements of thermal processing of minerals (such as the smelting of metals). Fluxes also may 
+serve a dual function as a slagging agent.  
+(2) The rate of flow of any liquid or gas, across a given area; the amount of this crossing a given area in a given 
+time. E.g., "Flux of CO2 absorbed by forests". 
+Fossil carbon 
+ 
+ 
+Carbon derived from fossil fuel or other fossil source. 
+Fuel 
+Any substance burned as a source of energy such as heat or electricity. See also Primary Fuels and Secondary 
+Fuels. 
+Fuel combustion 
+Within the Guidelines fuel combustion is the intentional oxidation of materials within an apparatus that is 
+designed to provide heat or mechanical work to a process, or for use away from the apparatus. 
+Fuel wood 
+Wood used directly as fuel.  
+Fugitive Emissions 
+Emissions that are not emitted through an intentional release through stack or vent. This can include leaks from 
+industrial plant and pipelines. 
+Global warming potential 
+Global Warming Potentials (GWP) are calculated as the ratio of the radiative forcing of one kilogramme 
+greenhouse gas emitted to the atmosphere to that from one kilogramme CO2 over a period of time (e.g., 100 
+years).  
+Good Practice 
+Good Practice is a set of procedures intended to ensure that greenhouse gas inventories are accurate in the sense 
+that they are systematically neither over- nor underestimates so far as can be judged, and that uncertainties are 
+reduced so far as possible. 
+Good Practice covers choice of estimation methods appropriate to national circumstances, quality assurance and 
+quality control at the national level, quantification of uncertainties and data archiving and reporting to promote 
+transparency. 
+Ground truth 
+A term used for data obtained by measurements on the ground, usually as validation for remote sensing, e.g., 
+satellite data.  
+Hydrocarbon 
+Strictly defined as molecules containing only hydrogen and carbon. The term is often used more broadly to 
+include any molecules in petroleum which also contains molecules with S, N, or O An unsaturated hydrocarbon 
+is any hydrocarbon containing olefinic or aromatic structures. 
+Hydrochlorofluorocarbons (HCFCs) 
+Halocarbons containing only hydrogen, chlorine, fluorine and carbon atoms. Because HCFCs contain chlorine, 
+they contribute to ozone depletion. They are also greenhouse gases. 
+Hydrofluorocarbons (HFCs) 
+Halocarbons containing only hydrogen, fluorine and carbon atoms. Because HFCs contain no chlorine, bromine, 
+or iodine, they do not deplete the ozone layer. Like other halocarbons, they are potent greenhouse gases. 
+Hydrofluoroethers (HFEs) 
+Chemicals composed of hydrogen, fluorine and carbon atoms, with ether structure. Because HFES contain no 
+chlorine, bromine, or iodine, they do not deplete the ozone layer. Like other halocarbons, they are potent 
+greenhouse gases. 
+ 
+ 
+Glossary 
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+G.7
+Independence 
+Two random variables are independent if there is a complete absence of association between how their sample 
+values vary. The most commonly used measure of the lack of independence between two random variables is the 
+correlation coefficient. 
+Key category  
+A key category is one that is prioritised within the national inventory system because its estimate has a 
+significant influence on a country's total inventory of greenhouse gases in terms of the absolute level of 
+emissions and removals, the trend in emissions and removals, or uncertainty in emissions or removals. Whenever 
+the term key category is used, it includes both source and sink categories. 
+Key source 
+See key category. 
+Kilns 
+A tubular heating apparatus used in the manufacture of cement, lime and other materials. The calcination 
+reaction may take place in the kiln itself, or, where so-equipped, it may partly or completely take place in a 
+preheater and/or precalciner apparatus ahead of the kiln.  
+Land cover 
+The type of vegetation , rock, water etc. covering the earth’s surface.  
+Land use 
+The type of activity being carried out on a unit of land. 
+Note: in Volume 4 (AFOLU), broad land-use categories are defined in Chapter 2. It is recognized that these 
+categories are a mixture of land cover (e.g., Forest, Grassland, Wetlands) and land use (e.g., Cropland, 
+Settlements) classes.  
+Landfill gas 
+Municipal solid waste contains significant portions of organic materials that produce a variety of gaseous 
+products when deposited, compacted, and covered in landfills. Anaerobic bacteria thrive in the oxygen-free 
+environment, resulting in the decomposition of the organic materials and the production of primarily carbon 
+dioxide and methane. Carbon dioxide is likely to leach out of the landfill because it is soluble in water. Methane, 
+on the other hand, which is less soluble in water and lighter than air, is likely to migrate directly to the 
+atmosphere.  
+LTO (landing and take-off) cycle 
+All aircraft activities that occur under 914 metres (3 000 feet) including idling aircraft engines, taxi-out, take-off, 
+climb up to 914 metres, descend, approach and taxi-in. Note: some gatherers of statistics count either single take-
+off or landing as one cycle; however, it is both one take-off and one landing that together define the LTO cycle. 
+Lubricants 
+Lubricants are hydrocarbons produced from distillate or residue, and they are mainly used to reduce friction 
+between bearing surfaces. This category includes all finished grades of lubricating oil, from spindle oil to 
+cylinder oil, and those used in greases, including motor oils and all grades of lubricating oil base stocks. 
+Manure 
+Waste materials produced by domestic livestock which can be managed for agricultural purposes. When manure 
+is managed in a way that involves anaerobic decomposition, significant emissions of methane can result. 
+Mean 
+The mean is a value around which values sampled from a probability distribution tend to lie. The sample mean 
+or arithmetic average is an estimator for the mean. It is an unbiased and consistent estimator of the population 
+mean (expected value) and is itself a random variable with its own variance value. The sample mean is the sum 
+of values divided by the number of values:  
+∑
+=
+n
+i
+ix
+n
+x
+1
+ (xi, where i = 1,…., n are items of a sample). 
+ 
+ 
+Glossary 
+ 
+G.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Median 
+The median or population median is a value which divides the integral of a probability density function (PDF) 
+into two halves. For symmetric PDFs, it equals the mean. The median is the 50th population percentile.  
+The sample median is an estimator of the population median. It is the value that divides an ordered sample into 
+two equal halves. If there are 2n + 1 observations, the median is taken as the (n + 1)th member of the ordered 
+sample. If there are 2n, it is taken as being halfway between the nth and (n + 1)th . 
+Mode 
+The mode of a distribution is the value which has the highest probability of occurrence. Distributions can have one or 
+more modes. In practice, we usually encounter distributions with only one mode. In this case, the mode or population 
+mode of a PDF is the measure of a value around which values sampled from a probability distribution tend to lie.  
+The sample mode is an estimator for the population mode calculated by subdividing the sample range into equal 
+subclasses, counting how many observations fall into each class and selecting the centre point of the class (or 
+classes) with the greatest number of observations.  
+Model 
+A model is a quantitatively-based abstraction of a real-world situation which may simplify or neglect certain 
+features to better focus on its more important elements. 
+Example: the relationship that emissions equal an emission factor times an activity level is a simple model. The 
+term ‘model’ is also often used in the sense of a computer software realisation of a model abstraction.  
+Monte Carlo method 
+In these guidelines a Monte Carlo method is recommended to analyse the uncertainty of the inventory. The 
+principle of Monte Carlo analysis is to perform the inventory calculation many times by computer, each time 
+with the uncertain emission factors or model parameters and activity data chosen randomly (by the computer) 
+within the distribution on uncertainties specified initially by the user. Uncertainties in emission factors and/or 
+activity data are often large and may not have normal distributions. In this case the conventional statistical rules 
+for combining uncertainties become very approximate. Monte Carlo analysis can deal with this situation by 
+generating an uncertainty distribution for the inventory estimate that is consistent with the input uncertainty 
+distributions on the emission factors, model parameters and activity data. 
+Non-energy products 
+Primary or secondary fossil fuels which are used directly for their physical or diluent properties. Examples are: 
+lubricants, paraffin waxes, bitumen, and white spirits and mineral turpentine (as solvent). 
+Non-energy use 
+Within the Guidelines this term refers to the use of fossil fuels as Feedstock, Reductant or Non-energy products. 
+However, the use of this term differs between countries and sources of energy statistics. In most energy statistics, 
+e.g., of the International Energy Agency (IEA), fuel inputs of reductants to blast furnaces are not included but 
+accounted for as inputs to a fuel conversion activity transforming coke and other inputs to blast furnace gas. 
+Non-marketed lime production 
+Lime production occurring at facilities where the primary purpose is the production of lime as an intermediate 
+input: such as plants that produce steel, synthetic soda ash, calcium carbide, magnesia and magnesium metal, as 
+well as copper smelter and sugar mills. The lime produced by these facilities is often used on site and thus is 
+often not reported in national statistics. Also referred to as in-house lime production. 
+Non-Methane Volatile Organic Compounds (NMVOCs) 
+A class of emissions which includes a wide range of specific organic chemical substances. Non-Methane 
+Volatile Organic Compounds (NMVOCs) play a major role in the formation of ozone in the troposphere (lower 
+atmosphere). Ozone in the troposphere is a greenhouse gas. It is also a major local and regional air pollutant, 
+causing significant health and environmental damage. Because they contribute to ozone formation, NMVOCs are 
+considered "precursor" greenhouse gases. NMVOCs, once oxidized in the atmosphere, produce carbon dioxide. 
+Normal distribution 
+The normal (or Gaussian) distribution has the PDF given in the following equation and is defined by two 
+parameters (the mean μ and the standard σ deviation).   
+∞≤ ≤∞
+=
+−
+−
+x
+e
+x
+f
+x
+-
+  , for  
+2
+1
+)
+(
+2
+2
+2
+  )
+(
+σ
+μ
+π
+σ
+. 
+ 
+Glossary 
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+G.9
+Observational data 
+Observational data is empirical data from instrumental (usually monitoring equipment) or manual methods 
+(through counts in a survey or census). 
+Off-gas 
+The exhaust gas from a chemical process (combustion or non-combustion). The off gas may be vented to the 
+atmosphere, burned for energy recovery or flared (without energy recovery), or used as a feedstock for another 
+chemical process. Secondary products may also be recovered from the off gas. 
+Open burning of waste 
+The combustion of unwanted combustible materials such as paper, wood, plastics, textiles, rubber, and other 
+debris in the open or at an open dump site, where smoke and other emissions are released directly into the air 
+without passing through a chimney or stack. Open burning can also include incineration devices that do not 
+control the combustion air to maintain an adequate temperature and do not provide sufficient residence time for 
+complete combustion.  
+Oxidation  
+Chemically transform of a substance by combining it with oxygen. 
+Ozone-depleting substances (ODS) 
+A compound that contributes to stratospheric ozone depletion. Ozone-depleting substances (ODS) include CFCs, 
+HCFCs, halons, methyl bromide, carbon tetrachloride, and methyl chloroform. ODS are generally very stable in 
+the troposphere and only degrade under intense ultraviolet light in the stratosphere. When they break down, they 
+release chlorine or bromine atoms, which then deplete ozone.  
+PDF  
+See Probability density function. 
+Percentile 
+The kth percentile or population percentile is a value which separates the lowest kth part of the integral of the 
+probability density function (PDF) – i.e., an integral of a PDF tail from the kth percentile towards lower 
+probability densities. 
+The kth population percentile (0 ≤ k ≤ 100) of a population with a distribution function F(x) equals to z where z 
+satisfies F(z) = k/100  
+Sample kth percentile is an approximation for the population percentile which is derived from a sample. It is the 
+value below which k percent of the observations lie.  
+Perfluorocarbons (PFCs) 
+Synthetically produced halocarbons containing only carbon and fluorine atoms. They are characterized by 
+extreme stability, non-flammability, low toxicity, zero ozone depleting potential, and high global warming 
+potential.  
+Polar/boreal 
+Regions where mean annual temperature (MAT) is less than 0 oC. 
+Pool/carbon pool 
+A reservoir. A component or components of the climate system where a greenhouse gas or a precursor of a 
+greenhouse gas is stored. Examples of carbon pools are forest biomass, wood products, soils and the atmosphere. 
+The units are mass.  
+Population 
+The population is the totality of items under consideration. In the case of a random variable, the probability 
+distribution is considered to define the population of that variable. 
+Primary fuels 
+Fuels which are extracted directly from natural resources. Examples are: crude oil, natural gas, coals, etc. 
+Precision 
+Precision is the inverse of uncertainty in the sense that the more precise something is, the less uncertain it is. 
+Closeness of agreement between independent results of measurements obtained under stipulated conditions (see 
+also accuracy). 
+Glossary 
+ 
+G.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Probability 
+A probability is a real number in the scale 0 to 1 attached to a random event. There are different ways in which 
+probability can be interpreted. One interpretation considers a probability as having the nature of a relative 
+frequency (i.e., the proportion of all outcomes corresponding to an event), whilst another interpretation regards a 
+probability as being a measure of degree of belief.  
+Probability density function 
+The Probability Density Function (PDF) describes the range and relative likelihood of possible values. The PDF 
+can be used to describe uncertainty in the estimate of a quantity that is a fixed constant whose value is not 
+exactly known, or it can be used to describe inherent variability. The purpose of the uncertainty analysis for the 
+emission inventory is to quantify uncertainty in the unknown fixed value of total emissions as well as emissions 
+and activity pertaining to specific categories. Thus, throughout these guidelines it is presumed that the PDF is 
+used to estimate uncertainty, and not variability, unless otherwise stated. 
+Probability distribution 
+Statistical definition: A function giving the probability that a random variable takes any given value or belongs 
+to a given set of values. The probability on the whole set of values of the random variable equals 1.  
+Process emissions 
+Emissions from industrial processes involving chemical transformations other than combustion. 
+Quality Assurance 
+Quality Assurance (QA) activities include a planned system of review procedures conducted by personnel not 
+directly involved in the inventory compilation/development process to verify that data quality objectives were 
+met, ensure that the inventory represents the best possible estimate of emissions and sinks given the current state 
+of scientific knowledge and data available, and support the effectiveness of the quality control (QC) programme. 
+Quality Control  
+Quality Control (QC) is a system of routine technical activities, to measure and control the quality of the 
+inventory as it is being developed. The QC system is designed to:  
+(i) 
+Provide routine and consistent checks to ensure data integrity, correctness, and completeness; 
+(ii) 
+Identify and address errors and omissions; 
+(iii) 
+Document and archive inventory material and record all QC activities. 
+QC activities include general methods such as accuracy checks on data acquisition and calculations and the use 
+of approved standardised procedures for emission calculations, measurements, estimating uncertainties, 
+archiving information and reporting. More detailed QC activities include technical reviews of source categories, 
+activity and emission factor data, and methods. 
+Removals 
+Removal of greenhouse gases and/or their precursors from the atmosphere by a sink. 
+Reporting 
+The process of providing results of the inventory as described in volume 1 chapter 8. 
+Reservoir 
+(1) A component or components of the climate system where a greenhouse gas or a precursor of a greenhouse 
+gas is stored. (UNFCCC Article 1.7) 
+(2) Water bodies regulated for human activities (energy production, irrigation, navigation, recreation etc.) where 
+substantial changes in water area due to water level regulation may occur. 
+Secondary fuels 
+Fuels manufactured from primary fuels. Examples are: cokes, motor gasoline and coke oven gas, blast furnace 
+gas. 
+Sequestration 
+The process of storing carbon in a carbon pool.  
+Sink 
+Any process, activity or mechanism which removes a greenhouse gas, an aerosol, or a precursor of a greenhouse 
+gas from the atmosphere. (UNFCCC Article 1.8) Notation in the final stages of reporting is the negative (-) sign.  
+ 
+Glossary 
+ 
+ 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+G.11
+Source 
+Any process or activity which releases a greenhouse gas, an aerosol or a precursor of a greenhouse gas into the 
+atmosphere. (UNFCCC Article 1.9) Notation in the final stages of reporting is the positive (+) sign. 
+Standard deviation 
+The population standard deviation is the positive square root of the variance. It is estimated by the sample 
+standard deviation that is the positive square root of the sample variance. 
+Surrogate data 
+Surrogate data is data that is used in place of the actual data, where the specific data needed is unobtainable. 
+Often surrogate data is needed to describe changes in an emission source over time, for example population 
+change may be used to approximate change in waste arisings. 
+Survey data 
+Survey data is derived from random sampling of a population and does not include real data for the whole 
+population, e.g., the number of animals in a country or region by surveying a discrete selection of farms and 
+groups of farms in a country or region, or using more general surrogate data and assumptions. 
+Systematic and random errors 
+Systematic error (i.e., bias) is the difference between the true, but usually unknown, value of a quantity being 
+estimated, and the mean observed value as would be estimated by the sample mean of an infinite set of 
+observations. The random error of an individual measurement is the difference between an individual 
+measurement and the above limiting value of the sample mean. 
+Systematic error 
+See systematic and random errors. 
+Temperate, cold 
+Areas where mean annual temperature (MAT) is between 0 – 10 oC. 
+Temperate, warm 
+Areas where mean annual temperature (MAT) is between 10 – 20 oC. 
+Time series 
+A time series is series of values which are affected by random processes and which are observed at successive 
+(usually equidistant) points in time. 
+Transparency 
+Transparency means that the assumptions and methodologies used for an inventory should be clearly explained 
+to facilitate replication and assessment of the inventory by users of the reported information. The transparency of 
+inventories is fundamental to the success of the process for the communication and consideration of information. 
+Trend 
+The trend of a quantity measures its change over a time period, with a positive trend value indicating growth in 
+the quantity, and a negative value indicating a decrease. It is defined as the ratio of the change in the quantity 
+over the time period, divided by the initial value of the quantity, and is usually expressed either as a percentage 
+or a fraction.  
+Tropical 
+Areas where mean annual temperature (MAT) is more than 20 oC. 
+Unbiased estimator 
+An unbiased estimator is a statistic whose expected value equals the value of the parameter being estimated. 
+Note that this term has a specific statistical meaning and that an estimate of a quantity calculated from an 
+unbiased estimator may lack bias in the statistical sense, but may be biased in the more general sense of the word 
+if the sample has been affected by unknown systematic error. Thus, in statistical usage, a biased estimator can be 
+understood as a deficiency in the statistical evaluation of the collected data, and not in the data themselves or in 
+the method of their measurement or collection. For example, the arithmetic mean (average) x  is an unbiased 
+estimator of the expected value (mean). 
+ 
+Glossary 
+ 
+G.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Uncertainty 
+Lack of knowledge of the true value of a variable that can be described as a probability density function 
+characterizing the range and likelihood of possible values. Uncertainty depends on the analyst’s state of 
+knowledge, which in turn depends on the quality and quantity of applicable data as well as knowledge of 
+underlying processes and inference methods. (See Volume 1 Chapter 3.) 
+Uncertainty analysis 
+An uncertainty analysis of a model aims to provide quantitative measures of the uncertainty of output values 
+caused by uncertainties in the model itself and in its input values, and to examine the relative importance of these 
+factors. 
+Validation 
+Validation is the establishment of sound approach and foundation. In the context of emission inventories, 
+validation involves checking to ensure that the inventory has been compiled correctly in line with reporting 
+instructions and guidelines. It checks the internal consistency of the inventory. The legal use of validation is to 
+give an official confirmation or approval of an act or product.  
+Variability 
+This refers to observed differences attributable to true heterogeneity or diversity in a population. Variability 
+derives from processes which are either inherently random or whose nature and effects are influential but 
+unknown. Variability is not usually reducible by further measurement or study, but can be characterised by 
+quantities such as the sample variance. 
+Verification 
+Verification refers to the collection of activities and procedures that can be followed during the planning and 
+development, or after completion of an inventory that can help to establish its reliability for the intended 
+applications of that inventory.  
+Typically, methods external to the inventory are used to check the truth of the inventory, including comparisons 
+with estimates made by other bodies or with emission and uptake measurements determined from atmospheric 
+concentrations or concentration gradients of these gases. 
+ 

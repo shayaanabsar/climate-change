@@ -1,0 +1,273 @@
+1
+ENERGY
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   R e f e r e n c e  M a n u a l
+1.125
+The values of the emission factors are determined using the equations presented below.
+K
+Q
+Q
+Q
+Q
+Q
+GOR
+Oil P
+Gas fuel
+Gas Inj
+Gas flared
+Gas other
+Oil P
+−
+−
+−
+−
+−
+−
+= −
++
++
++
+×
+min
+1
+where,
+KOil-Pmin
+=
+minimum emission factor for oil production (dimensionless)
+QOil-P
+=
+oil produced (m3/year)
+GOR
+=
+gas to oil ratio (dimensionless)
+QGas-fuel
+=
+quantity of gas used as fuel (m3/year)
+QGas-flared
+=
+quantity of gas flared (m3/year)
+QGas-inj
+=
+quantity of gas injected back into ground (m3/year)
+QGas-other
+=
+quantity of gas accounted for in some other manner and that is not
+emitted (m3/year)
+The minimum emission is the amount of gas not otherwise accounted for.  If no gas is used
+as fuel, flared, injected, or otherwise handled, then the minimum emission factor is 1; (i.e.,
+all the gas withdrawn from the ground in conjunction with the oil is emitted).  If some
+amount of gas is accounted for, then the minimum emission factor is 1 minus the portion
+accounted for.
+Emissions also occur due to leaks.  The leak emissions are the amount of gas leaked during
+various types of handling.  If no gas is used as fuel, flared, injected, or otherwise handled,
+then the leaks are zero.  If some amount of gas is managed in these ways, then the leak
+emission is the amount of gas handled times the leak rate, which is expressed as a fraction.
+The following is the equation for the leak emission factor:
+(
+) (
+) (
+) (
+)
+K
+Q
+L
+Q
+L
+Q
+L
+Q
+L
+Q
+GOR
+Oil P
+Gas fuel
+fuel
+Gas inj
+inj
+Gas flared
+flared
+gas other
+other
+Oil P
+− leak
+−
+−
+−
+−
+−
+=
+×
++
+×
++
+×
++
+×
+×
+KOil-Pleak
+= emission factor for leaks in the systems used to handle gas during oil
+production
+QOil-P
+= oil produced (m3/year)
+GOR
+= gas to oil ratio; defines the amount of gas produced (in volume) per unit
+of oil produced (in volume) (dimensionless)
+QGas-fuel
+= quantity of gas used as fuel (m3/year)
+QGas-flared
+= quantity of gas flared (m3/year)
+Qgas-inj
+= quantity of gas injected back into ground (m3/year)
+QGas-other
+= quantity of gas accounted for in some other manner (m3/year)
+Lx
+= leak rates for the handling of the gas in the various ways, expressed as a
+fraction (e.g., 0.01) (dimensionless)
+The total emission factor for oil production is then estimated as:
+K
+K
+K
+Oil P
+Oil P
+Oil Pleak
+−
+−
+−
+=
++
+min
+ENERGY
+1.126
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   R e f e r e n c e  M a n u a l
+If none of the gas is controlled or utilised (i.e., Lx = 1 for all x), then the emission factor
+(KOil-P) is equal to one.  This situation occurs when it is not economical to conserve or
+reinject the gas (e.g., there is no local market for the gas and the volumes are relatively
+small) and when venting of the gas is preferable to disposal by flaring.  It is not then
+necessary to evaluate the different paths by which CH4 emissions may occur (e.g., fugitive
+equipment leaks, process venting, system upsets, etc.) in these cases since the end effect is
+the same: essentially all the CH4 produced is emitted to the atmosphere.
+Crude Oil Transportation and Refining: The crude oil from production facilities will
+initially contain a certain amount of gas in solution.  This gas, particularly the CH4 fraction,
+evaporates quickly as this oil progresses through the storage and transportation systems
+en route to the refinery.  When the oil reaches the refinery, it is usually fully weathered
+and essentially free of any CH4 .
+Accordingly, the basic mass balance relation for oil transportation and refining activities
+may be expressed as follows:
+EOil-T = QOil-T x F x YF-CH4 x KOil-T x DF x 10-12
+where,
+EOil-T
+=
+methane emissions from crude oil transportation and refining (Tg/year)
+QOil-T
+=
+oil transported and refined (m3/year)
+F
+=
+factor defining the amount of gas in solution with the crude oil (per unit
+of oil by volume) (Dimensionless)
+YF CH
+−
+4
+=
+methane fraction; the fraction of the gas in solution in the oil that is
+methane, on a volume basis, for example, 0.1m3 of methane per 1.0 m3 of
+gas.  (Dimensionless)
+KOil-T
+=
+emission factor for oil transportation and refining, see below.
+(Dimensionless).
+DF
+=
+density of methane at the temperature and pressure at which F is
+estimated (g/m3).  The relevant temperature and pressure may vary,
+depending on the values used to calculate F.   For example, at 0°C and at
+a pressure of 1 atmosphere, the density of methane is 715.4 g/m3, and at
+20°C and 1 atmosphere, the density of methane is 666.6 g/m3.
+The first two terms (QOil-T and F) estimate the total amount of gas that is in solution with
+the crude oil.  The term YF-CH4 converts the total gas quantity into the quantity of
+methane (still on a volume basis).  The emission factor (KOil-T) is the fraction of the total
+gas in solution that is emitted (at most, KOil-T = 1).  To put the emissions estimate on a
+mass basis, DF is used to estimate grams, and the conversion to teragrams follows.
+The value of the solution gas factor and the corresponding mole fraction of methane is
+determined by the type of crude oil (light, medium, heavy, or crude bitumen), the
+composition of the associated gas, and the initial vapour pressure of the crude oil when it
+is placed in the storage tanks or compartments at the production site.  Typically, the initial
+vapour pressure will be equal to the operating pressure of the first vessel upstream of the
+storage facilities.
+Table 1-59 presents some estimated values for these two parameters at onshore and
+offshore facilities.  Better estimates may be determined by performing site specific process
+simulations.
+1
+ENERGY
+R e v i s e d  1 9 9 6  I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   R e f e r e n c e  M a n u a l
+1.127
+TABLE 1-59
+SOLUTION GAS FACTORS AND CORRESPONDING CH4 MOLE FRACTIONS FOR
+DIFFERENT TYPES OF CRUDE OIL PRODUCTION AT ONSHORE AND OFFSHORE
+FACILITIES
+Type of Crude Oil
+Onshore and Offshore Facilities
+F
+SOLUTION GAS FACTOR
+YF-CH4
+MOLE FRACTION
+Light
+3.3 to 5.0
+0.5642
+Medium
+3.2 to 5.0
+0.1001
+Heavy (Primary)
+1.0
+0.8723
+Heavy (Thermal)
+8.3
+0.6666
+The value of the system adjustment factor is determined using the equation below:
+K
+Q
+Q
+F
+Y
+Oil T
+Collected CH
+Oil T
+F CH
+−
+−
+−
+= −
+×
+×
+1
+4
+4
+QCollected CH4    =
+the amount of methane collected, and not emitted, during
+transportation and refining.
+Often this amount is zero
+Other terms defined above.
+In the absence of any data regarding the volume of CH4  collected, the value of system
+adjustment factor should be set to a default value of one.
+Exploration and Drilling Losses
+Total CH4 emissions from the exploration and drilling sector will usually be small
+compared to the amount emitted by other sectors of the oil and gas industry.
+Consequently, a simple Tier 1 approach is perhaps most appropriate for use here.
+The basic relation is shown below:
+ED  =  Nwells . FD
+where,
+ED
+=
+total CH4 emissions (Tg) from drilling and testing of oil and gas wells,
+Nwells
+=
+number of wells drilled and tested, and
+FD
+=
+average amount of CH4 emitted per well (Tg/well).
+Tier 3 - Rigorous Source-Specific Evaluations Approach
+Rigorous source-specific evaluations will generally involve compiling the following types of
+information and may require significant interaction with industry and associated regulatory
+agencies:
+•
+detailed inventories of the amount and types of process infrastructure (e.g., wells,
+minor field installations, and major production and processing facilities),

@@ -1,0 +1,1466 @@
+ 
+Chapter 7: Precursors and Indirect Emissions 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.1 
+CHAPTER 7  
+PRECURSORS AND INDIRECT 
+EMISSIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+7.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Klaus Radunsky (Austria), Michael Gillenwater (USA)
+Chapter 7: Precursors and Indirect Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.3 
+Contents 
+7     Precursors and Indirect Emissions ................................................................................................................ 7.4 
+7.1     Introduction ............................................................................................................................................ 7.4 
+7.2     Precursor emissions ................................................................................................................................ 7.4 
+7.2.1     Inventory of precursors ................................................................................................................... 7.5 
+7.2.2     Link to relevant methodology chapters in the EMEP/CORINAIR Emission Inventory Guidebook7.8 
+7.3     Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3 ......................... 7.8 
+7.3.1     Methodology ................................................................................................................................... 7.8 
+7.3.2     Quality Assurance/Quality Control, Reporting and Documentation ............................................... 7.9 
+References .......................................................................................................................................................... 7.10 
+Annex 7A.1     Practical examples for carbon emitted in gases other than CO2 ................................................ 7.11 
+Equations 
+Equation 7.1 
+N2O emissions from atmospheric deposition of NOx and NH3 ...................................... 7.8 
+Tables 
+Table A7.1 (New) 
+Non-Biogenic sources of CO2 from the atmospheric oxidation of CH4, CO, and 
+NMVOCs ..................................................................................................................... 7.11 
+Table A7.2 (New) 
+Examples of NMVOCs from the different source categories ....................................... 7.13 
+Table A7.3 (New) 
+Carbon content of various materials (percent carbon by mass, PC) and percent of total 
+solvent NMVOC emissions (by mass, PU) .................................................................. 7.14 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+7.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7 PRECURSORS AND INDIRECT EMISSIONS 
+Users are expected to go to Mapping Tables in Annex 1, before reading this chapter. This is required to correctly 
+understand both the refinements made and how the elements in this chapter relate to the corresponding chapter 
+in the 2006 IPCC Guidelines. 
+7.1 
+INTRODUCTION 
+This chapter addresses the calculation of emissions of precursors of greenhouse gases and of indirect emissions 
+that have not been addressed in Volumes 2-5 and that may be reported in greenhouse gas inventories.  
+Although they are not included in global warming potential-weighted greenhouse gas emission totals, direct 
+emissions of carbon monoxide (CO), nitrogen oxides (NOx), non-methane volatile organic compounds (NMVOCs), 
+and sulphur dioxide (SO2) are also reported in greenhouse gas inventories. Carbon monoxide, NOx and NMVOC 
+as well as CH4 in the presence of sunlight contribute to the formation of the greenhouse gas ozone (O3) in the 
+troposphere and are therefore often called ‘ozone precursors’. Furthermore, NOx emission plays an important role 
+in the Earth’s nitrogen cycle and is an aerosol precursor. Sulphur dioxide emissions lead to formation of sulphate 
+particles, which also play a role in climate change. Ammonia (NH3) is an aerosol precursor with increasing 
+contribution to ambient particulate matter concentrations in several regions, in part due to decreasing SO2 
+emissions. The majority of the carbon emitted in the form of non-CO2 species (i.e., CH4, CO, and NMVOCs) 
+eventually oxidizes to CO2 in the atmosphere and this amount can be estimated from the emissions of these non-
+CO2 gases. 
+The guidance of this chapter is consistent with the use of any radiative forcing metric (e.g., Global Warming 
+Potential or Global Temperature change Potential) included in assessment reports of the IPCC so far and follows 
+the principle to avoid double counting (see Section 7.2.1.5). However, it does not provide guidance to estimate the 
+overall radiative forcing resulting from emissions of greenhouse gases, precursors and indirect emissions.  
+Section 7.2 addresses the estimation and reporting of the precursors for national inventories. The methodologies 
+for ambient air quality emission inventories have been elaborated in detail in the EMEP1/EEA2 Emission Inventory 
+Guidebook (Guidebook), and these methodologies for CO, NOx, NMVOCs, and SO2 emissions are referenced in 
+this chapter rather than to be included in the 2006 IPCC Guidelines. Exceptions are for sources not well covered 
+by the Guidebook. 
+Section 7.3 addresses nitrous oxide (N2O) emissions that result from the deposition of the nitrogen emitted as NOx  
+and NH3. Nitrous oxide is produced in soils through the biological processes of nitrification and denitrification. 
+Simply defined, nitrification is the aerobic microbial oxidation of ammonium to nitrate and denitrification is the 
+anaerobic microbial reduction of nitrate to nitrogen gas (N2). Nitrous oxide is a gaseous intermediate in the reaction 
+sequence of denitrification and a by-product of nitrification that leaks from microbial cells into the soil atmosphere. 
+One of the main controlling factors in this reaction is the availability of inorganic nitrogen in the soil and therefore 
+deposition of nitrogen resulting from NOx and NH3 will enhance emissions. Nitrous oxide emissions will also be 
+enhanced if nitrogen is deposited in the ocean or in lakes. For this reason, the 2006 IPCC Guidelines include 
+guidance for estimating N2O emissions resulting from nitrogen deposition of all anthropogenic sources of NOx and 
+NH3. Only agricultural sources of nitrogen were considered in the Revised 1996 IPCC Guidelines (IPCC 1997).  
+Guidance is provided in Section 7.3 on estimating N2O emissions from atmospheric deposition resulting from all 
+categories except agricultural soil management and manure management. Section 7.3 provides information on NOx 
+emissions. Countries may use national methodologies to estimate emissions of NH3 not originating from 
+agriculture. NH3 emissions are also covered in the EMEP/EEA Emission Inventory Guidebook. 
+ 
+7.2 
+PRECURSOR EMISSIONS 
+No refinement.
+                                                           
+1  Cooperative programme for the monitoring and evaluation of the long-range transmission of air pollutants in Europe (EMEP). 
+2 Up until 2007 this EMEP/EEA Guidebook was formally called the EMEP/CORINAIR Emission Inventory Guidebook. 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.5 
+7.2.1 
+Inventory of precursors 
+7.2.1.1 ENERGY 
+For most countries, road transportation will be a major source of NOx, CO, and NMVOC emissions. Public 
+electricity and heat production will likely be the major source of SO2 emissions in countries where coal is used 
+extensively, and also an important source of NOx emissions. Industrial combustion will also be a source of SO2, 
+NOx and CO emissions and residential combustion a source of CO emissions. Oil production will likely be a source 
+of NMVOC, NOx, and, CO emissions in countries that produce oil and gas. 
+Most NOx emissions resulting from fuel combustion are typically ‘fuel-NOx’ that is formed from the conversion 
+of chemically bound nitrogen in the fuel. The content of nitrogen in different fuel varies. Depending on the 
+combustion temperature, thermal-NOx and prompt-NOx can also be formed from nitrogen contained in the 
+combustion intake air (e.g., in pulverized coal combustion). 
+Carbon monoxide and NMVOCs are generated during under-stoichiometric combustion conditions and are 
+dependent on a variety of factors, including fuel type and combustion conditions. 
+Emissions of sulphur oxides (SOx) are primarily related to the sulphur content of the fuel, although some sulphur 
+can be retained in the ash. Abatement in stationary and mobile (e.g., marine) combustion can reduce the amount 
+emitted; desulphurization of fuels can reduce SO2 emissions in transport related emissions. 
+7.2.1.2 INDUSTRIAL PROCESSES AND PRODUCT USE  
+No refinement. 
+7.2.1.3 AGRICULTURE, FORESTRY AND OTHER LAND USE  
+The burning of crop residues emits NOx, as does the addition of nitrogen to the soils from nitrogen fertilizers and 
+other nutrients. Carbon monoxide and SO2 are emitted when biomass is burned. The primary sources of the 
+NMVOC emissions are burning of crop residues and other plant wastes, and the anaerobic degradation of livestock 
+feed and animal excreta. Plants, mainly trees (e.g. oil palm trees) and cereals, also contribute to NMVOC 
+concentrations in the atmosphere. 
+The EMEP/EEA Guidebook does not fully cover emissions from burning of biomass, therefore additional guidance 
+is given in Agriculture, Forestry and Other Land Use (AFOLU) Volume, Chapter 4, Section 4.2.4 for Non-CO2 
+emissions from biomass burning from forest, Chapter 5, Sections 5.2.4 and 5.3.4 for Non-CO2 emissions from 
+biomass burning in Cropland, and Chapter 6, Sections 6.2.4 and 6.3.4 for Non-CO2 emissions from biomass 
+burning in Grassland (CO, CH4, N2O, NOx). Biomass burning when forest and grasslands are converted to other 
+uses, forest fires, and biomass burning due to forest management practices are discussed in these chapters of 
+Volume 4 for AFOLU sector. 
+7.2.1.4 WASTE 
+Open burning, as well as incineration of municipal and other solid wastes and sludge from wastewater treatment, 
+produces emissions of NOx, CO, and SO2. NMVOC emissions can originate from wastewater treatment plants and 
+solid waste disposal on land. 
+7.2.1.5 CARBON EMITTED IN GASES OTHER THAN CO2  
+The 2006 IPCC Guidelines estimate carbon emissions in terms of the species that are emitted. The majority of the 
+carbon emitted in the form of non-CO2 species (i.e., CH4, CO, and NMVOCs) eventually oxidizes to CO2 in the 
+atmosphere and this amount can be estimated from the emissions estimates of the non-CO2 gases (Seinfeld and 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+7.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Pandis 1998; Boucher et al. 2009). This section provides guidance on calculating CO2 inputs to the atmosphere 
+from emissions of carbon-containing compounds that are not included under other emission categories.3 
+In national GHG inventories, inputs of CO2 from the atmospheric oxidation of CH4, CO, and NMVOCs are 
+typically included in inventories for some source categories, correctly excluded for some other categories, and 
+likely require estimating separately for yet other categories. The source categories falling into these first two groups 
+are as follows (Gillenwater 2008): 
+• 
+Fossil fuel combustion and fuelling activities including the atmospheric oxidation of CH4, CO, and NMVOCs 
+to CO2 is accounted for by the methodology used by most countries to calculate CO2 emissions from fossil 
+fuel combustion.4 This methodology is based on fuel consumption statistics, data on the carbon content of 
+each fuel, and oxidation factors; IPCC default carbon content or CO2 emission factors assume that except the 
+small fraction of carbon remaining as un-oxidized solids, for example soot or ash (IPCC 1997; IPCC 2000), 
+all carbon in the fuel is oxidized to CO2 in the combustion process or atmosphere.5 For most countries that 
+use common CO2 factors, these inputs to the atmosphere of CO2 from fossil fuel combustion related emissions 
+of CH4, CO, and NMVOCs are already accounted for under the Energy sector category 1A.6 
+• 
+Several managed sources of biogenic carbon (e.g., livestock) also emit CH4, CO, and NMVOCs. The carbon 
+in these gases is derived from rapidly cycling (non-fossil) sources. For example, the carbon content of CH4 
+from enteric fermentation is derived from plant matter, which has converted atmospheric CO2 to organic 
+compounds. The atmospheric oxidation of CH4 merely completes a natural cycle and is not treated as a net 
+anthropogenic contribution to the atmosphere's CO2 burden. Any net changes in the biogenic carbon stocks 
+found in plant matter are assumed to be captured under the AFOLU sector through estimates of CO2 emissions 
+and removals from land-use and land-use changes and forestry (i.e., biogenic carbon stock changes). 
+Methane, CO, or NMVOCs are also emitted as fugitives from fossil fuel production activities such as coal mining 
+as well as petroleum and natural gas exploration, processing and storage. The carbon emitted in the form of CH4, 
+CO, or NMVOCs from these fugitive emission source categories is not typically captured in fuel combustion 
+activity data because these emissions occur prior to the collection of data on fossil fuel consumption. Therefore, 
+CO2 inputs to the atmosphere from the oxidation of these fugitive emissions are typically not estimated elsewhere 
+in national GHG inventories, although fugitive CH4 emissions are reported separately in GHG inventories.   
+Some industrial processes in which carbon from fossil fuel sources is used as a production feedstock (e.g., 
+petrochemical production) may also lead to CO2 inputs to the atmosphere. The carbon emitted in the form of CH4, 
+CO, or NMVOCs from these industrial processes may be included in a country’s non-energy use of fossil fuel 
+statistics or they may be estimated separately.7 Carbon dioxide emissions from industrial processes that use carbon 
+feedstock as reducing agents (e.g., iron and steel production) are typically included in GHG inventories based on 
+the assumption that the carbon in the reducing agent is fully oxidized. Depending on the assumptions and methods 
+used to estimate storage and emissions from those non-energy use and feedstock categories (e.g., solvent use), CO2 
+resulting from emissions of CH4, CO, and NMVOCs may or may not be included elsewhere in GHG inventories. 
+Two options are possible to address inputs of CO2 from CH4 of fossil origin. Countries may apply the methods 
+described below to calculate the mass of CO2 oxidised. If countries use a metric for CH4 that includes the inputs of 
+CO2 from CH4 of fossil origin (such as GWP and GTP for fossil methane provided in Table 8.A.1 of Appendix 
+8.A in IPCC 2013), they should not estimate separately the amount of CO2 from atmospheric oxidation of CH4 of 
+fossil origin to avoid double counting the warming impact. If countries choose to apply a metric which does not 
+take into account the conversion of CH4 into CO2, countries should apply the methods described below to calculate 
+the amount of CO2 from CH4. Countries should transparently document which option used. 
+The methodologies for calculating CO2 from the atmospheric oxidation of CH4, CO, and NMVOCs are simple and 
+for countries that already have detailed inventories of CH4, CO, and NMVOC emissions, no additional activity 
+                                                           
+3 The contents of Box 7.2 from the 2006 IPCC Guidelines have been elaborated and included in the text of this section. 
+4 This includes evaporative emissions of NMVOCs associated with immediate fuelling activities for mobile or stationary 
+sources where the mass of carbon associated with these emissions is accounted for in the fuel consumption activity data used 
+in the combustion-related emission estimates for CO2. 
+5 If a direct measurement method is used to estimate CO2 emissions from fuel combustion then CO2 emissions from the 
+atmospheric oxidation of CH4, CO, and NMVOCs will not be included and must be estimated separately.   
+6 If a country uses a country-specific CO2 emission factor based on direct measurement data to estimate emissions then CO2   
+from the atmospheric oxidation of CH4, CO, and NMVOCs would not be included in emission estimates for fossil fuel 
+combustion, as the direct measurement occurs prior to the atmospheric oxidation process. 
+7 Non-energy products from fossil fuels include industrial applications of fossil carbon material such as in the manufacture of 
+ammonia from natural gas. 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.7 
+data collection should be necessary. Input of CO2 to the atmosphere are calculated by converting previously 
+estimated mass emissions of CH4, CO, or NMVOCs to CO2 based on the carbon content of each gas. For example, 
+the activity data used to estimate CO2 inputs from the oxidation of emissions coal mining is already collected to 
+estimate CH4 for that category (1.B.1). 
+Methane, CO, or NMVOC emissions will eventually be oxidised to CO2 in the atmosphere. These CO2 inputs 
+could be included in national inventories. They can be calculated from emissions of methane, CO and NMVOCs. 
+The basic calculation principles are: 
+From CH4:  
+InputsCO2 = EmissionsCH4 • OF • 44/16 
+From CO:  
+InputsCO2 = EmissionsCO • OF • 44/28 
+From NMVOC:  InputsCO2 = EmissionsNMVOC • C • OF • 44/12 
+Where, 
+InputsCO2 are the added CO2 to the atmosphere from the oxidation of CH4, CO, and NMVOCs that are not 
+accounted for already under other categories. 
+EmissionsCH4, EmissionsCO, and EmissionsNMVOC are the emission estimates taken from other relevant emission 
+categories (e.g., CO, NMVOC, CH4 from oil and gas systems, 1.B.2). 
+C is the fraction carbon in NMVOC by mass (default = 0.6 for solvent use and 0.85 for other source categories; 
+see Tables A7.2 and A7.3 and Gillenwater 2008). 
+OF is the oxidation factor of the carbon to carbon dioxide as a fraction. The default assumption is a value of 1. For 
+open burning of waste in Volume 5, Chapter 5 a default value of 0.71 for OF is specified (see Table 5.2). 
+The carbon content in NMVOCs will vary depending on the source. Therefore, an inventory based on the 
+speciation of the NMVOC compounds gives more accurate results. 
+In making these estimates inventory compilers should assess each category to ensure that this carbon is not already 
+covered by the assumptions and approximations made in estimating CO2 emissions.  
+See Table A7.1 for a list of the source categories relevant to the estimation of CO2 from atmospheric oxidation. 
+When identifying categories for which these CO2 inputs are to be estimated, it is good practice to prevent double 
+counting or omitting of carbon emitted to the atmosphere as CO2. 
+NMVOCs do not represent a single molecular species, but instead a broad range of volatile hydrocarbon species 
+with varying molecular weights and carbon contents. Therefore, an accurate estimate of emissions of CO2 from 
+the atmospheric oxidation of NMVOCs requires a chemical speciation profile of the constituent NMVOCs 
+(Gillenwater 2008). 
+To estimate CO2 atmospheric inputs from NMVOC emissions the following steps may be used: 
+Separate the portion of national NMVOCs emissions resulting from biogenic materials from the portion of 
+NMVOC emissions resulting from petroleum or other fossil fuel products. 
+Identify the portion of the fossil-based NMVOC emissions resulting from relevant energy and industrial process 
+source categories (as determined using Table A7.2). 
+For the portion of these NMVOC emissions resulting from solvent use, determine the average carbon content (on 
+a mass basis) based on a chemical speciation profile (see Table A7.3 for example). If information on the speciation 
+profile is not available, assume a default average carbon content of 60 percent by mass. For the remaining portion 
+of relevant NMVOC emissions from other source categories, determine carbon content values using a chemical 
+speciation profile. If information on the speciation profile is not available, assume an average default carbon 
+content of 85 percent by mass (Gillenwater 2008, and see Table A7.3). 
+There is scientific uncertainty regarding the degree to which all CH4 and NMVOCs are completely oxidised to 
+CO2 in the atmosphere. There is very low uncertainty in this assumption for CO emissions. Boucher et al. 2009 
+assumes 95 percent of emitted CH4 is oxidised, with a range of 51 to 100 percent. NMVOCs include a wide range 
+of chemical species with atmospheric lifetimes that primarily range from minutes to months. Although, the fate of 
+NMVOCs emitted to the atmosphere is generally oxidation to CO2 through complex chemical and photochemical 
+reactions, the fate of a fraction of some NMVOC species can be dry or wet deposition to the Earth’s surface, where 
+the carbon they contain may escape complete oxidation to CO2. The above equations assume a complete oxidation 
+of NMVOCs, CO and CH4 to CO2 in the atmosphere, however countries may apply oxidation factors less than 1, 
+based on scientific evidence. 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+7.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.2.2 
+Link to relevant methodology chapters in the 
+EMEP/CORINAIR Emission Inventory Guidebook  
+No refinement. 
+7.3 
+INDIRECT N2O EMISSIONS FROM THE 
+ATMOSPHERIC DEPOSITION OF NITROGEN 
+IN NOX AND NH3 
+No refinement. 
+7.3.1 
+Methodology 
+All anthropogenic NH3 or NOx emissions are potential sources of N2O emissions8. Specific guidance on estimating 
+N2O emissions from that portion of nitrogen compounds associated with the volatilisation of NOx and NH3 from 
+(1) manure management systems and applied sewage sludge and (2) synthetic and organic nitrogen input to 
+managed soils, and urine and dung nitrogen deposited by grazing animals, are provided in Section 10.5 of Chapter 
+10, Emissions from livestock and manure management, and Section 11.2.2 of Chapter 11, N2O emissions from 
+managed soils and CO2 emissions from lime and urea application, of Volume 4 of AFOLU.  
+This section provides guidance on estimating N2O emissions from the atmospheric deposition of nitrogen 
+compounds from all other sources of NOx and NH3 emissions, such as fuel combustion, industrial processes, and 
+burning of crop residues and agricultural wastes. The method needs only to be applied where data on NOx and 
+NH3 emissions from these sources are available, e.g., from the inventories identified Section 7.2. 
+Equation 7.1 and EF4 from Table 11.4, Chapter 11 of Volume 4 can be used to estimate N2O emissions from the 
+atmospheric deposition of nitrogen resulting from NOx and NH3. 
+EQUATION 7.1 
+N2O EMISSIONS FROM ATMOSPHERIC DEPOSITION OF NOX AND NH3 
+(
+) (
+)
+2
+( )
+( )
+3
+( )
+4
+44 / 28
+i
+x
+i
+i
+N O
+NO
+N
+NH
+N
+EF
+
+
+=
+−
++
+−
+•
+•
+
+
+  
+Where: 
+N2O(i) 
+= 
+N2O produced from atmospheric deposition of N from NOx and NH3 emissions from 
+source i, in Gg 
+NOx-N(i) = 
+nitrogen content of NOx emissions from source i assuming that NOx is reported in NO2 
+equivalents (Gg NOx-N or Gg NO2 • 14/46) 
+NH3-N(i) = 
+nitrogen content of NH3 emissions from source i (Gg NH3-N or Gg NH3 • 14/17) 
+EF4 
+= 
+emission factor for N2O emissions from atmospheric deposition of N on soils and water 
+surfaces (kg N2O-N/kg NH3-N or NOx-N emitted)  
+The activity data NOx-N(i) and NH3-N(i) are taken from the inventories as identified in Section 7.2, if 
+available. 
+ 
+This method assumes that N2O emissions from atmospheric deposition are reported by the country that produced 
+the original NOx and NH3 emissions. In reality, the ultimate formation of N2O may occur in another country due 
+to atmospheric transport of emissions. The method also does not account for the probable lag time between NOx 
+and NH3 emissions and subsequent production of N2O in soils and surface waters. This time lag is expected to be 
+small relative to an annual reporting cycle.  
+                                                           
+8 In addition to being redeposited on soils and surface waters, NH3 can also lead to the formation of N2O from atmospheric 
+chemical reactions. However, there is currently no method available for estimating conversion of NH3 to N2O in the 
+atmosphere. 
+ 
+Chapter 7: Precursors and Indirect Emissions 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7.9 
+7.3.2 
+Quality Assurance/Quality Control, Reporting and 
+Documentation 
+No refinement. 
+Volume 1: General Guidance and Reporting  
+ 
+ 
+ 
+ 
+7.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+References copied from the 2006 IPCC Guidelines 
+EEA (2001). EMEP/CORINAIR Emission Inventory Guidebook, third ed. Technical report No. 30, European 
+Environmental Agency (EEA). http://reports.eea.eu.int/technical_report_2001_3/en. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories, Volume 1-3. Houghton J.T., 
+Meira Filho L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. and Callander B.A. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+ 
+References newly cited in the 2019 Refinement 
+Boucher O., Friedlingstein P., Collins B. & Shine K. P. (2009) The indirect global warming potential and global 
+temperature change potential due to methane oxidation. Environmental Research Letters 4: 5. 
+EEA (2016) EMEP/EEA air pollutant emission inventory guidebook 2016. EEA Report No 21/2016. 
+(https://www.eea.europa.eu/publications/emep-eea-guidebook-2016). 
+Gillenwater, M. (2008) Forgotten carbon: Indirect CO2 in greenhouse gas emission inventories. Environmental 
+Science and Policy 11: 8. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories, Houghton, J.T., Meira Filho, 
+L.G., Lim B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, B.A. (Eds). Intergovernmental 
+Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories, 
+Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., Emmanuel, S., Buendia, L., Hoppaus, R., 
+Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change (IPCC), 
+IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth 
+Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, 
+M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University 
+Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp. 
+ 
+Seinfeld, J.H., Pandis, S.N., 1998 Atmospheric Chemistry and Physics: From Air Pollution to Climate Change. 
+Wiley-Interscience, New York, NY. 
+ 
+ 
+                                                                                                                                                                                                             Chapter 7: Precursors and Indirect Emissions 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+      7.11 
+Annex 7A.1 Practical examples for carbon emitted in gases other than CO2 
+ 
+TABLE A7.1 (NEW) 
+NON-BIOGENIC SOURCES OF CO2 FROM THE ATMOSPHERIC OXIDATION OF CH4, CO, AND NMVOCS 
+Source Category 
+(IPCC reporting format) 
+Gases Emitted(a) 
+Fossil 
+Origin 
+CO2 included in 
+existing category 
+emission 
+estimates? 
+Explanation 
+CH4 
+CO 
+NMVOC 
+1. 
+Energy 
+A. Fuel Combustion Activities(b) 
+x 
+x 
+x 
+Yes(d) 
+Yes 
+Fossil fuel combustion emission estimates calculated with use of carbon content and oxidation 
+factors are more likely to include emissions of CO2 from atmospheric oxidation of CH4, CO and 
+NMVOC (i.e., if they assume complete oxidation of carbon except for that remaining as soot or 
+ash solids). 
+B. Fugitive Emissions from Fuels 
+ 
+The carbon in fugitive emissions of CH4 and NMVOCs is fossil in origin, but the CO2 from the 
+atmospheric oxidation of this carbon is not typically included in emissions estimates from any 
+other source category. However, the carbon in NMVOC emissions from fuelling stations would 
+more likely be captured in fossil fuel consumption activity data and therefore in emissions from 
+1.A. For flaring, emission estimates with use of carbon content factors are more likely to include 
+emissions of CO2 from atmospheric oxidation of CH4, CO and NMVOC. 
+1. Solid Fuels 
+ 
+a. Coal Mining 
+x 
+ 
+x 
+Yes 
+No 
+2. Oil and Natural Gas 
+ 
+a. Oil 
+x 
+x 
+x 
+Yes 
+No (except 
+flaring) 
+b. Natural Gas 
+x 
+ 
+x 
+Yes 
+No (except 
+flaring) 
+2. 
+Industrial Processes and Product Use 
+B. Chemical Industry 
+x 
+x 
+x 
+Yes 
+(c) 
+The carbon in emissions of CH4 and NMVOCs from chemical and metallurgical processes is 
+likely to be of fossil in origin. The CO2 from the atmospheric oxidation of this carbon may or may 
+not be included in emissions estimates from these source categories or from non-energy uses of 
+fossil fuels as feedstock. 
+C. Metal Industry 
+ 
+x 
+x 
+Yes 
+(c) 
+D. Non-Energy Use of Fuels 
+ 
+ 
+1. Lubricant Use 
+ 
+ 
+x 
+Yes 
+(c) 
+The carbon in emissions of CH4 and NMVOCs occurring from the use of non-energy products is 
+of fossil origin and does lead to CO2 emissions. The Oxidized During Use (ODU) factors applied 
+for estimating emissions from these source categories in most cases will include CO2 emissions. 
+2. Asphalt Paving of Roads and Roofs 
+x 
+ 
+x 
+Yes 
+(c) 
+3. Paraffin Waxes Use 
+ 
+ 
+x 
+Yes 
+(c) 
+4. Solvents and other Petroleum Product Use 
+ 
+ 
+x 
+Yes 
+(c) 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+7.12                                                                                                                                 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE A7.1 (NEW) (CONTINUED) 
+NON-BIOGENIC SOURCES OF CO2 FROM THE ATMOSPHERIC OXIDATION OF CH4, CO, AND NMVOCS 
+Source Category 
+(IPCC reporting format) 
+Gases Emitted(a) 
+Fossil 
+Origin 
+CO2 included in 
+existing category 
+emission 
+estimates? 
+Explanation 
+CH4 
+CO 
+NMVOC 
+5. 
+Waste 
+A. Solid Waste Treatment and disposal 
+x 
+x 
+x 
+No 
+- 
+The vast majority of the carbon in CH4, CO, and NMVOC emissions is likely to be of biogenic 
+origin. 
+B. Wastewater Treatment and discharge 
+x 
+x 
+x 
+No 
+- 
+C. Incineration and open burning of waste(b) 
+x 
+x 
+x 
+Yes 
+Yes 
+The carbon in CH4, CO, and NMVOC emissions is of both biogenic and fossil origin. Estimates 
+of CO2 emissions from the fossil carbon portion of waste materials include the emissions of CO2 
+from atmospheric oxidation of CH4, CO and NMVOCs when carbon content factors are used. 
+(a) Only gases listed are those relevant to the estimation of CO2 emissions from atmospheric oxidation of CH4, CO and NMVOCs. Emission factors for CO and NMVOC can be found in the EMEP/EEA  
+Emission Inventory Guidebook and for CH4 see the relevant chapters/volumes of this 2019 Refinement. 
+(b) Assumes that CO2 emissions are estimated using data on the carbon content of fuels or waste materials, not direct measurement. 
+(c) CO2 emissions from atmospheric oxidation of CH4, CO and NMVOCs may or may not be accounted for depending on the Oxidized During Use factor assumptions under non-energy use of fuels (2.D). 
+(d) Assumes biofuels are reported separately. 
+Reference: Gillenwater (2008). 
+ 
+ 
+                                                                                                                                                                                                             Chapter 7: Precursors and Indirect Emissions 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+      7.13 
+TABLE A7.2 (NEW) 
+EXAMPLES OF NMVOCS FROM THE DIFFERENT SOURCE CATEGORIES 
+CAS number 
+NMVOC Species 
+Carbon content 
+ENERGY 
+IPPU 
+AFOLU 
+WASTE 
+Total 
+Stationary Combustion 
+Transport 
+Extraction & 
+Distribution of 
+Fossil Fuels 
+Industrial 
+Processes 
+Solvent Use 
+Nature (Forests) 
+Waste 
+Treatment and 
+Disposal 
+Commerci
+al and 
+Residential 
+Energy 
+Production 
+Combustio
+n in 
+Industry 
+Road 
+Transport 
+(DERV) 
+Road 
+Transport 
+(Evaporati
+) 
+Road 
+Transport 
+(PETROL) 
+Other 
+Transport
+ation and 
+Machinery
+, Off Road 
+OtherTran
+sp & Mach  
+(Other 
+Transport) 
+(5) 
+107-98-2 
+ 
+2-propanol 
+0.533 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+67-64-1 
+ 
+Acetone 
+0.620 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+74-86-2 
+ 
+Acetylene 
+0.923 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+71-43-2 
+ 
+Benzene 
+0.923 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+106-97-8 
+ 
+Butane 
+0.827 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+74-84-0 
+ 
+Ethane 
+0.799 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64-17-5 
+ 
+Ethanol 
+0.521 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+74-85-1 
+ 
+Ethylene 
+0.856 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+110-54-3 
+ 
+Hexane 
+0.835 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75-28-5 
+ 
+Isobutane 
+0.827 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78-78-4 
+ 
+Isopentane 
+0.832 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+108-38-3 
+ 
+m-xylene 
+0.905 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95-47-6 
+ 
+o-xylene 
+0.905 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+109-66-0 
+ 
+Pentane 
+0.832 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+74-98-6 
+ 
+Propane 
+0.817 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+115-07-01 
+ 
+Propylen 
+0.621 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+106-42-3 
+ 
+p-xylene 
+0.905 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+108-88-3 
+ 
+Toluene 
+0.913 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unspeciated mixtures of m-, o- and p-xylene 
+0.905 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Source: Data in table compiled from various references by Kristina Saarinen, Finnish Environment Institute. 
+   
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+7.14                                                                                                                                 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE A7.3 (NEW) 
+CARBON CONTENT OF VARIOUS MATERIALS (PERCENT CARBON BY MASS, PC) AND PERCENT OF TOTAL SOLVENT NMVOC EMISSIONS (BY MASS, PU) 
+Material 
+PC 
+PU 
+ 
+PC 
+PU 
+ 
+PC 
+PU 
+Methane 
+75.0 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+Carbon monoxide 
+42.9 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+United States 
+ 
+Austria 
+ 
+Hungary18 
+  
+Solvent NMVOCs1 
+ 
+ 
+Solvent NMVOCs 
+ 
+ 
+Solvent NMVOCs 
+ 
+  
+Methylene chloride 
+14 
+2 
+  
+  
+  
+  
+  
+  
+Perchloroethylene 
+14 
+1 
+  
+  
+  
+  
+  
+  
+Trichloroethane 
+18 
+1 
+  
+  
+  
+  
+  
+  
+Trichloroethylene 
+18 
+1 
+Residuals 
+25 
+  
+  
+  
+  
+Methyl alcohol 
+38 
+1 
+Methanol 
+38 
+  
+  
+  
+  
+Ethylene glycol 
+39 
+1 
+  
+  
+  
+  
+  
+  
+Propylene glycol solvents2 
+47 
+1 
+Glycols 
+50 
+  
+  
+  
+  
+Ester solvents 
+49 
+1 
+  
+  
+  
+  
+  
+  
+Ethyl alcohol 
+52 
+24 
+Alcohols 
+52 
+  
+  
+  
+  
+Butanediol derivatives3 
+53 
+7 
+  
+  
+  
+  
+  
+  
+Ester acetate4 
+55 
+19 
+Ester 
+59 
+  
+  
+  
+  
+Other ethylene oxide solvents5 
+55 
+<1 
+  
+  
+  
+Glue, etc. 
+57 
+- 
+Propyl acetate 
+59 
+2 
+  
+  
+  
+Waste base paint 
+57 
+- 
+Isopropyl alcohol 
+60 
+10 
+  
+  
+  
+  
+  
+  
+Propyl alcohol 
+60 
+2 
+Alcohols/propanols 
+60 
+  
+  
+  
+  
+E-series ether solvents6 
+61 
+<1 
+  
+  
+  
+  
+  
+  
+ 
+ 
+                                                                                                                                                                                                             Chapter 7: Precursors and Indirect Emissions 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+      7.15 
+TABLE A7.3 (NEW) (CONTINUED) 
+ CARBON CONTENT OF VARIOUS MATERIALS (PERCENT CARBON BY MASS, PC) AND PERCENT OF TOTAL SOLVENT NMVOC EMISSIONS (BY MASS, PU) 
+Material 
+PC 
+PU 
+ 
+PC 
+PU 
+ 
+PC 
+PU 
+Methane 
+75.0 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+Carbon monoxide 
+42.9 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+United States 
+ 
+Austria 
+ 
+Hungary18 
+ 
+Solvent NMVOCs1 
+ 
+ 
+Solvent NMVOCs 
+ 
+ 
+Solvent NMVOCs 
+ 
+ 
+Acetone 
+62 
+2 
+Acetone 
+62 
+  
+  
+  
+  
+Butyl acetate 
+62 
+<1 
+  
+  
+  
+  
+  
+  
+Other propylene oxide-derived solvents7 
+62 
+<1 
+  
+  
+  
+  
+  
+  
+Furfural solvents8 
+63 
+2 
+  
+  
+  
+  
+  
+  
+Other chlorinated solvents9 
+64 
+<1 
+  
+  
+  
+  
+  
+  
+Ether solvents10 
+65 
+1 
+Ether 
+65 
+  
+  
+  
+  
+Other alcohol solvents11 
+65 
+2 
+  
+  
+  
+  
+  
+  
+Methyl ethyl ketone 
+67 
+1 
+Ketones 
+67 
+  
+  
+  
+  
+Tetrahydrofuran solvents12 
+67 
+1 
+Aldehydes 
+67 
+  
+  
+  
+  
+Methyl isobutyl ketone 
+72 
+1 
+  
+  
+  
+  
+  
+  
+Other ketone solvents13 
+72 
+2 
+  
+  
+  
+Other paint, lack, etc. 
+80 
+- 
+Special napthas14 
+84 
+12 
+Solvent naphta 
+86 
+  
+Solvent based paint 
+81.4 
+- 
+D-Limonene solvents15 
+88 
+<1 
+Cyclic hydrocarbons 
+86 
+  
+Solvent  
+81.6 
+- 
+Pinene solvents16 
+88 
+1 
+Paraffins 
+86 
+  
+  
+  
+  
+Toluene 
+91 
+<1 
+Aromates 
+91 
+  
+  
+  
+  
+Xylene 
+91 
+<1 
+  
+  
+  
+  
+  
+  
+Benzene 
+92 
+<1 
+  
+  
+  
+  
+  
+  
+Solvent weighted average17 
+56.3 
+  
+  
+60 to 66 
+  
+  
+76 to 80 
+  
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+7.16                                                                                                                                 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE A7.3 (NEW) (CONTINUED) 
+ CARBON CONTENT OF VARIOUS MATERIALS (PERCENT CARBON BY MASS, PC) AND PERCENT OF TOTAL SOLVENT NMVOC EMISSIONS (BY MASS, PU) 
+Source: Pu values taken from National Inventory Reports submitted in 2004. <http://unfccc.int/national_reports/annex_i_ghg_inventories/national_inventories_submissions/items/3473.php/>. 
+Pc values as noted below. 
+1) Except where noted, values from CRC Handbook of Chemistry and Physics. CRC Press, 1995. 
+2) Assumed to be "propylene glycol". 
+3) Assumed to be 1,3-butanediol. 
+4) Assumed to be "ethyl acetate". 
+5) Assumed to be "ethylene oxide". 
+6) Assumed to be "ethylene glycol n-butyl ether" (trade name "Dowanol EB"). 
+7) Assumed to be "propylene oxide". 
+8) Assumed to be "furfural" (2-furaldehyde). 
+9) Assumed to be "chlorobenzene". 
+10) Assumed to be "diethyl ether". 
+11) Assumed to be "butyl alcohol". 
+12) Assumed to be "tetrahydrofuran" (THF) (1,4-Epoxybutane). 
+13) Assumed to be methyl isobutyl ketone (MIBK). 
+14) Assumed to be "hexane". 
+15) Assumed to be "limonene" (1-methyl-4-(1-methylethyl)cyclohexene). 
+16) Assumed to be "alpha pinene" (bicylc(3.1.1)hept-2-ene,2,6,6-trimethyl). 
+17) USA value is for 1998, Austria and Hungary values vary from year to year based on mix of solvent chemicals used. 
+18) Values apply only to the solvent portion of each material. The solvent content of each material assumed was as follows: solvent based paint 50%, water based paint 5-6%, other paint 25%, glue 8%, 
+and solvent 100%. 
+ 

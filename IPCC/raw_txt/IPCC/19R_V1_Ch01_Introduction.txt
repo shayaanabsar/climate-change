@@ -1,0 +1,1256 @@
+ 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+CHAPTER 1 
+INTRODUCTION TO NATIONAL GHG 
+INVENTORIES 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Justin Goodwin (UK), Michael Gillenwater (USA), Daniela Romano (Italy), Klaus Radunsky (Austria) 
+ 
+ 
+ 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+Contents 
+1     Introduction to National GHG Inventories .................................................................................................... 1.5 
+1.1     Concepts ............................................................................................................................................... 1.5 
+1.2     Estimation methods .............................................................................................................................. 1.7 
+1.3     Structure of the Guidelines ................................................................................................................... 1.7 
+1.4     Inventory quality .................................................................................................................................. 1.7 
+1.4a   National GHG Inventory Arrangements ............................................................................................... 1.7 
+1.4.1     Institutional Arrangements ........................................................................................................... 1.8 
+1.4.2     Datasets and data flows .............................................................................................................. 1.16 
+1.5     Compiling an Inventory ...................................................................................................................... 1.18 
+1.6     GHG inventory management tools ..................................................................................................... 1.18 
+1.6.1     Workplans .................................................................................................................................. 1.18 
+1.6.2     Data management system .......................................................................................................... 1.19 
+1.6.3     Management of QA/QC & documentation material .................................................................. 1.21 
+1.6.4     GHG inventory training activities .............................................................................................. 1.21 
+1.6.5     Education, awareness raising and public access to the information ........................................... 1.21 
+References…………………………………………………………………………………………………. ...... 1.23 
+Tables 
+Table 1.1 (New) 
+An illustrative example structure for capturing and sharing information on the 
+objectives of the national GHG inventory .................................................................. 1.10 
+Table 1.2 (New) 
+Illustrative table constructed around UK GHG inventory objectives ......................... 1.11 
+Table 1.3 (New) 
+List of common actors and stakeholder types with their general roles and capabilities
+ .................................................................................................................................... 1.13 
+Table 1.4 (New) 
+Examples of metadata for tracking GHG inventory stakeholders............................... 1.14 
+Table 1.5 (New) 
+Illustrative list of datasets used in the GHG inventory ............................................... 1.17 
+Table 1.6 (New) 
+Illustrative workplan for the preparation of a GHG inventory including an indicative     
+timeline ....................................................................................................................... 1.19 
+Table 1.7 (New) 
+Suggested information in a standardised data structure for collating GHG inventory    
+data ............................................................................................................................. 1.20 
+Table 1.8 (New) 
+Suggested description of potential, planned and implemented improvements in 
+inventory improvement plan ....................................................................................... 1.21 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure 1.0 (New) 
+Illustrative example of GHG inventory institutional arrangements structuring .... 1.12 
+Boxes 
+Box 1.0a (New) 
+Linkages of GHG inventory activities with other data collection and reporting ..... 1.8 
+Box 1.0b (New) 
+Illustrative data flow overview diagram example for South Africa ...................... 1.16 
+ 
+ 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+1 INTRODUCTION TO NATIONAL GHG 
+INVENTORIES 
+Users are expected to go to Mapping Tables in Annex 1, before reading this chapter. This is required to correctly 
+understand both the refinements made and how the elements in this chapter relate to the corresponding chapter 
+in the 2006 IPCC Guidelines. 
+No refinement. 
+1.1 
+CONCEPTS 
+Inventories rely on a few key concepts for which there is a common understanding. This helps ensure that 
+inventories are comparable between countries, do not contain double counting or omissions, and that the time 
+series reflect actual changes in emissions. 
+Anthropogenic emissions and removals  
+Anthropogenic emissions and removals means that greenhouse gas emissions and removals included in national 
+inventories are a result of human activities. The distinction between natural and anthropogenic emissions and 
+removals follows straightforwardly from the data used to quantify human activity. In the Agriculture, Forestry and 
+Other Land Use (AFOLU) Sector, emissions and removals on managed land are taken as a proxy for anthropogenic 
+emissions and removals (Managed Land Proxy), and inter-annual variations in natural background emissions and 
+removals, though these can be significant, are assumed to average out over time.  
+The 2019 Refinement provides in Chapter 2 of Volume 4 an optional approach for estimation and reporting of 
+anthropogenic greenhouse gas emissions and removals resulting from land use, land-use change and forestry with 
+the intention to disaggregate the emissions and removals on managed land (i.e., emissions and removals estimated 
+using the Managed Land Proxy) into those that are considered to result from human activities and those that are 
+considered from natural disturbances (Volume 4, Chapter 2, Section 2.6). Where a country chooses to use this 
+voluntary approach, it is good practice to report the total emissions and removals estimated using the Managed 
+Land Proxy and the two disaggregated components, and to document the methods and assumptions used.   
+There are additional methods for estimating anthropogenic emissions and removals for flooded land that include 
+the standard application of the Managed Land Proxy and an optional method to produce indicative estimates of 
+anthropogenic component of GHG emissions. For details, see Volume 4, Chapter 70F1. 
+Treatment of CO2, CH4 and N2O emissions from combustion of biomass or 
+biomass-based products 
+The overall IPCC approach to greenhouse gas emissions from combustion of biomass or biomass-based products 
+(e.g., ethanol) at the national level allows for complete coverage of emissions and removals, and involves all IPCC 
+sectors, including in particular, Energy, AFOLU, and Waste (see e.g. Volume 2, Chapter 2, Section 2.3.3.4; 
+Volume 3, Chapter 3, Section 3.11; Volume 4, Chapter 12, Section 12.5; Volume 5, Chapter 5, Section 5.1).   
+Carbon dioxide (CO2) emissions from the combustion of biomass or biomass-based products are captured within 
+the CO2 emissions in the AFOLU sector through the estimated changes in carbon stocks, e.g. from biomass harvest, 
+even in cases where the emissions physically take place in other sectors (e.g., energy). This approach to estimate 
+and report all CO2 emissions from biomass or biomass-based products in the AFOLU was introduced in the first 
+IPCC guidelines for national greenhouse gas emissions (IPCC 1995), reflecting close linkages with data on 
+biomass harvesting, and for the pragmatic reason to avoid double counting.  
+In AFOLU, CO2 emissions from biomass or biomass-based products used for energy purposes are calculated as 
+an implicit component of carbon stock changes, e.g. for all forest types and other wood producing land categories, 
+as part of carbon stock changes in the HWP pool, or when a country chooses to use more advanced (higher tier) 
+methodologies for carbon stock changes in above ground biomass from annual crops.1F2 The CO2 emissions from 
+biomass or biomass-based products used for energy purposes are not included in the sectoral total emissions in 
+ 
+1 In the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands (Wetlands 
+Supplement), additional methods are applied to the coastal wetlands that do not follow the standard application of the 
+Managed Land Proxy. 
+2 For annual crops, the IPCC Guidelines assume that biomass carbon stock lost through harvest and mortality equal biomass 
+carbon stock gained through growth in that same year and so annual crops involve no net CO2 emissions or removals from 
+biomass carbon stock changes when using Tier 1 methods in the remaining categories of the AFOLU sector (see Section 1.2, 
+Chapter 1, Volume 1 of the 2006 IPCC Guidelines). 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+either the Energy or Waste sectors. This guidance is to avoid the possibility of double counting these emissions in 
+two or more inventory sectors.    
+In the Energy sector, CO2, methane (CH4) and nitrous oxide (N2O) emissions from combustion of biomass or 
+biomass-based products for energy are estimated, but the CO2 emissions are recorded as an information item that 
+is not included in the sectoral total emissions for the Energy sector. This provides a complete picture of a country’s 
+energy system and avoids double counting of these emissions with those reported in the AFOLU sector. The CH4 
+and N2O emissions from the combustion of biomass or biomass-based products for energy are reported and 
+included in the sectoral total emissions in Energy sector, as these are not covered by the estimation methods in the 
+AFOLU sector. 
+Carbon dioxide emissions from waste incineration or burning under the Waste sector can derive from both, fossil 
+and biomass materials. When waste is incinerated for energy, the CO2, CH4 and N2O emissions from the biogenic 
+part of waste are treated in the same way as emissions from other combustion of biomass or biomass-based 
+products for energy (i.e., CO2 emissions are recorded as an information item in the Energy sector). When waste is 
+burned without energy recovery, CH4 and N2O emissions from the biogenic part of waste are estimated and 
+included in the Waste sector, whereas the corresponding CO2 emissions are not reported to avoid double counting 
+with CO2 emissions reported in the AFOLU sector.  
+National territory 
+National inventories include greenhouse gas emissions and removals taking place within national territory and 
+offshore areas over which the country has jurisdiction. There are some special issues that are described in Section 
+8.2.1 of Volume 1. For example, emissions from fuel use in road transport are included in the emissions of the 
+country where the fuel is sold and not where the vehicle is driven, as fuel sale statistics are widely available and 
+usually much more accurate.  
+Inventory year and time series  
+National inventories contain estimates for the calendar year during which the emissions to (or removals from) the 
+atmosphere occur. Where suitable data to follow this principle are missing, emissions/removals may be estimated 
+using data from other years applying appropriate methods such as averaging, interpolation and extrapolation. A 
+sequence of annual greenhouse gas inventory estimates (e.g., each year from 1990 to 2000) is called a time series. 
+Because of the importance of tracking emissions trends over time, countries should ensure that a time series of 
+estimates is as consistent as possible. 
+Inventory reporting  
+A greenhouse gas inventory includes a set of standard reporting tables covering all relevant gases, categories and 
+years, and a written report that documents the methodologies and data used to prepare the estimates.  
+The 2019 Refinement provides standardised reporting tables, but the actual nature and content of the tables and 
+written report may vary according to, for example, a country’s obligations as a Party to the United Nations 
+Framework Convention on Climate Change (UNFCCC). The 2019 Refinement provides worksheets to assist with 
+the transparent application of the most basic (or Tier 1) estimation methodology.  
+Greenhouse gases 
+The greenhouse gases covered in the 2019 Refinement are reported in Chapter 8. 
+Other gases 
+The 2019 Refinement also provides information for the reporting of the precursors although methods for estimating 
+emissions of these gases are not given here. The list of precursors is reported in Chapter 8 of Volume 1. 
+Sectors and Categories 
+Greenhouse gas emission and removal estimates are divided into main sectors, which are groupings of related 
+processes, sources and sinks: 
+• 
+Energy; 
+• 
+Industrial Processes and Product Use (IPPU); 
+• 
+Agriculture, Forestry and Other Land Use (AFOLU); 
+• 
+Waste; 
+• 
+Other (e.g., indirect emissions from nitrogen deposition from non-agriculture sources2F3). 
+ 
+3  Estimates include N2O emissions from deposition of anthropogenic nitrogen (N) from NOx/NH3 wherever deposited and 
+from whatever source (but not allocated to specific sectors). The reason for this is that emission factors for nitrogen deposited 
+are of the same magnitude for agricultural sources as for other nitrogen sources, even when the N is deposited in the ocean. 
+ 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.7 
+Each sector comprises individual categories (e.g., transport) and sub-categories (e.g., cars). Ultimately, countries 
+will construct an inventory from the sub-category level because this is how IPCC methodologies are set out, and 
+total emissions calculated by summation. A national total is calculated by summing up emissions and removals 
+for each gas. An exception is emissions from fuel use in ships and aircraft engaged in international transport which 
+is not included in national totals, but is reported separately. 
+In order to calculate a national total it is necessary to choose an approach to include harvested wood products 
+(HWP). Countries can select any of the approaches reflected in Chapter 12 of Volume 4 for the AFOLU Sector to 
+do this.  
+Reporting is generally organised according to the sector actually generating emissions or removals. There are some 
+exceptions to this practice, such as CO2 emissions from biomass combustion for energy, which are reported in 
+AFOLU Sector as part of net changes in carbon stocks. Where CO2 emissions are captured from industrial 
+processes or large combustion sources, emissions should be allocated to the sector generating the CO2 unless it 
+can be shown that the CO2 is stored in properly monitored geological storage sites as set out in Chapter 5 of 
+Volume 2. 
+1.2 
+ESTIMATION METHODS 
+No refinement. 
+1.3 
+STRUCTURE OF THE GUIDELINES 
+No refinement regarding the structure of the 2006 IPCC Guidelines. Regarding the structure of the 2019 
+Refinement, see the Overview Chapter. 
+1.4 
+INVENTORY QUALITY 
+No refinement. 
+1.4A  NATIONAL GHG INVENTORY ARRANGEMENTS 
+This section provides guidance on establishing GHG inventory arrangements that support the sustained updating 
+and maintenance of high quality and continuously improving national GHG inventories.   
+It is considered good practice that countries improve the quality (transparency, accuracy, completeness, 
+comparability and consistency (TACCC)) of national GHG inventories on a continuous basis. It is generally 
+accepted that GHG inventories are useful to users if they are updated on a regular basis. There should be 
+improvement over time to provide increasingly useful information on national GHG trends (including influencing 
+factors) and transparent reporting. Establishing sustainable national GHG inventory arrangements will help to 
+continuously improve and regularly update national GHG inventories. 
+Guidance provided in this section should not be considered prescriptive. It suggests possible approaches and 
+examples of national GHG inventory arrangements demonstrated to be useful when developing sustainable GHG 
+inventory systems that will improve quality3F4, timeliness, and use of resources. 
+National GHG inventory systems could benefit from being developed in cooperation or integration with other 
+environmental and sustainability statistical data collection services and reporting activities (see Box 1.0a).  
+ 
+4 Transparency, accuracy, completeness, consistency and comparability. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+1.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 1.0A (New) 
+LINKAGES OF GHG INVENTORY ACTIVITIES WITH OTHER DATA COLLECTION AND REPORTING 
+The following linkages can be beneficial and could be managed as a wider programme under GHG 
+inventory arrangements.  
+National Statistical Systems provide a wide range of data that can be relevant for the GHG 
+inventory compilation. These statistical systems collect data on a regular basis and establish 
+standards for data quality. GHG inventory compilation is a specialised national data collection 
+activity that requires the collection of additional data that are not typically in national statistics (e.g. 
+emission factors). GHG inventories should use national statistics where possible. Countries may 
+integrate their national GHG inventory arrangements, to varying degrees, with their national 
+statistical systems.  
+Subnational GHG inventory compilation and facility-reporting (e.g. cities, states, provinces, 
+territories, and facility emission registries) can bring benefit to and gain from engagement with more 
+structured and coordinated national GHG inventory arrangements. This benefit can result from 
+interest in and contribution to combined efforts to gather/collate/use geographically resolved data 
+such as for regulated sites (including large industrial installations, waste disposal and 
+recycling/treatment sites), and diffuse traffic and transport, agriculture and forestry. Use of common 
+guidelines, approaches and assumptions and pooled resources/expertise between national and 
+subnational estimation activities will also help to improve the efficiency and credibility of GHG 
+estimates and decision-making processes associated with them. 
+National GHG and air pollutant inventories can be compiled in tandem. This cooperation or 
+integration can improve quality across inventories, as a large proportion of the activity data (energy, 
+agriculture, transport statistics) are the same for both. It may also improve linkages (through 
+consistent use of data) between climate mitigation and air pollution reporting (e.g. to the UNFCCC 
+and UNECE) and tracking the impact of air pollution and GHG measures to help decision makers 
+understand the co-benefits and potential conflicts. Countries that apply this integrated or cooperative 
+approach may pool resources and management systems for both GHGs and air pollutant inventories 
+and operate more efficiently. 
+Other environmental and sustainability data gathering processes are undertaken in many 
+countries. These processes involve the collection, reporting of environmental, and sustainability 
+data, including GHG emissions and removals, (e.g., in support of indicators for the UN’s Sustainable 
+Development Goals and national statistical environmental economic accounts). These initiatives 
+often have a direct links to GHG inventory compilation activities in either using data from the GHG 
+inventory or providing inputs to its datasets.  
+1.4.1 
+Institutional Arrangements 
+This section introduces the concept of institutional arrangements. There is a wide diversity in approaches used by 
+countries to monitor, report, verify, and respond to review of its GHG estimates on a regular basis. A sustainable 
+process for compilation and continuous improvement is an important aspect of institutional arrangements. 
+Recognising this, this section presents some common concepts and provides some examples of approaches that 
+could be used when setting up or strengthening sustainable GHG inventory arrangements. Guidance provided in 
+this section should not be considered prescriptive. 
+Institutional arrangements include the interactions between organisations that are involved with the GHG 
+inventory inputs, compilation processes, and outputs. This could include environment, energy, transport, 
+agricultural, and statistical ministries and/or agencies, academic/research institutions, private organisations and 
+career experts and consultants. 
+Countries may also consider the need for new or modified laws or directives establishing requirements for data 
+collection, archiving, reporting, and quality management to formalize institutional arrangements for national GHG 
+inventory compilation in the context of existing national statistical data collection systems. 
+ 
+ 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.9 
+1.4.1.1 GHG INVENTORY OBJECTIVES 
+A useful concept to help define GHG inventory activities and outputs are a country’s GHG inventory objectives 
+and other decision-making needs for the GHG data. The identification of objectives will help define the GHG 
+inventory’s data and expertise needs, roles and responsibilities, scope (e.g. sectors, gases, geographies, time-series 
+duration), and timeframes (e.g. schedule and updating frequency) for the inventory compilation, reporting, and 
+review processes. Identifying and assessing objectives also helps the institutions involved in the compilation 
+understand how/if objectives interact/conflict/mesh with IPCC good practice. An illustrative example of a 
+simplified format that could be used to characterise objectives is presented in Table 1.1. Such a summary table 
+could complement more detailed descriptions when presenting GHG inventory arrangements. An illustrative 
+example summary constructed around the United Kingdom’s GHG inventory objectives is presented in Table 1.2. 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.10                                                                                                                                 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 1.1 (NEW) 
+AN ILLUSTRATIVE EXAMPLE STRUCTURE FOR CAPTURING AND SHARING INFORMATION ON THE OBJECTIVES OF THE NATIONAL GHG INVENTORY 
+Objective1 
+Gases2 
+Sectors & 
+categories3 
+Geographical 
+resolution 
+Temporal 
+resolution of 
+estimates4 
+Time series span5 
+Reporting 
+frequency6 
+Reporting formats7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. List the objectives that the national GHG inventory supports. 
+2. Add gases included e.g. CO2, CH4, N2O, fluorinated GHGs, other gases such as precursor pollutants. 
+3. Add sectors included Energy, IPPU, AFOLU, Waste, other sectors. 
+4. The temporal resolution is usually annual (e.g. 2010, 2011, 2012). Some GHG inventories have different durations spanning several years or sub-yearly (e.g. monthly data). 
+5. Indicate the start and end date of the time series. 
+6. How frequently is the data updated? 
+7. Highlight any specific reporting formats (e.g. table structures, schemas, variables needed for specific reporting). 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories                                                                                                                                 1.11 
+TABLE 1.2 (NEW) 
+ILLUSTRATIVE TABLE CONSTRUCTED AROUND UK GHG INVENTORY OBJECTIVES 
+Objective 
+Gases 
+Sectors & 
+categories 
+Geographical 
+resolution 
+Temporal 
+resolution of 
+estimates 
+Timeseries span  
+Reporting 
+frequency 
+Reporting formats 
+UNFCCC: Annual 
+Reporting[a] 
+CO2, CH4, N2O, 
+Fluorinated gases, 
+Precursors (SO2, NOx, 
+CO, NMVOC) 
+Energy, IPPU, 
+AFOLU, Waste 
+UK + Overseas 
+Territories 
+Annual estimates 
+Yearly values from 
+1990 until two years 
+prior to current 
+calendar year 
+Annual 
+NIR and CRF[f] 
+National Statistics 
+Environmental 
+Accounts[e] 
+Environmental 
+Accounts[e] 
+EU Monitoring 
+Mechanism 
+Regulation[c] 
+Regulated installations 
+within mainland UK 
+NIR and CRF 
+National Carbon 
+Budgets[d] 
+CO2, CH4, N2O, 
+Fluorinated gases 
+UK 
+Carbon Budget 
+UNFCCC: Biennial 
+Report 
+UK + Overseas 
+Territories 
+Biennial 
+CRF: Summary table 2 
+UNFCCC: National 
+Communication 
+Every four year 
+ 
+UNFCCC: Nationally 
+Determined 
+Contributions[b] 
+5 Years 
+CRF: Summary table 2 
+[a] See decision 24/CP.19 on Revision of the UNFCCC reporting guidelines on annual inventories for Parties included in Annex I to the Convention. (Available at: https://unfccc.int/documents/8105).  
+[b] Article 4(9) of the Paris Agreement: http://unfccc.int/files/essential_background/convention/application/pdf/english_paris_agreement.pdf. 
+[c] UK reporting commitments to the EU valid from 08/07/2013: Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas 
+emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC. (Available at: https://rod.eionet.europa.eu/instruments/652). 
+[d] https://www.gov.uk/guidance/carbon-budgets. 
+[e] https://www.ons.gov.uk/economy/environmentalaccounts. 
+[f] NIR = National Inventory Report, CRF = Common Reporting Format. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.4.1.2 STRUCTURING OF INSTITUTIONAL ARRANGEMENTS 
+Clarifying the structure of institutional arrangements can help formalise and communicate the functional roles of 
+organisations in the national inventory compilation process. An illustrative structure provides an overview of the 
+roles and responsibilities whether institutional arrangements are part of a larger statistical data gathering operation 
+or a stand-alone and dedicated GHG inventory activity. An informative structure diagram could also include 
+organisation names. An illustrative example structure with optional components is presented in Figure 1.0.  
+An overview of the roles and responsibilities within institutional arrangements is elaborated in Section 1.4.1.3. 
+Figure 1.0 (New) Illustrative example of GHG inventory institutional arrangements 
+structuring 4F5 
+ 
+There are numerous approaches other than use of a Steering committee that can bring outside input into the GHG 
+inventory process, such as through a public review period for the GHG inventory. 
+1.4.1.3  ROLES AND RESPONSIBILITIES 
+There are many actors and stakeholders involved with and/or interested in GHG inventory inputs, processes, and 
+outputs. Common actors and stakeholder types are presented in Table 1.3. In some countries, a single 
+individual/structure may serve in more than one actor role. Understanding the interests, contributions and 
+involvement of these actors and stakeholders can help to establish a long-term and well-functioning national GHG 
+inventory system.  
+ 
+5 The term “Steering Committee” has been used as a generic term to represent a group of interested stakeholders that have 
+influence over the inputs to and development of the GHG inventory. 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.13 
+TABLE 1.3 (NEW) 
+LIST OF COMMON ACTORS AND STAKEHOLDER TYPES WITH THEIR GENERAL ROLES AND CAPABILITIES  
+Actor and Stakeholder 
+Type 
+Examples of Typical Roles 
+Necessary Capabilities 
+Single National Entity 
+(SNE) /National Focal 
+Point (NFP) (see 1.4.1.4) 
+Acquisition and allocation of 
+resources. 
+Development of long-term strategy for 
+GHG inventory support to national 
+decision makers, climate action and 
+reporting.  
+Arranging contracts and agreements 
+with collaborating entities that 
+contribute data, research studies, 
+estimate emissions or provide expert 
+reviews, etc. 
+Responsible for submission of GHG 
+inventory.  
+Technical and administrative expertise, as 
+well as formal government authority. 
+Understanding of reporting requirements and 
+IPCC good practice concepts. 
+Capacity to coordinate and lead the process. 
+Authority to engage other government 
+departments and non-government 
+organisations. 
+A group or management 
+structure that contributes 
+to steering the GHG 
+inventory development 
+and who is interested in 
+its outputs and key 
+messages on trends in 
+GHGs (e.g. Steering 
+committee, see 1.4.1.5) 
+Provide input to the planning, 
+coordination, management and 
+technical facilitation of inputs and 
+outputs in the process, advisors to the 
+National Focal Point. 
+Advice on choice of methods with 
+regard to data availability and 
+decision-making needs. 
+Sectoral, dataset and/or government policy 
+involvement, knowledge, and authority over 
+data collection, research and national 
+strategies. 
+Involved with policy and decision making and 
+negotiations (e.g. on target setting and 
+mitigation implementation) that uses national 
+GHG inventory data. 
+Inventory 
+manager/coordinator (see 
+1.4.1.6) 
+Management of contracts and delivery 
+of workplans. 
+Coordination with all actors and 
+stakeholders. 
+Management of experts. 
+Management of data supply and data 
+supply agreements. 
+Identification of resources necessary to 
+improve data flows. 
+Coordination of reviews and responses 
+to independent review/analysis and 
+tracking of recommendations. 
+Technical reporting of GHG inventory 
+data and formal submission of reports.  
+Project management & team management. 
+Quality assurance/ Quality control (QA/QC) 
+(see Section 1.6.3). 
+Technical knowledge of the reporting 
+requirements, review processes and IPCC 
+methodologies. 
+Technical awareness of tools, processes, and 
+IT systems for gathering and reviewing data. 
+Compilation (sector) 
+experts and researchers 
+(see 1.4.1.7) 
+• 
+Energy 
+• 
+IPPU 
+• 
+AFOLU 
+• 
+Waste 
+Overall development of methods, data 
+sources, data gathering, compilation 
+and document management. 
+Identify and propose ways to resolve 
+cross cutting issues. 
+Undertake research, data collection, 
+calculations, drafting, quality control, 
+archiving, and documentation. 
+Coordinate with other sector experts. 
+Specialist in a sector, category or 
+group of categories. 
+Identification of potential 
+improvements to estimates. 
+Technical knowledge of the reporting 
+requirements and IPCC methodologies. 
+Technical skills to carry out the work required 
+for the GHG inventory calculation (data 
+analysis, QA/QC, calculations, 
+documentation). 
+Familiarity with national statistics. 
+Specific national sectoral or sub-sectoral 
+knowledge of practices and technologies 
+employed, data sources, trade associations, 
+networks, policies and key assumptions. 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 1.3 (NEW) (CONTINUED) 
+LIST OF COMMON ACTORS AND STAKEHOLDER TYPES WITH THEIR GENERAL ROLES AND CAPABILITIES  
+Actor and Stakeholder 
+Type 
+Examples of Typical Roles 
+Necessary Capabilities 
+Data providers (see 
+1.4.1.8) 
+Timely delivery of input data in 
+appropriate format. 
+Management of data acquisition, 
+processing and reporting systems, 
+QA/QC requirements.  
+Communication with SNE, the 
+Inventory Agency and sector experts, 
+as needed. 
+Technical skills/knowledge of, legal authority 
+to improve and enhance data collection. 
+Understanding of the datasets provided. 
+Other contributors and 
+users 
+General interest in the work with 
+provision of expertise, independent 
+review, research or use of the data for 
+other purposes. 
+Any 
+Policy analyst 
+GHG inventory data users that inform 
+policies and feed into climate action 
+analysis. 
+Any 
+Each actor/stakeholder contributing to the national GHG inventory may need some form of terms of reference 
+(ToR) to facilitate their engagement. Such a ToR can specify functional roles and responsibilities (e.g., inventory 
+compilation, expert input, tool development and use, and/or data collection and storage) and the schedule for 
+conducting this work. Existing terms of reference for duties such as environmental data gathering or industrial 
+reporting may also be revised to address GHG inventory responsibilities.  
+The process of engaging actors and stakeholders is likely to vary between different countries and between sectors 
+within countries. The development and maintenance of lists of actors and stakeholders, their roles, responsibilities 
+and interests are quite common. Table 1.4 provides examples of metadata for listing actors and stakeholders 
+involved in the GHG inventory process. 
+TABLE 1.4 (NEW) 
+EXAMPLES OF METADATA FOR TRACKING GHG INVENTORY STAKEHOLDERS 
+1.Name 
+2.Organisation 
+3.Contact 
+4.Mandate 
+5.Engagement 
+Activities 
+6.Sector 
+7.Role 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Name: stakeholders name. 
+2. Organisation: organisation affiliation. 
+3. Contact: contact details. 
+4. Mandate: mandate/terms of reference to contribute to the GHG inventory (if any). 
+5. Engagement activities (Activities that the stakeholder has been regularly involved with e.g. training, workshops, regular meetings 
+attended, data provision etc.). 
+6. Sector: sectors/categories involved with (any particular sector or category involvement). 
+7. Role: type of involvement (e.g. as a data provider, data user, compilation expert, coordinators, data gathering, QA/QC, review, steering 
+committee meetings, training, sectoral workshops, compilation and reporting activities, consultations, and reviews. 
+1.4.1.4 THE SINGLE NATIONAL ENTITY 
+The term “single national entity” (SNE) is often used to refer to the lead organisation with the responsibility for 
+reporting official national GHG estimates. It is often aligned with the national focal point or international point of 
+contact on climate reporting. The role of SNE is usually taken on by a government ministry with mandate to 
+manage the country’s GHG inventory reporting and response to climate change or may be with a national statistical 
+or environmental agency. A key role within the SNE is that of overseeing the GHG inventory activities. A 
+designated focal point coordinates the activities needed to ensure that outputs are prepared of sufficient quality to 
+meet the country’s commitments. The role of SNE is sometimes delegated by a government ministry, via 
+mandates/terms of reference, to a climate change, environmental, or statistical agency with the technical capacity 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.15 
+to prepare national reports. The SNE could be the Inventory Agency with a mandate to report the GHG inventory 
+data to the ministry or on behalf of the ministry internationally. 
+1.4.1.5 NATIONAL GHG INVENTORY TECHNICAL STEERING 
+COMMITTEE OR WORKING GROUP 
+Countries may find it useful to establish a working group or committee of interested actors and stakeholders to 
+participate in national processes for approving GHG inventory developments and estimates.  
+This group or committee can consist of actors and stakeholders representing users of (e.g. policy makers) and data 
+providers to the national GHG inventory (e.g. research agencies, national statistical organisations, environment 
+agencies, academic institutions, industrial trade associations, and consultancies). It can provide a forum for the 
+SNE to coordinate and communicate on GHG inventory activities and to secure data provision and independent 
+analysis. 
+This group of stakeholders can be also convened in support of prioritisation and implementation of inventory 
+improvements.  
+1.4.1.6 INVENTORY MANAGER/COORDINATOR 
+Types of institutions that could serve as inventory manager/coordinator include: 
+• A government ministry. Inventory management and coordination can be implemented by a government 
+ministry that also serves as the SNE, in which case it should have the appropriate coordination and technical 
+capacity.  
+• A national institution/agency. Inventory management and coordination can be delegated to a competent 
+institution (e.g. statistical, meteorological, or environmental). Such an institution is typically focused on 
+providing technical support and analysis to government officials for decision making and reporting. It will 
+often have expertise on certain sectors and access to some of the datasets needed for the compilation and will 
+then outsource other data gathering and compilation for other sectors (e.g. Forestry and Other Land Use to 
+forest agencies or institutions). 
+• A private company, university or other non-government organisation. The inventory management and 
+coordination can be contractually delegated to an organisation outside of government, such as a university, 
+research institute, or a consultancy/private company. This organisation may be selected for its technical 
+competency and capacity to coordinate the activities and expertise for the compilation and reporting of the 
+inventory. Contracts can be typically set-up with well-defined deliverables and quality objectives5F 6 and 
+commitments to engage the organisation preferably over a suitable period (e.g. 4 to 6 years) to promote the 
+sustained development and maintenance of the GHG inventory. Whether the inventory is managed within the 
+national government or by external organisations, provisions could be in place for the transfer of data, 
+documents, calculation and reporting tools and knowledge of the national GHG inventory to a new inventory 
+manager/coordinator (e.g., from SNE to a new contracted organisation such as a private company), including 
+consideration of adequate training investment. These provisions can help ensure national retention of 
+institutional knowledge and capability to ensure that the inventory can continue to be delivered and achieve 
+quality standards in the future.  
+1.4.1.7 COMPILATION EXPERTS 
+A national GHG inventory system can benefit from a committed team of inventory compilation experts. These 
+experts understand the requirements for inventory quality (as defined in Chapter 1, Section 1.4 of the 2006 IPCC 
+Guidelines), IPCC methods, national emission/removal related sectoral processes/practices, and national datasets. 
+It is advantageous for experts to have a good understanding of international reporting and review processes, which 
+can be developed through participation in international or regional peer review activities. 
+As an example, roles and responsibilities for core compilation functions of the GHG inventory team are also 
+outlined in a comprehensive templates prepared by the US EPA in the Greenhouse Gas Inventory Toolkit (EPA 
+2016). These are not the only examples, but they provide a useful starting point for specifying terms of reference. 
+ 
+6 Linked to the quality principles (TCCCA referred to in Volume 1). 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.4.1.8 DATA PROVIDERS 
+Chapter 2 provides detailed identification of relevant data providers and sources of data. National statistical 
+agencies often have a central role in a country's statistical data collection. Further examples for the formalisation 
+of agreements with data suppliers are provided in Section 1.4.2.2. 
+1.4.2 
+Datasets and data flows 
+There are numerous datasets needed for GHG inventory compilation and many data providers (including national 
+statistical agencies, research institutes, government ministries, etc.) who provide them. Approaches for data 
+collection are provided in Chapter 2. Mapping the “flow” of data, in the form of a diagram, from initial data 
+collection to final reporting, further documents and highlights importance of data providers for the inventory 
+compilation process. An illustrative example of such a diagram is provided in Box 1.0b. 
+BOX 1.0B (NEW) 
+ILLUSTRATIVE DATA FLOW OVERVIEW DIAGRAM EXAMPLE FOR SOUTH AFRICA 
+The diagram below presents a simplified view of the key data flows for South Africa’s GHG 
+inventory. This data flow diagram is underpinned by a list of datasets used in the GHG inventory 
+which links to the relevant data providers held in a related list in South Africa’s National System for 
+GHG Estimation and Reporting6F7. 
+ 
+The diagram illustrates the data flows from industrial reporting, government departments and other 
+data sources for South Africa. Industrial reported data are made available to the GHG inventory via 
+the National Atmospheric Emissions Inventory Systems (NAEIS). Reporting industries are 
+mandated to report certain GHG relevant information into the NAEIS by the GHG Regulation that 
+was established in 2016-2017. A number of government departments provide statistical data such as 
+the energy balance, mineral resources and traffic statistics. Other organisations provide data such as 
+that used for country-specific emission factors derivation, certain agriculture and forestry statistics. 
+More detailed data flows for specific datasets, sectors, or categories can help document the process, improve 
+transparency and build institutional memory. 
+ 
+7 Own construction based on the South Africa’s 2nd Biennial Update Report. (Available at: 
+https://unfccc.int/documents/39835). 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.17 
+1.4.2.1 ARCHIVE OF DATASETS 
+An important component of institutional arrangements is a systematic approach to data management and the 
+collection of data. A first step could be to create and maintain an archive and list of the datasets that are needed 
+for the GHG inventory compilation. This archive and list, which can be established for each sector or as a 
+centralised entity, can help to build and maintain institutional memory and support efficient and transparent 
+compilation of regular updates. An illustrative outline for a list of datasets is presented in Table 1.5. 
+TABLE 1.5 (NEW) 
+ILLUSTRATIVE LIST OF DATASETS USED IN THE GHG INVENTORY 
+1.Name 
+2.Status 
+3.Description 
+4.Reference 
+5.Location 
+6.Data Provider 
+7.Sector/ 
+category 
+8.Update 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Name: This should be a unique name for the dataset. 
+2. Status: Provide a status to indicate if the dataset is received or pending receipt, outdated etc. 
+3. Description: A description of the dataset, including version and date. 
+4. Reference: A reference or link to a relevant data supply agreement if it exists (see Section 1.4.2.2). 
+5. Location: Where the received data are stored within the GHG Inventory archive. 
+6. Data Provider: The provider of the data. 
+7. Sector/category: The sectors/categories of relevance to the dataset. 
+8. Update: The regularity that the dataset is updated. 
+1.4.2.2 DATA SUPPLY AGREEMENTS (DSAS) 
+Chapter 2 on data collection refers to the establishment of agreements formalising data supply. A data supply 
+agreement (DSA) is a document that defines what data, from whom, to whom, and when it will be supplied for 
+GHG inventory compilation. Ideally, a DSA is arranged between the GHG inventory SNE and the data supplier. 
+A DSA can be beneficial for both an SNE/inventory compiler and data supplier. A DSA can help secure data 
+provision in the future. Also, a DSA can assist a data supplying organisations by establishing a formally recognized 
+acknowledgement that can promote the allocation resources within the data supplying organisation to deliver high 
+quality data on time. 
+There are many potential DSA formats. Where there are national laws for data supply, these can be referenced. 
+Where data supply is less formal, DSAs act as an informal specification. Suitable examples of DSAs can be found 
+in many of the countries that are Annex I Parties to the UNFCCC. Possible contents, taken from examples of 
+DSAs,7F8 that could form part of an agreement document between the GHG Inventory SNE and the data supplier 
+stakeholder are suggested below: 
+• background on the needs/mandate for the GHG inventory compilation; 
+• reference to laws/terms of reference and co-operation between the data supplier and the GHG inventory 
+representatives; 
+• objectives of the agreement with reference to an annex specifying the details; 
+• confidentiality provisions and commitments; 
+• procedures that enable the receiving party (the data user, e.g., SNE or inventory agency) to provide feedback 
+to the data supplier on priorities for future improvement of the data set; 
+• signatures of GHG inventory representative and data supplier, if appropriate; 
+• technical annex containing details of the data to be supplied, including: 
+(i) 
+unique title of the dataset (to avoid confusion with other datasets); 
+(ii) 
+confidentiality flags; 
+ 
+8 There are many countries (e.g., United Kingdom, Austria and South Africa) that are working with and developing DSAs. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(iii) 
+description including format (electronic format) and scope (time-series, detail, nomenclature, 
+categories, geographies); 
+(iv) 
+supplying department/service; 
+(v) 
+deadlines for supply; 
+(vi) 
+details of QA/QC applied to the data prior to supply; 
+(vii) 
+uncertainties in the data. 
+A generic template for the development of a DSA in the form of a memorandum of understanding with a data 
+supplier can be found in the National Greenhouse Gas Inventory Templates developed by the United States 
+Environmental Protection Agency and United States Agency for International Development hosted by the LEDs 
+group (EPA 2016). 
+1.5 
+COMPILING AN INVENTORY 
+No refinement. 
+1.6 
+GHG INVENTORY MANAGEMENT TOOLS 
+The development of GHG inventory management tools will help to ensure efficiency and transparency in the GHG 
+inventory compilation activities throughout the steps identified in the compilation cycle in Figure 1.1 of Section 
+1.5 of the 2006 IPCC Guidelines. Tools include workplans, improvement plans, data management systems, quality 
+systems, training and capacity building and documentation procedures.  
+The tools in this section should not be considered prescriptive. The sections below provide some suggested 
+approaches and examples demonstrated to be useful when developing sustainable GHG inventory systems that 
+will improve quality8F9, timeliness, and use of resources. 
+1.6.1 
+Workplans 
+National GHG inventories compiled/updated on a regular basis can benefit from the development of a clearly 
+defined workplan, which clarifies the schedule of steps for generating GHG inventory outputs. An illustrative 
+example workplan for a regular inventory update cycle is presented in Table 1.6. Workplans should be reviewed, 
+and where necessary, revised prior to the start of a new inventory update cycle. The GHG inventory 
+manager/coordinator should maintain these workplans and formalize them with GHG inventory compilation 
+contributors through communication of the workplan. 
+ 
+ 
+ 
+9 Transparency, accuracy, completeness, consistency and comparability. 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.19 
+Table 1.6 is only illustrative. It may require adjustment to the specific national circumstances including the 
+timeframes and time period of the GHG inventory cycle which may be more than 1 year (e.g., 2 or 4 years). 
+1.6.2 
+Data management system 
+The process of preparing and updating a national GHG inventory will involve the use of numerous datasets, 
+documents, references, as well as the application of a range of assumptions, expert judgements, data conversions, 
+and manipulations (e.g., combining data from multiple data sources). Volume 1, Chapter 2 provides guidance on 
+documentation for data collection and Volume 1, Chapter 6 provides additional guidance on documentation.   
+ 
+10 Milestones should be specified as specific calendar dates. 
+TABLE 1.6 (NEW) 
+ILLUSTRATIVE WORKPLAN FOR THE PREPARATION OF A GHG INVENTORY INCLUDING AN INDICATIVE TIMELINE  
+Example Activity 
+Illustrative 
+Milestones9F10 
+Illustrative lead 
+actor/stakeholder 
+Agreement on the scope of work (including stakeholder 
+consultation and identified improvements and updates to the 
+time-series) and timeframes with stakeholders/steering 
+committee 
+Week 1 
+SNE/Inventory 
+manager/coordinator & steering 
+committee engaged for 
+prioritising improvements 
+Appointing/engaging the team of experts to deliver the scope 
+of work needed (data collection, compilation, QA/QC, 
+documentation and reporting) establishing/revising Terms of 
+Reference: 
+• 
+Roles and responsibilities  
+• 
+Timelines 
+• 
+Deliverables 
+• 
+Time (budgets) allocation 
+Week 2-6 
+SNE/Inventory 
+manager/coordinator 
+Sectoral estimation (e.g. Energy, IPPU, Agriculture, FOLU 
+and Waste), including: 
+• 
+Collecting data (engaging with data suppliers) and checking 
+data supplied 
+• 
+Agreeing any new methodologies and/or continuation of 
+existing methodologies 
+• 
+Calculation of estimates 
+• 
+QC (checking of all estimates) 
+• 
+QA (peer review of new estimates) 
+• 
+Documentation 
+• 
+Finalisation of reporting formats 
+Week 3-30 
+Compilation experts 
+Collation of sectoral estimates into draft final datasets and 
+national totals and trends (master summary files or database); 
+compilation of uncertainty and key category analysis 
+Week 30-34 
+Inventory manager/coordinator. 
+Compilation experts where 
+needed for follow-up 
+ 
+QC of draft final estimates and documentation of changes and 
+trends 
+Week 32-36 
+Drafting (collation of the sectoral documentation on methods, 
+data sources and assumptions, key category and uncertainty 
+analysis) into the National Inventory Report 
+Week 34-40 
+Consultation with stakeholders on draft final estimates and 
+National Inventory Report and documented changes and trend 
+features 
+Week 40-46 
+(SNE and steering committee 
+engaged for stakeholder 
+review/consultation on outputs) 
+Finalisation of estimates and the National Inventory Report 
+and archiving of the GHG inventory material 
+Week 46-50 
+Reporting and other deliverables to stakeholders and national 
+decision-making processes 
+Week 50-52 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+There are many different data management systems used by countries. Some use sophisticated database tools 
+connected to the internet and available for users to upload data and to operate from remote locations. However, 
+many countries currently operate using a collection of spreadsheets, databases and bespoke software systems for 
+calculating GHG estimates. Some key points around the differences between data management systems needed 
+for calculating estimates and for aggregating and reporting GHG inventory data are provided below: 
+Calculating GHG Estimates: Sector compilation experts need flexibility to compile estimates using tools 
+appropriate to national circumstances, including the complexity of their data and methods. Specialised models or 
+spreadsheets may be appropriate. Spreadsheets are often used when starting out and for developing methods, as 
+they are accessible to a range of experts. More complex methods will often entail use of specialised models or 
+databases to facilitate complex calculations and/or the handling of large datasets. Whatever tools are used, applying 
+a common practice for documentation within calculation tools including the following points should be considered: 
+1. using standard classification and nomenclatures for compilation of estimates (this nomenclature can be based 
+on country-specific or IPCC or other recognised classifications (e.g. United Nations Statistics Division (UNSD) 
+classifications10F11);  
+2. including metadata in each file and maintaining a master list of the calculation files, their types, authors, and 
+versions; 
+3. using a standard file naming convention across categories and inventory cycles; 
+4. documentation in tools with evidence of the implementation of QA/QC procedures; 
+5. colour coding or other visual formatting to differentiate between areas of data input, calculations, QA/QC 
+checks, explanations, and outputs; 
+6. documenting where historical data or methods have been revised; 
+7. documentation of complex models (see Volume 1, Chapter 6); and 
+8. standard output format for all reported data. 
+Collation, Aggregation and Reporting: For analysis and reporting, inventory data needs to be collated, from 
+what can be in the form of differently formatted spreadsheets or calculation models, into a coherent set of tables 
+that can be aggregated to produce detailed reporting formats, national totals, and summary tables. This collation 
+of data into a single format also enables general QA/QC to be applied more easily using tools that can identify 
+anomalies in trends and missing data points. A suggested standardised structure for collating data within a database 
+on emissions, removals, and relevant activity data from the range of categories, gases, fuels and other sub 
+categories is presented in Table 1.7. 
+ 
+11 https://unstats.un.org/unsd/classifications/. 
+TABLE 1.7 (NEW) 
+SUGGESTED INFORMATION IN A STANDARDISED DATA STRUCTURE FOR COLLATING GHG INVENTORY DATA 
+1.Year 
+2.National 
+Nomenclature 
+3.Reporting 
+Nomenclature 
+4.Geography 
+5.Gas 
+6.Type of 
+variable 
+7.Value 
+8.Units 
+9.Notation 
+Keys 
+10.Referen
+ce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Year (the year of the value in the time-series). 
+2. National nomenclature (if relevant the nomenclature used nationally and linked to the statistics, national definitions and/or source data, 
+allowing reports for national use in a nomenclature familiar to national actors and stakeholders). 
+3. Reporting nomenclature (e.g. IPCC categories and fuels/activities). 
+4. Geography (identifying which part of the national geographical area is represented). 
+5. Gas/pollutant. 
+6. Type of variable (e.g. emission/removal, activity data, implied emission factor). 
+7. The variable value. 
+8. Variable units. 
+9. Notation key (if relevant). 
+10. Reference/description of updates since previous compilation; and reference for the source of the value (calculation file). 
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.21 
+1.6.3 
+Management of QA/QC & documentation material 
+Extensive guidance on QA/QC and documentation is presented in Volume 1, Chapter 6. The following components 
+could be considered as part of QA/QC management and documentation of the GHG inventory: 
+• QA/QC Plan (see Section 6.5 of the QA/QC chapter of the 2006 IPCC Guidelines), including general and 
+category-specific QC procedures (see Sections 6.6 and 6.7). 
+• A log of implemented QA/QC and verification activities with reference to associated documentation and 
+findings (see Sections 6.8 and 6.10 of the QA/QC chapter). 
+• An inventory improvement plan containing potential, planned and implemented improvements. This plan 
+may include a simple table as illustrated in Table 1.8: 
+TABLE 1.8 (NEW) 
+SUGGESTED DESCRIPTION OF POTENTIAL, PLANNED AND IMPLEMENTED IMPROVEMENTS IN INVENTORY IMPROVEMENT 
+PLAN 
+1.Categorisation 
+2.Name 
+3.Description 
+4.Origin 
+5.Status 
+6.Priority 
+7.Owner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. The categorization of the improvement. This could include the sector or categories, and the type of improvement activity (e.g. 
+improved QA/QC processes, improved uncertainties or key category analysis, improving activity data, moving to higher tier methods).  
+2. A short unique name. 
+3. Improvement description including information on timeframes and technicalities for development.  
+4. The origin of the improvement (e.g. recommendation or expert suggestion or international review process). 
+5. The status (e.g. suggested, proposed, planned, work in progress, implemented) of the improvement.  
+6. The priority of the improvement (informed by the key category analysis).  
+7. The owner is the person or entity responsible for implementing the improvement. 
+• An inventory archive (see Section 6.11 of the QA/QC chapter) that structures and stores data on the latest and 
+previous GHG inventory estimates, reports, methodology documents, and calculation files.  
+• Country-specific training material addressing country-specific methods and data management tools. 
+1.6.4 
+GHG inventory training activities 
+Suitably trained and/or experienced GHG inventory experts help support the national GHG inventory system to 
+efficiently produce high quality outputs. Training and experience development can be focussed in three areas: 
+• Training in the methods in the latest IPCC Guidelines available from a number of training services and the 
+UNFCCC/IPCC. 
+• Training in the application of relevant IPCC Guidelines to the country circumstances. This training may include 
+country-specific or international courses and material. 
+• Participation in international review processes (e.g. UNFCCC process), which can provide experts with broader 
+experience with GHG inventories undertaken by other countries. 
+Ready access to training and regular review participation can help build national capacity, understanding of 
+international reporting requirements, and enhance sustainability of the national GHG inventory arrangements. It 
+may be helpful for the Single National Entity to maintain a roster of identified trainers and archive of training 
+material. 
+1.6.5 
+Education, awareness raising and public access to the 
+information 
+A national GHG inventory can provide information (e.g. increasing or decreasing trends and sectoral contributions) 
+to support stakeholder decision making. Education-related activities aimed at stakeholders (e.g. relevant 
+government ministries) can help develop their technical capacity, enhance cooperation, and improve their 
+knowledge that can in turn contribute to the continuous improvement of the GHG inventory. 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+ 
+ 
+1.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+There are activities that can be useful in promoting the GHG inventory processes and outputs. Some examples of 
+such activities include: 
+• Organizing GHG inventory orientated workshops with stakeholders. These can range from technical 
+workshops focused on overall inventory results or on specific sectors to awareness raising events for mass 
+media. 
+• Publication of the GHG inventory data in user-friendly forms using visual tools such as infographics to 
+engage with wider stakeholders, students, the press and policy makers.   
+• Development of overview and sector specific indicators and factsheets highlighting key stories on the trends 
+and progress to targets.   
+Chapter 1: Introduction to National GHG Inventories 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.23 
+References 
+References copied from the 2006 IPCC Guidelines 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories: Volumes 1, 2 and 3. 
+Houghton, J.T., Meira Filho, L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, 
+B.A. (Eds). Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2000). Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories. 
+Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., Enmanuel, S., Buendia, L., Hoppaus, R., 
+Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change (IPCC), 
+IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (2003). Good Practice Guidance for Land Use, land-Use Change and Forestry. Penman, J., Gytarsky, M., 
+Hiraishi, T., Kruger, D., Pipatti, R., Buendia, L., Miwa, K., Ngara, T., Tanabe, K. and Wagner, F. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+References newly cited in the 2019 Refinement 
+EPA (2016). National Greenhouse Gas Inventory Toolkit, USEPA & USAID (available at: 
+http://ledsgp.org/resource/greenhouse-gas-inventory-system/?loclang=en_gb#ghg-toolkit). 
+IPCC (1995). 1994 IPCC Guidelines for National Greenhouse Gas Inventories: Volumes 1, 2 and 3. Houghton, 
+J.T., Meira Filho, L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, B.A. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2014). 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands, 
+Hiraishi, T., Krug, T., Tanabe, K., Srivastava N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (eds). 
+Published: IPCC, Switzerland. 
+ 

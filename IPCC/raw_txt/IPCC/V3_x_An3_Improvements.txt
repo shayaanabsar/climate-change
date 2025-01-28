@@ -1,0 +1,230 @@
+Annex 3: Improvements since 1996 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A3.1 
+ANNEX 3 
+IMPROVEMENTS SINCE 1996 
+Volume 3: Industrial Processes and Product Use 
+A3.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Jochen Harnisch (Germany) and William Kojo Agyeman-Bonsu (Ghana) 
+Paul Ashford (UK), Scott Bartos (USA), Lisa Hanle (USA), Charles Jubb (Australia), Jerry Marks (USA), 
+Archie McCulloch (UK), Robert Lanza (USA), Jos G. J. Olivier (Netherlands), Deborah Ottinger Schaefer (USA) 
+and Timothy Simmons (UK) 
+Annex 3: Improvements since 1996 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A3.3 
+Contents 
+Annex 3 
+Improvements since 1996 ................................................................................................................A3.4 
+A3.1 
+Mineral industry emissions...........................................................................................................A3.4 
+A3.2 
+Chemical industry emissions........................................................................................................A3.4 
+A3.3 
+Metal industry emissions..............................................................................................................A3.5 
+A3.4 
+Non-energy products from fuels and solvent use .........................................................................A3.5 
+A3.5 
+Electronics industry emissions .....................................................................................................A3.5 
+A3.6 
+Emissions of fluorinated substitutes for ozone depleting substances ...........................................A3.6 
+A3.7 
+Other product manufacture and use..............................................................................................A3.6 
+A3.8 
+Completeness and allocation of CO2 from non-energy uses of fuels............................................A3.7 
+ 
+Volume 3: Industrial Processes and Product Use 
+A3.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ANNEX 3: IMPROVEMENTS SINCE 1996 
+This volume contains major changes and improvements to the section covering ‘Industrial Processes’ and 
+‘Solvent and Other Product Use’ in the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories 
+(1996 IPCC Guidelines). First, these Guidelines (2006 IPCC Guidelines) introduce practical guidance on 
+allocation of carbon dioxide (CO2) emissions released from combustion of fuel in the Energy Sector and 
+Industrial Processes Sector, which was not clear in the 1996 IPCC Guidelines. Second, these Guidelines are 
+based on the principle that emissions should be reported in the industries where these emissions occur. 
+Accordingly, there has been a shift in the categories in which some emissions are reported, particular those from 
+the use of limestone, dolomite and other carbonates. 
+Other major changes and/or improvements listed below are associated to each Chapter of this volume. 
+A3.1 
+MINERAL INDUSTRY EMISSIONS 
+There are three key changes to the Mineral Chapter in the 2006 IPCC Guidelines, as compared to the earlier 
+guidance documents. Firstly, a new input-based method has been introduced for all source categories that 
+estimates emissions based on the quantity, type and composition of carbonate inputs to the production processes. 
+For example, in addition to the Tier 2 method based on clinker output during cement production, an alternate 
+method is elaborated based on estimating emissions from the carbonate input to the kiln.  
+Secondly, clear guidance has been developed to specify where emissions from the use of limestone, dolomite 
+and other carbonates should be reported. As noted above, these Guidelines are based on the principle that 
+emissions should be reported in the industries where they occur.  For example, where limestone is used as a flux 
+for iron and steel production, emissions from the use of the limestone should be reported under Iron and Steel 
+Production. Only emissions from limestone and dolomite used in the mineral industry should be reported in the 
+Mineral Industry Chapter.  Inventory compilers are encouraged to assess carefully how this change may impact, 
+in particular, emission estimates for the Mineral Industry, the Chemical Industry, and Metal Production.   
+In addition while earlier guidance highlighted only limestone and dolomite use, these Guidelines also outline 
+methods for estimating emissions from use of other carbonates, including magnesia and sodium carbonate. These 
+Guidelines also establish three approaches for estimating emissions from glass production. Acid-induced release 
+of CO2 from acidification of carbonate-containing materials (e.g., phosphate ores) is also considered, although 
+specific estimation methods are not provided. 
+A3.2 
+CHEMICAL INDUSTRY EMISSIONS 
+New sources of emissions have been introduced: nitrous oxide (N2O) emissions from Production of Caprolactam, 
+Glyoxal, and Glyoxylic acid, and CO2 emissions from Titanium Dioxide Production. Soda Ash production was 
+reallocated from Mineral Industry to Chemical Industry. In the Soda Ash Production section the methodology for 
+synthetic (Solvay) soda ash production process, which was lacking in the 1996 IPCC Guidelines and the Good 
+Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories (GPG2000), has been 
+introduced.  
+CO2 emission factors have been added for Petrochemical Production processes, including emission factors for 
+methanol, ethylene, ethylene dichloride/vinyl chloride, ethylene oxide, acrylonitrile, and carbon black production.  
+Methane emission factors have been updated for these petrochemical production processes.  Styrene production 
+is no longer included in the guidance document. A systematic description of Tier 1, 2 and 3 methodologies for all 
+source categories is provided in the text.  
+The descriptions of emission-related processes have been enlarged giving more information about their 
+chemistry and technology aspects.  
+More systematic guidance is also given to avoid double counting fuel products used as a feedstock or reductant 
+(cross-cutting issue with Energy Sector). This issue is discussed in regard to ammonia production, carbide 
+production, and titanium dioxide, and petrochemical production (Sections 3.2, 3.6, 3.7, and 3.9). 
+A discussion of utilisation of CO2 in Urea Production is included in the section on Ammonia Production. 
+Emissions from urea use that were previously accounted for in the Industrial Processes Sector have been 
+reallocated according to the sectors where urea is used (Energy Sector and Agriculture, Forestry and Other Land 
+Use (AFOLU) Sector) to take proper account of exports urea produced in ammonia plants. Emissions from other 
+Annex 3: Improvements since 1996 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A3.5 
+chemical products manufactured using CO2 recovered in the ammonia production process are accounted together 
+with emissions from ammonia production, as before.  
+The methodology for calculation of HFC-23 emissions from HCFC-22 production has incorporated the principal 
+methods used within the industry, including continuous direct, proxy and in-process measurements in Tier 3 and 
+efficiency-based material balance methods in Tier 2. In addition, explicit guidance has been added on fugitive 
+and by-product emissions from the production of other fluorinated compounds including hydrofluorocarbons 
+(HFCs), sulphur hexafluoride (SF6) and uranium hexafluoride (UF6). 
+A3.3 
+METAL INDUSTRY EMISSIONS 
+The Metal Industry Section of 2006 IPCC Guidelines incorporates a number of changes. Where carbon and 
+carbon-containing materials, including carbonate containing minerals, are used in the metal production process 
+for purposes other than the direct production of energy within the process, the CO2 emissions are now counted 
+within the metals guidance.  For example, the CO2 emissions from carbon-based electrodes for aluminium 
+production are now included within the guidance for aluminium, and the CO2 emissions from the use of 
+limestone and dolomite used in iron and steel making are included within the guidance for iron and steel 
+production.  
+The Metal Industry Section now includes guidance for estimating emissions of CO2 and CH4 from metallurgical 
+(coal) coke production; however the CO2 and CH4 emissions from metallurgical coke production are to be 
+reported under Energy Sector, not Industrial Processes and Product Use (IPPU) Sector. Emission factors for 
+production of direct reduced iron (DRI), pellets, and sinter from iron ore and other iron-containing raw materials 
+are now included under iron and steel production. Separate CO2 emission factors are provided for blast furnace 
+iron making and for steel making using the basic oxygen furnace (BOF), electric arc furnace (EAF) and open 
+hearth furnace (OHF) processes. 
+CO2 emissions from primary magnesium production based on dolomite and magnesite raw materials are also 
+included in this section. In addition, new guidance has been developed and is available for calculation of CO2 
+emissions resulting from production of zinc and lead. Separate CO2 emission factors are provided for primary 
+and secondary lead and zinc production processes. More comprehensive guidance is also included for ferroalloys 
+production processes. Revised guidance is offered in the 2006 IPCC Guidelines for magnesium for new gases 
+reflecting efforts to replace sulphur hexafluoride as a cover gas. Finally, calculation factors have been updated to 
+reflect the most recent experience for measured emission factors, typical compositions of process materials 
+impacting calculations, and, in some instances new equations are included.   
+A3.4 
+NON-ENERGY PRODUCTS FROM FUELS AND 
+SOLVENT USE 
+Almost this entire source category, which is described in Chapter 5, is new within the IPPU Sector. The 1996 
+IPCC Guidelines did cover emissions from asphalt and road paving, but in much less detail. The products 
+covered here comprise: lubricants, paraffin waxes, bitumen/asphalt, and solvents. 
+Emissions from lubricants were previously covered under fuel combustion without any discrimination between 
+emissions arising during lubricants use and any emissions from waste lubricants used for heat raising. The same 
+is true for paraffin waxes. Asphalt emissions refer to production and use of asphalt for road paving, asphalt 
+roofing and other applications. Asphalt emissions also include emissions from asphalt blowing. The subcategory 
+‘2D3 Solvent Use’ refers to the subcategories 3A and 3B in the 1996 IPCC Guidelines. Although asphalt and 
+solvents are not significant sources of direct greenhouse gas emissions, they are included in this chapter to 
+provide a description of them since they are sources of ozone precursors (non-methane volatile organic 
+compounds (NMVOC), and in the case of asphalt also carbon monoxide (CO)). In particular, solvent use is a 
+very substantial source of NMVOC.  
+A3.5 
+ELECTRONICS INDUSTRY EMISSIONS 
+The 1996 IPCC Guidelines and the GPG2000, described methods for estimating emissions from semiconductor 
+manufacturing alone for seven fluorinated carbon compounds: CF4, C2F6, CHF3, C3F8, c-C4F8, NF3 and SF6. The 
+2006 IPCC Guidelines expands that scope to include additional manufacturing sectors and more gases, updates 
+the Tier 1 methodology and emission factors, and provides explicit estimates of uncertainties for emissions 
+factors and activity data. The 2006 IPCC Guidelines incorporates emissions from liquid crystal display (LCD) 
+manufacturing, photovoltaic (PV) cell manufacturing and the use of heat transfer fluids in semiconductor 
+Volume 3: Industrial Processes and Product Use 
+A3.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+manufacturing. In addition, the number of greenhouse gases in the 2006 IPCC Guidelines has been expanded to 
+include 
+difluoromethane 
+(CH2F2), 
+octofluorocyclopentene 
+(C5F8), 
+hexafluorbutadiene 
+(C4F6) 
+and 
+octafluorotetrahydrofuran (C4F8O); F2 and COF2 have also been added because, even though they are not 
+greenhouse gases, CF4 may be formed during their use. A new Tier 1 methodology is adopted that includes new 
+default emissions factors and activity data for all sectors. 
+A3.6 
+EMISSIONS OF FLUORINATED SUBSTITUTES 
+FOR OZONE DEPLETING SUBSTANCES  
+The emissions in a number of the source categories (applications) covered by this chapter have been the subject 
+of considerable study since the 1996 IPCC Guidelines were written. This has been particularly the case for 
+sectors with delayed emissions (e.g. refrigeration, foam and fire protection) where the earlier emission factor 
+estimates proposed by Gamlen and others have been further developed to reflect the varying emission rates from 
+a variety of sub-applications. Much of this was included in the GPG2000.  
+One of the consequences of this improved understanding has been recognition that the potential emissions 
+approach used as Tier 1 in the 1996 IPCC Guidelines is no longer appropriate. The potential emissions approach 
+is still described in Annex 1 of this volume as a verification tool for completeness of sources and as a QC check 
+of the sum of activity data per compound, which should be equal to the sum of apparent domestic consumption 
+as calculated in the potential emissions approach. The Tier 1 approaches now proposed in these Guidelines are 
+therefore actual emission estimation methods, although often based on default emission factors and with the 
+potential to use global/regional activity databases where better information is not available. Chapter 7 of this 
+volume contains examples of these new Tier 1 approaches and guidance on how to implement them. Simplified 
+mass balance approaches have also been maintained in appropriate sectors, most typically where pressurised 
+equipment is used and serviced (refrigeration & fire protection).  Attention has also been addressed to the 
+treatment of solvents contained in aerosols. Now emissions from all aerosol based products, irrespective of their 
+purpose, will be reported within the aerosol application.  
+Activity information continues to be the biggest challenge in the ODS substitutes area, particularly at country-
+level, for two reasons. The first is that trade in products containing HFCs and/or perfluorocarbons (PFCs) can not 
+easily be monitored and the second is that confidentiality of activity data for specific chemicals may need to be 
+protected. Global/regional activity data from reputable sources may therefore provide significant help to some 
+reporting countries and it is proposed that the IPCC Emission Factor Database (EFDB) act as the focal point for 
+such data. However, while inclusion in the EFDB will provide a level of assurance that due process has been 
+followed inventory compilers will remain responsible for assessing the appropriateness of such data for their 
+purposes. 
+A3.7 
+OTHER PRODUCT MANUFACTURE AND USE 
+The 1996 IPCC Guidelines contained just two methods for estimating emissions of SF6 from electrical 
+equipment: (1) a potential approach that equated emissions to chemical consumption, and (2) a simple emission-
+factor-based approach that applied country-specific or global default emission factors to the quantities of SF6 in 
+operating and retiring equipment respectively. The GPG2000 introduced three Tier 3 mass-balance methods and 
+a more detailed Tier 2 emission-factor based approach that provided emission factors for each life cycle stage. In 
+addition, the GPG2000 provided regional default emission factors for the latter. 
+The 2006 IPCC Guidelines simplify the GPG2000 by (1) replacing two of the Tier 3 mass-balance methods with 
+a single, flexible Tier 3 method that contains both mass-balance and emission-factor-based components. (2) 
+moving the country-level mass-balance method to the QA/QC section, (3) moving the method for estimating 
+potential emissions from the Methodological Choice discussion and into a separate section where it can be used 
+for QA/QC, and (4) replacing the potential emissions approach with the default emission-factor-based approach, 
+which has been moved from Tier 2 to Tier 1. These changes leave one Tier 3 method, one Tier 2 method, and 
+one Tier 1 method.  These Guidelines also update the regional emission factors provided in the GPG2000, 
+providing values for additional types of equipment and for additional regions. Finally, these Guidelines 
+incorporate new guidance on selecting and using alternative activity data when the preferred data are not 
+available for all facilities.  These updates incorporate the experience acquired over the past several years of 
+reporting. 
+Specific methods for estimating emissions from research and industrial accelerators and from radar 
+reconnaissance planes (e.g., AWACS) have been added to the ‘Use of SF6 and PFCs in Other Products’ section. 
+An indicative list of potential additional sources of SF6 and PFCs has been added to guide the inventory preparer. 
+Annex 3: Improvements since 1996 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A3.7 
+Also, Guidance on N2O emissions from product use such as medical application has been improved. 
+A3.8 
+COMPLETENESS AND ALLOCATION OF CO2 
+FROM NON-ENERGY USES OF FUELS  
+Two Quality Control (QC) approaches – a CO2 completeness check and a feedstock balance check – have been 
+introduced for checking the completeness of accounting CO2 emissions from feedstock/reductant use of fossil 
+fuels. Guidance is provided to facilitate the organisation and completion of this task: (a) checking that total 
+reported bottom-up calculated CO2 emissions from non-energy use sources (including uses as feedstock and 
+reductant) at different subcategory levels are complete and consistent; and b) checking that feedstock/reductant 
+requirements of processes included in the inventory are in balance with the non-energy use/feedstock supply as 
+recorded in national energy statistics. Moreover, guidance is provided on documenting and reporting how these 
+emissions are allocated in the inventory and how the completeness was checked (Section 1.4). 
+Section 1.3 provides an explanation of the principles which have guided the estimation and reporting of CO2 
+emissions from the non-energy uses of fossil fuels, and describes the data issues related to the estimation 
+methods. 

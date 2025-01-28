@@ -1,0 +1,1342 @@
+4
+AGRICULTURE
+I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+C H A P T E R  4
+A G R I C U L T U R E
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.1
+4. AGRICULTURE
+4.1 
+Overview
+Agricultural activities contribute directly to emissions of greenhouse gases through a
+variety of different processes.  This chapter discusses four greenhouse gas-emitting
+activities:
+•
+CH4 and N2O emissions from domestic livestock (enteric fermentation
+and manure management)
+−
+CH4 emissions from enteric fermentation in domestic livestock
+Methane is produced in herbivores as a by-product of enteric fermentation, a
+digestive process by which carbohydrates are broken down by micro-organisms
+into simple molecules for absorption into the bloodstream.  Both ruminant
+animals (e.g., cattle, sheep) and some non-ruminant animals (e.g., pigs, horses)
+produce CH4, although ruminants are the largest source since they are able to
+digest cellulose, a type of carbohydrate, due to the presence of specific micro-
+organisms in their digestive tracts.  The amount of CH4 that is released
+depends on the type, age, and weight of the animal, the quality and quantity of
+the feed, and the energy expenditure of the animal.
+−−
+CH4 emissions from manure management
+CH4 is produced from the decomposition of manure under anaerobic
+conditions.  These conditions often occur when large numbers of animals are
+managed in a confined area (e.g., dairy farms, beef feedlots, and swine and
+poultry farms), where manure is typically stored in large piles or disposed of in
+lagoons.
+−
+N2O emissions from manure management
+During storage of manure, some manure nitrogen is converted to N2O.
+Emissions of N2O related to manure handling before the manure is added to
+soils are included in this source category.  (Manure-related N2O emissions
+from soils are considered agricultural soil emissions).
+•
+CH4 emissions from rice cultivation
+Anaerobic decomposition of organic material in flooded rice fields produces
+methane, which escapes to the atmosphere primarily by transport through the
+rice plants.  The amount emitted is believed to be a function of rice species,
+number and duration of harvests, soil type and temperature, irrigation
+practices, and fertiliser use.  The seasonally integrated CH4 flux depends upon
+the input of organic carbon, water regimes, time and duration of drainage, soil
+type etc.
+•
+CH4, CO, N2O, and NOX emissions from agricultural burning (savanna
+and agricultural burning)
+–
+CH4, CO, N2O, and NOX emissions from the prescribed burning of
+savannas
+The burning of savannas – areas in tropical and subtropical formations with
+continuous grass coverage – results in the instantaneous emissions of carbon
+AGRICULTURE
+4.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+dioxide, but because the vegetation regrows between burning cycles, the
+carbon dioxide released into the atmosphere is reabsorbed during the next
+vegetation growth period.  Net CO2 emissions are therefore assumed to be
+zero.  However, savanna burning also releases gases other than CO2, including
+methane, carbon monoxide, nitrous oxide and oxides of nitrogen.  Unlike CO2
+emissions, these are net emissions.
+–
+CH4, CO, N2O, and NOX emissions from the burning of agricultural
+residues
+The burning of crop residues is not thought to be a net source of carbon
+dioxide because the carbon released to the atmosphere is reabsorbed during
+the next growing season.  However, this burning is a significant source of
+emissions of methane, carbon monoxide, nitrous oxide, and nitrogen oxides.  It
+is important to note that some crop residues are removed from the fields and
+burned as a source of energy, especially in developing countries.  Non-CO2
+emissions from this type of burning are dealt with in the Energy module of this
+manual.  Crop residue burning must be properly allocated to these two
+components in order to avoid double counting.
+•
+CH4, CO2, and N2O emissions from agricultural soils
+Emissions of N2O from agricultural soils are primarily due to the microbial
+processes of nitrification and denitrification in the soil.  Three types of emission
+can be distinguished: direct soils emissions, direct soil emissions of N2O from
+animal production (including stable emissions to be reported under Manure
+Management) and indirect emissions.  Increases in the amount of nitrogen
+added to the soil generally result in higher N2O emissions (Bouwman, 1990).
+Direct soil emissions may result from the following nitrogen input to soils: (1)
+synthetic fertilisers, (2) nitrogen from animal waste, (3) biological nitrogen
+fixation, (4) reutilised nitrogen from crop residues, and (5) sewage sludge
+application.  In addition, cultivation of organic soils may increase soil organic
+matter mineralisation and, in effect, N2O emissions.  Direct soil emissions of
+N2O from  animal production include those induced by grazing animals.
+Emissions from other animal waste management systems are reported under
+“Manure Management’’.  Indirect N2O emissions take place after nitrogen is
+lost from the field as NOx, NH3 or after leaching or runoff.  Agricultural soils
+may also emit or remove CO2 and/or CH4.  For example, peat compost used
+as a soil amendment in agriculture and gardening may result in CO2 emissions
+or removals.  Carbon emissions from organic, mineral and limed soils are
+discussed in Chapter 5.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.3
+4.2 
+Methane And Nitrous Oxide Emissions
+From Domestic Livestock Enteric
+Fermentation And Manure Management
+4 . 2 . 1  
+O v e r v i e w  o f  M e t h a n e  a n d  N i t r o u s  O x i d e
+E m i s s i o n s  f r o m  L i v e s t o c k
+This section covers methane and nitrous oxide emissions from enteric fermentation and
+the management of manure from domestic livestock.  Cattle are the most important
+source of methane from enteric fermentation in most countries because of their high
+numbers, large size, and ruminant digestive system.  Methane emissions from manure
+management are usually smaller than enteric fermentation emissions, and are principally
+associated with confined animal management facilities where manure is handled as a liquid.
+This section presents a brief overview of the key factors affecting methane and nitrous
+oxide emissions from these sources.  The methods for estimating methane emissions are
+then presented.1  The method for estimating nitrous oxide emissions from manure
+management is presented in Section 4.5.3.
+Enteric Fermentation
+Methane is produced during the normal digestive processes of animals.  The amount of
+methane produced and excreted by an individual animal is dependent primarily on the
+following:
+•
+Digestive System
+The type of digestive system has a significant influence on the rate of methane
+emission.  Ruminant animals have the highest emissions because a significant amount
+of methane-producing fermentation occurs within the rumen.  The main ruminant
+animals are cattle, buffalo, goats, sheep and camels.  Pseudo-ruminant animals (horses,
+mules, asses) and monogastric animals (swine) have relatively lower methane
+emissions because much less methane-producing fermentation takes place in their
+digestive systems.
+•
+Feed Intake
+Methane is produced by the fermentation of feed within the animal's digestive
+system.  Generally, the higher the feed intake, the higher the methane emission.
+Feed intake is positively related to animal size, growth rate, and production (e.g.,
+milk production, wool growth, or pregnancy).
+The amount of methane emitted by a population of animals is calculated by multiplying the
+emission rate per animal by the number of animals.  To reflect the variation in emission
+rates among animal types, the population of animals is divided into subgroups, and an
+emission rate per animal is estimated for each subgroup.  Types of population subgroup
+are recommended in the method2.
+                                                  
+     1 All GHG emissions from the burning of animal waste are estimated in Section 1.4;
+Greenhouse Gas Emissions from Burning Traditional Biomass Fuels.  CO2 from the
+burning of animal waste is part of a closed cycle and is not counted as net CO2.
+     2 Countries are encouraged to carry out emissions inventory calculations at a finer
+level of detail if possible.  Many countries have available more detailed information than
+AGRICULTURE
+4.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Human management of wildlife can affect the total number of animals and therefore their
+emissions, though the associated emissions are believed to be small.  The key issue is
+distinguishing those emissions resulting from human interventions from those emissions
+that would have occurred naturally.  No methodology for estimating these emissions is
+presented here, though they may be estimated if national experts can fully document their
+approach, including all assumptions and methods.  If these emissions are estimated, they
+should be reported in the “Other” subcategories of the Enteric Fermentation and Animal
+Wastes Tables (4 A & B) of Volume 1: Reporting Instructions.
+Manure Management
+Livestock manure is principally composed of organic material.  When this organic material
+decomposes in an anaerobic environment (i.e., in the absence of oxygen), methanogenic
+bacteria, as part of an interrelated population of micro-organisms, produce methane.
+The principal factors affecting methane emission from animal manure are the amount of
+manure produced and the portion of the manure that decomposes anaerobically.  The
+amount of manure that is produced is dependent on the amount produced per animal and
+the number of animals.  The portion of the manure that decomposes anaerobically
+depends on how the manure is managed.  When manure is stored or treated as a liquid
+(e.g., in lagoons, ponds, tanks, or pits), it tends to decompose anaerobically and produce a
+significant quantity of methane.  When manure is handled as a solid (e.g., in stacks or pits)
+or when it is deposited on pastures and rangelands, it tends to decompose aerobically and
+little or no methane is produced.
+To estimate methane emission, the animal population must be divided into subgroups to
+reflect the varying amounts of manure produced per animal, and the manner in which the
+manure is handled.  Population subgroups are recommended in the method.
+Nitrous oxide is formed when manure nitrogen is nitrified or denitrified.  The  amount of
+N2O released depends on the system and duration of waste management.  Emissions of
+N2O taking place during storage or handling of manure (i.e., before the manure is added
+to soils) are reported under “ Manure Management”.  Manure-induced N2O emissions
+from soils are considered soil emissions ( See Section 4.5 of this Reference Manual).
+                                                                                                                                
+was used in constructing default values here.  Countries may wish to calculate emissions
+estimates at a finer level of detail by subcategory – further disaggregating recommended
+activity categories and subcategories – or they may choose to subdivide the categories on
+some other basis which they feel is appropriate to their particular national circumstances.
+Working at finer levels of disaggregation does not change the basic nature of the
+calculations.  Once emissions have been calculated at whatever is determined by the
+national experts to be the most appropriate level of detail, results should also be
+aggregated up to the minimum standard level of information requested in the IPCC
+proposed methodology.  This will allow for comparability of results among all participating
+countries.  The data and assumptions used for finer levels of detail should also be
+reported to the IPCC to ensure transparency and replicability of methods.  Volume 1:
+Reporting Instructions discusses these issues in more detail.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.5
+BOX 1
+HUMAN WASTE USED AS FERTILISER
+Human waste is sometimes used as fertiliser, and can result in emissions or
+removals of CH4, N2O or CO2.  At present, no methodology can be
+recommended for estimating CH4 and CO2 emissions.  N2O emissions from
+Human waste are described in Chapters 4 & 6.  The development of a
+methodology specifically for this source has been identified as an area for
+future work.  Countries are nevertheless encouraged to estimate emissions
+from this source if they are able to do so.  CH4 emissions from this source
+can be estimated in one of at least two ways:
+•
+Emissions from human waste used as fertiliser may be estimated in the
+present section by adapting the methodology for estimating emissions
+from livestock manure to use the data provided below.  In this case,
+the estimate should be reported in the “Other” line in Tables 4 A & B
+in Volume 1: Reporting Instructions.
+Bhattacharya et al. (1993) has reported these characteristics of human
+waste:
+Dry waste per day
+=
+ 0.107 kg/head/day
+Fractional carbon content  
+=
+ 0.375
+And Thomas (1994, in press) reports the following values:
+Volatile solid production
+=
+0.06 kg/head/day
+Dry matter production
+=
+0.09 kg/head/day
+Fractional carbon content
+=
+4.46% of dry matter
+•
+These emissions can also be estimated using the methodology for
+sewage treatment in the Waste section.  In this case, the emissions
+should then be treated as wastewater disposed of in aerobic (shallow)
+ponds, and should be reported in Table 6 B.
+In any case, care should be taken to avoid double counting emissions from
+this source.
+4 . 2 . 2  I n v e n t o r y  M e t h o d  f o r  M e t h a n e  – O v e r v i e w
+The method for estimating methane emission from enteric fermentation and manure
+management requires three basic steps:
+Step 1: Divide the livestock population into subgroups and characterise each subgroup.  It
+is recommended that national experts use three year averages of activity data if available.
+This is to help prevent bias in the event that the base year of the inventory was an
+exceptional year not representative of the country’s normal activity level.
+Step 2: Estimate emission factors for each subgroup in terms of kilograms of methane per
+animal per year – separate emission factors are required for enteric fermentation and
+manure.
+Step 3: Multiply the subgroup emission factors by the subgroup populations to estimate
+subgroup emission, and sum across the subgroups to estimate total emission.
+These three steps can be performed at varying levels of detail and complexity.  This
+chapter presents the following two approaches:
+AGRICULTURE
+4.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+•
+Tier 1
+A simplified approach that relies on default emission factors drawn from previous
+studies.  The Tier 1 approach is likely to be sufficient for most animal types in most
+countries.
+•
+Tier 2
+A more complex approach that requires country-specific information on livestock
+characteristics and manure management practices.  The Tier 2 approach is
+recommended when the data used to develop the default values do not correspond
+well with the country's livestock and manure management conditions.  Because
+cattle characteristics vary significantly by country, it is recommended that countries
+with large cattle populations consider using the Tier 2 approach for estimating
+methane emissions from cattle and cattle manure.  Similarly, because buffalo and
+swine manure management practices vary significantly by country, it is recommended
+that countries with large buffalo and swine populations consider using the Tier 2
+approach for estimating methane emissions for manure from these animals.
+Some countries for which livestock emissions are particularly important may wish to go
+beyond the Tier 2 method and incorporate additional country-specific information in their
+estimates.  Although countries are encouraged to go beyond the Tier 2 approach
+presented below when data are available, these more complex analyses are only briefly
+discussed here.  Table 4-1 summarises the recommended approaches for the livestock
+emissions included in this inventory.
+TABLE 4-1
+DOMESTIC LIVESTOCK INCLUDED IN THE METHODS
+Livestock
+Recommended Emissions Inventory Methods
+Enteric Fermentation
+Manure Management
+Dairy Cattle
+Tier 2a
+Tier 2a
+Non-dairy Cattle
+Tier 2a
+Tier 2a
+Buffalo
+Tier 1
+Tier 2a
+Sheep
+Tier 1
+Tier 1
+Goats
+Tier 1
+Tier 1
+Camels
+Tier 1
+Tier 1
+Horses
+Tier 1
+Tier 1
+Mules and Asses
+Tier 1
+Tier 1
+Swine
+Tier 1
+Tier 2a
+Poultry
+(Not Estimated)
+Tier 1
+a  The Tier 2 approach is recommended for countries with large livestock populations.
+Implementing the Tier 2 approach for additional livestock subgroups may be desirable when the
+subgroup emissions are a large portion of total methane emissions for the country.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.7
+4 . 2 . 3  
+I n v e n t o r y  M e t h o d  f o r  M e t h a n e  – T i e r  1
+A p p r o a c h
+This Tier 1 method is simplified so that only readily-available animal population data are
+needed to estimate emissions.  Default emission factors are presented for each of the
+recommended population subgroups.  Each step is discussed in turn.
+T I E R  1 :  S T E P  1  – L I V E S T O C K  P O P U L A T I O N S
+The average annual population of livestock is required for each of the livestock categories
+listed in Table 4-1.  In some cases the population fluctuates during the year.  For example,
+a census done before calving will give a much smaller number than a census done after
+calving.  A representative average of the population is therefore needed.  In the case of
+poultry and swine, the number of animals produced each year exceeds the annual average
+population because the animals live for less than 12 months.  The population data can be
+obtained from the FAO Production Yearbook (FAO, 1990) or similar country-specific
+livestock census reports.
+The dairy cattle population is estimated separately from other cattle (see Table 4-2).
+Dairy cattle are defined in this method as mature cows that are producing milk in
+commercial quantities for human consumption.  This definition corresponds to the dairy
+cow population reported in the FAO Production Yearbook.
+In some countries the dairy cattle population is comprised of two well-defined segments:
+high-producing "improved" breeds in commercial operations; and low-producing cows
+managed with traditional methods.  These two segments can be combined, or can be
+evaluated separately by defining two dairy cattle categories.  However, the dairy cattle
+category does not include cows kept principally to produce calves or to provide draft
+power.  Low productivity multi-purpose cows should be considered as non-dairy cattle.
+Data on the average milk production of dairy cattle is also required.  These data are
+expressed in terms of kilograms of whole fresh milk produced per year per dairy cow,
+and can be obtained from the FAO Production Yearbook or similar country-specific
+reports.  If two or more dairy cattle categories are defined, the average milk production
+per cow is required for each category.
+Finally, the livestock populations must be described in terms of warm, temperate, or cool
+climates for purposes of estimating emissions from livestock manure.  Data on the annual
+average temperature of the regions where livestock are managed should be used as
+follows:
+•
+Areas with annual average temperatures less than 15°C are defined as cool.
+•
+Areas with annual average temperatures from 15°C to 25°C inclusive are defined as
+temperate.
+•
+Areas with annual average temperatures greater than 25°C are defined as warm.
+For each livestock population, the fraction in each climate should be estimated.  These
+data can be developed from country-specific climate maps and livestock census reports.
+To the extent possible, the temperature data should reflect the locations where the
+livestock are managed.  If necessary, data from nearby cities can be used.  Table 4-2
+summarises the animal population data that must be collected in Step 1.
+AGRICULTURE
+4.8
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE 4-2
+ANIMAL POPULATION DATA COLLECTED IN TIER 1 STEP 1
+Livestock
+Data Collected
+Population
+Milk Production
+Population By Climate (%)
+ (# head)
+ (kg/head/yr)
+Cool
+Temperate
+Warm
+Dairy Cattle
+Average Annual
+Population
+Milk Production per
+Head
+% Cool
+% Temp.
+% Warm
+Non-dairy Cattle
+Average Annual
+Population
+Not Applicable (NA)
+% Cool
+% Temp.
+% Warm
+Buffalo
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Sheep
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Goats
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Camels
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Horses
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Mules and Asses
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Swine
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Poultry
+Average Annual
+Population
+(NA)
+% Cool
+% Temp.
+% Warm
+Data can be obtained from the FAO Production Yearbook and country-specific livestock census reports.  Climates are defined in terms of
+average annual temperature as follows: Cool = less than 15°C; Temperate =  from 15°C to 25°C inclusive; Warm = greater than 25°C.
+T I E R  1 :  S T E P  2  – E M I S S I O N  F A C T O R S
+The purpose of this step is to select emission factors that are most appropriate for the
+country's livestock characteristics.  Default emission factors for enteric fermentation and
+manure management have been drawn from previous studies, and are organised by region
+for ease of use.  The basis for the emission factors, described more fully under Tier 2,
+includes the following:
+•
+Enteric Fermentation:
+−
+Feed Intake: Feed intake is estimated based on the energy intake required by
+the animal for maintenance (the basic metabolic functions needed to stay alive)
+and production (growth, lactation, work, and gestation).  The livestock
+characteristics required to estimate feed intake are taken from regional and
+country-specific studies and include: population structure (portion of adults and
+young), weight, rate of weight gain, amount of work performed, portion of
+cows giving birth each year, and milk production per cow.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.9
+−
+Conversion of Feed Energy to Methane: The rate at which feed energy is
+converted to methane is estimated based on the quality of the feed consumed
+– low quality feed has a slightly higher methane conversion rate.  Feed quality is
+assessed in terms of digestibility on a regional basis.
+•
+Manure Management:
+−
+Manure Production: Manure production is estimated based on feed intake and
+digestibility, both of which are used to develop the enteric fermentation
+emission factors.
+−
+Methane Producing Potential: Methane producing potential (referred to as Bo) is
+the maximum amount of methane that can be produced from a given quantity
+of manure.  The methane producing potential varies by animal type and the
+quality of the feed consumed.  Reported measurements for selected animals
+are used.
+−
+Methane Conversion Factor (MCF): The MCF defines the portion of the methane
+producing potential (Bo) that is achieved.  The MCF varies with the manner in
+which the manure is managed and the climate, and can theoretically range from
+0 to 100 per cent.  Manure managed as a liquid under hot conditions promotes
+methane formation and emissions.  These manure management conditions have
+high MCFs, of 65 to 90 per cent.  Manure managed as dry material in cold
+climates does not readily produce methane, and consequently has an MCF of
+about 1 per cent.  Laboratory measurements were used to estimate MCFs for
+the major manure management techniques.
+−
+Manure Management Practices: Regional assessments of manure management
+practices are used to estimate the portion of the manure that is handled with
+each manure management technique.
+The data used to estimate the default emission factors for enteric fermentation and
+manure management are presented in Appendix A and Appendix B respectively, at the
+end of this section.
+Table 4-3 shows the enteric fermentation emission factors for each of the animal types
+except cattle.  As shown in the table, emission factors for sheep and swine vary for
+developed and developing countries.  The differences in the emission factors are driven by
+differences in feed intake and feed characteristic assumptions (see Appendix A).
+Although point estimates are given for the emission factors, an uncertainty of about +20
+per cent exists due to variations in animal management and feeding.  Deviations from the
+emission factors can be larger than 20 per cent under specialised feeding or management
+conditions.
+Table 4-4 presents the enteric fermentation emission factors for cattle.  A range of
+emission factors is shown for typical regional conditions.  As shown in the table, the
+emission factors vary by over a factor of four on a per head basis.
+While the default emission factors shown in Table 4-4 are broadly representative of the
+emission rates within each of the regions described, emission factors vary among
+countries within regions.  Also, as with the emission factors shown in Table 4-3, an
+uncertainty of about +20 per cent exists due to variations in animal management and
+feeding.  Animal size and milk production are important determinants of emission rates
+for dairy cows.  Relatively smaller dairy cows with low levels of production are found in
+Asia, Africa, and the Indian subcontinent.  Relatively larger dairy cows with high levels of
+production are found in North America and Western Europe.
+AGRICULTURE
+4.10
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE 4-3
+ENTERIC FERMENTATION EMISSION FACTORS
+(KG PER HEAD PER YR)
+Livestock
+Developed Countries
+Developing Countries
+Buffalo
+55
+55
+Sheep
+8
+5
+Goats
+5
+5
+Camels
+46
+46
+Horses
+18
+18
+Mules and Asses
+10
+10
+Swine
+1.5
+1.0
+Poultry
+Not Estimated
+Not Estimated
+All estimates are ± 20 %
+Sources: Emission factors for buffalo and camels from Gibbs and Johnson (1993).  Emission factors for other
+livestock from Crutzen et al. (1986).
+Animal size and population structure are important determinants of emission rates for
+non-dairy cattle.  Relatively smaller non-dairy cattle are found in Asia, Africa, and the
+Indian subcontinent.  Also, many of the non-dairy cattle in these regions are young.  Non-
+dairy cattle in North America, Western Europe and Oceania are larger, and young cattle
+constitute a smaller portion of the population3.
+Select emission factors from Tables 4-3 and 4-4 by identifying the region most applicable
+to the country being evaluated.  The data collected on the average annual milk production
+by dairy cows should be used to help select a dairy cow emission factor.  If necessary,
+interpolate between dairy cow emission factors shown in the table using the data
+collected on average annual milk production per head.
+Table 4-5 shows the default manure management emission factors for each animal type
+except cattle, buffalo, and swine.  Separate emission factors are shown for developed and
+developing countries, reflecting the general differences in feed intake and feed
+characteristics of the animals in the two regions.  These emission factors reflect the fact
+that virtually all the manure from these animals is managed in dry manure management
+systems, including pastures and ranges, drylots, and daily spreading on fields (Woodbury
+and Hashimoto, 1993).
+                                                  
+     3 For each animal category, it is important to use the average weight of the animal
+during the year for estimating emissions.  Because the weights of mature animals may
+fluctuate seasonally, a representative weight should be selected that considers conditions
+throughout the year.  For growing animals, the average weight is generally less than the
+final (or end) weight of the animal at the end of the year. Growth rate statistics should be
+used to estimate the average weight during the year for purposes of estimating emissions.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.11
+TABLE 4-4
+ENTERIC FERMENTATION EMISSION FACTORS FOR CATTLE
+Regional Characteristics
+Cattle Type
+Emission
+Factor
+(kg/head/yr)
+Comments
+North America: Highly productive commercialised
+dairy sector feeding high quality forage and grain.
+Separate beef cow herd, primarily grazing with feed
+supplements seasonally.  Fast-growing beef
+steers/heifers finished in feedlots on grain.  Dairy
+cows are a small part of the population.
+Dairy
+Non-dairy
+118
+47
+Average milk production of
+6,700 kg/head/yr
+Includes beef cows, bulls, calves,
+growing steers/heifers, and feedlot
+cattle.
+Western Europe: Highly productive commercialised
+dairy sector feeding high quality forage and grain.
+Dairy cows also used for beef calf production.  Very
+small dedicated beef cow herd.  Minor amount of
+feedlot feeding with grains.
+Dairy
+Non-dairy
+100
+48
+Average milk production of
+4,200 kg/head/yr.
+Includes bulls, calves, and growing
+steers/heifers.
+Eastern Europe: Commercialised dairy sector
+feeding mostly forages.  Separate beef cow herd,
+primarily grazing.  Minor amount of feedlot feeding
+with grains.
+Dairy
+Non-dairy
+81
+56
+Average milk production of
+2,550 kg/head/yr.
+Includes beef cows, bulls, and
+young.
+Oceania: Commercialised dairy sector based on
+grazing.  Separate beef cow herd, primarily grazing
+rangelands of widely varying quality.  Growing
+amount of feedlot feeding with grains.  Dairy cows
+are a small part of the population.
+Dairy
+Non-dairy
+68
+53
+Average milk production of
+1,700 kg/head/yr.
+Includes beef cows, bulls, and
+young.
+Latin America: Commercialised dairy sector based
+on grazing.  Separate beef cow herd grazing pastures
+and rangelands.  Minor amount of feedlot feeding
+with grains.  Growing non-dairy cattle comprise a
+large portion of the population.
+Dairy
+Non-dairy
+57
+49
+Average milk production of
+800 kg/head/yr.
+Includes beef cows, bulls, and
+young.
+Asia: Small commercialised dairy sector.  Most cattle
+are multi-purpose, providing draft power and some
+milk within farming regions.  Small grazing
+population.  Cattle of all types are smaller than
+those found in most other regions.
+Dairy
+Non-dairy
+56
+44
+Average milk production of
+1,650 kg/head/yr.
+Includes multi-purpose cows, bulls,
+and young
+Africa and Middle East: Commercialised dairy
+sector based on grazing with low production per
+cow.  Most cattle are multi-purpose, providing draft
+power and some milk within farming regions.  Some
+cattle graze over very large areas.  Cattle of all types
+are smaller than those found in most other regions.
+Dairy
+Non-dairy
+36
+32
+Average milk production of
+475 kg/head/yr.
+Includes multi-purpose cows, bulls,
+and young
+Indian Subcontinent: Commercialised dairy sector
+based on crop by-product feeding with low
+production per cow.  Most bullocks provide draft
+power and cows provide some milk in farming
+regions.  Small grazing population.  Cattle in this
+region are the smallest compared to cattle found in
+all other regions.
+Dairy
+Non-dairy
+46
+25
+Average milk production of
+900 kg/head/yr.
+Includes cows, bulls, and young.
+Young comprise a large portion of
+the population
+AGRICULTURE
+4.12
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE 4-5
+MANURE MANAGEMENT EMISSION FACTORS
+(KG PER HEAD PER YR)
+Livestock
+Developed Countries
+Developing Countries
+Cool
+Temp.a
+Warm
+Cool
+Temp.a
+Warm
+Sheep
+0.19
+0.28
+0.37
+0.10
+0.16
+0.21
+Goats
+0.12
+0.18
+0.23
+0.11
+0.17
+0.22
+Camels
+1.6
+2.4
+3.2
+1.3
+1.9
+2.6
+Horses
+1.4
+2.1
+2.8
+1.1
+1.6
+2.2
+Mules and Asses
+0.76
+1.14
+1.51
+0.60
+0.90
+1.2
+Poultryb
+0.078
+0.117
+0.157
+0.012
+0.018
+0.023
+The range of estimates reflects cool to warm climates.  Climate regions are defined in terms of annual average temperature as follows: Cool =
+less than 15°C; Temperate = 15°C to 25°C inclusive; and Warm = greater than 25°C.  The Cool, Temperate and Warm regions are
+estimated using MCFs of 1 %, 1.5 % and 2 %, respectively.
+a  Temp. = Temperate climate region.
+b  Chickens, ducks, and turkeys.
+All estimates are +20 %.
+Sources: Emission factors developed from: feed intake values and feed digestibilities used to develop the enteric fermentation emission
+factors (see Appendix A); MCF, and Bo values reported in Woodbury and Hashimoto (1993).  All manure is assumed to be managed in dry
+systems, which is consistent with the manure management system usage reported in Woodbury and Hashimoto (1993).
+The ranges of values shown in Table 4-5 reflect the range of Methane Conversion Factor
+values of 1 to 2 per cent.  The higher value is appropriate for manure managed in warm
+climates, while the lower value is appropriate for manure managed in cooler and dryer
+climates.  A middle value is assigned to temperate conditions.  The uncertainty in the
+emission factors remains substantial, however, because field measurements are required
+to validate the laboratory measurements that form the basis for the MCFs used in the
+analysis.  Appendix B, at the end of this section, summarises the data used to estimate the
+emission factors shown in Table 4-6.
+The climate data collected in Step 1 is used to select the emission factors from Table 4-6.
+A weighted average emission factor for each animal type is computed by multiplying the
+percentages of the animal populations in each climate region by the emission factor for
+each climate region.  For example, if sheep in a developing country were 25 per cent in a
+temperate region and 75 per cent in a warm region, the emission factor for sheep would
+be estimated at about 0.2 kg/head/yr as follows:
+Emission Factor = (25% x 0.16) + (75% x 0.21) = 0.1975 kg/head/yr.
+An alternative way of handling these calculations is to sub-divide the category of sheep
+into two populations: one in warm and one in temperate region.  Calculations could then
+be done separately and summed.
+Because the manure from cattle, buffalo, and swine is managed in a variety of ways,
+including both dry and liquid systems, the variations in manure management practices
+among regions and countries must be considered to develop emission factors for these
+animals.  Table 4-6 presents emission factors based on regional manure management
+practices described in Safley et al. (1992).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.13
+TABLE 4-6
+MANURE MANAGEMENT EMISSION FACTORS FOR CATTLE, SWINE AND BUFFALO
+Regional Characteristics
+Livestock Type
+Emission Factor by Climate Regiona
+(kg/head/yr)
+Cool
+Temperate
+Warm
+North America: Liquid-based systems are commonly
+used for dairy and swine manure.  Non-dairy manure is
+usually managed as a solid and deposited on pastures
+or ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+36
+1
+10
+54
+2
+14
+76
+3
+18
+Western Europe: Liquid/slurry and pit storage
+systems are commonly used for cattle and swine
+manure.  Limited cropland is available for spreading
+manure.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+14
+6
+3
+3
+44
+20
+10
+8
+81
+38
+19
+17
+Eastern Europe: Solid based systems are used for
+the majority of manure.  About one-third of livestock
+manure is managed in liquid-based systems.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+6
+4
+4
+3
+19
+13
+7
+9
+33
+23
+11
+16
+Oceania: Virtually all livestock manure is managed as a
+solid on pastures and ranges.  About half of the swine
+manure is managed in anaerobic lagoons.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+31
+5
+20
+32
+6
+20
+33
+7
+20
+Latin America: Almost all livestock manure is
+managed as a solid on pastures and ranges.  Buffalo
+manure is deposited on pastures and ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+0
+1
+0
+1
+1
+2
+1
+1
+2
+1
+2
+2
+Africa: Almost all livestock manure is managed as a
+solid on pastures and ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+1
+0
+0
+1
+1
+1
+1
+1
+2
+Middle East: Over two-thirds of cattle manure is
+deposited on pastures and ranges.  About one-third of
+swine manure is managed in liquid-based systems.
+Buffalo manure is burned for fuel or managed as a
+solid.
+Dairy Cattle
+Non-Dairy Cattle
+Swine
+Buffalo
+1
+1
+1
+4
+2
+1
+3
+5
+2
+1
+6
+5
+Asia: About half of cattle manure is used for fuel with
+the remainder managed in dry systems.  Almost 40% of
+swine manure is managed as a liquid.  Buffalo manure is
+managed in drylots and deposited in pastures and
+ranges.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+7
+1
+1
+1
+16
+1
+4
+2
+27
+2
+7
+3
+Indian Subcontinent: About half of cattle and buffalo
+manure is used for fuel with the remainder managed in
+dry systems.  About one-third of swine manure is
+managed as a liquid.
+Dairy Cattle
+Non-dairy Cattle
+Swine
+Buffalo
+5
+2
+3
+4
+5
+2
+4
+5
+6
+2
+6
+5
+a Cool climates have an average temperature below 15°C; temperate climates have an average temperature from 15°C to 25°C inclusive; warm
+climates have an average temperature above 25°C.  All climate categories are not necessarily represented within every region.  For example,
+there are no significant warm areas in Eastern or Western Europe.  Similarly, there are no significant cool areas in Africa and the Middle East.
+See Appendix B for the derivation of these emission factors.
+Note: Significant buffalo populations do not exist in North America, Oceania, or Africa.
+As shown in the table, the emission factors for dairy cattle range between 81 kg/head/yr
+in warm parts of Western Europe to 0 kg/head/yr in cool parts of Latin America.  The
+AGRICULTURE
+4.14
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+emission factors for non-dairy cattle range between 38 kg/head/yr in warm parts of
+Western Europe to 1 kg/head/yr in cool parts of North America and Latin America.  In
+addition to climate, the range of emission factors is due to the manure management
+practices used in each region.  For example, the emission factors for North American
+dairy cattle manure and European dairy and non-dairy cattle manure are relatively high
+because the manure is often managed using liquid systems that promote methane
+production.  The emission factors for North American non-dairy cattle and for all animals
+in Africa and the Middle East are relatively low because their manure is generally managed
+using dry systems that do not promote methane production.
+To select emission factors from Table 4-6, first identify the appropriate region, such as
+Latin America.  Within that region, identify the animal type of interest.  For that animal
+type three values are given for the three climate regions.  Compute a weighted average
+emission factor for the animal type by multiplying the percentages of the animal
+population in each climate region by the emission factor for each climate region.
+Appendix B summarises the estimates of manure management system usage and MCFs
+that underlie the emission factors in Table 4-6.
+As with the other manure management emission factors, there is substantial uncertainty
+in the estimates shown in Table 4-6 because field measurements are required to validate
+the laboratory measurements that form the basis for the MCFs used in the analysis, and
+because there is uncertainty and variability in the manner in which manure is managed in
+each region.
+T I E R  1 :  S T E P  3  – T O T A L  E M I S S I O N
+To estimate total emission the selected emission factors are multiplied by the associated
+animal population and summed.  The emission estimates should be reported in gigagrams
+(Gg).  Because the emission factors are reported in kilograms per head per year, the total
+emissions in Gg is estimated as follows for each animal category:
+emission factor (kg/head/yr) x population (head) / (106 kg/Gg)
+                          = emissions Gg/yr.
+As a point of reference, in 1990 total annual global methane emissions from domestic
+livestock enteric fermentation were of the order of 0.060 to 0.100 Gg (Gibbs and
+Johnson, 1993).  Enteric fermentation emissions from countries with large populations of
+livestock may be on the order of 0.001 to 0.005 Gg per year.  Countries with smaller
+populations of livestock would likely have emissions of less than 0.001 Gg per year.
+In 1990 total annual global methane emissions from manure management was on the
+order of 0.010 to 0.018 Gg (Woodbury and Hashimoto, 1993).  Manure management
+emissions from countries where manure is managed in liquid-based systems may be on
+the order of 0.001 to 0.002 Gg per year.  Countries where manure is not managed in
+liquid-based systems would likely have emissions of much less than 0.001 Gg per year.
+4 . 2 . 4  
+T i e r  2  A p p r o a c h  f o r  M e t h a n e  E m i s s i o n s
+F r o m  E n t e r i c  F e r m e n t a t i o n
+The Tier 2 approach is recommended for estimating methane emissions from enteric
+fermentation from cattle for those countries with large cattle populations.  As contrasted
+with the Tier 1 method, this approach requires much more detailed information on the
+cattle population.  Using this detailed information, more precise estimates of the cattle
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.15
+emission factors are developed.  When the Tier 2 method is used the default emission
+factors listed in Tier 1 for cattle are not used.
+This Tier 2 approach is similar to the August 1991 OECD method (OECD, 1991), with
+some modifications:
+•
+The Blaxter and Clapperton (1965) equation is replaced with a recommended set of
+methane conversion rate "rules of thumb."
+•
+Feed energy intake requirements for pregnancy have been added.
+•
+The energy requirements required for grazing have been reduced based on newly
+available data from AAC (1990).
+•
+The equations used to relate gross energy intake to net energy used by the animal
+have been made more general to fit a wider variety of feed conditions.
+The three steps outlined for Tier 1 are also used here.
+E N T E R I C  F E R M E N T A T I O N
+T I E R  2 :  S T E P  1  – L I V E S T O C K  P O P U L A T I O N
+To develop precise estimates of emissions, cattle should be divided into categories of
+relatively homogeneous groups.  For each category a representative animal is chosen and
+characterised for the purpose of estimating an emission factor.  Table 4-7 presents a set
+of recommended representative cattle types.  Three main categories, Mature Dairy
+Cattle, Mature Non-dairy Cattle, and Young Cattle, are recommended as the minimum
+set of representative types.  The subcategories listed should be used when data are
+available.  In particular, the sub-population of cows providing milk to calves should be
+identified among non-dairy cattle because the feed intake necessary to support milk
+production can be substantial.  In some countries the feedlot category is needed so that
+the implications of the high-grain diets can be incorporated.
+TABLE 4-7
+RECOMMENDED REPRESENTATIVE CATTLE TYPES
+Main Categories
+Subcategories
+Mature Dairy Cattle
+Dairy Cows used principally for commercial milk production
+Mature Non-dairy Cattle
+Mature Females:
+•Beef Cows: used principally for producing beef steers and heifers
+•Multiple-Use Cows: used for milk production, draft power, and other
+uses
+Mature Males:
+•Breeding Bulls: used principally for breeding purposes
+•Draft Bullocks: used principally for draft power
+Young Cattle
+Pre-Weaned Calves
+Growing Heifers, Steers/Bullocks and Bulls
+Feedlot-Fed Steers and Heifers on High-Grain Diets
+AGRICULTURE
+4.16
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+For each of the representative animal types defined, the following information is required:
+•
+annual average population (number of head);
+•
+average daily feed intake (megajoules (MJ) per day and kg per day of dry matter); and
+•
+methane conversion rate (percentage of feed energy converted to methane).
+Generally, data on average daily feed intake are not available, particularly for grazing
+animals.  Consequently, the following data should be collected for estimating the feed
+intake for each representative animal type4:
+•
+weight (kg);
+•
+average weight gain per day (kg);5
+•
+feeding situation: confined animals; animals grazing good quality pasture; and animals
+grazing over very large areas;
+•
+milk production per day (kg/day);6
+•
+average amount of work performed per day (hours/day);
+•
+percentage of cows that give birth in a year;7 and
+•
+feed digestibility (%).8
+These data should be obtained from country-specific cattle evaluations.  Some data, such
+as weight, weight gain, and milk production, may be available from production statistics.
+Care should be taken to use the live cattle weights, as contrasted with slaughter weights.
+Appendix A, at the end of this section, lists the data used to develop the default emission
+factors presented in Tier 1.  Individual country data can be compared to the data
+presented in Appendix A to ensure that the data collected are reasonable.
+Data on methane conversion rates are also not generally available.  The following rules of
+thumb are recommended for the methane conversion rates:
+•
+Developed Countries.  A 6 per cent conversion rate (±0.5 per cent) is
+recommended for all cattle in developed countries except feedlot cattle consuming
+diets with a large quantity of grain.  For feedlot cattle on high grain diets a rate of
+4 per cent (±0.5 per cent) is recommended.  In circumstances where good feed is
+available (i.e., high digestibility and high energy value) the lower bounds of these
+ranges can be used.  When poorer feed is available, the higher bounds are more
+appropriate.
+•
+Developing Countries.  Several recommendations are made for different animal
+management situations in developing countries:
+                                                  
+     4 In many, if not most, cattle management circumstances, the principal driving factors
+that affect feed intake are: weight, milk production and feed digestibility.
+     5 This may be assumed to be zero for mature animals.
+     6 Milk production is required for dairy cows and non-dairy cows providing milk to
+calves.
+     7 This is only relevant for mature cows.
+     8 Feed digestibility is defined as the proportion of energy in the feed that is not
+excreted in the faeces.  Digestibility is commonly expressed as a percentage (%).
+Common ranges for feed digestibility for cattle are 50% to 60% for crop by-products and
+rangelands; 60% to 70% for good pastures, good preserved forages, and grain-
+supplemented forage-based diets; and 75% to 85% for grain-based diets fed in feedlots.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.17
+−
+All dairy cows and young cattle are recommended to have a conversion rate of
+6.0 per cent (±0.5 per cent).  These cattle are generally the best-fed cattle in
+these regions.
+−
+All non-dairy cattle, other than young stall-fed animals, consuming low-quality
+crop by-products, are recommended to have a conversion rate of 7.0 per
+cent (±0.5 per cent) because feed resources are particularly poor in many
+cases in these regions.
+−
+Grazing cattle are recommended to have a conversion rate of 6.0 per
+cent (±0.5 per cent), except for grazing cattle in Africa, which are
+recommended to have a rate of 7.0 per cent (±0.5 per cent) because of the
+forage characteristics found in many portions of tropical Africa.
+These rules of thumb are a rough guide based on the general feed characteristics and
+production practices found in many developed and developing countries.  Country-
+specific exceptions to these general rules of thumb should be taken into consideration as
+necessary based on detailed data from cattle experts.
+E N T E R I C  F E R M E N T A T I O N
+T I E R  2 :  S T E P  2  – E M I S S I O N  F A C T O R S
+The emission factors for each category of cattle are estimated based on the feed intake
+and methane conversion rate for the category.  Feed intake is estimated based on the
+feed energy requirements of the representative animals, subject to feed-intake limitations.
+The net energy system described in NRC (1984 and 1989) is recommended as the
+starting point for the estimates.  Because the NRC system was developed for feeding
+conditions in temperate regions, several adjustments were made to avoid potential biases
+when applied to evaluate feed-energy intakes for tropical cattle (see Appendix C).
+Comparisons with alternative feeding systems (e.g., ARC, 1980) indicate that the
+emissions estimates are not sensitive to the feeding system used as the basis for making
+the estimates.
+The net energy system specifies the amount of feed energy required for the physiological
+functions of cattle, including maintenance, growth and lactation.  Feed energy
+requirements for work have also been estimated, and are included in this analysis for the
+draft animals in developing countries.  Energy requirements for pregnancy have also been
+added for the portion of cows that give birth in each year.  The following information is
+required to estimate feed energy intakes:
+•
+Maintenance
+Maintenance refers to the apparent feed energy required to keep the animal in
+energy equilibrium, i.e., there is no gain or loss of energy in the body tissues
+(Jurgens, 1988).  For cattle, net energy for maintenance (NEm) has been estimated to
+be a function of the weight of the animal raised to the 0.75 power (NRC, 1984):
+EQUATION 1
+NEm (MJ/day) = 0.322 x (weight in kg)0.75
+NRC (1989) recommends that lactating dairy cows be allowed a slightly
+higher maintenance allowance:
+                  NEm (MJ/day) = 0.335 x (weight in kg)0.75   dairy cows}
+AGRICULTURE
+4.18
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+•
+Feeding
+Additional energy is required for animals to obtain their food.  Grazing animals
+require more energy for this activity than do stall-fed animals.  The following energy
+requirements are added for this activity based on their feeding situation:9
+EQUATION 2
+NEfeed =
+Confined animals (pens and stalls): no additional NEm;
+Animals grazing good quality pasture: 17 % of NEm; and
+Animals grazing over very large areas: 37 % of NEm.
+•
+Growth
+The energy requirements for growth can be estimated as a function of the weight of
+the animal and the rate of weight gain.  NRC (1989) presents formulae for large-
+and small-frame males and females, the estimates of which vary by about ± 25 per
+cent.  The equation for large-frame females is recommended, which is about the
+average for the four types:
+EQUATION 3
+NEg (MJ/day) = 4.18 x {(0.035 W0.75 x WG1.119) + WG}
+where:
+W
+= animal weight in kilograms (kg); and
+WG
+= weight gain in kg per day.
+The relationships for NEg were developed for temperate agriculture conditions, and
+may over-estimate energy requirements for tropical conditions, particularly for draft
+animals that may have a lower fat content in their weight gain (Graham, 1985).
+However, no data are available for improving the estimates at this time.
+•
+Lactation
+Net energy for lactation has been expressed as a function of the amount of milk
+produced and its fat content (NRC, 1989):
+EQUATION 4
+NEl (MJ/day) = kg of milk/day x (1.47 + 0.40 x Fat %)
+At 4.0 per cent fat, the NEl in MJ/day is about 3.1 x kg of milk per day.
+•
+Draft Power
+Various authors have summarised the energy intake requirements for providing draft
+power (e.g., Lawrence, 1985; Bamualim and Kartiarso, 1985; and Ibrahim, 1985).
+The strenuousness of the work performed by the animal influences the energy
+requirements, and consequently a wide range of energy requirements have been
+estimated.  The values by Bamualim and Kartiarso show that about 10 per cent of
+                                                  
+     9 The original OECD method recommended slightly higher energy additions.  These
+revised figures are based on newly-published information in AAC (1990).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.19
+NEm requirements are required per hour of typical work for draft animals.  This
+value is used as follows:
+EQUATION 5
+NEdraft (MJ/day) = 0.10 x NEm x hours of work per day
+•
+Pregnancy
+Daily energy requirements for pregnancy are presented in NRC (1984).  Integrating
+these requirements over a 281-day gestation period yields the following equation:
+EQUATION 6
+NEpregnancy (MJ/281-day period) = 28 x calf birth weight in kg
+The following equation can be used to estimate the approximate calf birth weight as
+a function of the cow's weight:10
+EQUATION 7
+Calf birth weight (kg) = 0.266 x (cow weight in kg)0.79
+Manipulating Equations 6 and 7, in conjunction with Equation 1, shows that the NE
+required for pregnancy is about 7.5 per cent of NEm for the range of cow sizes
+considered in this analysis.  Therefore, a factor of 7.5 per cent of NEm is added to
+account for the energy required for pregnancy for the portion of cows giving birth
+each year.
+Based on these equations, each of the net energy components for each of the cattle
+categories can be estimated from the data collected in Step 1: weight in kilograms; feeding
+situation; weight gain per day in kilograms; milk production in kilograms of 4 per cent fat-
+corrected milk; number of hours of work performed per day; and portion that give birth.
+These net energy requirements must be translated into gross energy intakes.  Also, by
+estimating the gross energy intake, the net energy estimates can be checked for
+reasonableness against expected ranges of feed intake as a percentage of animal weight.
+To estimate gross energy intake, the relationship between the net energy values and
+gross energy values of different feeds must be considered.  This relationship can be
+summarised briefly as follows:
+Digestible Energy
+=
+Gross Energy - Faecal Losses
+Metabolisable Energy
+=
+Digestible Energy - Urinary and Combustible Gas
+Losses
+Net Energy
+=
+Metabolisable Energy - Heat Increment
+-------------------------------------------------------------------------------------------------------
+----
+Net Energy
+=
+Gross Energy - Faecal Losses - Urinary and
+Combustible Gas Losses - Heat Increment
+                                                  
+     10 This species-specific equation from Robbins and Robbins (1979) was adjusted to the
+mean cow and calf weight of a typical beef breed of cattle.  This adjustment increases the
+coefficient in the equation from 0.214 to 0.266.
+AGRICULTURE
+4.20
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+The quantitative relationship among these energy values varies among feed types.
+Additionally, the values depend on how the feeds are prepared and fed, and the level at
+which they are fed.  For the purposes of this method, simplifying assumptions are used to
+derive a relationship between net energy and digestible energy that is reasonably
+representative for the range of diets typically fed to cattle.  Gross energy intake is then
+estimated using this relationship and the digestibility data collected in Step 1.
+Given the digestibility of the feed (defined in Step 1), a general relationship between
+digestible energy and metabolisable energy can be used as follows (NRC, 1984):
+EQUATION 8
+Metabolisable Energy (ME) = 0.82 x Digestible Energy (DE)
+Equation 8 is a simplified relationship; larger (smaller) methane conversion rates would
+tend to reduce (increase) the coefficient to values below (above) 0.82.
+NRC (1984) presents separate quantitative relationships between metabolisable energy
+and net energy used for growth versus net energy used for other functions.  Using
+Equation 8, the NRC relationships can be re-arranged to quantify the ratio of NE to DE,
+as follows:
+EQUATION 9
+NE/DE
+=  1.123 - (4.092 x 10-3 x DE%) + (1.126 x 10-5 x (DE%)2)
+- 25.4/DE%
+EQUATION 10
+NEg/DE
+=  1.164 - (5.160 x 10-3 x DE%) + (1.308 x 10-5 x (DE%)2)
+- 37.4/DE%
+where:
+NE/DE
+=
+the ratio of net energy consumed for maintenance, lactation, work
+and pregnancy to digestible energy consumed;
+NEg/DE
+=
+the ratio of net energy consumed for growth to digestible energy
+consumed; and
+DE%
+=
+digestible energy as percentage of gross energy, expressed in per
+cent (e.g., 65%).
+Because the NRC (1984) relationships were developed based on diets with relatively high
+digestibilities (generally above 65 per cent), they may not be appropriate for the relatively
+low digestibility diets that are commonly found in tropical livestock systems.  In particular,
+the non-linear nature of the relationships could appear to increase the estimates of feed
+intake for low-digestibility feeds.  An apparent increase in feed intake would lead to an
+apparent increase in emissions estimates.

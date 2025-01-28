@@ -1,0 +1,432 @@
+R e v is e d 1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s  R e p o r t i n g  I n st r u c t i o n s
+A3.1
+ANNEX 3
+SUMMARY OF THE REVISED 1996
+IPCC 
+GUIDELINES 
+FOR
+NATIONAL GREENHOUSE GAS
+INVENTORIES
+A3.1 Background
+This Annex summarises additions and revisions to the 1995 IPCC Guidelines
+for National Greenhouse Gas Inventories (1995 IPCC Guidelines). It also
+describes efforts made by the IPCC to harmonise methods with others.
+The additions and revisions were accepted by the IPCC at its Twelfth
+Session held in Mexico City (11-13 September 1996) after acceptance by
+Working Group I at its Sixth Session held in Mexico City (10 September
+1996) in accordance with IPCC procedures.  They are called the Revised
+1996 IPCC Guidelines for National Greenhouse Gas Inventories. Within this
+Annex, a revision of an existing methodology or default data is referred to
+as a ‘revision’, ‘revised method’ or ‘revised data’.  Additional methods and
+default data are defined as ‘new’ methods or ‘new data’.
+A3.2 Energy
+The Energy Chapter contains the following improvements and additions:
+• 
+Harmonisation of international (IPCC and CORINAIR) emission
+estimation methodologies and allocating of emissions from
+autoproducers1 to the sector where they are generated and not to
+the transformation2 sector (revision);
+• 
+Development of a new Tier 1 method for estimating non-CO2
+Greenhouse Gas (GHG) and SO2 emissions based on fuel
+consumption;
+• 
+Development of a new Tier 2 method for estimating emissions from
+aircraft;
+• 
+Inclusion of new default values for various types of traditional
+biomass fuels;
+• 
+Clarification of the definition of National Navigation (the definition of
+International Marine Bunkers remains unchanged).
+                                                  
+     1 An autoproducer is defined as an entity which produces electricity
+and/or heat for sale in addition to its primary activities.
+     2 The transformation sector comprises the conversion of primary forms
+of energy to secondary and further transformation (e.g. coking coal to coke,
+heavy fuel oil to electricity)
+SUMMARY
+A3.2
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+A3.3 Industrial Processes
+The Industrial Process Chapter contains a broad range of new estimation
+methodologies for the so-called "new gases", that is perfluorocarbons, PFCs
+(e.g. CF4 and C2F6), HFCs (e.g. HFC-125 and HFC-134a), sulphur
+hexafluoride (SF6), the direct GHG (CO2, CH4, and N2O), and ozone and
+aerosol precursors (SO2, NOx, CO, NMVOC) from industrial, non-energy,
+processes.
+Direct GHG: The new methodologies cover CO2, CH4, and N2O emissions
+from the production of mineral compounds, chemical industries and metal
+manufacture. The estimation of CO2 emissions from cement production
+remains unchanged, but the methodologies for N2O emissions from nitric
+and adipic acid production have been revised.
+Aerosol and ozone precursors: For SO2, NOx, CO, NMVOC, new
+methodologies are presented, which draw upon and improve existing
+international methodologies. The sectors covered are: mineral compounds
+production, chemical industries and metal manufacture.
+Fluorocarbons and SF6: For HFCs and PFCs, and SF6, methodologies are
+provided to estimate by-product and fugitive emissions from aluminium (Al)
+and magnesium (Mg) manufacturing processes, as well as emissions from
+their production and consumption. Two approaches are given: Tier 1 (a, b)
+for potential emissions, and Tier 2, for actual emissions. Potential emissions of
+PFCs, HFCs, and SF6: are equal to the amount of a chemical consumed in a
+country, minus the amount of a chemical recovered for destruction or
+export in the year of consideration. Actual emissions estimates take into
+account the time lag between consumption and emissions. The Tier 2
+methodology is, therefore, the more accurate estimation approach.
+A3.4 Land-use Change and Forestry
+Several revisions to the methods for the Land-use Change and Forestry
+Chapter are provided. One such revision is to the method for estimating
+CO2 fluxes from soils, as described below.
+The revisions to the Land-use Change and Forestry Chapter greatly extend
+and improve the range and quality of default data, particularly for the
+tropics, where national forestry statistics are sometimes less accessible than
+in the temperate or boreal regions. The revisions can be summarised by
+changes in (a) default data and in (b) methods, as follows:
+D e f a u l t  d a t a
+Classification system for land cover types: A revised system more
+consistent with sources of national, regional and international data, such as
+forest conversion rates and forest inventories was developed. The revised
+classification system better reflects the diversity of forest types. For the
+tropics, three classes of forests have been replaced with six, based on
+differences in rainfall amount, seasonality, and altitude.
+Rates of forest conversion: New FAO default data are provided for each
+country and forest type according to the proposed land-cover classification
+SUMMARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+A3.3
+system. These data have been compiled for the tropics for the 1980-90
+period. Such revisions were incorporated because country-level data are
+often difficult to obtain for many tropical countries; the 1995 IPCC
+Guidelines contain no such data.
+Aboveground biomass for native tropical forests: Emissions estimates
+from land-use change and forestry can be highly sensitive to such input data
+and therefore a priority was given to improving aboveground biomass data.
+Since publication of the 1995 IPCC Guidelines, better datasets have become
+available drawing upon larger regional studies. The revisions now include a
+large database of default values for Africa, America, and Asia for the revised
+land-cover classification system. Additional data based on individual forest
+inventories (suitable for converting to biomass) for many tropical countries
+are also included. None of the default values are separated into primary and
+secondary forests (as in 1995 IPCC Guidelines) because it was felt by
+experts that this was not a practical classification, given the variability of
+definitions in different regions.
+Rates of tropical forest regrowth: Revised default data are given for forest
+regrowth; the data are related to the biomass data and are reported for the
+three tropical regions by forest type, according to the revised classification
+system.
+M e t h o d s
+Estimation of net CO2 emissions from soil carbon: In the 1995 IPCC
+Guidelines, CO2 estimates are based upon the product of the rate of change
+in area of a given land-use and the rate of change of soil carbon. The revised
+method estimates changes in soil carbon pools associated with altered land-
+use or land management practices. Thus, all categories of agriculturally-
+impacted lands, including conversions of forest or other vegetation to
+agriculture, land abandonment, shifting cultivation and permanent
+agriculture, are included in the methodology. A default stock method is
+employed to estimate CO2 fluxes associated with agricultural activities for a
+20-year inventory period. This area of the IPCC Methodology has been
+much improved because better scientific data is now available. The revised
+method is more compatible with potential policy analysis.
+A3.5 Agriculture
+Three sections of this Chapter have been revised, that are, (1) methane
+emissions from rice cultivation, (2) nitrous oxide emissions from agricultural
+soils and (3) manure management. For the estimation of N2O emissions,
+the default methods and data are new.
+M e t h a n e  E m i s s i o n s  f r o m  R i c e  C u l t i v a t i o n
+In the 1995 IPCC Guidelines, the estimation of CH4 emissions from wetland
+rice cultivation is a function of the CH4 emission factor, area of rice
+cultivated and the season length. One critical default parameter is the CH4
+emission factor, which is based upon temperature. It was determined that
+the relationship between CH4 emissions and soil temperature as assumed in
+SUMMARY
+A3.4
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+the 1995 IPCC Guidelines was no longer appropriate because new data
+suggest that the seasonally integrated CH4 flux depends much more on the
+input of organic carbon, water regime, time and duration of drainage and
+soil type than on local temperature. The revised methodology is a function
+of the emission factor integrated over a cropping season for particular rice
+water regime, for a given organic amendment, and of the annual harvested
+area cultivated under these conditions. The latter is given by the cultivated
+area times the number of cropping seasons per year.
+The revisions to the method use internationally-agreed definitions for rice
+eco-systems classified according to the water regime and a range of CH4
+emission scaling factors relative to continuously flooded rice eco-systems
+and for soils without organic amendment. A default seasonally integrated
+emission factor is also provided for the continuously-flooded regime,
+without-organic amendment.
+Nitrous Oxide Emissions from Agricultural
+Soils and Manure Management
+A new default method for calculating national emissions of N2O from
+agriculture is provided. The new N2O method is a revision of the method in
+the 1995 IPCC Guidelines. It includes more sources of N2O from agricultural
+activities and makes explicit recommendations on N2O emission factors.
+The new method accounts for the application of N-fertilisers to the soil and
+N uptake in crops and subsequently tracks the flow of N as it moves
+through the (anthropogenic) animal and human food chain. Three
+categories of N2O sources are distinguished in the new methodology, (1)
+direct emissions from agricultural soils, (2) emissions from animal
+production, and (3) N2O emissions indirectly induced by agricultural
+activities3.  Because a larger number of sources and pathways are
+considered, the new N2O methodology affects several source sectors.
+Emissions are reported in several sections of the 1995 IPCC Guidelines,
+namely, Manure Management (Section 4.2, 1995 IPCC Guidelines),
+Agricultural Soils (Section 4.5, 1995 IPCC Guidelines), and Waste (Section
+6.3, 1995 IPCC Guidelines). The input data required can be obtained from
+FAO databases.
+The new method provides a comprehensive description of N2O emissions
+from agriculturally-related activities by accounting for previously omitted
+N2O sources. Using this method, global N2O emission estimates imply that
+atmospheric N2O input from agricultural production as a whole has
+apparently been previously underestimated by at least 70%. Nitrous oxide
+emissions resulting from atmospheric deposition are assigned to the NOx
+or NH3 emitting country4.
+                                                  
+     3 It is however recognised that there are other sources of
+anthropogenic atmospheric inputs of N-compounds to soils e.g., NOx from
+fuel combustion.  Only compounds directly applied to agricultural soils are
+considered.
+     4 In some countries and regions, other conventions related to long
+range transboundary air pollution are addressing the issue of atmospheric
+transport and deposition in greater detail.
+SUMMARY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+A3.5
+A3.6 Waste
+The Chapter on Waste addresses various topics, including: improved waste
+disposal data, evaluation of the methodologies for solid waste and
+wastewater, definitions of activities and uncertainties of CH4 emission
+estimates. The main improvements to the methods and default data are as
+follows:
+S o l i d  W a s t e
+Site classification: A new term - solid waste disposal site - has been
+proposed to refer to all sites and to replace the terminology in 1995 IPCC
+Guidelines for ‘landfills’ and ‘open dumps’. The new term was proposed
+because experience suggests that the existing categories do not adequately
+include the entire range of waste disposal sites that exists in all countries.
+Solid waste disposal sites include all sites where waste is deposited and is
+likely to generate some methane. Sites are further classified according to
+the level of site management and depth.
+Methane correction factor: The new site classification is used to derive a
+methane correction factor (MCF) to account for the methane generation
+potential of the site. The amount of methane produced depends in part
+upon the available oxygen and the level of compaction of the waste. In
+general, waste in managed sites potentially generates more methane than
+waste in unmanaged sites. Furthermore, the deeper the site, the greater the
+methane generation potential. The methane correction factor for each type
+of site reflects these differences in methane generation potential. The site
+classification recognises that some developing countries, or countries with-
+economies-in-transition, may have a majority of less-well managed or
+unmanaged sites, often with a lower methane-producing potential than well
+managed sites.
+Waste data: A wide range of revised and new default data on waste
+generation, composition and disposal data in many additional developed and
+developing countries is provided. A definition for Municipal Solid Waste and
+a method for calculating the Degradable Organic Carbon content of various
+waste streams are now included in the revised Chapter.
+Methodology: The default methodology was evaluated and retained. The
+methodology uses a zero-order equation requiring data on population,
+waste landfills, and waste composition as proposed by Bingemar and
+Crutzen (1987).
+W a s t e w a t e r
+A revised method and default data for calculating emissions from wastewater
+and sludge is included. The amount of CH4 produced from these systems
+depends upon several factors, including the characteristics of the
+wastewater and the management system, and temperature. These factors
+are highly dependent upon the waste treatment system used. The revised
+methodology allows countries to tailor the estimation approaches more
+precisely to their wastewater management systems. This is accomplished by
+the MCF that accounts for the differing CH4 generating potential of
+SUMMARY
+A3.6
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s
+different wastewater management systems. In addition, the revised
+methodology uses data that is commonly available from most countries, or
+which can be estimated by wastewater experts.
+H u m a n  s e w a g e
+A new methodology and default data are provided for the estimation of
+N2O nitrous oxide emissions from human sewage disposed to land, and in
+subsequent run-off to rivers and estuaries. There is no such methodology in
+1995 IPCC Guidelines.
+A3.7 Harmonisation of International
+Emission Estimation Methodologies
+Progress has been made in the harmonisation of the IPCC and
+EMEP/CORINAIR methodologies to allow more direct comparison of the
+two approaches. These changes are mainly in the Energy Chapter, but
+harmonisation was a theme in all other chapters, including Industrial
+Processes. Examples of harmonisation are given below from the Energy
+Chapter:
+• 
+Biomass fuels are allocated to the various source categories (new). As
+in 1995 IPCC Guidelines, CO2 from biomass will not be reported in
+national totals as this is captured in the Land-use Change and
+Forestry Chapter
+• 
+Emissions from fuel used for electricity and heat production by
+autoproducers will be included in the sector where it is generated
+and not with the transformation industries.
+• 
+Treatment of evaporative emissions (NMVOCs) from road transport
+in the Tier 2 method of IPCC is made consistent with CORINAIR.
+Combustion and evaporative emissions are to be reported
+separately. However, in the new Tier I IPCC method, all emissions
+from road transport are included together under fuel combustion.
+• 
+Development of a new Tier 2 method for estimating emissions from
+aircraft.
+References
+Australian Methodology for the Estimation of Greenhouse Gas Emissions and
+Sinks (1996).
+Joint EMEP/CORINAIR Atmospheric Emission Inventory Guidebook (1996), 1st
+Edition, European Environmental Agency.
+1995 IPCC Guidelines for National Greenhouse Gas Inventories, Reporting
+Instructions (Volume 1); Workbook (Volume 2); Reference Manual
+(Volume 3).
+SUMMARY
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s 
+A3.7
+Table 1. Additions/revisions to the 1995 IPCC Guidelines for National Greenhouse Gas Inventories
+Sector1
+Volume
+Chapter/Section
+Summary of additions/revisions2
+1. Energy
+Reference Manual
+(Volume 3)
+Chapter 1, Energy
+Main changes are :
+• 
+assignment of GHG emissions from autoproducers to the sector where they were generated and not to the
+transformation sector (revision);
+• 
+development of a Tier 1 method for estimating non- CO2 GHG and SO2 emissions based on fuel consumption
+(new);
+• 
+development of a Tier 2 method for estimating emissions from aircraft (new);
+• 
+inclusion of default values for various types of traditional biomass fuels (new);
+• • 
+clarification of the definition of National Navigation (the definition of International Marine Bunkers remains
+unchanged)
+Workbook  (Volume 2)
+Module 1, Energy
+2. Industrial
+Processes
+Reference Manual (Volume 3)
+Chapter 2,
+Industrial Processes
+ New methods and default data for the estimation of emissions of
+• 
+direct greenhouse gases (CO2, CH4, and N2O) and SO2 from:
+     - mineral production;
+     - chemical industries;
+     - metal manufacture.
+• 
+ozone precursors (NOx, CO, NMVOC) from :
+    - chemical industries
+    - metal manufacture
+• 
+halocarbons (PFCs, HFCs) and sulphur hexafluoride (SF6) from metal manufacture, use and production.
+     - Tier 1 (a):
+for bulk chemicals;
+     - Tier 1 (b):
+for bulk chemicals and chemicals stored in products;
+      - Tier 2     :
+product (containing PFCs, HFCs, SF6) lifetimes are taken into account.
+Workbook
+(Volume 2)
+Module 2,
+Industrial Processes
+1    Chapter 3, ‘’Solvents and other product use’’ has not been revised.
+2    A revision of an existing methodology or default data is referred to as a ‘revision’.  In cases where an additional method has been developed and default data provided, this is defined as ‘new’.
+SUMMARY
+A3.8
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:    R e p o r t i n g  I n st r u c t i o n s
+Table 1. Additions/revisions to the 1995 IPCC Guidelines for National Greenhouse Gas Inventories (continued)
+Sector1
+Volume
+Chapter/Section
+Summary of additions/revisions2
+4. Agriculture
+Reference Manual
+(Volume 3)
+Chapter 4: Agriculture,
+Methane Emissions from Rice
+Cultivation
+• 
+Revised method and new default data for the estimation of Methane Emissions from Rice Cultivation uses:
+ - internationally-agreed definitions of rice ecosystems (revision);
+ - default data (e.g. seasonally integrated CH4 emission factors) (new);
+  - scaling factors for CH4 emissions factors relative to continuously flooded    fields (without-organic
+amendment) (new).
+Reference Manual
+(Volume 3)
+Chapter 4: Agriculture,
+Agricultural Soils and Manure
+Management
+Additions and revisions include:
+• 
+default method for the estimation of nitrous oxide emissions from Manure Management and Agricultural
+soils (new);
+• 
+revised default emission factors for the estimation of direct emissions of N2O from soils (revision);
+• 
+default data (e.g. N2O emission factors for animal waste and for indirect emissions) (new).
+Workbook
+(Volume 2)
+Module 4 : Agriculture
+Agricultural Soils, Manure
+Management,  and Methane
+Emissions from Rice
+Cultivation
+5. Land-use Change &
+Forestry
+Reference Manual
+(Volume 3)
+Chapter 5, Land-use Change
+& Forestry
+• 
+Revised /new default data and classification are suggested for:
+- land-cover types (revision);
+- rates of forest conversion (new);
+- aboveground biomass for native tropical forests (revision);
+- rates of tropical forest regrowth (revision)
+• 
+Method for the estimation of CO2 fluxes from agricultural soils (revision) and default data (new).
+Workbook
+(Volume 2)
+Module 5, Land-use Change &
+Forestry
+1 Chapter 3, ‘’Solvents and other product use’’ has not been revised.
+2 A revision of an existing methodology or default data is referred to as a ‘revision’.  In cases where an additional method has been developed and default data provided, this is defined as ‘new’.
+SUMMARY
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e p o r t i n g  I n st r u c t i o n s 
+A3.9
+Table 1. Additions/revisions to the 1995 IPCC Guidelines for National Greenhouse Gas Inventories (continued)
+Sector1
+Volume
+Chapter/Section
+Summary of additions/revisions2
+6.  Waste
+Reference Manual
+(Volume 3)
+Chapter 6, Waste
+• 
+Solid waste disposal
+Revised/new data and classification are listed below for:
+- solid waste disposal site classification: definition encompasses all sites classified in the current Guidelines
+(revision);
+- methane correction factor to account for the methane generation potential of the site (new);
+- wider range of default data for waste generation, composition and disposal data  (revision).
+• 
+Wastewater
+- revised approach and default data for calculating CH4 emissions (revision).
+• 
+Human sewage
+- method and default data for the estimation of N2O emissions (new).
+Workbook
+(Volume 2)
+Module 6, Waste
+1 Chapter 3, ‘’Solvents and other product use’’ has not been revised.
+2 A revision of an existing methodology or default data is referred to as a ‘revision’.  In cases where an additional method has been developed and default data provided, this is defined as ‘new’.

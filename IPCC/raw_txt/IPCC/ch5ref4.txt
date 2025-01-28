@@ -1,0 +1,696 @@
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.61
+The FAO Forest Assessment produced in the early 1980s (FAO/UNEP 1981, Lanly 1982)
+provides a first-order estimate of deforestation rates world-wide.  These data produced
+on a country basis can be used as a baseline land-use rate.  A 1990 assessment has been
+recently published (FAO 1993a), which provides estimates of deforestation rates by
+country for the period 1981-1990.  Thus, some estimates of current and historical rates
+of deforestation on a country basis can be obtained from these published reports.  More
+detailed information, at the sub-national level, can be obtained by contacting the FAO
+directly.  Deforestation by climatic zone for each tropical country is included in the
+Workbook.
+It should be noted, however, that there have been controversies and disagreements
+regarding FAO estimates of national deforestation rates at times.  In some cases where
+national experts have developed substantially more detailed approaches for their own
+countries, results have been found to be different from the published FAO estimates.
+Any internationally provided data should be reviewed carefully by national experts if they
+are used as a basis for emissions inventory estimates.
+Some countries have well-developed estimates of deforestation, based on very good
+measurements, which provide more detail than is available from the FAO assessments
+(e.g., Arbhabhirama et al., 1987; INPE, 1992).  Where detailed national studies exist for
+the early 1990s they should be the preferred data source for experts preparing national
+inventories.  FAO data may nonetheless be useful for comparative purposes.  The choice
+of input data is always ultimately a decision of the national experts.
+Lack of consistent time-series data at national level is considered by FAO staff to be the
+most critical problem in estimating the deforestation rate.  Variation in definitions and
+measurement techniques from country to country is another problem in making regional
+and global estimates.  FAO has initiated a comprehensive programme for capacity-building
+in forest resources assessment by mobilising technical and economic co-operation among
+member countries and among concerned regional and global agencies as follow-up to
+recommendations of UNCED Agenda 21: Programme Area D.
+T5.2  Ongoing Data Efforts
+The lack of a comprehensive data set on deforestation rates is a critical problem.  The
+development of such data sets remains one of the priorities for the IPCC process in the
+coming years (IPCC, 1992).  Methods using high resolution remote sensing in conjunction
+with geographic information systems appear most promising.  The International
+Geosphere-Biosphere Programme's Data Information System (IGBP-DIS) is serving as a
+central focal point to collect and disseminate information about the various ongoing
+activities and data sets dealing with land use and changes in land cover.  The IGBP-DIS is
+located in Paris, France (Tel: 33-1-4427-6168, Fax: 33-1-4427-6171).
+Experts from around the world have begun to build the scientific, technical, and
+procedural underpinnings of such a system.  The World Forest Watch Meeting held in
+Sao Jose dos Campos, Brazil (June 1992) provided a high-level international forum for the
+assessment of current approaches to satellite-based forest monitoring.  This meeting also
+served as a basis for forwarding recommendations from the technical and scientific
+communities to the policy makers and government leaders at UNCED.
+A variety of international participants were represented at the World Forest Watch
+Conference.  The conference concluded that significant technical and methodological
+advancements have been made in recent years, and they are now sufficient for proceeding
+with an observation system which could satisfy both scientific and national-level forest
+management requirements.  A priority action now is to establish a fully functional,
+LAND-USE CHANGE & FORESTRY
+5.62
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+permanent monitoring system.  The system would support national forest management,
+global change science, and international policy information needs, such as those of the
+IPCC.
+The current research and development being carried out in laboratories and research
+centres around the world has shown that it is now feasible to acquire repetitive satellite
+data sets over very large areas, and that the information derived from such data sets can
+form the core of a global forest monitoring programme.  The International Space
+Year/World Forest Watch Conference has recently provided illustrations that space
+observation technology and the community of users are ready for regional and global
+applications.
+Progress made on two forest monitoring projects is worth noting in this respect.
+1
+The National Institute for Space Research (INPE) of the Secretariat of Science and
+Technology of the Presidency of the Republic of Brazil has made surveys of the
+entire Legal Amazon (about 5 million square kilometres) using LANDSAT images.
+This survey was first conducted in 1978 (with 1977 and 1979 being used to cover
+areas covered by clouds in the 1978 imagery).  The studies were repeated in 1988,
+1989, 1990 and 1991.  These space-based surveys mapped the extent of gross
+deforestation (i.e., without accounting for forest regeneration or the establishment
+of plantations) in the portion of the Legal Amazon covered by forest.  The
+ecosystems ranged from dense tropical forest to thick savannas (cerradao) with a
+total surface area between 3.9 and 4 million square kilometres.  The 1978 survey
+used 232 Land Sat MSS black and white images based on channels 5 and 7 at a scale
+of 1:250,000.  The more recent studies used 229 LANDSAT TM images annually in a
+colour composite of channels 3,4 and 5 at a scale of 1:250,000.
+2
+In 1990 NASA, in conjunction with the United States Environmental Protection
+Agency and the US Geological Survey, began a prototype procedure for using large
+amounts of high resolution satellite imagery to map the rate of tropical
+deforestation.  This activity, the LANDSAT Pathfinder Project, builds on experience
+gained during a proof-of-concept exercise as part of NASA's contribution to the
+International Space Year/World Forest Watch Project.  It focused initially on the
+Brazilian Amazon, and has now been expanded as part of NASA's Earth Observing
+System activities to cover other regions of the humid tropical forests.
+This project has succeeded in demonstrating how to develop wall-to-wall maps of
+forest conversion and regrowth.  The project is now in the process of extending its
+initial proof-of-concept to a large-area experiment across Central Africa, Southeast
+Asia and the entire Amazon Basin.  The project is acquiring several thousand
+LANDSAT scenes at three points in time - mid 1970s, mid 1980s, and mid 1990s -
+to compile a comprehensive inventory of deforestation and secondary growth
+(regrowth of forests on land cleared and subsequently abandoned) to support global
+carbon cycle models.  Methodology and procedures have been identified.  Although
+this exercise is being implemented for most of the tropics, it is not an operational
+global programme.  In principle it will provide an initial large-scale prototype of an
+operation programme.
+The use of geographic information system technology is crucial to the project, as it
+provides the overall framework upon which the raw satellite data can be synthesised
+with other cartographic, numerical and geographical data for scientific research and
+national forestry management.  As its name implies, this project is exploratory, but it
+could readily be expanded to form the nucleus of a global scale operational
+programme.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.63
+These two projects demonstrate the feasibility of developing a global tropical forest
+information system to support an operational tropical forest monitoring programme.
+High resolution satellite data from LANDSAT or Spot satellites are being used to provide
+digital maps of deforestation.
+High resolution data from the LANDSAT series of earth observation satellites can be
+employed to make regular measurements of deforestation.  Large amounts of these data
+exist in national and foreign archives, dating back approximately 20 years.  This satellite
+data system has been perfected over years of development (5 satellites have been
+launched) and it is expected to be an operational system into the next century
+(LANDSAT 7 and 8 are being designed33).  This system is complemented by the French
+SPOT satellites.  Thus, a continuous and consistent source of data is available upon which
+a high resolution, fine-scale (1:250,000 scale mapping) information system could be
+developed.
+An operational forest monitoring using high resolution data such as that provided by
+LANDSAT and SPOT could provide wall-to-wall mapping for the entire humid tropical
+zone.  The approach would be as follows:
+•
+An initial mapping effort would define where and how much deforestation exists in
+the tropical forests (a baseline assessment).  The stratification of forest types and
+critical regions could be enhanced by the use of coarse resolution information from
+AVHRR.
+•
+Acquisition of LANDSAT and/or SPOT imagery can be co-ordinated regularly every
+3-5 years to obtain cloud-free coverage systematically throughout the tropics.  The
+best way to achieve this is to rely heavily on the foreign ground stations.  For
+example, from the LANDSAT routine and complete coverage for the Amazon Basin
+and Southeast Asia is possible from several foreign ground receiving stations in these
+regions.  As a rule these stations regularly collect data from every orbital pass within
+the line-of-sight radius of their antenna.  For regions, such as central Africa where
+no ground station exits, programmed acquisitions from the satellite are possible.
+•
+The imagery is analysed for deforestation using a methodology analogous to that
+developed by the LANDSAT Pathfinder Project, where a simple delineation of the
+boundary between intact forest and cleared areas is recorded into a geographic
+information system.  Areas of secondary growth would also be delineated.
+Subsequent years are compared to the baseline and the increment of new
+deforestation and secondary growth is recorded.  The resulting data set provides a
+1:250,000 to 1:500,000 scale map of deforestation at a regular repeat interval, and
+from this a rate of deforestation is derived.
+•
+These 
+geographically-referenced 
+measurements 
+can 
+directly 
+support 
+the
+implementation of the IPCC national inventory methodology, which requires a time
+series of historical forest clearing data, and would require updating at periodic
+intervals.  The proposed accurate and precise deforestation data set would be an
+important asset to national experts working to implement the IPCC methodology
+for national emissions and removals from land-use change.
+•
+An accuracy assessment effort will need to be put into place to define and track the
+measurement variance and error (e.g., ground truthing) This component will need to
+determine accuracy with respect to: (a) variance due to positional accuracy (i.e., the
+mapping precision) and (b) the variance associated with image interpretation.
+                                                  
+     33 Landsat 6 crashed, soon after it was launched.
+LAND-USE CHANGE & FORESTRY
+5.64
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+•
+An effort focused on establishing in-country co-operation will be necessary.  Such
+co-operation fulfils several ancillary but vital objectives: (a) it builds a process of
+national acceptance of the methods and results through active involvement, (b) it
+provides a mechanism for technology transfer and training for eventual
+implementation of national inventories based on remote sensing, (c) it facilitates
+logistical co-ordination of the field component, (d) it provides direct co-operation at
+various foreign ground stations, and (e) it enables co-operation with national and
+regional experts in the interpretation of imagery.
+T5.3 Summary
+Tropical deforestation and carbon emissions are important components of both science
+and policy.  Yet, in spite of the growing need for precise estimates of deforestation to
+support both international policy and basic research, an operational programme of
+measurement, monitoring and mapping has yet to be developed.  Comprehensive and
+systematic information on the extent of forest and forest loss is not available on a global
+basis.  IPCC (1990), for example, considers the rate of tropical deforestation to be one of
+the key unknowns in global climate change assessment.  Any lasting and effective
+implementation of a global system of national emission inventories to support the IPCC
+and other international processes will require a new, concerted effort to measure and
+map tropical deforestation, and develop the data base necessary for other important
+components of the calculations.  These measurements of deforestation from high
+resolution satellite remote sensing can also support the UN/FAO Forest Assessment by
+providing quantitative and spatially comprehensive measures of changes in forest cover
+for the tropics.
+This Technical Appendix summarises the most comprehensive current data sources for
+tropical deforestation information, and discusses ongoing efforts to improve on this data
+via analysis of remote sensing images.  Ideally, each country would like to have data on
+their land-use changes and associated trace gas emissions and uptake over the past 40 to
+50 years so that their estimates of current annual net emissions would include delayed
+and continuous emissions and uptake due to activities that occurred in prior years.  Since
+this is not the case for many countries, the methodology described has made simplifying
+assumptions in order to treat the effects of past land-use activities on current emissions.
+This appendix provides some perspective on the available international sources for
+dealing with one key data gap – data on rates of forest clearing over time.
+In future editions of the Guidelines, it may be possible to include more information on data
+available to assist national experts as a result of some of the ongoing efforts described in
+this version.  It may also be possible and desirable to provide similar discussion of a range
+of other international data collection efforts which may assist national experts in refining
+other key data driven uncertainties in the national estimates of emissions and removals
+from land-use change and forestry.
+In the meantime, it is recommended that countries continue efforts to collect historical
+records of land-use change and develop systems of tracking land use through time so that
+as the methodology is further refined, the land-use change time series needed to account
+better for emissions and uptake of CO2 and other trace gases are available.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.65
+5.5 
+References
+Agboola, A.A. (1981), “The effects of different soil tillage and management practices on
+the physical and chemical properties of soils and maize yield in a rainforest zone
+of western Nigeria.”  Agronomy J. 73:247-251.
+Aina, P.O. (1979), “Soil changes resulting from long-term management practices in
+western Nigeria.”  Soil Sci. Soc. Am. J. 43:173-177.
+Alcamo, J., G.J.J. Kreileman, M. Krol and G. Zuidema (1994), “Modelling the global
+society-biosphere-climate system, part 2: computed scenarios.”  Water, Air and
+Soil Pollution (in press).
+Anderson, I.C., J.S. Levine, M.A. Poth and P.J. Riggan (1988), “Enhanced biogenic emissions
+of nitric oxide and nitrous oxide following surface biomass burning.”  Journal of
+Geophysical Research 93:3893-3898.
+Andrén, O., T. Lindberg, U. Boström, M. Clarholm, A-C. Hansson, G. Johansson,
+J. Lagerlöf, K. Paustian, J. Persson, R. Petterson, J. Schnürer, B. Sohlenius and
+M. Wivstad, (1989).  Chapter 5 - Organic carbon and nitrogen flows.  In: Ecology
+of Arable Land - Organisms, Carbon and Nitrogen Cycling, Ecol. Bull. O. Andrén,
+T. Lindberg, K. Paustian and T. Rosswall, (eds.) (Copenhagen) 40:85-126.
+Arbhabhirama, A., D. Phantumvanit, J. Elkington and P. Ingkasuwan (1987), Thailand
+Natural Resources Profile, Bangkok Thailand Development Research Institute.
+Armentano, T.V. and E.S. Menges (1986), “Patterns of change in the carbon balance of
+organic soil-wetlands of the temperate zone.”  J. of Ecology 74:755-774.
+Armentano, T.V. and J.T.A. Verhoeven, (1990), Chapter 10, “Biogeochemical cycles:
+global.”  In: Wetlands and Shallow Continental Water Bodies, B.C. Patten et al.,
+(eds.).  SPB Academic Publishing, The Hague, Netherlands, Vol. 1, pp. 281-311.
+Aselmann, I., and P.J. Crutzen (1989), “Global distribution of natural freshwater wetlands
+and rice paddies, their primary productivity, seasonality and possible methane
+emissions.”  Journal of Atmospheric Chemistry 8:307-358.
+Bazilevich, N.I. (1993), Biological productivity of the northern Eurasian ecosystems (in Russian).
+Nauka, Moscow, Russia.
+Bowden, W.B. and F.H. Bormann (1986), “Transport and loss of nitrous oxide in soil
+water after forest clear-cutting.”  Science 233:867-869.
+Brown, S. (1995), Personal communication, based on modelling and inventory data from
+ongoing research in Tropical America.
+Brown, S (1996), “A primer for estimating biomass and biomass change of tropical
+forests.”  FAO Forestry Paper, Rome, Italy, in press.
+Brown, S. and A. E. Lugo. (1990), “Effects of forest clearing and succession on the carbon
+and nitrogen content of soils in Puerto Rico and U.S. Virgin Islands.”  Plant and
+Soil 124:53-64.
+Brown S. and A. E. Lugo (1992), “Tropical secondary forests.”  Journal of Tropical Ecology.
+6:1-32.
+Brown, S and G. Gaston (1995), “Use of forest inventories and geographic information
+systems to estimate biomass density of tropical forests: application to tropical
+Africa.”  Environmental Monitoring and Assessment 38:157-168.
+LAND-USE CHANGE & FORESTRY
+5.66
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+Brown, S., L.R. Iverson, A. Prasad and D. Liu (1993), “Geographical Distribution of
+Carbon in Biomass and Soils of Tropical Asian Forests.”  Geocarto International,
+4:45-59.
+Brown, S., A.E Lugo and J. Chapman (1986), “Biomass of tropical tree plantations and its
+implications for the global carbon budget.”  Canadian Journal of Forest Research
+16:390-394.
+Brown, S. and A.J.R. Gillespie and A.E. Lugo (1989), “Biomass estimation methods for
+tropical forests with applications to forest inventory data.”  Forest Science
+35:881-902.
+Brown, S, J. Sathaye, M. Cannell and P. Kauppi (1996), “Management of forests for
+mitigation of greenhouse gas emission.”  In: Climate Change 1995, Impacts,
+Adaptations and Mitigations of Climate Change: Scientific-Technical Analyses: The
+Second Assessment Report of the Inter-Governmental Panel on climate Change,
+R. T. Watson, N.C. Zinyowera and R.H. Moss (eds.) Cambridge Universtiy Press,
+New York, USA..
+Burke, I.C., W.K. Lauenroth and D.P. Coffin (1995), “Recovery of soil organic matter and
+N mineralisation in semiarid grasslands: Implications for the Conservation
+Reserve Program.”  Ecol. Appl. 5:793-801.
+Cannell, M.G.R. (1984), “Woody biomass of forest stands.”  Forest Ecology and
+Management, 8:299-312.
+Cerri, C.C., B. Volkoff and F. Andreaux (1991), “Nature and behaviour of organic matter
+in soils under natural forest, and after deforestation, burning and cultivation,
+near Manaus.”  Forest Ecology and Management 38:247-257.
+Cerri, C.C., M. Bernoux and G.J. Blair (1994), Carbon pools and fluxes in Brazilian natural
+and agricultural systems and the implications for the global CO2 balance.  Proceedings
+of Int. Soil Soc., Acapulco, Mexico.
+Cicerone, R.J. and R.S. Oremland (1988), “Biogeochemical aspects of atmospheric
+methane.”  Global Biogeochemical Cycles 2:299-327.
+Collins, N.M. and T.G. Wood (1984), “Termites and atmospheric gas production.”
+Science 224:84-86.
+Comery, J.A. (1981), Thesis.  Department of Forestry, University of Washington, Seattle,
+USA.
+Comins, N.H. and R.E. McMurtrie (1993), “Long term response of nutrient limited forests
+to CO2 enrichment: equilibrium behavior of plant-soil models” Ecological
+Applications, 3:666-681.
+Cooper, C.F. (1983), “Carbon storage in managed forests.” Canadian Journal of Forest
+Research, Vol. 13.
+Cramer, W.P. and A.M. Solomon (1993), “Climate Classification and future global
+redistribution of agricultural land.” Climate Research 3:97-110.
+Crutzen, P.J. and M.O. Andreae (1990), “Biomass burning in the Tropics: Impact on
+atmospheric chemistry and biogeochemical cycles.” Science 250:1669-1678.
+Dalal, R.C. and R.J. Mayer (1986), “Long-term trends in fertility of soils under continuous
+cultivation and cereal cropping in southern Queensland.  II. Total organic carbon
+and its rate of loss from the soil profile.” Australian Journal of Soil Research 24:281.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.67
+Davidson, E.A. and I.L. Ackerman (1993), “Changes in soil carbon inventories following
+cultivation of previously untilled soils.” Biogeochemistry 20:161-164.
+Delmas, R. (1993), “An overview of present knowledge on methane emission from
+biomass burning.” In: Proceedings of an International IPCC Workshop: Methane and
+Nitrous Oxides, Methods in National Emissions Inventories and Options for Control, 3-
+5 February 1993, Amersfoort, NL. A.R, van Amstel (ed.).  RIVM Report
+No. 481507003, Bilthoven, The Netherlands, July.
+Detwiler, R.P. (1986), “Land use change and the global carbon cycle: the role of tropical
+soils.”  Biogeochemistry 2:67-93.
+Denniston, D. (1993), “Air pollution damaging forests.”  In: Vital Signs, L.R. Brown, H.
+Kane and E. Ayres (eds.), W.W. Norton, New York, USA.
+Dixon, R.K., P.E. Schroeder and J.K. Winjum (1991), Assessment of Promising Forest
+Management Practices and Technologies for Enhancing the Conservation and
+Sequestration of Atmospheric Carbon and their Costs at the Site Level.  USA
+Environmental Protection Agency, Office of Research and Development,
+Washington D.C., USA, EPA/600/3-9/067.
+Dixon, R.K., S. Brown, R.A. Houghton, A.M. Solomon, M.C. Trexler and J. Wisniewski
+(1994), “Carbon pools and flux of global forest ecosystems.”  Science 263:185-
+190.
+Donigian, A.S., T.O. Barnwell, Jr., R.B. Jackson, IV, A.S. Patwardhan, K.B. Weinrich,
+A.L. Rowel, R.V. Chinnaswamy and C.V. Cole (1994), Assessment of Alternative
+Management Practices and Policies Affecting Soil Carbon in Agroecosystems of the
+Central United States.  U.S. EPA Report EPA/6004-94/067.
+Dormaar, J.F. and S. Smoliak, (1985), “Recovery of vegetative cover and soil organic
+matter during revegetation of abandoned farmland in a semiarid climate.” Journal
+of Range Management 38:487, 1985.
+Dumanski, J., R.L. Desjardins, C. Tarnocai, C. Monreal, E.G. Gregorich, C.A. Campbell
+and V. Kirkwood, “Possibilities for future carbon sequestration in Canadian
+agriculture in relation to land use changes.” (Submitted to Climatic Change).
+Eden, M.J., P.A. Furley, D.F.M. McGregor, W. Milliken and J.A. Ratter (1991), “Effect of
+forest clearance and burning on soil properties in northern Roraima, Brazil.”
+Forest Ecol. Manag. 38:283-290.
+ECE/FAO (United Nations Economic Commission for Europe/Food and Agriculture
+Organization of the United Nations) (1992), The Forest Resources of the
+Temperate Zones.  The United Nations, Geneva, Switzerland.
+Eswaran, H., E. Van Den Berg and P. Reich (1993), “Organic carbon in soils of the world.”
+Soil Sci. Soc. Am. J. 57:192-194.
+Farnum, P., R. Timmis and J. Kulp (1983), “Biotechnology of forest yield.”  Science
+219:694-702.
+FAO/UNEP (Food and Agriculture Organization of the United Nations/United Nations
+Environment Programme) (1981), Tropical Forest Resources Assessment Project.
+FAO, Rome, Italy.
+FAO (1988), An Interim Report on the State of the Forest Resources in the Developing
+Countries.  FAO, Rome, Italy.
+FAO (1993), 1990 Yearbook of Forest Products 1974-1990.  FAO, Rome, Italy.
+LAND-USE CHANGE & FORESTRY
+5.68
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+FAO (1990), Interim Report on Forest Resources Assessment 1990 Project.  Committee on
+Forestry, Tenth Session, FAO, Rome, Italy.
+FAO (1992), The Forest Resources of the Tropical Zone by Main Ecological Regions.  Forest
+Resources Assessment 1990 Project, Food and Agriculture Organization, United
+Nations.
+FAO (1993a), Forest Resources Assessment 1990 - Tropical Countries.  FAO Forestry Paper
+No. 112, FAO, Rome, Italy.
+FAO (1993b), Yearbook of Forest Products (Annual).  FAO, Rome, Italy.
+Fearnside, P.M., M.M. Keller, N.L. Filho and F.M. Fernandes (1990a), Rainforest Burning And
+The Global Carbon Budget: Biomass, Combustion Efficiency And Charcoal Formation In
+The Brazilian Amazon.  National Institute for Research in the Amazon, Brazil.
+Fearnside, P.M., A.T. Tardin and L.G.Meira Filho (1990b), Deforestation Rate in Brazilian
+Amazon.  National Secretariat of Science and Technology, Brazil.
+Fernandes, E.C.M., M.P. Motavalli, C. Castilla and L. Mukurumbira, “Management control
+of soil organic matter dynamics in tropical land-use systems.”  (Submitted to
+Geoderma).
+Finnish Forest Research Institute (1995), Yearbook of forest statistic.  SVT Agriculture and
+Forestry 5, Helsinki, Finland.
+Fisher, M.J., I.M. Rao, M.A. Ayarza, C.E. Lascano, J.I. Sanz, R.J. Thomas and R.R. Vera
+(1994), “Carbon storage by introduced deep rooted grasses in the South
+American savannas.”  Nature 371:236-238.
+Gifford, R.M. (1994), “Implications of CO2 effects on vegetation for the global carbon
+budget.”  In: The Global Carbon Cycle, M. Heimann (ed.).  Proceedings of the
+NATO Advance Study Institute, Il Ciocco, Italy, September 8-20, 1991.
+Grace, P.R., J.N. Ladd and J.O. Skjemstad (1994), “The effect of management practices on
+soil organic matter.”  In: C.E. Pankhurst et al. (eds.), Soil Biota: Management in
+Sustainable Farming Systems, CSIRO, Melbourne, Australia, pp. 162-171.
+Grace, J., J. Lloyd, J. McIntyre, A. C. Miranda, P. Meir, H. S. Miranda, C. Nobre, J.
+Moncrieff, J. Massheder, Y. Malhi, I. Wright and J. Gash (1995), “Carbon dioxide
+uptake by an undisturbed tropical rain forest in southwest Amazonia, 1992 to
+1993.”  Science 270:778-780.
+Greenland, D.J. (1985), “Nitrogen and food production in the tropics: Contributions from
+fertiliser nitrogen and biological nitrogen fixation.”  In: Nitrogen Management in
+Farming Systems in Humid and Sub-humid Tropics.  B.T. Kang and J. van der Heide
+(eds.), pp. 9-38.  Proceedings of International Institute of Tropical Agriculture
+Symposium, Ibadan, Nigeria, Oct. 23-26, 1984.
+Greenland, D.J. (1995), “Land-use and soil carbon in different agroecological zones.” In:
+Soil Management and Greenhouse Effect: Advances in Soil Science. R. Lal, J. Kimble,
+E. Levine, and B.A. Stewart (eds.),  CRC, Lewis Publishers, Boca Raton, USA,
+Chapter 2, pp. 9-4.
+Greenland, D.J. and P.H. Nye (1959), “Increases in the carbon and nitrogen contents of
+tropical soils under natural fallow.”  J. Soil Sci. 10:284-298.
+Haas, H.J., C.E. Evans and E.F. Miles, (1957), Nitrogen and carbon changes in Great Plains
+soils as influenced by cropping and soil treatments.  Technical Bulletin No. 1164
+USDA, State Agricultural Experiment Stations.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.69
+Hamilton, G.J. (1985), Forest Mensuration Handbook.  Forestry Commission Booklet
+No. 39, London, UK.
+Harmon, M.E., W.K. Ferrel and J.F. Franklin (1990), “Effects on carbon storage of
+conversion of old-growth forests to young forests.”  Science 247:699-702.
+Harriss, R.C., D.I. Sebacher and F.P. Day Jr. (1982), “Methane flux in the Great Dismal
+Swamp.”  Nature 297:673-674.
+Haynes, R.J., R.S. Swift and R.C. Stephen (1991), “Influence of mixed cropping rotations
+(pasture-arable) on organic matter content, water stable aggregation and clod
+porosity in a group of soils.”  Soil Tillage Research 19:77-81
+Houghton, R.A., J.E. Hobbie, J.M. Melillo, B. Moore, B.J. Peterson, G.R. Shaver and
+G.M. Woodwell (1983), “Changes in the carbon content of terrestrial biota and
+soils between 1860 and 1980: a net release of CO2 to the atmosphere.”
+Ecological Monographs 53(3):235-262.
+Houghton, R.A., R.D. Boone, J.R. Fruci, J.E. Hobbie, J.M. Melillo, C.A. Palm, B.J. Peterson,
+G.R. Shaver and G.M. Woodwell (1987), “The flux of carbon from terrestrial
+ecosystems to the atmosphere in 1980 due to changes in land use: geographic
+distribution of global flux.”  Tellus 39B:122-129.
+Houghton, R.A. (1991), “Tropical deforestation and atmospheric carbon dioxide.”
+Climatic Change.
+Inoue, T. (1991), “Soil improvement in corn cropping by long-term application of organic
+matter in utisols of Thailand,” pp. 174-185.  In: Soil Constraints on Sustainable Plant
+Production in the Tropics.  Proceedings of the 24th International Symposium on
+Tropical Agriculture Research.  Tropical Agriculture Research Series 24, Kyoto,
+Japan, August 14-16, 1990.
+INPE (1992), Deforestation in Brazilian Amazonia.  Instituto Nacional de Pesquisas Espaciais.
+IPCC (1990), Climate Change: the IPCC Scientific Assessment. J.T. Houghton, G.J. Jenkins and
+J.J. Ephraums (eds.) Intergovernmental Panel on Climate Change, Cambridge,
+UK: Cambridge University Press.
+IPCC (1992), Climate Change 1992: the Supplementary Report to the IPCC Scientific
+Assessment.  J.T. Houghton, B.A. Callander and S.K. Varney (eds.).
+Intergovernmental Panel on Climate Change. Cambridge University Press,
+Cambridge, UK.
+IPCC (1995), Climate change 1994.  Radiative Forcing of Climate Change and An Evaluation of
+the IPCC IS92 Emission Scenarios. J.T. Houghton, L.G. Meira Filho, J. Bruce,
+Hoesung Lee, B.A. Callander, E. Haites, N. Harris and K. Maskell(eds.)..
+Intergovernmental Panel on Climate Change. Cambridge University Press,
+Cambridge, UK.
+IPCC (1996), Climate Change 1995 - The Science of Climate Change.  The Second Assessment
+Report of the Inter-Governmental Panel on Climate Change, J.T. Houghton, L.G.
+Meira Filho, B.A. Callander, N. Harris, A. Kattemberg and K. Maskell (eds.)
+Cambridge University Press, Cambridge, UK.
+Isaev, A.S., G.N. Korovin, A.I. Utkin, A.A. Prjazhnikov and D.G. Zamolodchikov (1993),
+“The estimation of the carbon content and annual deposition in phytomass of
+Russian forest ecosystems.” (in Russian)  Lesovedenie 5:3-10.
+LAND-USE CHANGE & FORESTRY
+5.70
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+Iverson, L.R, S. Brown, A. Prasad, H. Mitasova, A.J.R. Gillespie and A.E. Lugo (1994), “Use
+of GIS for estimating potential and actual biomass for continental South and
+Southeast Asia.”  In: Effects of Land Use Change on Atmospheric CO2 Concentrations:
+Southeast Asia as a Case Study, (ed. V. Dale), pp. 67-116.  Springer Verlag, New
+York, USA.
+Jenkinson, D.S. (1971a), The accumulation of organic matter in land left uncultivated.
+Rothamsted Exp. Sta. Ann. Rep for 1970, part 2, pp. 113-137.
+Jenkinson, D.S. (1971b), “Studies on the decomposition of C14 labeled organic matter in
+soil.”  Soil Science 111:64-70.
+Jenkinson, D.S., D.E. Adams and A. Wild (1991), “Model estimates of CO2 emissions from
+soil in response to global warming.”  Nature 351:304-306.
+Jones, M.J. (1971), “The maintenance of soil organic matter under continuous cultivation
+at Samaru, Nigeria.”  J. Agric. Sci. 77:473-482.
+Juo, A.S.R. and R. Lal (1979), “Nutrient profile in a tropical alfisol under conventional and
+no-till systems.”  Soil Science 127:168-173.
+Kang, B.T. and A.S.R. Juo (1986), “Effect of forest clearing on soil chemical properties and
+crop performance.”  In: Land Clearing and Development in the Tropics, R. Lal,
+P.A. Sanchez and R.W. Cummings, Jr. (eds.), A.A. Balkema, Rotterdam/Boston,
+pp. 383-394.
+Kauppi, P.E., K. Mielikainen and K. Kuusela (1992), “Biomass and carbon budget of
+European forests, 1971 to 1990.”  Science 256:70-74.
+Keller, M., M.E. Mitre and R.F. Stallard (1990), “Consumption of atmospheric methane in
+soils of Central Panama: effects of agricultural development.”  Global
+Biogeochemical Cycles, 4:21-27.
+King, A. W., W. M. Post and S. D. Wullschleger (1996), “The potential response of
+terrestrial carbon storage to changes in climate and atmospheric CO2.”  Climatic
+Change (In press).
+Kononova, M.M. (1966), Soil organic matter.  Its nature, its role in soil formation and in soil
+fertility.  Pergamon Press, Oxford, United Kingdom.
+Kokorin, A.O. and I.M. Nazarov (1995a), “Specific requirements to methodology for
+estimating of CO2 fluxes in boreal and temperate  forests.”  Quarterly J.
+Hungarian Meteorological Service Idojoras 99:3-4, 227-234.
+Kokorin, A.O. and I.M. Nazarov (1995b), “The analysis of growth parameters of Russian
+boreal forests in warming, and its use in carbon budget model.”  Ecological
+Modelling  82:139-150.
+Kolchugina, T.P. and T.S. Vinson (1993), “Comparison of two methods to assess the
+carbon budget of forest biomass in the former Soviet Union.”  Water, Air and Soil
+Pollution 70:207-221.
+Kolchugina, T.P. and T.S. Vinson (1996), “Management options to conserve and sequester
+carbon in the agricultural sector of the former Soviet Union.”  Mitigation and
+Adaptation Strategies 1:1-22.
+Lacaux, J.P., H. Cachier and R. Delmas (1993), “Biomass burning in Africa: an overview of
+its impact on atmospheric chemistry.”  In: Fire in the Environment: The Ecological,
+Atmospheric and Climatic Importance of Vegetation Fires.  P.J. Crutzen and
+J.G. Goldammer (eds.), J. Wiley & Sons Ltd.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.71
+Lal, R., G.F. Wilson and B.N. Okigbo (1979), “Changes in properties of an alfisol
+produced by various crop covers.”  Soil Science 127:377-380.
+Lal, R., D. De Vleeschauwer and R.M. Nganje (1980), “Changes in properties of a newly
+cleared tropical Alfisol as affected by mulching.”  Soil Sci. Soc. Am. J. 44:827-833.
+Lal, R. (1986a), No-tillage and surface-tillage systems to alleviate soil-related constraints in
+the tropics.  In: No-tillage and Surface-tillage Agriculture: The Tillage Revolution, M.A.
+Spraque and G. B. Triplett (eds.), Wiley, N.Y., pp. 261-317.
+Lal, R. (1986b), “Soil surface management in the tropics for intensive landuse and high and
+sustained production.” Adv. Soil Sci. 5:1-105.
+Lanly, J.P. (1982), Tropical Forest Resources.  Food and Agriculture Organization of the
+United Nations (FAO) Paper 30, FAO, Rome, Italy.
+Lee, J.J., D.L. Phillips and R. Liu (1993), “The effect of trends in tillage practices on erosion
+and carbon content of soils in the U.S. corn belt.”  Water, Air and Soil Pollution
+70:389-401.
+Leith, H. and R.H. Whittaker (eds.) (1975), Primary Productivity of the Biosphere.  Ecological
+Studies No. 14.  Springer-Verlag, New York-Heidelberg-Berlin.
+Levine, J.S., W.R. Cofer III, D.I. Sebacher, E.L. Winstead, S. Sebacher and P.J. Boston
+(1988), “The effects of fire on biogenic soil emissions of nitric oxide and nitrous
+oxide.”  Global Biogeochemical Cycles  2:445-449.
+Lobert, J.M., D.H. Scharffe, W.M. Hao and P.J. Crutzen (1990), “Importance of biomass
+burning in the atmospheric budgets of nitrogen-containing gases.”  Science 346-
+552-554.
+Lugo, A.E. and S. Brown (1992), “Tropical forests as sinks for atmospheric carbon.”
+Forest Ecology and Management 54: 239-256.
+Lugo, A.E. and S. Brown (1993), “Management of tropical soils as sinks or sources of
+atmospheric carbon.”  Plant and Soil 149:27-41.
+Lugo, A.E., M.J. Sanchez and S. Brown (1986), “Land-use and organic carbon content of
+some subtropical soils.”  Plant and Soil 96:185-196.
+Luizão, F., P. Matson, G. Livingston, R. Luizão and P. Vitousek (1989), “Nitrous oxide flux
+following tropical land clearing.”  Global Biogeochemical Cycles 3:281-285.
+Mann, L.K. (1985), “A regional comparison of carbon in cultivated and uncultivated alfisols
+and mollisols in the central United States.”  Geoderma 36:241.
+Mann, L.K. (1986), “Changes in soil carbon storage after cultivation.”  Soil Sci. 142:279-
+288.
+Martel, Y.A. and E.A. Paul (1974), “Effects of cultivation on the organic matter of
+grassland soils as determined by fractionation and radiocarbon dating.”  Can J. Soil
+Sci. 54:419-26.
+Martin, R.J., P.R. Grace, C.A. Anderson and J.C. Fegent (eds.), 1995, “Long-term
+agronomic experiments for productive and sustainable farming systems.”  Aust. J.
+Prod. Agric. (Special Issue) 35:825-1062.
+Matson, P.A., P.M. Vitousek, G.P. Livingston and N.A. Swanberg (1990), “Sources of
+variation in nitrous oxide flux from Amazonian ecosystems.”  Journal of
+Geophysical Research 95:16789-16798.
+LAND-USE CHANGE & FORESTRY
+5.72
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+Mazzarino, M.J., L. Szott and M. Jimenez (1993), “Dynamics of soil total C and N,
+microbial biomass, and water-soluble carbon in tropical agroecosystems.”  Soil
+Biology and Biochemistry 25:205-214.
+Melillo, J.M., A.D. McGuire, D.W. Kicklighter, B. Moore III, C.J. Vorosmarty and
+A.L. Schloss (1993), “Global climate change and terrestrial net primary
+production.”  Nature 363:234-240.
+Moore, T.R. and R. Knowles (1989), “The influence of water table levels on methane and
+carbon dioxide emissions from peatland soils.”  Canadian Journal of Soil Science
+69:33-38.
+Mosier, A., D. Schimel, D. Valentine, K. Bronson and W. Parton (1991), “Methane and
+nitrous oxide fluxes in native, fertilised and cultivated grasslands.”  Nature
+350:330-332.
+Myers, N. (1989), Deforestation Rates in Tropical Forests and their Climatic Implications.  A
+Friends of the Earth Report, London, UK.
+Nabuurs, G.J. and G.M.J. Mohren (1993), Carbon Fixation Through Forestation Activities, IBN
+Research Report 93/4, Institute Forestry and Nature Research, Wageningen, The
+Netherlands.
+Nye, P.H. and D.J. Greenland (1960), “The Soil under Shifting Cultivation.”
+Commonwealth Agricultural Bureau, UK.
+Palm, C.A., R.A. Houghton and J.M. Melillo (1986), “Atmospheric carbon dioxide from
+deforestation in Southeast Asia.”  Biotropica 18:177-188.
+Paul, E.A. and J.A. van Veen (1978), “The use of tracers to determine the dynamic nature
+of organic matter.”  In: Trans. 11th Internat. Cong Soil Sci. 1978, Edmonton, Vol.
+3 pp. 61-102.
+Paul, E.A., K. Paustian, E.T. Elliott and C.V. Cole (eds.), 1997, Soil organic matter in
+temperate agro/ecosystems: Long-term Experiments in North America.  CRC Press,
+Boca Raton, Florida, U.S.A.
+Paustian, K., G.P. Robertson and E.T. Elliott (1995), “Management impacts on carbon
+storage and gas fluxes (CO2, CH4) in mid-latitude cropland and grassland
+ecosystems.”  In: Soil Management and Greenhouse Effect.  Advances in Soil Science
+R. Lal, J. Kimble, E. Levine and B.A. Stewart (eds.), pp. 69-84, CRC Press, Boca
+Raton, USA.
+Paustian, K., H.P. Collins and E.A. Paul (1997), “Management controls on soil carbon.”  In:
+Soil organic matter in temperate agroecosystems: Long-term Experiments in North
+America, E.A. Paul, K. Paustian, E.T. Elliott and C.V. Cole (eds.),  CRC Press, pp.
+15-49.
+Paustian, K., J. Cipra, C.V. Cole, E.T. Elliott, K. Killian and G. Bluhm, “Contributions of
+Grassland CRP lands to carbon sequestration and CO2 mitigation.” (submitted
+to J Prod. Agric.)
+Potter, C.S., J.T. Randerson, C.B. Field, P.A. Matson, P.M. Vitousek, H.A. Mooney and
+S.A. Klooster (1993), “Terrestrial Ecosystem Production: A process model based
+on global satellite and surface data.”  Global Biogeochemical Cycles 7:811-842.
+Powlson, D.S., P. Smith and J.U. Smith (eds.), 1996, “Evaluation of soil organic matter
+models using existing, long-term datasets.”  NATO ASI Series, Global
+Environmental Change, Vol. 38, Springer Verlag, Berlin.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.73
+Powlson, D.S., P. Smith, K. Coleman, J.U. Smith, M.J. Glendining, M. Korshens and
+W. Franko, “A European network of long-term sites for studies on soil organic
+matter.”  Soil Tillage Research (submitted).
+Rasmussen, P.E. and C.R. Rohde (1988), “Long-term tillage and nitrogen fertilisation
+effects on organic nitrogen and carbon in a semiarid soil.”  Soil Science Society of
+America Journal 52:1114-1117.
+Rastetter, E.B., R.B. McKane, G.R. Shaver, J.M. Melillo et al. (1992), “Changes in C storage
+by terrestrial ecosystems: how C-N interactions restrict responses to CO2 and
+temperature.”  Water, Air and Soil Pollution 64:327-344.
+Rosa, L.P., and R. Schaeffer (1994), “Greenhouse gas emission from hydroelectric
+reservoir.”  Ambio 23 (2):164-165.
+Rosa, L.P., and R. Schaeffer (1995), “Global warming potential - the case of emission from
+dams.”  Energy Policy 23:
+Scharffe, D., W.M. Hao, L. Donoso, P.J. Crutzen and E. Sanhueza (1990), “Soil fluxes and
+atmospheric concentration of CO and CH4 in the northern part of the Guyana
+Shield, Venezuela.”  Journal of Geophy. Res. 95:22,475-22,480.
+Schimel, D., I. G. Enting, M. Heimann, T. M. L. Wigley, D. Raynaud, D. Alves and
+U. Seigenthaler (1995), “CO2 and the carbon cycle.”  In: Climate change 1994
+radiative forcing of climate change and an evaluation of the IPCC IS92 emission
+scenarios, J. T. Houghton, L. G. Meira Filho, J. Bruce, H. Lee, B. A. Callander,
+E. Haites, N. Harris and K. Maskell (eds.).  Published for the IPCC, Cambridge
+University Press, Cambridge, U.K., pp. 35-71.
+Schlesinger, W.H. (1986), Changes in soil carbon storage and associated properties with
+disturbance and recovery.  In: J.R. Trabalka and D. E. Reichle (eds.), The Changing
+Carbon Cycle: A Global Analysis, Springer-Verlag, N.Y., pp. 194-220.
+Schroeder, P. (1992), “Carbon storage potential of short rotation tropical tree
+plantations.”  Forest Ecology and Management, 50:31-41.
+Seiler, W. and P.J. Crutzen (1980), “Estimates of gross and net fluxes of carbon between
+the biosphere and the atmosphere from biomass burning.”  Climatic Change
+2:207-247.
+Seiler, W. and R. Conrad (1987), “Contribution of tropical ecosystems to the global
+budgets of trace gases, especially CH4, H2, CO, and N2O.”  In: The Geophysiology
+of Amazonia,. Dickinson, R.E. (ed.), John Wiley, New York, USA, pp. 133-160.
+Sidhu, A.S. and H.S. Sur (1993), “Effect of incorporation of legume straw on soil
+properties and crop yield in a maize-wheat sequence.”  Trop. Agric. (Trinidad)
+70:226-229.
+Smith, T.M. and H.H. Shuggart (1993), “The transient response of terrestrial carbon
+storage to a perturbed climate.”  Nature, 361:523-526.
+Smith, W.N., P. Rochette, C. Monreal, R.L. Desjardins, E. Pattey and A. Jaques, “The rate
+of carbon change in agricultural soils in Canada at the landscape level.”  Canadian
+Journal of Soil Science (in press).
+Smith, P., J.U. Smith and D.S. Powlson (eds.), A directory of metadata on soil organic matter
+models and long-term datasets.  IGBP/GCTE Report series (submitted).
+Sombroek, W.G., F.O. Nachtergaele and A. Hebel (1993), “Amounts, dynamics and
+sequestering of carbon in tropical and subtropical soils.”  Ambio 22:417-426.
+LAND-USE CHANGE & FORESTRY
+5.74
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+Steiner, R.A. and R.W. Herdt, 1993, A global directory of long-term agronomic experiments.
+Vol. 1: Non-European experiments.  The Rockefeller Foundation, New York, N.Y.
+Tans P.P., I.Y. Fung and P.H. Daum (1990), “Observational constraints on the global
+atmosphere carbon dioxide budget.”  Science 247:1431-1438.
+Tiessen, H., J.W.B. Stewart and J.R. Bettany (1982), “Cultivation effects on the amounts
+and concentration of carbon, nitrogen and phosphorus in grassland soils.”
+Agronomy Journal. 74:831-835
+Tiessen, H., I.H. Salcedo and E.V.S.B. Sampaio (1992), “Nutrient and soil organic matter
+dynamics under shifting cultivation in semi-arid north-eastern Brazil.”  Agric.
+Ecosys. Environ. 38:139-151.
+Tiessen, J. E. Cuevas and P. Chacon (1994), “The role of soil organic matter stability in
+soil fertility and agricultural potential.”  Nature 371:783-785.
+Trumbore, S.E. (1993), “Comparison of carbon dynamics in tropical and temperate soils
+using radiocarbon measurements.”  Global Biogeochem. Cycles 7:275-290.
+Tyson, K.C., D.H. Roberts, C.R. Clement and E.A. Garwood (1990), “Comparison of
+crop yields and soil conditions during 30 years under annual tillage or grazed
+pasture.”  J. Agric. Sci. 115:29-40.
+USDA Forest Service (1987), Wood Handbook: Wood as an Engineering Material.
+Agricultural Handbook No. 72.  USDA, Washington, D.C., USA.
+Van Holm, L.H.J. (1993), “Soil organic matter dynamics in a Sri Lankan soil.”  In: Soil
+Organic Matter Dynamics and Sustainability of Tropical Agriculture, K. Mulongoy and
+R. Merckx (eds.), Wiley-Sayce Co. Publication, pp. 121-133.
+Van Noordwijk, M., C. Cerri, P.L. Woomer, K. Nugroho and M. Bernoux.  Soil carbon
+dynamics in the humid tropical forest.  Paper for GCTE/TSBF Workshop on
+Management of Carbon in Tropical Soils under Global Change, Nairobi, Feb. 7-
+11, 1994 Geoderma (submitted).
+VEMAP members (1996), Vegetation/ecosystem modeling and analysis project: Comparing
+biogeography and biogeochemistry models in a continental-scale study of terrestrial
+ecosystem responses to climate change and CO2 doubling.  Global Biogeochemical
+Cycles 9: 407-437.
+Vompersky, S.E. and A.I. Utkin (1988), The analysis of forest productivity structure (in
+Russian). Nauka, Moscow, Russia.
+Whittaker, R.H. and G.E. Likens (1973), “Carbon in the biota.”  In: Carbon and the
+Biosphere, G.M. Woodwell, and E.V. Pecan (eds.), US Atomic Energy Commission,
+Symposium Series 30.  National Technical Information Service, Springfield, VA,
+USA, pp. 281-302.
+Whittaker, R.H. and G.E. Likens (1975), “The biosphere and Man.”  In: Primary Productivity
+of the Biosphere, H. Lieth and R.H. Whittaker (eds.), Springer-Verlag, New York,
+USA, pp. 305-328.
+Wilson, G.F., R. Lal and B.N. Okigbo (1982), “Effects of cover crops on soil structure and
+on yield of subsequent arable crops grown under strip tillage on an eroded
+Alfisol.”  Soil & Tillage Research 2:233-250.
+Woomer, P.L., C.A. Palm, N. Karanja, J.N. Qureshi and J. Kotto-Same, “Carbon
+sequestration and organic resource management in African smallholder
+agriculture.”  Advances in Soil Science (submitted)

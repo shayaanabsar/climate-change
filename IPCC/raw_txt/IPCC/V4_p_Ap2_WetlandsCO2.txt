@@ -1,0 +1,562 @@
+Appendix 2: Estimating CO2 emissions from lands converted to permanently flooded lands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap2.1 
+Appendix 2 
+Possible Approach for Estimating CO2 Emissions 
+from Lands Converted to Permanently Flooded 
+Land: Basis for Future Methodological Development 
+The time elapsed since flooding has a significant influence on greenhouse gas fluxes from flooded lands and also 
+on the partition of the gases. Recent statistical analyses on reservoirs worldwide indicate that there is a rapid 
+surge of emissions immediately after flooding, after which emissions return to a relative stable level (Tremblay 
+et al., 2005; Therrien et al., 2005; Soumis et al., 2005; and Huttunen et al., 2002, 2003). The rate of the post-
+flooding decrease in emissions may depend on the region in which the reservoir is located, but seems to vary in 
+about a 10-year period (Delmas et al., 2005; Abril et al., 2005; Tremblay et al., 2005).    
+Evidence suggests that CO2 emissions for approximately the first ten years after flooding are the results of decay 
+of some of the organic matter on the land prior to flooding. The easily degradable carbon and nutrients are made 
+available to producer organisms upon flooding and metabolized. Beyond this time period, CO2 emissions are 
+sustained by the input of organic material transferred into the flooded area from the watershed (Houel, 2003; 
+Hélie, 2004; Cole and Caraco, 2001). To avoid double-counting of CO2 emissions, which may already been 
+captured in the greenhouse gas budget of managed lands in the watershed and in the absence of conclusive 
+evidence on the longer term impact of flooding on these emissions, the default methodology only considers the 
+first 10 years post flooding.  
+Any emissions caused by land-use change activity itself (e.g., CO2 or non-CO2 emissions due land clearance 
+before flooding of the land) should be estimated using the methodologies provided elsewhere in this Volume. 
+Prior to flooding land may be cleared. Organic material may be burnt or may be harvested (e.g., for timber). The 
+resultant emissions should be estimated using the appropriate methodologies in this Volume for estimating the 
+change in the carbon stock before flooding. These emissions should be estimated in the year they occur.   
+Subsequent to flooding and any land clearing, carbon dioxide emissions from Land Converted to Flooded Land 
+can occur via the following pathways:  
+• 
+Diffusive Emissions, due to molecular diffusion across the air-water interface; this is the major pathway for 
+CO2 emissions; 
+• 
+Bubble Emissions, or gas emissions from the sediment through the water column via bubbles; this is a very 
+minor pathway for CO2 emissions;  
+• 
+Degassing Emissions, or emissions resulting from a sudden change in hydrostatic pressure, as well as the 
+increased air/water exchange surface after reservoir waters flow through a turbine and/or  a spillway  
+(Duchemin, 2000; Hélie, 2004; Soumis et al., 2004; and Delmas et al., 2005)  
+ 
+This Appendix presents a hierarchy of 3 methods of increasing sophistication called Levels 1, 2 and 3. 
+Levels 1 and 2 estimate diffusive emissions only. A level 3 method, based on detailed measurements, includes 
+all relevant fluxes of carbon dioxide emissions from flooded lands. Level 3 includes degassing emissions and 
+considers the age, and the geographical location and the water temperature of the reservoir. The Level 3 method 
+is not outlined further in this Appendix, but countries should refer to the Box 2a.1 on derivation of country-
+specific emission factors as a resource for implementing Level 3. When using Level 3, all relevant emissions 
+from flooded lands should be estimated for the life-time of the reservoir. Table 2a.1 summarizes the coverage of 
+the three levels with respect to CO2 emission pathways. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap2.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 2A.1 
+DERIVATION OF COUNTRY-SPECIFIC EMISSION FACTORS 
+Programs to derive country-specific emission factors should carefully consider the potential 
+overlap with other sectors and the proper attribution of emissions. For example, N2O emissions 
+ultimately due to fertilizer application or sewage treatment in the watershed should not be reported 
+in the Flooded Land category.  
+In general, the derivation of country-specific emission factors requires actual measurements of 
+greenhouse gas fluxes from reservoir surfaces. Separate emission factors should be developed for 
+the predominant types of reservoirs in the national territory. To minimize the required effort, 
+reservoirs should first be grouped into categories that take into account the main factors 
+responsible for variability among reservoirs, especially climate zone and geological basement 
+(which strongly affects pH). Maps and national ecological stratification can be useful to carry out 
+this task. 
+Within each reservoir category, a measurement strategy should be designed to obtain 
+representative flux values by reservoir age, morphology, management regime, nutrient status and 
+other relevant factors if necessary.  Finally, within any single reservoir, a rigorously designed flux 
+sampling scheme should be applied to take into account the spatial variability caused by variations 
+in depth and water current, proximity to the shore, and presence of aquatic vegetation; and the 
+temporal variability caused by diurnal and seasonal cycles. Flux measurements should be taken 
+over an entire year, preferably over several years. 
+Useful information can be obtained from the following references: Therrien et al., 2005; Duchemin 
+et al., 2006; Delmas et al., 2005; Abril et al., 2005; Rosa et al., 2004; Soumis et al., 2004; Tavares 
+de lima, 2002; Huttunen et al., 2002; Duchemin, 2000; Duchemin et al., 1999; Rosa et al., 1996; 
+and Duchemin et al., 1995. 
+The development of emission factors should take into account predominant emission types: 
+diffusive, bubbles, and degassing.  Measurements of CH4 and CO2 aqueous concentrations at 
+various points upstream and downstream of the reservoir are needed to estimate degassing 
+emissions.   
+ 
+ 
+TABLE 2A.1 
+LEVELS AND CO2 EMISSION PATHWAYS FOR LAND CONVERTED TO FLOODED LAND 
+ 
+CO2 
+Level 1 
+• 
+Diffusive emissions 
+Level 2 
+• 
+Diffusive emissions 
+Level 3 
+• 
+All emissions  
+ 
+ 
+CHOICE OF METHOD 
+The flow chart in Figure 2a.1 guides inventory compilers through the processes of selecting the appropriate level.  
+Level selection and the level of spatial and temporal disaggregation implemented by inventory agencies will 
+depend upon the availability of activity and emissions factor data, as well as the importance of reservoirs as 
+contributors to national greenhouse gas emissions.    
+Level 1 
+Level 1 provides a simplified approach to estimating CO2 emissions from reservoirs using default emission 
+factors and highly aggregated area data. The only CO2 emission pathway included under Level 1 is diffusion 
+during the ice-free period. CO2 diffusive emissions related to ice-cover period are assumed to be zero. The 
+default assumption is that CO2 emissions are limited to the first 10 years after the flooding took place, and any 
+subsequent emissions of CO2 come from carbon entering the reservoir from other land areas (e.g., upstream 
+agriculture). Equation 2.16 of Chapter 2 can be used to estimate the carbon stock change in above-ground living 
+biomass due to land conversion to Flooded Land if above-ground biomass is cleared before flooding.  If the 
+above-ground biomass is burned, one should use Equation 2.14 or 2.27 of Chapter 2 (Emissions from biomass 
+Appendix 2: Estimating CO2 emissions from lands converted to permanently flooded lands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap2.3 
+burning). In addition, the flux equation, as described below, should be used in all cases to estimate CO2 
+emissions from carbon not cleared.   
+Decay of above-ground biomass left on site and soil organic matter will both contribute to the emissions. 
+Equation 2a.1 shows the Level 1 method for these CO2 emissions.  
+ 
+EQUATION 2A.1 
+CO2 EMISSIONS FROM LAND CONVERTED TO FLOODED LAND (LEVEL 1) 
+ 
+6
+_
+,
+2
+2
+10
+)
+(
+−
+•
+•
+•
+•
+=
+A
+surface
+flood total
+diff
+LWflood
+f
+A
+E CO
+P
+CO Emissions
+ 
+Where:  
+CO2 EmissionsLW flood = total CO2 emissions from Land Converted to Flooded Land, Gg CO2 yr-1 
+P = number of days without ice cover during a year, days yr-1 
+E(CO2)diff  = averaged daily diffusive emissions, kg CO2 ha-1 day-1 
+Aflood, total surface = total reservoir surface area, including flooded land, lakes and rivers, ha 
+fA = fraction of the total  reservoir area that was flooded  within the last 10 yrs 
+ 
+The CO2 emissions estimated by Equation 2a.1 are highly uncertain because the default emission factor does not 
+account for differences in site-specific conditions and time since flooding. The use of Equation 2a.1 may also 
+lead to overestimating emissions when used in conjunction with Equations 2.14, 2.16, or 2.27 in Chapter 2. 
+Countries using a Level 2 method can more accurately represent the proper time profile of the CO2 emissions 
+following flooding. Guidance on Level 2 methods is given below.  
+Level 2 
+Under Level 2, country-specific emission factors are used to estimate CO2 diffusive emissions. In Level 2, CO2 
+emissions can be estimated from reservoirs following the approach shown in Equation 2a.2. As with Level 1, the 
+CO2 emissions from Land Converted to Flooded Land should be estimated only for ten years after flooding when 
+using Level 2 method unless country-specific research indicates otherwise.   
+The estimation of diffusive emissions can also be extended to distinguish between periods in which the 
+reservoirs are ice-free and those in which they are ice-covered (Duchemin et al., 2006). This may be a significant 
+improvement in accuracy for countries in colder climates.  The flooded land area may be further disaggregated 
+by climatic zone, geological basement, or any relevant parameter listed in Box 2a.1.  
+  
+EQUATION 2A.2 
+CO2 EMISSIONS FROM LAND CONVERTED TO FLOODED LAND (LEVEL 2) 
+ 
+(
+)
+(
+)
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+•
+•
+•
+•
++
+•
+=
+−6
+,
+2
+2
+2
+10
+)
+)
+(
+(
+)
+)
+(
+(
+A
+surface
+flood
+diff
+i
+i
+diff
+f
+f
+LWflood
+f
+A
+E CO
+P
+CO
+E
+P
+CO Emissions
+ 
+Where:  
+CO2 emissionsLW flood = total CO2 emissions from Land Converted to Flooded Land, Gg CO2 yr-1 
+Pf = ice-free period, days yr-1 
+Pi = period with ice cover, days yr-1  
+Ef(CO2)diff = averaged daily diffusive emissions from air water-interface during the ice-free period,  
+kg CO2 ha-1 day-1 
+Ei(CO2)diff  = diffusive emissions related to the ice-covered period, kg CO2 ha-1 day-1 
+Aflood, surface= total reservoir surface area, including flooded land, lakes and rivers, ha 
+fA = fraction of the total area flooded within the last 10 yrs, dimensionless 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap2.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 2a.1 Flow Chart for selection of appropriate level  
+ 
+Start
+Are
+flooded lands a 
+key category1 and is CO2 
+significant2?
+Estimate emissions
+using default and
+country-specific
+data.
+Yes
+Note:
+1: See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+2: A subcategory is significant if it accounts for 25-30% of emissions/removals for the overall category.
+Are 
+historical and 
+current data  available
+on the reservoir
+areas?
+Yes
+No
+Estimate emissions using
+default method and default
+emission factors and 
+national activity data.
+No
+No
+Box 3: Level 2
+Box 4: Level 3
+Estimate emissions from all
+relevant emission pathways
+using country-specific data
+and emission factors.
+Are detailed
+information on reservoirs
+and seasonally integrated
+CO2 emission factors
+available ?
+Were
+domestic studies
+done on CO2 emissions
+on reservoirs?
+Collect or compile data on
+reservoir surface area and
+determine seasonally
+integrated CO2 emission
+factors for reservoirs.
+No
+Yes
+Box 2: Level 1
+Estimate diffusive 
+emissions using
+default emission
+factors and 
+activity data.
+Box 1: Level 1
+Yes
+ 
+ 
+ 
+Appendix 2: Estimating CO2 emissions from lands converted to permanently flooded lands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap2.5 
+Level 3 
+The Level 3 methods for estimating CO2 emissions are comprehensive and must include additional country-
+specific data on all relevant CO2 emission pathways, such as degassing emissions. Emission factors are 
+disaggregated to reflect all relevant sources of temporal and spatial variability (see Box 2a.1). To avoid double 
+counting, Level 3 also requires partitioning emissions from the degradation of flooded organic matter and from 
+the decay of organic matter originating from the watershed. 
+CHOICE OF EMISSION FACTORS  
+The key default values needed to implement Level 1 method are emission factors for CO2 via the diffusion 
+pathways. Table 2a.2 presents measured emissions for various climate zones. These measured emissions 
+integrate known spatial (intra-reservoir and regional variations) and temporal variations (dry/rainy and other 
+seasonal variations, inter-annual variations) in the emissions from reservoirs, as well as fluxes at the water-air 
+interface of reservoirs.  Level 1 applies only to the ice-free period. During complete ice-cover period, CO2 
+emissions are assumed to be zero, although in reality emissions do occur. All data have been obtained from 
+measurements in hydroelectric or flood control reservoirs.   
+For Level 2, country-specific emission factors should, to the extent possible, be used and should include 
+emissions during the winter (ice-cover) period. The development of country-specific emission factors is 
+discussed in Box 2a.1. The derivation of country-specific factors should be clearly documented, and ideally 
+published in peer reviewed literature. Guidance in Box 2a.1 is applicable also for derivation of emission factors 
+for Level 3.   
+CHOICE OF ACTIVITY DATA  
+Several different types of activity data may be needed to estimate flooded land emissions, depending on the level 
+being implemented and the potential sources of spatial and temporal variability within the national territory.   
+Flooded land area  
+For Level 1, the total reservoir area is required, and the proportion flooded in the last ten years (fA).  The use, in 
+a higher level, of more detailed emission profiles over time will require corresponding information on the age 
+distribution of flooded lands. Countries can obtain their flooded land area from a drainage basin cover analysis, 
+from a national dam database, from the International Commission on Large Dams (ICOLD, 1998) or from the 
+World Commission on Dams report (WCD, 2000). Since flooded land area could change rapidly, and because of 
+the 10-year time limit, countries should use updated and recent data of reservoir surface area.  Under Level 2, 
+this activity data should be disaggregated by relevant categories (see Box 2a.1). For Level 2 and Level 3, 
+countries should create a national reservoir database with relevant data or information on reservoir names, types, 
+geographical coordinates, year of impoundment, surface area, depth, outflow rate, and other relevant parameters 
+as described in Box 2a.1. 
+Period of ice-free cover/Period of ice-cover 
+Under all levels, the periods during which the reservoirs are ice-free or completely ice-covered are required to 
+estimate CO2 emissions. This information can be obtained from national meteorological services. 
+Outflow/Spillway volume 
+Under Level 3, flooded land outflow and spillway volume are required to estimate degassing emissions of CO2.   
+CO2 concentrations upstream and downstream of dams 
+Under Level 3, CO2 concentrations upstream and downstream of dams would be needed for estimation of the 
+degassing emissions. Information on measurement techniques can be obtained from the references cited in Box 
+2a.1. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap2.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 2A.2 
+ CO2 MEASURED EMISSIONS FOR FLOODED LAND 
+Climate 
+Diffusive emissions (ice-free period) 
+Ef(CO2)diff (kg CO2 ha-1 day-1) 
+ 
+References 
+ 
+Median 
+Min 
+Max 
+Nm 
+Nres 
+ 
+Polar/Boreal wet 
+11.8 
+0.8 
+34.5 
+1011 
+20 
+Bergström et al., 2004; Åberg et al., 
+2004; Huttunen et al., 2002 
+Cold temperate, 
+moist 
+15.2 
+4.5 
+86.3 
+633 
+20 
+Duchemin, 2000; Schlellhase et al., 
+1994 ; Duchemin et al., 1999 ; 
+Duchemin et al., 1995; Tremblay et 
+al., 2005 
+Warm temperate, 
+moist  
+8.1 
+-10.3 
+57.5 
+507 
+33 
+Duchemin, 2000; Duchemin, 
+2002a ; St-Louis et al., 2000; Smith 
+and Lewis, 1992 ; Tremblay et al., 
+2005 
+Warm temperate, dry 
+5.2 
+-12.0 
+31.0 
+390 
+43 
+Soumis et al., 2004 ; Therrien et al., 
+2005 
+Tropical, wet 
+44.9 
+11.5 
+90.9 
+642 
+7 
+Keller and Stallard, 1994; Galy-
+Lacaux et al., 1997;  Galy-Lacaux, 
+1996; Duchemin et al., 2000; 
+Pinguelli Rosa et al., 2002; Tavares 
+de lima et al., 2002;  Tavares de 
+lima, 2005  
+Tropical, dry 
+39.1 
+11.7 
+58.7 
+197 
+5 
+Pinguelli Rosa et al., 2002; Dos 
+Santos, 2000 
+The values in the second column represent the medians of CO2 emissions reported in the literature, which themselves are arithmetic 
+means of flux measured above individual reservoirs. The medians are used because the frequency distributions of underlying flux 
+measurements are not normal, and their arithmetic means are already skewed by extreme values. Min and Max values are, respectively, 
+the lowest and highest of all individual measurements within a given climate region; these are provided as an indication of variability 
+only. Nm = number of measurements; Nres = number of reservoirs sampled. 
+These measurements may include non-anthropogenic emissions (e.g., emissions from carbon in the upstream basin) and possible double 
+counting of anthropogenic emissions (e.g., waste water from urban areas in the region of the reservoir) and so may overestimate the 
+emissions. 
+ 
+UNCERTAINTY ASSESSMENT 
+The two largest sources of uncertainty in the estimation of greenhouse gas emissions from reservoirs are the 
+emission factors from the various pathways (diffusive, bubble and degassing) and the estimates of reservoir 
+surface areas. 
+Emission factors 
+The CO2 diffusive emissions shown in Table 2a.2 vary by one to two orders of magnitude in boreal and 
+temperate regions, and by one to three in tropical regions. Therefore, the use of any emission factor derived from 
+Table 2a.2 will result in high uncertainty. Since the age of reservoirs has a significant influence on CO2 fluxes 
+during the first 10 years, the method may result in an underestimation of CO2 emissions. 
+Appendix 2: Estimating CO2 emissions from lands converted to permanently flooded lands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap2.7 
+CO2 degasssing emissions, which are typically significant in temperate and tropical regions, are an important 
+source of uncertainty for Level 3. Research demonstrated that these CO2 emissions accounted for all the 
+greenhouse gas emissions from a reservoir in a temperate dry region, and for up to 30% in temperate moist 
+region (Soumis et al., 2004). In cold temperate regions, degassing CO2 emissions accounted for less than 5% of 
+the total greenhouse gas emissions from reservoirs (Duchemin, 2000; Hélie, 2003).  
+To reduce the uncertainties on emissions factors, countries should develop appropriate, statistically valid 
+sampling strategies that take into account factors underlying the temporal and spatial variability of the ecosystem 
+studied (see Box 2a.1).   
+Flooded land surface area 
+National statistical information on the flooded area retained behind large dams (> 100km2) should be available 
+and will probably be accurate to within 10%. Where national database on dams are not available, and other 
+information is used, the flooded land areas retained behind dams will probably have an uncertainty of more than 
+50%, especially for countries with large flooded land areas. Detailed information on the location, type and 
+function of smaller dams may be also difficult to obtain, though statistical inference may be possible based on 
+the size distribution of reservoirs for which data are available. Reservoirs are created for a variety of reasons that 
+influence the availability of data, and, consequently, the uncertainty on surface area is dependent on country-
+specific conditions. 
+ 
+References 
+Åberg, J., Bergström, A.K., Algesten, G., Söderback, K. and Jansson, M. (2004). A comparison of the carbon 
+balances of a natural lake (L. Östräsket) and a hydroelectric reservoir (L. Skinnmuddselet) in northern 
+Sweden, Water Research, 28, 531-538. 
+Abril, G., Guérin, F., Richard, S., Delmas, R., Galy-Lacaux, C., Gosse, P., Tremblay, A., Varfalvy, L., dos 
+Santos, A.M. and Matvienko, B. (2005). Carbon dioxide and methane emissions and the carbon budget of 
+a 10-years old tropical reservoir (Petit-Saut, French Guiana). Global Biogeochemical Cycle (in press). 
+Bergström, A.K., Algesten, G., Sobek, S., Tranvik, L. and Jansson, M. (2004). Emission of CO2 from 
+hydroelectric reservoirs in northern Sweden, Arch. Hydrobiol., 159, 1, 25-42. 
+Cole, J.J. and Caraco, N.F. (2001). Carbon in catchments: connecting terrestrial carbon losses with aquatic 
+metabolism. Marine and Freshwater Research, 52:101-110 
+Delmas, R.. Richard, S., Guérin, F., Abril, G., Galy-Lacaux, C., Delon, C. and Grégoire, A. (2005). Long Term 
+Greenhouse Gas Emissions from the Hydroelectric Reservoir of Petit Saut (French Guiana) and Potential 
+Impacts. In Tremblay, A., L. Varfalvy, C. Roehm and M. Garneau (Eds.). Greenhouse gas Emissions: 
+Fluxes and Processes, Hydroelectric Reservoirs and Natural Environments. Environmental Science Series, 
+Springer, Berlin, Heidelberg, New York, pp. 293-312. 
+dos Santos, M.A. (2000). Inventário emissões de gases de efeito estufa derivadas de Hidréletricas, PhD. 
+Dissertation, University of Rio de Janeiro, Rio de Janeiro, Brazil, 154p.  
+Duchemin, E., Lucotte, M., Canuel, R. and Soumis, N. (2006). First assessment of CH4 and CO2 emissions from 
+shallow and deep zones of boreal reservoirs upon ice break-up, Lakes and Reservoirs: Research and 
+Management, 11:9-19. 
+Duchemin É. (2000). Hydroelectricity and greenhouse gases: Emission evaluation and identification of 
+biogeochemical processes responsible for their production, PhD. Dissertation, Université du Québec à 
+Montréal, Montréal (Québec), Canada, 321 p (available on CD-ROM). 
+Duchemin, É., Lucotte, M., Canuel, R. and Chamberland, A. (1995). Production of the greenhouse gases CH4 
+and CO2 by hydroelectric reservoirs of the boreal region, Global Biogeochemical Cycles, 9, 4, 529-540. 
+Duchemin, É., Lucotte, M., Canuel, R., Almeida Cruz, D., Pereira, H.C., Dezincourt, J. and Queiroz, A.G. 
+(2000). Comparison of greenhouse gas emissions from an old tropical reservoir and from other reservoirs 
+worldwide, Verh. Internat. Verein. Limnol., 27, 3, 1391-1395. 
+Duchemin, É., Canuel, R., Ferland, P. and Lucotte, M. (1999). Étude sur la production et l’émission de gaz à 
+effet de serre par les réservoirs hydroélectriques d’Hydro-Québec et des lacs naturels (Volet 2), Scientific 
+report, Direction principal Planification Stratégique - Hydro-Québec, 21046-99027c, 48p. 
+Fearnside, P.M. (2002). Greenhouse gas emissions from a hydroelectric reservoir (Brazil’s Tucurui dam) and the 
+energy policy implications, Water Air and Soil Pollution 133, 1-4, 69-96. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap2.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Galy-Lacaux, C. (1996). Modifications des échanges de constituants mineurs atmosphériques liées à la création 
+d'une retenue hydroélectrique. Impact des barrages sur le bilan du méthane dans l'atmosphère, PhD 
+dissertation, Université Paul Sabatier, Toulouse (France), 200 p. 
+Galy-Lacaux, C., Delmas, R., Jambert, C., Dumestre, J.-F., Labroue, L., Richard, S. and Gosse, P. (1997). 
+Gaseous emissions and oxygen consumption in hydroelectric dams: a case study in French Guyana, 
+Global Biogeochemical Cycles, 11, 4, 471-483. 
+Hélie, J.F. (2004). Geochemistry and fluxes of organic and inorganic in aquatic systems of eastern Canada: 
+examples of the St-Lawrence River and Robert-Bourassa reservoir: Isotopic approach, PhD. Dissertation, 
+Université du Québec à Montréal, Montréal (Québec), Canada, 205p. 
+Houel, S. (2003). Dynamique de la matière organique terrigène dans les réservoirs boréaux, PhD. Dissertation, 
+Université du Québec à Montréal, Montréal (Québec), Canada, 121p. 
+Huttunen, J.T., Alm, J., Liikanen, A., Juutinen, S., Larmola, T., Hammar, T., Silvola, J. and Martikainen, P.J. 
+(2003). Fluxes of methane, carbon dioxide and nitrous oxide in boreal lakes and potential anthropogenic 
+effects on the aquatic greenhouse gas emissions, Chemosphere, 52, 609-621 
+Huttunen, J.T., Väisänen, T.S., Hellsten, S.K., Heikkinen, M., Nykänen, H., Jungner, H., Niskanen, A., Virtanen, 
+M.O., Lindqvist, O.V., Nenonen, O.S. and Martikainen, P.J. (2002). Fluxes of CH4, CO2, and N2O in 
+hydroelectric reservoir Lokka and Porttipahta in the northern boreal zone in Finland, Global 
+Biogeochemical Cycles, 16, 1, doi:10.1029/2000GB001316. 
+International Commission on Large Dams (ICOLD) (1998). World register of Dams 1998. Paris. International 
+Comittee on large Dams (Ed.). Metadatabase.  
+Keller, M. and Stallard, R.F. (1994). Methane emission by bubbling from Gatun lake, Panama, J. Geophys. Res., 
+99, D4, 8307-8319. 
+Rosa, L.P., Schaeffer, R. and Santos, M.A. (1996).  Are hydroelectric dams in the Brazalian Amazon significant 
+sources of greenhouse gases? Environmental Conservation, 66, No. 1: 2-6. Cambridge University Press. 
+Rosa, L.P., Santos, M.A., Matvienko, B., Santos, E.O. and Sisar, E. (2004). Greehouse gas emissions from 
+hydroelectric reservoirs in tropical Regions, Climatic Change, 66: 9-21. 
+Rosa, L.P., Matvienko Sikar, B., dos Santos, M.A., Matvienko Sikar, E. (2002). Emissoes de dioxido de carbono 
+e de metano pelos reservatorios hydroelectricos brasileiros, Relatorio de referencia – Inventorio brasileiro 
+de emissoes antropicas de gase de efeito de estufa, Ministerio da Ciencia e tecnologia, Brazil, 199p. 
+Schlellhase, H.U. (1994). B.C. Hydro Strategic R&D; Carbon project - Reservoir case study, Powertech Labs 
+inc., Final Report, 1-57. 
+Smith, L.K. and Lewis, W.M. (1992). Seasonality of methane emissions from five lakes and associated wetlands 
+of the Colorado Rockies, Global Biogeochemical Cycles, 6, 4, 323-338  
+Soumis, N., Lucotte, M., Duchemin, É., Canuel, R., Weissenberger, S., Houel, S. and Larose, C. (2005). 
+Hydroelectric reservoirs as anthropogenic sources of greenhouse gases. In Water Encyclopedia. Volume 3: 
+Surface and agricultural water, sous la dir. de J. H. Lehr et J. Keeley. p. 203-210. Hoboken, NJ: John 
+Wiley & Sons. 
+Soumis, N., Duchemin, É., Canuel, R. and Lucotte, M. (2004). Greenhouse gas emissions from reservoirs of the 
+western United States, Global Biogeochem. Cycles, 18, GB3022, doi:10.1029/2003GB002197. 
+St-Louis, V., Kelly, C.A., Duchemin, É., Rudd, J.W.M. and Rosenberg, D.M. (2000). Reservoir surfaces as 
+sources of greenhouse gases: A global estimate, Bioscience, 50, 9, 766-775. 
+Tavares de Lima, I. (2005). Biogeochemical distinction of methane releases from two Amazon hydroreservoirs, 
+Chemosphere, In Press 
+Tavares de Lima, I. (2002). Emissoa de metano em reservatorio hidreletricos amazonicos atraves de leis de 
+potencia (Methane emission from Amazonian hydroelectric reservoirs through power laws), PhD 
+Dissertation, Universidade de Sao Paulo, Sao Paulo, Brazil, 119 p. 
+Therrien, J. (2005). Aménagement hydroélectrique de l'Eastmain-1 – Étude des gaz à effet de serre en milieux 
+aquatiques 2003-2004. Rapport de GENIVAR Groupe Conseil Inc. à la Société d'énergie de la Baie 
+James. 48 p. et annexes. 
+Therrien, J. (2004).  Flux de gaz à effet de serre en milieux aquatiques - Suivi 2003.  Rapport de GENIVAR 
+Groupe Conseil Inc. présenté à Hydro-Québec. 52 p. et annexes. 
+Appendix 2: Estimating CO2 emissions from lands converted to permanently flooded lands 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap2.9 
+Therrien, J., Tremblay, A. and Jacques, R. (2005). CO2 Emissions from Semi-arid Reservoirs and Natural 
+Aquatic Ecosystems. In Tremblay, A., L. Varfalvy, C. Roehm et M. Garneau (Eds.). Greenhouse Gas 
+Emissions: Fluxes and Processes, Hydroelectric Reservoirs and Natural Environments. Environmental 
+Science Series, Springer, Berlin, Heidelberg, New York, pp. 233-250. 
+Tremblay, A., Therrien, J., Hamlin, B., Wichmann, E. and LeDrew, L. (2005). GHG Emissions from Boreal 
+Reservoirs and Natural Aquatic Ecosystems. In Tremblay, A., L. Varfalvy, C. Roehm and M. Garneau 
+(Eds.). Greenhouse gas Emissions: Fluxes and Processes, Hydroelectric Reservoirs and Natural 
+Environments. Environmental Science Series, Springer, Berlin, Heidelberg, New York, pp. 209-231. 
+WCD (2000). Dams and Development a New Framework for Decision-Making, The Report of the World 
+Commission on Dams, Earthscan Publications Ltd, London and Sterling, VA, 356 p. 
+ 

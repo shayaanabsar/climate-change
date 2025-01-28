@@ -1,0 +1,1173 @@
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.41
+Tillage
+Intensive soil tillage is recognised as a significant factor causing soil organic matter
+declines in cultivated soils.  Intensive tillage, particularly with soil inversion (e.g.,
+moldboard ploughing), enhances decomposition by releasing organic matter protected
+within soil aggregates and by increasing soil temperature.  Reduced tillage, and particularly
+no-till practices, have been shown to promote higher levels of organic matter in many
+systems, where productivity and organic matter inputs are not adversely affected.  An
+analysis of 28 paired comparisons from no-till versus full tillage treatments in 19 long-
+term experiments in Canada, Europe and the United States showed mean increases under
+no-till of 0-30 % C, with an average of about 10 per cent (Paustian et al., 1997).  The
+duration of the experiments ranged from 5 to 20 years.  These data were normalised to
+compare equivalent soil mass (to below the depth of ploughing ca. 20-30 cm), in order to
+eliminate effects of changes in bulk density and differences in organic matter distribution
+with depth.
+Experiments in the tropics have also demonstrated the potential for no-till systems to
+maintain higher soil carbon levels compared to conventional cultivation (Lal, 1986a).
+Reduced soil erosion and lower soil temperatures with surface mulches under no-till are
+particularly important attributes of no-till systems in the tropics (Lal, 1986a; Fernandes et
+al., submitted).  Higher levels of carbon in no-till compared to cultivated treatments have
+been reported in a number of studies (Agboola, 1981; Jou and Lal, 1979; Aina, 1979).  Jou
+and Lal (1979) reported nearly two times higher carbon contents in no-till vs. ploughed
+treatments in the top 10 cm (and no significant differences below 10 cm) under maize.
+Residue inputs, mulching, cover crops
+Maintenance of soil carbon depends on an adequate return of organic substrates which
+serve as the raw material for organic matter formation.  In most agricultural systems, the
+primary sources of new carbon are crop residues, including roots, root exudates, and
+unharvested above-ground plant parts (e.g., straw or stover).  The amount of carbon
+returned in the form of residues depends on the total biomass yield (including roots and
+related materials) and the proportion of that biomass which is exported from the field.
+Of the carbon applied to soil in the form of crop residues, about one third typically
+remains after one year and about one fifth remains after five years under temperate
+conditions (Jenkinson, 1971b).  The remainder is returned to the atmosphere as CO2 via
+biological decomposition.  The rate of decomposition, and the proportion of carbon
+retained by soil, is influenced by climate, soil conditions, placement (surface versus
+buried), and the composition of the residue (Andrén et al., 1989).
+Some agricultural soils also receive significant inputs in the form of vegetation grown, at
+least in part, to provide additional carbon and other nutrients to the soil.  For example,
+legumes are sometimes included in cropping systems as a 'green manure'.  Similar benefits
+are derived from vegetative additions in 'alley-cropping' systems.
+A third source of carbon is various by-products which are applied as soil amendments.
+The most noteworthy of these are animal manure, but some soils also derive appreciable
+carbon inputs from sewage sludge and various industrial by-products.  Although such
+additions can significantly increase soil carbon, gains in the soil must, from an atmospheric
+balance perspective, be compared with alternative uses of the resources.  For example, if
+sewage sludge decomposes more rapidly in soil than in storage, the net effect will be an
+additional flux of carbon to the atmosphere.
+Management practices which promote greater rates of return of crop residues or other
+organic amendments will result in increased soil carbon stocks.  According to current
+theories of soil organic matter dynamics, there should be a linear relationship between
+changes in carbon inputs and soil carbon levels (Greenland, 1995; Paustian et al., 1995);
+LAND-USE CHANGE & FORESTRY
+5.42
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+this relationship is supported by a number of long-term field studies (Paustian et al.,
+1997).  In temperate zone cropping systems, carbon inputs can be increased through
+residue retention, cover crops, reduced summer (bare) fallow, rotations with perennial
+forage crops, and all practices that increase crop production and residue yields.  In the
+tropics, these practices and others, including improved fallows, mulching and agroforestry,
+can increase carbon additions to soil (Lal, 1986b).
+5 . 3 . 6  M a na ge m e nt  C a t e g o ri e s
+The estimate of CO2 fluxes is based on inventorying the areas and C stocks for land-use
+systems predominating within a particular climatic region.  As described above, the most
+significant practices that differentiate land-use and management systems are:
+• clearing of native vegetation with conversion to cultivated crops or pasture;
+• land abandonment;
+• shifting cultivation;
+• differing residue addition levels;
+• differing tillage systems; and
+• agricultural use of organic soils.
+Criteria for defining management systems are that the distribution of land
+areas between the selected systems have changed over the past 20 years and
+that the systems differ significantly in their soil carbon stocks.
+The recommended procedure is that country experts define and document an
+appropriate classification of systems for use in their inventory.  A classification of land-use
+systems is included which can serve as an example for development of country-specific
+classifications.  (See Module 5 for detailed description of land-use systems.)  These classes
+are intended to be sufficiently general that they may be applicable in most countries and
+include systems that are likely to have significantly different C stocks, based on soil C
+responses to agricultural practices.  Non-agricultural systems (e.g., forest, grassland)
+should be subdivided into categories on the basis of differences in soil carbon stocks (as
+well as soil and climate regimes).  Organic soils that have been converted to agricultural
+use are considered separately (see Section 5.3.9).
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.43
+TABLE 5-9
+EXAMPLES OF MAJOR LAND-USE/LAND MANAGEMENT SYSTEMS WITHIN
+THE MAJOR CLIMATE DIVISIONS
+Climate Division
+Land-use System
+Cold temperate, dry
+Rangeland (unimproved)
+Small grain with summer-fallow
+Small grain with continuous cropping - conventional tillage
+Small grain with continuous cropping - no till
+Small grain/forage rotations
+Hay/improved pasture
+Successional grasslands
+Irrigated croplands
+Cold temperate, moist
+Forest
+Small grain monocultures
+Grain/root crop/perennial forage rotations
+Permanent pasture
+Forest/grassland set-aside
+Warm temperate, dry
+Rangeland (unimproved)
+Small grain with summer fallow
+Small grain/legume rotations with summer fallow
+Small grain with continuous cropping - conventional tillage
+Small grain with continuous cropping - no till
+Small grain/forage rotations
+Successional grassland
+Irrigated cropland
+Warm temperate, moist
+Forest
+Pasture/hay
+Intensive grain production systems, stratified according to:
+-  residue return rate (production level, frequency of perennial
+   forages in rotation, cover crops)
+-  tillage intensity (full inversion, reduced, no tillage)
+Speciality crops with low residue return
+Forest/grassland set-aside and reverted lands
+Tropical, dry
+Savanna
+Subsistence farming with drought-resistant grain crops Irrigated
+cropland
+Tropical, moist (includes systems for both short and long
+dry season categories)
+Forest/woodland
+Unimproved/degraded pasture
+Improved pasture
+Shifting cultivation/fallow rotation
+Mixed continuous cropping
+Mechanised continuous cropping
+Plantations
+Irrigated cropland (including rice)
+Tropical, wet
+Forest/Woodland
+Agroforestry/perennial multi-strata systems
+Upland food crop production
+Perennial monoculture plantations
+Shifting cultivation/fallow rotation
+Improved pasture
+Degraded pasture
+Wetland (paddy) rice
+LAND-USE CHANGE & FORESTRY
+5.44
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+5 . 3 . 7  Sugge st e d 
+M e t ho do l o gy  
+f o r 
+C O 2 
+Fl ux
+f ro m  A gr i c u l t u r a l  So i l s
+Three potential sources of CO2 emissions from agricultural soils are included in the
+inventory.  These are 1)  net changes in organic carbon stocks of mineral soil associated
+with changes in land use and management, 2)  emissions of CO2 from cultivated organic
+soils (i.e., Histosols) and 3)  emissions of CO2 from liming of agricultural soils.
+5 . 3 . 8  C h a ng e s  i n  M i n e r a l  So i l  C a r b o n  St o c k s
+Inventory calculation period
+Net carbon fluxes are calculated on the basis of changes in carbon stocks over a twenty-
+year period.  For example, to calculate the inventory for 1990, land areas under each
+climate/soil/land-use class (Table 5-9) in 1970 and in 1990 are determined.  Soil carbon
+values are then assigned to each class, and the summed differences in the total carbon
+stocks provide an estimate of the current net soil CO2 flux.  For mineral soils, only the
+top 30 cm are considered, which typically has the highest concentration of carbon and the
+greatest response to changes in management and landuse.  In most soils, management
+effects on soil carbon at depth are minimal compared to changes that occur in the topsoil
+(Sombroek et al., 1993) and consequently most information on soil carbon responses to
+different management practices are limited to the upper soil horizons (0-30 cm depth).
+The choice of a twenty-year period represents a compromise.  The response time of a
+system to a change in management will differ according to a number of factors.  Soil
+carbon approaches a new equilibrium more rapidly in the tropics compared to temperate
+soils.  The rate of response to different practices also varies.  For example, most of the
+loss of soil carbon following land clearing occurs within <10 yrs (Davidson and Ackerman,
+1993).  A build up of soil carbon, for example following land abandonment (Jenkinson,
+1971a) or with increases in residue inputs, tends to occur more slowly, i.e., the approach
+to a new equilibrium value is more rapid for degrading systems than for aggrading
+systems.  Thus, the longer the inventory period the closer systems will approach new
+equilibrium carbon levels.  In general, however, the most rapid changes in soil carbon
+occur during the first 10-20 yrs following a significant change in management practices or
+land use.  Furthermore, a long inventory period has two disadvantages.  One is that past
+land-use information is likely to be less accurate and less available for further in the past.
+The second is that the balance approach carries an implicit assumption that the rate of
+land-use and management change over the period is constant.  If rates of change are not
+linear with respect to time, there will be a bias in the estimates that increases with
+increasing the length of the assessment period.  Twenty years was selected as an
+appropriate time period to include most of the change in carbon stocks resulting from
+land conversions to agriculture and most other management-induced changes in the
+tropics.  To account for longer response times, such as for land abandonment in the
+temperate zone, it is recommended that one or more 'successional' system, having
+different soil carbon stocks, be defined (e.g., abandoned land for <20yrs and abandoned
+land >20yrs).
+Soil carbon stock estimates
+Carbon stock estimates should include the total organic carbon content to a depth of 30
+cm as well as the carbon content of the surface litter mat, if present (e.g., in forests,
+grasslands, and pastures).  Woody litter resulting from forest clearance should not be
+double counted as it is included in the  inventory procedures in Forest and Grassland
+conversion (Section 5.2.2).  Fresh crop residue in cultivated systems should not be
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.45
+counted.  In no-till cropping systems, the minimum (over the year) surface residue loading
+should be included in the organic carbon stock.
+The recommended option for assigning carbon stocks according to land management
+classes (within one or more of the six soil types) is that these be determined by experts
+in the participating countries.  Where available, information from country soil surveys,
+field studies and long term agricultural experiments, as interpreted by knowledgeable soil
+scientists and agronomists, will provide the best estimates for these values.  However, we
+have also provided a default methodology for estimating carbon stocks within predefined
+land-use/management categories (see Management Categories above), using estimates for
+carbon stocks under native vegetation derived from the FAO/USDA global soil carbon
+inventory (Eswaran et al., 1993).
+Calculation procedures for mineral soils
+The calculations for net CO2-C emissions from mineral soils are straightforward and
+examples of their application are given in Table 5-10.  Negative numbers represent a net
+decline in soil carbon stocks, hence a net emission or source of carbon to the
+atmosphere; positive numbers represent a net sequestration or sink of carbon in soil,
+over the 20-yr inventory period.  To derive current net annual emissions the final total
+should be divided by 20.  For the example shown, there is a net increase of carbon
+storage of 11.9 Tg over the 20-yr inventory period, thus annual net CO2-C emissions for
+this example would be -0.595 Tg/yr, or a carbon sink.
+Note: It is critical that the total area included in the inventory at time (t) and time (t-20)
+be identical.  The area should represent at least all the land area of the country which has
+been subject to any significant changes in land-use and/or management practices over the
+past 20 years.  An additional check should be made that the total area within each soil
+type is constant over the inventory period.
+LAND-USE CHANGE & FORESTRY
+5.46
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+TABLE 5-10
+EXAMPLE OF CALCULATIONS FOR NET CHANGE IN CARBON STORAGE IN MINERAL SOILS FOR A
+COLD TEMPERATE DRY REGION COUNTRY -
+FOR SIMPLICITY ONLY FOUR MANAGEMENT SYSTEMS ARE INCLUDED
+Landuse
+Soil
+type
+Soil
+Carbon
+(t C /ha)
+Land Area
+(t-20)
+(Mha)
+Land
+Area
+(t)
+(Mha)
+C Stock
+(t-20)
+(Tg)
+C Stock
+(t)
+(Tg)
+Net change
+in Soil Carbon
+(Tg per 20 yr)
+[A]
+[B]
+[C]
+[A X B]
+[A X C]
+[A X C] - [A X
+B]
+Grassland
+High activity
+50
+3.5
+3.6
+175
+180
+5
+(unimproved)
+Sandy
+10
+2.0
+2.0
+20
+20
+0
+Aquic
+70
+0.5
+0.4
+35
+28
+-7
+Grain/summer-fallow
+High activity
+33
+4.0
+2.8
+132
+92.5
+-39.6
+with conventional
+Sandy
+7
+0.5
+0.5
+3.5
+3.5
+0
+tillage
+Aquic
+35
+0
+0
+0
+0
+0
+Grain/continuous
+High activity
+40
+2.4
+3.0
+96
+120
+24
+with conventional
+Sandy
+-
+0
+0
+0
+0
+0
+tillage
+Aquic
+45
+0
+0.1
+0
+4.5
+4.5
+Hay/improved pasture
+High activity
+50
+1.5
+2.0
+75
+100
+25
+Sandy
+-
+0
+0
+0
+0
+0
+Aquic
+-
+0
+0
+0
+0
+0
+Total
+14.4
+14.4
+536.5
+548.4
+11.9
+Default calculation procedures
+If soil carbon stock estimates according to land-use and soil type are not available we
+have provided a procedure for estimating these.  Estimates are based on global soils
+information (Table 5-11) compiled by the World Soils Resources division of the Natural
+Resources Conservation Service of the US Department of Agriculture (USDA), based on
+FAO and USDA soils information (Eswaran et al., 1993).  These values serve as a first
+approximation and should not be considered as a preferable substitute for actual country-
+level data.  Approximate organic carbon stocks are for the top 30 cm, in tonnes C/ha,
+under native vegetation.  Histosols (peat soils) are considered in a separate calculation.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.47
+TABLE 5-11
+APPROXIMATE QUANTITIES OF SOIL ORGANIC CARBON
+UNDER NATIVE VEGETATION
+ (TONNES C /HA TO 0-30 CM DEPTH)
+Region
+High
+activity
+soils
+Low
+activity
+soils
+Sandy
+soils
+Volcanic
+soils
+ (Andisols)
+Wetland soils
+(Aquic)
+Cold temperate,
+dry
+50
+40
+10
+20
+70
+Cold temperate,
+moist
+80
+80
+20
+70
+180
+Warm temperate,
+dry
+70
+60
+15
+70
+120
+Warm temperate,
+moist
+110
+70
+25
+130
+230
+Tropical, dry
+60
+40
+4
+50
+60
+Tropical moist
+(long, dry season)
+100
+50
+5
+70
+100
+Tropical moist
+(short, dry season)
+140
+60
+7
+100
+140
+Tropical, wet
+180
+70
+8
+130
+180
+To estimate soil carbon stocks by different agricultural land-use and management
+practices, we have compiled a set of coefficients to scale the carbon contents according
+to major management factors (Table 5-12).  Estimates for the scaling factors were based
+on information from field studies, where available, and expert opinion.  The database for
+these estimates is scanty, particularly from the tropics, and we emphasise that this default
+procedure is only intended as a first approximation and not as a substitute for country-
+level data where available.  Carbon stock estimates are derived according to the formula:
+Soil Carbon managed = Soil Carbon native x Base factor x Tillage factor x Input factors
+The base factor represents changes in soil organic matter associated with conversion of
+the native vegetation to agricultural use.  Tillage and input factors account for effects of
+various management practices of lands in agricultural use.  Thus these later two factors
+can be used to capture changes in management trends that have occurred over the
+inventory period.  For example, a long-term cultivated high clay activity soil, under
+intensive (full) tillage and with low carbon inputs (e.g., straw removal) would be estimated
+to have 63 per cent (0.7 x 1 x 0.9) of the carbon content in a comparable uncultivated
+(native) soil.  The same soil under no-till with high residue inputs (e.g., cover crops)
+would be estimated to have a carbon level equivalent to 85 per cent (0.7 x 1.1 x 1.1) of
+the native soil.  Portions of the table where tillage and input factors are not given denote
+instances where these factors are not applicable to a particular management system or
+where information was deemed insufficient to go beyond estimating a base factor.
+LAND-USE CHANGE & FORESTRY
+5.48
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+TABLE 5-12a
+COEFFICIENTS USED IN DEFAULT CALCULATION PROCEDURES FOR ESTIMATING CARBON STOCKS IN MINERAL SOILS
+System
+SGb
+BFc
+Tillage Factord
+Input Factorse
+No-
+tillage
+Reduced
+tillage
+Full
+tillage
+Low
+input
+Medium
+input
+High
+input
+Mature
+fallow
+Shortened
+fallow
+Temperate
+Long-term cultivated
+A,B,C,D
+0.7
+1.1
+1.05
+1.0
+0.9
+1.0
+1.1/1.2
+Long-term cultivated
+E
+0.6
+1.1
+1.05
+1.0
+0.9
+1.0
+1.1/1.2
+Improved pasture
+All soils
+1.1
+ND
+ND
+ND
+Set aside (<20 years)
+All soils
+0.8
+ND
+ND
+ND
+Set aside (>20 years)
+All soils
+0.9
+ND
+ND
+ND
+Tropical
+Long-term cultivated
+A,B,C,D
+0.6
+1.1
+1.0
+0.9
+0.9
+1.0
+1.1/1.2
+Long-term cultivated
+E
+0.5
+1.1
+1.0
+0.8
+0.9
+1.0
+1.1/1.2
+Wetland (Paddy) rice
+All soils
+1.1
+ND
+ND
+ND
+ND
+ND
+ND
+Shifting cultivation
+(including fallow)
+All soils
+0.8
+ND
+ND
+ND
+ND
+ND
+ND
+1.0
+0.8
+Abandoned/
+Degraded land
+All soils
+0.5
+Unimproved pasture
+All soils
+0.7
+ND
+ND
+ND
+Improved pasture
+All soils
+1.1
+ND
+ND
+ND
+a   Filled portions of the table, where tillage and input factors  are not given, denote instances where these factors are not applicable to a
+management system.  Where tillage or input factors were not determined (ND), information was deemed insufficient to go beyond estimating a
+base factor.
+SG = Soil Group, BF = Base Factor
+b   Soil groups A = High activity, B = Low activity, C = Sandy, D = Volcanic, E = Aquic
+c   For temperate cultivated soils, the average loss of 30% (0.7) is based on paired profile comparisons by Mann (1985, 1986) and Davidson and
+Ackerman (1993).  Greater losses for cultivation of wet (aquic) soils, relative to other mineral soils, are assumed due to artificial drainage and
+enhanced decomposition when cultivated (van Noordwijk et al., submitted).  Conversion to paddy rice is assumed to slightly increase carbon
+contents (Greenland, 1985).  Carbon levels in improved pastures can exceed native levels with fertilisation and species selection (Fisher et al.,
+1994, Cerri et al., 1994, Grace et al., 1994).  Carbon under shifting cultivation (including the fallow phase) and abandoned degraded lands are
+based on estimates from Palm et al. (1986), Tiessen et al. (1992) and Woomer et al. (submitted).
+d   Use of no-till is assumed to increase soil carbon by 10% over full tillage (full soil inversion) in temperate systems, based on analysis of long-term
+experiments in Australia, Canada, Europe and the United States (Paustian et al., 1997); greater effects, over full tillage, are assumed for tropical
+systems (Aina, 1979, Juo and Lal, 1979, Agboola, 1981).  Reduced tillage (i.e., significant soil disturbance but without inversion) is assumed to yield
+small increases over full tillage (Paustian et al., 1997).
+e   Input factors apply to residue levels and residue management, use of cover crops, mulching, agroforestry, bare fallow frequency in semi-arid
+temperate systems.  Low input applies to where crop residues are removed or burned, or use of bare fallow; medium input to where crop
+residues are retained; high input applies to where residue additions are significantly enhanced with addition of mulches, green manure, or
+enhanced crop residue production (1.1) or regular addition of high rates of animal manure (1.2), relative to the nominal (medium) case.  Based on
+temperate zone studies analysed by Grace et al. (1994) and Paustian et al. (1997), and tropical studies by Jones (1971), Wilson et al. (1982), Sidhu
+and Sur (1993), Lal et al. (1979, 1980), Mazzarino et al. (1993), Kang and Juo (1986), Inoue (1991), van Holm (1993) and reviews by van
+Noordwijk et al. (submitted) and Fernandes et al. (submitted).
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.49
+5 . 3 . 9  C a l c u l a t i o n  o f  C O 2  Fl ux e s  f ro m  O rg a ni c
+So i l s
+Conversion of organic soils to agriculture is normally accompanied by artificial drainage,
+cultivation and liming, resulting in rapid oxidation of organic matter and soil subsidence.
+The rate of carbon release will depend on climate, the composition (decomposability) of
+the organic matter, the degree of drainage and other practices such as fertilisation and
+liming.  Unlike the situation with mineral soils, where carbon levels approach some new
+equilibrium following changes in land use/management, carbon losses from organic soils
+can be sustained over long periods of time, in principle, until the organic soil layer has
+been completely lost.  As decomposition proceeds, the more recalcitrant organic matter
+fractions, having slower decomposition rates, will accumulate.  This would tend to reduce
+CO2 emissions over time.  However, a compensating factor is that with tillage, less
+decomposed organic matter from below will be continually incorporated into the surface
+layer as it decomposes and the soil subsides.  This process will tend to maintain high rates
+of CO2 loss until much of the organic horizon is exhausted.  Because of the variability in
+depth of organic soils, which in many cases is poorly known (Eswaran et al., 1993), a
+calculation procedure which incorporates the dynamic changes in the depth and the
+quality of organic matter in these soils was deemed unfeasible at present.  Existing data on
+CO2 emission rates from organic soils are typically given as rates per unit land area and
+this approach is used in the current methodology.
+Use of organic soils for upland crops (e.g., grain, vegetables) gives greater carbon losses
+than for conversion to pasture or forests, due to deeper drainage and more intensive
+management practices (e.g., liming, cultivation) (Armentano and Verhoeven, 1990).
+Armentano and Menges (1986) estimated annual loss rates under crops to be 2.2
+tonne/ha/yr in boreal regions (Finland, Russia), 7.9-11.3 tonne/ha/yr in temperate climates
+(USA and Western, Central and Eastern Europe, China, Japan) and 21.9 tonnes C/ha/yr in
+Florida and coastal California.  Other data from Russian sources (references V.D.
+Skalaban, personal communication) suggest somewhat lower losses from cultivated
+organic soils in the boreal zone, on the order of 0.4-1.2 tonnes C/ha/yr.  Estimates for
+annual losses under introduced pastures/forests ranged from 15-70 per cent, with most
+around 25 per cent, of the rate under crops.  The rates recommended for inventory
+purposes are derived from these values.  For tropical systems, there are fewer data
+although it is expected that rates should be generally higher compared to temperate zone
+soils due to sustained higher temperatures.  The rate used for cropland (20 tonnes
+C/ha/yr) is twice that for the warm temperate zone, which is similar to the rates
+reported for subtropical Florida (21.9 tonnes C/ha/yr).  We assume that loss rates from
+conversions to pasture are 25 per cent of those under cropland within each climate
+region.  For the inventory, values are calculated on an annual basis.
+5 . 3 . 1 0  C O 2  Em issio ns  f ro m  L i m i ng  A g r i c ul tur a l
+So i l s
+Liming is commonly used to ameliorate soil acidification.  Among the compounds used are
+carbonate containing minerals such as limestone CaCO3 and dolomite CaMg(CO3)2.
+When added to acid soil these compounds release CO2 in the bicarbonate equilibrium
+reaction.  The rate of release will vary according to soil conditions and the compound
+applied.  However, in most instances where liming is practised, repeated applications are
+made every few years.  Therefore, for purposes of the inventory, we assume that the
+addition rate of lime is in near equilibrium to the consumption of lime applied in previous
+LAND-USE CHANGE & FORESTRY
+5.50
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+years.  Emissions associated with use of carbonate limes can thus be calculated from the
+amount and composition of the lime applied annually within a country.
+5 . 3 . 1 1  To t a l  C O 2  E m i s s i o ns  f ro m  A g r i c u l t u r a l
+So i l s
+Total annual emissions of CO2, are calculated from i) net changes in carbon storage in
+mineral soil, ii) CO2-C emissions from organic soils and iii) CO2-C emissions from liming.
+5.4 
+Refinements In Calculations
+5 . 4 . 1  Intro duc tio n
+There are a number of areas in which the basic calculations could be improved at least
+theoretically.  Simplifying assumptions have been made in many places in order to produce
+methods consistent with data likely to be available in many countries.  The basic
+calculations focus only on the most important categories for emissions of CO2 within a
+much larger set of land-use and forest management activities having some impact on
+GHG emission fluxes.  Some activities are known to result in GHG fluxes, but cannot be
+quantified based on the available scientific research results.  Many of these issues are
+summarised below to assist users in considering which, if any, of these possible
+refinements could be included in national inventories, either currently, or in the future as
+scientific understanding improves.
+The first section deals with the subcategories already discussed in the basic calculations,
+but highlights a number of ways in which these calculations could be augmented.  The
+second section discusses additional categories of land-use change or forest management
+which could be added to the categories in the basic calculations.
+5 . 4 . 2  P o s s i b l e  
+R e f i n e m e n t s  
+o r  
+A d d i t i o n s  
+t o
+B a s i c  C a t e g o r i e s
+CHANGES IN FOREST AND OTHER WOODY BIOMASS STOCKS
+Prescribed Burning of Forests: Non-CO2 Trace Gases
+The issue of prescribed forest burning is complex for two reasons.  First, there is the
+question of the rate of change that humans have induced and second, there is the
+question of releases of trace gas several years after the burning.  Prescribed burning is a
+method of forest management by which forests are intentionally set on fire in order to
+reduce the accumulation of combustible plant debris and thereby prevent forest fires,
+which could possibly be even more destructive.  This activity is primarily limited to North
+America and Australia (Seiler and Crutzen, 1980).  Because carbon is allowed to re-
+accumulate on the land after burning, no net CO2 emissions occur over time, although
+emissions of CH4, CO, N2O, and NOx result from the biomass combustion.
+Some of the issues associated with prescribed forest burning, particularly in the
+temperate and boreal world, remain important research topics.  Some have suggested
+that prescribed forest burning may be increasing carbon stocks in forests and hence
+serving as a CO2 sink, but at the same time adding other radiatively important non-CO2
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.51
+trace gases to the atmosphere.  An important issue is the change in burning rate because
+of human activity.  Is prescribed burning, and its consequent emissions, just a man-made
+replacement for what would have occurred naturally?  What is the rate change?  If we
+assume that this question, the rate of change, can be answered, then the issue of trace gas
+release for prescribed burning is similar to trace gas emissions following forest clearing.
+This process is under evaluation in the development of the Guidelines.
+The second complicating issue which should be considered is the release of non-CO2
+trace gases in years after burning.  This is also discussed under forest and grassland
+conversion below.  The same uncertainties apply here, although this may be a less
+important area for prescribed burning, because the forests will be regrowing quickly, and
+possibly overcoming the conditions which could cause longer term trace gas emissions.
+Carbon Stock in Dead Organic Matter (excluding soil) of Forests
+The quantity of carbon in litter, woody debris, belowground remains, and dry standing
+stems is a significant carbon reservoir in many of the world’s forests.  The present
+methodology does not account for any of these components, which could represent
+important carbon sink in regrowing forests after abandonment or logging or additional
+carbon sources when burned during forest clearing or fires.  The role of dead organic
+matter in forest carbon budgets should be considered in future work on inventory
+methods.
+Forest and Grassland Conversion
+Forest clearing is a very complex and diverse set of activities which can have many
+interactions with biospheric fluxes of greenhouse gases over long periods of time.  The
+components of this set of interactions which are included in the previous section are
+those on which there is general agreement among experts of their importance and simple
+estimation procedures.  A number of other possible elements have been discussed in the
+scientific literature, but are controversial or difficult to calculate at present.
+Emissions from Burning of Forests
+A number of aspects of emissions due to burning could be treated in more detail.
+a. Subsequent burns in years after clearing.  In some cases, where forests are cleared
+for agricultural purposes, the land may be partially burned in the year of clearing,
+but may also be burned again in later years.  Fearnside (1990b) indicates that
+pastures in the Brazilian Amazon are typically burned two or three times over
+about a 10 year period.  This would cause a larger fraction of carbon in cleared
+biomass to be released to the atmosphere sooner than the approach now included
+in the basic calculations, and would certainly increase emissions of non-CO2 trace
+gases from biomass burning.
+b. Non-CO2 trace gases released after burning.  Basic calculations address the main
+issues in trace gas production by burning, however, they do not treat all issues.
+For instance, the effect of past burning, particularly of forests, on trace gas
+exchanges must eventually be considered.  Specifically, the instantaneous release of
+non-CO2 trace gases when forests are burned is included in Land Clearing
+calculations.  However, the longer-term release or uptake of these gases following
+forest burning is an important research issue and should eventually be included in
+refinements of calculations.  The issue of the contemporary release of non-CO2
+trace gases associated with past burning is complex.  For example, clearing by
+burning may stimulate soil nutrient loss.  Measurements in temperate ecosystems
+(e.g., Anderson et al., 1988; and Levine et al., 1988) indicate that surface biomass
+burning enhances emissions of N2O and NOx from the soils for up to 6 months
+LAND-USE CHANGE & FORESTRY
+5.52
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+following the burn; however, in other studies measurements of N2O emissions at a
+cleared and burned tropical forest site in Brazil, begun five months after the burn
+and continuing for a year, were not significantly different from those taken from a
+nearby intact forest site (Luizão et al., 1989).  The "historical" issue is obviously
+complex and further research is needed before an adequate methodology for
+emissions calculations can be proposed.
+Delayed Release of Non-CO2 Trace Gases after Land Disturbance.
+Even when no burning is involved there may still be a release of trace gases.  An
+experiment in a temperate forest in the north eastern United States found that
+clearcutting resulted in enhanced N2O flux to the atmosphere via dissolution of N2O in
+the soil water, transport to surface waters, and degassing from solution (Bowden and
+Bormann, 1986).  An experiment in Brazil found that N2O emissions from newly clearcut
+tropical forests were about three times greater than those from adjacent undisturbed
+forests (Keller et al., 1986).  Conversion of tropical forests to pasture also has been
+found to result in elevated N2O emissions relative to the intact forest soils (Luizão et al.,
+1989; and Matson et al., 1990).  Another example involves the loss of a sink for CH4
+which, in effect, adds to the atmospheric burden of CH4.  Specifically, the loss of forest
+area (tropical or temperate) may also result in increased net CH4 emissions to the
+atmosphere.  Soils are a natural sink of CH4 (i.e., soils absorb atmospheric CH4), and
+various experiments indicate that conversion of forests to agricultural lands diminishes
+this absorptive capacity of soils (Keller et al., 1990; and Scharffe et al., 1990).
+Conversion of natural grasslands to managed grasslands and to cultivated lands may affect
+not only the net emission of CO2 but CH4, N2O, and CO emissions as well.  For
+instance, the conversion of natural grasslands to cultivated lands has been found in the
+semi-arid temperate zone to also decrease CH4 uptake by the soils (Mosier et al., 1991).
+It is not clear what the effect on N2O would be, unless of course nitrogen fertilisation
+occurs.  The effect of conversion of natural grasslands to managed grasslands on trace gas
+emissions has not been evaluated in the field, except for the effect of associated nitrogen
+fertilisation on N2O emissions.  Nitrogen fertilisation on managed fields may increase
+carbon accumulation on land, relative to the unfertilised system, and grazing by domestic
+animals may also affect trace gas fluxes.  CO fluxes may be affected due to changes in soil
+temperature and moisture.  These effects on trace gas fluxes, however, are highly
+speculative and remain a research issue.
+Methane from Termites Attributable to Biomass Left to Decay
+When forests are cleared, a portion of the cleared biomass may be left to decay on the
+ground.  Frequently some of the biomass decay is accomplished by termites which emit
+both CH4 and CO2 during this process.  Fearnside (1990b) estimates that 75 per cent of
+the unburned carbon is decomposed by termites, and of this 75 per cent, 99.8 per cent is
+released as CO2 and 0.2 per cent is released as CH4.  Fearnside suggests that forest
+clearing results in increased termite populations and thereby enhances natural termite
+CH4 emissions.  However, as discussed by Collins and Wood (1984), data from Malaysia,
+Nigeria, and Japan indicate that clearing and cultivation in some forests reduces termite
+populations.  The only incidence of termite abundance increase following clearing cited by
+Collins and Wood was entirely due to a fungus-growing termite, a type of termite which
+is unlikely to produce CH4.  Because of the uncertainty of the effect of clearing on
+termite populations and associated CH4 release, no guidance on calculation of this
+component is included in the methodology.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.53
+Fate of Roots in Cleared Forests
+The basic calculation ignores the fate of living belowground woody biomass (roots) after
+forest clearing.  The amount of belowground biomass affected, and its fate, need to be
+considered as work continues beyond the basic calculations.  This belowground biomass
+could be treated as slash but with perhaps a longer (for coarse roots) or shorter (for fine
+roots) decay times.  Alternatively, it might be more reasonable to deal with the
+belowground biomass in conjunction with soil carbon calculations.  This is an area for
+further development by the relevant expert groups, and also by national experts in
+individual countries who are encouraged to carry out experimental calculations.  See
+Box 8 for further information on the estimation of the amounts of belowground biomass.
+Aboveground biomass after conversion
+In the basic calculation, a single default value (10 tonnes dm/ha) is recommended for
+aboveground biomass which regrows after forests are cleared for conversion to crops or
+pastures.  This may be somewhat variable depending on the type of crop or other
+vegetation which regrows.  National experts carrying out more detailed assessments may
+wish to account more precisely for this variability, especially when perennial tree crop are
+planted.
+Abandoned Lands
+The basic calculations account only for the portion of abandoned lands which regrow
+toward a natural state.  There may be additional releases of carbon from abandoned lands
+which continue to degrade, e.g., because of erosion.  Where data are available, analysts
+doing detailed assessments may wish to account for this phenomenon.
+5 . 4 . 3  O t h e r  P o s s i b l e  C a t e g o r i e s  o f  A c t i v i t y
+Several other land-use activities affect the flux of CO2 and other trace gases between the
+terrestrial biosphere and the atmosphere.  Shifting cultivation may now be reducing the
+storage of carbon in forests, because of shorter fallow periods, and thereby becoming a
+net source of CO2 to the atmosphere.  Furthermore, lands under shifting cultivation may
+be converted to permanent agriculture which, of course, affects the biomass assigned to
+the land being converted.  The changing areas and distribution of wetlands may be adding
+to or reducing the CH4 burden of the atmosphere.  These issues are complex; often the
+sign of the flux is not even known, and simple models may not give reasonable results.  In
+this section, some of the issues and possible methodological approaches are recorded;
+however, an agreed-upon methodology is not yet at hand.
+LAND-USE CHANGE & FORESTRY
+5.54
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+BOX 8
+BELOWGROUND BIOMASS
+For forest clearing, carbon in belowground (root) biomass is ignored in the
+basic calculations, but should be considered.  There are large uncertainties
+concerning the time horizon over which this biomass would oxidise.  As
+noted in the text, it could be considered with decay of slash left
+aboveground from forest conversion.  There is no recommended step-by-
+step methodology for calculating the carbon released from this source in
+the current guidelines.  However, interested national experts are
+encouraged to carry out such calculations and report them to the IPCC
+using their own methods.
+The following information about multipliers (root-to-shoot ratios -  R/S,
+average and range of R/S) can be applied to total aboveground biomass to
+estimate the belowground biomass.
+Tropical forests
+moist forest growing on spodosols  
+1.5   (0.7 - 2.3)
+lowland very moist forests          
+0.13 (0.06 - 0.33
+montane moist forest
+0.22 (0.11 - 0.33)
+deciduous forests 
+0.47 (0.23 - 0.85)
+(e.g., tropical dry and seasonal moist forests)
+Temperate forests
+coniferous
+0.20
+broadleaf
+0.25
+Boreal forests
+coniferous
+0.25 (0.20 - 0.30)
+broadleaf
+0.20 (0.15 - 0.25)
+forest-tundra
+0.35 (0.30 - 0.50)
+Sources: Brown, (1996) for tropical forests; Cooper, (1983) for temperate
+forests; and Bazilevich, (1993) and Isaev et al., (1993) for boreal forests:
+Estimation of CO2 emissions from belowground biomass after clearing has
+been identified as an area of future work.
+Shifting Cultivation
+Shifting cultivation, or slash-and-burn agriculture, is a common agricultural practice in the
+tropics in which short periods of cultivation (usually about 1 - 3 years) alternate with
+longer periods of fallow (about 10 to 30 years).  Clearing occurs by initial cutting and
+felling, followed by a series of burns.  When practised in the traditional manner, shifting
+cultivation produces some net CO2 emissions because the forest is allowed to return
+part-way to its original biomass density during the fallow period.29 However, increasing
+                                                  
+     29 Following the first clearing (i.e., clearing of primary forests), the forest biomass may
+not recover fully to its original density during the fallow period, but instead reaches a
+reduced level, referred to as a secondary forest.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.55
+population pressure has reduced the lengths of fallow periods so that currently much of
+the fallow land recovers very little and higher net CO2 emissions are believed to result
+(Myers, 1989; and Houghton, 1991).  Loss of soil carbon also may occur during shifting
+cultivation, although the loss is certainly far less than for permanent cultivation.
+Calculation of net emissions due to shifting cultivation requires calculation of average
+annual emissions due to clearing of forests for cultivation, and calculation of average
+annual uptake due to abandonment of cultivated lands in the fallow period of the shifting
+cultivation cycle.  This involves monitoring a large number of small parcels of land over
+time and probably requires a model to do the book keeping.
+The basic concepts are not difficult.  The carbon calculations would proceed almost
+exactly like the conversion and abandonment terms in the basic methodology; however,
+the difficulty is that the abandonment period may be shorter, and this may only be
+apparent by using a cohort-based model and a finite stock of forest.  In other words the
+increasing rate of shifting cultivation (the likely data) will force a shorter fallow period and
+hence less regrowth, and this dynamic may only become apparent when one models the
+shifting cultivation cycle within a specific area of available forest.
+One intermediate simple approach is to split the calculation into the two logical
+components.  The initial conversion component would be treated similarly to the basic
+calculations; namely, convert the above ground dry biomass30 to carbon (multiply by 0.50)
+and assume 90 per cent of this material is released as CO2 less the amount taken upon by
+the replacing crops (default value of 10 tonnes dm per hectare). To calculate the uptake
+of carbon by the regrowing forest during the fallow cycle, simply estimate the amount of
+land in abandonment (but not yet in steady-state) and the average rate of carbon
+accumulation per unit area in these fallow lands.  The difference would be the net flux of
+CO2 associated with shifting cultivation.  For the biomass burned in shifting cultivation,
+non-CO2 gases (N2O, CH4, NOx, CO) should be calculated as described in the Forest
+and Grassland Conversion section above.
+Flooding and Wetland Drainage
+Land Flooding
+Flooding of lands due to construction of hydroelectric dams, or other activities, results in
+emissions of CH4 due to anaerobic decomposition of the vegetation and soil carbon that
+was present when the land was flooded, as well as of organic material that grows in the
+floodwater, dies, and accumulates on the bottom.  The CH4 emissions from this source
+are highly variable and are dependent on the ecosystem "type", and the status of the
+ecosystem, that is flooded (i.e., above- and below-ground carbon, plant types, whether
+any pre-flooding clearing occurred, etc.) and on the depth and length of flooding (some
+regions may only be flooded for part of a year)31.  Rates of CH4 emissions from
+freshwater wetlands are also strongly dependent on temperature, and therefore vary
+                                                  
+     30 Generally, shifting cultivation is practised in secondary forests, since the least dense
+and most accessible forest areas are most susceptible to this form of clearing.
+Aboveground biomass density estimates for secondary forests are highly uncertain, and
+vary significantly both within and among countries because of varying ecosystem types as
+well as varying intervals between clearings.
+     31 A detailed analysis of CO2 and CH4 emissions from hydroelectric reservoirs in the
+Amazon has been made and is a significant issue in this and other regions because of the
+vast areas of forest submerged for the construction of the reservoirs (Rosa and Schaeffer,
+1994, 1995).
+LAND-USE CHANGE & FORESTRY
+5.56
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+seasonally, as well as daily.  Net emissions of N2O and CO also may be affected by this
+activity, although these fluxes are not well determined.
+A straightforward CH4 flux calculation can be based on the area of land flooded, due to
+hydroelectric production or other human-made causes, an average daily CH4 emission
+coefficient, and the number of days in the year that the area is flooded.  Since
+measurements of CH4 emissions from freshwater wetlands are so variable, both spatially
+and temporally, the area should be divided into groups based on characteristics such as
+length of flooding, vegetation type, and latitude.  Then appropriate emission coefficients
+can be chosen for each group, rather than choosing one emission coefficient for the
+entire area of flooding.  Table 5-13 presents average daily CH4 emission rates for natural
+wetlands, derived from measured emission rates in field experiments, and average CH4
+production periods based on data on monthly mean temperatures and inundation lengths.
+These rates and production periods can be used if countries do not have more
+appropriate estimates.
+TABLE 5-13
+AVERAGE METHANE EMISSIONS AND PRODUCTION PERIODS OF NATURAL WETLANDS
+Wetland Categories
+(mg CH4/m2.day)
+Emission Rate
+(mg CH4-C/m2.day)
+Production Period
+or Length of Time Flooded
+(days)
+Bogs
+11
+(1-38)
+178
+Fens
+60
+(21-162)
+169
+Swamps
+63
+(43-84)
+274
+Marshes
+189
+(103-299)
+249
+Floodplains
+75
+(37-150)
+122
+Lakes
+32
+(13-67)
+365
+Source: A.selmann and Crutzen, 1989.
+Note: Average daily emission rates are derived from measured emission rates in field experiments (the
+range in measured emission rates is in parentheses after the average), and average production periods
+are based on monthly mean temperature data and lengths of inundation.
+Wetland Drainage
+Freshwater wetlands are a natural source of CH4, estimated to release 100-200 Tg
+CH4/yr due to anaerobic decomposition of organic material in the wetland soils
+(Cicerone and Oremland, 1988).  Destruction of freshwater wetlands, through drainage
+or filling, would result in a reduction of CH4 emissions, and an increase in CO2 emissions
+due to increased oxidation of soil organic material (Moore and Knowles, 1989).  The
+magnitude of these effects is largely a function of soil temperature and the extent of
+drainage (i.e., the water content of the soil).  Also, since dryland soils are a sink of CH4,
+drainage and drying of a wetland could eventually result in the wetland area changing from
+a source to a sink of CH4 (e.g., Harriss et al., 1982).
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.57
+Loss of wetland area could also affect net N2O and CO fluxes, although both the
+direction and magnitude of the effect is highly uncertain.  Natural dryland soils are a
+source of N2O, believed to emit 9-28 Tg N2O/yr (3-9 Tg N2O-N) as a result of
+nitrification and denitrification processes (Seiler and Conrad, 1987).  This emission
+estimate is highly uncertain, however, as emission measurements vary both temporally
+and spatially by up to an order of magnitude.  Moreover, the measurements are not
+consistently correlated with what are believed to be controlling variables such as soil
+temperature, moisture, and composition, and vegetation type.  Dryland soils both
+produce and consume CO.  Carbon monoxide production, estimated at 2-32 Tg CO/yr
+(1-14 Tg CO-C), is an abiotic process due to chemical oxidation of humus material (Seiler
+and Conrad, 1987).  It is strongly dependent on soil temperature, moisture, and pH.
+Destruction of CO is a biological process believed to be due to micro-organisms present
+in the soil.  Carbon monoxide destruction (250-530 Tg CO/yr, or 107-227 Tg CO-C/yr)
+increases with increasing temperature, although it is independent of soil surface
+temperature and requires a minimum soil moisture (Seiler and Conrad, 1987).  Desert
+soils have always been found to be a net source of CO, as have savanna soils, at least
+during the hottest parts of the day.  CO destruction outweighs production in humid
+temperate soils; humid tropical soils are believed to also be a net sink of CO because of
+their higher soil moisture and lower soil temperature than deserts and savannas.
+To calculate the reduction of CH4 emissions due to wetland drainage, the area drained is
+multiplied by the difference in the average daily CH4 emission rate before and after
+draining, and is multiplied by the number of days in a year that the wetland was emitting
+CH4 prior to drainage.  The number of days of CH4 emissions prior to drainage can be
+approximated by using the number of days in the year that the wetland was flooded.
+In summary, the difference in CH4 emissions before and after drainage will vary
+depending on factors such as soil temperature, extent of drainage, and wetland type.
+The direction and magnitude of the effects on these gases are highly uncertain and
+significant advances in our understanding of the biological processes as well as
+determination of the area extent of the activities will be required before these
+calculations can be adequately accomplished.  It may be possible to include CH4
+calculations associated with land flooding in early refinements of the calculations, but the
+N2O and CO calculations are more difficult and as yet of uncertain importance.
+Surface Waters
+Some national experts have pointed out that changes in surface waters due to human
+activities can result in sequestration of carbon, and presumably other emissions or
+removals.  An example is pollution of lakes due to run off, which can cause
+eutrophication, increasing the carbon content of waters.  Pollution of coastal waters
+could also have similar effects.  No data have been obtained thus far to indicate whether
+the carbon sequestration effects of such changes are large enough to be significant.
+However, it is possible that some countries may want to carry out preliminary
+calculations and report these as part of the ongoing methods development effort.
+These changes in surface waters are generally a result of combined effects including land-
+use changes, agricultural practices, wastewater treatment, etc. in the surrounding area.
+Thus, they do not fit neatly into any of the broad economic sectors which form the
+fundamental structure of these Guidelines.  If national experts consider the changes in
+surface waters to be primarily a function of land-use changes, the results of preliminary
+calculations could be reported in the ”Other” subcategory within the Land-Use Change
+and Forestry category.  Alternatively, they could be reported under Waste, Agriculture,
+or the newly created general “Other” category.
+5
+LAND-USE CHANGE & FORESTRY
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories:  Reference Manual
+5.59
+T5
+Technical Appendix: Deforestation
+Data
+Data on rates of deforestation32 are essential for calculating the fluxes of CO2 and other
+trace gases between terrestrial systems and the atmosphere.  When arranged on a
+country-by-country basis, these data provide the forcing function for computation of
+country-specific emissions from forest clearing.  Recognising that such data sets are not
+yet available for many countries with the accuracy needed for these computations, this
+technical appendix provides suggestions for utilising the available global and national
+sources of data, while bringing new or better sources of information into the calculations
+when and where they are available.
+T5.1
+Food and Agriculture Organization (FAO)
+Published Data
+Currently, the most comprehensive international source of data on rates of deforestation
+broken down to the country level is maintained by the FAO in the following forms:
+1.
+Source data, preferably in the form of a time series, collected in co-operation with
+member countries, including data on: forest cover, ecofloristic zone and sub-national
+boundaries, biomass, plantations and conservation, collected and compiled in the
+form of a geographic information system.
+2.
+Standardised estimates of forest cover, rate of deforestation, afforestation, and
+biomass/ha at the country level.  Standardisation is done by FAO because of
+variations from country to country in:
+•
+the definitions of "forest", "deforestation" and "afforestation"
+•
+the reference years for forest cover and deforestation measurements
+The standardisation is intended to bring country data to common definitions of
+forest cover and reference data, and to make the country information useful for
+regional and global studies.  The basis for standardisation is adjustment functions by
+ecological zones based on time-series data on forest cover of countries.
+3.
+Data from a global sample survey of forest cover state and change during 1980 and
+1990 based on a limited sample of high resolution satellite images using common
+definitions and measurement techniques.  The main aim of this survey is to calibrate
+regional and global estimates and provide comprehensive information on various
+types of on-going forest cover changes, in the form of change matrices (1980 and
+1990).  It should be noted that the sample survey is not intended to check or
+replace country estimates, but only to provide reliable estimates (i.e., with standard
+error) of forest cover and rate of change at regional/global levels.  This is being done
+taking into account the inherent limitations of aggregating heterogeneous country
+data at regional/global levels.
+                                                  
+     32 This appendix is limited to discussion of current and future international sources of
+data on rates of deforestation at the national level.  It is understood, however, that other
+types of input data are also key sources of uncertainty in calculations and are also the
+subject of a great deal of ongoing activity.  These include other types of land-use change
+and land cover data as well as more detailed information on growth rates and biomass
+densities for different types of forests and other ecosystems.
+LAND-USE CHANGE & FORESTRY
+5.60
+Revised 1996 IPCC Guidelines for National Greenhouse Ga s In ventories: Reference Manual
+The survey is based on a sampling design covering all tropical countries.  The World
+Reference System 2 (WRS2) for the LANDSAT satellites is used as the sampling frame.
+LANDSAT scenes covering approximately 3.4 million ha serve as sampling units.
+In view of cost-benefit considerations, the sampling units were selected from all
+LANDSAT scenes with a minimum land area of 1 million ha and a forest cover of 10% or
+more, estimated on the basis of existing vegetation maps.  This has restricted  the area
+surveyed to some 62% of the total tropical land area but containing some 87% of the
+total tropical forest.
+This first survey round is based on a 10% sample consisting of 117 sampling units
+randomly selected.  The distribution of the selected sampling units by region is 47 in
+Africa, 30 in Asia and 40 in America.  This sample size was chosen to estimate forest
+cover at global level with standard error less than ±5%.  At each simple location, satellite
+images of the best quality and appropriate season, separated by an approximate ten-years
+interval, were selected for observation.  The image close to 1990 provides assessment of
+the current state; whereas the area in common between “1990” and “1980” images
+provides the assessment to be made of the changes over time.
+The interpretation was implemented at selected regional and national forestry and/or
+remote sensing institutions, which have a good knowledge of the sample locations and are
+traditionally involved in forest resources assessment activities.  With the two-fold
+objective of improving national capacities for forest monitoring and the quality of image
+interpretation, the FAO Project organised three regional workshops and eight training
+sessions with national institutions, benefiting 27 countries and 81 participants.
+The result and quality of the interpretation undertaken by local institutions were centrally
+reviewed and evaluated.  The first result of the survey is its set of transition matrices, one
+for each Sampling Unit, that describe in detail the class-to-class changes for the land cover
+classes (see Box below).
+LAND COVER CLASSES
+Closed Forest
+Open Forest
+Long Fallow (forest affecting by shifting cultivation)
+Fragmented Forest (mosaic of forest/ non-forest)
+Shrubs
+Short-Fallow (agricultural areas with short fallow period)
+Other Land Cover
+Water
+Plantations (agricultural and forestry plantations)
+The matrices associated with the sampling units can be aggregated at various levels
+following the standard statistical procedure.  Mean transition matrices can be produced
+and subsequent change analysis has been carried out for the three regional and by three
+ecological zones (Wet and Very Moist, Moist, Dry).

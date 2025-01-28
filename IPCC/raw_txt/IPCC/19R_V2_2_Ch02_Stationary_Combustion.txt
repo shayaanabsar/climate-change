@@ -1,0 +1,169 @@
+ 
+Chapter 2: Stationary Combustion 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.1 
+CHAPTER 2 
+STATIONARY COMBUSTION 
+ 
+ 
+ 
+ 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+2.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Amit Garg (India) and Melissa M. Weitz (USA) 
+ 
+ 
+Chapter 2: Stationary Combustion 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.3 
+Contents 
+2 
+Stationary Combustion ................................................................................................................................. 2.4 
+2.1 
+Overview ............................................................................................................................................. 2.4 
+2.2 
+Description of sources ......................................................................................................................... 2.4 
+2.3 
+Methodological issues ......................................................................................................................... 2.4 
+2.3.1 
+Choice of method ............................................................................................................................ 2.4 
+2.3.2 
+Choice of emission factors .............................................................................................................. 2.4 
+2.3.3 
+Choice of activity data .................................................................................................................... 2.4 
+2.3.3.1 
+Tier 1 and tier 2 ...................................................................................................................... 2.4 
+2.3.3.2 
+Tier 3 ...................................................................................................................................... 2.4 
+2.3.3.3 
+Avoiding double counting activity data with other sectors ..................................................... 2.4 
+2.3.3.4 
+Treatment of biomass ............................................................................................................. 2.4 
+2.3.4 
+Carbon dioxide capture ................................................................................................................... 2.5 
+2.3.5 
+Completeness .................................................................................................................................. 2.5 
+2.3.6 
+Developing a consistent time series and recalculation .................................................................... 2.5 
+2.4 
+Uncertainty assessment ....................................................................................................................... 2.5 
+2.5 
+Inventory Quality Assurance/Quality Control QA/QC ....................................................................... 2.5 
+2.6 
+Worksheets .......................................................................................................................................... 2.5 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+2.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2 STATIONARY COMBUSTION  
+Users are expected to go to Mapping Tables in Annex 2, before reading this chapter. This is required to 
+correctly understand both the refinements made and how the elements in this chapter relate to the corresponding 
+chapter in the 2006 IPCC Guidelines. 
+2.1 
+OVERVIEW 
+No refinement. 
+2.2 
+DESCRIPTION OF SOURCES 
+No refinement. 
+2.3 
+METHODOLOGICAL ISSUES 
+2.3.1 
+Choice of method 
+No refinement. 
+2.3.2 
+Choice of emission factors 
+No refinement. 
+2.3.3 
+Choice of activity data 
+2.3.3.1 TIER 1 AND TIER 2 
+No refinement. 
+2.3.3.2 TIER 3 
+No refinement. 
+2.3.3.3 AVOIDING DOUBLE COUNTING ACTIVITY DATA WITH OTHER 
+SECTORS 
+No refinement. 
+2.3.3.4 TREATMENT OF BIOMASS 
+Biomass is a special case:  
+• 
+The overall IPCC approach to greenhouse gas emissions from combustion of biomass or biomass-based 
+products (e.g., ethanol) at the national level allows for complete coverage of emissions and sinks, and 
+involves all IPCC sectors, including in particular, Energy, Agriculture, Forestry and Other Land-Use 
+(AFOLU), and Waste.  
+• 
+Carbon dioxide (CO2) emissions from the combustion of biomass or biomass-based products are captured 
+within the CO2 emissions in the AFOLU sector through the estimated changes in carbon stocks from 
+biomass harvest, even in cases where the emissions physically take place in other sectors (e.g., energy). This 
+approach to estimate and report all CO2 emissions from biomass or biomass-based products in the AFOLU 
+sector was introduced in the first IPCC guidelines for national greenhouse gas emissions (IPCC 1995), 
+reflecting close linkages with data on biomass harvesting, and for the pragmatic reason to avoid double 
+counting.  
+ 
+Chapter 2: Stationary Combustion 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.5 
+• 
+In the Energy sector, CO2, methane (CH4) and nitrous oxide (N2O) emissions from combustion of biomass 
+or biomass-based products for energy are estimated, but the CO2 emissions are recorded as an information 
+item that is not included in the sectoral total emissions for the Energy sector, as they are already included in 
+AFOLU. The CH4 and N2O emissions from the combustion of biomass for energy are included in the 
+sectoral total emissions in the Energy sector, as emission rates depend on combustion and transformation 
+conditions and cannot be estimated using AFOLU carbon stock change methodologies. This provides a 
+complete picture of a country’s energy system and avoids double counting of emissions with those reported 
+in the AFOLU sector.  
+• 
+For biomass, only that part of the biomass that is combusted for energy purposes should be estimated for 
+inclusion as an information item in the Energy sector. 
+• 
+For fuel wood, activity data are available from the International Energy Agency (IEA) or the Food and 
+Agriculture Organization of the United Nations, (FAO). These data originate from national sources and 
+inventory compilers can obtain a better understanding of national circumstances by contacting national 
+statistical agencies to find the organisations involved. 
+• 
+For agricultural crop residues (part of other primary solid biomass) and also for fuel wood, estimation 
+methods for activity data are available in Chapter 5 of the AFOLU volume. 
+• 
+In some instances, biofuels will be combusted jointly with fossil fuels. In this case, the split between the 
+fossil and non-fossil fraction of the fuel should be established and the emission factors applied to the 
+appropriate fractions. 
+• 
+Further clarification on the approach for biomass energy emissions can be found in Section 1.1, “Concepts” 
+in Volume 1, Chapter 1. Further clarification on the reporting of emissions from burning woody biomass for 
+energy is provided in Section 12.5, Chapter 12 of the AFOLU volume of the 2019 Refinement. 
+2.3.4 
+Carbon dioxide capture 
+No refinement. 
+2.3.5 
+Completeness 
+No refinement. 
+2.3.6 
+Developing a consistent time series and recalculation 
+No refinement. 
+2.4 
+UNCERTAINTY ASSESSMENT 
+No refinement. 
+2.5 
+INVENTORY QUALITY ASSURANCE/QUALITY 
+CONTROL QA/QC 
+No refinement. 
+2.6 
+WORKSHEETS 
+No refinement. 
+ 

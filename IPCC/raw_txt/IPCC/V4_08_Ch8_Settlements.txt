@@ -1,0 +1,1595 @@
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.1 
+CHAPTER 8 
+SETTLEMENTS 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Jennifer C. Jenkins (USA), Hector Daniel Ginzo (Argentina), Stephen M. Ogle (USA), and Louis V. Verchot 
+(ICRAF/USA) 
+Mariko Handa (Japan) and Atsushi Tsunekawa (Japan) 
+ 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.3 
+Contents 
+8 
+Settlements 
+8.1 
+Introduction...........................................................................................................................................8.5 
+8.2 
+Settlements Remaining Settlements ......................................................................................................8.6 
+8.2.1 
+Biomass.........................................................................................................................................8.6 
+8.2.1.1 
+Choice of method.....................................................................................................................8.6 
+8.2.1.2 
+Choice of emission/removal factors.........................................................................................8.8 
+8.2.1.3 
+Choice of activity data...........................................................................................................8.10 
+8.2.1.4 
+Uncertainty assessment..........................................................................................................8.12 
+8.2.2 
+Dead organic matter ....................................................................................................................8.12 
+8.2.2.1 
+Choice of method...................................................................................................................8.12 
+8.2.2.2 
+Choice of emission/removal factors.......................................................................................8.13 
+8.2.2.3 
+Choice of activity data...........................................................................................................8.13 
+8.2.2.4 
+Uncertainty assessment..........................................................................................................8.14 
+8.2.3 
+Soil carbon...................................................................................................................................8.14 
+8.2.3.1 
+Choice of method...................................................................................................................8.15 
+8.2.3.2 
+Choice of stock change and emission factors ........................................................................8.15 
+8.2.3.3 
+Choice of activity data...........................................................................................................8.16 
+8.2.3.4 
+Uncertainty assessment..........................................................................................................8.17 
+8.3 
+Land Converted to Settlements ...........................................................................................................8.17 
+8.3.1 
+Biomass.......................................................................................................................................8.18 
+8.3.1.1 
+Choice of method...................................................................................................................8.18 
+8.3.1.2 
+Choice of emission/removal factors.......................................................................................8.18 
+8.3.1.3 
+Choice of activity data...........................................................................................................8.19 
+8.3.1.4 
+Uncertainty assessment..........................................................................................................8.20 
+8.3.2 
+Dead organic matter ....................................................................................................................8.20 
+8.3.2.1 
+Choice of method...................................................................................................................8.20 
+8.3.2.2 
+Choice of emission/removal factors.......................................................................................8.21 
+8.3.2.3 
+Choice of activity data...........................................................................................................8.21 
+8.3.2.4 
+Uncertainty assessment..........................................................................................................8.23 
+8.3.3 
+Soil carbon...................................................................................................................................8.23 
+8.3.3.1 
+Choice of method...................................................................................................................8.23 
+8.3.3.2 
+Choice of stock change and emission factor..........................................................................8.24 
+8.3.3.3 
+Choice of activity data...........................................................................................................8.25 
+8.3.3.4 
+Uncertainty assessment..........................................................................................................8.25 
+8.4 
+Completeness, Time series, QA/QC, and Reporting...........................................................................8.25 
+8.4.1 
+Completeness ..............................................................................................................................8.25 
+8.4.2 
+Developing a consistent time series.............................................................................................8.26 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.4.3 
+Inventory Quality Assurance/Quality Control.............................................................................8.26 
+8.4.4 
+Reporting and Documentation.....................................................................................................8.26 
+8.5 
+Basis for future methodological development.....................................................................................8.27 
+References 
+ 
+...............................................................................................................................................8.28 
+Equations 
+Equation 8.1 
+Annual carbon change in live biomass pools in Settlements Remaining Settlements...........8.6 
+Equation 8.2 
+Annual biomass increment based on total crown cover area.................................................8.7 
+Equation 8.3 
+Annual biomass growth based on number of individual woody plants in broad classes.......8.7 
+Tables 
+Table 8.1 
+Tier 2a default crown cover area-based growth rates (CRW) for urban 
+ tree crown cover by region...................................................................................................8.9 
+Table 8.2 
+Tier 2b default average annual carbon accumulation per tree in urban  
+trees by species classes........................................................................................................8.10 
+Table 8.3 
+Default activity data by potential natural vegetation (PNV) type for percent tree cover.....8.11 
+Table 8.4 
+Default biomass carbon stocks removed due to land conversion to settlements .................8.19 
+ 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.5 
+8 SETTLEMENTS 
+8.1 
+INTRODUCTION 
+This Chapter provides methods for estimating carbon stock changes and greenhouse gas emissions and removals 
+associated with changes in biomass, dead organic matter (DOM), and soil carbon on lands classified as 
+settlements. Settlements are defined in Chapter 3 as including all developed land -- i.e., residential, 
+transportation, commercial, and production (commercial, manufacturing) infrastructure of any size, unless it is 
+already included under other land-use categories.  The land-use category Settlements includes soils, herbaceous 
+perennial vegetation such as turf grass and garden plants, trees in rural settlements, homestead gardens and urban 
+areas.  Examples of settlements include land along streets, in residential (rural and urban) and commercial lawns, 
+in public and private gardens, in golf courses and athletic fields, and in parks, provided such land is functionally 
+or administratively associated with particular cities, villages or other settlement types and is not accounted for in 
+another land-use category. See Chapter 3 for area reporting guidelines and for definitions of the six land-use 
+categories. 
+Roughly 2% of Earth’s terrestrial surface is covered by urban areas which are home to over 3 billion people. 
+Over half of the world population currently lives in cities;  this number is projected to double within 50 years 
+(Crane and Kinzig, 2005).  In many regions, land classified as urban, based on population density or city 
+boundaries, is just a subset of land that can be classified as settlements using the criteria described above.  These 
+areas of less-dense settlement may extend well beyond the officially-defined border of a city, and in many 
+regions their areas are expanding quickly (Elvidge et al., 2004; Gallo et al., 2004; Theobald, 2004).  In areas that 
+are primarily rural, even if land uses are not changing quickly, land devoted to residential uses can occupy a 
+significant portion of the landscape.  Transitions of Forest Land, Cropland, and Grassland to Settlements can 
+have important impacts on carbon stocks and fluxes (Imhoff et al., 2000; Milesi et al., 2003).  
+Vegetation management in settlements may result in gains, losses, or transfers of carbon amongst the relevant 
+pools. For example, branches removed during pruning or turfgrass clippings (biomass losses) may be left on site 
+(transfer to litter), disposed of as solid waste (transfer to waste), or burned (emitted).  Emissions of the relevant 
+greenhouse gases are accounted for in the appropriate sections of the present guidance. For example, Table 2.3 in 
+Chapter 2, Volume 5 (Waste), includes wood/ yard waste in national-scale statistics describing the fate of 
+municipal solid waste at the national scale.  Biomass removed as fuelwood from trees in settlements and used as 
+fuel is accounted for in the Energy Sector. The net effect of conversion or management leading to increment, on 
+the one hand, or to loss (such as from burning and decay), on the other, determines the overall C balance in 
+settlements. 
+Soils and DOM in Settlements Remaining Settlements or in Land Converted to Settlements may be sources or 
+sinks of CO2, depending on previous land use, topsoil burial or removal during development, current 
+management, particularly with respect to nutrient and water applications, and the type and amount of vegetation 
+cover interspersed among roads, buildings and associated infrastructure (Goldman et al., 1995; Jo, 2002; Pouyat 
+et al., 2002; Qian and Follett, 2002; Kaye et al., 2004; Kaye et al., 2005).    
+The 1996 IPCC Guidelines covered above-ground biomass in trees in rural settlements, but not other settlement 
+categories and pools.  
+The 2006 IPCC Guidelines differ from those in the GPG-LULUCF as follows: 
+• 
+The discussion and detailed methodologies have been moved from the Appendix to the main text and 
+considered as greenhouse gas emission source or removal sector; 
+• 
+The discussion and methodologies have been expanded to include the five biomass pools described in 
+Chapter 1; 
+• 
+Tier 1 default methodologies are presented; 
+• 
+Additional data appropriate for Tiers 2 and 3 have been published since the GPG-LULUCF and are included 
+here;  and 
+• 
+An expanded discussion on developing and applying country-specific Tier 2 and Tier 3 methodologies and 
+values is included, including methods to work with more detailed activity data. 
+The carbon pools estimated for Settlements are above-ground and below-ground biomass, DOM, and soils. 
+Sections 8.2 and 8.3 respectively describe methodology to estimate changes in carbon stocks for Settlements 
+Remaining Settlements, and to estimate carbon stocks on Land Converted to Settlements.  The methodology in 
+the second section is broadly applicable to Land Converted to Settlements from any other type of land. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.2 
+SETTLEMENTS REMAINING SETTLEMENTS 
+This category refers to all classes of urban formations that have been in use as settlements (e.g., areas that are 
+functionally or administratively associated with public or private land in cities, villages, or other settlement 
+types), since the last time data were collected. Emissions and removals of CO2 in this category are estimated by 
+the subcategories of changes in carbon stocks in biomass (both woody and perennial non-woody components), in 
+DOM, and in soils, as summarized in Equation 2.3 in Chapter 2. 
+The biomass pool in settlements has woody and herbaceous components.  For woody biomass, carbon stock 
+change is calculated as the difference between biomass increment and biomass loss due to management activities.  
+For herbaceous biomass (such as turfgrass or garden plants) in Settlements Remaining Settlements, the carbon 
+stock change in biomass can usually be assumed to be zero.   
+The DOM pool in settlements contains dead wood and litter from both woody and herbaceous components.  For 
+the woody vegetation, changes in this pool can be quantified as production of coarse and fine litter from woody 
+plants.  For herbaceous vegetation, annual production of DOM is estimated as the accumulation of thatch plus 
+production of herbaceous material such as garden waste and yard trimmings. Greenhouse gas emissions 
+associated with Waste Sector are estimated in Volume 5 (Waste) and therefore the methods in this Chapter 
+describe only those components of annual production that can reasonably be expected to stay on-site. 
+Soil C pools vary with time depending on the balance between C inputs from plant litter and other forms of 
+organic matter and C outputs resulting from decomposition, erosion and leaching.  Estimating the impact of 
+settlement management on soil C storage will be particularly important in countries with a large portion of land 
+in cities and towns, or high rates of settlement expansion.  For mineral soils, the impact of settlement land use 
+and management on soil C stocks can be estimated based on differences in storage among settlement cover 
+classes relative to a reference condition, such as native lands.  Although organic soils are less commonly used for 
+settlements, C is emitted from these soils if they are drained for development due to enhanced decomposition, 
+similar to the effect of drainage for agricultural purposes (Armentano, 1986). In addition, peat may be harvested 
+from organic soils during settlement development, which will also generate emissions to the atmosphere.  
+8.2.1 
+Biomass 
+8.2.1.1 
+CHOICE OF METHOD 
+The general method for biomass carbon stock change in Settlements Remaining Settlements follows the approach 
+in Equation 2.7 in Chapter 2.  This method estimates changes in biomass carbon stocks, accounting for gains in 
+carbon stocks in biomass as a result of growth minus losses in carbon stocks as a result of pruning and mortality.  
+Depending on the relative magnitudes of the increment and loss terms, the average annual changes in biomass 
+carbon stocks in settlements may be positive or negative.  
+Biomass change in Settlements Remaining Settlements is the sum of biomass change in three components:  trees, 
+shrubs, and herbaceous perennials (e.g., turfgrass and garden plants), as described in Equation 8.1. 
+EQUATION 8.1 
+ANNUAL CARBON CHANGE IN LIVE BIOMASS POOLS IN SETTLEMENTS REMAINING SETTLEMENTS 
+Herbs
+Shrubs
+Trees
+B
+C
+C
+C
+C
++ Δ
++ Δ
+= Δ
+Δ
+ 
+Where: 
+ΔCB = annual carbon accumulation attributed to biomass increment in Settlements Remaining Settlements, 
+tonnes C yr-1 
+ΔCTrees = annual carbon accumulation attributed to biomass increment in trees in Settlements Remaining 
+Settlements, tonnes C yr-1 
+ΔCShrubs = annual carbon accumulation attributed to biomass increment in shrubs in Settlements 
+Remaining Settlements, tonnes C yr-1 
+ΔCHerbs = annual carbon accumulation attributed to biomass increment in herbaceous biomass in 
+Settlements Remaining Settlements, tonnes C yr-1 
+Depending on the availability of relevant activity data and appropriate emission factors, any of the 
+methodological tiers described below can be used.  Figure 2.2 in Chapter 2 also provides guidance for the 
+identification of the appropriate tier to estimate changes in carbon in biomass. 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.7 
+Tier 1 
+Tier 1 assumes no change in carbon stocks in live biomass in Settlements Remaining Settlements, in other words, 
+that the growth and loss terms balance. If the category Settlements Remaining Settlements is determined to be a 
+key category, then a country should collect appropriate activity data and/or develop emission factors appropriate 
+to the region and adopt Tier 2 or 3. 
+Tier 2 
+There are two options for Tier 2 estimation of changes in biomass in Settlements Remaining Settlements. Tier 2a 
+uses changes in carbon stocks per unit of plant crown cover area as a removal factor, and Tier 2b uses changes in 
+carbon stocks per number of plants as a removal factor. The choice of method will depend on availability of 
+activity data.  Tier 2a and Tier 2b both provide methods for estimating ΔCG in Equation 2.7 (Gain-Loss Method).  
+This is appropriate for countries lacking a continuous inventory in Settlements Remaining Settlements.   
+The main perennial types are trees, shrubs, and herbaceous perennials (such as turfgrass and garden plants). The 
+methods as presented here set the change in biomass of herbaceous annuals to zero in Settlements Remaining 
+Settlements on the basis that growth of herbaceous biomass (whether perennial or annual herbaceous vegetation) 
+is equal to loss from harvest or mortality. Countries may choose to define tree and woody perennial types as 
+appropriate and each types may be further divided into classes defined according to species, climate zone, 
+seasonality, or other criteria as appropriate and if data are available. 
+Tier 2a: Crown cover area method 
+This method is represented by Equation 8.2 and should be used when data are available on total area of crown 
+cover in perennial types (j) and their classes (i) in Settlements Remaining Settlements.  
+EQUATION 8.2 
+ANNUAL BIOMASS INCREMENT BASED ON TOTAL CROWN COVER AREA 
+∑
+•
+=
+Δ
+i j
+i j
+i j
+G
+CRW
+AT
+C
+,
+,
+,
+ 
+Where: 
+ΔCG = annual carbon accumulation attributed to biomass increment in Settlements Remaining Settlements, 
+tonnes C yr-1 
+ATij = total crown cover area of class i in woody perennial1 type j, ha 
+CRWij = crown cover area-based growth rate of class i in woody perennial type j, tonnes C (ha crown 
+cover)-1 yr-1 
+Tier 2b: Individual plant 2 growth method 
+The method is represented by Equation 8.3 and should be used where data on the number of woody plants by 
+broad species class in Settlements Remaining Settlements are available.  It is possible, when making estimates for 
+trees, to convert between the methods used in Tiers 2a and 2b by assuming that an individual tree in an urban 
+area covers approximately 50 m2 crown area when mature (cf. Akbari, 2002).    
+EQUATION 8.3 
+ANNUAL BIOMASS GROWTH BASED ON NUMBER OF INDIVIDUAL WOODY PLANTS IN BROAD 
+CLASSES 
+∑
+•
+=
+Δ
+i j
+i j
+i j
+G
+C
+NT
+C
+,
+,
+,
+ 
+Where: 
+ΔCG = annual carbon accumulation due to live biomass increment in Settlements Remaining Settlements, 
+tonnes C yr-1 
+NTij = number of individuals of class i in perennial type j 
+Cij = annual average carbon accumulation per class i of perennial type j, tonnes C yr-1 per individual 
+ 
+                                                           
+1 References to woody perennials include trees unless otherwise specified. 
+2 References to plants include trees unless otherwise specified. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 3 
+Tier 3 approaches can be based either on Tier 2 methods above (Equations 8.2 and 8.3) with more detailed 
+measurements of parameters at disaggregated level for different settlement systems such as parks, rural or urban 
+residential areas, avenues, etc., or on a stock difference approach based on Equation 2.8. Changes in carbon 
+stocks are estimated at two points in time, where the changes account for biomass carbon gains and losses. The 
+generic approach for this method calls for forest-specific biomass expansion factors (BEFs) which do not apply 
+to settlements.  Countries wishing to use the stock difference method to estimate biomass change in Settlements 
+Remaining Settlements should consider using allometric methods such as those based on individual tree diameter 
+at breast height (dbh) (Jenkins et al., 2004), adjusted for open-grown trees as described above, rather than forest 
+specific BEFs for estimating tree biomass. 
+8.2.1.2 
+CHOICE OF EMISSION/REMOVAL FACTORS 
+Few allometric biomass equations exist specifically for trees or shrubs in urban settings (Nowak, 1996; Jo, 2002) 
+so investigators have tended to apply equations derived for forest trees, adjusting the resulting  biomass with a 
+coefficient (such as 0.80 [Nowak, 1994; Nowak and Crane, 2002]) intended to take account of the allometry of 
+open-grown trees in cities where above-ground biomass for a given diameter is typically lower than that of 
+forest-grown trees (Nowak, 1996).  Allometric equations for some shrub species exist, but have not routinely 
+been applied to urban settings (Smith and Brand, 1983; Nowak et al., 2002 for shrub leaf biomass estimates).  
+Below-ground tree biomass can be derived from above-ground biomass by multiplying the latter by an estimated 
+root: shoot ratio, as described by Cairns et al. (1997) and applied for urban settings by Nowak et al. (2002).  See 
+Chapter 4 (Forest Land) for examples of root: shoot ratios (R) (also called below-ground to above-ground 
+biomass ratio) often used in forest settings. Ratios appropriate to the region of interest can be assumed to apply 
+without modification to settlements. 
+Tree growth and mortality in settlements can be affected by urban conditions such as variations in local air 
+quality, atmospheric deposition, enhanced atmospheric CO2 concentrations, and reduced air exchange in the root 
+zone due to impermeable paving surfaces (e.g., Pouyat et al., 1995; Idso et al., 1998; Idso et al., 2001; Gregg et 
+al., 2003; Pouyat and Carreiro, 2003).  Therefore, the values and equations used to predict tree growth in 
+settlements at higher tiers should, to the extent feasible, allow for the surrounding environment and the condition 
+of the trees. 
+Carbon stored in the woody components of trees makes up the largest compartment of standing biomass stocks 
+and annual biomass increment in settlements.  Data are still sparse, though availability is increasing. For example, 
+Nowak and Crane (2002) estimated on a citywide basis that the net annual carbon storage by trees in cities in the 
+conterminous USA ranged from 600 to 32,200 tonnes C yr-1.  Jo (2002) found that the amount of C sequestered 
+annually in three Korean cities varied from 2,900 to 40,300 tonnes.  In Australia, Brack (2002) estimated that the 
+amount of C sequestered by trees in Canberra between 2008 and 2012 would be 6,000 tonnes C yr-1.  Clearly, the 
+estimates depend on the definition and hence extent of the settlement areas being considered. 
+The variation is less per unit land area; for ten cities in the United States, measurements of C stored in woody 
+biomass ranged from 150 to 940 kg C ha-1 yr-1 (Nowak and Crane, 2002) and for three Korean cities annual C 
+stored in woody biomass varied from 530 to 800 kg C ha-1 yr-1 (Jo, 2002).  Trees in urban lawns in Colorado 
+(USA) stored 1,590 kg C ha-1 yr-1 (Kaye et al., 2005).  There is still less variation in estimates of annual C 
+storage per unit of tree crown cover. Nowak and Crane (2002) found that annual sequestration rates ranged from 
+0.12 to 0.26 kg C m-2 crown cover yr-1, while Brack (2002) used a model to estimate that annual sequestration in 
+Canberra between 2008 and 2012 would be 0.27 kg C m-2 yr-1.  
+Tier 1 
+This method assumes, probably conservatively, that changes in biomass carbon stocks due to growth in biomass 
+are fully offset by decreases in carbon stocks due to removals (i.e., by harvest, pruning, clipping) from both 
+living and from dead biomass (e.g., fuelwood, broken branches, etc.). Therefore, in a Tier 1 approach ΔCG  =  ΔCL 
+and for all plant components, and ΔCB = 0 in Equation 2.7.  
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.9 
+Tier 2 
+ 
+Trees 
+Tier 2 calls for parameter values for CRWij (Equation 8.2) and Cij (Equation 8.3). A default removal factor for 
+tree biomass (CRW) of 2.9 tonnes C (ha crown cover)-1 yr -1 is usually suitable for Tier 2a (see Table 8.1).  This 
+estimate is based on a sample of ten US cities, with values that ranged from 1.8 to 3.4 tonnes C (ha crown cover)-
+1 yr-1 (Nowak and Crane, 2002). Values appropriate to national circumstances can also be developed. Using Tier 
+2b, the removal factor is Cij.  Table 8.2 provides defaults carbon accumulation rates for tree species classes for 
+use at Tier 2b.  These estimates are based on various allometric equations and limited field data from urban areas 
+in the USA, and are averages for trees of all sizes (not just mature trees). Tiers 2a and 2b methods provide 
+biomass estimates for total combined above-ground and below-ground woody biomass.  If required below-
+ground biomass can be estimated separately using a root: shoot ratio of 0.26 (Nowak et al., 2002). 
+For Tiers 2a and 2b, the default assumption for ΔCL where the average age of the tree population is less than or 
+equal to 20 years is zero.  This is based on the assumption that urban trees are net sinks for carbon when they are 
+actively growing and that the active growing period (AGP) is roughly 20 years, depending on tree species, 
+planting density, and location.  Thereafter, the method assumes that the accumulation of carbon in biomass slows 
+with age, and thus for trees older than the AGP, increases in biomass carbon are assumed to be offset by losses 
+from pruning and mortality.  For trees older than the AGP this is conservatively accounted for by setting ΔCGwood 
+= ΔCLwood. Countries can define AGP depending on their circumstances. 
+ 
+Other woody perennial types 
+Countries may, for any perennial type, develop their own values for CRWij (in Equation 8.2) and Cij (in Equation 
+8.3).  A conservative assumption of no change in any of these components (i.e., CRWij = 0 and Cij = 0) can also 
+be applied. 
+Tiers 2a and 2b both assume no change in herbaceous biomass. Using this method, ΔCGHerbs
+ =  ΔCLHerbs and ΔCB is 
+based on the difference between increment and losses in woody biomass only. 
+ 
+Tier 3 
+For Tier 3, countries should develop plant type-specific biomass increment factors appropriate to national 
+circumstances.  Country-specific parameters and growth equations should be based on the dominant climate 
+zones and particular species composition of the major settlements areas in a country, before making estimates for 
+less extensive settlements.  If country-specific biomass increment parameters are developed from estimates of 
+biomass on a dry matter basis, they need conversion to units of carbon using either a default carbon fraction (CF) 
+of 0.5 tonne C (tonne d.m.)-1, or a carbon fraction that is more appropriate to circumstances. 
+Under higher tiers, the assumptions for ΔCL should be evaluated and modified to address national circumstances 
+better. For instance, countries may have information on age-dependent and/ or species-specific carbon losses in 
+settlement trees.  In this case, countries should develop a loss term and document the resources and rationale 
+used in its development. 
+If a country adopts the stock-difference method (Equation 2.8), it should have representative sampling and 
+periodic measurement system to estimate the changes in biomass carbon stocks.  
+ 
+TABLE 8.1 
+TIER 2A DEFAULT CROWN COVER AREA-BASED GROWTH RATES (CRW) FOR URBAN TREE CROWN COVER BY REGION 
+Region 
+Default annual carbon accumulation per ha tree crown cover 
+[tonnes C (ha crown cover)-1 yr-1] 
+United States (global default) 
+2.9 a 
+Australia 
+3.6 b 
+a Nowak and Crane 2002; average of 10 US cities. 
+b Brack 2002; modelling analysis in Canberra. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 8.2 
+TIER 2B DEFAULT AVERAGE ANNUAL CARBON ACCUMULATION PER TREE  
+IN URBAN TREES BY SPECIES CLASSES 
+Broad species class 
+Default annual carbon accumulation per tree 
+(tonnes C yr-1) 
+Aspen 
+0.0096 
+Soft maple 
+0.0118 
+Mixed hardwood 
+0.0100 
+Hardwood maple 
+0.0142 
+Juniper 
+0.0033 
+Cedar/larch 
+0.0072 
+Douglas fir 
+0.0122 
+True fir/Hemlock 
+0.0104 
+Pine 
+0.0087 
+Spruce 
+0.0092 
+Source: D. Nowak (2002; personal communication) 
+8.2.1.3 
+CHOICE OF ACTIVITY DATA 
+Tier 1 
+No activity data are needed. 
+Tier 2  
+The activity data needed to implement a Tier 2 method are either ATij, area of crown cover for each class within 
+a perennial type (Equation 8.2), or NTij, number of individual plants in each class within a perennial type 
+(Equation 8.3).  Crown cover is defined as the percent of ground covered by a vertical projection of the 
+outermost perimeter of the natural spread of the foliage.  For Tier 2a, crown cover area data (ATij) can be 
+obtained from aerial photographs of urban areas, provided expertise in photo interpretation, image sampling and 
+area measurement (Nowak et al., 1996) are available. Values in percent crown cover should be converted to total 
+crown cover area for use in Equation 8.2 by multiplying the percent crown cover by the total area of the plants 
+(trees or shrubs) within the outermost perimeter. 
+If data are not available to determine percent crown cover, then default activity data can be used.  This approach 
+takes advantage of the fact that settlements found in different biomes, as defined by different potential natural 
+vegetation or PNV (Kuchler, 1969), have been found to have similar values for percent tree cover, total 
+greenspace, and canopy greenspace (Nowak et al., 1996) (Table 8.3).  Settlements found in regions where the 
+PNV is forest, for example, have substantially higher percent tree cover values than do settlements found in 
+regions where the PNV is desert (Table 8.3). In Table 8.3, percent total greenspace is the proportion of land area 
+covered by vegetation or soil (i.e., not impervious surfaces or water), and canopy greenspace is the proportion of 
+that greenspace filled with tree canopies (calculated as percent canopy cover/ percent total greenspace). The 
+default data on percent tree crown cover should be multiplied by the settlement area and used with the default 
+growth rates in Table 8.1, in a simplified version of Equation 8.2, to estimate the annual carbon accumulation in 
+the tree perennial type. Data on percent total greenspace and percent canopy greenspace in Table 8.3 are not 
+needed for a Tier 2 approach to estimate biomass carbon stocks, but may be useful for cross-checking. 
+For Tier 2b, records of plant populations, disaggregated into species or broad species classes, may be obtained 
+from municipal agencies caring for urban vegetation, or from sampling methods. 
+Tier 3 
+Under Tier 3, the type of activity data to be collected depends on the methodological approaches used. If the 
+stock-difference method is used, then it is necessary to disaggregate and estimate area under different types of 
+vegetation types (parks, rural or urban settlements, avenues, playgrounds, etc) using remote sensing techniques 
+in different climate or economic development indicators. The higher the tier to be used, the more disaggregated 
+will be the activity data, and the more precise the estimation methods.  The area sampling methods described in 
+Chapter 3, Annex 3A.3 can be used for this.   
+  
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.11 
+TABLE 8.3 
+ DEFAULT ACTIVITY DATA BY POTENTIAL NATURAL VEGETATION (PNV) TYPE (KUCHLER, 1969) FOR PERCENT TREE 
+COVER  
+Potential Natural 
+Vegetation (PNV) 
+Percent tree cover  
+(+ S.E.) 
+Percent total greenspace  
+(+ S.E.) 
+Percent canopy 
+greenspace 
+(+ S.E.) 
+Forest 
+31.1 (+ 2.6) 
+58.4 (+ 2.9) 
+50.9 (+ 3.3) 
+Grassland 
+18.9 (+ 1.5) 
+54.8 (+ 2.1) 
+32.9 (+ 2.3) 
+Desert 
+9.9 (+ 2.4) 
+64.8 (+ 4.2) 
+16.9 (+ 4.6) 
+Source: Nowak et al. (1996) 
+ 
+STEP-BY-STEP SUMMARY OF METHOD FOR ESTIMATING CHANGES IN 
+BIOMASS STOCKS  
+Tier 1 
+The Tier 1 methodology assumes no change in biomass carbon stocks in Settlements Remaining Settlements.   
+Tier 2 
+Method A:  Crown cover area method 
+Step 1: Define the total crown cover area in each of the woody perennial types in the settlement.  If data are not 
+available for all types, the method may be applied for trees only, setting the area in other perennial types to zero.  
+Default activity data for tree cover can be applied using Table 8.3.  To estimate total tree crown cover for a 
+settlement falling in a region where the PNV is grassland, for example, multiply the total land area in the 
+settlement by the 18.9%, which is the average percent tree cover for settlements found in areas where the PNV is 
+grassland, from Table 8.3.  The total crown cover area of all vegetation (including trees) is calculated as (total 
+greenspace area = percent greenspace x settlement area) and the aggregated crown cover of the other perennial 
+vegetation types is the difference between the total greenspace area and the tree crown cover area.   
+Step 2: Calculate ΔCG for each of the perennial types, using Equation 8.2.  The tree crown cover area value 
+obtained in Step 1 should be used for the tree perennial type. Countries may apply a default value of CRW for 
+trees from Table 8.1; should develop and apply their own values for CRWij.  Default values are available only 
+for CRW for the tree component of vegetation.  If CRW values for other perennial types do not exist and cannot 
+be developed, or if activity data for these types do not exist these parameters may be set to zero,  and the tree 
+component of biomass growth only be estimated.  
+Step 3: Calculate ΔCL for plant components, to be used in Equation 2.7 in Chapter 2.  For the tree component of 
+vegetation, it is good practice to set this value equal to zero where the average age of the tree population is less 
+than or equal to the active growing period (AGP; see Section 8.2.1.2).  If the average age of trees is greater than 
+the AGP, then either assume ΔCG = ΔCL or use situation-specific data. In the absence of data to the contrary, 
+assume that ΔCG = ΔCL for shrubs and herbaceous plants. 
+Step 4: Use the values obtained for ΔCG and ΔCL in Equation 2.7 in Chapter 2 to quantify the total change in 
+biomass carbon in Settlements Remaining Settlements. 
+Method B:  Individual plant growth method 
+Step 1: Estimate the number of plants in Settlements Remaining Settlements for each perennial type (e.g., trees, 
+shrubs, and herbaceous plants).  If data are not available for all of the perennial types, a minimum approach is to 
+use data for trees only, setting the number of plants in other perennial types to zero.  There are no default activity 
+data for this method. 
+Step 2: Using Equation 8.3, multiply each estimate by the appropriate rate of carbon increment per plant (Cij,) 
+to obtain the amount of carbon sequestered annually.  Default Cij values for trees can be found in Table 8.2; there 
+are no default values for shrubs or herbaceous species.  Countries may choose to apply their own values if 
+appropriate, or set the missing values to zero and produce estimates for trees only. 
+Step 3: As in Equation 8.2, sum the amount of carbon sequestered, ΔCG, by each perennial type over all classes 
+present in Settlements Remaining Settlements. 
+Step 4: Use the estimate of ΔCG in Equation 2.7 in Chapter 2 to estimate the annual change in carbon stock in 
+biomass. For trees, set ΔCL = 0 if the average age of the tree population is less than or equal to the active 
+growing period (AGP); if average age of trees is greater than the AGP (Section 8.2.1.2), then either assume   
+ΔCG  = ΔCL or use situation-specific data. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 3 
+A Tier 3 approach requires more detailed information than the Tier 2 approach, such as: 
+• 
+accounting for different land uses within settlements (residential, recreational, industrial, etc.); 
+• 
+detailed estimates and models for growth and longevity of the most important plant species; 
+• 
+fate of pruned and dead wood and other biomass transferred to the DOM pool; and 
+• 
+other items as appropriate for national circumstances. 
+8.2.1.4 
+UNCERTAINTY ASSESSMENT 
+Tier 1 
+Assessment of uncertainty is not required, because the change in living biomass is set to zero. 
+Tier 2 and Tier 3 
+The overall uncertainty of any estimate of the change in the carbon stock of living biomass will be a combination 
+of the individual uncertainties of its component terms.  These will be influenced by the heterogeneity between 
+and within land-use urban types, and also by the intensity and frequency of the stewardship of plants in both 
+public and private spaces. The uncertainty is likely to be high since there is limited experience in measuring 
+carbon stock change in urban and rural settlements. The few studies done on the CO2 sink capacity of cities 
+differ in methodology and scope, but the overall relative uncertainty of the estimate of changes in carbon stocks 
+is unlikely to be less than 30-50% about the mean.   
+8.2.2 
+Dead organic matter 
+Most of the changes in carbon stocks associated with dead organic matter (DOM) will be associated with 
+changes in tree cover in settlements.  Methods are provided for two types of DOM pools: 1) dead wood and 2) 
+litter. Chapter 1of this volume provides detailed definitions of these pools.  
+Dead wood is a diverse pool with many practical problems for measuring in the field and associated uncertainties 
+about rates of transfer to litter, soil, or emissions to the atmosphere. Amounts of dead wood depend on the time 
+of last disturbance, the amount of input (mortality) at the time of the disturbance, natural mortality rates, decay 
+rates, and management. 
+Litter accumulation is a function of the annual amount of litterfall, which includes all leaves, twigs and small 
+branches, fruits, flowers, and bark, minus the annual rate of decomposition. The litter mass is influenced by the 
+time since the last disturbance, and the type of disturbance.  Management such as wood and grass collection, 
+burning, and grazing dramatically alter litter properties, but there are few studies clearly documenting the effects. 
+In herbaceous perennial turfgrass communities, thatch accumulates in a thin layer at the soil surface.  The depth 
+of this layer depends on the balance between accumulation (grass production) and decomposition, which varies 
+substantially with climate and management regime.  While the function of this layer has been recognized (Raturi 
+et al., 2004), there are so far no published data on the overall impact of carbon accumulation in this DOM pool 
+on landscape-level. As a result, these Guidelines acknowledge the potential importance of thatch in the DOM in 
+settlements but assume that inputs equal outputs so that the net change in carbon stock is zero. 
+No studies have yet been published on the accumulation rate of dead wood in settlements, though some studies 
+have described the production of leaf litter in settlements (cf. Jo and McPherson, 1995).  In the only measured 
+data on this component of carbon flux, Kaye et al. (2005) found that leaf and shrub litter in residential lawns in 
+Colorado (USA) totalled 49 g C m-2 yr-1, or roughly 13% of total above-ground productivity (383 g C m-2 yr-1).  
+Since the rate of soil respiration in settlements is typically quite high compared to native landscapes (Koerner 
+and Klopatek, 2002; Kaye et al., 2005), it is likely that fine litterfall decays quickly.  The conservative approach, 
+therefore, is to set the accumulation rate of the litter component of DOM to zero.  
+8.2.2.1 
+CHOICE OF METHOD 
+Estimation of changes in carbon stocks in DOM requires an estimate of changes in stocks of dead wood and 
+changes in litter stocks (refer to Equation 2.17 of Chapter 2). Each of the DOM pools is treated separately, but 
+the method for determining changes in each pool is the same. The decision tree in Chapter 2, Figure 2.3 helps 
+select the appropriate tier. 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.13 
+Tier 1 
+Tier 1 assumes that the dead wood and litter stocks are at equilibrium, and so there is no need to estimate the 
+carbon stock changes for these pools. Countries experiencing significant changes in tree cover in settlements are 
+encouraged to develop national data to quantify this change and report it under Tier 2 or 3 methodologies. 
+Tiers 2 and 3 
+Tiers 2 and 3 allow for calculation of changes in dead wood and litter carbon due to changes in tree cover.  Two 
+methods are suggested for estimating associated carbon stock changes.  
+Method 1 (Also called the Gain-Loss Method, Equation 2.18 in Chapter 2):  This involves estimating the area of 
+settlement categories and the average annual transfer into and out of dead wood and litter stocks. It requires an 
+estimate of area under Settlements Remaining Settlements according to different climate or ecological zones or 
+settlement types, disturbance regime, management regime, or other factors significantly affecting dead wood and 
+litter carbon pools. It also requires the quantity of biomass transferred into dead wood and litter stocks as well as 
+the quantity of biomass transferred out of the dead wood and litter stocks on per hectare basis according to 
+different settlement types.  
+Method 2 (Also called the Stock-Difference Method, Equation 2.19 in Chapter 2):  This method involves 
+estimating the area of settlements and the dead wood and litter stocks at two periods of time, t1 and t2.  The dead 
+wood and litter stock changes for the inventory year are obtained by dividing the stock changes by the period 
+(years) between two measurements. The Stock-Difference Method is feasible for countries, which have periodic 
+inventories in settlements. This method is more suitable for countries adopting Tier 3 methods. Tier 3 methods 
+are used where countries have country-specific emission factors, and substantial national data. Country-defined 
+methodology may be based on detailed inventories of permanent sample plots for their settlements and/or models. 
+8.2.2.2 
+CHOICE OF EMISSION/REMOVAL FACTORS 
+Carbon fraction:  The carbon fraction of dead wood and litter is variable, particularly for litter, and depends on 
+the stage of decomposition.  A value of 0.50 tonne C (tonne d.m.)-1 can be used as a default in both cases.  
+Tier 1 
+Emission factors are unnecessary.  
+Tier 2 
+It is good practice to use country-level data on DOM for different settlement categories, in combination with 
+default values, if country or regional values are not available for some settlement categories. Country-specific 
+values for the transfer of carbon from live trees and grasses that are harvested to harvest residues and 
+decomposition (in the case of the Gain-Loss Method), or the net change in DOM pools (in the case of the Stock-
+Difference Method),  can be derived taking into account domestic expansion factors, settlement types, the rate of 
+biomass utilization, mortality, management and harvesting practices, and the amount of damaged vegetation 
+during management and harvesting operations.  
+Tier 3 
+Countries should develop their own methodologies and parameters for estimating changes in DOM. These 
+methodologies may be derived from Methods 1 or 2 specified above, or may be based on other modelling or 
+sampling approaches (see sampling methods set out in Chapter 3, Annex 3A.3). 
+8.2.2.3 
+CHOICE OF ACTIVITY DATA 
+Activity data consist of areas of Settlements Remaining Settlements summarised by major settlement types. Total 
+settlement areas should be consistent with those reported under other sections of this chapter, notably under the 
+biomass section of Settlements Remaining Settlements. The assessment of changes in DOM will be greatly 
+facilitated if this information can be used in conjunction with national soils and climate data, vegetation 
+inventories, and other geophysical data.  
+Step-by-step summary of method for estimating changes in DOM carbon stocks 
+Tier 1 
+Tier 1 assumes DOM inputs and outputs are equal so there are no net annual changes in dead wood or litter 
+carbon stocks and no further assessment is needed. 
+Tier 2 or Tier 3 (Method 1, Gain-Loss Method) 
+Each of the DOM pools (dead wood and litter) is to be treated separately, but the method for each pool is the 
+same. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Step 1: Determine the categories to be used in this assessment and the representative area. The category 
+consists of definitions of the type of settlements. Area data should be obtained using the methods described in 
+Chapter 3.  
+Step 2: Identify values from inventories or scientific studies for the average inputs and outputs of dead wood or 
+litter for each category.  No default factors exist for inputs and outputs from these pools, so countries should use 
+locally available data.  Calculate the net change in the DOM pools by subtracting the outputs from the inputs.  
+Negative values indicate a net decrease in the stock (Equation 2.18). 
+Step 3: Determine the net change in DOM carbon stocks for each category.  Multiply the change in DOM 
+stocks by the carbon fraction of the dead wood or litter to determine the net change in dead wood and litter 
+carbon stocks.   
+Step 4: Determine the total change in the DOM carbon pools for each category by multiplying the 
+representative area of each category by the net change in DOM carbon stocks for that category.   
+Step 5: Determine the total change in carbon stocks in DOM by taking the sum of the total changes in DOM 
+across all categories. 
+ 
+Tier 2 or Tier 3 (Method 2, Stock-Difference Method) 
+Each of the DOM pools is to be treated separately, but the method for each pool is the same. 
+Step 1: Determine the settlement categories and area as described in Step 1 above.  
+Step 2: From the inventory data, identify the inventory time interval, the average stock of DOM at the initial 
+inventory (t1), and the average stock of DOM at the final inventory (t2).  Use these figures to calculate the net 
+annual change in DOM stocks by subtracting the DOM stock at t1 from the DOM stock at t2 and dividing this 
+difference by the time interval.  A negative value indicates a decrease in the DOM stock (Equation 2.19). 
+Step 3: Determine the net change in DOM carbon stocks for each category.  Determine the net change in DOM 
+carbon stocks by multiplying the net change in DOM stocks for each category by the carbon fraction of the 
+DOM.   
+Step 4: Determine the total change in the DOM carbon pool for each activity category by multiplying the 
+representative area of each activity category by the net change in DOM carbon stocks for that category.   
+Step 5: Determine the total change in carbon stocks in DOM by taking the sum of the total changes in DOM 
+across all activity categories. 
+8.2.2.4 
+UNCERTAINTY ASSESSMENT 
+There is no need to estimate uncertainty under Tier 1, since DOM pools are assumed to be stable. For Tiers 2 and 
+3 estimates, sources of uncertainty include the degree of accuracy in land area estimates, carbon increment and 
+loss, carbon stocks, and expansion factor terms. Area data and estimates of uncertainty should be obtained using 
+the methods in Chapter 3 which provides default uncertainties associated with the different approaches. 
+Uncertainties associated with carbon stocks and other parameter values are likely to be at least a factor of three 
+unless country-specific data are available from well designed surveys. 
+8.2.3 
+Soil carbon 
+Soils in settlements may be sources or sinks of CO2 depending on previous land use, soil burial or collection 
+during development, and current management, particularly with respect to nutrient and water applications in 
+addition to the type and amount of vegetation cover interspersed among roads, buildings and associated 
+infrastructure (Goldman et al., 1995; Pouyat et al., 2002; Jo, 2002; Qian and Follett, 2002; Kaye et al., 2004).   
+Only a few studies have been conducted at the time of writing that evaluate the effect of settlement management 
+on soil C, and most of the focus has been on North America (e.g., Pouyat et al., 2002), making it difficult to 
+generalize. For example, there are likely to be large differences that have not been well studied between 
+settlements in developed countries and developing countries. 
+Estimating the impact of settlement management on soil C storage will be particularly important in countries 
+with a large portion of land in cities and towns, or high rates of settlement expansion.  For mineral soils, the 
+impact of settlement land use and management on soil C stocks can be estimated based on differences in storage 
+among settlement management classes relative to a reference condition, such as other managed land uses, or 
+native lands.  Settlement management classes could include turf grass (e.g., lawns and golf courses), urban 
+woodlands, gardens, refuse areas (e.g., garbage dumps), barren areas (exposed soil), and infrastructure (e.g., 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.15 
+roadways, houses, and buildings).  Although organic soils are less commonly used for settlement development, C 
+is emitted from these soils if they are drained due to enhanced decomposition, similar to the effect of drainage 
+for agricultural purposes (Armentano and Menges, 1986). 
+General information and guidelines for estimating changes in soil C stocks are found in Chapter 2, Section 2.3.3, 
+and should be reviewed before proceeding with specific guidelines dealing with settlements. The total change in 
+soil C stocks for settlements is computed using Equation 2.24 in Chapter 2, which combines the change in soil 
+organic C stocks for mineral soils and organic soils; and stock changes for soil inorganic C pools (Tier 3 only). 
+The next section provides specific guidance on estimating the soil organic C stock change in settlements. For 
+general discussion on soil inorganic C, no additional information is provided in the settlements discussion below. 
+To account for changes in soil C stocks associated with Settlements Remaining Settlements, countries need to 
+have estimates of the relevant settlement area, stratified by climate region and soil type.  More detailed inventory 
+estimations can be made through ground-based surveys and/or periodic analyses of remote sensing imagery to 
+determine settlement management classes (e.g., turf grass, urban woodlands, gardens, refuse areas, barren areas 
+and infrastructure). 
+Inventories can be developed using Tier 1, 2 or 3 approaches, with Tier 3 requiring more detail and resources.  It 
+is also possible that countries will use different tiers to prepare estimates for the separate components in this 
+source category, which includes mineral soils and organic soils in addition to soil inorganic C pools, if using a 
+Tier 3 approach.  Figures 2.4 and 2.5 in Chapter 2 are decision trees that provide guidance for identification of 
+appropriate tier to estimate changes in carbon stocks in mineral soils and organic soils, respectively. 
+8.2.3.1 
+CHOICE OF METHOD 
+Mineral soils 
+Tier 1 
+It is assumed in the Tier 1 method that inputs equal outputs so that settlement soil C stocks do not change in 
+Settlements Remaining Settlements.  
+Tier 2 
+The Tier 2 approach for mineral soils uses Equation 2.25 in Chapter 2; involves country- or region-specific 
+reference C stocks and/or stock change factors and possibly suitably disaggregated land-use activity and 
+environmental data. 
+Tier 3 
+Tier 3 is an advanced method for estimating soil C stocks associated with settlement cover classes, such as a 
+dynamic model or measurement/monitoring network.  Few if any models or measurement systems have been 
+developed for estimating soil C stocks in settlements that would be considered a Tier 3 method.  This should be 
+considered if settlement soil C is considered a key source category. Additional guidance on Tier 3 approaches is 
+given in Chapter 2, Section 2.3.3 
+Organic soils 
+Tiers 1 and 2 
+Settlements are unlikely to be built on deep organic soils, but if needed, emissions can be computed using 
+Equation 2.26 in Chapter 2.  A Tier 2 approach will incorporate country-specific information to estimate 
+emission factors, in addition to a settlement cover classification.  However, it is also optional in the Tier 2 
+approach to use a more detailed classification of climate and soils than the default categories. 
+Tier 3 
+Tier 3 approaches for organic soils will include more detailed management systems integrating dynamic models 
+and/or measurement networks.  Additional guidance on Tier 3 approaches is given in Chapter 2, Section 2.3.3. 
+8.2.3.2 
+CHOICE OF STOCK CHANGE AND EMISSION FACTORS 
+Mineral soils 
+Tier 1 
+It is assumed in the Tier 1 method that inputs equal outputs so that settlement soil C stocks do not change in 
+Settlements Remaining Settlements.  
+Tier 2 
+Since defaults are unavailable, Tier 2 requires estimation of country-specific stock change factors.  Equation 
+2.25 in Chapter 2 uses three levels of stock change factor depending on the land use, the management within the 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+land use, and the level of inputs The inventory compiler should define management classes relevant to 
+settlements (such as turf grass); derive stock change factors for land use (FLU) based on the C storage for each 
+class relative to the reference condition which is likely to be native lands.  Management factors (FMG) give 
+flexibility to specify the way land use is managed (such as for sports fields or ornamental use) and input factors 
+(FI) can be used to represent the influence of management on C of input such as watering or fertilization 
+practices.   
+Tier 3  
+Tier 3 requires some combination of detailed process models and data gathering, with a sampling strategy and 
+periodic re-sampling, to capture land-use and management effects. See Chapter 2, Section 2.3.3.1 for further 
+discussion.  
+Organic soils 
+Tier 1 
+If soils are drained and the peat is not removed, the emissions can be computed using emission factors for 
+cultivated organic soils, due to deep drainage in settlements similar to croplands. If the peat is removed the 
+carbon should be assumed to be released in the year of removal (see Chapter 5, Cropland).  
+Tier 2 
+Emission factors are derived from country-specific experimental data in a Tier 2 approach.  It is good practice 
+for emission factors to be derived for specific settlement management classes and/or a finer classification of 
+climate regions, assuming the new categories capture significant differences in C loss rates.   Additional 
+guidance is given in Chapter 2, Section 2.3.3.1. 
+Tier 3 
+The advice is the same as that given above for mineral soils. 
+8.2.3.3 
+CHOICE OF ACTIVITY DATA 
+Mineral soils 
+Tier 1  
+It is assumed in the Tier 1 method that inputs equal outputs so that settlement soil C stocks do not change in 
+Settlements Remaining Settlements. 
+Tier 2 
+For the Tier 2 level, activity data consist of areas for settlements subdivided by climate, soil type, and /or 
+management classes, as needed, to correspond with the stock change factors described above. Municipality 
+records may be useful for determining the proportion of various management classes (e.g., shopping areas, 
+subdivisions, businesses, parks, schools, etc.), augmented with knowledge of country experts about the 
+approximate distribution of settlement classes (i.e., turf grass, urban woodlands, gardens, refuse areas, barren 
+areas and infrastructure).  Tier 2 approaches may involve a finer stratification of environmental data, including 
+climate regions and soil types, provided the corresponding stock change factors have been developed.   
+Tier 3 
+The activity data for application of dynamic models and/or a direct measurement-based inventory will 
+characterise climate, soil, topographic and management regime, depending on the model or sampling design.   
+Organic soils 
+Tier 1 
+The total area of cultivated organic soils in settlements, stratified by climate region to correspond to Table 5.6 in 
+Chapter 5 or Table 6.3 in Chapter 6, is needed. A default can be obtained by multiplying total urban area, as a 
+function of climate region, by the area proportion of greenspace from Table 8.3 above. 
+Tier 2 
+Tier 2 approaches for organic soils will involve more detailed specification of management classes, and possibly 
+finer division of those classes by drainage or climate regions.  Stratification should be based on empirical data 
+demonstrating significant differences in C loss rates for the proposed classes. 
+Tier 3 
+The advice is the same as that given above for mineral soils. 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.17 
+8.2.3.4 
+UNCERTAINTY ASSESSMENT 
+Uncertainties in soil C inventories are related at Tiers 1 and 2 to representation of 1) land-use and management 
+activities; 2) mineral soil reference C stocks; and 3) stock change and emission factors. Tier 3 uncertainties 
+depend on model structure and parameters, or measurement error/sampling strategy. Uncertainty is generally 
+reduced by more sampling and use of a higher Tier estimates incorporating country-specific information.   
+Uncertainties in reference C stocks and emission factors are indicated in Table 2.3 in Chapter 2; Tables 5.5 and 
+5.6 in Chapter 5; and Tables 6.2 and 6.3 in Chapter 6. Uncertainties in land-use and management data will need 
+to be assessed by the inventory compiler, and combined with uncertainties for the default factors and reference C 
+stocks using an appropriate method, such as simple error propagation equations.  If using aggregate land-use area 
+statistics for activity data (e.g., FAO data), the inventory compiler may have to apply a default level of 
+uncertainty for the land area estimates (+50%).  However, it is good practice for the inventory compiler to derive 
+uncertainties from country-specific activity data instead of using a default level.  
+Default reference C stocks for mineral soils and emission factors for organic soils can have high uncertainties, 
+when applied to specific countries. Defaults represent globally averaged values of land-use and management 
+impacts or reference C stocks that may vary from region-specific values (Powers et al., 2004; Ogle et al., 2006). 
+Bias can be reduced by deriving country-specific factors using Tier 2 method or by developing a Tier 3 country-
+specific estimation system. The underlying basis for higher Tier approaches will be research in the country or 
+neighbouring regions that address the effect of land use and management on soil C.  It is good practice to 
+minimize bias by accounting for significant within-country differences in land-use and management impacts, 
+such as variation among climate regions and/or soil types, even at the expense of reduced precision in the factor 
+estimates (Ogle et al., 2006).  Bias is more problematic for reporting stock changes because it is not necessarily 
+captured in the uncertainty range (i.e., the true stock change may be outside of the reported uncertainty range if 
+there is significant bias in the factors).  
+Precision in land-use activity statistics may be improved through a better national system, such as developing or 
+extending a ground-based survey with additional sample locations and/or incorporating remote sensing to 
+provide additional coverage.  It is good practice to design a classification that captures the majority of land-use 
+and management activity with a sufficient sample size to minimize uncertainty at the national scale. 
+For Tier 2 methods, country-specific information is incorporated into the inventory analysis for purposes of 
+reducing bias. For example, Ogle et al. (2003) utilized country-specific data to construct probability density 
+functions for US specific factors, activity data and reference C stocks for agricultural soils. It is good practice to 
+evaluate dependencies among the factors, reference C stocks or land-use and management activity data.  In 
+particular, strong dependencies are common in land-use and management activity data because management 
+practices tend to be correlated in time and space.  
+Tier 3 models are more complex and simple error propagation equations may not be effective at quantifying the 
+associated uncertainty in resulting estimates.  Monte Carlo analyses are possible (Smith and Heath, 2001), but 
+can be difficult to implement if the model has many parameters (some models can have several hundred 
+parameters) because joint probability density functions must be constructed quantifying the variance as well as 
+covariance among the parameters.  Other methods are also available such as empirically-based approaches 
+(Monte et al., 1996), which use measurements from a monitoring network to statistically evaluate the 
+relationship between measured and modelled results (Falloon and Smith, 2003).  In contrast to modelling, 
+uncertainties in measurement-based Tier 3 inventories can be determined directly from the sample variance, 
+measurement error and other relevant sources of uncertainty. 
+8.3 
+LAND CONVERTED TO SETTLEMENTS 
+Conversion of Forest Land, Cropland, Grassland etc. to Settlements, leads to emissions and removals of 
+greenhouse gases.  Methods for estimating change in carbon stocks associated with land-use conversions are 
+explained in Chapters 2, 4, 5 and 6 of this volume. The decision tree (see Figure 1.3 in Chapter 1) and the same 
+basic methods can be applied to estimate change in carbon stocks in Forest Land, Cropland and Grassland 
+converted to Settlements.  
+Depending on the magnitude of carbon stocks in the previous land-use category, land converted to Settlements 
+may experience a relatively rapid loss of carbon in the first year, followed by a more gradual increase in carbon 
+pools subsequently.  Forest Land converted to Settlements, for example, would normally be characterized by this 
+abrupt change followed by a gradual increase in carbon stocks.  If carbon stocks in the previous land use were 
+lower than in settlements, this abrupt transition would not take place in the first year.  For example, abandoned 
+Cropland converted to Settlements would experience only the gradual carbon stock increase and not the initial 
+abrupt transition.   
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+The methods described can have sometimes been simplified by estimating the effects of conversion in a single 
+year followed by application of the methods described above for Settlements Remaining Settlements. However, 
+where this is done, the land area should be kept in the conversion state for the transition period adopted. 
+Otherwise, there are likely to be difficulties with maintaining the consistency of the land-use matrix. 
+Where Approach 1 is used in its simplest form for land area representation (see Chapter 3) and no supplementary 
+information is available that will allow the previous land uses to be inferred, only the total area of settlements 
+will be known as a function of time and the previous land uses will not be known. Under these circumstances, 
+the biomass stocks before the conversion (Bbefore) cannot be estimated and Equation 2.16 cannot be applied. In 
+this case land converted to Settlements will have to be estimated with land remaining Settlements and the 
+emissions or removals from conversion to Settlements as well as other land-use changes will be represented as 
+step changes in the remaining categories rather than properly allocated to the conversions consistent with the 
+land-use change matrix. In effect transitions become step changes across the landscape. This makes it 
+particularly important to achieve coordination among each sector to ensure the total land base is remaining 
+constant over time, given that some land area will be lost and gained within individual sectors during each 
+inventory year due to land-use change. 
+8.3.1 
+Biomass 
+8.3.1.1 
+CHOICE OF METHOD 
+The general approach for calculating the immediate change in live biomass accruing from the conversion to 
+Settlements is represented by Equations 2.15 and 2.16 in Chapter 2.  The mean annual biomass increment 
+resulting from the transition is represented by the difference between the biomass in the settlement land-use 
+category immediately after the transition (BAfter) and the biomass in the previous category (BBefore).   
+This method follows the approach in the Guidelines for other land-use transitions:  the annual change in carbon 
+stock in biomass due to land conversion is estimated (using Equation 2.16) by multiplying the area converted 
+annually to settlements by the difference in carbon stocks between biomass in the system prior to conversion 
+(BBefore) and that in the settlements after conversion (BAfter). 
+Tier 1 
+For Tier 1, in the initial year following conversion to the settlement land use, the most conservative approach is 
+to set BAfter to zero, meaning that the process of development of settlements causes carbon stocks to be entirely 
+depleted.   To do this it is necessary to add growth during the year of inventory (∆CG) and subtract loss (∆CL) to 
+obtain the net change in carbon stocks on land converted to Settlements (Equation 2.15). 
+Tier 2 
+At Tier 2, country-specific carbon stocks can be applied to activity data disaggregated to a level of detail adapted 
+to national circumstances. At the higher tiers, the area of each land-use or land cover type converted to another 
+type in a settlement (examples of land use and land cover types are described in Section 8.2) should be recorded, 
+because that area is associated with the amount of carbon both before and after the conversion.   Settlement land-
+use or land cover types are likely to differ in carbon density. 
+Tier 3 
+At Tier 3, countries can use the stock difference method (Equation 2.8) or other advanced estimation methods 
+that may involve complex models and highly disaggregated activity data including, if available, more detailed 
+information about BAfter on a country- or biome-specific basis. 
+8.3.1.2 
+CHOICE OF EMISSION/REMOVAL FACTORS 
+Tier 1 
+Tier 1 methods require estimates of the biomass of the land use before conversion and after conversion. It is 
+assumed that all biomass is cleared when preparing a site for settlements, thus, the default for biomass 
+immediately after conversion is 0 tonnes  ha-1. Table 8.4 provides default values for biomass before conversion 
+(BBefore). 
+ 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.19 
+TABLE 8.4 
+ DEFAULT BIOMASS CARBON STOCKS REMOVED DUE TO LAND CONVERSION TO SETTLEMENTS 
+Land-use category 
+Carbon stock in biomass before conversion (BBefore) 
+(tonnes C ha-1) 
+Error range # 
+Forest Land 
+See Chapter 4, Tables 4.7 to 4.12 for carbon stocks in a range of forest 
+types by climate regions. Stocks are in terms of dry matter. Multiply 
+values by a carbon fraction (CF) 0.5 to convert dry matter to carbon. 
+See Section 4.3 
+(Land Converted 
+to Forest Land) 
+Grassland 
+See Table 6.4, Chapter 6 for carbon stocks in a range of grassland types 
+by climate regions. 
++ 75% 
+Cropland 
+For cropland containing annual crops:  Use default of 4.7 tonnes of carbon 
+ha-1 or 10 tonnes of dry matter ha-1 (see Chapter 6, Section 6.3.1.2) 
+± 75%. 
+# Represents a nominal estimate of error, equivalent to two times standard deviation, as a percentage of the mean. 
+ 
+Tiers 2 and 3 
+Tier 2 methods replace the default data by country-specific data and Tier 3 involves detailed modelling or 
+measurement data relevant to the conversion processes. 
+8.3.1.3 
+CHOICE OF ACTIVITY DATA 
+Activity data for estimating changes in biomass on land areas converted to Settlements can be obtained, 
+consistent with the general principles set out in Chapter 3, through national statistics, from forest services, 
+conservation agencies, municipalities, survey and mapping agencies. Cross-checks should be made to ensure 
+complete and consistent representation of annually converted lands in order to avoid possible omissions or 
+double counting. Data should be disaggregated according to the general climatic categories and settlements types. 
+Tier 3 inventories will require more comprehensive information on the establishment of new settlements, with 
+refined soil classes, climates, and spatial and temporal resolution. All changes having occurred over the number 
+of years selected as the transition period should be included with transitions older than the transition period 
+(default 20 years) reported as a subdivision of Settlements Remaining Settlements. 
+Higher tiers require greater detail but the minimum requirement for inventories to be consistent with the IPCC 
+Guidelines is that the areas of Forest Land conversion can be identified separately. This is because forest will 
+usually have higher carbon density before conversion. This implies that at least partial knowledge of the land-use 
+change matrix, and therefore, where Approaches 1 and 2 from Chapter 3 are used to estimate land area, 
+supplementary surveys may be needed to identify the area of land being converted from Forest Land to 
+Settlements. As pointed out in Chapter 3, where surveys are being set up, it will often be more accurate to seek 
+to establish directly, areas undergoing conversion, than to estimate these from the differences in total land areas 
+under particular uses at different times.  
+Step by step method for implementation 
+Tier 1 
+Use default values for Bbefore from respective land-use category chapter (Forest Land, Grassland, etc) and assume 
+that BAfter equals zero in Equation 2.16.    
+Step 1: Apply Equation 2.16 to each land-use type converted to settlement lands; 
+Step 2: Add up the biomass changes over all the land-use types; and  
+Step 3: Multiply the result by 44/12 to obtain the amount of CO2 equivalents emitted (the sum obtained in Step 
+2 will be a negative number) from the land conversion. 
+Tier 2 
+The typical steps to implement a Tier 2 method are: 
+Step 1: Use the methods described in Chapter 3, including where relevant cadastral and planning records or the 
+analysis of remote sensing images (or both), to estimate the change in area between the present and the last area 
+survey.  
+Step 2: Define — as a first approximation — settlement land-use types on the basis of the proportion of 
+greenspace.  For instance, three tentative land-use classes could be:  Low (less than 33% greenspace), Medium 
+(from 33 to less than 66% greenspace), and High (more than 66% greenspace).  Each one of those classes can be 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+assigned with an average carbon content, obtained from the species surveyed in similarly defined classes for 
+accounting biomass changes in Section 8.2. 
+Step 3: Draw a land-use conversion area matrix for the land-use transitions defined in Step 2. 
+Step 4: Estimate with equations the biomass stocks of the defined land-use types and the converted land-use 
+types (to obtain BBefore and BAfter), apply Equation 2.16 to each non-empty cell of the land-use change matrix, add 
+up the changes in carbon stocks, and multiply the sum by 44/12 to obtain the emission/removal of CO2 
+equivalents. 
+Step 5: Calculate ∆CG, using either Method A or Method B in Section 8.2.1, Settlements Remaining Settlements 
+(the choice of method will depend on the applicability of the emission and removal factors, as well as the 
+availability of activity data).  This will be used in Equation 2.15. 
+Step 6: Calculate ∆CL, using Methods as described in Section 8.2.1.3, Settlements Remaining Settlements.   
+Step 7: Calculate the change in carbon stocks in live biomass resulting from the land-use transition to 
+Settlements, accounting for the biomass increment, biomass losses, and biomass change due to land-use 
+conversion as given in Equation 2.15. 
+8.3.1.4 
+UNCERTAINTY ASSESSMENT 
+See guidance in Section 8.2.1.4. 
+8.3.2 
+Dead organic matter 
+Methods are provided for two types of DOM pools: 1) dead wood and 2) litter. Chapter 1of this report provides 
+definitions of these pools and Section 8.2.2 DOM in the context of settlements. 
+Some land converted to Settlements will not have an abrupt transition (e.g., Cropland that is abandoned and 
+converted to Settlements).  In this case, Phase 1 methods will not be appropriate and there will be a gradual 
+transition in DOM pools to a new equilibrium.  When this type of conversion occurs, the whole conversion 
+accounting can be treated with Phase 2 methods.   
+8.3.2.1 
+CHOICE OF METHOD 
+Estimation of changes in carbon stocks in DOM requires separate estimates of changes in stocks of dead wood 
+and changes in litter stocks (refer to Equation 2. 17 of Chapter 2). The decision tree in Figure 2.3 in Chapter 2 
+helps select the appropriate tier to use.   
+Tier 1 
+Tier 1 default assumes all carbon contained in dead wood and litter is lost during conversion and does not take 
+account of any subsequent accumulation.  
+Tier 2 
+Tier 2 approaches require greater disaggregation than that used in Tier 1.  The immediate and abrupt carbon 
+stock change in dead wood due to conversion of other lands to Settlements under Tiers 2 and 3 will be estimated 
+using Equation 2.23, where Co   is set to zero and Ton is set at 1 year.  Tier 2 assumes a linear change function, 
+although during the transition period, pools that gain or lose C often have a non-linear loss or accumulation 
+curve that can be represented at Tier 3 through successive transition matrices.  
+For the calculation of changes in dead wood and litter carbon during the transition phase, two methods are 
+suggested:  
+Method 1 (Also called the Gain-Loss Method, Equation 2.18 in Chapter 2):  This method involves estimating 
+the area of each type of land conversion and the average annual transfer into and out of dead wood and litter 
+stocks. This requires an estimate of area under land converted to Settlements according to different climate or 
+ecological zones or settlement types, disturbance regime, management regime, or other factors significantly 
+affecting dead wood and litter carbon pools and the quantity of biomass transferred into dead wood and litter 
+stocks as well as the quantity of biomass transferred out of the dead wood and litter stocks on per hectare basis 
+according to different settlement types.  
+Method 2 (Also called the Stock-Difference Method, Equation 2.19 in Chapter 2):  This method involves 
+estimating the area of land converted to Settlements and the dead wood and litter stocks at two periods of time, t1 
+and t2. The dead wood and litter stock changes for the inventory year are obtained by dividing the stock changes 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.21 
+by the period (years) between two measurements. The stock-difference method is feasible for countries, which 
+have periodic inventories.  
+Tier 3 
+For Tier 3, countries should develop their own methodologies and parameters for estimating changes in DOM. 
+These methodologies may be derived from Methods 1 or 2 specified above, or may be based on other approaches.  
+The method used needs to be clearly documented. A Tier 3 approach should use or be consistent with the true 
+shapes of the loss or accumulation curves. These curves should be applied to each cohort that is under transition 
+during the reporting year to estimate the annual change in the dead wood and litter carbon pools. 
+8.3.2.2 
+CHOICE OF EMISSION/REMOVAL FACTORS 
+Carbon fraction:  The carbon fraction of dead wood and litter is variable and depends on the stage of 
+decomposition.  Wood is much less variable than litter and a value of 0.50 tonne C (tonne d.m.)-1 can be used for 
+the carbon fraction.  Litter values in settlements range from 0.30 to 0.50.  When country- or ecosystem-specific 
+data are not available we suggest a carbon fraction value of 0.40 for litter. 
+Tier 1 
+Dead wood and litter carbon stocks in lands converted to Settlements are assumed all lost during the conversion 
+and there is assumed to be no subsequent accumulation of new DOM in the settlements after conversion. Default 
+values for forest litter prior to conversion are provided in Table 2.2 in Chapter 2 but there are no default values 
+available for dead wood or litter in most systems.  Countries should seek estimates and use local data from 
+forestry and agricultural research institutes to provide best estimates of the dead wood and litter in the initial 
+system prior to conversion, or use the defaults in Table 2.2 in the absence of other information. Carbon stocks in 
+litter and dead wood pools in all non-forest land categories are assumed to be zero.  Countries experiencing 
+significant conversions of other ecosystems to settlements are encouraged to develop domestic data to quantify 
+this impact and report it under Tier 2 or 3 methodologies. 
+Tier 2 
+It is good practice to use country-level data on dead wood and litter for different settlements categories, in 
+combination with default values if country or regional values are not available for some conversion categories. 
+Country-specific values for the transfer of carbon from live trees and grasses that are harvested to harvest 
+residues and decomposition rates, in the case of the Gain-Loss Method, or the net change in DOM pools in the 
+case of the Stock-Difference Method, can be derived from domestic expansion factors, taking into account the 
+settlements type, the rate of biomass utilization, harvesting practices and the amount of damaged vegetation 
+during harvesting operations. Country-specific values for disturbance regimes should be derived from scientific 
+studies.  
+Tier 3 
+National level disaggregated DOM carbon estimates should be determined as part of a national inventory, 
+national level models, or from a dedicated greenhouse gas inventory programme, with periodic sampling 
+according to the principles set out in Chapter 3, Annex 3A.3. Inventory data can be coupled with modelling 
+studies to capture the dynamics of all settlements carbon pools.  
+Tier 3 methods provide estimates of greater certainty than lower tiers and feature a greater link between 
+individual carbon pools. Some countries have developed disturbance matrices that provide a carbon reallocation 
+pattern among different pools for each type of disturbance. Other important parameters in a modelled DOM 
+carbon budget are decay rates, which may vary with the type of wood and microclimatic conditions, and site 
+preparation procedures (e.g., controlled broadcast burning, or burning of piles).  
+8.3.2.3 
+CHOICE OF ACTIVITY DATA 
+The activity data should be the same as that used for biomass and described in Section 8.3.1.3 
+Step-by-step summary of method for estimating changes in DOM stocks  
+Tier 1 
+Step 1: Determine the categories of land conversion to be used in this assessment and the representative area of 
+conversion by year. Area data should be obtained using the methods described in Chapter 3. Higher tiers require 
+greater detail but the minimum requirement for inventories to be consistent with the IPCC Guidelines, when 
+using Tier 1, is that the areas of forest conversion are identified separately.  
+Step 2: For each activity category, determine the dead wood and litter stocks (separately) per hectare prior to 
+conversion (see Table 2.2 in Chapter 2 for default values).  
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Step 3: For each activity category, determine the stocks in the dead wood and litter (separately) per hectare for 
+the particular type of settlement.  For Tier 1, dead wood and litter stocks following conversion are assumed to be 
+equal to zero.   
+Step 4: Calculate the net change of dead wood and litter stocks per hectare for each type of conversion by 
+subtracting the initial stocks from the final stocks.  A negative value indicates a loss in the stock (Equation 2.23). 
+Step 5: Convert the net change in the individual stock to units of tonnes C ha-1 by multiplying the net stock 
+change by the carbon fraction of that stock (0.40 tonne C (tonne d.m.)-1 for litter and 0.50 tonne C (tonne d.m.)-1 
+for dead wood). 
+Step 6: Multiply the net change in each C stock by the area converted during the reporting year. 
+ 
+Tiers 2 and 3 
+Step 1: Determine the categories of land conversion to be used in this assessment and the representative area of 
+conversion by year. When calculating for lands in the transition phase, representative areas for each category at 
+different stages of conversion are required.  Higher tiers require greater detail but the minimum requirement for 
+inventories to be consistent with the IPCC Guidelines is that the areas of forest conversion are identified 
+separately.  
+Step 2: Abrupt changes  
+• 
+Determine the activity categories to be used in this assessment and the representative areas. The activity 
+category consists of definitions of the type of conversion and, if applicable, the nature of management of the 
+previous land cover and settlements management, for example:  ‘conversion of logged tropical seasonal 
+forest to cattle pasture using exotic grasses’.  Area data should be obtained using the methods described in 
+Chapter 3.  
+• 
+For each activity category, determine the dead wood and litter stocks (separately) per hectare prior to 
+conversion.  
+• 
+For each activity category, determine the stocks in the dead wood and litter (separately) per hectare 
+following one year of conversion to Settlements.   
+• 
+Calculate the net change of dead wood and litter stocks per hectare for each type of conversion by 
+subtracting the initial stocks from the final stocks.  A negative value indicates a loss in the stock. 
+• 
+Convert the net change in the individual stock to units of tonnes C ha-1 by multiplying the net stock change 
+by the carbon fraction of that stock (0.40 tonne C (tonne d.m.)-1 for litter and 0.50 tonne C (tonne d.m.)-1 for 
+dead wood). 
+• 
+Multiply the net change in each C stock by the area converted during the reporting year. 
+Step 3: Transitional changes 
+• 
+Determine the categories and cohorts to be used in this assessment and the representative areas. The 
+category consists of definitions of the type of conversion and, if applicable, the nature of management of the 
+previous land cover and settlements type.  Area data should be obtained using the methods described in 
+Chapter 3.  
+• 
+Determine the annual change rate for dead wood and litter stocks (separately) by activity type using either 
+the Gain-Loss Method or the Stock-Difference Method (see below) for each cohort of lands that are 
+currently in the transition phase between conversion and a new steady-state. 
+• 
+Determine the dead wood and litter stocks in the cohort during the previous year (usually taken from the 
+previous inventory). 
+• 
+Calculate the change in dead wood and litter stocks for each cohort by adding the net change rate to the 
+previous year’s stocks.   
+• 
+Convert the net change in the individual stock to units of tonnes C ha-1 by multiplying the net stock change 
+by the carbon fraction of that stock (0.40 tonne C (tonne d.m.)-1 for litter and 0.50 tonne C (tonne d.m.)-1 for 
+dead wood). 
+• 
+Multiply the net change in each C stock by the area in each cohort for the reporting year. 
+ 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.23 
+Gain-Loss Method 
+• 
+Determine the average annual inputs of dead wood and litter (separately).  
+• 
+Determine the average annual losses of dead wood and litter (separately).  
+• 
+Determine the net change rate in dead wood and litter by subtracting the outputs from the inputs.      
+Stock-Difference Method 
+• 
+Determine the inventory time interval, the average stocks of dead wood and litter at the initial inventory, and 
+the average stocks of dead wood and litter at the final inventory.   
+• 
+Use these figures to calculate the net change in dead wood and litter stocks by subtracting the initial stock 
+from the final stock and dividing this difference by the number of years between inventories.  A negative 
+value indicates a loss in the stock.   
+• 
+A Tier 3 approach requires country- or region-specific expansion factors.  There are no default expansion 
+factors for Tier 2, and the best available local data should be used (and documented). 
+8.3.2.4 
+UNCERTAINTY ASSESSMENT  
+Uncertainty at Tier 1 is the same as the uncertainty in the carbon stock on the area of land subject to annual 
+conversion.  DOM changes are subsequently assumed to be zero, and no associated uncertainty is needed at Tier 
+1 after the initial transition.  For Tiers 2 and 3 estimates, sources of uncertainty include the degree of accuracy in 
+land area estimates, carbon increment and loss, carbon stocks, amount of carbon burned, and expansion factor 
+terms.  Area data and estimates of uncertainty should be obtained using the methods in Chapter 3 which provide 
+default uncertainties associated with the different approaches.  Uncertainties associated with carbon stocks and 
+other parameter values are likely to be at least a factor of three unless country-specific data are available from 
+well designed surveys. 
+8.3.3 
+Soil carbon 
+Land conversion to Settlements occurs with development and expansion of cities and towns on former Forest 
+Land, Cropland, Grassland, Wetlands, and Other Land.  These conversions change soil C stocks due to 
+mechanical disturbance of the soil; soil burial or collection during development; type and amount of vegetated 
+cover; in addition to the new management regime, particularly with respect to nutrient and water applications. 
+General information and guidelines for estimating changes in soil C stocks are found in Chapter 2, Section 2.3.3 
+(including equations).  The total change in soil C stocks for Land Converted to Settlements is computed using 
+Equation 2.24, which combines the change in soil organic C stocks for mineral soils and organic soils; and stock 
+changes associated with soil inorganic C pools (for Tier 3 only). 
+To account for changes in soil C stocks associated with land converted to Settlements, countries need to have 
+estimates of the areas of land converted to Settlements during the inventory time period, stratified by climate 
+region and soil type. If aggregate land-use data are used and specific conversions among uses are not known, soil 
+organic C (SOC) stock changes can still be computed using the methods provided in Settlements Remaining 
+Settlements, but the land-base area will then probably be different for settlements in the current year relative to 
+the initial year in the inventory, and the dynamics of the transition will be less well represented. Chapter 3 
+(Consistent representation of lands) emphasises the importance of maintaining consistency in total land area. 
+8.3.3.1 
+CHOICE OF METHOD 
+Inventories can be developed using Tier 1, 2 or 3 approaches, with each successive Tier requiring more detail 
+and resources than the previous one.  It is also possible that countries may use different tiers to prepare estimates 
+for the separate sub-categories of soil C (i.e., soil organic C stocks changes in mineral soils and organic soils, 
+and stock changes associated with soil inorganic C pools, are estimated at Tier 3). Decision trees are provided 
+for mineral soils (Figure 2.4) and organic soils (Figure 2.5) in Section 2.3.3.1 (Chapter 2) to help selection of the 
+appropriate tiers. 
+Mineral soils 
+Tier 1 
+Change in soil organic C stocks can be estimated for mineral soils with land-use conversion to Settlements using 
+Equation 2.25 in Chapter 2.  For Tier 1, the initial (pre-conversion) soil organic C stock (SOC(0-T)) and C stock in 
+the last year of the inventory time period (SOC0) are determined from the common set of reference soil organic 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+C stocks (SOCREF) and default stock change factors (FLU, FMG, FI). Areas of exposed bedrock in Forest Land or 
+the previous land use are not included in the soil C stock calculation (assume a stock of 0).  Annual rates of 
+emissions (source) or removals (sink) are calculated as the difference in stocks (over time) divided by the time 
+dependence (D) of the stock change factors (default is 20 years).  
+Tier 2 
+The Tier 2 approach for mineral soils also uses Equation 2.25 in Chapter 2, but involves country- or region-
+specific reference C stocks and/or stock change factors and possibly more disaggregated land-use activity and 
+environmental data.  Removal, translocation or burial of soil C during development is a particular issue for 
+settlements.  To the extent that soil C is not decomposed during the development phase and resides deeper in the 
+profile, is translocated to another area, or possibly used as a commodity. It is good practice for Tier 2 stock 
+change factor to be adjusted to reflect the reduction in loss of C to the atmosphere as CO2. 
+Tier 3 
+Tier 3 methods will involve more detailed and country-specific models and/or measurement-based approaches 
+along with highly disaggregated land-use and management data. It is good practice that Tier 3 approaches for 
+estimating soil C change from land-use conversions to Settlements, employ models, data sets and/or monitoring 
+networks that are capable of representing transitions over time from other land uses, including Forest Land, 
+Grassland, Cropland or other lands. Tier 3 methods need to be integrated with estimates of biomass removal and 
+the post-clearance treatment of plant residues (including woody debris and litter), as variation in the removal and 
+treatment of residues (e.g., burning, site preparation) will affect C inputs to soil organic matter formation and C 
+losses through decomposition and combustion. Models should be validated with independent observations from 
+country- or region-specific field locations that are representative of the interactions of climate, soil and 
+management on post-conversion change in soil C stocks. 
+Organic soils 
+Tiers 1 and 2 
+Land converted to Settlements on organic soils within the inventory time period is treated the same as 
+Settlements Remaining Settlements. Carbon losses are computed using Equation 2.26 in Chapter 2. Additional 
+guidance on Tiers 1 and 2 approaches are given in Section 8.2.3.1. 
+Tier 3 
+As with mineral soils, a Tier 3 approach will involve country-specific models and/or measurement-based 
+approaches along with highly disaggregated land-use and management data. 
+8.3.3.2 
+CHOICE OF STOCK CHANGE AND EMISSION FACTOR 
+Mineral soils 
+Tier 1 
+Default reference C stocks are found in Table 2.3 of Chapter 2, and stock change factors for previous land uses 
+can be found in the relevant Chapters (for Forest Land in Section 4.2.3.2, Cropland in 5.2.3.2, Grassland in 
+6.2.3.2, and Other Land in 9.3.3.2). Default stock change factors for land use after conversion (Settlements) are 
+not needed for the Tier 1 method for Settlements Remaining Settlements because the default assumption is that 
+inputs equal outputs and therefore no net change in soil carbon stocks occur once the settlement is established. 
+Conversions, however, may entail net changes and it is good practice to use the following assumptions: 
+(i) 
+for the proportion of the settlement area that is paved over, assume product of FLU, FMG and FI is 
+0.8 times the corresponding product for the previous land use (i.e., 20% of the soil carbon relative 
+to the previous land use will be lost as a result of disturbance, removal or relocation); 
+(ii) 
+for the proportion of the settlement area that is turfgrass, use the appropriate values for improved 
+grassland from Table 6.2, Chapter 6; 
+(iii) for the proportion of the settlement area that is cultivated soil (e.g., used for horticulture) use the 
+no-till FMG values from Table 5.5 (Chapter 5) with FI equal to 1; and  
+(iv) for the proportion of the settlement area that is wooded assume all stock change factors equal 1.  
+Tier 2 
+Estimation of country-specific stock change factors is probably the most important development associated with 
+the Tier 2 approach.  Differences in soil organic C stocks among land uses are computed relative to a reference 
+condition, using land-use factors (FLU).  Input factor (FI) and management factor (FMG) are then used to further 
+refine the C stocks of the settlement management classes.  Additional guidance on how to derive these stock 
+change factors is given in Settlements Remaining Settlements, Section 8.2.3.2.  See the appropriate section for 
+specific information regarding the derivation of stock change factors for other land-use sectors (Forest Land in 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.25 
+Chapter 4, Cropland in Chapter 5, Grassland in Chapter 6, and Other Land in Chapter 9). Reference C stocks can 
+also be derived from country-specific data in a Tier 2 approach and should of course be consistent across the 
+land uses (i.e., Forest Land, Cropland, Grassland, Settlements, Other Land), and therefore coordinated among the 
+various teams conducting soil C inventories for AFOLU. 
+Tier 3 
+Constant emission rate factors per se are less likely to be estimated in favor of variable rates that more accurately 
+capture land-use and management effects.  See Chapter 2, Section 2.3.3.1 for further discussion. 
+Organic soils 
+Tiers 1 and 2 
+Land converted to Settlements on organic soils within the inventory period is treated the same as Settlements 
+Remaining Settlements.  Tier 2 emission factors are derived from country- or region-specific data; additional 
+guidance is given in Section 8.2.3.2. 
+Tier 3  
+Constant emission rate factors per se are less likely to be estimated in favor of variable rates that more accurately 
+capture land-use and management effects.  See Chapter 2, Section 2.3.3.1 for further discussion. 
+8.3.3.3 
+CHOICE OF ACTIVITY DATA  
+Mineral soils 
+Tiers 1 and 2 
+The amount of land converted to Settlements, stratified by climate region and soil type, is needed to estimate the 
+appropriate stocks at the Tier 1 level. This can be based on overlays with suitable climate and soil maps and 
+spatially-explicit data of the location of land conversions. Detailed descriptions of the default climate and soil 
+classification schemes are provided in Chapter 3. In the absence of specific information, default area within the 
+settlements that is paved over should be estimated as the non-greenspace proportion of the total area, using the 
+data in Table  8.3, and the same Table can be used to partition the greenspace area into wooded areas and non-
+wooded areas. The latter may be assumed all to be turfgrass unless data are available on the area otherwise 
+cultivated. 
+Tier 3 
+For application of dynamic models and/or a direct measurement-based inventory in Tier 3, similar or more 
+detailed data on the combinations of climate, soil, topographic and management data are needed, but the exact 
+requirements will depend on the model or measurement design.  
+Organic soils 
+Tiers 1 and 2 
+Land converted to Settlements on organic soils within the inventory time period is treated the same as 
+Settlements Remaining Settlements, and guidance on activity data is discussed in Section 8.2.3.3. 
+Tier 3 
+As with mineral soils, Tier 3 approaches will likely require more detailed data on the combinations of climate, 
+soil, topographic and management data, relative to Tier 1 or 2 methods, but the exact requirements will be 
+dependent on the model or measurement design. 
+8.3.3.4 
+UNCERTAINTY ASSESSMENT 
+See guidance in Section 8.2.3.4. 
+8.4 
+COMPLETENESS, TIME SERIES, QA/QC, AND 
+REPORTING 
+8.4.1 
+Completeness 
+It is good practice for soil C inventories to track the changes in total area over time, and if using a Tier 2 or 3 
+approach, the inventory should track areas associated with the major management classes (e.g., turf grass, urban 
+woodlands, gardens, refuse areas, barren areas and infrastructure).  The total area covered by the settlement 
+inventory methodology is the sum of land in Settlements Remaining in Settlements and Land Converted to 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Settlements during the time period. This inventory methodology may not include some settlement areas where 
+greenhouse gas emissions and removals are believed to be insignificant or constant through time because of little 
+or no change in settlement management or no significant change in management inputs. However, countries are 
+encouraged to track through time the total area of land in settlements within country boundaries, keeping 
+transparent records on which portions are used to estimate carbon dioxide emissions and removals. In this case, it 
+is good practice for countries to document and explain the difference in the area that is included in the inventory 
+computations and the total settlement area in the land base.   
+8.4.2 
+Developing a consistent time series 
+To maintain a consistent time series, it is good practice for countries to apply the same inventory methods over 
+the entire reporting time period, including definitions for land-use and settlement systems, area included in a C 
+inventory, and calculation method.  If changes are made, it is good practice to keep transparent records of the 
+changes, and then re-calculate the C stock changes over the entire inventory time period. Guidance on re-
+calculation under these circumstances is given in Volume 1, Chapter 5.  Consistent estimation and reporting also 
+requires common definitions of management activities, climate and soil types across the entire time series for the 
+period of the inventory. 
+8.4.3 
+Inventory Quality Assurance/Quality Control 
+It is good practice to implement quality control checks and external expert review of inventory estimates and 
+data. Specific attention is expected to be paid to country-specific estimates of stock change and emission factors, 
+ensuring that they are based on high quality data and verifiable expert opinion. 
+Specific QA/QC checks across the settlements methodology include: 
+Settlements Remaining Settlements: It is good practice for settlement areas to be consistent for reporting of 
+biomass stock and soil stock changes. Settlements may include areas where soil stock changes are accounted for 
+but biomass changes are assumed to be zero (e.g., where non-woody biomass is largely absent), areas where both 
+biomass and soil stocks are changing (e.g., development of a park), and areas where neither biomass nor soil 
+stocks are changing (e.g., infrastructure and barren areas). To increase transparency and eliminate errors, it is 
+good practice to report the total settlement area regardless of whether stocks are changing. 
+Land Converted to Settlements: Aggregate area totals for land converted to Settlements are expected to be the 
+same in the biomass and soils estimations. While biomass and soil pools may be disaggregated to different levels 
+of detail, it is good practice to use the same general categories for disaggregating the area data. 
+For all soil C stock change estimates, it is expected that the total areas will be the same for each climate-soil type 
+combination at the beginning (year(0-T)) and the last year (year(0)) of the inventory time period, unless it has been 
+demonstrated that some portion of the land base has been incorporated into another land-use sector or gained 
+from another sector.  Ultimately, the sum of the entire land base for a country, which includes each sector, must 
+be equal across every year in the inventory time period. 
+8.4.4 
+Reporting and Documentation 
+It is good practice to maintain and archive all information used to produce national inventory estimates including: 
+(i) data sources, databases, data sources for information used to estimate country-specific factors as well as the 
+procedures used to estimate factors; (ii) activity data and definitions used to categorize or aggregate the activity 
+data; and (iii) climate region classifications and soil types (for Tier 1 and Tier 2) must be clearly documented. 
+For Tier 3 approaches using modelling, it is good practice to document the model version and provide a model 
+description, in addition to permanently archiving copies of all model input files, source code and executable 
+programs. 
+Reporting tables and worksheets 
+The categories described in this Chapter can be reported using the reporting tables in Volume 1, Chapter 8. The 
+estimates under the Settlements category can be compared with the reporting categories in the IPCC Guidelines 
+as follows:  
+• 
+Carbon dioxide emissions and removals in woody biomass in Settlements Remaining Settlements to IPCC 
+reporting category 5A and Land Converted to Settlements in IPCC reporting category 5B; and IPCC 
+reporting categories 4E and 4F for non-CO2 gases; 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.27 
+• 
+Carbon dioxide emissions and removals in soils in Settlements Remaining Settlements to IPCC reporting 
+categories 5D and 5E for CO2, and IPCC reporting category 4D for non-CO2 gases; and 
+• 
+Carbon dioxide emissions and removals resulting from land-use conversions to Settlements to IPCC 
+reporting category 5B for biomass, IPCC reporting categories 5D and 5E for soils; and IPCC reporting 
+categories 4D, 4E, and 4F for non-CO2 gases. 
+Worksheets are provided in Annex 1 for calculating greenhouse gases emissions and removals (Tier 1 methods) 
+for Settlements.  
+8.5 
+BASIS FOR FUTURE METHODOLOGICAL 
+DEVELOPMENT 
+Gaps in this methodology exist because sufficient data are not available to quantify all of the pools and fluxes of 
+greenhouse gases in settlements.  Obvious gaps include: 
+• 
+Methodology for estimating emissions of non-CO2 greenhouse gases (N2O and CH4); 
+• 
+Detailed methodology to account for carbon stocks other than live biomass and soils (specifically, dead 
+wood and litter); 
+• 
+Discussion of carbon stocks and fluxes from turfgrass and turf management;  
+• 
+Discussion of carbon stocks and fluxes from gardens and other herbaceous plants; and 
+• 
+A generalized methodology to account for different classes of settled lands, with different amounts of 
+woody and non-woody vegetation and different types of management. 
+Non-CO2 greenhouse gases.  While some evidence exists to support the idea that nitrous oxide fluxes may be 
+enhanced in urban areas relative to the native condition (Kaye et al., 2004), this result likely depends on the 
+native condition (i.e., the climate and region in which the settlement is located) and the management regime 
+typically applied in that settled area.  Additional data are required before conclusions about the impact of 
+settlement on non-CO2 greenhouse gas fluxes can be drawn. 
+Dead wood and litter.  Dead wood is a class variously composed of fallen or pruned branches or trees, or dead 
+standing trees not yet replaced with live individuals.  This dead wood may be burned or disposed of as solid 
+waste, used for composting, left to decay either in-site or off-site.  This material is treated in this methodology as 
+a loss from the live biomass term.  Because dead wood is likely to be carried off-site in settlements (rather than 
+left on-site to decay as in forests), a more detailed methodology developed in the future might account for the 
+proportion of dead wood taken to landfills, disposed of in compost piles, burned, or left on-site to decay.  The 
+portion taken to landfills or composted might be treated as harvested wood products (HWP) or as waste, both of 
+which are treated in other sections of the Guidelines. 
+Turfgrass and turf management.  Turfgrass biomass consists of roots, stubble, thatch, and above-ground 
+components.  Though estimates of turfgrass productivity have been published (Falk, 1976; Falk, 1980; Qian et 
+al., 2003), grass decomposes quickly and there is little information about the overall accumulation of biomass in 
+the longer-lived components of turf biomass.  Turfgrass allocation to the above-ground and below-ground 
+components also depends on the management and mowing regime.  Because of the lack of generalizable 
+information on this topic, as well as the lack of activity data quantifying the area covered by turfgrass in 
+settlements, there is currently no detailed methodology describing carbon removed by turf systems.  A more 
+detailed methodology would require additional information on turf productivity, turfgrass turnover, and 
+allocation to different plant components as it varies with management regime.  Of course, the activity data 
+required to implement this methodology would include information on management regimes and the proportion 
+of settlements covered by turfgrass. 
+Gardens and other herbaceous plants.  Similar to the situation with turfgrass, information does not exist 
+describing the annual biomass accumulation and allocation of garden plants to different above-ground and 
+below-ground parts.  Similarly, information is not available describing the variation in plant productivity with 
+management regime.  Activity data required to implement a more detailed methodology would include 
+information on management regimes and the proportion of settlement area covered by this type of vegetation.  
+These are mainly garden plants, so sampling them in private gardens presents the additional problem of their 
+likely disturbance and consequent denial of access to them (cf. Jo and McPherson, 1995). 
+Land classes.  A more detailed methodology would benefit from a consistent set of definitions of land classes 
+within settlements, that could be applied to any country regardless of its climate, native vegetation, or typical 
+settlement regime.  This would make settlements parallel to other land uses – Forest Land, Grassland, Cropland, 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.28 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Wetlands – which are easily defined based on a set of measurable and objective parameters.  Some research has 
+been applied in this direction (Theobald, 2004), but current classifications are inconsistent.  While the rate of 
+carbon sequestration per unit of tree crown cover is fairly consistent, for example, the overall rate of carbon 
+storage per unit of settlement area depends entirely on the relative amounts of tree and turfgrass cover within that 
+settlement.  This land classification would be part of the set of activity data collected by countries, and the 
+detailed methodology could be developed and applied consistently based on those land cover data.  This type of 
+land-use classification would also enable countries to account for changes in carbon storage resulting from 
+management changes within areas broadly classified as settlements.  For example, when vacant plots are 
+developed, the adventitious vegetation remaining in the non-built areas might be replaced with landscape species 
+differing in ability to store carbon. 
+ 
+References 
+Akbari, H. (2002). Shade trees reduce building energy use and CO2 emissions from power plants. Environmental 
+Pollution 116:S119-S124. 
+Armentano, T.V. and Menges, E.S.  (1986). Patterns of change in the carbon balance of organic soil-wetlands of 
+the temperate zone. Journal of Ecology 74:755-774. 1986. 
+Brack, C.L. (2002). Pollution mitigation and carbon sequestration by an urban forest. Environmental Pollution 
+116:S195-S200. 
+Cairns, M.A., Brown, S., Helmer, E.H. and Baumgardner, G.A. (1997). Root biomass allocation in the world's 
+upland forests. Oecologia 111:1-11. 
+Crane, P. and Kinzig, A.  (2005). Nature in the metropolis. Science 308:1225-1225. 
+Elvidge, C.D., Milesi, C., Dietz, J.B., Tuttle, B.T., Sutton, P.C., Nemani, R. and Vogelmann, J.E. (2004). U.S. 
+constructed area approaches the size of Ohio. EOS - Transactions of the American Geophysical Union 
+85:233-234. 
+Falk, J. (1980). The primary productivity of lawns in a temperate environment. Journal of Applied Ecology 
+17:689-696. 
+Falk, J.H. (1976). Energetics of a suburban lawn ecosystem. Ecology 57:141-150. 
+Gallo, K.P., Elvidge, C.D., Yang, L. and Reed, B.C. (2004). Trends in night-time city lights and vegetation 
+indices associated with urbanization within the conterminous USA. International Journal Of Remote 
+Sensing 25:2003-2007. 
+Goldman, M.B., Groffman, P.M., Pouyat, R.V., McDonnell, M.J. and Pickett, S.T.A. (1995). CH4 uptake and N 
+availability in forest soils along an urban to rural gradient. Soil Biology and Biochemistry 27:281-286. 
+Gregg, J.W., Jones, C.G. and Dawson, T.E. (2003). Urbanization effects on tree growth in the vicinity of New 
+York City. Nature 424:183-187. 
+Idso, C., Idso, S. and Balling, R.J. (1998). The urban CO2 dome of Phoenix, Arizona. Physical Geography 
+19:95-108. 
+Idso, C., Idso, S. and Balling, R.J. (2001). An intensive two-week study of an urban CO2 dome. Atmospheric 
+Environment 35:995-1000. 
+Imhoff, M., Tucker, C., Lawrence, W. and Stutzer, D. (2000). The use of multisource satellite and geospatial 
+data to study the effect of urbanization on primary productivity in the United States. IEEE Transactions 
+on Geoscience and Remote Sensing 38:2549-2556. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental 
+Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.  
+IPCC (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Penman J., Gytarsky M., 
+Hiraishi T., Krug, T., Kruger D., Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F. 
+(Eds).Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+Jenkins, J., Chojnacky, D., Heath, L. and Birdsey, R. (2004). Comprehensive database of diameter-based 
+biomass regressions for North American tree species. General Technical Report NE-, USDA Forest 
+Service Northeastern Research Station, Newtown Square, PA. 
+Chapter 8: Settlements 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.29 
+Jo, H. (2002). Impacts of urban greenspace on offsetting carbon emissions for middle Korea. Journal of 
+Environmental Management 64:115-126. 
+Jo, H. and McPherson, E. (1995). Carbon storage and flux in urban residential greenspace. Journal of 
+Environmental Management 45:109-133. 
+Kaye, J., Burke, I., Mosier, A. and Guerschman, J. (2004). Methane and nitrous oxide fluxes from urban soils to 
+the atmosphere. Ecological Applications 14:975-981. 
+Kaye, J.P., McCulley, R.L. and Burke, I.C. (2005). Carbon fluxes, nitrogen cycling, and soil microbial 
+communities in adjacent urban, native and agricultural ecosystems. Global Change Biology 11:575-587. 
+Koerner, B., and Klopatek, J. (2002). Anthropogenic and natural CO2 emission sources in an arid urban 
+environment. Environmental Pollution 116:S45-S51. 
+Kuchler, A. (1969). Potential natural vegetation. US Geological Survey Map, Sheet 90, Washington, DC. 
+Milesi, C., Elvidge, C.D., Nemani, R.R., and Running, S.W. (2003). Assessing the impact of urban land 
+development on net primary productivity in the southeastern United States. Remote Sensing Of 
+Environment 86:401-410. 
+Nowak, D. (1996). Estimating leaf area and leaf biomass of open-grown deciduous urban trees. Forest Science 
+42:504-507. 
+Nowak, D. and Crane, D. (2002). Carbon storage and sequestration by urban trees in the United States. 
+Environmental Pollution 116:381-389. 
+Nowak, D., Crane, D.E., Stevens, J.C. and Ibarra, M. (2002). Brooklyn's urban forest. General Technical Report 
+NE-290, USDA Forest Service Northeastern Research Station, Newtown Square, PA. 
+Nowak, D.J., Rowntree, R.A., McPherson, E.G., Sisinni, S.M., Kerkmann, E.R. and Stevens, J.C. (1996). 
+Measuring and analyzing urban tree cover. Landscape and Urban Planning 36:49-57. 
+Pouyat, R. and Carreiro, M. (2003). Controls on mass loss and nitrogen dynamics of oak leaf litter along an 
+urban-rural land-use gradient. Oecologia 135:288-298. 
+Pouyat, R., Groffman, P., Yesilonis, I. and Hernandez, L. (2002). Soil carbon pools and fluxes in urban 
+ecosystems. Environmental Pollution 116:S107-S118. 
+Pouyat, R.V., McDonnell, M.J. and Pickett, S.T.A. (1995). Soil characteristics of oak stands along an urban-rural 
+land-use gradient. Journal of Environmental Quality 24:516-526. 
+Qian, Y., Bandaranayake, W., Parton, W., Mecham, B., Harivandi, M. and Mosier, A. (2003). Long-term effects 
+of clipping and nitrogen management in turfgrass on soil organic carbon and nitrogen dynamics:  The 
+CENTURY model simulation. Journal of Environmental Quality 32:1695-1700. 
+Qian, Y. and Follett, R. (2002). Assessing soil carbon sequestration in turfgrass systems using long-term soil 
+testing data. Agronomy Journal 94:930-935. 
+Raturi, S., Islam, K.R., Carroll, M.J. and Hill, R.L. (2004). Thatch and soil characteristics of cool- and warm-
+season turfgrasses. Communications In Soil Science And Plant Analysis 35:2161-2176. 
+Smith, W.B. and Brand, G.J. (1983). Allometric biomass equations for 98 species of herbs, shrubs, and small 
+trees. Research Note NC-299, USDA Forest Service North Central Forest Experiment Station, St. Paul, 
+MN. 
+Theobald, D.M. (2004). Placing exurban land-use change in a human modification framework. Frontiers in 
+Ecology and the Environment 2:139-144. 
+ 

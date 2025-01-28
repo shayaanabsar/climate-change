@@ -1,0 +1,2514 @@
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.1 
+ANNEX 5 
+MAPPING TABLES 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+  
+Contents 
+Annex 5. Relating 2019 Refinement to the 2006 IPCC Guidelines ........................................................... A5.3 
+Chapter 1 Introduction ............................................................................................................................ A5.3 
+Chapter 3 Chemical Industry Emissions ................................................................................................. A5.5 
+Chapter 4 Metal Industry Emissions ....................................................................................................... A5.9 
+Chapter 6 Electronics Industry Emissions ............................................................................................ A5.17 
+Chapter 7 Emissions of Fluorinated Substitutes for Ozone Depleting Substances ............................... A5.22 
+Chapter 8 Other Product Manufacture and Use and Appendix 1 Basis for Future Methodlogical  
+Development ........................................................................................................................ A5.26 
+  
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.3 
+Annex 5. Relating 2019 Refinement to the 2006 IPCC Guidelines 
+This annex provides a road map for relating sections, equations, tables, figures and boxes in the 2019 Refinement 
+to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.  
+Type of Refinement: U – Update, NG – New Guidance, NR – No Refinement. 
+ 
+CHAPTER 1 INTRODUCTION 
+Sections 
+• 
+The sections 1.1 and 1.2 were updated to refine the list of IPPU categories and gases. 
+• 
+The section 1.3 and 1.4 were updated to refine the non-energy use of fuels in new categories. (e.g. Hydrogen 
+Production)   
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Sub-Chapter 1.1  
+U 
+1.1 
+1.1 
+Sub-Chapter 1.2 
+Definition of industrial process and, fuel combustion and 
+fuel transformation emissions 
+U 
+1.2.1 
+ 
+1.2.1 
+Capture and abatement 
+NR 
+1.2.2 
+ 
+1.2.2 
+ 
+Precursors 
+NR 
+1.2.3 
+ 
+1.2.3 
+ 
+Indirect N2O 
+NR 
+1.2.4 
+ 
+1.2.4 
+ 
+International data sources 
+NR 
+1.2.5 
+ 
+1.2.5 
+ 
+Sub-Chapter 1.3 
+U 
+1.3 
+1.3 
+Types of uses 
+U 
+1.3.1 
+ 
+1.3.1 
+Accounting for feedstock and reductant uses of fossil fuels 
+and their CO2 emissions 
+NR 
+1.3.2 
+ 
+1.3.2 
+ 
+Emissions from refinery processes 
+U 
+1.3.3 
+ 
+1.3.3 
+Sub-Chapter 1.4 
+Introduction 
+NR 
+1.4.1 
+1.4.1 
+Scope of methods 
+NR 
+1.4.2 
+ 
+1.4.2 
+Quality control of completeness 
+U 
+1.4.3 
+ 
+1.4.3 
+Reporting and documentation of allocation and QC of 
+completeness 
+U 
+1.4.4 
+ 
+1.4.4 
+Sub-Chapter 1.5 
+NR 
+1.5 
+1.5 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Sub-Chapter 1.4 
+Total feedstock requirement 
+NR 
+1.1 
+1.1 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Table 
+Number 
+2019 Refinement 
+Table Number 
+Sub-Chapter 1.2 
+Industrial Processes and Product Use categories and their 
+possible emissions 
+U 
+1.1 
+1.1 
+Sub-Chapter 1.3 
+Types of use and examples of fuels used for non-energy 
+applications 
+U 
+1.2 
+1.2 
+Sub-Chapter 1.3 
+ 
+ 
+ 
+Verification of completeness of reported CO2 from non-
+energy use of fuels 
+U 
+1.3 
+1.3 
+List of fuels that can be used as chemical feedstock or 
+reductant 
+U 
+1.4 
+1.4 
+Comparison of feedstock supply with requirements 
+implied by production 
+U 
+1.5a 
+1.5a 
+Specific Feedstock Consumption (TJ/Gg) for 
+feedstock/reductants 
+U 
+1.5b 
+1.5b 
+Allocation of CO2 from non-energy use of fossils fuels: 
+IPPU and other Sectors 
+U 
+1.6 
+1.6 
+ 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 Refinement 
+Figure Number 
+Sub-Chapter 1.1 
+Industrial Processes and Product Use categories 
+U 
+1.1 
+1.1 
+Sub-Chapter 1.3 
+General material balance of industrial processes where 
+products are made using hydrocarbon feedstock (size of 
+flows arbitrarily chosen). (Adapted from Neelis et al., 
+2005) 
+NR 
+1.2 
+1.2 
+Sub-Chapter 1.4 
+Flowchart for verification of completeness of accounting 
+for non-energy uses of fuels 
+NR 
+1.3 
+1.3 
+ 
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+Sub-Chapter 1.2 
+Allocation of CO2 emissions to fuel combustion or 
+industrial process emissions 
+NR 
+1.1 
+1.1 
+ 
+ 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.5 
+CHAPTER 3 CHEMICAL INDUSTRY EMISSIONS 
+Sections 
+• 
+The section, 3.3.2.2, is an update of section 3.3.2.2 Chapter 3 Volume 3 of 2006 IPCC Guidelines and 
+should be used instead of the section 3.3.2.2 Chapter 3 Volume 3 of 2006 IPCC Guidelines. 
+• 
+The section, 3.10.1.2, is an update of section 3.10.1.2 Chapter 3 Volume 3 of 2006 IPCC Guidelines and 
+should be used instead of the section 3.10.1.2 Chapter 3 Volume 3 of the 2006 IPCC Guidelines. To remain 
+consistent with the updated terminology in section 3.10.2, the terminology used for the Tier 3 method in this 
+section has been updated to refer to the development and use of an “emission factor method” rather than a 
+“proxy method.” In addition, the lower bound emission factor presented for optimised plants has been 
+updated to reflect the value that in the Annex 3A.1.  
+• 
+The section, 3.10.1.3, is an update of section 3.10.1.3 Chapter 3 Volume 3 of 2006 IPCC Guidelines and 
+should be used instead of the section 3.10.1.3 Chapter 3 Volume 3 of 2006 IPCC Guidelines. This section 
+has been updated to refer to the “emission factor method” rather than the “proxy method. 
+• 
+The section, 3.10.2.1, is an update of section 3.10.2.1 Chapter 3 Volume 3 of 2006 IPCC Guidelines and 
+should be used instead of the section 3.10.1.2 Chapter 3 Volume 3 of 2006 IPCC Guidelines. This section 
+has been updated to clarify the full range of emissions and their sources at fluorochemical production plants. 
+• 
+The section, 3.10.2.2, is an update of section 3.10.2.2 Chapter 3 Volume 3 of 2006 IPCC Guidelines and 
+should be used instead of the section 3.10.2.2 Chapter 3 Volume 3 of 2006 IPCC Guidelines. The section 
+has been updated with guidance for the Tier 3 method that now includes a method to estimate emissions 
+from equipment leaks and more detail to the method for estimating emissions from process vents. New 
+default emission factors are presented for the Tier 1 method. 
+• 
+This section, 3.10.2.3, is an update of section 3.10.2.3 Chapter 3 Volume 3 of the 2006 IPCC Guidelines and 
+should be used instead of the section 3.10.2.3 Chapter 3 Volume 3 of the 2006 IPCC Guidelines. 
+• 
+The section, 3.11, is a new section in the Chapter 3 Volume 3 of the 2019 Refinement. It should be placed 
+after section 3.10 Chapter 3 Volume 3 of the 2006 IPCC Guidelines. 
+• 
+New Annex was introduced - Annex 3A.1 “Default emission factor for section 3.10.2 Emissions from 
+production of fluorinated compounds (other than HFC-23 emissions from HCFC-22 production)”. This 
+annex provides background information for the Tier 1 default emission factors for fluorinated greenhouse 
+gases (GHG) from fluorochemical production, that are provided in section 3.10.2 in the 2019 Refinement to 
+the 2006 IPCC Guidelines. The first section discusses the default emission factors for SF6 and NF3 
+production based on literature search, and the second section discusses the default emission factor estimated 
+from the data reported to the U.S. Greenhouse Gas Reporting Program.   
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement  
+Section Number 
+Sub-Chapter 3.3 
+Choice of emission factors 
+U 
+3.3.2.2 
+3.3.2.2 
+Sub-Chapter 3.10 
+Introduction 
+NR 
+3.10.1.1 
+3.10.1.1 
+Methodological issues 
+U 
+3.10.1.2 
+3.10.1.2 
+Uncertainty assessment 
+U 
+3.10.1.3 
+3.10.1.3 
+Quality assurance/quality control (QA/QC), reporting 
+and documentation 
+NR 
+3.10.1.4 
+3.10.1.4 
+Introduction 
+U 
+3.10.2.1 
+3.10.2.1 
+Methodological issues 
+U 
+3.10.2.2 
+3.10.2.2 
+Uncertainty assessment 
+U 
+3.10.2.3 
+3.10.2.3 
+Quality assurance/quality Control (QA/QC), reporting 
+and documentation 
+NR 
+3.10.2.4 
+3.10.2.4 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement  
+Section Number 
+Sub-Chapter 3.11 
+Hydrogen Production 
+NG 
+- 
+3.11 
+Annex 3A.1 
+Default emission factor for section 3.10.2 Emissions 
+from production of fluorinated compounds (other than 
+HFC-23 emissions from HCFC-22 production) 
+NG 
+- 
+Annex 3A.1 
+ 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Sub-Chapter 3.3 
+No refinements 
+NR 
+- 
+- 
+Sub-Chapter 3.10 
+ 
+ 
+ 
+Tier 1 calculation of HFC-23 from HCFC-22 (produced) 
+using default factor 
+NR 
+3.30 
+3.30 
+Tier 2 calculation of HFC-23 from HCFC-22 (produced) 
+using factor(s) calculated from process efficiencies 
+NR 
+3.31 
+3.31 
+Calculation of HFC-23 emission factor from carbon 
+balance efficiency 
+NR 
+3.32 
+3.32 
+Calculation of HFC-23 emission factor from fluorine 
+balance efficiency 
+NR 
+3.33 
+3.33 
+Tier 3a calculation of HFC-23 emissions from individual 
+process streams (direct method) 
+NR 
+3.34 
+3.34 
+Tier 3b calculation of HFC-23 emissions from 
+individual process streams using a Site- Or Process-
+Specific Emission Factor 
+U 
+3.35 
+3.35 
+Tier 3c calculation of HFC-23 emissions from individual 
+process streams (by monitoring reactor product) 
+NR 
+3.36 
+3.36 
+Tier 3a calculation of ‘instantaneous’ HFC-23 emissions 
+in an individual process stream (direct method) 
+NR 
+3.37 
+3.37 
+Tier 3b calculation of HFC-23 emissions in an 
+individual process stream using a Site- Or Process-
+Specific Emission Factor 
+U 
+3.38 
+3.38 
+Tier 3b calculation of standard emission for 
+Emission Factor-based method 
+U 
+3.39 
+3.39 
+Tier 3c calculation of HFC-23 emissions from an 
+individual facility by in-process measurement 
+NR 
+3.40 
+3.40 
+Tier 1 calculation of production-related emissions 
+NR 
+3.41 
+3.41 
+Tier 2 calculation of production-related emissions 
+using a mass balance approach 
+NG 
+- 
+3.41a 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.7 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Tier 3 summation of production-related emissions 
+from process vents and equipment leaks 
+NG 
+- 
+3.41b 
+Tier 3 direct calculation of production-related 
+emissions from process vents 
+U 
+3.42 
+3.42 
+Tier 3 calculation of production-related emissions 
+from process vents using a Site- Or Process-
+Specific Emission Factor 
+U 
+3.43 
+3.43 
+Tier 3 calculation of emissions from equipment 
+leaks using a Screening Ranges Approach 
+NG 
+- 
+3.43a 
+Tier 3 calculation of emissions from equipment 
+leaks using a Correlation Approach 
+NG 
+- 
+3.43b 
+Tier 3 calculation of a Unit-specific Correlation 
+NG 
+- 
+3.43c 
+Tier 3 calculation of emissions from equipment 
+leaks using a Unit-specific Correlation Approach 
+NG 
+- 
+3.43d 
+Tier 3 calculation of production-related emissions 
+from equipment leaks 
+NG 
+- 
+3.43e 
+Sub-Chapter 3.11 
+ 
+ 
+ 
+All equations are new 
+NG 
+- 
+3.44-3.50 
+ 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Table 
+Number 
+2019 Refinement 
+Table Number 
+Sub-Chapter 3.3 
+ 
+ 
+ 
+Different plant types for the production of HNO3 
+NG 
+- 
+3.3.a 
+Default factors for nitric acid production 
+U 
+3.3 
+3.3 
+Sub-Chapter 3.10 
+ 
+ 
+ 
+HFC-23 default emission factors 
+U 
+3.28 
+3.28 
+Tier 1 default emission factor for fluorochemical 
+production 
+NG 
+- 
+3.28a 
+Representative chemical composition of the emitted mass 
+NG 
+- 
+3.28b 
+Sub-Chapter 3.11 
+All tables are new 
+NG 
+- 
+3.29-3.30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 Refinement 
+Figure Number 
+Sub-Chapter 3.3 
+ 
+ 
+ 
+No refinements 
+NR 
+- 
+- 
+Sub-Chapter 3.10 
+Decision tree for HFC-23 emissions from HCFC-22 
+production (or other similar by-product emissions from 
+fluorochemical production) 
+NR 
+3.16 
+3.16 
+Decision tree for emissions of fluorinated greenhouse 
+gas from fluorochemical production processes, 
+applicable to product, by-product, reactant, and fugitive 
+emissions 
+U 
+3.17 
+3.17 
+Sub-Chapter 3.11 
+ 
+ 
+ 
+All figures are new 
+NG 
+- 
+3.18-3.20 
+ 
+ 
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+Sub-Chapter 3.10 
+Plant measurement frequency 
+NR 
+3.14 
+3.14 
+Sub-Chapter 3.11 
+ 
+ 
+ 
+All boxes are new 
+NG 
+- 
+3.15-3.19 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.9 
+CHAPTER 4 METAL INDUSTRY EMISSIONS 
+Sections 
+• 
+The section, 4.2.2, is an update of section 4.2.2 Chapter 4, Volume 3 of the 2006 IPCC Guidelines and 
+should be used instead of the section 4.2.2 Chapter 4, Volume 3 of the 2006 IPCC Guidelines. 
+• 
+The section, 4.2.3, is an update of section 4.2.3 Chapter 4, Volume 3 of the 2006 IPCC Guidelines and 
+should be used instead of the section 4.2.3 Chapter 4, Volume 3 of the 2006 IPCC Guidelines. 
+• 
+The sub-chapter, 4.4, for primary aluminium production is an update of sub-chapter 4.4, Chapter 4, Volume 
+3 of the 2006 IPCC Guidelines and should be used instead of sub-chapter 4.4, Chapter 4, Volume 3 of the 
+2006 IPCC Guidelines, with only two exceptions: sections 4.4.2.1 and 4.4.2.2 (regarding process CO2 
+emissions from primary aluminium production) have no refinements and these sections in the existing 2006 
+IPCC Guidelines should be used. Updates and new guidance in the rest of sub-chapter 4.4 include: 
+(i) 
+Section 4.4.1 is an updated introduction to GHG emissions from primary aluminium production, 
+including alumina refining via alternative Bayer-Sinter and Nepheline technologies.  
+(ii) 
+Sections 4.4.2.3 to 4.4.2.7 and sections 4.4.3 to 4.4.4 provide updates and new guidance relating to 
+perfluorocarbon (PFC) emissions from primary aluminium production. These include: 
+- 
+Updated technology classes for accounting PFC emissions only.   
+- 
+Updated guidance (including Tier 1-2 default factors and uncertainties) for PFC emissions from 
+‘high voltage anode effects’ (HVAE), previously termed ‘anode effects’ in the 2006 IPCC 
+Guidelines. This includes a new Tier 2b-3b methodology.  
+- 
+New guidance on PFC emissions from ‘low voltage anode effects’ (LVAE), using either default 
+(Tier 1) or facility-specific (Tier 3c) emission factors, based on maturity of literature at cut-off 
+date. 
+- 
+New guidance on accounting PFC emissions during cell start-up (CSU) periods, if not already 
+accounted for in HVAE and LVAE emissions. 
+- 
+New guidance on Total PFC emissions, being the sum of HVAE, LVAE and CSU emissions 
+- 
+A new Tier 3e facility-specific methodology for total PFC emissions by gas measurement.  
+- 
+Corresponding updates relating to Time-Series Consistency, Uncertainty Assessment and QA/QC 
+Reporting and Documentation sections.  
+(iii) 
+Sections 4.4.5 to 4.4.7 provide new guidance relating to GHG emissions from alumina production 
+via alternative Bayer-Sinter and Nepheline processes. It follows on from section 4.4.4, Chapter 4, 
+Volume 3 of the 2006 IPCC Guidelines. 
+• 
+The sub-chapter, 4.8, provides new guidance for primary rare earth (RE) metal production. Since there is no 
+existing guidance in the 2006 IPCC Guidelines, this is an entirely new sub-chapter 4.8 and follows on from 
+sub-chapter 4.7, Chapter 4, Volume 3 of the 2006 IPCC Guidelines. 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Sections 
+Section Title 
+ 
+ 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Sub-Chapter 4.2 
+Introduction 
+NR 
+4.2.1 
+4.2.1 
+Methodological issues 
+U 
+4.2.2 
+4.2.2 
+Choice of method: metallurgical coke production 
+U 
+4.2.2.1 
+4.2.2.1 
+Choice of method: iron and steel production 
+U 
+4.2.2.2 
+4.2.2.2 
+Choice of emission factors 
+U 
+4.2.2.3 
+4.2.2.3 
+Choice of activity data 
+U 
+4.2.2.4 
+4.2.2.4 
+Completeness 
+U 
+4.2.2.5 
+4.2.2.5 
+Developing a consistent time series 
+NR 
+4.2.2.6 
+4.2.2.6 
+Uncertainty assessment 
+U 
+4.2.3 
+4.2.3 
+Quality Assurance/Quality Control (QA/QC), Reporting 
+and Documentation 
+NR 
+4.2.4 
+4.2.4 
+Sub-Chapter 4.4 
+Introduction 
+U 
+4.4.1 
+4.4.1 
+Choice of method for CO2 emissions from primary 
+aluminium production 
+NR 
+4.4.2.1 
+4.4.2.1 
+Choice of emission factors for CO2 emissions from primary 
+aluminium production 
+NR 
+4.4.2.2 
+4.4.2.2 
+Choice of method for PFCs 
+U 
+4.4.2.3 
+4.4.2.3 
+Choice of emission factors for PFCs 
+U 
+4.4.2.4 
+4.4.2.4 
+Choice of activity data 
+U 
+4.4.2.5 
+4.4.2.5 
+Completeness 
+U 
+4.4.2.6 
+4.4.2.6 
+Developing a consistent time series 
+U 
+4.4.2.7 
+4.4.2.7 
+Uncertainty assessment for primary aluminium production 
+U 
+4.4.3 
+4.4.3 
+Emission factor uncertainties 
+U 
+4.4.3.1 
+4.4.3.1 
+Activity data uncertainties 
+U 
+4.4.3.2 
+4.4.3.2 
+Quality assurance/quality control (QA/QC) 
+U 
+4.4.4.1 
+4.4.4.1 
+Reporting and documentation 
+U 
+4.4.4.2 
+4.4.4.2 
+Methodological issues for alumina production 
+NG 
+- 
+4.4.5 
+Alternative alumina refining processes 
+NG 
+ 
+4.4.5.1 
+Choice of method for alumina production 
+NG 
+- 
+4.4.5.2 
+Choice of emission factors for alumina production 
+NG 
+- 
+4.4.5.3 
+Choice of activity data 
+NG 
+- 
+4.4.5.4 
+Completeness 
+NG 
+- 
+4.4.5.5 
+Developing a consistent time series 
+NG 
+- 
+4.4.5.6 
+Uncertainty assessment for alumina production 
+NG 
+- 
+4.4.6 
+Emission factor uncertainties 
+NG 
+- 
+4.4.6.1 
+Activity data uncertainties 
+NG 
+- 
+4.4.6.2 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.11 
+ 
+Section Title 
+ 
+ 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Quality assurance/quality control (QA/QC) 
+NG 
+- 
+4.4.7.1 
+Reporting and documentation 
+NG 
+- 
+4.4.7.2 
+Sub-Chapter 4.8 
+Rare earths production (and all sub-sections included) 
+NG 
+- 
+4.8 
+ 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Sub-Chapter 4.2 
+ 
+ 
+ 
+CO2 emissions from coke production (Tier 1a) 
+U 
+4.1 
+4.1 
+CH4 emissions from coke production (Tier 1a) 
+NG 
+- 
+4.1a 
+CO2 emissions from metallurgical coke production (Tier 
+1b) 
+NG 
+- 
+4.1b 
+CO2 emissions from metallurgical coke production (Tier 2) 
+U 
+4.2 
+4.2 
+CO2 emissions from iron and steel production (Tier 1) 
+NR 
+4.4 
+4.4 
+CO2 emissions from production of pig iron not processed 
+into steel (Tier 1) 
+NR 
+4.5 
+4.5 
+CO2 emissions from production of direct reduced iron (Tier 
+1) 
+NR 
+4.6 
+4.6 
+CO2 emissions from sinter production (Tier 1) 
+NR 
+4.7 
+4.7 
+CO2 emissions from pellet production (Tier 1) 
+NR 
+4.8 
+4.8 
+CO2 emissions from BFG and LDG flaring (Tier 1) 
+NG 
+- 
+4.8a 
+CO2 emissions from iron & steel production (Tier 2) 
+U 
+4.9 
+4.9 
+CO2 emissions from sinter production (Tier 2) 
+U 
+4.10 
+4.10 
+CO2 emissions from direct reduced iron production (Tier 2) 
+NR 
+4.11 
+4.11 
+CH4 emissions from sinter production (Tier 1) 
+NR 
+4.12 
+4.12 
+CH4 emissions from blast furnace production of pig iron 
+(Tier 1) 
+NR 
+4.13 
+4.13 
+CH4 emissions from direct reduced iron production (Tier 1) 
+NR 
+4.14 
+4.14 
+N2O emissions from flaring (Tier 1) 
+NG 
+- 
+4.14a 
+Sub-Chapter 4.4 
+ 
+ 
+ 
+Process CO2 emissions from anode and/or paste 
+consumption (tier 1 method) 
+NR 
+4.20 
+4.20 
+CO2 emissions from prebaked anode consumption (tier 2 
+and tier 3 methods) 
+NR 
+4.21 
+4.21 
+CO2 emissions from pitch volatiles combustion (tier 2 and 
+tier 3 methods) 
+NR 
+4.22 
+4.22 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equations (Continued)  
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+CO2 emissions from bake furnace packing material (tier 2 
+and tier 3 methods) 
+NR 
+4.23 
+4.23 
+CO2 emissions from paste consumption (tier 2 and tier 3 
+methods) 
+NR 
+4.24 
+4.24 
+Total PFC Emissions 
+NG 
+- 
+4.24a 
+HVAE PFC emissions (Tier 1 method)  
+U 
+4.25 
+4.25  
+HVAE PFC emissions by Slope method (Tier 2a and Tier 
+3a methods) 
+U 
+4.26 
+4.26  
+HVAE PFC emissions by Overvoltage method (Tier 3a 
+method) 
+U 
+4.27 
+4.27  
+HVAE PFC emissions (Tier 2b and Tier 3b method – 
+(Marks & Nunez 2018a)) 
+NG 
+- 
+4.27a  
+HVAE PFC emissions (Tier 2b and Tier 3b method – 
+(Dion et al. 2018a)) 
+NG 
+- 
+4.27b  
+LVAE PFC emissions (Tier 1 and Tier 3 methods – 
+production-based)  
+NG 
+- 
+4.27c  
+LVAE PFC emissions (Tier 3 method – as ratio of HVAE 
+emissions) 
+NG 
+- 
+4.27d  
+Total PFC emissions for start-up of electrolysis cells (Tier 
+3CSU method) 
+NG 
+- 
+4.27e 
+Emission rate coefficients for HVAE PFC (Tier 2b method 
+– (Dion et al. 2018a)) 
+NG 
+- 
+4.27f  
+Tier 1:  Sintering process emissions based on alumina 
+production data 
+NG 
+- 
+4.27g  
+Tier 3: Emissions based on carbonate raw material inputs 
+to the sintering kiln 
+NG 
+- 
+4.27h 
+Emissions captured during carbonization process and 
+contained in produced sodium carbonate 
+ 
+NG 
+- 
+4.27i 
+Emissions from un-calcined SKD not recycled to the kiln 
+NG 
+- 
+4.27j 
+Weighted average content CO2 in ‘i’  Bauxite (Nepheline) 
+Ore 
+NG 
+- 
+4.27k 
+Potential emissions from Bauxites (Nephelines) residue 
+NG 
+- 
+4.27l 
+Emissions from carbon-bearing non-fuel materials 
+NG 
+- 
+4.27m 
+CO2 absorption through use of circulating water collected 
+from bauxite/nepheline storage residue area and/or 
+absorption through bauxite residue neutralization 
+NG 
+- 
+4.27n 
+Sub-Chapter 4.8 
+ 
+ 
+ 
+Process CO2 emissions from anode consumption (Tier 1) 
+NG 
+- 
+4.35 
+Process CO2 emissions from anode consumption (Tier 3) 
+NG 
+- 
+4.36 
+PFC emissions from rare earth metals production (Tier 1 
+and Tier 3) 
+NG 
+- 
+4.37 
+ 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.13 
+Tables 
+Table Title 
+ 
+ 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Table 
+Number 
+2019 Refinement 
+Table Number 
+Sub-Chapter 4.2 
+ 
+ 
+ 
+Emission allocations from metallurgical coke production 
+NG 
+- 
+4.1a 
+Tiers to estimate CO2 emissions from metallurgical coke 
+production – non fugitive emissions 
+NG 
+- 
+4.1b 
+Tier 1 default CO2 emission factors for coke production  
+U 
+4.1 
+4.1 
+Tier 1 default CO2 emission factors for sinter and pellet 
+production 
+NG 
+- 
+4.1a 
+Tier 1 default CO2 emission factors for iron and steel 
+production 
+NG 
+- 
+4.1b 
+Tier 1 default CH4 emission factors for coke production 
+(non fugitives), iron and steel production 
+U 
+4.2 
+4.2 
+Tier 1 default N2O emission factors for coke production 
+and iron and steel production 
+NG 
+- 
+4.2b 
+Tier 2 material-specific carbon contents for iron and steel - 
+production (tonnes C/tonne) 
+U 
+4.3 
+4.3 
+Uncertainty ranges 
+U 
+4.4 
+4.4 
+Sub-Chapter 4.4 
+ 
+ 
+ 
+Tier 1 technology specific emission factors for calculating 
+carbon dioxide emissions from anode or paste consumption 
+NR 
+4.10 
+4.10 
+Data sources and uncertainties for parameters used in tier 2 
+or 3 method for CO2 emissions from prebake cells (CWPB 
+and SWPB) , see equation 4.21 
+NR 
+4.11 
+4.11 
+Data sources and uncertainties for parameters used in tier 2 
+or 3 method for CO2 emissions from pitch volatiles 
+combustion (CWPB and SWPB) 
+NR 
+4.12 
+4.12 
+Data sources and uncertainties for parameters used in tier 2 
+or 3 method for CO2 emissions from bake furnace packing 
+material (CWPB and SWPB) 
+NR 
+4.13 
+4.13 
+Data sources and uncertainties for parameters used in tier 2 
+or 3 method for CO2 emissions from Søderberg cells 
+NR 
+4.14 
+4.14 
+Summary of accounting methods for PFC emissions 
+NG 
+- 
+4.14a 
+Technology specific default emission factors for the 
+calculation of HVAE and LVAE emissions from 
+aluminium production (Tier 1 method)  
+U 
+4.15 
+4.15 
+Technology specific coefficients for the calculation of 
+HVAE PFC emissions from aluminium production using 
+slope methodology (Tier 2a method)  
+U 
+4.16 
+4.16 
+Specific HVAE-PFC emission rate coefficients based on 
+the anode effect duration as calculated by (Marks & Nunez 
+2018a) (Tier 2b method) 
+NG 
+- 
+4.16a 
+Uncertainty range (percent) in estimating PFC emissions 
+from individual HVAEs (Tier 2b methods) 
+NG 
+- 
+4.16b 
+Time period of measurements used to establish updated 
+Tier 1 default EFs and Tier 2a default slope coefficients 
+NG 
+- 
+4.16c 
+Summary of which guidelines to refer to, for time 
+consistent PFC inventories 
+NG 
+- 
+4.16d 
+Good practice reporting information for calculating CO2 
+and PFC emissions from aluminium production by tier 
+U 
+4.17 
+4.17 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Table Title 
+ 
+ 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Table 
+Number 
+2019 Refinement 
+Table Number 
+Technology specific default emission factors for the 
+calculation of CO2 emissions from alternative sintering 
+processes (Tier 1 method) 
+ 
+NG 
+- 
+4.17a  
+Default uncertainty values for Bauxite/nepheline sintering 
+processes 
+NG 
+- 
+4.17b  
+Sub-Chapter 4.8 
+ 
+ 
+ 
+Tier 1 default emission factors for calculating CO2 
+emissions from anode consumption 
+NG 
+- 
+4.26 
+Data sources and uncertainties for parameters used in Tier 
+3 method for CO2 emissions from anode consumption 
+ 
+NG 
+- 
+4.27 
+Tier 1 default emission factors and uncertainty ranges for 
+the calculation of PFC emissions from rare earth 
+production 
+NG 
+- 
+4.28 
+Data sources and uncertainties for parameters used in Tier 
+3 method for PFC emissions  
+NG 
+- 
+4.29 
+Good practice reporting information for calculating CO2 
+and PFC emissions from rare earth metal production by 
+Tier 
+NG 
+- 
+4.30 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.15 
+Figures  
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 Refinement 
+Figure Number 
+Sub-Chapter 4.2 
+ 
+ 
+ 
+Illustration of main processes for integrated iron and steel 
+production 
+NR 
+4.1 
+4.1 
+Estimation of CO2 emissions from metallurgical coke 
+production 
+U 
+4.6 
+4.6 
+Decision tree for estimation of CO2 emissions from iron 
+and steel production 
+U 
+4.7 
+4.7 
+Decision tree for estimation of CH4 emissions from coke 
+production 
+NG 
+- 
+4.8a 
+Decision tree for estimation of CH4 emissions from iron 
+and steel production 
+U 
+4.8 
+4.8b 
+Decision tree for estimation of N2O emissions from iron 
+and steel production 
+NG 
+- 
+4.8c 
+Energy or IPPU CO2 emissions allocation in an integrated 
+iron and steel facility 
+NG 
+- 
+4.8d 
+Sub-Chapter 4.4 
+ 
+ 
+ 
+Decision tree for calculation of CO2 emissions from 
+primary aluminium production 
+NR 
+4.11 
+4.11 
+Decision tree for calculation of HVAE related PFC 
+emissions from primary aluminium production 
+U 
+4.12 
+4.12 
+Decision tree for calculation of LVAE related PFC 
+emissions from primary aluminium production 
+NG 
+- 
+4.12a 
+Alumina production processes 
+NG 
+- 
+4.12b 
+Decision tree for estimation of CO2 emissions from 
+alumina production 
+NG 
+- 
+4.12c 
+Sub-Chapter 4.8 
+ 
+ 
+ 
+Decision tree for calculation of CO2 emissions from 
+primary rare earth (RE) metal production. 
+NG 
+- 
+4.17 
+Decision tree for calculation of PFC emissions from 
+primary rare earth (RE) metal production. 
+NG 
+- 
+4.18 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019efinement  
+Box Number 
+Sub-Chapter 4.2 
+ 
+ 
+ 
+Flaring activities in metallurgical coke and iron and steel 
+production 
+NG 
+- 
+4.0 
+Sub-Chapter 4.4 
+ 
+ 
+ 
+Fully automated anode effect intervention strategies for 
+PFC emissions 
+NG 
+- 
+4.1a 
+High and low voltage anode effect description 
+U 
+4.2 
+4.2 
+PFC emissions during start-up of electrolysis cells 
+NG 
+- 
+4.3 
+Sub-Chapter 4.8 
+ 
+ 
+ 
+Anode effect description (for rare earth metal production by 
+fluoride electrolysis) 
+NG 
+- 
+4.4 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.17 
+CHAPTER 6 ELECTRONICS INDUSTRY EMISSIONS 
+Sections 
+This Chapter 6 Volume 3 of the 2019 Refinement is a complete update of Chapter 6 Volume 3 of the 2006 IPCC 
+Guidelines and should be used instead of Chapter 6 Volume 3 of the 2006 IPCC Guidelines.  
+The 2019 Refinement of Volume 3 Chapter 6 was designed to maintain the scientific validity of GHG emissions 
+estimates from the electronics industry. Compared to the 2006 IPCC Guidelines, the 2019 Refinement takes into 
+account the changes in manufacturing processes and equipment that have occurred in the electronics industry 
+during the thirteen-year interim period and reflect the much larger set of experimental data available (as of 2018 
+compared to 2006) to calculate default emissions factors for the sector. Also, several methodological refinements 
+are introduced in an attempt to increase accuracy and flexibility, depending on how reporting facilities track gas 
+usage and implement emissions control technologies. The 2019 Refinement includes six revised methods (Tier 1, 
+2a, 2b, 2c, 3a, and 3b), compared to four for the 2006 IPCC Guidelines. The substantial refinements of this 
+Chapter include: 
+• 
+An expanded basket of gaseous fluorinated compounds (FCs) and fluorinated liquids used or produced as 
+by-products during the manufacture of electronic devices, also including the use and emissions of nitrous 
+oxide (N2O); 
+• 
+For the Tier 1 method for gaseous FCs and N2O, updates to the default emission factors for the 
+semiconductor and display (including LCD, FPD, and other types of display) sub-sectors, and addition of 
+default emission factors for microelectromechanical systems (MEMS); 
+• 
+ For the Tier 2 method for gaseous FCs and N2O, updates to the default emission factors for the 
+semiconductor and display sub-sectors; 
+• 
+For the Tier 2 and Tier 3 methods for gaseous FCs and N2O, new guidance on tracking gas consumption and 
+apportioning use to different process types and wafer sizes; 
+• 
+For the Tier 2 and Tier 3 methods for gaseous FCs and N2O, refined approaches to account for emissions 
+control technologies and emissions control technology uptime;  
+• 
+An update to the Tier 2b method for the semiconductor sub-sector to account for the size of manufactured 
+wafers and the input gas rather than the process type and input gas; 
+• 
+A new Tier 2c method for the semiconductor sub-sector that accounts for the size of manufactured wafers  
+in addition to the process type and input gas; this method, without the distinction by substrate size, is also 
+applicable to the display and PV sub-sectors; 
+• 
+A new section on adapting Tier 2 methods for gaseous FCs and N2O to account for technological changes, 
+including guidance on (1) when facility-specific measurements should be considered, and (2) the use of 
+hybrid methodologies (e.g. by combining the Tier 2c and Tier 3a methods); 
+• 
+An update to the 2006 Tier 3 method (now labelled Tier 3a) to provide guidance on selecting processes for 
+emissions characterizations, including a discussion of “similarity” among recipes; 
+• 
+A new Tier 3b method that relies on the measurement of emission factors at the stack level rather than the 
+process level;  
+• 
+For the Tier 1 method for fluorinated liquids, updates to the default emission factors for heat transfer fluid 
+applications in the semiconductor and display sub-sectors, as well as new emission factors for estimating 
+emissions from the packaging, testing, and soldering of packaged semiconductor devices; and  
+• 
+Corresponding updates to the Completeness, Time Series Consistency, Uncertainty, QA/QC, and Reporting 
+and Documentation sections. 
+Note: Because this chapter completely replaces the corresponding chapter in the 2006 IPCC Guidelines, the 
+equations, tables, figures, and boxes here have all been renumbered in simple sequential order, without 
+reference to the corresponding equations, tables, figures, or boxes in the 2006 IPCC Guidelines (where those 
+exist). 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Sections 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines  
+Section Number 
+2019 Refinement  
+Section Number 
+Electronics Industry Emissions 
+U, NG 
+6 
+6 
+Introduction  
+U, NG 
+6.1 
+6.1 
+Gaseous Fluorinated Compounds and Nitrous Oxide 
+U, NG 
+6.2.1.1 
+6.2.1.1 
+Fluorinated Liquids 
+U, NG 
+6.2.1.2 
+6.2.1.2 
+Choice of emission factors 
+U, NG 
+6.2.2 
+6.2.2 
+Gaseous Fluorinated Compounds and Nitrous Oxide 
+U, NG 
+6.2.2.1 
+6.2.2.1 
+Fluorinated Liquids  
+U 
+6.2.2.2 
+6.2.2.2 
+Choice of activity data 
+U 
+6.2.3 
+6.2.3 
+Completeness 
+U 
+6.2.4 
+6.2.4 
+Developing a consistent time series 
+U 
+6.2.5 
+6.2.5 
+Uncertainty Assessment 
+U 
+6.3 
+6.3 
+Emission factor uncertainties 
+U 
+6.3.1 
+6.3.1 
+Activity data uncertainty 
+U 
+6.3.2 
+6.3.2 
+Quality Assurance/Quality Control (QA/QC) 
+U 
+6.4.1 
+6.4.1 
+Reporting and Documentation 
+U 
+6.4.2 
+6.4.2 
+ 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Tier 1 Method for estimation of the set of GHG emissions 
+U 
+6.1 
+6.1 
+Consumption of input gas i 
+NG 
+- 
+6.2 
+Transfers of Input Gas i 
+NG 
+- 
+6.3 
+Apportioning of C to Process Types/Sub-types 
+NG 
+- 
+6.4 
+Emissions of input gas i 
+U 
+6.2 
+6.5 
+ By-product emissions 
+U 
+6.3-6.6 
+6.6 
+ By-product emissions from hydrocarbon fuelled 
+combustion emissions control systems 
+NG 
+- 
+6.7 
+Emissions reduction impact of emissions control 
+technology for gas i 
+NG 
+- 
+6.8 
+Emissions reduction impact of emissions control 
+technology for by-product k 
+NG 
+- 
+6.9 
+Estimate of the mass fraction of gas i emitted from process 
+tools equipped with emission control technologies 
+NG 
+- 
+6.10 
+Estimate of the mass fraction of by-product k emitted from 
+process tools equipped with emissions control technologies 
+NG 
+- 
+6.11 
+Uptime of emissions control systems 
+NG 
+- 
+6.12 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.19 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Emission of input gas i 
+ 
+U 
+6.7 
+6.13 
+Process By-product Emissions from input gas i  
+U 
+6.8-6.11 
+6.14 
+By-product emissions from combustion emissions control 
+equipment  
+NG 
+- 
+6.15 
+Emissions reduction impact of emissions control equipment 
+on input gas i 
+ 
+NG 
+- 
+6.16 
+Emissions reduction impact of emissions control equipment 
+on by-product k 
+NG 
+- 
+6.17 
+Estimate of the fraction of mass of gas i emitted from 
+process p from tools equipped with emissions control 
+equipment  
+NG 
+- 
+6.18 
+Estimate of the fraction of mass of by-product k emitted 
+from process p from tools equipped with emissions control 
+equipment  
+NG 
+- 
+6.19 
+Uptime of emissions control systems 
+NG 
+- 
+6.20 
+Total GHG input gas emitted from stack system during 
+sampling period  
+NG 
+- 
+6.21 
+Total FC by-product emitted from stack system during 
+sampling period 
+NG 
+- 
+6.22 
+Gas specific emission factor for input gas 
+NG 
+- 
+6.23 
+FC by-product specific emissions factor 
+NG 
+- 
+6.24 
+Annual emissions of input gas i 
+ 
+NG 
+- 
+6.25 
+Annual emissions of FC by-product k 
+NG 
+- 
+6.26 
+Average emission control system uptime 
+NG 
+- 
+6.27 
+Tier 1 Method for estimation of total FC emissions from 
+fluorinated liquids 
+U 
+6.12 
+6.28 
+Tier 2 Method for estimation of FC emissions from 
+fluorinated liquids 
+U 
+6.13 
+6.29 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+Sources and types of GHGs emitted during electronics 
+manufacturing 
+NG 
+- 
+6.1 
+Refinements and applicability of guidance by electronics 
+industry subsector 
+NG 
+- 
+6.2 
+Information sources necessary for completing the tiered 
+emission estimating methods for gaseous FCs for 
+electronics manufacturing 
+U 
+6.1 
+6.3 
+Information sources necessary for completing the tiered 
+emission estimating methods for liquid FCs for electronics 
+manufacturing 
+NG 
+- 
+6.4 
+Fluorinated liquids commonly used in the electronics 
+industry 
+NG 
+- 
+6.5 
+Tier1 Gas-specific emission factors for process GHG  
+emissions from electronics manufacturing 
+U 
+6.2 
+6.6 
+Tier 2a method – default emission factors for GHG 
+emissions from Semiconductor manufacturing and MEMS 
+manufacturing under certain conditions 
+U 
+6.3 
+6.7 
+Tier 2a & 2b methods – default factors for γi and  γk  for 
+semiconductor manufacturing and for MEMS 
+manufacturing under certain conditions 
+NG 
+- 
+6.8 
+Tier 2b method – default emission factors for GHG 
+emissions from Semiconductor manufacturing and MEMS 
+manufacturing under certain conditions 
+NG 
+- 
+6.9 
+Tier 2c method (≤200mm) – default emission factors for 
+GHG emissions from semiconductor manufacturing and 
+MEMS manufacturing under certain conditions 
+NG 
+- 
+6.10 
+Tier 2c method (300mm) – default emission factors for 
+GHG emissions from semiconductor manufacturing and 
+MEMS manufacturing under certain conditions 
+NG 
+- 
+6.11 
+Tier 2c method – default emission factors for GHG 
+emissions from Display manufacturing 
+U 
+6.4 
+6.12 
+Tier 2c method – default emission factors for GHG 
+emissions from PV manufacturing 
+U 
+6.5 
+6.13 
+Methods and procedures for conducting emissions tests for 
+Stack Systems 
+NG 
+- 
+6.14 
+Maximum field detection limits (FDL) applicable to 
+fluorinated compounds (FC) concentration measurements 
+for Stack Systems  
+NG 
+- 
+6.15 
+Emissions Control Equipment suitability table for 
+Destruction Removal Efficiency (DRE) of Process GHG 
+Emissions 
+NG 
+- 
+6.16 
+Tier 2 default DRE parameters for electronics industry 
+process gas emissions reduction technologies 
+U 
+6.6 
+6.17 
+Tier 1 Default Emission Factors for fluorinated liquids 
+NG 
+- 
+6.18 
+Estimates of relative uncertainties (percent) of Tier 2b 
+emission factors for semiconductor manufacturing, 95 
+percent confidence intervals  
+U 
+6.9 
+6.19 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.21 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+Estimates of relative uncertainties (percent) of Tier 2c 
+emission factors for semiconductor manufacturing (≤200 
+mm), 95 percent confidence intervals 
+U 
+6.9 
+6.20 
+Estimates of relative uncertainties (percent) of Tier 2c 
+emission factors for semiconductor manufacturing (300 
+mm), 95 percent confidence intervals 
+U 
+6.9 
+6.21 
+Tier 2a & 2b methods – estimates of relative uncertainties 
+(percent) for γI and γK (SEMICONDUCTOR and MEMS 
+manufacturing under certain conditions), 95 percent 
+confidence intervals 
+NG 
+- 
+6.22 
+Information necessary for full transparency of estimates of 
+emissions from electronics manufacturing   
+U 
+6.11 
+6.23 
+ 
+ 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 Refinement 
+Figure Number 
+Decision tree for estimation of GHG emissions from 
+electronics manufacturing 
+U 
+6.1 
+6.1 
+Decision tree to determine need for measured emission 
+factors 
+NG 
+- 
+6.2 
+Decision tree for estimation of emissions from fluorinated 
+liquids loss from electronics manufacturing 
+U 
+6.2 
+6.3 
+Decision Tree for Process GHG Emission Control System 
+Default Emission Factors 
+NG 
+- 
+6.4 
+ 
+ 
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+Site specific apportioning model verification example 
+NG 
+- 
+6.1 
+Fluorinated greenhouse gas by-products 
+NG 
+- 
+6.2 
+The importance and limitations of the default gamma 
+values for calcutating Ai and Ak 
+NG 
+- 
+6.3 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 7 EMISSIONS OF FLUORINATED SUBSTITUTES FOR OZONE 
+DEPLETING SUBSTANCES 
+Sections 
+• 
+Section 7.1.1 “Chemicals and relevant application areas covered” in the 2006 IPCC Guidelines: The text 
+about HFCs and Montreal Protocol has been updated. Text and references from the 2006 IPCC Guidelines 
+are to a large extent retained.   
+• 
+Section 7.1.2.2 “Choice of method” in the 2006 IPCC Guidelines: Text updated in order to briefly describe 
+the four new tables with consumption figures for 2015.  
+• 
+Section 7.5.2.1 “Choice of method” in the 2006 IPCC Guidelines: New guidance on how to build a 
+refrigeration and air conditioning inventory (Tier 1 and tier 2 emission factor approaches) appears in Boxes 
+7.2a-c.   
+• 
+Section 7.5.2.2 “Choice of emission factors” in the 2006 IPCC Guidelines: Text is updated to describe new 
+information from studies of emission factors. New guidance in terms of examples of national studies on 
+emission rates for stationary refrigeration and air-conditioning systems are found in Annex 7A.1. 
+• 
+New spreadsheet “Calculation Example for 2F1 (Tier 2)” (MS Excel) was introduced 
+ 
+Section Title 
+ 
+ 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Chemicals and relevant application areas covered 
+U 
+7.1.1 
+7.1.1 
+Overview of ODS substitute issues 
+NR 
+7.1.2.1 
+7.1.2.1 
+Choice of method 
+U 
+7.1.2.2 
+7.1.2.2 
+Choice of emission factors 
+NR 
+7.1.2.3 
+7.1.2.3 
+Choice of activity data 
+NR 
+7.1.2.4 
+7.1.2.4 
+Completeness 
+NR 
+7.1.2.5 
+7.1.2.5 
+Developing a consistent time series 
+NR 
+7.1.2.6 
+7.1.2.6 
+Uncertainty Assessment 
+NR 
+7.1.3 
+7.1.3 
+Quality Assurance/Quality Control (QA/QC), Reporting, 
+and Documentation for all ODS substitutes applications 
+NR 
+7.1.4 
+7.1.4 
+Choice of method 
+U 
+7.5.2.1 
+7.5.2.1 
+Choice of emission factors 
+U, 
+7.5.2.2 
+7.5.2.2 
+Choice of activity data 
+U 
+7.5.2.3 
+7.5.2.3 
+Applying Tier 2 methods – the example of mobile air 
+conditioning (MAC) 
+U 
+7.5.2.4 
+7.5.2.4 
+Completeness 
+NR 
+7.5.2.5 
+7.5.2.5 
+Developing a consistent time series 
+NR 
+7.5.2.6 
+7.5.2.6 
+Uncertainty Assessment 
+NR 
+7.5.3 
+7.5.3 
+Quality Assurance/Quality Control (QA/QC), Reporting, 
+and Documentation 
+NR 
+7.5.4 
+7.5.4 
+Annex 7A.1 to Chapter 7. Examples of national studies on 
+emission rates for stationary refrigeration and air-
+conditioning systems 
+NG 
+- 
+Annex 7A.1 to 
+Chapter 7 
+Spreadsheet “Calculation Example for 2F1 (Tier 2)” (MS 
+Excel) 
+NG 
+- 
+Spreadsheet to 
+Chapter 7 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.23 
+Tables 
+• 
+Tables Table 7.1: Footnote 2 is elaborated, specifying that methodology for estimating emissions for plasma 
+etching is not included in chapter 7. This issue was not in the mandate/TOC. 
+• 
+Three new tables with consumption figures to address the issue of adding data on the distribution of ODS-
+substitutes by application, e.g. broadening the set of countries to include developing as well as developed 
+countries. This issue was suggested placed under 7.5.2.3 in the TOC (mandate), but we argue that 7.1.2.2 is 
+the relevant section because it an elaboration related to table 7.3 which is located in section 7.1.2.2:  
+o 
+New table 7.3a: Provides information similar to table 7.3 in 2006 IPCC Guidelines (distribution of 
+HFC use by application area), but for 2015. 
+o 
+New table 7.3b: Provides information for 2015 on use of HFCs in RAC by substance and sub-
+application area in Article 5 Parties. 
+o 
+New table 7.3c: Provides information for 2015 on use of HFCs in RAC by substance and sub-
+application area in non-Article 5 Parties. 
+o 
+New table 7.3d: Provides information for 2015 on the share of HFCs used for manufacturing and 
+servicing in RAC. 
+• 
+Table 7.9: Specifications are made for charge and operating emission factors maritime, railway, busses in 
+sub-application mobile air conditioning to address the issue of updating emission factors by further 
+segregating equipment types. 
+• 
+Three new tables with emission factors for commercial and industrial refrigeration to address the issue of 
+updating emission factors by further segregating equipment types, regions, and time periods, are presented 
+in Annex 7A.1.  
+ 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+Main application areas for HFCs and PFCs as ODS 
+substitutes 
+U 
+7.1 
+7.1 
+Distribution of HFC use by application area for 2015 
+U 
+7.3 
+7.3 
+HFC consumption for RAC in article 5 parties. Per cent of 
+total by substance and sub-application area for 2015 
+NG 
+- 
+7.3a 
+HFC consumption for RAC in non-article 5 parties. Per cent 
+of total by substance and sub-application area for 2015 
+NG 
+- 
+7.3b 
+HFC consumption for RAC in article 5 parties and non-
+article 5 parties. Per cent of total by manufacturing and 
+servicing for 2015 
+NG 
+- 
+7.3c 
+Default estimates for charge, lifetime and emission factors 
+for refrigeration and air-conditioning systems 
+U 
+7.9 
+7.9 
+California study for 2008: Emission factors for refrigeration 
+and air conditioning systems 
+NG 
+- 
+7A.1 
+Japan study for 2008: Emission factors for refrigeration and 
+air conditioning systems 
+NG 
+- 
+7A.2 
+German study for 2009-2013: Emission factors for 
+refrigeration and air conditioning systems 
+NG 
+- 
+7A.3 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 Refinement 
+Figure Number 
+Decision tree for actual emissions from the refrigeration and 
+air conditioning (RAC) application 
+NR 
+7.6 
+7.6 
+Example of spreadsheet calculation for Tier 1a/b 
+assessments 
+NR 
+7.7 
+7.7 
+ 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Calculation of net consumption of a chemical in a specific 
+application 
+NR 
+7.1        
+7.1        
+Calculation of emissions of a chemical from a specific 
+application 
+NR 
+7.2a     
+7.2a     
+Calculation of emissions of a chemical from an application 
+with banks 
+NR 
+7.2b      
+7.2b      
+General mass balance equation for Tier 1b 
+NR 
+7.3        
+7.3        
+Summary emissions equation based on phases of the 
+lifecycle 
+NR 
+7.4        
+7.4        
+Determination of refrigerant emissions by mass balance 
+NR 
+7.9        
+7.9        
+Summary of sources of emissions 
+NR 
+7.10      
+7.10      
+Sources of emissions from management of containers 
+NR 
+7.11      
+7.11      
+Sources of emissions when charging new equipment 
+NR 
+7.12      
+7.12      
+Sources of emissions during equipment lifetime 
+NR 
+7.13      
+7.13      
+Emissions at system end-of-life 
+NR 
+7.14      
+7.14      
+ 
+ 
+Boxes 
+• 
+Three new boxes to address the issue of increased user-friendliness and suggestion of box with “recipe”-
+style guidance on how to launch the HFC inventory. Location according to suggestion in TOC (mandate): 
+o 
+New box 7.2a: Intended to simplify the process of starting an inventory on HFCs, focusing on 
+the larger areas of use and the tier 1 and 2 EF approach. 
+o 
+New box 7.2b: Aims at giving an overview of the annual emission estimation process, focusing 
+on the bank of HFCs in equipment in use. 
+o 
+New box 7.2c: Provides information on two ways to establish the existing bank of HFCs. 
+• 
+One new box to address the issue of increased user-friendliness, suggestion of examples regarding the 
+collection of activity data, and the suggestion to further emphasizing the data and literature associated with 
+the Montreal protocol. Location according to suggestion in TOC (mandate): 
+o 
+New box 7.3a: List of data sources commonly used for collecting data on HFCS, with a short 
+description of each.  
+• 
+Box 7.4 in the 2006 IPCC Guidelines contains misleading information in terms of the emission factors used 
+for MAC. They are outside the default ranges presented in Table 7.9 in 2006 GL due to assumptions on 
+frequent A/C service with high leakage rate. We suggest to reduce the figure to be inside the default ranges 
+provided in the 2006 IPCC Guidelines Table 7.9 to consistent with the methodologies described.  
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.25 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 Refinement 
+Box Number 
+How to build a R/AC inventory in a few simple steps – 
+Tier 1 and 2 emission factor approaches 
+NG 
+- 
+7.2a 
+The basic elements of an emission inventory for R/AC 
+NG 
+- 
+7.2b 
+How to build the bank of HFC 
+NG 
+- 
+7.2c 
+Accounting for imports and exports of refrigerant and 
+equipment 
+NR 
+7.3 
+7.3 
+Common data sources for the HFC inventory 
+NG 
+- 
+7.3a 
+Example of the application of a Tier 2a calculation for 
+mobile air conditioning 
+U 
+7.4 
+7.4 
+ 
+ 
+Volume 3: Industrial Processes and Product Use  
+                                
+A5.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 8  OTHER PRODOUCT MANUFACTURE AND USE AND 
+APPENDIX 1 BASIS FOR FUTURE METHODLOGICAL DEVELOPMENT 
+Sections 
+• 
+New guidance for waterproofing of electronic circuits has been added to the Section 8.3 “Use of SF6 and 
+PFCs in other products”.  
+• 
+New guidance for Textile, carpet, leather and paper fluorinated treatment emissions has been added to the 
+Section 8.3 “Use of SF6 and PFCs in other products”.  
+• 
+New Appendix 1 for “Possible Approaches for Estimating FC Emissions from Textile, Carpet, Leather and 
+Paper Industries: Basis for Future Methodological Development” was introduced 
+ 
+Section Title 
+ 
+ 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section Number 
+2019 Refinement 
+Section Number 
+Chapter 8 
+Introduction  
+U 
+8.3.1 
+8.3.1 
+Methodological Issues 
+U 
+8.3.2 
+8.3.2 
+Appendix 1 
+ 
+ 
+ 
+Possible Approaches for Estimating Fluorinated 
+Compounds Emissions from Textile, Carpet, Leather and 
+Paper Industries: Basis for Future Methodological 
+Development 
+NG 
+- 
+Appendix 1 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 Refinement 
+Equation 
+Number 
+Chapter 8 
+ 
+ 
+ 
+Waterproofing of electric circuits 
+NG 
+- 
+8.22a 
+Appendix 1 
+ 
+ 
+ 
+All equations are new 
+NG 
+- 
+1A.1-1A.18 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 Refinement 
+Table Number 
+Chapter 8 
+ 
+ 
+ 
+Emission Factor for Waterproofing of Electronic Circuits  
+NG 
+- 
+8.11 
+Appendix 1 
+ 
+ 
+ 
+All tables are new 
+NG 
+- 
+1A.1-1A.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 5: Mapping Tables 
+ 
+            
+ 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A5.27 
+ 
+Boxes 
+There are no boxes in Chapter 8 of the 2006 IPCC Guidelines and in Chapter 8 of the 2019 Refinement 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines  
+Box Number 
+2019 Refinement  
+Box Number 
+Appendix 1 
+ 
+ 
+ 
+All boxes are new 
+NG 
+- 
+1A.1-1A.2 
+ 

@@ -1,0 +1,1131 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+C H A P T E R  6
+W A S T E
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.1
+6. WASTE
+6.1 
+Overview
+Disposal and treatment of industrial and municipal wastes can produce emissions of most
+of the important greenhouse gases (GHG).  Solid wastes can be disposed of through
+landfilling, recycling, incineration or waste-to-energy.  This chapter will deal with
+emissions resulting from landfilling of solid waste, treatment of liquid wastes and waste
+incineration.  Greenhouse gas emissions from waste-to-energy, where waste material is
+used directly as fuel or converted into a fuel, should be calculated and reported under the
+Energy Chapter.
+The most important gas produced in this source category is methane (CH4).
+Approximately 5-20 per cent (IPCC, 1992) of annual global anthropogenic CH4 produced
+and released into the atmosphere is a by-product of the anaerobic decomposition of
+waste.  Two major sources of this type of CH4 production are solid waste disposal to
+land and wastewater treatment.  In each case, methanogenic bacteria break down organic
+matter in the waste to produce CH4.
+In previous editions of the IPCC Guidelines (1995), solid waste disposal sites were
+characterised as “open dumps” or “sanitary landfills,” both of which can produce CH4 if
+the waste deposited in them contains organic matter (IPCC, 1995).  Open dumps were
+defined as shallow, open piles, generally only loosely compacted, and with no provision
+for control of any pollutants generated, where scavenging by animals and humans can
+remove much of the biodegradable wastes.  Sanitary landfills, in contrast, were defined as
+sites specifically designed to receive wastes, which may manage these waste with practices
+such as compacting, use of liners, daily cover, and a final cap.  Recognising that the
+distinction between landfills and open dumps is not always clear, the Revised 1996 IPCC
+Guidelines (this chapter) instead characterises all sites at which solid waste is deposited to
+land as “solid waste disposal sites” (SWDSs).
+In addition to CH4, solid waste disposal sites can also produce substantial amounts of
+CO2 and non-methane volatile organic compounds (NMVOCs).  Decomposition of
+organic material derived from biomass sources (e.g., crops, forests) which are regrown
+on an annual basis is the primary source of CO2 released from waste.  Hence, these CO2
+emissions are not treated as net emissions from waste in the IPCC Methodology.  If
+biomass raw materials are not being sustainably produced, the net CO2 release should be
+calculated and reported under the Agriculture and Land-Use Change and Forestry
+Chapters.
+The process of wastewater treatment produces NMVOCs as well as CH4 (CORINAIR,
+1994).  These emissions are not currently addressed in the Revised Guidelines.
+Wastewater treatment is also a source of N2O, and a methodology for estimating N2O
+emissions is included in this Chapter for human sewage.  (Chapter 4 of these Revised
+Guidelines addresses N2O emissions from agriculture, using a life-cycle emissions
+approach.)
+Waste incineration, like all combustion, can produce CO2, CH4, CO, NOx, N2O and
+NMVOCs.  No detailed methodologies are provided here for this source category.
+Instead, the section on waste incineration later in this chapter provides references to
+methods available for some of the gases.  For CH4 and N2O it is only possible to report
+preliminary estimates and research results at this time.  Further studies are needed to
+WASTE
+6.2
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+give more information about GHG emissions from this source category.  For additional
+information, refer to the discussion of emissions from combustion in Chapter 1.
+The sections in this chapter dealing with land disposal of solid waste and wastewater
+treatment give background information on the source, describe a methodology to
+estimate CH4 and N2O emissions, and discuss uncertainties associated with estimating
+emissions.  This is consistent with the priorities under the IPCC Methodology
+programme.  National experts are encouraged to report any other relevant emissions for
+which data are available, along with documentation of methods used.  This will greatly
+assist in the development of more complete methods for future editions of IPCC
+Guidelines.  For information on estimation procedures and emissions factors for other
+GHGs which are currently not provided in this chapter, experts should consult extensive
+existing literature developed by other emissions inventory programmes.  Some key
+examples are:
+• Default Emissions Factor Handbook (CORINAIR, 1994);
+• Joint Atmospheric Emission Inventory Guidebook (1st edition) (EMEP/CORINAIR,
+1996);
+• US EPA's Compilation of Air Pollutant Emissions Factors (AP-42) (US EPA, 1995);
+• Criteria Pollutant Emission Factors for the 1985 NAPAP Emissions Inventory
+(Stockton and Stelling, 1987);
+• Air Emissions from Municipal Solid Waste Landfills - Background Information for
+Proposed Standards and Guidelines (US EPA, 1991; Doorn and Barlaz, 1995);
+• Greenhouse Gases from Wastewater Treatment: Collection and Review of Country
+Specific Data and Preliminary Emission Models (Doorn and Eklund, 1995).
+6.2 
+Methane 
+Emissions 
+from 
+Solid 
+Waste
+Disposal Sites
+6 . 2 . 1  I n t r o d u c t i o n
+The gases produced in solid waste disposal sites, particularly CH4, can be a local
+environmental hazard if precautions are not taken to prevent uncontrolled emissions or
+migration into surrounding land.  Landfill gas is known to be produced both in managed
+“landfill” and “open dump” sites.  Both are considered here as solid waste disposal sites
+(SWDSs).  Gas can migrate from SWDSs either laterally or by venting to atmosphere,
+causing vegetation damage and unpleasant odours at low concentrations, while at
+concentrations of 5-15 per cent in air, the gas may form explosive mixtures.
+More recently, increasing attention has focused on the role of CH4 in global atmospheric
+change.  Methane from SWDSs contributes a significant proportion of annual global CH4
+emissions, although the estimation is subject to a great deal of uncertainty.  Estimates of
+global CH4 emissions from SWDSs range from less than 20 to 70 Tg/yr (Bingemer and
+Crutzen, 1987, US EPA, 1994), or about 5 per cent to 20 per cent of the total estimated
+emissions of 375 Tg/yr (IPCC, 1996) from anthropogenic sources globally.
+This section will describe the processes that result in gas generation from SWDSs and
+the factors which affect the amount of CH4 produced.  It will then describe two
+methodologies for estimating CH4 emissions from SWDSs.  One of these methods is a
+default base method which all countries can use to estimate CH4 emissions from different
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.3
+types of SWDSs.  It is recommended that countries which have adequate data also
+estimate their emissions using the second method presented.  Finally, this section
+discusses sources of uncertainty associated with any estimates of CH4 emissions from
+SWDSs, in particular the availability and quality of data required.
+6 . 2 . 2  G a s  G e n e r a t i o n  f r o m  S o l i d  W a s t e  D i s p o s a l
+S i t e s
+Organic waste in SWDSs is broken down by bacterial action in a series of stages that
+result in the formation of CH4 and CO2 (termed biogas or landfill gas) and further
+bacterial biomass.  In the initial phase of degradation, organic matter is broken down to
+small soluble molecules including a variety of sugars.  These are broken down further to
+hydrogen, CO2, and a range of carboxylic acids.  These acids are then converted to acetic
+acid which, together with hydrogen and CO2, forms the major substrate for growth of
+methanogenic bacteria.
+Landfill gas consists of approximately 50 per cent CO2 and 50 per cent CH4 by volume.
+However, the percentage of CO2 in landfill gas may be smaller because of decomposition
+of substrates with a high hydrogen/oxygen ratio (e.g., fats, hemicellulose) and because
+some of the CO2 dissolves in water within the site.
+SWDSs are by nature heterogeneous.  Microbiological investigations into site
+characteristics have shown that there are considerable differences between different
+SWDSs and even different regions within the same SWDS (Westlake, 1990).  This makes
+it very difficult to extrapolate from observations on single SWDSs to predictions of global
+CH4 emissions.  Nevertheless, a better understanding of the factors thought to most
+significantly influence the generation of CH4 from land disposal of solid waste can reduce
+the uncertainty associated with emissions estimates.
+6 . 2 . 3  
+F a c t o r s  I n f l u e n c i n g  M e t h a n e  G e n e r a t i o n
+i n  S o l i d  W a s t e  D i s p o s a l  S i t e s
+This section will provide a brief summary of the most significant factors affecting CH4
+generation.
+Waste disposal practices
+Waste disposal practices of concern for CH4 emissions vary in the degree of control of
+the placement of waste and management of the site.  In general, waste disposal on land
+will result in CH4 production if the waste contains organic matter.  Managed disposal
+(controlled placement of waste), in particular, tends to encourage development and
+maintenance of anaerobic activity.
+Waste composition
+The composition of waste is one of the main factors influencing both the amount and the
+extent of CH4 production within SWDSs.  Municipal solid waste (MSW) typically contains
+significant quantities of degradable organic matter.  Different countries and regions are
+known to have MSW with widely differing compositions.
+Physical factors
+Moisture content is an important physical factor influencing landfill gas production.
+Moisture is essential for bacterial growth and metabolism, as well as for transport of
+nutrients and bacteria within the SWDS.  The moisture content of a SWDS depends on
+WASTE
+6.4
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+the initial moisture content of the waste, the extent of infiltration from surface and
+groundwater sources, and the amount of water produced during the decomposition
+processes.
+Temperature, pH, and nutrient availability will affect the growth rate of the bacteria.
+Under anaerobic conditions, landfill temperatures are generally between 25-40oC.  These
+temperatures can be maintained within the SWDS regardless of the ambient surface
+temperatures.  Outside of these temperatures, CH4 production is reduced.  Optimal pH
+for CH4 production is around neutral (pH 7.0).  Important nutrients for efficient bacterial
+growth include sulphur, phosphorus, sodium and calcium.  The significance of these
+physical factors to CH4 generation can be demonstrated within controlled laboratory
+conditions.
+6 . 2 . 4  M e t h o d o l o g i e s  
+t o  
+E s t i m a t e  
+M e t h a n e
+E m i s s i o n s  f r o m  S o l i d  W a s t e  D i s p o s a l  S i t e s
+A number of methods have been used to estimate CH4 emissions from solid waste
+disposal sites.  These methods vary widely, not only in the assumptions that they make,
+but also in their complexity, and in the amount of data they require.  This chapter will
+deal only with those methods that can be applied to whole regions or countries.  There
+are some very complex models that are concerned with movement of CH4 and other
+gases through individual disposal sites; however these models cannot be applied to site
+populations and therefore will not be considered further here.
+The methods described below include the theoretical gas yield methodology, of which the
+default methodology is one variation, and a first order kinetics methodology.
+Theoretical gas yield methodology
+This is the simplest method for calculating CH4 emissions from SWDSs.  It is based on a
+mass balance approach, and does not incorporate any time factors into the methodology.
+Rather, this methodology assumes that all potential CH4 is released from waste in the
+year that the waste is disposed of.  Although this is not what actually occurs, it gives a
+reasonable estimate of the current year’s emissions if the amount and composition of the
+waste disposed of has been relatively constant over the previous several years.  If,
+however, there have been significant changes in the rate of waste disposal, this simple
+method will likely not provide a good estimate of current emissions.
+Default methodology
+The default methodology is a mass balance approach that involves estimating the
+degradable organic carbon (DOC) content of the solid waste, i.e., the organic carbon that
+is accessible to biochemical decomposition, and using this estimate to calculate the
+amount of CH4 that can be generated by the waste.  This is the approach taken by
+Bingemer and Crutzen (1987), who divided the world into four economic regions (the
+United States, Canada and Australia; other OECD countries; the Former USSR and
+Eastern and Central Europe; developing countries), and applied different DOC values to
+the waste generated within each of these regions.  It is the most widely accessible, easy-
+to-apply methodology for calculating country-specific emissions of CH4 from SWDSs.  It
+requires the least amount of data to perform the calculations, and it can be modified and
+refined as the amount of data available for each country increases.  This approach was
+provided as the default methodology in the IPCC Guidelines (IPCC, 1995).
+The revised default methodology provided here modifies the IPCC Guidelines (IPCC, 1995)
+in three important ways:
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.5
+• Rather than distinguishing between “landfills” and “open dumps,” the methodology
+uses a continuum of solid waste disposal sites, characterised by the degree of waste
+management and depth.
+• Default DOC values are provided for different waste streams so that countries can
+calculate the DOC content of their waste rather than relying on single default values.
+• Emphasising the fact that this methodology estimates CH4 generation rather than
+emission, and that oxidation often occurs in the upper layers of the waste mass and in
+site cover material, a CH4 oxidation factor (OX) is included in the equation (currently
+equal to 0, pending the availability of further data).
+The determination of annual CH4 emissions for each country or region can be calculated
+from Equation 1:
+EQUATION 1
+Methane emissions (Gg/yr)
+=
+(MSWT x MSWF x MCF x DOC x DOCF x F x 16/12 - R) x (1-OX)
+where:
+MSWT
+=
+total MSW generated (Gg/yr)
+MSWF
+=
+fraction of MSW disposed to solid waste disposal sites
+MCF
+=
+methane correction factor (fraction)
+DOC
+=
+degradable organic carbon (fraction)
+DOCF
+=
+fraction DOC dissimilated
+F
+=
+fraction of CH4 in landfill gas (default is 0.5)
+R
+=
+recovered CH4 (Gg/yr)
+OX
+=
+oxidation factor (fraction - default is 0)
+Total MSW (MSWT) can be calculated from Population (thousand persons) x Annual
+MSW generation rate (Gg/thousand persons/yr).  Per capita MSW generation rates are
+provided for many countries and regions in Table 6-1.  The components of MSW may
+vary from country to country.  These differences can play an important role in the
+resulting emissions estimate, as each waste stream may have a different DOC content
+and hence a different CH4 generation potential.  In general, countries should include the
+following waste streams in their estimate of total MSW generated:
+1. household waste;
+2. yard/garden waste; and
+3. commercial/market waste.
+In some countries, significant quantities of organic industrial solid waste are generated.
+The default values in Table 6-1 should not include industrial waste or construction and
+demolition material.  If a significant quantity of organic industrial solid waste is generated
+WASTE
+6.6
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+and disposed of in solid waste disposal sites, this waste should be included in the MSW
+generation rates and reflected in the corresponding DOC value chosen (see below under
+Degradable Organic Carbon).
+In countries where no organised waste collection or disposal takes place in rural areas,
+the population considered should include only the urban population.  The default values in
+Table 6-1 for developing countries and countries with economies-in-transition do not
+include rural area information.
+TABLE 6-1
+COUNTRY WASTE GENERATION, COMPOSITION, AND DISPOSAL DATA
+Region/Country
+MSW Generation Rate
+(kg/cap/day)
+Fraction of MSW
+disposed to SWDS
+Fraction of
+DOC of
+MSW
+MSW disposal
+Rate
+(kg/cap/day)
+North America
+0.18-0.21
+USAa
+2.0
+0.62
+1.24
+Canadab
+1.81
+0.75
+1.35
+Oceania
+Australiac
+1.26
+1.00
+0.15
+1.26
+New Zealandl
+1.33
+1.0
+0.19
+1.33
+UK/Western
+Europe/Scandinavia
+0.08-0.19
+UKm
+1.9
+0.9
+0.10
+1.7
+Irelandb
+0.85
+1.00
+0.85
+Austriad
+0.92
+0.40
+0.36
+Belgiumb
+1.10
+0.43
+0.47
+Denmarkb
+1.26
+0.20
+0.25
+Finlandb
+1.70
+0.77
+1.3
+Franceb
+1.29
+0.46
+0.60
+Germanyb
+0.99
+0.66
+0.65
+Greeceb
+0.85
+0.93
+0.79
+Italye
+0.94
+0.88
+0.83
+Luxembourgb
+1.34
+0.35
+0.47
+Netherlandsf
+1.58
+0.67
+0.14
+1.06
+Norwayb
+1.40
+0.75
+1.05
+Portugalb
+0.90
+0.86
+0.78
+Spainb
+0.99
+0.85
+0.83
+Swedenb
+1.01
+0.44
+0.44
+Switzerlandb
+1.10
+0.23
+0.25
+Eastern Europe
+Polandg
+0.15
+0.54
+Russiah
+0.93
+0.94
+0.17
+0.87
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.7
+TABLE 6-1 (CONTINUED)
+COUNTRY WASTE GENERATION, COMPOSITION, AND DISPOSAL DATA
+Region/Country
+MSW Generation Rate
+ (kg/cap/day)
+Fraction of MSW
+disposed to SWDS
+Fraction of
+DOC of MSW
+MSW disposal
+Rate
+ (kg/cap/day)
+Asia
+Japanb
+1.12
+0.38
+0.43
+Indiai
+0.33
+0.6
+0.18
+0.2
+Chinaj
+0.09
+0.84
+Indonesiaj
+0.17
+0.51
+Central America
+Guatemalaj
+0.13
+0.46
+South America
+Brazilj
+0.12
+1.47
+Peruj
+0.15
+0.98
+Chilej
+0.18
+0.59
+Africa
+Egyptj
+0.21
+0.40
+Nigeriaj
+0.11
+0.40
+South Africak
+1.00
+Note: The values in Table 6-1 represent the best data available to the Expert Group.  Note that all values may not reflect
+identical assumptions regarding MSW composition (and hence corresponding DOC values).  Where updated national data are
+available corresponding to the definitions used here, they should be used for comparison instead of the values given in Table 6-
+1.
+a US EPA, 1995
+b OECD, 1995
+c Tom Beer, CSIRO, 1996
+d Carolin Ziegler, University of Vienna, 1996
+e Domenico Gaudioso, ENEA Italy, 1995
+f Hans Oonk, TNO Environment & Energy Research, The Netherlands, 1995
+g Piotr Manczarski, Warsaw University, Poland, 1995
+h Alexander Lifshits, Geopolis Consulting, Moscow, 1995
+i A.D. Bhide, NEERI, India, 1995
+j Cal Recovery Inc., California, USA - based on experience in country.
+k Les Venter, Solid Waste Dept., Johannesburg, South Africa, 1995
+l E. Gray, New Zealand Ministry of Environment, 1996
+m UK DoE, 1995
+The Fraction MSW Disposed to Solid Waste Disposal Sites (MSWF) and Methane
+Correction Factor (MCF) reflect the way in which MSW is managed and the effect of
+management practices on CH4 generation.  The methodology requires countries to
+provide data or estimates of the quantity of waste that is disposed of to each of three
+categories of solid waste disposal sites (Table 6-2).
+WASTE
+6.8
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 6-2
+SWDS CLASSIFICATION AND METHANE CORRECTION FACTORS
+Type of site
+Methane correction factor (MCF) default values
+Managed
+1.0
+Unmanaged - deep (≥5m waste)
+0.8
+Unmanaged - shallow (<5m waste)
+0.4
+Default value - uncategorised SWDSs
+0.6
+1. Managed solid waste disposal sites.  These must have controlled placement of
+waste (i.e., waste directed to specific deposition areas and a degree of control of
+scavenging and a degree of control of fires) and will include at least one of the
+following:
+• cover material;
+• mechanical compacting; or
+• levelling of the waste.
+2. Unmanaged-deep solid waste disposal sites.  All SWDSs not meeting the criteria
+of managed SWDSs and which have depths of greater than or equal to 5 metres.
+3. Unmanaged-shallow solid waste disposal sites.  All SWDSs not meeting the
+criteria of managed SWDSs and which have depths of less than 5 metres.
+A methane correction factor (MCF) is assigned to each of these categories, as shown in
+Table 6-2.  The MCF reflects the lower methane-generating potential of unmanaged sites.
+The classification recognises that some developing countries or countries with
+economies-in-transition may have a small number of well-managed waste disposal sites,
+with the majority of sites less well-managed or unmanaged, often shallow and with lower
+methane-generating potential.  A default value is provided for countries where the
+quantity of waste disposed to each SWDS is not known.  A country’s classification of its
+waste sites into managed or unmanaged may change over a number of years as national
+waste management policies are implemented.
+Degradable Organic Carbon (DOC) content is based on the composition of waste, and
+can be calculated from a weighted average of the carbon content of various components
+of the waste stream.  Country/region default data for DOC, where available, are
+presented in Table 6-1 (in general, these values are for wet waste).  It is highly
+recommended, however, for countries where the composition of the fractions in the
+waste stream are known, that these be combined with a knowledge of the carbon
+content of these various fractions to produce a country-specific value for DOC.  It is
+critical that the DOC value corresponds to the waste generation/disposal rate on which
+the CH4 estimate is based.  For example, a country that includes industrial waste in its
+MSW estimate should ensure that the DOC value used reflects this component of the
+waste stream.
+To assist countries to calculate the DOC of waste streams, a set of default DOC values
+for different waste types is given in Table 6-3.  Note that these values are for wet (or
+fresh) waste.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.9
+TABLE 6-3
+DEFAULT DOC VALUES FOR MAJOR WASTE STREAMS
+Waste Stream
+Per cent DOC (by weight)
+A.
+Paper and textiles
+40
+B.
+Garden and park waste, and other
+(non-food) organic putrescibles
+17
+C.
+Food waste
+15
+D.
+Wood and straw wastea
+30
+a excluding lignin C
+Source: Bingemer and Crutzen, 1987.
+Using the values in Table 6-3, the DOC content of a country’s waste could be calculated
+as shown in Equation 2.
+EQUATION 2
+Per cent DOC (by weight) = 0.4 (A) + 0.17 (B) + 0.15 (C) + 0.30 (D)
+where:
+A
+=
+per cent MSW that is paper and textiles
+B
+=
+per cent MSW that is garden waste, park waste or other non-food
+organic putrescibles
+C
+=
+per cent MSW that is food waste
+D
+=
+per cent MSW that is wood or straw
+Fraction dissimilated DOC (DOCF) is the portion of DOC that is converted to landfill
+gas.  To date, estimates of how much carbon may be dissimilated have relied on a
+theoretical model that varies only with the temperature in the anaerobic zone of a landfill:
+0.014T + 0.28, where T = temperature (Tabasaran, 1981).  If one assumes that the
+temperature in the anaerobic zone of a SWDS remains constant at about 35
+oC,
+regardless of ambient temperature (Bingemer and Crutzen, 1987), this method yields a
+figure of 0.77 dissimilated DOC.  This value is currently under review.
+Recovered CH4 (R) is the amount of CH4 that is captured for flaring or use.  No default
+values are provided for the quantity of CH4 recovered, as this value is country-specific.
+See Section 6.2.6 below for more information.
+Oxidation Factor (OX) accounts for the CH4 that is oxidised in the upper layers of the
+waste mass and in cover material, where oxygen is present.  Because the default
+methodology relies on an estimate of CH4 generation, it is important to recognise the
+oxidation may reduce the quantity of CH4 generated that is ultimately emitted.  A number
+of researchers are investigating and quantifying the effects of CH4 oxidation in waste
+disposal sites.  However, as yet there is no internationally accepted factor that can be
+applied to account for CH4 oxidation.  The CH4 oxidation factor in the equation has
+therefore been set equal to 0, pending the availability of new data.  A better
+WASTE
+6.10
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+understanding of the factors influencing CH4 oxidation, and more accurate quantification
+of it, may allow for a revised oxidation factor (or default values) in future editions of the
+IPCC Guidelines.  It is important that the oxidation factor be applied after subtraction of
+CH4 recovered, as this CH4 is generally pulled from well below the surface of the SWDS,
+before oxidation can occur.
+It is proposed that the default methodology, based on the theoretical gas yield
+methodology developed by Bingemer and Crutzen (1987), remain as the methodology
+that can be used by all countries to calculate CH4 emissions from their SWDSs.  The
+Workbook provides a detailed step-by-step version of this methodology.
+Theoretical first order kinetics methodologies
+More complex methods for estimating CH4 emissions from SWDSs acknowledge the fact
+that CH4 is emitted over a long period of time rather than instantaneously.  A kinetic
+approach therefore needs to take into account the various factors which influence the
+rate and extent of CH4 generation and release from SWDSs.  A number of countries
+have applied this or similar modelling approaches to their own situation (Aitchison et al.,
+1996; UK, DOE, 1993; Van Amstel et al., 1993; Environment Canada, 1992).
+First Order Decay Model
+A first order decay model (Equation 3) can be used to model the rate of CH4 generation
+over time.  This approach has been used extensively to model landfill gas generation rate
+curves for individual landfills.  It can also be used to model gas generation for a set of
+SWDSs to develop country emissions estimates or can be applied in a more general way
+to entire regions.
+EQUATION 3
+Q = LO R (e-kc - e -kt)
+where:
+Q
+=
+methane generated in current year (m3/yr)
+L0
+=
+methane generation potential (m3/Mg of refuse)
+R
+=
+average annual waste acceptance rate during active life (Mg/yr)
+k
+=
+methane generation rate constant (1/yr)
+c
+=
+time since SWDS closure (yr)
+t
+=
+time since SWDS opened (yr)
+Methane generation potential (Lo).  The methane generation potential depends upon the
+composition of the waste.  Values for Lo can vary widely, and are difficult to estimate
+accurately for a particular SWDS or set of SWDSs.  Lo values may range from less than
+100 to over 200 m3/Mg.
+Quantity of waste landfilled (R).  This is the average annual waste acceptance rate during
+the SWDS’s active life.
+Methane generation rate constant (k).  This value is based on the environment in which
+the SWDS is located.  Higher k values are associated with greater moisture in the
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.11
+SWDSs and other factors discussed in Section 6.2.3 above.  Values for k may range from
+less than 0.005 per year to 0.4 per year (LANDTEC, 1994; US EPA 1991).
+Time since SWDS closure (c).  This is the length of time in years, not including the year
+of closure, since the SWDS stopped accepting waste.
+Time since initial refuse replacement (t).  This is the length of time in years since the
+SWDS began to accept waste.
+Countries with sufficient data on annual waste disposal to SWDSs are encouraged to
+apply the derivative of the first order decay model (Equation 4), to provide a comparison
+to the default methodology as well as to test the feasibility of including this approach in
+future inventories guidelines.
+To allow for variances in annual acceptance rates, the derivative of Equation 3 with
+respect to t can be used to estimate CH4 generation from waste landfilled in a single year
+(Rx).  In this equation, the variable t is replaced with T-x, which represents the number of
+years the waste has been in the SWDS.  The resulting equation thus becomes:
+EQUATION 4
+QT,x = k Rx LO e-k(T-x)
+where:
+QT,x
+=
+the amount of methane generated in the current year (T) by the
+waste Rx
+x
+=
+the year of waste input
+Rx
+=
+the amount of waste disposed in year x (Mg)
+T
+=
+current year
+In order to estimate the current emissions from waste placed in all years, Equation 4 can
+be solved for all values of Rx and the results summed (see Equation 5).
+EQUATION 5
+QT = ΣQT,x
+ for x = initial year to T
+6 . 2 . 5  S o u r c e s  o f  U n c e r t a i n t y
+There are two areas of uncertainty in the estimate of CH4 emissions from solid waste
+disposal sites: (1) the uncertainty attributable to the method; and (2) data uncertainty.
+Uncertainty attributable to the method.  As discussed previously, the default methodology
+assumes that waste disposal into solid waste disposal sites is relatively constant and that
+the CH4 generated by the waste is released in the same year the waste is deposited.
+However, if waste disposal into solid waste disposal sites is increasing over time, then the
+WASTE
+6.12
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+default method will overestimate CH4 emissions.  For example, it can be shown that if
+waste disposal into solid waste disposal sites is increasing at about 2 per cent per year
+over a 20- to 30-year period, then the default method will overestimate emissions by
+about 20-25 per cent.  This is the principal type of uncertainty attributable to the default
+methodology itself.  The amount of waste disposed of is therefore a sensitive parameter
+in this default methodology.
+Data uncertainty.  This source of uncertainty is simply the uncertainty attributable to each
+of the data inputs.  In the case of the default methodology, this includes the uncertainty in
+the estimates for each of the factors used in Equation 1 (e.g., total MSW generated,
+fraction of MSW disposed to solid waste disposal sites).  Although the uncertainty in any
+single one of these factors may be relatively large, if the sources of uncertainty for one
+factor are not related to the uncertainty for the other factors, then the uncertainty of the
+overall CH4 emissions estimate can remain relatively low.  For example, if the values for
+each of the factors used in Equation 1 are assumed to have an uncertainty of ± 10 per
+cent, then the overall uncertainty in the CH4 emissions estimate will be about ± 20 per
+cent.  If the uncertainty for each factor increases by ± 20 per cent, then the overall
+uncertainty in the CH4 emissions estimate increases to ± 40-50 per cent.
+The following key uncertainties related to the data are discussed further below:
+• The quantity and composition of landfilled waste;
+• The quantity of CH4 that is actually generated from the waste in the SWDS;
+• The quantity of CH4 that is actually emitted to the atmosphere.
+Waste quantity and composition: The quality of CH4 emissions estimates is directly
+related to the quality and availability of the waste management data used to derive these
+estimates.  However, an accurate knowledge of the quantity and composition of wastes
+already in place may not be available.  For most countries, limitations on funds available
+will prevent extensive investigations of old and smaller sites.  It is therefore more cost-
+effective to concentrate efforts on improving the quality of data being collected on
+existing landfilling operations, including total waste quantity as well as more detailed site-
+specific data.
+Quantity of methane generated: The degradable organic carbon (DOC) content of waste
+is an essential component in all calculations of CH4 generated, and small variations in the
+assumed values for DOC can result in large variations in the overall estimate of CH4
+emissions.  Different countries have widely differing MSW compositions and therefore
+DOC content.  Both the rate and the extent of degradation of the various waste
+fractions need to be taken into account where data are available.  Waste management
+practices also have significant effects on CH4 generation, for example the method of
+landfilling and the water management practices.  Future changes in waste management
+practices may change the composition of waste to SWDSs considerably, resulting in
+different CH4 emissions levels.
+Quantity of methane generated that is emitted to the atmosphere: The main uncertainty
+influencing the quantity of CH4 emitted is the degree of oxidation that occurs as the gas
+diffuses through the landfill cover material.  The presence, thickness, and other
+characteristics of SWDS cover materials can play a large role in determining the quantity
+of CH4 ultimately emitted from a site.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.13
+6 . 2 . 6  F l a r i n g  a n d  G a s  R e c o v e r y  S c h e m e s
+Flaring and gas recovery schemes successfully reduce CH4 emissions from SWDSs.  Any
+national inventory of CH4 emissions from SWDSs must therefore take into account the
+reductions achieved by these practices.
+For sites recovering CH4 for energy use, the quantity of gas utilised is generally well
+documented.  Estimates of the extent of flaring are more difficult to achieve with
+accuracy, and generally have to be estimated from a knowledge of the state of SWDS
+management within the country.  If data on gas flaring are not readily available for a
+country, the following steps might be useful in development of this information:
+1. Creation of an inventory of gas flares purchased in the country for use with landfill
+gas, including year purchased, estimated useful life, and flow rates.
+2. Use of this inventory to estimate quantity of landfill gas flared each year.
+6 . 2 . 7  C o n c l u s i o n
+A default methodology is presented here that allows simple calculation of CH4 emissions
+from SWDSs by all countries.  Countries are encouraged to use more sophisticated
+methods that incorporate country-specific data, if available.  In particular, countries with
+sufficient data are encouraged to apply the first order decay model presented in Section
+6.2.4 above, and compare the results to the basic default approach.  If such data are not
+available, countries are encouraged to collect data for future application of a first order
+methodology.  The additional information required includes: i) the CH4 generation
+potential of the waste; ii) the rate at which CH4 is generated from the waste each year;
+iii) the year of waste input; and iv) the amount of waste disposed of to SWDSs each year.
+6.3 
+Methane 
+Emissions 
+from 
+Wastewater
+Handling
+6 . 3 . 1  I n t r o d u c t i o n
+Methane production from wastewater handling (WWH) under anaerobic conditions is
+estimated to range from 30 to 40 teragrams per year (Tg/yr).  This represents 8 to 11
+per cent of total global anthropogenic CH4 emissions estimated at 375 Tg/yr.  Industrial
+WWH sources are estimated to be the major contributor to WWH emissions,
+accounting for 26 to 40 Tg/yr.  Domestic and commercial WWH is estimated to emit
+approximately 2 Tg/yr (IPCC, 1995; US EPA 1994).
+Wastewater can produce CH4 if it is handled anaerobically.  Anaerobic methods are used
+to handle wastewater from municipal sewage and from food processing and other
+industrial facilities, particularly in developing countries.  In contrast, developed countries
+typically use aerobic processes for municipal wastewater treatment or anaerobic
+processes in enclosed systems where CH4 is recovered and utilised.
+This section provides the default methodology for estimating CH4 emissions from WWH.
+WASTE
+6.14
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6 . 3 . 2  B a c k g r o u n d
+Handling of wastewater and its residual solids by-product (sludge) under anaerobic
+conditions results in CH4 production.  The extent of CH4 production depends primarily
+on the following factors:
+A)
+Wastewater Characteristics
+The principal factor in determining the CH4 generation potential of wastewater is the
+amount of degradable organic material in the wastewater.  Common parameters used to
+measure the organic component of the wastewater are the BOD (Biochemical Oxygen
+Demand) and COD (Chemical Oxygen Demand).  Under the same conditions,
+wastewater with higher COD (or BOD) concentrations will generally yield more CH4
+than wastewater with lower COD (or BOD) concentrations.
+B)
+Handling Systems
+Handling systems vary in the environment that they provide for CH4 production.  Systems
+that provide anaerobic environments will generally produce CH4 whereas systems that
+provide aerobic environments will normally produce little or no methane.
+For example, the depth of a lagoon treatment system is a critical factor in CH4
+production.  Shallow lagoons, less than 1 metre in depth, generally provide aerobic
+conditions and little CH4 is likely to be produced.  Lagoons deeper than about 2-3 metres
+will generally provide anaerobic environments and significant methane production is
+expected.
+C)
+Temperature
+With increases in temperature, the rate of CH4 production increases.  This is especially
+important in uncontrolled systems and in warm climates.  CH4 production typically
+requires a temperature higher than 15°C.  Fermentation and thus CH4 production is
+negligible at temperatures below 15°C, at which point the lagoon serves principally as a
+sedimentation tank (Gloyna, 1971).  Below 15°C significant amounts of CH4 will be
+produced only in instances where sedimentation and extended sludge retention occur.
+Other factors that influence CH4 generation in wastewater are retention time, degree of
+wastewater treatment, and other site specific characteristics.
+D)
+BOD vs. COD
+The BOD (Biochemical Oxygen Demand) concentration indicates only the amount of
+carbon that is aerobically biodegradable.  The standard measurement for BOD is a 5-day
+test1, denoted as BOD5.  The time period used in the BOD indicates whether only easily
+biodegradable materials or more resistant compounds are taken into account.  COD
+(Chemical Oxygen Demand) measures the total material available for oxidation (both
+biodegradable and non-biodegradable).  Since the BOD is an aerobic parameter, it may be
+less appropriate for determining the organic components in anaerobic environments.
+Also, both the type of wastewater and the type of bacteria present in the wastewater
+influence the BOD concentration of the wastewater.  Although BOD is the more
+                                                  
+     1 A seven day test, denoted as BOD7, is used in some countries instead of BOD5.
+The conversion between BOD5 and BOD7 is dependent on the characteristics of the
+wastewater.  Experts within individual countries should be consulted to obtain
+appropriate conversion coefficients.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.15
+frequently reported parameter, reported COD/BOD ratios can be used to determine the
+COD if the BOD is known.2
+6 . 3 . 3  M e t h o d o l o g y  f o r  W a s t e w a t e r  H a n d l i n g
+Wastewater handling systems involve processes that transfer wastewater from its source
+to a disposal site.  In most developed countries, wastewater treatment systems are used
+to chemically or biologically stabilise the wastewater before disposal.  In many developing
+countries however, wastewater receives little or no formal treatment and is simply
+handled by transporting untreated wastewater to a disposal site.
+Formal wastewater treatment methods can be classified as primary, secondary, and
+tertiary treatment.  In primary treatment, physical barriers remove larger solids from the
+wastewater.  Remaining particulates are then allowed to settle.  Secondary treatment
+consists of a combination of biological processes that promote biodegradation by micro-
+organisms.  These may include aerobic and anaerobic stabilisation ponds, trickling filters,
+and activated sludge processes.  Tertiary treatment processes are used to further purify
+the wastewater of contaminants and pathogens.  This is achieved using one or a
+combination of processes, including maturation/polishing ponds, advanced filtration,
+carbon adsorption, ion exchange, and disinfection.
+Sludge is produced in both the primary and secondary stages of treatment.  Sludge that is
+produced in primary treatment consists of solids that are removed from the wastewater.
+Sludge produced in secondary treatment is a result of biological growth in the biomass, as
+well as the collection of small particles (Lexmond and Zeeman, 1995).  This sludge must
+be treated further before it can be safely disposed of.  Methods of sludge treatment
+include aerobic and anaerobic stabilisation (digestion), conditioning, centrifugation,
+composting, and drying.  Anaerobic stabilisation will produce CH4.
+6 . 3 . 4  
+W a s t e w a t e r  
+H a n d l i n g  
+M e t h o d s  
+i n
+D e v e l o p e d  a n d  D e v e l o p i n g  C o u n t r i e s
+Wastewater handling methods differ between developed and developing countries.  The
+most common methods of wastewater handling in developed countries are aerobic
+wastewater treatment plants and lagoons (Lexmond and Zeeman, 1995).  To avoid high
+discharge fees, many large industrial facilities pretreat their wastewater before releasing it
+into the sewage system.  There is also an increasing trend towards anaerobic treatment
+systems, which can be cheaper and produce less sludge than aerobic systems.
+The degree of wastewater treatment is variable in most developing countries.  Most
+industrial wastewater is discharged directly into local bodies of water, and only a few
+major industries have comprehensive in-plant treatment facilities.  Less than half of
+municipal wastewater produced is collected in a sewage system.  Collected wastewater is
+usually discharged into unmanaged lagoons or waterways; in coastal cities it is discharged
+directly into the ocean.  In many cases, the domestic wastewater handling facilities are pit
+                                                  
+     2 Lexmond and Zeeman estimated a minimum value of the wastewater COD/BOD
+ratio to be 1.70 (Lexmond and Zeeman 1995).  The COD/BOD ratio may vary
+significantly depending upon the characteristics of the wastewater.  This is especially true
+for industrial wastewater which may include inorganic oxidisable materials.  Some
+countries report BOD7 (or other) values rather than BOD5 values.  In this case, domestic
+wastewater experts should be consulted to convert the available BOD data into the
+BOD5 form.
+WASTE
+6.16
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+latrines.  Table 6-4 presents the main wastewater handling methods in developed and
+developing countries.
+Wastewater streams
+Wastewater originates from a variety of domestic and industrial sources.  Domestic
+wastewater streams include wastewater from toilets, bathrooms, kitchens, and in some
+cases, urban run-off.  Industry classifies sources of wastewater into different industrial
+sectors (Lexmond and Zeeman, 1995), for example:
+• Food and Beverages
+• Paper and Pulp
+• Textile
+• Petrochemical
+• Fertiliser
+• Iron and Steel
+• Non-Ferrous Metals
+• Miscellaneous
+Assessment of CH4 production potential from industrial wastewater streams is based on
+the concentration of degradable organic matter in the wastewater, the volume of
+wastewater, and the propensity of the industry to treat their wastewater in anaerobic
+lagoons.  Using these criteria, Doorn and Eklund (1995) prioritised industrial wastewater
+sources with high CH4 gas production potential.  These are characterised as follows:
+• Paper and Pulp manufacture
+• Slaughterhouses
+• Alcohol, Beer, Starch
+• Organic Chemicals
+• Others (vegetable oil production, textiles, rubber, petroleum refineries, fruits and
+vegetables)
+Both the paper and pulp industry and the meat and poultry processing industries produce
+large volumes of wastewater that contain high levels of degradable organics.  Additionally,
+both industries utilise large facilities that often have their own wastewater handling
+systems.  The meat and poultry processing facilities commonly employ anaerobic lagoons
+to treat their wastewater, while the paper and pulp industry is known to use lagoons.
+The non-animal food and beverage industries collectively produce considerable amounts
+of waste water with significant BOD levels.
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.17
+TABLE 6-4
+METHODS OF WASTEWATER HANDLING
+Handling Method
+Exceptions to Expected CH4 Production
+Mostly aerobic disposal and handling
+methods (little or no CH4 production)
+Developing countries
+•
+Open Pits/Latrines
+•
+Aerobic shallow ponds
+•
+River Discharge
+•
+Pits/latrines may produce methane when
+temperature and retention time are
+favourable
+•
+Aerobic shallow ponds over 3 metres deep
+may produce methane
+•
+Stagnant, oxygen-deficient rivers may allow
+for anaerobic decomposition
+Developed countries
+•
+Sewer systems with aerobic treatment
+•
+Poorly designed or managed aerobic
+treatment systems produce methane
+Mostly anaerobic disposal and handling
+methods (high CH4 production)
+Developing countries
+•
+Anaerobic deep ponds
+•
+Sewer systems with anaerobic treatment
+Developed and developing countries
+•
+Septic Tanks
+•
+Poorly designed or managed anaerobic
+systems may allow for aeration and
+reduced methane production
+•
+Frequent solids removal reduces methane
+production
+Anaerobic Methods with Methane Recovery
+(mainly for sludge handling)
+Primarily developed countries
+6 . 3 . 5  
+M e t h o d o l o g y  
+f o r  
+E s t i m a t i n g  
+E m i s s i o n s
+f r o m  W a s t e w a t e r  H a n d l i n g
+Methane emissions from wastewater handling should be calculated for two different
+wastewater and resulting sludge types:
+1 Domestic Wastewater.
+2 Industrial Wastewater.
+3 Domestic Sludge.
+4 Industrial Sludge.
+For each category, the method for estimating CH4 emissions from wastewater handling
+requires three basic steps:
+WASTE
+6.18
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Step 1 - Determine the total amount of organic material in the wastewater
+produced for each wastewater handling system.  The principal factor in
+determining the CH4 generation potential of wastewater is the amount of degradable
+organic material of the wastewater.  The most common parameters used to measure the
+degradable organic component (DC) of the wastewater are the BOD (Biochemical
+Oxygen Demand) and COD (Chemical Oxygen Demand).  Data permitting, COD is the
+recommended parameter for estimating the DC of wastewater.  The DC indicator,
+usually indicated in units of mass DC per unit volume (e.g., kg COD per m3 wastewater)
+is multiplied by the volume of the source of wastewater (e.g., industry or domestic) to
+estimate the total amount of organic wastewater produced.
+Step 2 - Estimate emissions factors for each wastewater handling system in kg
+CH4 per kg DC.  The emissions factors depend on the fraction of wastewater managed
+by each wastewater handling method, maximum CH4 producing capacity of the
+wastewater, and the characteristics of the wastewater handling process (principally, the
+degree to which it is anaerobic).
+Step 3 - Multiply the emissions factors for each wastewater handling system by
+the total amount of organic material in the wastewater produced for each
+system, and sum across the wastewater systems to estimate total CH4 emissions.
+Approach for Estimating Methane Emissions from Wastewater and
+Wastewater Sludge Handling
+This approach is adapted from Doorn and Ecklund (1995) and Lexmond and Zeeman
+(1995).
+Step 1 -Total Organic Wastewater and Sludge
+The greenhouse gas (GHG) generation potential of the wastewater is driven by the
+organic content of the wastewater stream and the volume of wastewater.  For the
+categories of wastewater types defined (domestic and industrial), the following is the
+method for estimating the total organic wastewater (TOW):
+Domestic
+Data needed are:
+1.
+Degradable organic component (DC) indicator in kg DC per 1000 persons per year.
+For domestic wastewater and sludge, BOD is the recommended DC indicator.
+Although COD is considered a more appropriate indicator for the organic
+component of the waste, BOD is the more frequently reported indicator for
+domestic wastewater.  Consequently, the use of BOD estimates will result in more
+precise calculations than when COD is used.  (Default BOD values are provided for
+different regions in Table 6-5).
+2.
+Country population in thousands (developing countries may choose to estimate
+wastewater and sludge handling emissions based only on the urban population of the
+country if wastes produced in rural areas decompose in an aerobic environment -
+see Table 6-4 for a list of anaerobic and aerobic handling methods).
+3.
+Fraction of BOD removed as sludge.
+Equation 6 presents the total domestic organic wastewater (TOWdom) calculation.
+EQUATION 6
+TOWdom = P x Ddom x (1 - DSdom)
+6
+WASTE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+6.19
+Equation 7 presents the total domestic organic sludge (TOSdom) calculation.
+EQUATION 7
+TOSdom = P x Ddom x DSdom
+where:
+TOWdom
+=
+total domestic/commercial organic wastewater in kg BOD/yr
+TOSdom
+=
+total domestic/commercial organic sludge in kg BOD/yr
+P
+=
+population in 1000 persons
+Ddom
+=
+domestic/commercial 
+degradable 
+organic 
+component 
+in
+kg BOD/1000 persons/yr
+DSdom
+=
+fraction of domestic/commercial degradable organic component
+removed as sludge
+Industrial
+Data needed are:
+1.
+Degradable organic component (DC) indicator in kg DC per m3 of industrial
+wastewater/sludge produced per unit product.  For industrial wastewater and sludge
+streams COD is the appropriate DC indicator.  Data on COD values should be
+available in most countries.  It is recommended that country-specific information, if
+available, be used.  Default COD values are provided for different industries by
+region in Table 6-6.  (Although the default values in Table 6-6 are provided by
+region, in most cases the default values are based on estimates for a single country
+within each region.)
+2.
+Wastewater produced per unit product by industry in m3/tonne of product.  Default
+values are provided in Table 6-6.  (Although the default values in Table 6-6 are
+provided by region, in most cases the default values are based on estimates for a
+single country within each region.)
+3.
+Total industrial output in tonnes per year.
+4. 
+Fraction of COD removed as sludge.
+Equation 8 presents the total organic wastewater (TOWind) calculation for a particular
+industry.
+EQUATION 8
+TOWind (kg COD/yr) = W x O x Dind x (1 - DSind)
+WASTE
+6.20
+R e v i se d  1 9 9 6  I P C C   G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Equation 9 presents the total organic sludge (TOSind) calculation for a particular industry.
+EQUATION 9
+TOSind (kg COD/yr) = W x O x Dind x DSind
+where:
+TOWind
+=
+total industrial organic wastewater in kg COD/yr
+TOSind
+=
+total industrial organic sludge in kg COD/yr
+W
+=
+wastewater consumed in m3/tonne of product
+O
+=
+total output by selected industry in tonnes/yr
+Dind
+=
+industrial degradable organic component in kg COD/m3
+wastewater
+DSind
+=
+fraction of industrial degradable organic component removed as
+sludge
+Step 2 - Emissions Factors
+To calculate emissions factors for each wastewater and sludge type, a weighted average of
+methane conversion factors (MCF) is calculated using estimates of wastewater managed
+by each wastewater handling method.  The average MCF is then multiplied by the
+maximum methane producing capacity (Bo) of the wastewater type.
+• Maximum methane producing capacity (Bo): The methane producing potential, Bo, is the
+maximum amount of CH4 that can be produced from a given quantity of wastewater
+or sludge.  The CH4 producing potential varies by the composition of the
+wastewater/sludge and its degradability.  The default (theoretical) value for Bo is 0.25
+kg CH4/kg BOD for wastewater and for sludge (Lexmond et al., 1995).3
+• Fraction of wastewater treated by certain handling systems (WS%): These are the fractions
+of wastewater treated by a specific handling system, i.e., aerobic or anaerobic.
+Country specific estimates for WS should be used where available.  Default estimates
+of WS per cent for different countries are provided in Table 6-7 to 6-9.
+• Fraction of sludge treated by certain handling systems (SS%): These are the fractions of
+sludge treated by a specific handling system, i.e., aerobic or anaerobic.  Country-
+specific estimates for SS should be used where available.
+• Methane conversion factor: The amount of methane that is actually emitted depends on the
+CH4 conversion factor.  The MCF defines the portion of CH4 producing potential (Bo)
+that is achieved.  The MCF varies between 0.0 for a completely aerobic system to 1.0
+for a completely anaerobic system.  Countries should contact wastewater experts to
+                                                  
+     3 Bo is expressed in units of kg CH4/kg DC, where DC is the indicator of degradable
+component of the waste (either COD or BOD).  By definition, BOD is less than or equal
+to COD; the maximum BOD possible is, in fact, the COD.  Therefore, when estimating
+the maximum CH4 producing potential from BOD or COD, the maximum potential CH4
+produced per unit of BOD is equivalent to the maximum potential CH4 produced per
+unit of COD.  This value is 0.25 kg CH4/kg COD.

@@ -1,0 +1,620 @@
+ 
+ 
+ 
+2006 IPCC GUIDELINES FOR 
+NATIONAL GREENHOUSE GAS 
+INVENTORIES  
+OVERVIEW 
+Overview 
+2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Jim Penman (UK), Michael Gytarsky (Russia), Taka Hiraishi (Japan), William Irving (USA),  
+and Thelma Krug (Brazil) 
+ 
+Overview 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3 
+Contents 
+Overview 
+1 
+Introduction ............................................................................................................................................ 4 
+2 
+Coverage of the Guidelines .................................................................................................................... 5 
+3 
+Approach to developing the Guidelines ................................................................................................. 8 
+4 
+Structure of the Guidelines ..................................................................................................................... 9 
+5 
+Specific developments in the 2006 IPCC Guidelines ........................................................................... 10 
+ 
+Figures 
+Figure 1  
+Main categories of emissions by sources and removals by sinks ........................................... 6 
+Figure 2  
+Example Decision Tree (for CH4 and N2O from Road Transport) ......................................... 9 
+ 
+Tables 
+Table 1   
+Contents of 2006 Guidelines .................................................................................................. 5 
+Table 2   
+Gases for which GWP values are available in the TAR ......................................................... 7 
+Table 3   
+Additional gases for which GWP values are not available in the TAR .................................. 7 
+Table 4   
+General structure of sectoral guidance chapters ................................................................... 10 
+ 
+Overview 
+4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1 INTRODUCTION 
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC Guidelines) provide 
+methodologies for estimating national inventories of anthropogenic emissions by sources and removals by sinks 
+of greenhouse gases. The 2006 IPCC Guidelines were prepared in response to an invitation by the Parties to the 
+UNFCCC. They may assist Parties in fulfilling their commitments under the UNFCCC on reporting on 
+inventories of anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by 
+the Montreal Protocol, as agreed by the Parties. The 2006 IPCC Guidelines are in five volumes. Volume 1 
+describes the basic steps in inventory development and offers the general guidance in greenhouse gas emissions 
+and removals estimates based on the authors’ understanding of accumulated experiences of countries over the 
+period since the late 1980s, when national greenhouse gas inventories started to appear in significant numbers. 
+Volumes 2 to 5 offer the guidance for estimates in different sectors of economy.  
+The IPCC has previously developed the Revised 1996 IPCC Guidelines for National Greenhouse Gas 
+Inventories1 (1996 IPCC Guidelines), together with the Good Practice Guidance and Uncertainty Management 
+in National Greenhouse Gas Inventories2 (GPG2000) and the Good Practice Guidance for Land Use, Land-Use 
+Change and Forestry3 (GPG-LULUCF). Taken together, they provide internationally agreed4 methodologies that 
+countries currently use to estimate greenhouse gas inventories to report to the United Nations Framework 
+Convention on Climate Change (UNFCCC). The three-volume 1996 IPCC Guidelines define the coverage of the 
+national inventory in terms of gases and categories of emissions by sources and removals by sinks, and the 
+GPG2000 and GPG-LULUCF provide additional guidance on choice of estimation methodology, improvements 
+of the methods, as well as advice on cross-cutting issues, including estimation of uncertainties, time series 
+consistency and quality assurance and quality control. 
+At its seventeenth session, held in New Delhi in 2002, the Subsidiary Body for Scientific and Technological 
+Advice (SBSTA) under the UNFCCC invited the IPCC to revise the 1996 IPCC Guidelines, taking into 
+consideration the relevant work under the Convention and the Kyoto Protocol5, with the aim of completing the 
+work by early 2006.  
+In response to the UNFCCC’s invitation, the IPCC, at its 20th session in Paris, in February 2003, initiated a 
+process that led to an agreement at its 21st session (in Vienna, November 2003) of Terms of Reference, Table of 
+Contents and a Workplan6 for the 2006 IPCC Guidelines. The Workplan aimed to complete the task in time for 
+adoption and acceptance at the 25th session of the IPCC, in April 2006. The Terms of Reference specified that 
+the revision should be based on, inter alia, the 1996 IPCC Guidelines, GPG2000, GPG-LULUCF, and 
+experiences from the UNFCCC technical inventory review process. 
+ 
+ 
+                                                           
+1  Intergovernmental Panel on Climate Change (IPCC) (1997). Houghton J.T., Meira Filho L.G., Lim B., Tréanton K., 
+Mamaty I., Bonduki Y., Griggs D.J. and Callander B.A. (Eds). Revised 1996 IPCC Guidelines for National Greenhouse 
+Inventories. IPCC/OECD/IEA, Paris, France.  
+2  Intergovernmental Panel on Climate Change (IPCC) (2000). Penman J., Kruger D., Galbally I., Hiraishi T., Nyenzi B., 
+Emmanuel S., Buendia L., Hoppaus R., Martinsen T., Meijer J., Miwa K., and Tanabe K. (Eds). Good Practice Guidance 
+and Uncertainty Management in National Greenhouse Gas Inventories. IPCC/OECD/IEA/IGES, Hayama, Japan. 
+3  Intergovernmental Panel on Climate Change (IPCC) (2003). Penman J., Gytarsky M., Hiraishi T., Krug, T., Kruger D., 
+Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., and Wagner F (Eds). Good Practice Guidance for Land Use, land-
+Use Change and Forestry IPCC/IGES, Hayama, Japan. 
+4 See the Report of the Fourth Session of the Subsidiary Body for Scientific and Technological Advice 
+(FCCC/SBSTA/1996/20), paragraph 30; decisions 2/CP.3 and 3/CP.5 (UNFCCC reporting guidelines for preparation of 
+national communications by Parties included in Annex I to the Convention, part I: UNFCCC reporting guidelines on 
+annual inventories), decision 18/CP.8, revising the guidelines adopted under decisions 3/CP.5, and 17/CP.8 adopting 
+improved guidelines for the preparation of national communications from Parties not included in Annex I to the 
+Convention, and subsequent decisions 13/CP.9 and Draft Decision /CP.10. 
+5  Including, inter alia, work by the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for 
+Implementation, and by the Consultative Group of Experts on National Communications from Parties not included in 
+Annex I to the Convention, and the technical review of greenhouse gas inventories of Annex I Parties.  
+6  The Terms of Reference, Table of Contents and Work plan can be found at http://www.ipcc-nggip.iges.or.jp/. 
+ 
+Overview 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+5 
+2 COVERAGE OF THE GUIDELINES 
+Table 1 shows the contents of the five volumes that make up the 2006 IPCC Guidelines. Estimation methods are 
+provided for the gases shown in Tables 2 and 3, and cover the categories shown in Figure 1. Reporting is 
+described in Chapter 8 of Volume 1. Coverage is complete for all greenhouse gases not covered by the Montreal 
+Protocol, for which the IPCC, at the time of writing, provided a global warming potential (GWP)7.  
+TABLE 1   
+CONTENTS OF 2006 GUIDELINES 
+Volumes 
+Chapters 
+1 -  General Guidance and 
+Reporting 
+1. Introduction to the 2006 Guidelines 
+2. Approaches to Data Collection 
+3. Uncertainties 
+4. Methodological Choice and Identification of Key Categories 
+5. Time Series Consistency  
+6. Quality Assurance/Quality Control and Verification 
+7. Precursors and Indirect Emissions 
+8. Reporting Guidance and Tables 
+2 -  Energy 
+1. Introduction 
+2. Stationary Combustion 
+3. Mobile Combustion 
+4. Fugitive Emissions 
+5. CO2 Transport, Injection and Geological Storage 
+6. Reference Approach  
+3 -  Industrial Processes and 
+Product Use 
+1. Introduction 
+2. Mineral Industry Emissions 
+3. Chemical Industry Emissions 
+4. Metal Industry Emissions 
+5. Non-Energy Products from Fuels and Solvent Use 
+6. Electronics Industry Emissions 
+7. Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+8. Other Product Manufacture and Use 
+4 -  Agriculture, Forestry and 
+Other Land Use 
+1. 
+Introduction  
+2. 
+Generic Methodologies Applicable to Multiple Land-use Categories  
+3. 
+Consistent Representation of Lands 
+4. 
+Forest Land 
+5. 
+Cropland  
+6. 
+Grassland 
+7. 
+Wetlands 
+8. 
+Settlements 
+9. 
+Other Land 
+10. 
+Emissions from Livestock and Manure Management 
+11. 
+N2O Emissions from Managed Soils, and CO2 Emissions from Lime 
+and Urea Application 
+12. 
+Harvested Wood Products 
+5 -  Waste 
+1. Introduction 
+2. Waste Generation, Composition and Management Data 
+3. Solid Waste Disposal 
+4. Biological Treatment of Solid Waste 
+5. Incineration and Open Burning of Waste 
+6. Wastewater Treatment and Discharge 
+ 
+                                                           
+7  Climate Change 2001: The Scientific Basis Contribution of Working Group I to the Third Assessment Report of the IPCC, 
+(TAR), (ISBN 0521 80767 6), Section 6.12.2, Direct GWPs. 
+Overview 
+6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1A1  
+Energy Industries
+5B   Other
+National  
+Greenhouse 
+Gas 
+Inventory 
+1  
+ENERGY 
+1A  
+Fuel Combustion 
+Activities
+1A2   Manufacturing Industries and Construction 
+1A3   Transport
+1A3a   Civil Aviation 
+1A3b   Road Transportation 
+1A3c   Railways 
+1A3d   Water-borne Navigation 
+1A3e   Other Transportation 
+1A4   Other Sectors
+1A5   Non-Specified
+1B    Fugitive 
+Emissions from 
+Fuels
+1B1   Solid Fuels
+1B2    Oil and Natural Gas
+1B3   Other Emissions from Energy Production 
+1C   Carbon 
+Dioxide 
+Transport and 
+Storage
+1C1   Transport of CO2
+1C2   Injections and Storage
+1C3   Other
+2    INDUSTRIAL  
+PROCESSES AND  
+PRODUCT USE 
+2A    Mineral Industry
+2B    Chemical Industry
+2C    Metal Industry
+2D   Non-Energy Products from Fuels and Solvent 
+Use
+2E    Electronics Industry
+2F   Product Uses as Substitutes for Ozone Depleting Substances 
+2G   Other Product Manufacture and Use
+2H   Other 
+3   AGRICULTURE, 
+FORESTRY, AND 
+OTHER LAND USE 
+3A   Livestock
+3A1   Enteric Fermentation
+3A2   Manure Management
+3B   Land
+3B1   Forest Land
+3B2   Cropland
+3B3    Grassland
+3B4   Wetlands
+3B5   Settlements
+3B6   Other Land
+3C   Aggregate Sources and Non-CO2 Emissions Sources on Land 
+3D   Other
+4   WASTE 
+4A   Solid Waste Disposal
+4B   Biological Treatment of Solid Waste
+4C   Incineration and Open Burning of Waste
+4D   Wastewater Treatment and Discharge
+4E   Other
+5   OTHER 
+5A   Indirect N2O Emissions from the Atmospheric Deposition of Nitrogen  in NOx and NH3
+Figure 1  
+Main categories of emissions by sources and removals by sinks 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+7 
+Volume 3 of the 2006 IPCC Guidelines also provides estimation methods and/or emission factors for some 
+direct greenhouse gases not covered by the Montreal Protocol for which GWP values were not available from the 
+IPCC at the time of writing (Table 3). These gases are sometimes used as substitutes for gases included in Table 
+2, for industrial and product applications. Until GWP values are made available from the IPCC, countries will be 
+unable to incorporate these gases in key category analysis (see Section 3 below) or include them in national total 
+GWP weighted emissions. However, optionally, countries may wish to provide estimates of these greenhouse 
+gases in mass units, using the methods provided in the 2006 IPCC Guidelines. Reporting tables are provided for 
+this purpose.  
+ 
+TABLE 2   
+GASES FOR WHICH GWP VALUES ARE AVAILABLE IN THE TAR8 
+Name 
+Symbol 
+Carbon Dioxide 
+CO2 
+Methane 
+CH4 
+Nitrous Oxide  
+N2O 
+Hydrofluorocarbons 
+HFCs (e.g., HFC-23 (CHF3), HFC-134a (CH2FCF3), HFC-152a (CH3CHF2)) 
+Perfluorocarbons 
+PFCs (CF4, C2F6, C3F8, C4F10, c-C4F8, C5F12, C6F14) 
+Sulphur Hexafluoride 
+SF6 
+Nitrogen Trifluoride  
+NF3 
+Trifluoromethyl Sulphur 
+Pentafluoride 
+SF5CF3 
+Halogenated Ethers 
+e.g., C4F9OC2H5, CHF2OCF2OC2F4OCHF2, CHF2OCF2OCHF2 
+Other halocarbons 
+e.g., CF3I, CH2Br2, CHCl3, CH3Cl, CH2Cl2
+9 
+ 
+TABLE 3   
+ADDITIONAL GASES FOR WHICH GWP VALUES ARE NOT AVAILABLE IN THE TAR 
+ C3F7C(O)C2F5
+10 
+C7F16 
+C4F6 
+C5F8 
+c-C4F8O 
+ 
+The 2006 IPCC Guidelines contain links to information on methods used under other agreements and 
+conventions11, for the estimation of emissions of tropospheric precursors which may be used to supplement the 
+reporting of emissions and removals of greenhouse gases for which methods are provided here. 
+                                                           
+8  Third Assessment Report of the IPCC. See also footnote 7.  
+9  For these gases, emissions can be estimated following the methods described in Section 3.10.2 of Volume 3 if necessary 
+data are available, and then reported under sub-category 2B10 “Other”. 
+10 This gas is traded as Novec™612 which is a fluorinated ketone produced by 3M (Milbrath, 2002). 
+11 See, for example, Volume 1 Sections 7.1 and 7.2, where inventory developers are referred to the material developed by the 
+Task Force on Emission Inventories and Projections of the UNECE’s Convention on Long-Range Transboundary Air 
+Pollution for the purpose of estimating emissions of sulphur dioxide (SO2); carbon monoxide (CO); oxides of nitrogen 
+(NOx); ammonia (NH3) and non-methane volatile organic compounds (NMVOCs).  
+Overview 
+8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3 APPROACH TO DEVELOPING THE 
+GUIDELINES  
+The 2006 IPCC Guidelines are an evolutionary development starting from the 1996 IPCC Guidelines, GPG2000 
+and GPG-LULUCF. A fundamental shift in methodological approach would pose difficulties with time series 
+consistency in emissions and removals estimation, and incur additional costs, since countries and the 
+international community have made significant investments in inventory systems. An evolutionary approach 
+helps ensure continuity, and allows for the incorporation of experiences with the existing guidelines, new 
+scientific information, and the results of the UNFCCC review process. The most significant changes occur in 
+Volume 4, which consolidates the approach to Land Use, Land-Use Change and Forestry (LULUCF) in GPG-
+LULUCF and the Agriculture sector in GPG2000 into a single Agriculture, Forestry and Other Land Use 
+(AFOLU) Volume. This, and other important developments and changes, are summarised in Section 5 below. 
+The 2006 IPCC Guidelines retain the definition of good practice that was introduced with GPG2000. This 
+definition has gained general acceptance amongst countries as the basis for inventory development. According to 
+this definition, national inventories of anthropogenic greenhouse gas emissions and removals consistent with 
+good practice are those, which contain neither over- nor under-estimates so far as can be judged, and in which 
+uncertainties are reduced as far as practicable. 
+These requirements are intended to ensure that estimates of emissions by sources and removals by sinks, even if 
+uncertain, are bona fide estimates, in the sense of not containing any biases that could have been identified and 
+eliminated, and that uncertainties have been reduced as far as practicable, given national circumstances. Estimates 
+of this type are presumably the best attainable, given current scientific knowledge and available resources.  
+The 2006 IPCC Guidelines generally provide advice on estimation methods at three levels of detail, from tier 1 
+(the default method) to tier 3 (the most detailed method). The advice consists of mathematical specification of 
+the methods, information on emission factors or other parameters to use in generating the estimates, and sources 
+of activity data to estimate the overall level of net emissions (emission by sources minus removals by sinks). 
+Properly implemented, all tiers are intended to provide unbiased estimates, and accuracy and precision should, in 
+general, improve from tier 1 to tier 3. The provision of different tiers enables inventory compilers to use methods 
+consistent with their resources and to focus their efforts on those categories of emissions and removals that 
+contribute most significantly to national emission totals and trends. 
+The 2006 IPCC Guidelines apply the tiered approach by means of decision trees (see the example in Figure 2). 
+A decision tree guides selection of the tier to use for estimating the category under consideration, given national 
+circumstances. National circumstances include the availability of required data, and contribution made by the 
+category to total national emissions and removals and to their trend over time. The most important categories, in 
+terms of total national emissions and the trend, are called key categories12. Decision trees generally require tier 2 
+or tier 3 methods for key categories. The 2006 IPCC Guidelines provide for exceptions to this, where evidence 
+demonstrates that the expense of data collection would significantly jeopardize the resources available for 
+estimating other key categories. 
+The 2006 IPCC Guidelines also provide advice on; i) ensuring data collection is representative and time series 
+are consistent, ii) estimation of uncertainties at the category level, and for the inventory as a whole, iii) guidance 
+on quality assurance and quality control procedures to provide cross-checks during inventory compilation, and iv) 
+information to be documented, archived and reported to facilitate review and assessment of inventory estimates. 
+Reporting tables and worksheets for tier 1 methods are provided. The use of tiered methodologies and decision 
+trees and the cross cutting advice ensure that the finite resources available for inventory development and 
+updating are deployed most effectively, and that the inventory is checked and reported in a transparent manner. 
+ 
+                                                           
+12 In the GPG2000 and GPG-LULUCF these were called key sources, or key categories where there could be removals.  
+ 
+Overview 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+9 
+Figure 2  
+Example Decision Tree (for CH4 and N2O from Road Transport) 
+Start
+VKT by
+fuel and technology
+type available?
+Is this a key
+category?
+Use vehicle activity 
+based model and 
+country-specific
+factors e.g. COPERT.
+Yes
+Yes
+No
+No
+Use default factors 
+and disaggregation
+by technology.
+Use fuel-based
+emission factors.
+Box 2: Tier 2
+Box 1: Tier 3
+Box 3: Tier 1
+Collect data to 
+allocate fuel to
+technology types.
+Can
+you allocate
+fuel data to vehicle
+technology
+types?
+Are
+Country-specific
+technology based emission 
+factors available?
+Yes
+No
+Yes
+No
+ 
+4 STRUCTURE OF THE GUIDELINES 
+The structure of the 2006 IPCC Guidelines improves upon the structure of the 1996 IPCC Guidelines, GPG2000 
+and GPG-LULUCF in two respects.  
+Firstly, whereas a user of the 1996 IPCC Guidelines, GPG2000 and GPG-LULUCF may need to cross reference 
+between four or five volumes13 to make an emission or removal estimate, the 2006 IPCC Guidelines may require 
+cross referencing between two volumes: Volume 1 (General Guidance and Reporting), and the relevant sectoral 
+volume (one of Volume 2 (Energy), Volume 3 (Industrial Processes and Product Use), Volume 4 (Agriculture, 
+Forestry and Other Land Use), and Volume 5 (Waste)). This represents a considerable simplification. 
+Secondly, the 2006 IPCC Guidelines present Agriculture, Forestry and Other Land Use in a single volume, rather 
+than two volumes comprising Agriculture, on the one hand, and Land-use Change and Forestry on the other. 
+This allows for better integration of information on the pattern of land use and should facilitate more consistent 
+use of activity data (for example, fertilizer application), that affects both agriculture and other land uses, thus 
+reducing or avoiding the possibilities for double counting or omission. 
+                                                           
+13 That is, three volumes of the IPCC 1996 Guidelines plus at least one of GPG2000 or GPG-LULUCF.  
+Overview 
+10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+The 2006 IPCC Guidelines retain the standardised layout of methodological advice at the category level that was 
+introduced in GPG2000 and was maintained in GPG-LULUCF. Table 4 shows the general structure used for 
+each category. Any user familiar with GPG2000 and GPG-LULUCF should be able to shift to the 2006 IPCC 
+Guidelines without difficulty. 
+TABLE 4   
+GENERAL STRUCTURE OF SECTORAL GUIDANCE CHAPTERS 
+• Methodological Issues 
+o 
+Choice of Method, including decision trees and definition of tiers. 
+o 
+Choice of Emission Factor 
+o 
+Choice of Activity Data 
+o 
+Completeness 
+o 
+Developing a Consistent Time Series 
+• Uncertainty Assessment 
+o 
+Emission Factor Uncertainties 
+o 
+Activity Data Uncertainties 
+• Quality Assurance/Quality Control, Reporting and Documentation 
+• Worksheets 
+ 
+The previous IPCC inventory guidance has been reviewed and, where needed, clarified and expanded to improve 
+its user friendliness. Across all the volumes, some additional categories have been identified and included. The 
+guidance focuses on inventory methodologies rather than on scientific discussions of the background material, 
+for which references are provided. 
+5 SPECIFIC DEVELOPMENTS IN THE 2006 
+IPCC GUIDELINES 
+The 2006 IPCC Guidelines are based on a thorough scientific review and a structural enhancement of the IPCC’s 
+inventory methodology across all categories, including the following specific developments: 
+Volume 1 (General Guidance and Reporting) 
+• 
+Introductory advice: A new section has been included, providing for an overview of greenhouse gas 
+inventories and the steps needed to prepare an inventory for the first time. 
+• 
+Extended advice on data collection: The 2006 IPCC Guidelines introduce systematic cross-cutting advice 
+on data collection from existing sources and by new activities, including design of measurement 
+programmes.  
+• 
+Key category analysis: General principles and guidance are provided. In the 2006 IPCC Guidelines, the 
+integration of Agriculture and LULUCF into the AFOLU volume has been addressed, and key category 
+analysis is better integrated across emission and removal categories.  
+Volume 2 (Energy)  
+• 
+Treatment of CO2 capture and storage: These emissions are covered comprehensively, including fugitive 
+losses from CO2 capture and transport stages (which are estimated using conventional inventory approaches) 
+plus any losses from carbon dioxide stored underground (estimated by a combination of modelling and 
+measurement techniques, given the amounts injected - which would also be monitored for management 
+purposes). The inventory methods reflect the estimated actual emissions in the year in which they occur. The 
+inventory methods for geological CO2 capture, transport and storage (CCS) provided in Volume 2 are 
+consistent with the IPCC Special Report on Carbon Dioxide Capture and Storage (2005). Amounts of CO2 
+captured from combustion of biofuel, and subsequently injected into underground storage are included in the 
+inventory as a negative emission. No distinction is made between any subsequent leakage of this CO2 and 
+that of CO2 from fossil sources.  
+• 
+Methane from abandoned coal mines: A methodology for estimating these emissions is included in the 2006 
+IPCC Guidelines for the first time. 
+ 
+Overview 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+11 
+Volume 3 (Industrial Processes and Product Use) 
+• 
+New categories and new gases: The 2006 IPCC Guidelines have been expanded to include more 
+manufacturing sectors and product uses identified as sources of greenhouse gases. These include production 
+of lead, zinc, titanium dioxide, petrochemicals, and liquid crystal display (LCD) manufacturing. Additional 
+greenhouse gases identified in the IPCC Third Assessment Report are also included where anthropogenic 
+sources have been identified. These gases include nitrogen trifluoride (NF3), trifluoromethyl sulphur 
+pentafluoride (SF5CF3), and halogenated ethers. 
+• 
+Non-Energy Uses of Fossil Fuels: Guidance on demarcation with the energy sector has been improved, and 
+emissions from non-energy uses of fossil fuels are now reported under Industrial Processes and Product Use, 
+rather than in Energy. A method has been introduced for checking the completeness of carbon dioxide 
+emission estimates from the non-energy uses.  
+• 
+Actual emissions of fluorinated compounds: The potential emissions approach used as a tier 1 method in the 
+1996 IPCC Guidelines is no longer considered appropriate, as it does not provide estimates of true 
+emissions, and is not compatible with higher tiers. The Tier 1 methods proposed in this volume are therefore 
+actual emission estimation methods, although these are often based on default activity data where better data 
+are not available. Simplified mass balance approaches have also been proposed in appropriate sectors, such 
+as refrigeration. 
+Volume 4 (Agriculture, Forestry and Other Land Use) 
+• 
+Integration between agriculture and land use, land-use change and forestry: This integration removes the 
+somewhat arbitrary distinction between these categories in the previous guidance, and promotes consistent 
+use of data between them, especially for more detailed methods. 
+• 
+Managed land is used in these guidelines as a proxy for identifying anthropogenic emissions by sources and 
+removals by sinks. In most AFOLU sectors anthropogenic GHG emissions by source and removals by sinks 
+are defined as those occurring on managed land. The use of managed land as a proxy for anthropogenic 
+effects was adopted in the GPG-LULUCF. The preponderance of anthropogenic effects occurs on managed 
+lands and, from a practical standpoint, the information needed for inventory estimation is largely confined to 
+managed lands.  
+• 
+Consolidation of previously optional categories: Emissions by sources and removals by sinks associated 
+with all fires on managed land are now estimated, removing the previous optional distinction between 
+wildfires and prescribed burning. This is consistent with the concept of managed land as a proxy for 
+identifying anthropogenic emissions by sources and removals by sinks, as discussed above. Wildfires and 
+other disturbances on unmanaged land cannot, in general, be associated to an anthropogenic or natural cause, 
+and hence are not included in the 2006 IPCC Guidelines, unless the disturbance is followed by a land-use 
+change. In this case, the land affected by disturbance is considered to be managed, and all the greenhouse 
+gas emissions by sources and removals by sinks associated to the fire and other events are now estimated, 
+irrespective of whether of a natural origin or not. Carbon dioxide emissions and removals associated with 
+terrestrial carbon stocks in settlements and managed wetlands, which were previously optional, have been 
+incorporated into the main guidance. 
+• 
+Harvested wood products (HWP): The 2006 IPCC Guidelines provide detailed methods that can be used to 
+include HWP in greenhouse gas inventories using any of the approaches that are currently under discussion 
+within the UNFCCC process.  
+• 
+Emissions from managed wetlands: The 2006 IPCC Guidelines now contain methods to estimate CO2 
+emissions due to land use change in wetlands. However, due to limited availability of scientific information, 
+methods for CH4 emissions are contained in an Appendix – Basis for future methodological development. 
+Volume 5 (Waste) 
+• 
+Revised methodology for methane from landfills: The previous Tier 1 method, based on the maximum 
+potential release of methane in the year of placement, has been replaced by a simple first order decay model 
+that provides the option to use data available from the UN and other sources. This approach includes 
+regional and country-specific defaults on waste generation, composition and management, and provides a 
+consistent basis for estimating greenhouse gas emissions across all tiers. This gives a more accurate time 
+series for estimated emissions and should avoid the situation in which usage of landfill gas apparently 
+exceeds the amount generated in a particular year. 
+• 
+Carbon accumulation in landfills: This is provided as an output from the decay models, and can be relevant 
+for the estimation of HWP in AFOLU.  
+Overview 
+12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• 
+Biological treatment and open burning of waste: Guidance on estimation of emissions from composting and 
+biogas facilities has been included to ensure a more complete coverage of sources.  
+Relevant to all volumes 
+• 
+CO2 resulting from the emissions of other gases: The 2006 IPCC Guidelines estimate carbon emissions in 
+terms of the species which are emitted. Most of the carbon emitted as these non-CO2 species eventually 
+oxidises to CO2 in the atmosphere; and this amount can be estimated from the emissions estimates of the 
+non-CO2 gases. In some cases the emissions of these non-CO2 gases contain very small amounts of carbon 
+compared to the CO2 estimate and it may be more accurate to base the CO2 estimate on the total carbon. See 
+Volume 1 Section 7.2.1.5 for an approach to estimating these inputs of CO2 to the atmosphere. Examples are 
+fossil fuel combustion (where the emission factor is derived from the carbon content of the fuel) and a few 
+IPPU sectors where the carbon mass balance can be estimated much better than individual gases. 
+• 
+Treatment of nitrogen (N) deposition: The GPG2000 lists sources of anthropogenic nitrogen deposition that 
+subsequently give rise to anthropogenic emissions of nitrous oxide (N2O), but provides estimation methods 
+only for a subset of these, associated with agricultural sources of ammonia (NH3) and nitrogen oxides (NOx). 
+The 2006 IPCC Guidelines extend this approach to all significant sources of N deposition, including 
+agriculture, industrial and combustion sources, with the ultimate N2O emission attributed to the country 
+responsible for the nitrogen originally emitted. 
+• 
+Relationship to entity- or project level estimates: The Guidelines are intended to help prepare national 
+inventories of emissions by sources and removals by sinks. Nonetheless, the Guidelines can also be relevant 
+for estimating actual emissions or removals at the entity or project level. 

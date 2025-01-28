@@ -1,0 +1,1528 @@
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.81
+TABLE 1-36
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN GASOLINE PASSENGER CARS
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Uncontrolled: Assumed Fuel Economy 8.9 km/l (11.2 l/100 km)
+Total g/km
+2.2
+0.07
+5.3
+46
+0.005
+270
+Exhaust
+2.2
+0.07
+3.9
+46
+0.005
+270
+Evaporative(a)
+1.4
+g/kg fuel
+27
+0.8
+63
+550
+0.06
+3180
+g/MJ
+0.6
+0.02
+1.5
+13
+0.001
+73
+Early non-catalyst controls:  Assumed Fuel Economy 10.6 km/l (9.4 l/100 km)
+Total g/km
+2.0
+0.08
+5.2
+29
+0.005
+225
+Exhaust
+2.0
+0.08
+3.8
+29
+0.005
+225
+Evaporative(a)
+1.4
+g/kg fuel
+29
+1.1
+74
+405
+0.07
+3180
+g/MJ
+0.7
+0.03
+1.7
+9.3
+0.002
+73
+Non-catalyst controls: Assumed Fuel Economy 12.0 km/l (8.3 l/100 km)
+Total g/km
+2.3
+0.07
+4.5
+19
+0.005
+200
+Exhaust
+2.3
+0.07
+3.2
+19
+0.005
+200
+Evaporative(a)
+1.3
+g/kg fuel
+37
+1.1
+72
+300
+0.08
+3180
+g/MJ
+0.8
+0.03
+1.7
+6.9
+0.002
+73
+Oxidation catalyst: Assumed Fuel Economy 12.3 km/l (8.1 l/100 km)
+Total g/km
+1.4
+0.07
+1.4
+7.5
+0.005
+190
+Exhaust
+1.4
+0.07
+1.0
+7.5
+0.005
+190
+Evaporative(a)
+0.4
+g/kg fuel
+22
+1.2
+24
+125
+0.08
+3180
+g/MJ
+0.5
+0.03
+0.6
+2.9
+0.002
+73
+Three-way catalyst: Assumed Fuel Economy 11.8 km/l (8.5 l/100 km)
+Total g/km
+0.5
+0.02
+0.5
+2.9
+0.05
+205
+Exhaust
+0.5
+0.02
+0.4
+2.9
+0.05
+205
+Evaporative(a)
+0.06
+g/kg fuel
+8.2
+0.3
+7.1
+45.9
+0.8
+3180
+g/MJ
+0.12
+0.007
+0.2
+1
+0.02
+73
+2-stroke: Assumed Fuel Economy 9.2 km/l (10.9 l/100 km)
+Total g/km
+0.8
+0.08
+12
+12
+0.005
+260
+Exhaust
+0.8
+0.08
+10.7
+12
+0.005
+260
+Evaporative(a)
+1.5
+g/kg fuel
+9.3
+1.0
+164
+150
+0.06
+3180
+g/MJ
+0.2
+0.02
+3.8
+3.4
+0.001
+73
+(a) Including diurnal, soak and running losses
+ENERGY
+1.82
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-37
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN DIESEL PASSENGER CARS
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Moderate control: Assumed Fuel Economy 13.7 km/l (7.3 l/100 km)
+Total g/km
+0.7
+0.005
+0.2
+0.7
+0.01
+190
+g/kg fuel
+11
+0.08
+3.0
+12
+0.2
+3140
+g/MJ
+0.3
+0.002
+0.07
+0.3
+0.004
+74
+TABLE 1-38
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN DIESEL LIGHT-DUTY VEHICLES
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Moderate control: Assumed Fuel Economy 9.2 km/l (10.9 l/100 km)
+Total g/km
+1.4
+0.005
+0.4
+1.6
+0.02
+280
+g/kg fuel
+16
+0.06
+4.6
+18
+0.2
+3140
+g/MJ
+0.4
+0.001
+0.1
+0.4
+0.004
+74
+TABLE 1-39
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN DIESEL HEAVY-DUTY VEHICLES
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Moderate control: Assumed Fuel Economy 3.3 km/l (29.9 l/100 km)
+Total g/km
+10
+0.06
+1.9
+9.0
+0.03
+770
+g/kg fuel
+42
+0.2
+8.0
+36
+0.1
+3140
+g/MJ
+1.0
+0.006
+0.2
+0.9
+0.003
+74
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.83
+TABLE 1-40
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN GASOLINE LIGHT-DUTY VEHICLES
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Moderate control: Assumed Fuel Economy 7.4 km/l (13.6 l/100 km)
+Total g/km
+2.9
+0.08
+6.1
+37
+0.006
+325
+Exhaust
+2.9
+0.08
+4.8
+37
+0.006
+325
+Evaporative(a)
+1.3
+g/kg fuel
+29
+0.8
+59
+360
+0.06
+3180
+g/MJ
+0.7
+0.02
+1.4
+8.3
+0.001
+73
+TABLE 1-41
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN GASOLINE HEAVY-DUTY VEHICLES
+EMISSIONS
+NOx
+CH4
+VOC
+CO
+N2O
+CO2
+Uncontrolled: Assumed Fuel Economy 4.4 km/l (22.5 l/100 km)
+Total g/km
+6.9
+0.1
+5.4
+58
+0.006
+535
+Exhaust
+6.9
+0.1
+5.4
+58
+0.006
+535
+Evaporative(a)
+g/kg fuel
+40
+0.7
+32
+346
+0.04
+3180
+g/MJ
+0.9
+0.02
+0.8
+7.9
+0.001
+73
+TABLE 1-42
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN MOTORCYCLES
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+MOTORCYCLES < 50 CC
+Uncontrolled: Assumed Fuel Economy 41.7 km/l (2.4 l/100 km)
+Total g/km
+0.05
+0.1
+6.5
+10
+0.001
+57
+Exhaust
+0.05
+0.1
+6.2
+10
+0.001
+57
+Evaporative(a)
+0.3
+g/kg fuel
+2.8
+5.6
+359
+550
+0.06
+3180
+g/MJ
+0.06
+0.1
+8.3
+13
+0.001
+73
+MOTORCYCLES > 50 CC 2 STROKE
+Uncontrolled: Assumed Fuel Economy 25.0 km/l (4.0 l/100 km)
+Total g/km
+0.08
+0.15
+16
+22
+0.002
+95
+Exhaust
+0.08
+0.15
+15
+22
+0.002
+95
+Evaporative(a)
+1.0
+g/kg fuel
+2.7
+5.0
+530
+730
+0.07
+3180
+g/MJ
+0.06
+0.1
+12
+17
+0.002
+73
+MOTORCYCLES > 50 CC 4 STROKE
+Uncontrolled: Assumed Fuel Economy 19.6 km/l (5.1 l/100 km)
+Total g/km
+0.30
+0.20
+3.9
+20
+0.002
+120
+Exhaust
+0.30
+0.20
+3.4
+20
+0.002
+120
+Evaporative(a)
+0.5
+g/kg fuel
+7.9
+5
+105
+530
+0.05
+3180
+g/MJ
+0.2
+0.1
+2.4
+12
+0.001
+73
+(a) Including diurnal, soak and running losses
+ENERGY
+1.84
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Road Vehicles - Alternative Fuels
+Alternative motor vehicle fuels such as natural gas, liquefied petroleum gas (LPG),
+methanol and ethanol are presently being used in a limited way, and are the subjects of a
+great deal of research and development effort aimed at increasing their usage in the
+future. This section presents some preliminary estimates of the emissions to be expected
+from vehicles using these fuels, based on fuel properties and the limited emissions data
+available.20
+Natural gas
+Because natural gas is mostly methane, natural gas vehicles (NGVs) have lower exhaust
+NMVOC emissions than gasoline vehicles, but higher emissions of methane.  There are no
+evaporative or running-loss emissions, while refuelling emissions and cold-start emissions
+are lower.  These conditions reduce both NMVOC and CO emissions relative to gasoline
+vehicles.  CO2 emissions from NGVs will be lower than for gasoline vehicles, since natural
+gas has a lower carbon content per unit of energy.  It is possible to attain increased
+efficiency by increasing the compression ratio.  Optimised heavy-duty NGV engines can
+approach diesel efficiency levels.  NOx emissions from uncontrolled NGVs may be higher
+or lower than comparable gasoline vehicles, depending on the engine technology.  NOx
+emissions from NGVs are more difficult to control using three-way catalysts.  N2O
+emissions from NGVs were not included.
+Table 1-43 shows three types of NGVs: passenger cars, gasoline-type heavy-duty vehicles,
+and diesel-type heavy-duty vehicles.21  Two sets of emission factors are shown for each:
+uncontrolled (typical of a simple natural gas conversion, without catalytic converter or
+optimisation for emissions) and advanced control (reflecting an engine and catalytic
+converter factory-produced and optimised for natural gas).  The estimates for the
+passenger car and gasoline-type heavy-duty vehicle are based on a gasoline-type engine,
+converted to use natural gas.  For the uncontrolled vehicles, no changes in the engine are
+assumed beyond the fitting of a natural gas mixer and modified spark timing such that the
+efficiency would be the same.  For the vehicles with advanced control, a higher
+compression ratio is assumed to give 15 per cent better fuel efficiency.
+For the diesel-type heavy-duty vehicles, the engine assumed is a diesel-type engine,
+converted to lean, Otto-cycle operation using natural gas.  The uncontrolled case reflects
+no further optimisation beyond the conversion, while the controlled case includes
+extensive combustion optimisation for NOx control and an oxidation catalytic converter.
+Liquefied petroleum gas
+LPG is primarily propane (or a propane/butane mixture) rather than methane which
+affects the composition of exhaust VOC emissions, but otherwise is similar to natural gas.
+Evaporative and refuelling emissions are virtually zero, and CO and exhaust NMVOC
+emissions are usually lower than gasoline vehicles.  The CO2 emissions should be
+somewhat lower than gasoline, due to the lower carbon-energy ratio, and the higher
+                                                  
+     20 Actual emission levels from these vehicles may be very different, and further testing
+is needed to confirm these estimates.
+     21 The emissions considered are only those of the vehicle itself – additional emissions
+due to, e.g., compression or liquefaction of gas for storage on the vehicle, leakage from
+pipelines, etc. are not included, nor are the potential emissions credits due to,
+e.g., production of methane from biomass. This is consistent with the treatment of
+emissions from vehicles using oil-based fuels.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.85
+octane level allows some increase in efficiency, although less than for natural gas.  NOx
+emissions from LPG vehicles tend to be higher than for gasoline, but can also be
+controlled using three-way catalysts.  N2O emissions were not included.
+Table 1-44 shows two types of LPG vehicles.  The engines and technologies considered
+are the same as those for natural gas, except that the lean, diesel-derived natural gas
+engine with propane is not considered.
+Methanol and Ethanol
+The two alcohols have similar properties, and are discussed together.  Development
+efforts have focused primarily on mixtures of alcohols with gasoline, in flexible fuel
+vehicles, capable of running on any combination of gasoline and up to 85 per cent
+methanol or ethanol.  Engines and emission control systems are similar to those for
+advanced-technology gasoline vehicles, and the overall energy efficiency and emissions
+properties are similar.  Table 1-46 shows estimated emissions for a vehicle of this type
+using M85 (85% methanol / 15% gasoline) fuel.  Also shown are some rough emissions
+estimates for heavy-duty vehicles equipped with methanol or ethanol engines.
+ENERGY
+1.86
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-43
+ESTIMATED EMISSION FACTORS FOR US LIGHT- AND HEAVY-DUTY NATURAL GAS VEHICLES
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Passenger Cars
+Advanced Control; Assumed Fuel Economy:  14.9 km/m3
+g/km
+0.5
+0.7
+0.05
+0.3
+NAV
+133
+g/kg fuel
+10.3
+14.5
+1.0
+6.2
+NAV
+2750
+g/MJ
+0.21
+0.29
+0.02
+0.12
+NAV
+56.1
+Uncontrolled; Assumed Fuel Economy:  6.5 km/m3
+g/km
+2.1
+3.5
+0.5
+4.0
+NAV
+305
+g/kg fuel
+19.0
+31.6
+4.5
+36.1
+NAV
+2750
+g/MJ
+0.38
+0.63
+0.09
+0.72
+NAV
+56.1
+Heavy-Duty Vehicles: Stoichiometric Engine (compare with gasoline)
+Advanced Control; Assumed Fuel Economy:  3.6 km/m3
+g/km
+2.6
+3.0
+0.20
+1.0
+NAV
+550
+g/kg fuel
+13.0
+15.0
+1.0
+5.0
+NAV
+2750
+g/MJ
+0.26
+0.30
+0.02
+0.10
+NAV
+56.1
+Uncontrolled; Assumed Fuel Economy:  2.2 km/m3
+g/km
+5.7
+10.0
+1.4
+12.0
+NAV
+900
+g/kg fuel
+17.4
+30.6
+4.3
+36.7
+NAV
+2750
+g/MJ
+0.35
+0.61
+0.09
+0.73
+NAV
+56.1
+Heavy-Duty Vehicles: Lean Burn Engine (compare with diesel)
+Advanced Control; Assumed Fuel Economy:  2.4 km/m3
+g/km
+4.0
+4.0
+0.40
+1.5
+NAV
+825
+g/kg fuel
+13.3
+13.3
+1.3
+5.0
+NAV
+2750
+g/MJ
+0.27
+0.27
+0.03
+0.10
+NAV
+56.1
+Uncontrolled; Assumed Fuel Economy:  2.0 km/m3
+g/km
+23.0
+10.0
+2.0
+8.0
+NAV
+990
+g/kg fuel
+63.9
+27.8
+5.6
+22.2
+NAV
+2750
+g/MJ
+1.28
+0.56
+0.11
+0.44
+NAV
+56.1
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.87
+TABLE 1-44
+ESTIMATED EMISSION FACTORS FOR US LIGHT- AND HEAVY-DUTY LPG VEHICLES.
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Passenger Cars
+Advanced Control
+g/km
+0.5
+0.03
+0.25
+0.3
+NAV
+170
+g/kg fuel
+8.8
+0.6
+4.4
+5.3
+NAV
+3000
+g/MJ(a)
+0.19
+0.01
+0.10
+0.11
+NAV
+63.1
+Uncontrolled
+g/km
+2.1
+0.18
+3.5
+8.0
+NAV
+356
+g/kg fuel
+17.7
+1.5
+29.5
+67.5
+NAV
+3000
+g/MJ
+0.38
+0.03
+0.64
+1.45
+NAV
+63.1
+Heavy-Duty Vehicles: Stoichiometric Engine (compare with gasoline)
+Advanced Control
+g/km
+2.6
+0.15
+0.70
+1.0
+NAV
+695
+g/kg fuel
+11.2
+0.6
+3.0
+4.3
+NAV
+3000
+g/MJ
+0.24
+0.01
+0.07
+0.09
+NAV
+63.1
+Uncontrolled
+g/km
+5.7
+0.4
+8.0
+24.0
+NAV
+1020
+g/kg fuel
+16.8
+1.2
+23.5
+70.6
+NAV
+3000
+g/MJ
+0.36
+0.03
+0.51
+1.52
+NAV
+63.1
+(a) Berdowski, et al. (1993a) suggest a CH4 emission factor of 0.013 g/MJ for this vehicle/technology class.
+TABLE 1-45
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN LPG PASSENGER CARS
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Moderate control: Assumed Fuel Economy 8.9 km/l(a) (11.2 l/100 km)
+Total g/km
+2.2
+0.06
+1.5
+7.1
+-
+180
+g/kg fuel
+37
+1.0
+25
+120
+-
+3030
+g/MJ
+0.9
+0.02
+0.6
+2.6
+-
+65
+(a) Under 5 bar pressure
+ENERGY
+1.88
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-46
+ESTIMATED EMISSION FACTORS FOR US LIGHT- AND HEAVY-DUTY METHANOL VEHICLES
+EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Passenger Cars (M85 Fuel)
+Advanced Control
+g/km
+0.5
+0.02
+0.66
+3.14
+NAV
+183
+g/kg fuel
+4.5
+0.2
+5.9
+28.0
+NAV
+1632
+g/MJ
+0.19
+0.01
+0.25
+1.19
+NAV
+69.7
+Heavy-Duty Vehicles - Methanol-Diesel Engine - M100 Fuel
+Advanced Control
+g/km
+4.0
+0.1
+1.50
+4.0
+NAV
+908
+g/kg fuel
+6.1
+0.2
+2.3
+6.1
+NAV
+1375
+g/MJ
+0.30
+0.01
+0.11
+0.30
+NAV
+68.8
+1 . 5 . 3 . 4
+S U R F A C E  N O N - R O A D  S O U R C E S
+Emission factors are provided for major non-road vehicle source categories including
+farm and construction equipment, railway locomotives, boats, and ships (all primarily
+equipped with diesel engines), jet aircraft, and gasoline-fuelled piston aircraft.
+Table 1-47 presents emission factors specific to the United States, but may be applicable
+to other regions as well.  The emission factors for diesel engines used in railway
+locomotives, farm equipment such as tractors and harvesters, construction equipment
+such as bulldozers and cranes, and diesel boats, are from Weaver (1988).  N2O emission
+factors for off-road diesels are assumed to be the same as those for heavy-duty on-
+highway diesel engines.
+Large ocean-going cargo ships are driven primarily by large, slow-speed and medium-
+speed diesel engines, and occasionally by steam turbines and gas turbines (the latter in
+high power-weight ratio vessels such as fast ferries and warships).  The number of vessels
+equipped with steam or gas-turbine propulsion is small, however, since these vessels are
+unable to compete with the more efficient diesels in most applications.  The results
+shown for NOx and CO are from Hadler (1990)22.  N2O emissions for these engines
+were assumed to be the same, on a fuel-specific basis, as those for other heavy-duty
+diesels, and VOC emissions from these large diesels are probably negligible.
+                                                  
+     22 Other sources consulted for comparison are Melhus (1990), Bremnes (1990),
+Alexandersson (1990).
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.89
+TABLE 1-47
+ESTIMATED EMISSION FACTORS FOR US NON-ROAD MOBILE SOURCES
+UNCONTROLLED EMISSIONS
+NOx
+CH4
+NMVOC
+CO
+N2O
+CO2
+Ocean-Going Ships
+g/kg fuel
+87
+NAV
+NAV
+1.9
+0.08
+3212
+g/MJ
+2.1
+NAV
+NAV
+0.046
+0.002
+77.6
+Boats
+g/kg fuel
+67.5
+0.23
+4.9
+21.3
+0.08
+3188
+g/MJ
+1.6
+0.005
+0.11
+0.50
+0.002
+75.0
+Locomotives
+g/kg fuel
+74.3
+0.25
+5.5
+26.1
+0.08
+3188
+g/MJ
+1.8
+0.006
+0.13
+0.61
+0.002
+75.0
+Farm Equipment
+g/kg fuel
+63.5
+0.45
+9.6
+25.4
+0.08
+3188
+g/MJ
+1.5
+0.011
+0.23
+0.60
+0.002
+75.0
+Construction and Industrial Equipment
+g/kg fuel
+50.2
+0.18
+3.9
+16.3
+0.08
+3188
+g/MJ
+1.2
+0.004
+0.09
+0.38
+0.002
+75.0
+Jet and Turboprop Aircraft
+g/kg fuel
+12.5
+0.087
+0.78
+5.2
+NAV
+3149
+g/MJ
+0.29
+0.002
+0.018
+0.12
+NAV
+72.8
+Gasoline (Piston) Aircraft
+g/kg fuel
+3.52
+2.64
+24
+1034
+0.04
+3172
+g/MJ
+0.08
+0.06
+0.54
+24
+0.0009
+72.1
+A detailed experimental assessment of exhaust emissions from a broad cross section of
+ship categories including bulk carriers, container ships, dredgers, ferries, tankers and tugs
+has recently been completed by Lloyd’s Register (1995).  The vessels evaluated by Lloyd’s
+Register were powered by in-service diesel engines of various vintages and sizes, and
+tested without modification.
+A total of sixty engines on fifty vessels were tested under steady-state conditions, and a
+further eight vessels were tested under transient engine loads by Lloyd’s Register (1995).
+Emission factors reported by Lloyd’s Register for medium and slow speed diesel engines
+are considered to be the best available to date and have been adopted in this study (see
+Table 1-48).
+In the absence of data on the relative time spent under steady state versus transient
+engine loads, steady state engine emission rates are adopted in this study for ocean-going
+ships.  For detailed regional studies, it is recommended that surveys of engine type and
+mode of operation be undertaken to establish fleet emission rates for non-CO2 gases.
+For slow to medium speed diesel engines, considered to be representative of large ocean-
+going cargo ships, Lloyd’s Register (1995) reported NOx emission rates of 57 and 87
+kg/tonne of fuel, respectively.  In the absence of data on the fleet composition of slow
+versus medium speed diesel engines for ocean going fleets, a NOx emission factor of 72
+ENERGY
+1.90
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+kg/tonne of fuel is recommended.  The corresponding emission rate documented by IPCC
+(1995) was 87 kg/tonne of fuel.  Emission rates for CH4 and NMVOC for ocean-going
+ships were not reported by IPCC (1995).  In this study, CH4 and NMVOC emission rates
+are estimated from hydrocarbon (HC) data reported by Lloyd’s Register according to
+CH4 = 0.12 x HC and NMVOC = HC - CH4.
+Lloyd’s Register reported a CO emission rate of 7.4 kg/tonne of fuel for slow to medium
+speed diesel engines.  In this study, the value of 7.4 kg CO/tonne of fuel is adopted for
+slow to medium speed diesel engines on ocean-going ships.
+Emission factors for small engines mainly used in pleasure crafts and small fishing boats
+can be found in Table 1-49 under the heading “Inland waterways” for diesel engines as
+well as for 2-stroke and 4-stroke gasoline engines.
+The difference in emission rates noted above, illustrates the importance of characterising
+fleet engine types and fuel use for regional scale emissions from marine and other non-
+road sources.
+TABLE 1-48
+DEFAULT MARINE EMISSION FACTORS
+CH4
+N2O
+NOx
+CO
+NMVOC
+Ocean-going Ships (diesel engines*)
+g/MJ
+0.007
+0.002
+1.8
+0.18
+0.052
+* Mostly using heavy fuel oil.
+Table 1-49 presents emission factors for non-road vehicles in Europe.  These estimates
+were produced for CORINAIR using national data and information compiled by Andrias
+et al., 1994.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.91
+TABLE 1-49
+ESTIMATED EMISSION FACTORS FOR
+EUROPEAN NON-ROAD MOBILE SOURCES AND MACHINERY
+PART 1:  DIESEL ENGINES
+EMISSIONS
+NOx
+CH4
+(a)
+NMVOC(a)
+CO
+N2O
+CO2
+Diesel Engines
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+Agriculture
+50
+1.2
+0.17
+0.004
+7.3
+0.17
+16
+0.37
+1.3
+0.03
+3140
+73
+Forestry
+50
+1.2
+0.17
+0.004
+6.5
+0.15
+15
+0.35
+1.3
+0.03
+3140
+73
+Industry
+49
+1.1
+0.17
+0.004
+7.1
+0.16
+16
+0.37
+1.3
+0.03
+3140
+73
+Household
+48
+1.1
+0.17
+0.004
+10
+0.23
+23
+0.53
+1.2
+0.03
+3140
+73
+Railways
+40
+0.9
+0.18
+0.004
+4.7
+0.11
+11
+0.25
+1.2
+0.03
+3140
+73
+Inland waterways
+42
+1.0
+0.18
+0.004
+4.7
+0.11
+11
+0.25
+1.3
+0.03
+3140
+73
+PART 2:  GASOLINE ENGINES
+EMISSIONS
+NOx
+CH4
+(a)
+NMVOC(a)
+CO
+N2O
+CO2
+Gasoline 4-stroke
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+Agriculture
+7.6
+0.17
+3.7
+0.08
+74
+1.7
+1500
+33
+0.07
+0.002
+3200
+71
+Forestry
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3200
+71
+Industry
+9.6
+0.21
+2.2
+0.05
+43
+1.0
+1200
+27
+0.08
+0.002
+3200
+71
+Household
+8.0
+0.18
+5.5
+0.12
+110
+2.5
+2200
+79
+0.07
+0.002
+3200
+71
+Railways
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Inland waterways
+9.7
+0.22
+1.7
+0.04
+34
+0.76
+1000
+22
+0.08
+0.002
+3200
+71
+Gasoline 2-stroke
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+g/kg
+g/MJ
+Agriculture
+1.7
+0.04
+6.2
+0.14
+620
+14
+1100
+25
+0.02
+0.0004 3200
+71
+Forestry
+1.6
+0.04
+7.7
+0.17
+760
+17
+1400
+31
+0.02
+0.0004 3200
+71
+Industry
+2.1
+0.05
+6.0
+0.13
+600
+13
+1100
+31
+0.02
+0.0004 3200
+71
+Household
+1.8
+0.04
+8.1
+0.18
+810
+18
+1600
+36
+0.02
+0.0004 3200
+71
+Railways
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+71
+Inland waterways
+2.7
+0.06
+5.1
+0.11
+500
+11
+890
+20
+0.02
+0.0004 3200
+71
+(a) Including diurnal, soak and running losses.
+1 . 5 . 3 . 5
+A I R C R A F T
+Background information
+While the emission factors for aircraft in the Tier 1 approach are fleet average factors for
+NOx, CO and NMVOC as derived from global inventories compiled by NASA,
+ECAC/ANCAT and others, this section presents a more refined Tier 2 method.  The
+methodology includes four sub-activities:
+ENERGY
+1.92
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+BOX 6
+OVERVIEW OF THE ACTIVITIES INCLUDED 
+CORINAIR94
+IN THE PRESENT METHODOLOGY 
+CLASSIFICATION(A)
+Domestic airport traffic
+(LTO(b) -cycles < 914m (3000 ft) altitude)
+SNAP(c) code 080501
+International airport traffic
+(LTO-cycles < 914m (3000 ft) altitude)
+SNAP code 080502
+Domestic cruise traffic
+( > 914m (3000 ft) altitude(d))
+SNAP code 080503
+International cruise traffic
+( > 914m (3000 ft) altitude(d))
+SNAP code 080504
+(a) CORINAIR uses a round figure of 1000 metres (for 3000 feet) as the cut-off.
+(b) LTO is short for the Landing and Take-Off cycle.
+(c) SNAP codes refer to the joint EMEP/CORINAIR Methodology, used in Europe.
+(d) Including further climbout from and descent to 914 metres (3000 feet) altitude.
+Activities include all civil commercial use of airplanes consisting of scheduled and charter
+traffic of passengers and freight.  This also includes taxiing.  Military and private aviation
+activities are not included because respectively, it is unlikely that detailed information is
+available and fuel usage is proportionately very small.  However, theoretically this method
+could also be used for the estimation of the emissions of military aircraft.  In that case,
+these emissions should be reported under 1A5 “Other” and not with domestic or
+international aviation.
+Operations of aircraft are divided into two parts:
+• The Landing/Take-Off (LTO) cycle 23 which includes all activities near the airport that
+take place under the altitude of 914 metres (3000 feet).  This includes engines running
+idle, taxi-in and out, and climbing and descending under this altitude.  In aircraft
+industry-related literature (e.g., the ICAO), the cut-off altitude is often 3000 feet
+which corresponds to 914 metres.
+• Cruise is defined as all activities that take place at altitudes above 914 metres
+(3000 feet).  No upper limit is given.  This also includes further climb-out from and
+descent to an altitude of 914 metres.
+Activities
+For the purposes of the emissions inventory a distinction is made between domestic and
+international flights24.
+                                                  
+     23 Some statistics count either a landing or a take-off as one operation.  However it
+is both one take-off and one landing, that together define one LTO-operation.
+     24 If an aircraft goes from one airport in one country to another in the same country
+and then leaves to a third airport in another country, the first flight stage is considered a
+domestic trip while the second is considered an international trip.  It is not important
+whether the airport is a domestic or an international airport.  In addition, the type of
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.93
+• Domestic aviation (1 A 3 a ii) includes all civil domestic passenger and freight traffic
+inside a country.  All flight stages between two airports in one country are considered
+domestic no matter the nationality of the carrier or the subsequent destination of the
+aircraft.
+• International aviation (1 A 3 a i) includes all civil air traffic coming to or leaving a
+country.  It is assumed that the number of out-bound flights equals the number of in-
+bound flights.
+• LTOs take the classification (domestic or international) of the flight stage to which
+they belong.  As most flights are regarded as return flights, fuel used during landing
+and take-off will be regarded as equal to a take-off and landing.
+Techniques
+In general, there exist two types of engines (Olivier, 1991):
+• reciprocating piston engines, where energy is extracted from a combustion chamber by
+means of a piston and crank mechanism which drives the propellers to give the
+aircraft momentum;  and
+• gas turbines, where compressed air is heated by combustion in a combustion chamber
+and the major part of the released energy is used for propulsion of the aircraft.  Part
+of the energy contained in the hot air flow is used to drive the turbine which in turn
+drives the compressor.  Turbojet engines use energy only from the expanding exhaust
+stream for propulsion, whereas turbofan and turboprop engines use energy to drive
+an extra turbine which drives a fan or propeller respectively, for propulsion.
+Emissions
+Air traffic as a source of combustion emissions varies with respect to the type of fuel
+which is being used, the location (altitude) of the exhaust gases, the types and the
+efficiency of the engines, and the length of the flight.  Emissions come from jet kerosene
+and aviation gasoline which are used as fuel on the aircraft.
+This Tier 2 methodology is only applicable for jet fuel used in jet engines.  Aviation
+gasoline is only used in small aircraft (often referred to as “general aviation”) and
+generally represents less than 1 per cent of fuel consumption for aviation.  As a result, no
+attempt has been made to estimate emission factors for private aviation as this represents
+such a small proportion of global consumption.
+Use of energy, and therefore emissions, is dependent on the aircraft operations and the
+time spent at each stage25.  A substantial part of the fuel consumption takes place outside
+                                                                                                                                
+activity (LTO, cruise, domestic, international) is independent of the nationality of the
+carrier. This treatment of domestic and international differs from that recommended to
+states by the International Civil Aviation Organization (ICAO,1994).  ICAO defines as
+domestic all flight stages flown between domestic points by an airline registered in that
+state and therefore excludes flights between domestic points by foreign airlines.
+     25 Note:  The reference LTO cycle that was used to estimate the emission factors has
+a cycle time of 32.9 minutes made up of the four individual Times in Mode (TIM)
+according to ICAO recommendations.  Depending on whether there is more or less
+congestion at the airport this time may be shorter or longer.  In particular, taxi times may
+differ substantially between large metropolitan airports and small airports.  This can be
+ENERGY
+1.94
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+the LTO-cycle.  Studies indicate that in national airspace 60-80 per cent of NOx and
+80-90 per cent of SO2 and CO2 is emitted at altitudes above 914 metres (3000 feet).  For
+CO it is about 50 per cent and for VOC it is about 20-40 per cent (Olivier, 1991).
+Globally, however, 80 to 90 per cent of these emissions are emitted above an altitude of
+914 metres (3000 feet) (Olivier, 1995).
+Besides the combustion of fuel in the LTO and cruise activities, fuelling and fuel handling
+in general, maintenance of aircraft engines and fuel jettisoning to avoid accidents are
+emission sources.  In the wintertime, anti-ice and de-ice treatment of wings and aircraft is
+a source of emissions at airport complexes.  Many of the substances used flow off the
+wings when planes are idling, taxiing, and taking off, and then evaporate.  These emissions
+are, however, not included in the methodology.
+Emission factors
+For LTO cycles, Table 1-50 gives relevant examples from the ICAO Engine Exhaust
+Emissions Databank (ICAO, 1995).  This provides emission factors for LTO cycles for  a
+large number of engines treated under standard conditions.  Another useful source of
+aircraft emission factors is the FAA Aircraft Emission database, US Office of Environment
+and Energy (1991), derived from an early draft version of the ICAO database.
+For cruise activities, average NOx emission factors related to fuel consumption have been
+estimated and are displayed in Table 1-51.  The cruise emission factors take into account
+the number of engines fitted to each specific aircraft.
+Where aircraft types used in a country are not displayed in Tables 1-50 or 1-51, data for
+the nearest equivalent type in either of those tables can be used or alternatively the
+average emission factors displayed in Table 1-52 can be used.
+Please note that when using the emission factors, the assumptions on sulphur content in
+the fuel should be taken into account.  The factors have been calculated assuming a
+weight percentage of 0.05 per cent26.  Actual values of sulphur content in jet kerosene
+vary between 0.0001 and 0.3 per cent.
+                                                                                                                                
+calculated for  individual airports and individual aircraft as a Tier 3 methodology (see last
+paragraph of Section 1.3).
+     26 For example, if the sulphur content of fuel used is 0.01 per cent, the emission
+factor for SO2 should be divided by 5 to show the corresponding factor.

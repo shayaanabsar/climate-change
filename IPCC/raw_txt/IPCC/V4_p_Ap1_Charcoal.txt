@@ -1,0 +1,78 @@
+Appendix 1: CO2 removals in residual combustion products (charcoal) 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap1.1 
+Appendix 1 
+CO2 Removals in Residual Combustion Products 
+(charcoal): Basis for Future Methodological 
+Development  
+Background 
+Charred materials are the product of the incomplete combustion of vegetation and fossil fuels (Goldberg, 1985). 
+The continuum of combustion products such as char, ash, soot and charcoal are commonly referred to as black 
+carbon (BC). BC is a heterogeneous mixture of residues that have contrasting chemistry and thus resistance to 
+further biological or chemical degradation. Together they occur ubiquitously in soils and other terrestrial 
+sediments, and in marine sediments as well. 
+A large portion (>80%) of the BC that is produced by a fire event remains proximal to the site where it was 
+formed. It is then incorporated into the soil where it can remain for long periods of time. However, BC can also 
+be transported via fluvial and atmospheric pathways to marine sediments, with the majority moving through the 
+fluvial system. This results in most of the particulate BC transported to the oceans being deposited on the coastal 
+shelves, while a smaller portion continues on to the deeper ocean sediments. Another fraction of the particulate 
+BC produced is dispersed into the atmosphere. With residence times that can exceed 7days, much of this 
+component of BC is transported to the oceans and ultimately contributes to the BC fraction of deep ocean 
+sediments, where it is very stable. 
+Over the past few decades BC concentrations in the earth’s atmosphere and biosphere have become of interest 
+because, in aerosol form, they are strong absorbers of solar radiation. They can provide a record of palaeo-
+environments in sediment and ice cores, and they may also be a sizable contributor of oxygen to the atmosphere 
+over geological time frames. BC, in particular the charcoal component, is also important because it represents 
+one of the few ways that carbon can be rendered relatively inert, such that it can not easily recombine with 
+oxygen to form CO2. Hence, there is a strong potential for BC to act as a significant removal (sink) of carbon 
+from the more rapid bio-atmospheric carbon cycle to the slower (long-term) geological carbon cycle (e.g., Graetz 
+and Skjemstad, 2003; Schmidt, 2004; Druffel, 2004). 
+Role of black carbon in the global C budget 
+In a recent review of the formation and persistence of BC in terrestrial ecosystems, Forbes et al. (2006) provided 
+a revised estimate of the formation of BC from vegetation fires and fossil fuel burning of 50 - 270 Tg yr-1. This is 
+a very large C flux and a key question is thus whether the rate of annual BC formation exceeds the amount of C 
+released from the large pool of BC that is already accumulated in terrestrial and marine ecosystems. Whilst it is 
+currently not possible to definitively answer this question, it is important to continue research that will enable a 
+methodology to be developed in the future for accounting for BC in greenhouse gas inventories, and for better 
+understanding the role of BC in the global C budget.  
+Forbes et al. (2006) also identified a set of important issues to be addressed in order to make development of a 
+reliable methodology possible. They identified the need to describe rates of BC formation in a consistent way 
+and suggested it should be expressed as a percentage of the amount of C consumed (CC) by fire. They found that 
+when expressed this way (BC/CC), the rates of BC formation were <3% for grass and savanna fires, and 4-5% 
+for forest fires. The authors concluded that estimates of BC formation based solely on physical measures are 
+very unreliable (lead to significant over estimates) because they are unable to accurately identify and quantify 
+the BC component of post-fire residues that also contain a range of partly combusted materials. 
+BC is subject to slow rates of degradation by photochemical processes and by microbial processes in soils and 
+sediments, but knowledge of longer-term rates and of the factors affecting them is very limited. Research such as 
+incubation studies has shown that BC degradation through biological processes is very slow. Other evidence also 
+suggests very slow degradation of BC; BC can comprise up to 40% of the organic C in terrestrial soils and 12-
+31% of the very large pool of organic C in deep ocean sediments, and has radiocarbon ages in soils in excess of 
+thousands of years. Hence, BC appears to have a significant half-life, in the order of thousands of years and is 
+thus the most stable biomass-derived material in the biospheric C cycle. This relative inertness means that the 
+estimated 3-5% of the carbon converted to BC during forest, savanna and grassland fires, must be considered a 
+significant component of the global carbon cycle with a very slow turnover. 
+Conclusions  
+In order to better gauge the influence of BC on the global carbon cycle, an improved understanding of the 
+production and degradation rates of BC are required for those ecosystems exposed to extensive vegetation fires. 
+Further, the assessment of fluvial and aeolian transport of BC needs to be understood at fine scales, and a better 
+understanding gained of degradation rates of BC in land and ocean sediments. This will allow a methodology for 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap1.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+accounting for BC in greenhouse gas inventories to be developed, and for uncertainties and discrepancies 
+regarding estimates of BC fluxes between the atmosphere, biosphere and oceans to be minimised. The result will 
+be a more accurate global black carbon budget, and better understanding of the role of BC as a potential sink in 
+the global C cycle.  
+ 
+ 
+References 
+Druffel, E.R.M. (2004). Comments on black carbon in the global carbon cycle. Marine Chem.; 92:197-200. 
+Forbes, M.S., Raison, R.J., and Skjemstad, J.O. (2006). Formation, transformation and transport of black carbon 
+(charcoal) in terrestrial and aquatic ecosystems. Journal of the Science of the Total Environment (in press). 
+Goldberg, E.D. (1985). Black Carbon in the Environment: Properties and Distribution. John Wiley and Sons, 
+New York; 198 pp.  
+Graetz, R.D. and Skjemstad, J.O. (2003). The charcoal sink of biomass burning on the Australian continent. 
+CSIRO Atmospheric Research Technical Paper; no 64. 
+Schmidt, M.W.I (2004). Carbon budget in the black. Nature; 427:305-306. 
+ 
+ 

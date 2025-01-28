@@ -1,0 +1,1514 @@
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.1 
+ANNEX 1 
+MAPPING TABLES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+Contents 
+Annex 1 Relating 2019 Refinement to the 2006 IPCC Guidelines .................................................................. A1.3 
+Chapter 1 Introduction to National GHG Inventories ........................................................................................ A1.3 
+Chapter 2 Approaches to Data Collection ......................................................................................................... A1.4 
+Chapter 3 Uncertainties ..................................................................................................................................... A1.6 
+Chapter 4 Methodological Choice and Identification of Key Categories .......................................................... A1.8 
+Chapter 5 Time Series Consistency ................................................................................................................... A1.9 
+Chapter 6 Quality Assurance/Quality Control and Verification ...................................................................... A1.11 
+Chapter 7 Precursors and Indirect Emissions .................................................................................................. A1.13 
+Chapter 8 Reporting Guidance and Tables ...................................................................................................... A1.14 
+ 
+ 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.3 
+Annex 1 Relating 2019 Refinement to the 2006 IPCC Guidelines 
+This annex provides a road map for relating sections, equations, tables, figures and boxes in the 2019 Refinement 
+to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.  
+Type of Refinement: U – Update, NG – New Guidance, NR – No Refinement, R – Removed. 
+ 
+CHAPTER 1 INTRODUCTION TO NATIONAL GHG INVENTORIES 
+Refinements undertaken for Chapter 1 involve primarily guidance on establishing GHG inventory arrangements 
+that can support the development, improvement and maintenance of national GHG inventories. The Section 1.1 
+has been updated by elaboration of concept of anthropogenic emissions and removals related to additional and 
+voluntary estimation and reporting of emissions and removals from natural disturbances in Chapter 2 of Volume 
+4. A sub-section on the treatment of CO2, CH4 and N2O emissions from combustion of biomass or biomass-based 
+products has also been added. The chapter introduces the concept of institutional arrangements and some examples 
+on the functional roles of organisations in the national inventory compilation process. The chapter describes the 
+use of different data management systems needed for calculating estimates and for aggregating and reporting GHG 
+inventory data.  
+Sections 
+• 
+The Section 1.1 is an update of Section 1.1, Chapter 1, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 1.1, Chapter 1, Volume 1 of the 2006 IPCC Guidelines.  
+• 
+The Section 1.4a is a new section in the Chapter 1, Volume 1 of the 2019 Refinement. It should be placed after 
+section 1.4, Chapter 1, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 1.6 is a new section in the Chapter 1, Volume 1 of the 2019 Refinement. It should be placed after 
+Section 1.5, Chapter 1, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Concepts 
+U 
+1.1 
+1.1 
+National GHG Inventory Arrangements 
+NG 
+- 
+1.4a 
+GHG inventory management tools 
+NG 
+- 
+1.6 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+An illustrative example structure for capturing and 
+sharing information on the objectives of the national 
+GHG inventory 
+NG 
+- 
+1.1 
+Illustrative table constructed around UK GHG inventory 
+objectives 
+NG 
+- 
+1.2 
+List of common actors and stakeholder types with their 
+general roles and capabilities 
+NG 
+- 
+1.3 
+Examples of metadata for tracking GHG inventory 
+stakeholders 
+NG 
+- 
+1.4 
+Illustrative list of datasets used in the GHG inventory 
+NG 
+- 
+1.5 
+Illustrative workplan for the preparation of a GHG 
+inventory including an indicative timeline 
+NG 
+- 
+1.6 
+Suggested information in a standardised data structure for 
+collating GHG inventory data 
+NG 
+- 
+1.7 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Illustrative example of GHG inventory institutional 
+arrangements structuring 
+NG 
+- 
+1.0 
+ 
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement 
+Box Number 
+Linkages of GHG inventory activities with other data 
+collection and reporting 
+NG 
+- 
+1.0a 
+Illustrative data flow overview diagram example for 
+South Africa 
+NG 
+- 
+1.0b 
+ 
+CHAPTER 2 APPROACHES TO DATA COLLECTION  
+Chapter 2 contains updated guidance on approaches to data collection and on the development of country specific 
+emission factors. New guidance is also provided for the use of facility data in the inventory compilation process, 
+considering both cases where data comes from facility reporting programmes built for inventory use and those 
+cases where data collection was not originally designed for inventory application. 
+Sections 
+• 
+The Section 2.1 is an update of Section 2.1, Chapter 2, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 2.1, Chapter 2, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 2.2 is an update of Section 2.2, Chapter 2, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 2.2, Chapter 2, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 2.3 is a new section in Chapter 2, Volume 1 of the 2019 Refinement. It should be placed after 
+Section 2.2, Chapter 2, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Annex 2A.2 is an update of Annex 2A.2, Chapter 2, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Annex 2A.2, Chapter 2, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Introduction 
+U 
+2.1 
+2.1 
+Collecting data 
+U 
+2.2 
+2.2 
+Use of Facility Data in Inventories 
+NG 
+- 
+2.3 
+General guidance on performing surveys   
+U 
+2A.2 
+2A.2 
+ 
+ 
+ 
+ 
+Suggested description of potential, planned and 
+implemented improvements in inventory improvement 
+plan 
+NG 
+- 
+1.8 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.5 
+Equations 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Generic elements of a measurement programme 
+U 
+2.1 
+2.1 
+Main parameters that effect emissions and removals 
+NG 
+- 
+2.1a 
+Potential sources of emission factors 
+U 
+2.2 
+2.2 
+Standard measurement methods for exhaust gas 
+U 
+2.3 
+2.3 
+Quality goals for facility data 
+NG 
+- 
+2.4 
+Potential facility GHG reporting requirements 
+NG 
+- 
+2.5 
+ 
+Figures 
+ 
+Boxes 
+ 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 
+Refinement 
+Equation 
+Number 
+Total facility emissions from all sources 
+NG 
+- 
+2.1 
+Emissions calculated by facility-specific emission factors 
+NG 
+- 
+2.2 
+Facility data integration by emission source 
+NG 
+- 
+2.3 
+Total facility emissions by industrial classification 
+NG 
+- 
+2.4 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Steps in data collection 
+NG 
+- 
+2.0a 
+Outline of data collection steps and decisions 
+NG 
+- 
+2.0b 
+Process for including data in the EFDB 
+U 
+2.1 
+2.1 
+Illustration of how to integrate FRD into national activity 
+dataset 
+NG 
+- 
+2.2 
+Sample decision tree for integration of FRD 
+NG 
+- 
+2.3 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement 
+Box Number 
+Example of confidentiality agreement form of the UK in 
+2013 (DECC and DEFRA were the relevant government 
+departments in 2013) 
+NG 
+- 
+2.0a 
+Illustrative examples of aggregation of confidential data 
+NG 
+- 
+2.0b 
+Example of using alternative data to approximate activity 
+data 
+NR 
+2.1 
+2.1 
+The difference between census and survey data 
+NR 
+2.2 
+2.2 
+Facility data consideration and use 
+NG 
+- 
+2.3 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 3 UNCERTAINTIES 
+Refinements undertaken for Chapter 3 involve a series of updates in different sections with the aim to provide 
+clear guidance on estimating and reporting uncertainties associated with both annual estimates of emissions and 
+removals, and emission and removal trends over time. The chapter is updated, with a series of examples, in order 
+to address the inventory compiler on the most appropriate estimators that could be used, within typical 
+circumstances and available data, for uncertainty evaluation. Examples of uncertainty calculations in different 
+sectors are also provided.  
+Sections 
+• 
+The Section 3.1.1 is an update of Section 3.1.1, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 3.1.1, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.1.1a is a new section in the Chapter 3, Volume 1 of the 2019 Refinement. It should be placed 
+after Section 3.1.1, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.1.2 is an update of Section 3.1.2, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 3.1.2, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.1.3 is an update of Section 3.1.3, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 3.1.3, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.1.5 is an update of Section 3.1.5, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 3.1.5, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.1.6 is an update of Section 3.1.6, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 3.1.6, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.2 is an update of Section 3.2, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 3.2, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.2.3 is an update of Section 3.2.3, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 3.2.3, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 3.6 is an update of Section 3.6, Chapter 3, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 3.6, Chapter 3, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Overview of uncertainty analysis 
+U 
+3.1.1 
+3.1.1 
+Uncertainty assessment as part of inventory management 
+NG 
+- 
+3.1.1a  
+Overall structure of uncertainty analysis 
+U 
+3.1.2 
+3.1.2 
+Key concepts and terminology 
+U 
+3.1.3 
+3.1.3 
+Causes of uncertainty 
+U 
+3.1.5 
+3.1.5 
+Reducing uncertainty 
+U 
+3.1.6 
+3.1.6 
+Quantifying uncertainties 
+U 
+3.2 
+3.2 
+Methods to combine uncertainties 
+U 
+3.2.3 
+3.2.3 
+Examples 
+U 
+3.6 
+3.6 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.7 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 
+Refinement 
+Equation 
+Number 
+Combining uncertainties – Approach 1 – multiplication 
+U 
+3.1 
+3.1 
+Combining uncertainties – Approach 1 – addition and 
+subtraction 
+U 
+3.2 
+3.2 
+Combining uncertainties – approach 1 – AD • EF 
+NG 
+- 
+3.2a  
+Combining uncertainties – approach 1 – EF =  a •b • c 
+NG 
+- 
+3.2b 
+Approach 1 - Trend uncertainty 
+NG 
+- 
+3.2c  
+Calculation of Type A Sensitivity 
+NG 
+- 
+3.2d  
+Calculation of Type B Sensitivity 
+NG 
+- 
+3.2e  
+Trend uncertainty due to emission factor 
+NG 
+- 
+3.2f 
+Trend uncertainty due to activity data 
+NG 
+- 
+3.2g 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Approach 1 uncertainty calculation 
+U 
+3.2 
+3.2 
+Example of an Approach 1 uncertainty analysis for 
+Finland (based on Statistics Finland 2018) 
+U 
+3.4 
+3.4 
+List of selected parameters for estimating CH4 emission 
+factors for enteric fermentation (based on ISPRA 2018) 
+NG 
+- 
+3.6 
+Statistics of the Monte Carlo assessment for CH4 
+emissions from enteric fermentation, 2009 (based on 
+ISPRA 2018) 
+NG 
+- 
+3.7 
+ 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Overall structure of a generic uncertainty assessment 
+process 
+U 
+3.1 
+3.1 
+Uncertainty assessment steps description and decision tree 
+NG 
+- 
+3.1a 
+Illustration of accuracy and precision 
+NR 
+3.2 
+3.2 
+Estimated soil organic C stock changes (Tg CO2 eq. yr-1) 
+and 95 percent confidence intervals for Tier 1, 2 and 3 
+methods as applied in the national greenhouse gas 
+inventory for the United States (US EPA 2017) 
+NG 
+3.2a 
+3.2a 
+Examples of selected distribution functions (based on 
+ISPRA 2018) 
+NG 
+- 
+3.8a 
+Probability density function from Monte Carlo assessment 
+(based on ISPRA 2018) 
+NG 
+- 
+3.8b 
+Sensitivity chart from Monte Carlo assessment (based on 
+ISPRA 2018) 
+NG 
+- 
+3.8c 
+ 
+ 
+ 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Boxes 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Example of reducing uncertainty in a category by 
+adopting higher tier methods 
+NG 
+- 
+3.0 
+Difference between standard deviation and standard error 
+NG 
+- 
+3.0a 
+Conversion of range to uncertainty 
+NG 
+- 
+3.0b 
+Example of uncertainty calculation: CH4 emissions from 
+manure management 
+NG 
+- 
+3.1a 
+ 
+CHAPTER 4 METHODOLOGICAL CHOICE AND IDENTIFICATION OF KEY 
+CATEGORIES 
+This chapter includes a series of updates on the approaches to identify key categories considering both the level 
+and trend assessment. No major modifications with respect to the 2006 IPCC Guidelines have occurred but a 
+simplification of the equation to calculate the trend assessment.   
+Sections 
+• 
+The Section 4.1 is an update of Section 4.1, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 4.1, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.1.1 is an update of Section 4.1.1, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 4.1.1, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.1.2 is an update of Section 4.1.2, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 4.1.2, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.2 is an update of Section 4.2, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 4.2, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.3.1 is an update of Section 4.3.1, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 4.3.1, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.3.3 is an update of Section 4.3.3, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 4.3.3, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.4 is an update of Section 4.4, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 4.4, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 4.5 is an update of Section 4.5, Chapter 4, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 4.5, Chapter 4, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+ 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Introduction 
+U 
+4.1 
+4.1 
+Definition 
+U 
+4.1.1 
+4.1.1 
+Purpose of the key category analysis 
+U 
+4.1.2 
+4.1.2 
+General rules for identification of key categories 
+U 
+4.2 
+4.2 
+Approach 1 to identify key categories 
+U 
+4.3.1 
+4.3.1 
+Qualitative criteria to identify key categories 
+U 
+4.3.3 
+4.3.3 
+Reporting and Documentation 
+U 
+4.4 
+4.4 
+Examples of key category analysis 
+U 
+4.5 
+4.5 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.9 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 
+Refinement 
+Equation 
+Number 
+Level Assessment (Approach 1) 
+U 
+4.1 
+4.1 
+Trend Assessment (Approach 1) 
+U 
+4.2 
+4.2 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Suggested aggregation level of analysis for Approach 1 
+U 
+4.1 
+4.1 
+Spreadsheet for the Approach 1 analysis – Level 
+Assessment 
+U 
+4.2 
+4.2 
+Spreadsheet for the Approach 1 analysis – Trend 
+Assessment 
+U 
+4.3 
+4.3 
+Summary of key category analysis 
+U 
+4.4 
+4.4 
+Key categories ranks 
+NG 
+- 
+4.4a 
+Example of Approach 1 Level Assessment for Finland's 
+GHG inventory for 2016 
+U 
+4.5 
+4.5 
+Example of Approach 1 Trend Assessment for Finland's 
+GHG inventory for 2016 
+U 
+4.6 
+4.6 
+Example of Approach 1 Level Assessment for the Finnish 
+GHG Inventory for 2003 using a subset 
+R 
+4.7 
+4.7 
+Example of Approach 1 Trend Assessment for the Finnish 
+GHG Inventory for 2003 using a subset 
+R 
+4.8 
+4.8 
+Example of Approach 2 Level Assessment for Finland's 
+GHG inventory for 2016 
+U 
+4.9 
+4.9 
+Example of Approach 2 Trend Assessment for Finland's 
+GHG inventory for 2016 
+U 
+4.10 
+4.10 
+Example of Summary of Key Category Analysis for 
+Finland's GHG inventory for 2016 
+U 
+4.11 
+4.11 
+ 
+Figures 
+ 
+CHAPTER 5 TIME SERIES CONSISTENCY 
+Refinements undertaken for Chapter 5 involve a series of updates in most sections of this chapter as well as 
+provision of new guidance on splicing techniques, most noticeable in relation to non-linear trend analysis. The 
+chapter has maintained most of its original outline. Some of the significant updates are the provision of guidance 
+to deal with time series consistency in cases wherein new emissions factors become available from the IPCC 
+Guidelines, treatment of country-specific categories, maintaining time-series consistency with changes in data 
+sources for different years of the time series and examples to illustrate the application of splicing techniques 
+already provided in the chapter (e.g. overlap and interpolation methods). The chapter has new guidance on a 
+number of time series consistency issues such as ensuring time series consistency when using facility level data, 
+guidance on types of surrogate datasets by IPCC sector that could be used to apply the surrogate method as well 
+as the application of the non-linear trend analysis method with a practical example. 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Decision Tree to choose a Good Practice method 
+NR 
+4.1 
+4.1 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Sections 
+• 
+The Section 5.2.1 is an update of Section 5.2.1, Chapter 5, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 5.2.1, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 5.2.2 is an update of Section 5.2.2, Chapter 5, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 5.2.2, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 5.2.3 is an update of Section 5.2.3, Chapter 5, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 5.2.3, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 5.3.1 is an update of Section 5.3.1, Chapter 5, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 5.3.1, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 5.3.3 is an update of Section 5.3.3, Chapter 5, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 5.3.3, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 5.3.3.5a is a new Section in the Chapter 5, Volume 1 of the 2019 Refinement. It should be placed 
+after Section 5.3.3.5, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 5.4 is an update of Section 5.4, Chapter 5, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 5.4, Chapter 5, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 
+Refinement 
+Equation 
+Number 
+Recalculated emission or removal estimate computed 
+using the overlap method 
+NR 
+5.1 
+5.1 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Examples of surrogate data by sector 
+U 
+- 
+5.0 
+Summary of splicing techniques 
+U 
+5.1 
+5.1 
+Category-specific documentation of recalculations 
+U 
+5.2 
+5.2 
+ 
+ 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Recalculations due to methodological changes and 
+refinements 
+U 
+5.2.1 
+5.2.1 
+Adding new categories 
+U 
+5.2.2 
+5.2.2 
+Tracking increases and decreases due to technological 
+change and other factors 
+U 
+5.2.3 
+5.2.3 
+Issues with data availability 
+U 
+5.3.1 
+5.3.1 
+Splicing techniques 
+U 
+5.3.3 
+5.3.3 
+Non-linear trend analysis 
+NG 
+5.3.3.5 
+5.3.3.5a  
+Reporting and documentation of trend information 
+U 
+5.4 
+5.4 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.11 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+Consistent overlap 
+NR 
+5.1 
+5.1 
+Inconsistent overlap 
+NR 
+5.2 
+5.2  
+Linear interpolation 
+NR 
+5.3 
+5.3 
+ 
+Boxes 
+ 
+CHAPTER 6 QUALITY ASSURANCE/QUALITY CONTROL AND 
+VERIFICATION 
+Chapter 6 contains updated guidance on quantification of emissions estimates based on atmospheric concentration 
+measurements. This update is based on the latest scientific literature. Key features of the updates include a 
+description of the elements needed for GHG emissions inventory verification using atmospheric measurements 
+including the role of inverse modelling and satellite observations. The guidance presents a series of national 
+examples wherein practical application of atmospheric measurements for verification of national emission 
+inventory estimates has been undertaken. The chapter also presents new guidance on the use and reporting of 
+models. This new guidance applies to complex models, generally Tier 3 approaches. A step-by-step approach to 
+report on the use of models in emission inventories is presented along with a checklist for ensuring good practice 
+in the use of complex, higher tier models in national greenhouse gas inventories. 
+Sections 
+• 
+The Section 6.1 is an update of Section 6.1, Chapter 6, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 6.1, Chapter 6, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 6.7.2.1 is an update of Section 6.7.2.1, Chapter 6, Volume 1 of the 2006 IPCC Guidelines and 
+should be used instead of the Section 6.1, Chapter 6, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 6.10.1 is an update of Section 6.10.1, Chapter 6, Volume 1 of the 2006 IPCC Guidelines and 
+should be used instead of the Section 6.10.1, Chapter 6, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 6.10.2 is an update of Section 6.10.2, Chapter 6, Volume 1 of the 2006 IPCC Guidelines and 
+should be used instead of the Section 6.10.2, Chapter 6, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 6.12 is a new Section in the Chapter 6, Volume 1 of the 2019 Refinement. It should be placed 
+after Section 6.11, Chapter 6, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Recalculation in the Agriculture, Forestry and Other Land 
+Use (AFOLU) Sector 
+U 
+5.1 
+5.1 
+Time series consistency when using facility level data 
+from new legislation (e.g. data from emissions trading 
+scheme or other national data reporting programmes) 
+NG 
+- 
+5.1a  
+Case study of overlap method for methane emissions 
+from charcoal production in Godonia 
+NG 
+- 
+5.1b  
+Case study of interpolating data for carbon dioxide 
+emissions from fossil liquid incineration in Godonia 
+NG 
+- 
+5.2a  
+Case study of non-linear interpolation of data direct soil 
+N2O emissions from manure on non-federal grasslands 
+NG 
+- 
+5.2b 
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Introduction 
+U 
+6.1 
+6.1 
+National level activity data 
+U 
+6.7.2.1 
+6.7.2.1 
+Comparisons of national estimates 
+U 
+6.10.1 
+6.10.1 
+Comparisons with atmospheric measurements 
+U 
+6.10.2 
+6.10.2 
+Use and reporting of models 
+NG 
+- 
+6.12 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Strengths, problems and prospects of using atmospheric 
+measurements for verification of GHG emissions 
+NG 
+- 
+6.2  
+Implementation steps and share of responsibilities 
+between partners 
+NG 
+- 
+6.3 
+Summary of the key steps implemented in national 
+examples 
+NG 
+- 
+6.4  
+General outline of national inventory comparison to 
+global/regional inverse modelling products 
+NG 
+- 
+6.5  
+General guidance related to models in Volumes 1 & 4 of 
+the 2006 IPCC Guidelines 
+NG 
+- 
+6.6 
+ 
+Figures 
+Figure Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Figure Number 
+2019 
+Refinement 
+Figure Number 
+A decision tree for checking the conditions for using the 
+inverse model estimates in the National Inventory 
+verification 
+NG 
+- 
+6.1 
+Schematic of typical model development/selection 
+process 
+NG 
+- 
+6.2  
+ 
+Boxes 
+ 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Definitions of QA/QC and verification 
+U 
+6.1 
+6.1 
+Evaluation of data quality on external data in the 
+transportation sector 
+NR 
+6.3 
+6.3 
+Comparison – verification actions on inventory compiler 
+side 
+NG 
+- 
+6.5 
+UK methane (CH4) and nitrous oxide (N2O) inverse 
+modelling 
+NG 
+- 
+6.6 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.13 
+ 
+CHAPTER 7 PRECURSORS AND INDIRECT EMISSIONS 
+This chapter includes a series of updates that include improvements in the explanation of the methodology for 
+indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3, detailed methodological 
+guidance on treatment of CO2 inputs to the atmosphere from emissions of carbon-containing compounds, an update 
+on the background science on precursors and indirect emissions. The chapter also incorporates updated guidance 
+on non-biogenic sources of CO2 from the atmospheric oxidation of CH4, CO, and NMVOCs, examples of 
+NMVOCs from the different source categories as well as data on carbon content of various materials (percent 
+carbon by mass, PC) and percent of total solvent NMVOC emissions (by mass, PU). The authors of Chapter 7 
+concluded that there is no coherent treatment of indirect emissions across sectors. However, the conclusion was 
+that it would have been beyond the scope of the 2019 Refinement to introduce a rigorous framework across all 
+sectors with respect to treatment of indirect emissions. 
+Sections 
+• 
+The Section 7.1 is an update of Section 7.1, Chapter 7, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 7.1, Chapter 7, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 7.2.1 is an update of Section 7.2.1, Chapter 7, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 7.2.1, Chapter 7, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 7.2.1.5 is an update in Section 7.2.1.5, Chapter 7, Volume 1 of the 2006 IPCC Guidelines and 
+should be used instead of the Section 7.2.1.5, Chapter 7, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 7.3.1 is an update of Section 7.3.1, Chapter 7, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 7.3.1, Chapter 7, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Introduction 
+U 
+7.1 
+7.1 
+Inventory of precursors 
+U 
+7.2.1 
+7.2.1 
+Carbon emitted in gases other than CO2 
+U 
+7.2.1.5 
+7.2.1.5 
+Methodology 
+U 
+7.3.1 
+7.3.1 
+ 
+Equations 
+Equation Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Equation 
+Number 
+2019 
+Refinement 
+Equation 
+Number 
+N2O emissions from atmospheric deposition of NOx and 
+NH3 
+U 
+7.1 
+7.1 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Non-Biogenic sources of CO2 from the atmospheric 
+oxidation of CH4, CO, and NMVOCs 
+NG 
+- 
+A7.1 
+Examples of NMVOCs from the different source 
+categories 
+NG 
+- 
+A7.2  
+Carbon content of various materials (percent carbon by 
+mass, PC) and percent of total solvent NMVOC 
+emissions (by mass, PU) 
+NG 
+- 
+A7.3  
+Volume 1: General Guidance and Reporting 
+ 
+ 
+ 
+A1.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 8 REPORTING GUIDANCE AND TABLES 
+This chapter includes a series of updates such as the clarification on the use of 2013 Supplement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories: Wetlands, new F-gases under gases included in the 2019 
+Refinement, use of Global Warming Potentials (GWPs) as well as update of classifications and definition of 
+categories of emissions and removals to incorporate new gases and categories. The chapter also includes new 
+guidance on reporting tables for new categories and gases included in the 2019 Refinement. 
+Sections 
+• 
+The Section 8.2.2 is an update of Section 8.2.2, Chapter 8, Volume 1 of the 2006 IPCC Guidelines and should 
+be used instead of the Section 8.2.2, Chapter 8, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 8.3 is an update of Section 8.3, Chapter 8, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 8.3, Chapter 8, Volume 1 of the 2006 IPCC Guidelines. 
+• 
+The Section 8.5 is an update of Section 8.5, Chapter 8, Volume 1 of the 2006 IPCC Guidelines and should be 
+used instead of the Section 8.5, Chapter 8, Volume 1 of the 2006 IPCC Guidelines. 
+ 
+Section Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Section 
+Number 
+2019 
+Refinement 
+Section 
+Number 
+Gases Included 
+U 
+8.2.2 
+8.2.2 
+Introduction to reporting tables 
+U 
+8.3 
+8.3 
+Classification and definition of categories 
+U 
+8.5 
+8.5 
+ 
+Tables 
+Table Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines 
+Table Number 
+2019 
+Refinement 
+Table Number 
+Classification and definition of categories of emissions 
+and removals 
+U 
+8.2 
+8.2 
+Formulae for chemical compounds (8A.1) 
+U 
+-  
+- 
+Summary Table (8A.2) 
+U 
+A 
+A 
+Short summary (8A.2) 
+U 
+B 
+B 
+Energy Sectoral Table (8A.2) 
+U 
+1 
+1 
+Energy Background Table (8A.2) 
+U 
+1.3 (1B) 
+1.3 (1B) 
+IPPU Sectoral Table (8A.2) 
+U 
+2 
+2 
+IPPU Background Table: 2A Mineral Industry, Chemical 
+Industry (8A.2) 
+U 
+2.1 
+2.1 
+IPPU Background Table: 2B (2B9 - 2B10) Chemical 
+Industry HFCs, PFCs, SF6, NF3 and other halogenated 
+gases 
+U 
+2.2 
+2.2 
+IPPU Background Table: Metal Industry (8A.2) 
+U 
+2.3 
+2.3 
+IPPU Background Table: 2C (2C3, 2C4, 2C7) Metal 
+Industry HFCs, PFCs, SF6 and other halogenated gases 
+(8A.2) 
+U 
+2.4 
+2.4 
+IPPU Background Table: 2E Electronics Industry HFCs, 
+PFCs, SF6, NF3 and other halogenated gases (8A.2) 
+U 
+2.6 
+2.6 
+IPPU Background Table: Product Uses as Substitutes for 
+Ozone Depleting Substances, HFCs, PFCs and other 
+halogenated gases (8A.2) 
+U 
+2.7 
+2.7 
+ 
+Annex 1: Mapping Tables 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.15 
+ 
+Boxes 
+ 
+IPPU Background Table: 2G (2G1, 2G2, 2G4) Other 
+Product Manufacture and Use – PFCs, SF6 and other 
+halogenated gases (8A.2) 
+U 
+2.8 
+2.8 
+IPPU Background Table: Greenhouse gases without CO2 
+equivalent conversion factors (8A.2) 
+U 
+2.11 
+2.11 
+IPPU Background Table: Allocation of CO2 emissions 
+from Non-Energy Use of fossil fuels: IPPU and other 
+sectors (8A.2) 
+U 
+2.12 
+2.12 
+AFOLU Sectoral Table 
+U 
+3 
+3 
+AFOLU Background Table: Emissions in Wetlands (3B4) 
+U 
+3.3 
+3.3 
+Waste Background Table: CO2, CH4, N2O emissions 
+(8A.2) 
+U 
+4.1 
+4.1 
+Trends of CO2 (8A.2)   
+U 
+6A 
+6A 
+Trends of CH4 (8A.2) 
+U 
+6B 
+6B 
+Trends of N2O (8A.2) 
+U 
+6C 
+6C 
+Trends of HFCs (8A.2) 
+U 
+6D 
+6D 
+Trends of PFCs (8A.2) 
+U 
+6E 
+6E 
+Trends of SF6 (8A.2) 
+U 
+6F 
+6F 
+Trends of other gases (8A.2) 
+U 
+6G 
+6G 
+Box Title 
+Type of 
+Refinement 
+2006 IPCC 
+Guidelines Box 
+Number 
+2019 
+Refinement Box 
+Number 
+Reporting emissions of precursors 
+U 
+8.1 
+8.1 

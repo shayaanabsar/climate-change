@@ -1,0 +1,3215 @@
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.1 
+CHAPTER 12 
+ 
+HARVESTED WOOD PRODUCTS 
+  
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Sebastian Rüter (Germany), Robert William. Matthews (UK) 
+Mattias Lundblad (Sweden), Atsushi Sato (Japan), Rehab Ahmed Hassan (Sudan) 
+ 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.3 
+Contents 
+12. 
+Harvested Wood Products (HWP) .......................................................................................................... 12.6 
+12.1 
+Introduction ....................................................................................................................................... 12.6 
+12.2 
+Terms and definitions ........................................................................................................................ 12.6 
+12.3 
+Approaches to estimating CO2 emissions and removals arising from HWP ..................................... 12.7 
+12.3.1 
+Conceptual frameworks of HWP approaches ......................................................................... 12.8 
+12.3.2 
+System boundaries employed by approaches .......................................................................... 12.8 
+12.4 
+Choice of method for wood products in use ...................................................................................... 12.9 
+12.4.1 
+Initial steps to estimate CO2 emissions and removals arising from HWP............................. 12.10 
+12.4.2 
+Tier 1: “first order decay” method ........................................................................................ 12.16 
+12.4.3 
+Tier 2 method using country-specific data ............................................................................ 12.28 
+12.4.4 
+Tier 3 country-specific methods ........................................................................................... 12.31 
+12.5 
+Harvested wood biomass used for energy purposes ........................................................................ 12.33 
+12.5.1 
+Treatment of CO2 emissions from wood biomass burnt and used for energy purposes ........ 12.33 
+12.5.2 
+Treatment of non-CO2 emissions from wood biomass burnt and used for energy purposes. 12.35 
+12.5.3 
+Guidance on emissions factors for wood biomass burnt and used for energy purposes ....... 12.36 
+12.6 
+Clarification of the treatment of “wood in SWDS” in this guidance .............................................. 12.36 
+12.6.1 
+Representation of CO2 emissions from wood biomass in SWDS ......................................... 12.36 
+12.6.2 
+Representation of non-CO2 (methane) emissions from wood biomass in SWDS ................. 12.36 
+12.7 
+Uncertainty assessment ................................................................................................................... 12.37 
+12.8 
+Quality Assurance/Quality Control (QA/QC) ................................................................................. 12.39 
+12.9 
+Completeness .................................................................................................................................. 12.39 
+Annex 12A. 
+Detailed description of Approaches to estimating CO2 emissions and removals 
+arising from HWP ............................................................................................... 12.40 
+12A.1 
+Introduction ......................................................................................................... 12.40 
+12A.2 
+Estimating CO2 emissions and removals arising from HWP on the basis of carbon 
+stock changes ...................................................................................................... 12.41 
+12A.3 
+Estimating CO2 fluxes from wood biomass ........................................................ 12.44 
+12A.4 
+Implementation of HWP approaches .................................................................. 12.47 
+References 
+ ............................................................................................................................. 12.48 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equations 
+Equation 12.1 
+Estimation of total emissions and removals arising from the HWP pool in use . 12.16 
+Equation 12.2 
+Estimation of carbon stocks and annual carbon stock changes inHWP pool in use
+ ............................................................................................................................. 12.17 
+Equation 12.3 
+Selection of carbon inflow for estimating the carbon stock in the HWP pool in use 
+depending on the chosen approach ...................................................................... 12.17 
+Equation 12.4 
+Approximation of the carbon stocks in the HWP pool in use at the initial time, i.e. 
+from which activity data are available ................................................................. 12.18 
+Equation 12.5 
+Estimation of total CO2 fluxes associated with harvested wood biomass within the 
+country................................................................................................................. 12.20 
+Equation 12.6 
+Calculation of carbon inflow in a particular semi-finished HWP commodity class 
+following the ‘stock-change’ approach ............................................................... 12.23 
+Equation 12.7 
+Calculation of carbon inflow in a particular semi-finished HWP commodity class 
+following the ‘production’ approach ................................................................... 12.23 
+Equation 12.8 
+Estimation of annual fraction of the relevant domestically produced feedstock for 
+production of semi-finished HWP originating from domestic harvest ................ 12.24 
+Equation 12.9 
+Calculation of carbon inflow into a particular semi-finished HWP commodity class 
+for estimating the fraction of domestically consumed HWP following the ’production’ 
+approach .............................................................................................................. 12.25 
+Equation 12.10 
+Calculation of carbon inflow into a particular semi-finished hwp commodity class 
+following the ‘production’ approach in conjunction with allocation to relevant land 
+use categories ...................................................................................................... 12.25 
+Equation 12.11  
+Calculation of carbon in traded HWP feedstock commodity classes serving as wood 
+fuel and raw material for subsequent processing of semi-finished HWP ............ 12.27 
+Figures 
+Figure 12.1 
+Decision tree for choosing the relevant tier method for estimating CO2 emissions and 
+removals arising from HWP ................................................................................ 12.11 
+Figure 12.2 
+Simplified classification of wood products based on FAO forest products definitions
+ ..............................................................................................................................12.12 
+Figure 12.3 
+Examples of different processing stages of wood products along the process and value 
+chain .................................................................................................................... 12.14 
+Figure 12.A.1 
+Conceptual illustration of the ‘stock-change’ approach, estimating CO2 emissions and 
+removals associated with the carbon stock in the HWP pool in use on the basis of 
+calculated consumption data of HWP ................................................................. 12.42 
+Figure 12.A.2 
+‘Box-and-arrow’ diagram showing the system boundary of the ‘stock-change’ 
+approach .............................................................................................................. 12.42 
+Figure 12.A.3 
+Conceptual illustration of the ‘production’ approach, estimating emissions and 
+removals of CO2 associated with the carbon stock in the HWP pool in use on the basis 
+of data on HWP production originating from domestic harvest .......................... 12.43 
+Figure 12.A.4 
+‘Box-and-arrow’ diagram showing the system boundary of the ‘production’ approach
+ ............................................................................................................................. 12.44 
+Figure 12.A.5 
+Conceptual illustration of the ‘atmospheric-flow’ approach, estimating CO2 fluxes 
+associated with HWP on the basis of data on the carbon stock in the HWP pool in use 
+and traded woody biomass .................................................................................. 12.45 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.5 
+Figure 12.A.6 
+‘Box-and-arrow’ diagram showing the system boundary of the ‘atmospheric-flow’ 
+approach .............................................................................................................. 12.45 
+Figure 12.A.7 
+‘Box-and-arrow’ diagram showing the system boundary of the ‘simple-decay’ 
+approach .............................................................................................................. 12.46 
+Tables 
+Table 12.1 
+Default conversion factors for the semi-finished HWP commodity classes and their 
+sub-classes ........................................................................................................... 12.21 
+Table 12.2 
+Default conversion factors for the HWP feedstock commodity classes serving as fuel 
+wood and raw material for manufacturing of semi-finished HWP ...................... 12.22 
+Table 12.3 
+Tier 1 Default half-lives of HWP commodity classes ......................................... 12.28 
+Table 12.4 
+Example of how to derive country-specific half-life for HWP commodity classes as a 
+function of information on market share, estimated service life (ESL) and 
+obsolescence ........................................................................................................ 12.31 
+Table 12.5 
+Reporting of CO2 emissions from wood biomass burnt by producing and consuming 
+countries under different HWP approaches ......................................................... 12.34 
+Table 12.A.1 
+Equations applied in tier 1 methods when implementing hwp approaches ......... 12.47 
+Boxes 
+Box 12.1  
+Example for implementing Equations 12.2 and 12.4 in a spreadsheet ................. 12.19 
+Box 12.2  
+Example on the calculation of national ESL by means of factor method ............ 12.30 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12 
+HARVESTED WOOD PRODUCTS (HWP) 
+12.1 
+INTRODUCTION 
+This Chapter updates Chapter 12 of the 2006 IPCC Guidelines, including updated technical parameters for 
+estimating carbon dioxide (CO2) emissions and removals arising from HWP. Using the term “CO2 emissions and 
+removals arising from HWP” (and sometimes just “CO2 emissions”) in Agriculture, Forestry and Other Land Use 
+(AFOLU) guidance is not common practice but has been adopted in this chapter on HWP and the reasons are 
+discussed as part of terms and definitions in Section 12.2. 
+The guidance in this chapter maintains the existing approaches covered in the 2006 IPCC Guidelines. The refined 
+guidelines provided here take account of new relevant scientific information, including relevant methodological 
+information and parameters contained in IPCC KP Supplement (e.g. carbon conversion factors). Some cross 
+references are made to the earlier guidance where needed, for example in cases where it may be helpful to show 
+consistency with the earlier 2006 IPCC Guidelines. It should also be noted that the HWP Worksheet accompanying 
+the 2006 IPCC Guidelines (HWP calculator) cannot be used in conjunction with this updated guidance. 
+The structure of this chapter aims to clarify the relationships between new information and the 2006 IPCC 
+Guidelines and to allow for inclusion and updating of new parameters where appropriate. 
+The description of the application of methodologies in the light of the inclusion of updated parameters has been 
+clarified. In particular Section 12.2 clarifies some existing terms, definitions and concepts.  
+Section 12.3 provides guidance on available HWP approaches, describing and clarifying the options for defining 
+a conceptual framework and system boundary for estimating emissions and removals arising from HWP.  
+The subsequent guidance in this chapter is structured to consider three distinct subject areas relevant to harvested 
+wood biomass: i) wood products in use (i.e. wood utilised as a material); ii) wood biomass used for energy purposes 
+and iii) wood biomass in solid waste disposal sites (SWDS). Section 12.4 gives detailed guidance on wood products 
+in use, specifically providing good practice guidance on the choice of method for wood products in use. This 
+includes improved methodological guidance for estimating CO2 emissions and removals arising from HWP 
+following different approaches. This section also includes refined guidance for calculating the initial carbon stock 
+in the HWP pool in use as well as parameters such as HWP carbon conversion factors. Section 12.5 addresses 
+wood biomass used for energy purposes. Section 12.6 provides clarification of the treatment of “wood biomass in 
+SWDS”.  
+12.2 
+TERMS AND DEFINITIONS 
+This section provides terms and definitions with specific meaning in the context of estimating CO2 emissions and 
+removals arising from HWP. 
+CO2 emissions and removals arising from HWP: In Volume 4, Chapter 1, Section 1.2.1 of the 2006 IPCC 
+Guidelines, it is explained that GHG fluxes in the AFOLU Sector can be estimated in two ways: 1) as net changes 
+in carbon stocks over time (used for most CO2 fluxes) and 2) directly as gas flux rates to and from the atmosphere 
+(used for estimating non-CO2 emissions and some CO2 emissions and removals). Hence, when giving guidance on 
+estimating CO2 emissions and removals for the AFOLU Sector, usually the focus is on estimating annual carbon 
+stock changes in all relevant pools (e.g. carbon pools in forest land and cropland). The carbon stock changes in the 
+various pools can then be combined and converted to CO2 emissions and removals of CO2 (see Volume 4, Chapter 
+2, Section 2.2 of the 2006 IPCC Guidelines). Generally, guidance for the AFOLU Sector reflects this by discussing 
+how to estimate annual carbon stock changes in the various relevant pools. The term “CO2 emissions and removals 
+arising from HWP” is frequently referred to in this chapter on HWP because it is not always possible to refer to 
+“carbon stocks” or “carbon stock changes”, for two principal reasons: 
+Firstly, as explained in this section and discussed in detail in Section 12.3 and Annex 12.A, different “approaches” 
+can be taken to estimating the CO2 emissions and removals arising from HWP. Guidance on these approaches was 
+given originally in the 2006 IPCC Guidelines. Amongst these approaches are examples that, conceptually, involves 
+tracking carbon or CO2 fluxes, rather than tracking changes in annual carbon stocks in the HWP pool. Therefore, 
+sometimes it is necessary to describe how to estimate carbon and CO2 fluxes, particularly when giving guidance 
+for this approach, otherwise it would not be possible to maintain the approach as provided in the 2006 IPCC 
+Guidelines. 
+Secondly, some important elements of carbon in harvested wood (e.g. harvested wood biomass used directly as an 
+energy feedstock) strictly do not enter the HWP carbon pool but are produced and then consumed almost 
+immediately, involving oxidation and release of CO2 to the atmosphere. Hence, if there is interest in estimating 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.7 
+the contributions of these elements of harvested wood towards CO2 emissions, it is necessary to refer to CO2 
+emissions, because the guidance cannot be provided by describing annual carbon stock changes in HWP pools (i.e. 
+because no such pool exists for these products from year to year). 
+The terms “CO2 emissions and removals arising from HWP”, “CO2 emissions”, “carbon stocks” and “carbon stock 
+changes” are used in this chapter, where these terms are appropriate for describing approaches and methods 
+relevant to HWP. 
+Removals: The general term “removals” is defined in the Glossary of the 2006 IPCC Guidelines. In the context 
+of HWP, when referring to CO2 removals, it may be noted that HWP do not directly sequester carbon from the 
+atmosphere. However, carbon retained in HWP constitutes a pool of carbon that was sequestered originally by the 
+above ground biomass carbon pool of forests and other wood producing land categories. In this respect, the carbon 
+from CO2 originally sequestered by vegetation is transferred to the HWP pool, similarly to when it is transferred 
+from the above ground biomass carbon pool to the litter and soil carbon pools in the AFOLU sector. The only 
+difference is that transfers of carbon from vegetation to HWP are always the result of anthropogenic activity. 
+The term removals, as defined here, should not be confused with the use of the term in a different context, i.e. 
+when referring to “wood-removals”, as defined in Section 12.4.1.1. 
+Approach: The term “approach” has a particular meaning in the context of CO2 emissions and removals arising 
+from HWP. An “approach” includes a conceptual framework for the estimation of CO2 emissions and removals 
+(see inter alia Brown et al. 1998; UNFCCC 2003; Cowie et al. 2006). An approach also defines the particular 
+system boundary referred to when calculating quantities of carbon entering, retained in and lost from the HWP 
+pool. The system boundary defines which CO2 emissions and removals are to be included in estimates and finally 
+reported (see Cowie et al. 2006). Approaches need to be defined for the estimation and reporting of emissions and 
+removals arising from HWP in order to ensure transparency, completeness and consistency in calculations and 
+reported estimates, in particular to avoid double-counting or non-counting of emissions and removals.  
+Further guidance on available approaches is provided in Section 12.3 and in Annex 12.A. 
+Method: The term “method” refers to the set of calculations needed to implement a particular approach for 
+estimating CO2 emissions and removals arising from HWP (see UNFCCC 2003; Cowie et al. 2006). Thus: 
+ An approach defines WHAT is to be estimated and reported in an inventory to encompass CO2 emissions and 
+removals arising from HWP (as determined by a system boundary); whereas 
+ A method defines HOW to calculate the emissions and removals to be reported, that is, the calculation 
+techniques used in estimation (see Cowie et al. 2006). 
+It follows that different methods could be applied to implement a particular approach and that more than one 
+method may be involved in the implementation of an approach.  
+When considering methods to estimate CO2 emissions and removals arising from HWP, it is possible to apply 
+methods that are ‘direct inventory-based’, ‘flux data-based’ or a combination of both methods.  
+Direct inventory-based methods involve direct assessment of the HWP carbon pool at two or more points in time, 
+then estimating carbon pool changes from the difference between sequential assessments.  
+Flux data-based methods, on the other hand, involve either:  
+ Measuring fluxes of CO2 between the atmosphere and the reservoir of carbon contained in harvested biomass; 
+or 
+ Tracking fluxes of carbon contained in wood biomass that is harvested from forests and other wood producing 
+land categories throughout the stages of the wood processing chain for the purpose of estimating the magnitude 
+of the HWP carbon pool and its change over time. 
+In practice, most of the flux data-based methods described in the scientific literature involve modelling rather 
+than direct measurement, to estimate carbon stocks and stock changes and/or CO2 fluxes from and to the HWP 
+pool. 
+The distinction between direct inventory-based and flux data-based methods, with particular reference to Tier 3 
+methods, is further explained in Section 12.4.4. 
+12.3 
+APPROACHES TO ESTIMATING CO2 
+EMISSIONS AND REMOVALS ARISING FROM 
+HWP 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Different approaches can be taken to estimating and presenting CO2 emissions and removals arising from HWP. 
+Each individual approach is potentially useful, depending upon the application, i.e. the specific question being 
+addressed, or type of estimate required. This guidance does not judge whether one particular approach should be 
+preferred. The choice of approach is important for determining the details of calculation methods for estimating 
+CO2 emissions and removals arising from HWP. Hence, before considering calculation methods as presented in 
+Section 12.4, this section provides an introduction to the essential features of the different approaches that have 
+been identified for this purpose. Information is also provided on the implications of choosing between the 
+approaches, i.e. on the calculation and reporting of emissions and removals across the AFOLU sector and the 
+reporting of CO2 emissions due to wood biomass burnt in the Energy sector (see Section 12.5).  
+The 2006 IPCC Guidelines considered four approaches known as the ‘stock-change’, ‘production’, ‘atmospheric-
+flow’ and ‘simple-decay’ approaches. As explained below, these approaches have differences in terms of their 
+conceptual frameworks and the system boundaries employed for calculations (Section 12.2). Further discussion 
+about the approaches is provided in Annex 12.A whilst an essential introduction is given in this section. 
+The discussion of approaches presented here focusses on estimating CO2 emissions and removals arising from 
+HWP in use, according to the defined approaches. Harvested biomass used for energy purposes and wood biomass 
+disposed of in SWDS are discussed separately in Sections 12.5 and 12.6. 
+12.3.1 Conceptual frameworks of HWP approaches 
+The design of HWP approaches involves two conceptual frameworks. 
+The first conceptual framework focusses on the estimation of CO2 emissions and removals arising from HWP on 
+the basis of changes in carbon stocks within defined HWP pools. In effect, this type of approach aims to track 
+changes in carbon stocks in the HWP pool that take place from one year to the next, and then infer net emissions 
+and removals of CO2 from HWP from these stock changes. 
+The second conceptual framework focusses on identifying and quantifying actual CO2 fluxes from and to the 
+atmosphere from HWP. 
+The ‘stock-change’ and ‘production’ approaches are based on the first conceptual framework and the ‘atmospheric-
+flow’ and ‘simple-decay’ approaches are based on the second conceptual framework. Further details are given in 
+Annex 12.A. 
+In practice, physically measuring either actual carbon stocks in the HWP pool or actual fluxes between HWP and 
+the atmosphere can be technically challenging. As a consequence, the implementation of the different approaches 
+using Tier 1 and Tier 2 methods tends to employ modelling and calculations that are similar regardless of the 
+conceptual framework of the particular approach and generally involves referring to similar sources of activity 
+data. 
+Results for CO2 emissions and removals are defined in the same way as for other land use categories and carbon 
+pools. Specifically, when carbon stocks in the HWP pool increase over time, this corresponds to net CO2 removals 
+into HWP; when carbon stocks in the HWP pool decrease over time, this corresponds to net CO2 emissions arising 
+from HWP.  
+12.3.2 System boundaries employed by approaches  
+The essential differences between the HWP approaches are related to the system boundaries applied when making 
+calculations. Illustrations of the system boundaries of the four approaches are included in Annex 12.A. The system 
+boundary of an approach is not necessarily the same as the national boundary of a country. 
+In the AFOLU sector, excluding HWP, changes in carbon stocks or carbon fluxes in forests and other wood 
+producing lands are estimated consistently with national boundaries. For HWP, estimation depends on the selected 
+approach. 
+The ‘stock-change’ approach for HWP involves estimating changes in carbon stocks in the HWP pool within the 
+national boundaries. Hence, carbon stock changes in the HWP pool are reported by the country where the wood 
+products are used (i.e. reported by the “consuming country”). 
+The ‘production’ approach involves estimating changes in carbon stocks in the HWP pool consisting of products 
+made from wood harvested in a country. The HWP pool thus consists of all products made from wood that is 
+harvested domestically, i.e. those products that are consumed domestically and also those products that are 
+exported and used in other countries. In other words, when applying the ‘production’ approach the “producing 
+country” reports carbon stock changes from HWP produced by that country, regardless of where the HWP are 
+consumed and used. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.9 
+The ‘atmospheric-flow’ approach involves estimating fluxes of CO2 from and to the atmosphere from HWP, taking 
+place within national boundaries. When applying the ‘atmospheric-flow’ approach, the CO2 emissions and 
+removals arising from HWP are thus reported by a country where the wood products are used (i.e. by the 
+“consuming country”). 
+The ‘simple-decay’ approach involves estimating fluxes of CO2 from and to the atmosphere from HWP, associated 
+with woody biomass harvested from the forests and other wood-producing lands within a country. When applying 
+the ‘simple-decay’ approach, the CO2 emissions and removals arising from HWP are thus reported by a country 
+where the wood products are produced (i.e. by the “producing country”), regardless of where the HWP are 
+consumed and used. 
+As explained above and in Annex 12.A, although there are theoretical differences between the ‘production’ 
+approach and the ‘simple-decay’ approach, when applying the ‘simple-decay’ approach with Tier 1 default 
+methods, the guidance provided in this chapter for the ‘production’ approach also applies for the ‘simple-decay’ 
+approach. 
+There are complementary similarities and distinctions between the four HWP approaches in terms of their 
+reference to conceptual frameworks and system boundaries: 
+ The ‘stock-change’ and ‘production’ approaches work with carbon stock changes in HWP pools, whereas the 
+‘atmospheric-flow’ and ‘simple-decay’ approaches work with CO2 fluxes. 
+ The ‘stock-change’ and ‘atmospheric-flow’ approaches cover stock changes or CO2 fluxes associated within a 
+consuming country, whereas the ‘production’ and ‘simple-decay’ approaches cover those associated with a 
+producing country. 
+When calculating results for GHG inventories, estimates of CO2 emissions and removals arising from HWP need 
+to be compatible with results for carbon stock changes in forests and other wood producing land categories. 
+Specifically, it is important that CO2 emissions and removals are not omitted and/or double-counted in results, e.g. 
+for forests and for HWP. The calculations defined in this guidance for the HWP approaches are designed to ensure 
+such compatibility. 
+The system boundaries of the approaches are also defined so that no double-counting or omissions occur when 
+estimates of CO2 emissions and removals arising from HWP reported by different countries are combined to 
+provide global or regional estimates. However, this is only the case if all countries use the same approach. Double 
+counting and/or non-counting of CO2 emissions and removals associated with forests, other wood producing land 
+categories and HWP can occur if countries apply different HWP approaches. 
+In some situations, CO2 emissions and removals arising from the HWP pool are not estimated explicitly. The 
+circumstances in which this may occur are discussed in Section 12.4.1.2. In these circumstances, the assumption 
+of a “steady-state HWP pool” is made.1 When this assumption is made, the CO2 emissions associated with 
+harvested biomass are nevertheless included implicitly as part of the CO2 emissions and removals from the above 
+ground biomass carbon pool of forests and other wood producing land categories. When CO2 emissions and 
+removals arising from HWP are not estimated explicitly, the possible approaches to reporting CO2 emissions and 
+removals arising from HWP are not relevant and are not applied. 
+12.4 
+CHOICE OF METHOD FOR WOOD PRODUCTS 
+IN USE 
+This section provides guidance on the choice of method to apply in conjunction with the available approaches 
+described in Section 12.3 and Annex 12.A. Note that guidance on Tier 1 default methods provided in this section 
+is also applicable for the ‘simple-decay’ approach (see Section 12.3 and Annex 12.A). The choice of calculation 
+method and the data used for estimating the CO2 emissions and removals arising from HWP have an implicit 
+impact on the calculated system boundaries. Therefore, it is necessary to cross-check that any method to be applied 
+corresponds and relates to the selected approach. 
+                                                           
+1  Previous IPCC guidance on HWP has referred to the possibility of making the assumption of “instantaneous oxidation” of 
+HWP (see IPCC 1997, IPCC 2006, IPCC 2014). Furthermore, reference is sometimes made to the term, “instantaneous 
+oxidation” in the context of accounting rather than reporting. For these reasons, this term is generally avoided in this refined 
+guidance. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.4.1 Initial steps to estimate CO2 emissions and removals 
+arising from HWP  
+To estimate CO2 emissions and removals arising from HWP, it is good practice to follow the decision tree (Figure 
+12.1) and the steps described below. 
+STEP 1: Check the availability of activity data on HWP  
+In order to apply the guidance provided for estimating CO2 emissions and removals arising from HWP, information 
+on the utilization of wood as a material needs to be available. In the case that no such information is available, 
+countries might need to make the assumption of a ‘steady-state HWP pool’ (see Section 12.4.1.2). 
+When making decisions about whether to estimate contributions towards GHG emissions and CO2 removals, 
+generally the key question is: how big is a particular contribution?  More specifically, is the magnitude of the 
+contribution sufficiently large, or too small, to be worth estimating? In the case of HWP, one way of answering 
+this question is to carry out the calculations described in this guidance for Tier 1 methods. This is because: (i) the 
+magnitude of the contribution made by HWP will depend on the selected approach to estimation (see Section 12.3), 
+so any calculation methods need to be appropriate for the selected approach, i.e. such as Tier 1 methods; and (ii) 
+the Tier 1 methods are amongst the simplest methods that can be defined for estimating CO2 emissions and 
+removals arising from HWP. It follows that the more relevant key question in the case of HWP is: are activity data 
+available for implementing at least Tier 1 methods? In this context, the availability of relevant statistics in publicly 
+available databases such as FAOSTAT (see Section 12.4.1.1) indicates that data suitable for Tier 1 (and possibly 
+Tier 2) methods are available. The above points lead naturally to STEP 1.1 below. 
+STEP 1.1: Check the availability of data for the three default HWP commodity classes of sawnwood, wood-based 
+panels and paper and paperboard. Detailed guidance is provided in Section 12.4.1.1. If such information is 
+available, skip the next step and go to STEP 2. 
+STEP 1.2: Follow the guidance provided in Section 12.4.1.2. 
+STEP 2: Check the availability of country-specific methods and apply Tier 3 
+STEP 2.1: Check whether country-specific methods are available that could be used to estimate emissions and 
+removals of CO2 arising from HWP. For this purpose, follow the guidance provided in Section 12.4.4. If this is 
+the case go to the next step, otherwise go to STEP 3. 
+STEP 2.2: Check that the methodologies used are at least as detailed and accurate as under the Tier 1 method. If 
+this is the case go to the next step, otherwise go to STEP 3. 
+STEP 2.3: Clarify which approach is to be chosen by the country (see Section 12.3) and follow the guidance 
+provided in Section 12.4.4 to apply Tier 3 for estimating CO2 emissions and removals arising from HWP. 
+STEP 3: Check the availability of country-specific data and apply Tier 2 
+STEP 3.1: Check whether country-specific activity data and/or emission factors are available that could be used 
+to estimate CO2 emissions and removals arising from HWP. Guidance is provided in Sections 12.4.1.1 and 12.4.3. 
+If this is the case go to the next step, otherwise go to STEP 4. 
+STEP 3.2: Check whether the country-specific activity data are suitable to be used in conjunction with the default 
+method provided and whether they are as accurate as under the Tier 1 method. Further guidance is provided in 
+Section 12.4.3.1. In the case that country-specific emission factors should be used, follow the guidance provided 
+in Section 12.4.3.2 and determine whether such information is compatible with the activity data that are to be 
+applied for the estimation. If the completion of this step is successful, go to the next step, otherwise go to STEP 4. 
+STEP 3.3: Determine which approach is to be chosen by the country (Section 12.3), follow the guidance provided 
+in Section 12.4.3, and apply Tier 2 for estimating CO2 emissions and removals arising from HWP.  
+STEP 4: Determine which approach is to be chosen to estimate CO2 emissions 
+and removals arising from HWP and apply Tier 1  
+Determine which approach is to be chosen by the country (Section 12.3) and follow the guidance provided in 
+Section 12.4.2 in order to apply Tier 1 for estimating CO2 emissions and removals arising from HWP.   
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.11 
+Figure 12.1 
+Decision tree for choosing the relevant tier method for estimating CO2 
+emissions and removals arising from HWP 
+ 
+12.4.1.1 AVAILABILITY OF ACTIVITY DATA 
+This section provides definitions for the different available HWP commodity classes representing the use of wood 
+as a material as well as for other uses where relevant to estimating CO2 emissions and removals from HWP. As 
+explained below, for Tier 1 and Tier 2 methods principally this involves three commodity classes of semi-finished 
+wood products (sawnwood, wood-based panels and paper and paperboard), whilst certain other commodity classes 
+may also be relevant, depending on the chosen HWP approach. 
+The term “harvested wood products” is based on a concept consisting of the two separate elements of “forest 
+harvesting” and “wood products” (Brown et al. 1998; UNFCCC 2003). Harvested wood biomass carbon captured 
+and stored in solid chemicals or gases is excluded from HWP. The commodity classes of sawnwood, wood-based 
+panels and paper and paperboard refer to the specific definitions of semi-finished wood products given in the 
+international classification system of forest products, which are also referred to in Food and Agriculture 
+Organization (FAO) statistics2. These definitions are given below, as well as for other terms commonly used, 
+where these are relevant to the discussion in this section. 
+                                                           
+2 http://www.fao.org/forestry/statistics/80572/en/ (2017/10/18) 
+  Start 
+  
+Are 
+country-specific  
+activity data and/or emission 
+factors available? 
+(12.4.3) 
+  
+Are  
+country-specific 
+methods available to estimate  
+the HWP contribution?  
+(12.4.4)  
+ 
+Apply Tier 1 
+(12.4.2) 
+ 
+Apply Tier 2 
+(12.4.3) 
+ 
+Apply Tier 3 
+(12.4.4) 
+Yes 
+STEP 1 
+Yes 
+No 
+  
+Are 
+activity data for 
+the specified HWP  
+categories available?  
+(12.4.1.1) 
+Investigate options for 
+obtaining the activity data, 
+otherwise consider the option 
+of assuming a ’steady state 
+HWP pool’ (12.4.1.2) 
+No 
+Clarify which approach is to be applied for estimating CO2 emissions and removals arising from HWP (12.3) 
+STEP 2 
+STEP 3 
+Yes 
+No 
+STEP 4 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+As shown in Figure 12.2, the forest-wood chain starts with “forest harvesting” (or “fellings”). Forest harvesting is 
+then partitioned into “roundwood” (or “wood-removals”) and “slash” (generally left in the forest). Roundwood is 
+then further subdivided into “industrial roundwood” and types of fuelwood and charcoal. Following the forest 
+products definitions of the FAO, Figure 12.2 also shows the relationship between the aggregate commodity 
+“industrial roundwood” and the three semi-finished wood product commodity classes identified above, in 
+providing the feedstock for the subsequent processing of these semi-finished HWP commodities along the value 
+chain (FAO 2017). The international classification system for forest products can be related to the Harmonized 
+Commodity Description and Coding System (HS) of tariff nomenclature provided by the World Customs 
+Organization (WCO)3.  
+Figure 12.2 
+Simplified classification of wood products based on FAO forest 
+products definitions 
+ 
+Source: IPCC 2014 
+Definitions of wood product commodities, which are relevant for the application of the guidance on estimating 
+CO2 emissions and removals arising from HWP, as described in Section 12.4.2 (Tier 1), are listed below. These 
+definitions are drawn from the Joint Forest Sector Questionnaire (JFSQ) as established by the Intersecretariat 
+Working Group on Forest Sector Statistics4, which form the basis for the forest products statistics provided by 
+FAO, for example. The JFSQ also includes conversion factors to be used for converting, for example, from nominal 
+to solid volume in the compilation of statistics if required4.  
+Datasets for these aggregate product commodity classes are freely and easily accessible, are updated on at least an 
+annual basis with a six-month or one-year reporting lag, and time series are available for most countries worldwide5.  
+DEFINITIONS FOR SEMI-FINISHED WOOD PRODUCT COMMODITIES 
+The following three aggregate commodities of semi-finished wood products, by definition, represent data on wood 
+being processed with the intention of using the wood as a material to make products. The definitions given are 
+those referred to in FAO statistics6. 
+It should be noted that there are certain specific wood product commodity classes that are explicitly excluded in 
+the following definitions of the three commodity classes of semi-finished wood products. The reasons for these 
+exclusions are explained in the discussion following the presentation of the definitions below. 
+SAWNWOOD: “Wood that has been produced from both domestic and imported roundwood, either by sawing 
+lengthways or by a profile-chipping process and that exceeds 6 mm in thickness. It includes planks, beams, joists, 
+boards, rafters, scantlings, laths, boxboards and "lumber", etc., in the following forms: unplaned, planed, end-
+jointed, etc. It excludes sleepers, wooden flooring, mouldings (sawnwood continuously shaped along any of its 
+                                                           
+3 http://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx (2017/10/18) 
+4 Comprising the Forestry Department of FAO, the United Nations Economic Commission for Europe (UNECE), the Statistical 
+Office of the European Communities (EUROSTAT) and the International Tropical Timber Organization (ITTO) 
+5 http://www.fao.org/faostat/en/#data/FO (2018/06/20) 
+6 http://www.fao.org/forestry/statistics/80572/en/ (2017/10/18) 
+Harvest (fellings) 
+Roundwood (wood-removals) 
+Fuelwood and charcoal 
+Industrial roundwood 
+Sawnwood 
+Wood-based panels 
+Paper and paperboard 
+Sawlogs and veneer logs 
+Other industrial roundwood 
+Pulpwood, round and split 
+Process  
+chain 
+Finished products in different end uses        
+Wood pulp 
+Slash 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.13 
+edges or faces, like tongued, grooved, rebated, V-jointed, beaded, moulded, rounded or the like) and sawnwood 
+produced by re-sawing previously sawn pieces. It is reported in cubic metres solid volume” (see Figure 12.2). 
+WOOD-BASED PANELS: “This product category is an aggregate comprising veneer sheets, plywood, particle board, 
+and fibreboard. It is reported in cubic metres solid volume” (see Figure 12.2). See FAO statistics7 for further 
+definitions of the individual commodity classes.  
+PAPER AND PAPERBOARD: “The paper and paperboard category is an aggregate category. In the production and 
+trade statistics, it represents the sum of graphic papers; sanitary and household papers; packaging materials and 
+other paper and paperboard. It excludes manufactured paper products such as boxes, cartons, books and magazines, 
+etc. It is reported in metric tonnes” (see Figure 12.2). 
+The availability of data for the above three aggregate HWP commodities in publicly available databases of 
+international organizations, such as FAOSTAT, qualifies for estimating CO2 emissions and removals from HWP 
+on the basis of the ‘production’ or the ‘stock-change’ approaches. For example, the presence of relevant statistics 
+in the FAOSTAT database indicates that data suitable for implementation of Tier 1 or Tier 2 methods for these 
+approaches are available. Further guidance for these methods is provided in Sections 12.4.2.1 and 12.4.3. All 
+datasets are reported in cubic metres solid volume or metric tonnes, which is information that enables countries to 
+convert the HWP data into units of carbon. 
+Certain commodity classes are excluded from the above definitions for semi-finished wood products to avoid 
+double-counting of wood products. For example, sleepers, V-jointed sawnwood and laminated veneer lumber 
+(LVL) are excluded from the definition of sawnwood. This is because these commodities may be the result of 
+subsequent processing of sawnwood and therefore are examples of finished wood products, as illustrated for V-
+jointed sawnwood in Figure 12.3. This also applies (for example) to wooden flooring that is produced from 
+sawnwood and/or hardboard which belongs to the commodity class of wood-based panels. Wooden flooring is 
+therefore implicitly covered by the semi-finished HWP commodity classes of sawnwood and/or wood-based 
+panels and included in this way in the estimates for CO2 emissions and removals arising from HWP. Thus, using 
+statistical data for both sawnwood and for wooden flooring could result in double counting. There is a fourth 
+aggregate commodity class of wood products within industrial roundwood, i.e. “other industrial roundwood”, as 
+also shown in Figure 12.2. This commodity class is not covered by Tier 1 and Tier 2 methods because the 
+constituent wood products in the commodity class have much less uniform characteristics than is the case for the 
+three commodity classes defined below, including some examples of wood used for finished products (e.g. 
+transmission poles and roundwood used directly in the construction of buildings). By excluding products within 
+the commodity class of other industrial roundwood from Tier 1 and Tier 2 methods, in effect, the assumption is 
+made of a “steady-state HWP pool” for these products (see Section 12.4.1.2). Tier 3 methods would need to be 
+developed for a more sophisticated representation of this commodity class. 
+Countries with available data on finished wood products produced from the default semi-finished wood product 
+commodity classes may consider using these data to develop country-specific methods, following the guidance 
+given in Section 12.4.3.1. Production data on finished wood products processed from the three aggregate semi-
+finished product commodity classes sawnwood, wood-based panels and paper and paperboard (see Figure 12.3) 
+are not included in international databases. However, the WCO HS tariff nomenclature (see earlier) does include 
+some commodities for finished wood products (e.g. furniture, builders' joinery and carpentry of wood). 
+Accordingly, information on such commodities could be available in national production and trade statistics. When 
+using these datasets in calculations, it is good practice to consider the associated uncertainties as part of the 
+uncertainty analysis (see Section 12.7). 
+                                                           
+7 http://www.fao.org/forestry/statistics/80572/en/ (2017/10/18) 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 12.3 
+Examples of different processing stages of wood products along the 
+process and value chain 
+ 
+Source: IPCC 2014 
+To avoid potential non-counting and/or double counting, countries are encouraged to consult e.g. FAO 2010 for 
+further clarification on the mass flows along the forest wood processing chain depending on the classification and 
+definition of the relevant commodities8. The inclusion of the commodity wood pulp under the HWP commodity 
+class of “paper” would for example result in double counting, as wood pulp by definition constitutes the feedstock 
+for the production of paper and paperboard (see definition below and Figure 12.3). However, data on wood pulp 
+are used in the default Tier 1 methods when calculating the share of HWP coming from domestic forests, when 
+the ‘production’ approach is applied (see Equation 12.7). Wood pulp data may also be used in higher tier methods 
+provided that double counting is avoided. 
+DEFINITIONS FOR OTHER RELEVANT WOOD PRODUCT COMMODITIES 
+Data on certain other wood product commodities are needed for the implementation of the ‘production’ approach 
+and the ‘atmospheric-flow’ approach as discussed and defined below. The definitions are those referred to in FAO 
+statistics6. 
+In order to implement the ‘production’ approach, further information is needed on commodities representing the 
+raw materials eventually used as feedstock for the production of the semi-finished HWP commodity classes 
+defined and discussed earlier (see Figures 12.2 and 12.3 and Annex 12.A.1.2). Some possible feedstock 
+commodities are not included in the default method for allocating HWP to domestic forest sources as described in 
+Section 12.4.2.1, because of difficulties in determining sources and multiple uses. For example, some wood chips 
+used in wood-based panel and wood pulp production come from industry co-products, whilst others could be 
+recycled products and others are used for energy purposes (see Figure 12.3). Definitions of some key feedstocks 
+relevant to this aspect of implementing the ‘production’ approach are provided below. 
+REMOVALS/WOOD-REMOVALS: “The volume of all trees, living or dead, that are felled and removed from the 
+forest, other wooded land or other felling sites. It includes natural losses that are recovered (i.e. harvested), 
+removals during the year of wood felled during an earlier period, removals of non-stem wood such as stumps and 
+branches (where these are harvested) and removal of trees killed or damaged by natural causes (i.e. natural losses), 
+e.g. fire, windblown, insects and diseases. Please note that this includes removals from all sources within the 
+country including public, private, and informal sources. It excludes bark and other non-woody biomass and any 
+wood that is not removed, e.g. stumps, branches and tree tops (where these are not harvested) and felling residues 
+(harvesting waste). It is reported in cubic metres solid volume underbark (i.e. excluding bark). Where it is measured 
+overbark (i.e. including bark), the volume has to be adjusted downwards to convert to an underbark estimate” (see 
+Figure 12.2). 
+ROUNDWOOD: “All roundwood felled or otherwise harvested and removed. It comprises all wood obtained from 
+removals, i.e. the quantities removed from forests and from trees outside the forest, including wood recovered 
+from natural, felling and logging losses during the period, calendar year or forest year. It includes all wood removed 
+with or without bark, including wood removed in its round form, or split, roughly squared or in other form (e.g. 
+branches, roots, stumps and burls (where these are harvested) and wood that is roughly shaped or pointed. It is an 
+                                                           
+8 http://www.fao.org/forestry/statistics/80572/en/ (2017/10/18) 
+Wooden house 
+Raw material 
+  
+                           Semi-finished products                                 Finished products and uses 
+ 
+Sawlogs 
+Sawnwood 
+V-joint sawnwood 
+(E.g. wall panelling) 
+Paper 
+(E.g. graphic paper) 
+Book, newspaper or magazine 
+Pulpwood, round 
+and split 
+Wood pulp 
+Recovered paper 
+Window 
+Wood-based panels 
+(E.g. particle board) 
+Wood chips 
+(Energy) 
+Furniture 
+(E.g. book shelf) 
+Wall system 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.15 
+aggregate comprising wood fuel, including wood for charcoal and industrial roundwood (wood in the rough). It is 
+reported in cubic metres solid volume underbark (i.e. excluding bark)” (see Figure 12.2). 
+INDUSTRIAL ROUNDWOOD (WOOD IN THE ROUGH): “All roundwood except wood fuel. In production, it is an 
+aggregate comprising sawlogs and veneer logs; pulpwood, round and split; and other industrial roundwood. It is 
+reported in cubic metres solid volume underbark (i.e. excluding bark). The customs classification systems used by 
+most countries do not allow the division of Industrial Roundwood trade statistics into the different end-use 
+categories that have long been recognized in production statistics (i.e. sawlogs and veneer logs, pulpwood and 
+other industrial roundwood). Thus, these components do not appear in trade. It excludes: telephone poles” (see 
+Figure 12.2). 
+OTHER INDUSTRIAL ROUNDWOOD: “Industrial roundwood (wood in the rough) other than sawlogs, veneer logs 
+and/or pulpwood. It includes roundwood that will be used for poles, piling, posts, fencing, pitprops, shingles and 
+shakes, wood wool, tanning, distillation and match blocks, etc. It is reported in cubic metres solid volume 
+underbark (i.e. excluding bark)” (see Figure 12.2). 
+WOOD PULP: “Fibrous material prepared from pulpwood, wood chips, particles or residues by mechanical and/or 
+chemical process for further manufacture into paper, paperboard, fibreboard or other cellulose products. It is an 
+aggregate comprising mechanical wood pulp; semi-chemical wood pulp; chemical wood pulp; and dissolving 
+wood pulp” (see Figure 12.2). 
+RECOVERED PAPER: “Waste and scraps of paper or paperboard that have been collected for re-use or trade. It 
+includes paper and paperboard that has been used for its original purpose and residues from paper and paperboard 
+production. It is reported in metric tonnes”. 
+In order to implement the ‘atmospheric-flow’ approach, besides data on the trade of the commodities described 
+above, further activity data are required, covering both feedstocks for processing wood for its use as a material and 
+wood biomass burnt for energy purposes. These data are needed for estimating actual fluxes of carbon from woody 
+biomass from and to the atmosphere within the country in a reporting year (see Sections 12.3.2 and 12.4.2.1). This 
+includes several commodities as defined below. The definitions are those referred to in FAO statistics9. 
+WOOD FUEL: “Roundwood that will be used as fuel for purposes such as cooking, heating or power production. It 
+includes wood harvested from main stems, branches and other parts of trees (where these are harvested for fuel) 
+and wood that will be used for the production of charcoal (e.g. in pit kilns and portable ovens), wood pellets and 
+other agglomerates. The volume of roundwood used in charcoal production is estimated by using a factor of 6.0 to 
+convert from the weight of charcoal produced to the solid volume (m3) of roundwood used in production. It also 
+includes wood chips to be used for fuel that are made directly (i.e. in the forest) from roundwood. It excludes wood 
+charcoal, pellets and other agglomerates. It is reported in cubic metres solid volume underbark (i.e. excluding 
+bark)” (see Figure 12.2). 
+WOOD CHARCOAL: “Wood carbonised by partial combustion or the application of heat from external sources. It 
+includes charcoal used as a fuel or for other uses, e.g. as a reduction agent in metallurgy or as an absorption or 
+filtration medium. It is reported in metric tonnes”. 
+WOOD CHIPS AND PARTICLES: “Wood that has been reduced to small pieces and is suitable for pulping, for particle 
+board and/or fibreboard production, for use as a fuel, or for other purposes. It excludes wood chips made directly 
+in the forest from roundwood (i.e. already counted as pulpwood or wood fuel). It is reported in cubic metres solid 
+volume excluding bark”. 
+WOOD RESIDUES: “Other wood processing co-products. It includes wood waste and scrap not useable as timber 
+such as sawmill rejects, slabs, edgings and trimmings, veneer log cores, veneer rejects, sawdust, residues from 
+carpentry and joinery production, and wood residues that will be used for production of pellets and other 
+agglomerated products. It excludes wood chips, made either directly in the forest from roundwood or made in the 
+wood processing industry (i.e. already counted as pulpwood or wood chips and particles), and agglomerated 
+products such as logs, briquettes, pellets or similar forms as well as post-consumer wood. It is reported in cubic 
+metres solid volume excluding bark”. 
+12.4.1.2 APPLYING THE ASSUMPTION OF A “STEADY-STATE HWP 
+POOL” 
+This section provides guidance on when it is in line with good practice to make the assumption that the HWP pool 
+is in a steady state and explains the implications of making such an assumption. 
+                                                           
+9 http://www.fao.org/forestry/statistics/80572/en/ (2017/10/18) 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+When the assumption is made that the pool of carbon in HWP is in a steady state, this does not imply an assumption 
+that the carbon stock in HWP is zero. Rather, it implies an assumption that the carbon stock in HWP is not changing 
+over time. Implicitly, it is also assumed that the annual carbon inflows into HWP in use are exactly the same in 
+magnitude as the annual losses of carbon from HWP in use (otherwise the carbon stock would be changing). Hence, 
+in practice, making an assumption of a “steady-state HWP pool” leads to results for the CO2 emissions arising 
+from HWP that are numerically the same as when it is assumed that all the carbon in HWP is oxidised in the year 
+of harvest. In previous IPCC guidance on HWP (IPCC 1997, IPCC 2006, IPCC 2014), reference has sometimes 
+been made to making the assumption of “instantaneous oxidation” or to “reporting zero” for HWP, when the actual 
+assumption being made is that of a “steady-state HWP pool”. However, strictly, making either of these assumptions 
+is not the same as making the assumption of a “steady-state HWP pool”, hence the use of these other terms in this 
+context is generally avoided in this refined guidance. 
+When an assumption of a “steady-state HWP pool” is made, this does not result in carbon losses due to biomass 
+harvested and utilised for HWP being ignored. Rather, these carbon losses are included implicitly as part of the 
+carbon stock changes estimated for the living or dead biomass pools of forests and other wood producing land 
+categories. The CO2 emissions and removals arising from the HWP pool should be estimated explicitly if possible, 
+but activity data are needed to do this, e.g. as required for the Tier 1 methods as a minimum (see Sections 12.4.1.1 
+or 12.4.2.1). If relevant activity data (e.g. from FAOSTAT or other sources) are not available, then it may be 
+necessary to assume a “steady-state HWP pool”. 
+12.4.2 Tier 1: “first order decay” method 
+Provided that activity data are available for the three HWP commodity classes of semi-finished wood product 
+commodities of sawnwood, wood-based panels and paper and paperboard, as defined in Section 12.4.1.1, and no 
+country-specific activity data required to apply Tier 2 are available (see Section 12.4.3), estimates of CO2 
+emissions and removals arising from HWP should be obtained by application of the Tier 1 method as outlined in 
+this section.   
+ESTIMATING CO2 EMISSIONS AND REMOVALS ARISING FROM HWP ON 
+THE BASIS OF CARBON STOCK CHANGES AND BY MEANS OF THE POOL-
+BASED APPROACHES 
+The annual emissions and removals arising from the HWP pool in use (∆𝐶𝑂2𝑇𝑂𝑇𝐴𝐿(𝑖)) are calculated from the 
+sum of net changes of the carbon stocks in the defined HWP product commodity classes by means of the Equation 
+12.1. 
+EQUATION 12.1 
+ESTIMATION OF TOTAL EMISSIONS AND REMOVALS ARISING FROM THE HWP POOL IN USE 
+ 
+ 
+1
+44 12
+TOTAL
+n
+2
+l
+l
+CO
+i
+/
+C i
+
+
+ 
+
+
+ 
+ 
+Sources: Pingoud and Wagner 2006; IPCC 2006; IPCC 2014; Rüter 2017, p. 259 ff. 
+Where: 
+i  
+= year 
+CO2TOTAL  
+i
+
+ = total CO2 emissions and removals from net changes of the carbon stock in HWP in use 
+during the year i, in Mt CO2  
+C  
+= carbon stock in HWP, in Mt C 
+Cl  
+i
+
+ 
+= changes of the carbon stock C in the particular HWP commodity class l during the year i, 
+in Mt C yr-1 
+l  
+= index number of the semi-finished HWP commodity class (see Table 12.2, Section 12.4.2.1) 
+n  
+= number of selected HWP commodity classes of the semi-finished HWP commodities of 
+sawnwood, wood-based panels, paper and paperboard. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.17 
+The general method to estimate the magnitude of the defined carbon stock in the HWP pool in use and its net 
+changes (i.e. by means of approaches as described in Section 12.4) is the first-order decay (FOD) function as 
+presented in Equation 12.2. It represents a flux data method that corresponds to Equation 12.1, Chapter 12, Volume 
+4 of the 2006 IPCC Guidelines and Equation 2.8.5, Chapter 2 in IPCC 2014: 
+EQUATION 12.2 
+ESTIMATION OF CARBON STOCKS AND ANNUAL CARBON STOCK CHANGES IN HWP POOL IN USE 
+
+
+ 
+
+
+ 
+1
+1
+k
+k
+l
+l
+l
+e
+C i
+e
+ C  i  + 
+  Inflow i
+k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+1
+l
+l
+l
+C i
+C i
+C i
+
+
+
+
+ 
+ 
+Sources: Pingoud and Wagner 2006; IPCC 2006; IPCC 2014; Rüter 2017, p. 259 ff. 
+Where: 
+i  
+= year 
+Cl  
+i  
+= the carbon stock in the particular HWP commodity class l at the beginning of the year i , 
+Mt C 
+k  
+= decay constant of FOD for each HWP commodity class l given in units yr-1 (= ln(2)/HL, 
+where HL is the half-life of the particular HWP commodity in the HWP pool in years (see 
+Box 12.1 and Section 12.4.2.2)  
+l  
+Inflow i  
+= the carbon inflow to the particular HWP commodity class l during the year i , Mt C yr-1, 
+see Equation 12.3 
+Cl  
+i
+
+ 
+= carbon stock change of the HWP commodity class l during the year i , Mt C yr-1. 
+Depending on the choice of the approach for estimating CO2 emissions and removals arising from HWP, which 
+implicitly determines the system boundaries of the underlying estimated carbon stock in HWP in use, the annual 
+carbon inflow to the carbon stock of the respective HWP commodity class is calculated from different elements 
+of HWP time series according to Equation 12.3 (see also Section 12.3).  
+EQUATION 12.3 
+SELECTION OF CARBON INFLOW FOR ESTIMATING THE CARBON STOCK IN THE HWP POOL IN 
+USE DEPENDING ON THE CHOSEN APPROACH 
+ 
+ 
+ 
+SCAl
+l
+PAl
+Inflow
+i                                    for the 'stock-change' approach
+Inflow i :
+Inflow
+i                                       for the 'production' approach
+
+ 
+
+ 
+ 
+Source: Rüter 2017, p. 259 ff. 
+Where: 
+InflowSCAl  
+i = Carbon inflow in HWP from the calculated domestic consumption of the respective HWP 
+commodity class l  in the year i , in Mt C yr-1, see Equation 12.6 
+InflowPAl  
+i  = Carbon inflow in HWP from the production of the respective HWP commodity class l
+originating from domestic harvest in the year i , in Mt C yr-1, see Equation 12.7. 
+Further guidance on the statistical elements for calculating the relevant carbon flux into the HWP pool in use 
+according to the different approaches (Inflowl (i)), including the associated Equations, is provided in Section 
+12.4.2.1.  
+In order to produce an estimate of the existing carbon stock in HWP in use for the application in Equation 12.2 
+and based on the subsequent changes of this HWP stock, the historical wood use (i.e. the accumulation of the 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+historic Inflow to the HWP pool) has to be included. This procedure is needed as this also includes the historic and 
+current disposals from the HWP pool, termed “inherited emissions” (IPCC 2006).  
+However, the availability of activity data series, which are described in Section 12.4.2.1, varies. For most countries, 
+the FAO statistics provide data on the HWP commodity classes since 1961.10 But for some countries activity data 
+are available only from a later year (often 1991). This has implications for the estimated steady state of the initial 
+carbon stock in HWP in use and in consequence on the uncertainties associated with the estimated CO2 emissions 
+and removals arising from HWP.  As a proxy in the Tier 1 method it is thus assumed that the HWP pool is in a 
+steady state at the initial time t0 from which the activity data start. This means that as a proxy ∆C(t0) is assumed to 
+be equal to 0. This steady state carbon stock C(t0) for each HWP commodity class l is approximated by means of 
+Equation 12.4 based on the average of Inflowl (i) during the first 5 years for which statistical data are available. 
+The coverage of data on wood product commodities has changed over time. This has occurred for a number of 
+reasons, but not least because the contribution of data by wood industries towards production statistics depends on 
+their size. More specifically, wood processing mills and industries generally contribute data towards statistics if 
+they exceed a certain threshold size. The thresholds referred to in the compilation of statistics on harvested wood 
+have changed relatively little over time. However, the capacities of individual wood processing mills have 
+increased, and also there have been structural developments in the wood industries, leading to greater numbers of 
+larger-capacity mills, and larger industry groupings. The combination of a fairly unchanging threshold size for 
+reporting statistics, and these developments in the wood industries, is very likely to mean that statistics on wood 
+commodity production have become more comprehensive over time. As a result, long time series data on wood 
+commodities (e.g. since 1961) might suggest that production volumes have increased over time, when this may 
+simply reflect to some degree the progressive improvements in the statistics on wood commodities (Palma et al. 
+2017).  
+Using Equation 12.4 with the average value of Inflowl (i) over the first 5 years since 1961 (i.e. for the years 1961 
+to 1965) might thus lead to biased estimates of initial carbon stocks and it is likely to result in the overestimation 
+of subsequent carbon stock increases in the HWP pool. When using historical data (such as for the first 5 years 
+since 1961) to provide values for calculating Inflowl (i) in Equation 12.4, it is thus good practice to verify that any 
+historical trends in the relevant statistics for wood commodities reflect actual changes, rather than changes in the 
+coverage of these statistics. This can help to reduce the uncertainties associated with the estimate of the existing 
+carbon stock in the HWP pool in use. Otherwise, it is good practice for Equation 12.4 to be used in conjunction 
+with the average value of Inflowl (i) over the first 5 years since 1990 (e.g. for the years 1990 to 1994) or later.  
+By substituting Cl(t0) in Equation 12.2, the Cl (i) and ∆Cl (i) in the sequential time points can be calculated. In the 
+Tier 1 method, it is good practice to use Equation 12.4 for estimating the carbon stock at t = t0. 
+EQUATION 12.4 
+APPROXIMATION OF THE CARBON STOCKS IN THE HWP POOL IN USE AT THE INITIAL TIME, I.E. 
+FROM WHICH ACTIVITY DATA ARE AVAILABLE 
+0
+laverage
+l
+Inflow
+C (t )
+k
+
+ 
+with: 
+ 
+4
+0
+5
+t
+l
+l
+average
+i t
+Inflow
+Inflow i
+/
+
+
+
+ 
+
+
+
+
+
+
+ 
+Source: IPCC 2014; Rüter 2017, p. 259 ff. 
+Where: 
+k  
+= decay constant of FOD for each HWP commodity class l (see Equation 12.2). 
+An example of how to implement Equations 12.2 and 12.4 in a spreadsheet11, e.g. with MS EXCEL, is provided 
+in the Example Box 12.1. 
+                                                           
+10 http://www.fao.org/faostat/en/#data/FO (2017/10/18) 
+11 It should be noted that the calculations described in Box 12.1 are not implemented as part of the HWP Worksheet 
+accompanying the 2006 IPCC Guidelines (HWP calculator). See also Section 12.1.   
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.19 
+BOX 12.1 
+EXAMPLE FOR IMPLEMENTING EQUATIONS 12.2 AND 12.4 IN A SPREADSHEET (E.G. MS EXCEL) 
+ 
+The initial carbon stock for the year 1990 is calculated by means of Equation 12.4 in cell C7. The FOD function as shown in 
+Equation 12.2 is implemented in cells C8:C13. Based on the development of the carbon stock of the particular HWP commodity 
+class, the stock-changes (i.e. carbon pool changes) are calculated in the cells of column D12. 
+It is furthermore good practice to apply Equations 12.2 and 12.4 with activity data for the semi-finished wood 
+product commodity classes of sawnwood, wood-based panels and paper and paperboard, either as aggregates or 
+for each of their sub-classes as listed in Table 12.1 in Section 12.4.2.1. Further guidance on how to compile those 
+relevant activity data in accordance with the respective approaches is also provided in Section 12.4.2.1. 
+In combination with those semi-finished wood product commodities to be used under the Tier 1 method (see 
+Section 12.4.2.1), the FOD function implicitly includes finished HWP in the carbon stock estimates. It is assumed 
+that “immediate losses of the HWP pool due to final processing of wood along the processing chain (see Figure 
+12.A.1, Annex 12.A.2) are described realistically by the exponential decay pattern” (Pingoud and Wagner 2006). 
+The timing of emissions from wood processing residues used for energy purposes along the process chain of HWP 
+are also well described by the FOD function (see Rüter and Diederichs 2012). 
+ESTIMATING CO 2 FLUXES ASSOCIATED WITH HARVESTED WOOD 
+PRODUCTS (‘ATMOSPHERIC-FLOW’ APPROACH) 
+In the case that the ‘atmospheric-flow’ approach is applied for estimating CO2 emissions and removals arising 
+from HWP, it is good practice to estimate the annual carbon fluxes into the atmosphere along the timber processing 
+and wood utilization chain within the country by applying Equation 12.5. The equation reflects two components 
+that enable a consistent implementation of this approach: 
+The first term within the brackets in the equation represents the changes in the carbon stock in HWP in use 
+within a country, obtained from the calculated domestic consumption of HWP. 
+The last two terms within the brackets in the equation represent the net trade (balance of exports and imports) in 
+wood feedstocks serving as wood fuel and/or as raw material for the manufacture of semi-finished HWP, to 
+estimate the quantities of feedstock consumed for these purposes within a country.  
+For implementing Equation 12.5, this means that firstly, it is assumed that the calculated annual gains of carbon 
+in the HWP pool in use (i.e. 
+InflowCl  
+i ) following the ‘stock-change’ approach, see Equations 12.2 and 12.3) are 
+not available for oxidation into the atmosphere in the year in which they are added to the pool. It is also assumed 
+that the annual carbon losses from this HWP pool in use, calculated by means of Equation 12.2, which: 
+ do not enter the carbon stock in HWP in use again due to material recycling (and which would implicitly be 
+included in the annual production data, e.g. of particle board); and  
+                                                           
+12 Note that the calculation of the carbon stock change for a given year (for example for the year 1995, cell D12) appears to 
+depend on knowledge of the magnitude of the carbon stock at the beginning of the following year (in this case 1996, cell C13). 
+This is calculated by means of Equation 12.2 in cell C13, which only depends on knowledge of the magnitude of the carbon 
+stock at the beginning of the year 1995 in cell C12 and on the value of Inflow during the year 1995 in cell B12 (in this example). 
+A
+B
+C
+D
+1
+half-life (hl)
+35
+2
+decay constant k =LN(2)/C1
+3
+ term 'e -k' of Eq. 12.2 =EXP(-C2)
+4
+term '[(1 ‒ e-k)/k]' of Eq. 12.2 =(1-EXP(-C2))/C2
+5
+6
+years
+Inflow
+HWPj  carbon stock
+stock-change
+7
+1990
+100,00
+=AVERAGE(B7:B11)/C2
+=C8-C7
+8
+1991
+101,00
+=$C$3*C7+$C$4*B7
+=C9-C8
+9
+1992
+150,00
+=$C$3*C8+$C$4*B8
+=C10-C9
+10
+1993
+103,00
+=$C$3*C9+$C$4*B9
+=C11-C10
+11
+1994
+95,00
+=$C$3*C10+$C$4*B10
+=C12-C11
+12
+1995
+105,00
+=$C$3*C11+$C$4*B11
+=C13-C12
+13
+1996
+100,00
+=$C$3*C12+$C$4*B12
+=C14-C13
+14
+…
+… …
+…
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ are not exported. 
+are available for oxidation into the atmosphere in the reporting year (e.g. through combustion) (see IPCC 2006). 
+As explained above, this is represented by the first term within the brackets of Equation 12.5. 
+Secondly, an estimation of CO2 emissions and removals arising from HWP following the ‘atmospheric-flow’ 
+approach consistent with estimates of emissions and removals from the forest carbon pools (see Chapter 4) is based 
+on the assumption that only carbon in woody biomass which: 
+ becomes and/or remains available within the reporting country; and  
+ is not fixed in a carbon pool.  
+could eventually also oxidize into the atmosphere in the reporting year. Consequently, all carbon in harvested 
+woody biomass from domestic forests (i.e. “roundwood production”, implicitly included in the forest carbon 
+estimates of emissions and removals as forest carbon pool losses) that is exported in the reporting year is to be 
+subtracted from the country’s remaining carbon amounts in woody biomass available for oxidation. On the other 
+hand, all imported carbon in woody biomass that becomes available within the country (for example as wood fuel 
+or feedstock for further processing and wood utilization along the value chain) becomes available for oxidation 
+(see Figure 12.A.5 in Annex 12.A.3). As explained above, the availability of carbon in traded HWP feedstock 
+commodity classes within the country is represented by the last two terms within the brackets of Equation 12.5. 
+As compared to the estimates of the impact of the carbon stock in the HWP pool in use (see Equations 12.1 to 
+12.4), these estimates of carbon in annual imports and exports of woody biomass to be used as wood fuel or 
+feedstock (RC(i)) are needed for the reporting year or period only (see Equation 12.11). 
+EQUATION 12.5 
+ESTIMATION OF TOTAL CO2 FLUXES ASSOCIATED WITH HARVESTED WOOD BIOMASS WITHIN 
+THE COUNTRY 
+ 
+ 
+ 
+ 
+2
+ 
+1
+1
+1
+ 
+44 12  
+n
+m
+m
+SCA
+EX
+IM
+AFA
+l
+j
+j
+l
+j
+j
+CO
+i
+/
+C
+i
+RC
+i
+RC
+i
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Source: IPCC 2006 
+Where: 
+CO2AFA  
+i
+
+ = emissions and removals of CO2 following the ‘atmospheric-flow’ approach, including 
+emissions and removals associated with the carbon storage in the HWP pool in use due to the 
+utilization of wood as material in the country (i.e. ‘stock-change’ approach) during the year 
+i, in Mt CO2 yr-1 
+Δ
+CSCAl  
+i  
+= Changes of the carbon stock C in the particular semi-finished HWP commodity class l 
+during the year 𝑖, calculated from domestic consumption (i.e. ‘stock-change’ approach), in 
+Mt C yr-1, see Equations 12.2 and 12.3  
+RCEX j  
+i  
+= Exported carbon in the relevant HWP feedstock commodity class j serving as wood fuel 
+and/or raw material for the manufacture of semi-finished HWP during the year i, in Mt C yr-
+1, see Equation 12.11 
+m  
+= number of included HWP feedstock categories, see Table 12.2 
+n  
+= number of selected HWP categories of the semi-finished HWP commodity classes of 
+sawnwood, wood-based panels, paper and paperboard 
+RCIM j  
+i  
+= Imported carbon in the relevant HWP feedstock commodity class j serving as wood fuel 
+and/or feedstock for the manufacture of semi-finished HWP during the year i, in Mt C yr-1, 
+see Equation 12.11. 
+12.4.2.1 ACTIVITY DATA 
+Depending on the chosen approach (see Section 12.3), activity data include both the carbon stock of the HWP pool 
+in use at the beginning of each year (C(i)) and the carbon inflow to the HWP pool during each year, for each HWP 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.21 
+commodity class (Inflowl (i)), as well as data on the remaining woody biomass within a country which does not 
+enter the carbon stock in the HWP pool in use (as material) each year. The latter data are required when 
+implementing the ‘atmospheric-flow’ approach. Table 12.1 provides both an overview of the particular semi-
+finished HWP commodity classes to be used for the Tier 1 estimation of the carbon stock of the HWP pool in use 
+and their associated carbon conversion factors (cf) to be applied in Equations 12.6, 12.7 and 12.9. 
+TABLE 12.1 
+DEFAULT CONVERSION FACTORS FOR THE SEMI-FINISHED HWP COMMODITY CLASSES AND THEIR SUB-CLASSES 
+Semi-finished HWP commodity 
+classes (l) 
+Density 
+(oven dry mass over air dry 
+volume) 
+[Mg / m3] 
+Carbon 
+fraction 
+C conversion factor cf 
+(per air dry volume) 
+[Mg C / m3] 
+Source 
+Sawn wood (aggregate) 
+0.458 
+0.5 
+0.229 
+1 
+   Coniferous sawnwood 
+0.45 
+0.5 
+0.225 
+2 
+   Non-coniferous sawnwood 
+0.56 
+0.5 
+0.28 
+2 
+Wood-based panels (aggregate) 
+0.595 
+0.454 
+0.269 
+3 
+   Hardboard (HDF) 
+0.788 
+0.425 
+0.335 
+4 
+   Insulating board (Other board, LDF)  
+0.159 
+0.474 
+0.075 
+5 
+   Fibreboard compressed 
+0.739 
+0.426 
+0.315 
+6 
+   Medium-density fibreboard (MDF) 
+0.691 
+0.427 
+0.295 
+4 
+   Particle board 
+0.596 
+0.451 
+0.269 
+4 
+   Oriented strand board (OSB) 
+0.573 
+0.463 
+0.265 
+4 
+   Plywood  
+0.542 
+0.493 
+0.267 
+7 
+   Veneer sheets  
+0.505 
+0.5 
+0.253 
+8 
+ 
+Relative dry mass 
+(oven dry mass over air 
+dry mass) 
+[Mg / Mg] 
+ 
+C conversion factor cf 
+(per air dry mass) 
+[Mg C / Mg] 
+ 
+Paper and paperboard (aggregate) 
+0.9 
+- 
+0.386 
+9 
+Source: IPCC 2014 
+1 Calculated from the weighted average of coniferous and non-coniferous sawnwood production volumes (FAOSTAT average of the years 
+2006-2010) of the countries as listed in Appendix of the Annex of Decision 2/CMP.7 
+2 IPCC 2003, Appendix 3a.1 
+3 Calculated from the weighted average of included sub-classes of the production volumes (FAOSTAT average of the years 2006-2010) of 
+the countries as listed in Appendix of the Annex of Decision 2/CMP.7 
+4 Rüter and Diederichs (2012) 
+5 Derived from Environmental product declarations EPD-GTX-2011111-E, EPD-KRO-2009212-E and EPD-GTX-2011211-E provided by 
+IBU e.V. (http://bau-umwelt.de/hp550/Insulating-materials.htm) 
+6 Calculated from 50% HDF and 50% MDF 
+7 Derived from Wilson and Sakimoto (2005) and basic density for non-coniferous species listed in the table above  
+8 Calculated from 50% sawnwood (Coniferous) and 50% sawnwood (Non-Coniferous) 
+9 Calculated from the weighted average of included sub-classes of the production volumes (FAOSTAT average of the years 2006-2010) of 
+the countries as listed in Appendix of the Annex of Decision 2/CMP.7, including information derived from Fengel and Wegener (1984), 
+Paulapuro (2000), Gronfors (2010) and industry information. 
+To estimate the carbon stock in the HWP pool, Tier 1 uses forest products data for semi-finished HWP 
+commodities from FAO as set out in Section 12.4.1.1. As a default, the annual Inflowl (i) to the HWP pool is 
+composed of the three default HWP commodity classes, i.e. sawnwood, wood-based panels, and paper and 
+paperboard).  
+In order to estimate carbon amounts in the semi-finished HWP commodity classes representing the material use 
+of wood biomass, default conversion factors are provided in Table 12.1. The conversion factors for the HWP 
+default commodities (i.e. aggregates) are largely dependent on the composition of countries’ production quantities 
+of the particular sub-classes (e.g. particle board). If countries have disaggregated data on sub-classes of semi-
+finished HWP as listed in Table 12.1, it is thus good practice to apply Equations 12.2 and 12.4 to the disaggregated 
+sub-classes. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+In order to reduce uncertainties associated with assumptions on the conversion factors applied to activity data (i.e. 
+data on semi-finished wood products derived from statistics) (see Section 12.4.1.1), countries may consider using 
+country-specific activity data comprising further items of the HWP sub-classes as listed in Table 12.1. More 
+information can be obtained in Section 12.4.3.1. 
+Depending on which approach is to be applied by the country, different elements of the annual statistics on the 
+HWP commodity classes listed above are to be used for calculating the HWP activity data. These data represent 
+the use of wood as material and are used in Equations 12.2 and 12.4 (see Section 12.3.2). Depending on the chosen 
+approach (see Equation 12.3), these data either represent:  
+(i) 
+the calculated consumption of HWP within the country (‘stock-change’ approach), or  
+(ii) 
+the production of HWP originating from the forests within the country (‘production’ approach). 
+For the ’production’ approach, the HWP activity data could be partitioned between the domestically produced and 
+consumed HWP and those HWP which are exported. Furthermore, they could also be assigned to the particular 
+land use category from which their carbon originates within the country (see guidance below within this section). 
+If the ‘atmospheric-flow’ approach is applied, in addition to data on semi-finished HWP for estimating CO2 
+emissions and removals arising from the HWP pool in use following the ‘stock-change’ approach, data on carbon 
+in the imports and exports of woody biomass serving as wood fuel and/or raw material (RC) for the subsequent 
+manufacturing of semi-finished HWP, are required (see Equation 12.5 and Annex 12.A.3). Table 12.2 includes 
+those relevant wood product commodities including their carbon conversion factors (cf) to be applied in Equations 
+12.6, 12.7, 12.9, 12.10 and/or 12.11. It is good practice to consider the relevant definitions provided in Section 
+12.4.1.1 as well as the classification of wood products (see Figures 12.2 and 12.3) in order to avoid double counting. 
+TABLE 12.2 
+DEFAULT CONVERSION FACTORS FOR THE HWP FEEDSTOCK COMMODITY CLASSES 
+SERVING AS FUEL WOOD AND RAW MATERIAL FOR MANUFACTURING OF SEMI-FINISHED HWP 
+HWP feedstock commodity classes (j) 
+Density 
+(oven dry mass over air dry 
+volume) 
+[Mg / m3] 
+Carbon 
+fraction 
+C conversion factor cf 
+(per air dry volume) 
+[Mg C / m3] 
+Source 
+Industrial roundwood (aggregate) 
+0.458 
+0.5 
+0.229 
+1 
+   Coniferous industrial roundwood 
+0.45 
+0.5 
+0.225 
+1 & 2 
+   Non-coniferous industrial roundwood 
+0.56 
+0.5 
+0.28 
+1 & 2 
+Wood fuel 
+0.458 
+0.5 
+0.229 
+1 
+Wood chips and particles  
+0.458 
+0.5 
+0.229 
+1 
+Wood residues 
+0.458 
+0.5 
+0.229 
+1 
+ 
+(oven dry mass over air dry 
+mass) 
+[Mg / Mg] 
+ 
+(per air dry mass) 
+[Mg C / Mg] 
+ 
+Wood charcoal 
+0.9 
+0.85 
+0.765 
+3 
+Wood pulp (aggregate) 
+0.9 
+- 
+0.417 
+4 & 5 
+   Mechanical wood pulp 
+0.9 
+- 
+0.447 
+5 
+Chemical wood pulp, sulphate, 
+unbleached 
+0.9 
+- 
+0.422 
+5 
+Chemical wood pulp, sulphate, 
+bleached 
+0.9 
+- 
+0.397 
+5 
+Chemical wood pulp, sulphite, 
+unbleached 
+0.9 
+- 
+0.422 
+5 
+Chemical wood pulp, sulphite, 
+bleached 
+0.9 
+- 
+0.398 
+5 
+Recovered paper 
+0.9 
+- 
+0.386 
+1 
+1 IPCC 2014;  2 IPCC 2003, Appendix 3a.1;  3 IPCC 2006 
+4 Calculated from the weighted average of included sub-classes of the production volumes (average of the years 2006-2010) as for the HWP 
+commodity class ‘paper and paperboard’ (See Table 12.1) 
+5 Values derived from Steffen et al. 2016 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.23 
+COMPILATION OF ACTIVITY DATA FOR THE ‘STOCK-CHANGE’ 
+APPROACH 
+To calculate the annual carbon inflow to the respective HWP commodity class pool for the ‘stock-change’ 
+approach (i.e. 
+InflowSCAl  
+i ), see Equation 12.3), countries should apply Equation 12.6. 
+EQUATION 12.6 
+CALCULATION OF CARBON INFLOW IN A PARTICULAR SEMI-FINISHED HWP COMMODITY CLASS 
+FOLLOWING THE ‘STOCK-CHANGE’ APPROACH 
+ 
+   
+SCA
+C
+l
+l
+l
+Inflow
+i
+HWP
+i
+cf
+
+
+ 
+ 
+ 
+ 
+ 
+C
+P
+IM
+EX
+l
+l
+l
+l
+HWP
+i
+HWP
+i
+HWP
+i
+HWP
+i
+
+
+
+ 
+with: 
+ 
+ 
+ 
+ 
+ 
+0  if 
+ < 0 or 
+ > 
+C
+C
+EX
+P
+IM
+l
+l
+l
+l
+l
+HWP
+i
+,
+HWP
+i
+HWP
+i
+HWP
+i
+HWP
+i
+
+
+ 
+ 
+Source: Rüter 2017, p. 259 ff; IPCC 2006 
+Where: 
+Cl  
+HWP
+i  
+= calculated domestic consumption of the particular semi-finished HWP commodity class l 
+in the year i, in m³ 
+l
+cf  
+= carbon conversion factor of the particular semi-finished HWP commodity class l (see Table 
+12.1) 
+HWPPl  
+i  
+= production of the particular semi-finished HWP commodity class l in the year i, in m³ 
+HWPIMl  
+i  = import of the particular semi-finished HWP commodity class l in the year i, in m³ 
+HWPEXl  
+i  = export of the particular semi-finished HWP commodity class l in the year i, in m³. 
+COMPILATION OF ACTIVITY DATA FOR THE ‘PRODUCTION’ APPROACH 
+Analogously, Equation 12.7 allows calculation of the carbon inflow to the HWP pool of the particular semi-
+finished HWP commodity class for the ‘production’ approach (i.e. 
+InflowPAl  
+i , see Equation 12.3) (see IPCC 
+2014). 
+EQUATION 12.7 
+CALCULATION OF CARBON INFLOW IN A PARTICULAR SEMI-FINISHED HWP COMMODITY CLASS 
+FOLLOWING THE ‘PRODUCTION’ APPROACH 
+ 
+   
+PA
+DP
+l
+l
+l
+Inflow
+i
+HWP
+i
+cf
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+DP
+P
+R
+l
+l
+HWP
+i
+HWP
+i
+f
+i
+
+
+ 
+with: 
+ 
+ 
+  
+
+ 
+
+
+ 
+                             for HWP categories 'sawnwood' and 'wood-based panels'
+1
+ for HWP category 'paper and paperboard'
+IRW
+R
+IRW
+PULP
+RecP
+f
+i
+f
+i
+f
+i
+q
+f
+i
+q
+f
+i
+
+ 
+
+
+
+
+
+
+ 
+and: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 if  
+< 0;   
+0 if  
+< 0;   
+0  if  
+0
+IRW
+IRW
+PULP
+PULP
+RecP
+RecP
+f
+i
+f
+i
+f
+i
+f
+i
+f
+i
+f
+i
+
+
+
+
+ 
+ 
+Source: Rüter 2017, p. 259 ff.; IPCC 2014 
+Where: 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+HWPDPl  
+i  = production of the particular semi-finished HWP commodity class originating from domestic 
+harvest in the year i, in m³ 
+fR  
+i
+ 
+= Share of woody feedstock commodity class R (IRW, PULP or RecP) for the production of 
+the particular semi-finished HWP commodity class originating from domestic harvest in the 
+year i, as calculated according to Equation 12.8 
+IRW  
+= HWP feedstock commodity class ‘industrial roundwood’ 
+PULP  
+= HWP feedstock commodity class ‘wood pulp’ 
+RecP  
+= HWP feedstock commodity class ‘recovered paper’ 
+q  
+= recovered paper utilization rate. 
+In order to exclude carbon in imported HWP, Equation 12.8 allows the calculation of the share of the particular 
+feedstock commodity class R originating from domestic harvest in its total calculated consumption for the 
+manufacturing of the relevant subsequent products in the year i, which is represented by the feedstock factor fR(i). 
+EQUATION 12.8 
+ESTIMATION OF ANNUAL FRACTION OF THE RELEVANT DOMESTICALLY PRODUCED FEEDSTOCK 
+FOR PRODUCTION OF SEMI-FINISHED HWP ORIGINATING FROM DOMESTIC HARVEST 
+ 
+ 
+ 
+ 
+ 
+ 
+P
+EX
+R
+P
+IM
+EX
+R
+i
+R
+i
+f
+i
+R
+i
+R
+i
+R
+i
+
+
+
+
+ 
+with: 
+                  for HWP feedstock category '
+ 
+'
+                                   for HWP feedstock category '
+ 
+'
+                         for HWP feedstock cate
+IRW
+industrial roundwood
+R
+PULP
+wood pulp
+RecP
+
+gory '
+ 
+'
+recovered paper
+
+
+
+ 
+ 
+Sources: Rüter 2017, p. 259 ff;  IPCC 2014 
+Where: 
+RP  
+i
+ 
+= Production of the particular HWP feedstock commodity class in the year i, in m³ or Mt 
+RIM  
+i  
+= Import of the particular HWP feedstock commodity class in the year i, in m³ or Mt 
+REX  
+i  
+= Export of the particular HWP feedstock commodity class in the year i, in m³ or Mt. 
+COMPILATION OF ACTIVITY DATA FOR DOMESTICALLY CONSUMED 
+HWP UNDER THE ‘PRODUCTION’ APPROACH 
+If the ‘production’ approach is to be applied, it is good practice to present CO2 emissions and removals arising 
+from the change in the carbon stock in domestically consumed HWP and the change in the carbon stock in exported 
+HWP separately in order to increase transparency. For this purpose, the annual carbon inflow to the HWP pool of 
+the particular HWP commodity class that is domestically consumed (InflowPADC(i)) is to be calculated by means 
+of Equation 12.9. This is particularly relevant in those cases where country-specific emission factors are being 
+applied (see Section 12.4.3.2). 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.25 
+EQUATION 12.9 
+CALCULATION OF CARBON INFLOW INTO A PARTICULAR SEMI-FINISHED HWP COMMODITY 
+CLASS FOR ESTIMATING THE FRACTION OF DOMESTICALLY CONSUMED HWP FOLLOWING 
+THE ’PRODUCTION’ APPROACH 
+ 
+  
+ 
+PADC
+DC
+l
+Inflow
+i
+HWP
+i
+cf
+
+
+ 
+ 
+ 
+ 
+ 
+  
+DC
+DP
+EX
+R
+l
+l
+l
+HWP
+i
+HWP
+i
+HWP
+i
+f
+i
+
+
+
+ 
+with: 
+ 
+ 
+ 
+ 
+0 if  
+  
+ > 
+DC
+EX
+R
+DP
+l
+l
+l
+HWP
+i
+HWP
+i
+f
+i
+HWP
+i
+
+
+ 
+ 
+Source: Rüter 2017, p. 259 ff 
+Where: 
+HWPDCl  
+i
+= domestically produced and consumed HWP of the particular semi-finished HWP 
+commodity class originating from domestic harvest in the year i, in m³. 
+OPTION TO ALLOCATE HWP TO RELEVANT LAND-USE CATEGORIES 
+UNDER THE ‘PRODUCTION’ APPROACH 
+In principle, the carbon in HWP could furthermore be allocated to particular land use categories (e.g. Forest Land 
+remaining Forest Land, or any other land use category converted to Forest Land). 
+If country-specific methods are not available to allocate domestic harvest and subsequently produced HWP to 
+different land use categories (e.g. by track and trace systems), it is possible to apply Equation 12.10 to calculate 
+the carbon inflow to the HWP pool of the particular semi-finished HWP commodity class for the ‘production’ 
+approach (i.e. 
+InflowPAl  
+i ), by considering also the annual fraction of HWP derived from the specific land use 
+category (𝑓𝑗(𝑖)). 
+EQUATION 12.10 
+CALCULATION OF CARBON INFLOW INTO A PARTICULAR SEMI-FINISHED HWP COMMODITY 
+CLASS FOLLOWING THE ‘PRODUCTION’ APPROACH IN CONJUNCTION WITH ALLOCATION TO 
+RELEVANT LAND USE CATEGORIES 
+( )
+( )
+( )
+PAl
+DPl
+l
+l
+Inflow
+i
+HWP
+i
+cf
+f i
+
+
+
+ 
+with: 
+( )
+( )
+( )
+j
+l
+Total
+harvest i
+f i
+harvest
+i
+
+ 
+Where: 
+DPl  
+HWP
+i
+= production of the particular semi-finished HWP commodity class originating from 
+domestic harvest in the year i, in m³ 
+jf  
+i  
+= share of harvest originating from the relevant land use category j in the year i 
+j  
+= land use category. 
+Where countries already collect harvest data discriminating between different land use categories, and between 
+material and energy use of harvested roundwood (i.e. industrial roundwood and fuelwood, see Figure 12.2), this 
+information can be used. This is usually the case where countries apply the gain-loss (i.e. flux data) method13.  
+Most countries only report statistics on production of industrial roundwood from forests, and the uncertainties 
+associated with feedstock for HWP production (see Figure 12.2) originating from land use categories other than 
+forest-related are generally expected to be insignificant. Nevertheless, there is also industrial roundwood provided 
+to the markets from land uses other than forests, such as cropland (e.g. short-rotation coppice). 
+                                                           
+13 Section 4.2.1.1, Chapter 4, Volume 4 of the 2006 IPCC Guidelines 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Countries that apply the stock-difference method to estimate carbon stock changes in the living biomass pool need 
+to collect additional data for estimating harvest fractions associated with the particular land use category j. When 
+countries cannot track the harvested wood by the land of origin and by different uses of wood (i.e. industrial 
+roundwood, fuelwood), the following guidance could be applied. 
+For Forest Land converted to other land use categories, the starting information is the standing volume of trees 
+before the land use conversion, which corresponds to the total harvest (i.e. fellings). The following steps apply: 
+STEP 1: Disaggregate the harvest into roundwood and slash by one of the following methods.  
+ Either multiply the standing volume by the ratio of roundwood to total harvested removals that has been 
+calculated for other activities or at national level; 
+ Or divide the standing volume by the biomass expansion factors (BEF2)14, thereby deriving the amount of 
+roundwood. 
+STEP 2: Disaggregate the roundwood into industrial roundwood and fuelwood (see Figure 12.2) by one of the 
+following methods.  
+ Either multiply the roundwood by the ratio of industrial roundwood to roundwood that has been calculated for 
+other activities or at national level; 
+ Or multiply the industrial roundwood data (IRW) derived from Equation 12.8 by the factor 0.8715 in order to 
+exclude harvest losses, bark (see FAO roundwood definition, Section 12.4.1.1) and fuelwood not covered by 
+the statistics and subsequently disaggregate the result by using the proportion derived from FAOSTAT 
+production data of the commodities industrial roundwood and wood fuel.  
+For land use categories converted to Forest Land, the starting information is the standing volume of trees from 
+which fellings is derived according to the age-class structure and/or yield tables and/or information on the timing 
+of harvesting and thinning operations for each management system. Then, STEPS 1 and 2 as described above for 
+Forest Lands converted to other land use categories apply in order to divide harvest into roundwood and slash and 
+disaggregate roundwood into industrial roundwood and fuelwood. 
+For land use categories that are not covered under any forest-related land use category (see Volume 4, chapters 5 
+to 9), and that produce identifiable amounts of harvest (i.e. lands from which timber is extracted), then the country 
+may estimate the amount of industrial roundwood annually produced from those land use categories in order to 
+exclude it from the HWP estimation. 
+Industrial roundwood from the above land use categories could be estimated by one of two methods: 
+ For each tree species, subtracting the amount of harvest originating from land use categories subject to land-
+use change from total amount of harvest. The remaining amount is apportioned between Forest Land remaining 
+Forest Land and other land use categories from which significant amounts of timber are extracted, based on 
+the proportion of the total area covered by each species under Forest Land remaining Forest Land and under 
+those other land use categories.  
+ By subtracting the amount of fellings originating from land use categories subject to land-use change, as 
+quantified by available data or as estimated according to above-listed guidance, from the total harvest. The 
+remaining quantity can be apportioned on the basis of the proportion of the area under Forest Land remaining 
+Forest Land and under the other land use categories. 
+Once the quantity of fellings has been apportioned to land use categories other than forest-related land from which 
+identifiable amounts of timber are extracted, the industrial roundwood is estimated by applying the same steps as 
+those described for land use categories subject to land use change. 
+Finally, the amount of industrial roundwood produced from Forest Land remaining Forest Land is estimated by 
+subtracting the quantity of fellings originating from land use categories subject to land-use change and those land 
+use categories other than Forest Land remaining Forest Land, from the total harvest. The amount of industrial 
+roundwood from Forest Land remaining Forest Land can be calculated in line with the guidance given above.  
+If a ratio of industrial roundwood originated from the identified land use category cannot be estimated for the 
+whole time series, it is suggested to derive missing values from the ratios that have been calculated according to 
+methods of gap-filling as provided in Volume 1, Chapter 5 of this Refinement. 
+                                                           
+14 To be used in connection to growing stock biomass data 
+15 IPCC (2014). Please note that this factor varies between countries depending upon, inter alia, the national definition of 
+volume of living stems above stump. Further guidance can be found e.g. in Lawrence et al. (2010) and Karjalainen et al. 
+(2004). 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.27 
+Countries that use the stock-difference method to estimate forest carbon stock changes as outlined in Volume 4, 
+Chapters 2 and 4 of the 2006 IPCC Guidelines, and that apply the above method for estimating the fellings for the 
+forest-related land use categories subject to land-use change and/or for Forest Land remaining Forest Land, are 
+encouraged to ensure the quality of estimated values of harvesting by checking their consistency with the estimated 
+net changes in above-ground biomass. 
+COMPILATION OF ADDITIONAL ACTIVITY DATA REQUIRED FOR THE 
+‘ATMOSPHERIC-FLOW’ APPROACH 
+In order to implement the ‘atmospheric-flow’ approach, in addition to the activity data calculated by means of 
+Equation 12.6, the sum of all exported and all imported carbon in woody biomass serving as wood fuel and/or 
+feedstock for the manufacturing of semi-finished HWP, is to be calculated. Equation 12.11 enables the calculation 
+of carbon in imports and exports as elements of trade in those feedstock commodities for further use in Equation 
+12.5. 
+EQUATION 12.11 
+CALCULATION OF CARBON IN TRADED HWP FEEDSTOCK COMMODITY CLASSES SERVING AS 
+WOOD FUEL AND RAW MATERIAL FOR SUBSEQUENT PROCESSING OF SEMI-FINISHED HWP 
+ 
+  
+ 
+TRADE
+TRADE
+j
+j
+j
+RC
+i
+R
+i
+cf
+
+
+ 
+with: 
+             for imports of the relevant feedstock category 
+             for exports of the relevant feedstock category 
+IM
+j
+TRADE
+EX
+j
+
+ 
+
+ 
+ 
+Sources:  Rüter 2017, p. 259 ff, IPCC 2006 
+Where: 
+RCTRADE j  
+i  = Carbon in the relevant traded HWP feedstock commodity class j serving as wood fuel 
+and/or raw material for the manufacturing of semi-finished HWP, in Mt C, see Table 12.2  
+j
+cf  
+= carbon conversion factor of the particular HWP feedstock commodity class, see Table 12.2. 
+If the ‘atmospheric-flow’ approach is chosen, it is good practice to apply Equation 12.10 to all HWP feedstock 
+commodities listed in Table 12.2, in order to cover all relevant carbon fluxes in traded woody biomass. This ensures 
+that all imported HWP feedstock commodities and all exported HWP feedstock commodities are included, as is 
+consistent with the system boundary of the ‘atmospheric-flow’ approach. 
+12.4.2.2 EMISSION FACTORS 
+The rate at which carbon in the Tier 1 default HWP commodity classes is removed from the HWP pool in service 
+in a given year is specified by a constant decay rate (k) expressed as a half-life in years (see Equation 12.2 and 
+Box 12.1). The 2006 IPCC Guidelines define the half-life as “the number of years it takes to lose one half of the 
+material currently in the pool’’. As the half-life in this context refers to HWP in use (i.e. Section 12.3), the half-
+life to be applied is a function of the adjusted estimated service life (ESL) of the particular HWP commodities 
+(with HL = Adjusted ESL * ln (2), see Section 12.4.3.2).  
+The Tier 1 method involves applying the default half-lives of the three semi-finished HWP commodity classes 
+based on information provided in IPCC 2003, IPCC 2006 and IPCC 2014, as given in Table 12.3. The same half-
+lives apply for the particular sub-classes of these aggregate commodity classes of semi-finished HWP as specified 
+in Table 12.1 (Section 12.4.2.1). 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 12.3 
+TIER 1 DEFAULT HALF-LIVES16 OF HWP COMMODITY CLASSES 
+HWP commodity classes17 
+Default half-life (years) 
+Paper and paperboard 
+2 
+Wood-based panels 
+25 
+Sawn wood 
+35 
+ Source: IPCC 2014 
+12.4.3 Tier 2 method using country-specific data 
+Under Tier 2, estimates of the annual CO2 emissions and removals arising from HWP are derived using the same 
+Equations as provided for Tier 1 in Section 12.4.2. In following a Tier 2 method, either country-specific activity 
+data and/or country-specific emission factors are to be applied.  
+This section provides good practice guidance on the use of:  
+(i) 
+Country-specific activity data that are consistent with the Tier 2 method (Section 12.4.3.1) as 
+appropriate for each approach, as described in Section 12.4.2.1, and 
+(ii) 
+Country-specific emission factors following the concept of service life and half-life information to 
+estimate CO2 emissions and removals arising from HWP by means of the FOD function (Equation 12.2) 
+as provided for Tier 1 (Section 12.4.3.2). 
+12.4.3.1 COUNTRY-SPECIFIC ACTIVITY DATA 
+This section provides guidance on how to derive country-specific activity data that is consistent with the 
+application of the first order decay function.  
+For this purpose, it is good practice for activity data (i.e. based on national surveys) to follow the international 
+classification system for forest products consistent with the Harmonized Commodity Description and Coding 
+System (HS) of tariff nomenclature, presenting data in more detail than implemented in FAOSTAT (see Section 
+12.4.1.1). It is highly desirable for these data sources to be publically available for the sake of transparency and 
+verifiability. However, the use of such country-specific information in some cases might also involve aspects 
+related to country-specific institutional arrangements, for example, with respect to the use on occasion of 
+confidential industry data. For this reason, data sources subject to confidentiality constraints, no matter how 
+potentially useful, may be unsuitable for use in calculations, unless it is possible for the information to be shared 
+for the purposes of transparency and verification. 
+In order to calculate the annual carbon inflow (Inflowl (i)) required for Equation 12.2 and subsequent Equations in 
+Section 12.4.1.2, carbon conversion factors that reflect the commodity definitions should be applied (e.g. density, 
+woody biomass content, and tree species). 
+12.4.3.2 COUNTRY-SPECIFIC EMISSION FACTORS 
+In order to reduce uncertainties associated with the assumptions behind the default Tier 1 half-lives of the HWP 
+commodities (see Section 12.7), countries may consider using Tier 2, country-specific half-lives, both for the 
+domestic use of HWP commodity classes, and also for the importing country in the case of exported HWP 
+commodity classes (where relevant).  
+This section gives guidance on how to derive country-specific service and half-life information to estimate CO2 
+emissions and removals arising from HWP on the basis of the FOD function as included in Equation 12.2 (see 
+Section 12.4.2).  
+In the following, guidance is provided on how to derive country-specific half-life values that can be used for that 
+purpose, following the ISO 15686 standard series approach, since this is an already established system for service 
+                                                           
+16 Half-lives are based on Table 3a.1.3 of the GPG-LULUCF. 
+17 HWP commodity classes refer to the commodities sawnwood, wood-based panels, paper and paperboard, according to the 
+international classification system for forest products (see guidance in Section 12.4.1.1) 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.29 
+life estimation on a national (not case specific) level, in combination with obsolescence on a national level (see 
+Box 12.2).  
+It contains an example on how to improve service life estimates and subsequent HWP half-life calculation for the 
+HWP commodity classes based on the ISO 15686 series in combination with an obsolescence factor and 
+information on market share. 
+In order to adequately implement Equation 12.2, in conjunction with information on country-specific HWP service 
+life (i.e. the time carbon is held in the HWP pool in use before the products are disposed of or recycled), in addition 
+to the product half-life (see Section 12.4.2.2), the following terms and concepts are to be distinguished: 
+ ISO 15686-1:2011 defines the reference service life (RSL) as the service life of a product, component, assembly 
+or system which is known to be expected under a particular (reference) set of in-use conditions; 
+ The ESL on the other hand is the service life that a wooden or wood based component would be expected to 
+have in a set of specific in-use conditions. It is determined from RSL data after taking into account any 
+differences from the reference in-use conditions (ISO 15686-1:2011); 
+ The factor method is used to calculate the ESL. It is a modification of RSL by seven factors (see Box 12.2) to 
+take account of the specific in-use conditions (ISO 15686-8:2008); 
+ Obsolescence arises (according to ISO 15686-1:2011) when a facility can no longer be adapted to satisfy 
+changing requirements. Obsolescence tends to result from unexpected changes, often unrelated to the 
+construction, and includes: 
+(i) 
+Functional obsolescence: function no longer required. 
+(ii) 
+Technological obsolescence: new alternatives can offer better performance, or there is a change in the 
+pattern of use. 
+(iii) 
+Economic obsolescence: Fully functional but less efficient, or more expensive than alternatives. This 
+includes replacement owing to changing fashion or taste. 
+ISO (2011) states that estimates of obsolescence should be based on the designer’s and client’s experience, and, if 
+possible, documented feedback from practice. In order to estimate the carbon storage of HWP in use and its impact 
+on emissions/removals by means of flux data methods using country-specific service life information, it is thus 
+good practice to take into account obsolescence and to distinguish replacement of HWP in use due to e.g. defective 
+performance from obsolescence (see ISO 2011).  
+For example: 
+In northern Europe, wooden decking can last for 50 years or more given proper construction and choice of material. 
+But the same decking is likely to be replaced within 20 years for aesthetic or other reasons. Hence, for calculating 
+country-specific ESL or half-life values an obsolescence factor is needed in Tier 3 estimates of CO2 emissions and 
+removals arising from HWP to reflect the time actually spent in the HWP carbon pool, not the potential full-service 
+life of a wooden component given by ESL. 
+In this guidance document, the ESL is applied for estimates on a national level and not for a specific case as 
+suggested in the ISO 15686 standard series. To include the effect of obsolescence:  
+ Either an additional obsolescence factor (O) is included: with  
+(i) 
+Obsolescence = 1 when there is considered to be no significant effect of obsolescence compared to RSL; 
+(ii) 
+Obsolescence is given a value < 1 based on the intensity of obsolescence; 
+(iii) 
+Obsolescence can never be larger than 1; 
+ Or a decay function to be assigned that uses the service life data to estimate the decay profile (based on products 
+leaving the pool, rather than a biological decay profile) or the actual time that products take to go out-of-use.18 
+An example of how to derive national service life estimates by means of the factor method is given in the box 12.2 
+below.  
+                                                           
+18 For more information see IPCC FAQ, Q4-29 (http://www.ipcc-nggip.iges.or.jp/faq/faq.html) 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+BOX 12.2 
+EXAMPLE ON THE CALCULATION OF NATIONAL ESL BY MEANS OF FACTOR METHOD 
+A theoretical example with wooden claddings in Norway is given based on ISO 15686-8:2008 but 
+elevated from the case specific level given in the standard to a national level. Details about RSL and 
+service life estimation are in ISO 15686-8:2008.  
+A factor of “1” is used when the factor does not deviate from the RSL conditions. A higher value 
+(x>1) is given if the national performance is better than RSL conditions; a lower value (x<1) is given 
+if the national performance is lower than the RSL conditions. Non-relevant factors are excluded 
+from the equation.  
+The RSL is based on accelerated field trials and the threshold for failure was defined when the mean 
+decay rating reached 2 (on a scale from 0–4 where 0 is no decay and 4 is failure). 
+National ESL = 55(RSL)*1(A)*1(B)*1(C)*1.2(E)*1(F)*0.9(G) = 59.4 years  
+Factor D ‘indoor environment’ is excluded because it is not relevant. It is good practice to include 
+factors that do not deviate from the RSL even if they do not contribute in changing the RSL since 
+they are given the value 1. 
+A = Inherent performance level represents the grade of the component as supplied.  
+- Here equals the RSL. 
+B = Design level reflects the component’s installation in the building/constructed asset and is 
+typically based on the level of shelter and protection from agents provided by the design of the 
+building/constructed asset.  
+- Here equals the RSL. 
+C = Work execution level considers the level of skill and control in site-work. 
+- Here equals the RSL. 
+D = Indoor environment considers the exposure of the object to indoor agents of degradation and 
+their severity.  
+- Not relevant in this example. 
+E = Outdoor environment considers exposure to outdoor agents of degradation and their severity.    
+- In this example, the climate on a national level is less harsh than at the test sites included in RSL. 
+F = Usage conditions reflects the effect of the use of the building/constructed asset. 
+- Here equals the RSL. 
+G = Maintenance level reflects the level of maintenance assumed. For certain components that are 
+inaccessible or require special equipment for access, a particularly low maintenance level should be 
+considered. 
+- Here slightly lower than RSL intervals. 
+Another example in Table 12.4 shows how to derive country-specific half-life values for the three default HWP 
+commodity classes (see Section 12.4.2.1), as a function of information on market share of the use of wood (see 
+above), ESL and obsolescence. The use of composite HWP categories (i.e. categories of wood products made up 
+from more than one semi-finished wood product commodity class) in different markets, such as in the construction 
+sector, can be divided further into different segments (e.g. wall systems, flooring, and roof construction). These 
+different segments normally have different service lives and obsolescence factors. Hence, countries are encouraged 
+to allocate the contribution of the different HWP commodity classes or sub-classes (e.g. coniferous sawnwood) to 
+markets and their segments in order to obtain improved service life estimates for the particular HWP commodity 
+classes. Therefore, it is important to note that the assumed service life is driven by the technical properties of 
+products and, depending on this, its particular application area (e.g. load-bearing beam or wood panelling, both 
+made of sawnwood). Thus, in order to calculate a country-specific emission factor (i.e. service- or half-life), 
+different sources of information, e.g. on the market use of different HWP commodity classes, could be combined 
+as illustrated in Table 12.4. 
+The definition of half-life and also guidance on how to calculate half-life is provided in Section 12.4.2.2. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.31 
+TABLE 12.4 
+EXAMPLE OF HOW TO DERIVE COUNTRY-SPECIFIC HALF-LIFE FOR HWP COMMODITY CLASSES AS A FUNCTION OF 
+INFORMATION ON MARKET SHARE, ESTIMATED SERVICE LIFE (ESL) AND OBSOLESCENCE 
+HWP 
+commodity 
+classes (here: 
+aggregates) 
+Markets* 
+Market 
+share of 
+HWP 
+commodity 
+class 
+National 
+estimated 
+service life 
+(ESL), years 
+National 
+obsolescence 
+factor (O) 
+Adjusted ESL of 
+HWP commodity 
+class (=ESL*O* 
+market share 
+adjustment) 
+Half-life  
+(=Adjusted 
+ESL* ln(2)) 
+Sawn wood 
+construction 
+60% 
+70 
+0.9 
+41.0 
+28.4 
+ 
+furniture 
+10% 
+45 
+0.6 
+ 
+packaging 
+30% 
+6 
+0.3 
+ 
+paper 
+0% 
+- 
+- 
+Wood-based 
+panels 
+construction 
+50% 
+60 
+0.7 
+30.5 
+21.2 
+furniture 
+45% 
+35 
+0.6 
+packaging 
+5% 
+6 
+0.3 
+paper 
+0% 
+- 
+- 
+Paper and 
+paperboard 
+construction 
+0% 
+- 
+- 
+1.5 
+1 
+furniture 
+0% 
+- 
+- 
+packaging 
+50% 
+3 
+0.3 
+paper 
+50% 
+10 
+2 
+* As the use of the HWP commodity classes in different markets, such as the construction sector, consists of different end uses (e.g. wall 
+systems, flooring, roof construction), countries are encouraged to allocate the contribution of the different end uses to the relevant HWP 
+commodity class or sub-class (e.g. non-coniferous sawnwood used for windows). 
+COUNTRY-SPECIFIC HALF-LIFE DATA TO BE USED FOR EXPORTED HWP 
+UNDER A ‘PRODUCTION’ APPROACH 
+In the case that CO2 emissions and removals arising from HWP are estimated on the basis of the ‘production’ 
+approach (Section 12.4.2.1) and country-specific half-life information is to be used also for the exported HWP, it 
+is good practice to use the half-life information from the importing country. For this purpose, it is necessary to 
+quantify export activity data within the HWP commodity classes and/or sub-classes (see Section 12.4.1.1). 
+Furthermore, in order to ensure that the country-specific half-life information from the importing country complies 
+with the commodity classes of the activity data for the exported HWP, it is good practice only to apply country-
+specific half-life information in the case that the same commodity classes of activity data for the exported HWP 
+in both the exporting and importing country are used. Otherwise the default values from Tier 1 are to be used 
+(Section 12.4.2.2).  
+In order to increase transparency, it is good practice to report CO2 emissions and removals arising from HWP 
+from domestically consumed and exported wood separately. 
+12.4.4 Tier 3 country-specific methods 
+As noted in Annex 12.A, when developing Tier 3 methods for HWP, care is needed to ensure that methods for 
+HWP and for carbon stock changes in wood-producing land categories (e.g. forests) are designed to avoid non-
+counting or double-counting of CO2 emissions or removals,  
+12.4.4.1 FLUX DATA METHODS 
+In theory, decay functions other than the one described for Tier 1 could be used to apply a flux data method. 
+However, it should be noted that, as stated in the 2006 IPCC Guidelines, depending on the selected approach, it is 
+“more difficult to develop Tier 3 methods”, especially in the case where the ‘production’ approach is selected 
+“which requires data on the lifecycle of exported HWP for countries where most of its products are exported” 
+(IPCC 2006).  
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.32 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ACTIVITY DATA USED IN COUNTRY-SPECIFIC FLUX DATA METHODS 
+In general, activity data could also be established and combined with suitable service life information differently 
+from the HWP commodity classes as suggested in Section 12.4.1.1.  
+This could include for example statistics on finished products. However, it should be noted that, in many cases, 
+such information is provided only in units per piece, which makes it difficult to convert such data to carbon 
+amounts. 
+In order to ensure that the country-specific methodology used is at least as accurate as the one described in Section 
+12.4.2, it is good practice to ensure that the country-specific HWP commodity classes cover the volumes as 
+described by the default HWP commodity classes following the international classification system (see Section 
+12.4.1.1), in line with the approach (i.e. system boundary) chosen by the country (see Section 12.3 and Annex 
+12.A).  
+In the case that the country does provide HWP data in FAOSTAT following the international classification system 
+(see Section 12.4.1.1), it is also good practice to explain the relation of the country-specific HWP commodity 
+classes to the FAOSTAT data to ensure that the data relates to the approach selected by the country. 
+In the case that the country-specific commodity classes representing the carbon flux into the HWP carbon pool do 
+not cover all the relevant HWP elements reflecting the material use of HWP in the selected approach (see Section 
+12.3 and 12.4.2.1), it is furthermore good practice to combine the country-specific flux data method with other 
+suitable methodologies (see Section 12.4.4.3). 
+Furthermore, countries are encouraged to make the country-specific HWP commodity classes broad enough to 
+capture significant carbon volumes contributing to the HWP pool. As a guide, the volumes of these commodity 
+classes may be deemed significant if they represent at least 5percent of the total HWP volumes as described by the 
+particular approach selected by the country.  
+EMISSION FACTORS USED IN COUNTRY-SPECIFIC FLUX DATA 
+METHODS 
+In order to derive country-specific service and half-life information to be used in combination with activity data 
+used in country-specific flux data methods, it is good practice to ensure that the country-specific parameters are 
+applicable for the commodity classes of HWP represented in activity data applied under the selected Tier 3 method. 
+It is furthermore important to note that service and half-life values representing the material use of wood can differ 
+significantly between and within countries, depending on factors such as construction practices, culture, fashion, 
+and climate. Thus, where such country-specific information is used, a national quality control system is encouraged 
+in order to provide transparent and verifiable data. 
+Potential sources that could be used to derive country-specific service life values e.g. for combination with data 
+on finished wood products, include, for example, national surveys on the final market use of wood.  
+12.4.4.2 DIRECT INVENTORY METHODS 
+The HWP direct inventory methods use HWP carbon pool data for two, or preferably more, separate points in time 
+to estimate changes in the pool. In practice, its application is only easy to implement for estimating carbon stocks 
+in the HWP pool located in the reporting country alone. It can be used to estimate the annual change in carbon 
+stock of some specific elements of the HWP pool such as finished products and uses (e.g. wooden houses) (see 
+Figure 12.3). The HWP pool of products in use in building structures is frequently a major part of the total HWP 
+pool. The amount of HWP carbon can be estimated, for example by multiplying the average HWP content per 
+square metre of floor space by the total floor area for relevant building types that use wood, taking into account 
+when the buildings were constructed and changes in wood use per square meter over time. Annual change in 
+carbon stock could be estimated by noting the change between inventories estimated at different points in time.  
+In direct inventory methods, no procedure for adding up wood use data from historical data is needed to estimate 
+the existing HWP stock or annual change in stock, which is an advantage compared to the flux methods (IPCC 
+2006).  
+Depending on the selected approach by the country, and the availability of activity data other than described in 
+Section 12.4.1.1., there might be the need to combine direct inventory information with estimates derived by means 
+of flux data methods (see Section 12.4.4.3).  
+Where estimates follow the ‘production’ approach (see Sections 12.3 and 12.A.2.2), the application of direct 
+inventory methods does not allow the identification of the proportion of the HWP carbon stock originating from 
+domestic forests (see Section 12.4.2.1). It is also not possible to estimate the carbon stock in the exported share of 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.33 
+domestically produced HWP by means of inventories themselves (see 12.4.4.3). Following this approach 
+furthermore requires excluding imported HWP from the estimated HWP pool, thereby increasing the uncertainties. 
+Since in practice inventory data are not available for all finished HWP for domestic and export markets covering 
+the default HWP semi-finished commodity classes of sawnwood, wood-based panels, paper and paperboard (e.g. 
+wooden houses, furniture, newspaper), it is good practice to apply direct inventory methods only in combination 
+with flux data methods.  
+In cases where a country applies direct inventory methods for specific HWP end uses (e.g. the housing sector), it 
+is good practice to estimate CO2 emissions and removals arising from HWP for the remaining fraction of the three 
+HWP default commodities representing the material use of wood in combination with a flux data method (e.g. 
+Equation 12.2). 
+12.4.4.3 COMBINED HWP DIRECT INVENTORY AND FLUX DATA 
+METHODS 
+The application of a combined method is specifically relevant in the case where direct inventory information is to 
+be used in combination with the ‘production’ approach. For this purpose, the three semi-finished HWP commodity 
+classes being used in the housing sector need to be factored out from the flux data calculation to avoid double-
+counting (see Section 12.4.1.1). Examples of such combined direct inventory and flux data methods are reported 
+in Gjesdal et al. (1996) for Norway, in Pingoud et al., (2001), Statistics Finland (2010) for Finland, and National 
+Institute for Environmental Studies (2018) for Japan. 
+12.5 
+HARVESTED WOOD BIOMASS USED FOR 
+ENERGY PURPOSES  
+This section clarifies how and where wood biomass that is harvested and extracted from forests and other wood 
+producing land categories, and then burnt at some point in time, is covered in GHG inventories. This includes an 
+explanation of where this activity is represented in different GHG inventory sectors and where to find relevant 
+guidance. 
+12.5.1 Treatment of CO2 emissions from wood biomass 
+burnt and used for energy purposes 
+This section discusses how the calculation and reporting of CO2 emissions from wood biomass used for energy 
+purposes depends on the choice of HWP approach, in terms of the conceptual framework and system boundary of 
+each approach. The main purpose of this discussion is to clarify where CO2 emissions from wood biomass burnt 
+for energy purposes are reported in GHG inventories, in particular, whether they are estimated by a producing 
+country (i.e. a country where wood is harvested) or consuming country (i.e. a country where the wood products 
+are used). 
+The CO2 emissions from wood biomass burnt are reported in the AFOLU sector. However, these CO2 emissions 
+may be estimated as an implicit component of carbon stock changes estimated for forests and other wood producing 
+land categories, or as part of carbon stock changes in the HWP pool. The details depend on the approach applied 
+for calculating CO2 emissions and removals arising from HWP in use. 
+The CO2 emissions from wood biomass burnt are not reported in either the Energy sector (burnt for energy 
+purposes) or Waste sector (burnt or lost without energy recovery). This is to avoid the possibility of double 
+counting these emissions in two or more GHG inventory sectors because they are already included in the AFOLU 
+sector. When using inventory estimates to assess the CO2 emissions arising from energy use, including wood for 
+energy purposes, it is necessary to consider relevant emissions estimated in the Energy and AFOLU sectors. 
+When considering CO2 emissions from harvested wood biomass used for energy purposes, it should be recognised 
+that harvested wood biomass may be burnt or otherwise lost at different stages in the utilisation of harvested wood. 
+In this context, several elements of wood biomass may be identified: 
+ ‘Harvested wood biomass used directly as energy feedstocks’: these consist of harvested wood used directly 
+as feedstocks to produce energy. This includes harvested wood biomass burnt directly as fuel wood on a 
+residential, commercial or industrial scale, and harvested wood biomass used directly as a feedstock for 
+biofuels. Also included here is wood biomass burnt for process energy in the manufacture of energy wood 
+products (such as wood chips, briquettes and pellets), and in the manufacture of biofuels. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.34 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ ‘Industrial residues from manufacturing semi-finished wood products’: these consist of industrial residues 
+generated along the process chain in the manufacture of semi-finished wood products. Some of these residues 
+may also be burnt or lost without energy recovery. 
+ ‘Industrial residues from manufacturing finished wood products in use’: these consist of industrial residues 
+generated along the process chain in the manufacture of finished wood products from semi-finished wood 
+products. Some of these residues may also be burnt or lost without energy recovery. 
+ ‘Wood biomass collected and burnt as post-consumer waste’: these consist of wood biomass collected and 
+burnt as post-consumer wood (i.e. recovered wood), including industrial-scale incineration, with or without 
+energy recovery. 
+For clarity, it is also relevant to consider ‘unutilized wood harvest residues’ in GHG inventories. These consist of 
+residual wood biomass generated as part of harvesting but not extracted from the forest or other wood-producing 
+land categories, which is left to rot on site, or burnt on site as waste. This is equivalent to the biomass referred to 
+as slash in Figure 12.2 (Section 12.4.1.1). 
+Table 12.5 gives a summary of the implications for reporting CO2 emissions from wood biomass burnt by 
+producing or consuming countries under different HWP approaches, referring to the elements of wood biomass 
+described above. For clarity, and to allow comparison, the table also shows the implications of taking the decision 
+not to explicitly report CO2 emissions and removals arising from HWP (i.e. to assume “a steady-state HWP pool”, 
+see Section 12.4.1.2). 
+TABLE 12.5  
+REPORTING OF CO2 EMISSIONS FROM WOOD BIOMASS BURNT BY PRODUCING AND CONSUMING COUNTRIES UNDER 
+DIFFERENT HWP APPROACHES 
+Element of wood biomass 
+Assumption of ‘a 
+steady-state HWP 
+pool’ 
+‘Stock-change’ 
+approach 
+‘Production’ 
+approach* 
+‘Atmospheric-
+flow’ approach 
+Unutilized wood harvest 
+residues 
+Producing country 
+ 
+Producing 
+country 
+ 
+Producing 
+country 
+ 
+Producing country 
+Harvested wood biomass 
+used directly as energy 
+feedstocks 
+Consuming 
+country 
+ 
+Industrial residues from 
+manufacturing semi-finished 
+wood products 
+Industrial residues from 
+manufacturing finished wood 
+products in use** 
+Consuming 
+country 
+Wood biomass collected and 
+burnt as post-consumer waste 
+* Discussion of the ‘production’ approach in this section also applies for the ‘simple-decay’ approach (see Section 12.3 and Annex 12.A) 
+** In the case of the ‘stock-change’ approach, strictly, CO2 emissions from wood biomass collected and burnt as post-consumer waste are 
+only reported by a consuming country if the finished wood products are consumed and used in the country where they are manufactured 
+and are not exported to another country. 
+The CO2 emissions from burning ‘unutilized wood harvest residues’ without energy recovery, generated as part of 
+harvesting, are included as  a component of the CO2 emissions and removals estimated for forests and other wood 
+producing land categories, and are reported by the producing country. 
+In the case of ‘harvested wood biomass used directly as energy feedstocks’, when applying the ‘stock-change’ or 
+‘production’ approaches, CO2 emissions are estimated for the producing country. This is a reflection of the 
+conceptual framework behind the ‘stock-change’ and ‘production’ approaches (see Section 12.3.1), which involve 
+estimating CO2 emissions and removals arising from HWP by means of changes in defined carbon stocks in the 
+HWP pool. Harvested wood biomass used directly as a feedstock for energy purposes is assumed to be burnt in 
+the same year as it is harvested. Hence, conceptually, there is no carbon pool associated with this use of wood. As 
+a consequence, under the ‘stock-change’ and ‘production’ approaches, the CO2 emissions are included implicitly 
+as a component of the net CO2 emissions and removals associated with forests and other wood producing land 
+categories (i.e. as part of losses from above ground standing biomass), as estimated for the producing country. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.35 
+The ‘atmospheric-flow’ approach focusses on identifying and quantifying CO2 fluxes to the atmosphere from HWP, 
+taking place within national boundaries. The CO2 emissions from burning ‘harvested wood biomass used directly 
+as energy feedstocks’ are thus estimated for the country where the wood biomass is used (i.e. by the consuming 
+country). 
+In the case of ‘industrial residues from manufacturing semi-finished wood products’, when applying the ‘stock-
+change’ or ‘production’ approaches, CO2 emissions are reported by the producing country. This reflects the 
+application of approaches following the conceptual framework which focusses on estimating CO2 emissions and 
+removals arising from HWP on the basis of changes in defined carbon stocks in the HWP pool. Essentially, this is 
+for the same reasons as given for ‘harvested wood biomass used directly as energy feedstocks’. In this case, these 
+industrial residues are by-products of the processes involved in the conversion of industrial roundwood into semi-
+finished products. A proportion of these residues are not used for energy purposes but instead become feedstocks 
+for wood-based panels and paper products. In such cases, these residues are included in the relevant activity data 
+for these product commodity classes (see Section 12.4.1.1). The remainder, generally consumed for energy 
+purposes, do not form part of the statistics for semi-finished wood products and so are not considered as part of 
+the carbon pool changes in HWP under the ‘stock-change’ and ‘production’ approaches. As a consequence, under 
+these approaches, the CO2 emissions are included implicitly as a component of the net CO2 emissions and removals 
+associated with forests and other wood producing land categories (i.e. as part of losses from above ground standing 
+biomass), as estimated for the producing country.  
+Under the ‘atmospheric-flow’ approach, a consuming country reports the CO2 emissions from burning biomass 
+generated as ‘industrial residues from manufacturing semi-finished wood products’. 
+In the case of ‘industrial residues from manufacturing finished wood products in use’, when applying the method 
+as set out in Section 12.4.2 for Tier 1 and Section 12.4.3 for Tier 2, CO2 emissions are estimated as an implicit 
+component of the losses from the defined HWP pool in use. These estimated emissions are calculated from data 
+on semi-finished wood products by applying FOD functions to these products (see Section 12.4.2). As a 
+consequence, the representation of CO2 emissions from these industrial residues (either by a producing country or 
+consuming country) depends on the selected HWP calculation approach. Under the ‘stock-change’ and the 
+‘atmospheric-flow’ approach, CO2 emissions are estimated by the consuming country. Under the ‘production’ 
+approach, CO2 emissions are estimated by the producing country. 
+Note that, under Tier 1 and 2 methods, CO2 emissions from these industrial residues are estimated, regardless of 
+whether the residues are burnt with energy recovery, burnt without energy recovery, or lost (e.g. decay) as waste. 
+When applying a Tier 3 method, the calculation methods should be designed to ensure that the estimation of CO2 
+emissions from these industrial residues (either by a producing country or consuming country) is consistent with 
+the selected HWP approach. 
+In the case of ‘wood biomass collected and burnt as post-consumer waste’, CO2 emissions are treated in the same 
+way as industrial residues burnt or lost during the manufacture of finished products in use, as described 
+immediately above. 
+12.5.2 Treatment of non-CO2 emissions from wood biomass 
+burnt and used for energy purposes 
+Non-CO2 emissions from wood biomass burnt and used for energy purposes are reported in the Energy sector and 
+are consistently reported by the country in which the biomass is consumed. As a consequence, the CO2 and non-
+CO2 emissions from burning wood biomass for energy purposes may be reported by the same country (i.e. a 
+consuming country) or by different countries, depending on the approach applied for calculating CO2 emissions 
+and removals arising from HWP in use. When CO2 emissions from burning wood biomass for energy are estimated 
+for a country for information purposes in the Energy sector, these emissions are calculated consistently with the 
+reporting of related non-CO2 emissions from burning the biomass in the consuming country (see 2006 IPCC 
+Guidelines Vol 2, Chapter 2, Section 2.3.3.4). Depending on the selected HWP approach, the estimates of CO2 
+emissions in the Energy sector may or may not be consistent with the estimates in the AFOLU sector. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.36 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.5.3 Guidance on emissions factors for wood biomass 
+burnt and used for energy purposes 
+Guidance on emissions factors for CO2 and non-CO2 GHG emissions resulting from the burning of wood biomass 
+can be found in 2006 IPCC Guidelines Vol 2, Ch 2 Section 2.3.2. Guidance on how to derive activity data where 
+wood biomass is burnt for energy generation purposes is given in 2006 IPCC Guidelines Vol 2, Ch 2 Section 2.3.3. 
+Where wood biomass is incinerated as waste (i.e. without energy recovery), guidance is provided in 2006 IPCC 
+Guidelines Vol 5, Ch 2. Where wood biomass is used as feedstock for biofuels, guidance is provided in 2006 IPCC 
+Guidelines Vol 2, Ch 3. 
+12.6 
+CLARIFICATION OF THE TREATMENT OF 
+“WOOD IN SWDS” IN THIS GUIDANCE 
+This section provides clarification of where the best available guidance may be found for estimating emissions 
+from HWP in SWDS.  
+Great care is needed when interpreting and using activity data derived from waste statistics on the one hand and 
+national and international forest products statistics on HWP production and consumption, which follow the 
+international classification system for wood commodities, on the other hand. For example, significant quantities 
+of HWP may be burnt for energy or recycled at the end of life, while waste statistics generally include biomass 
+from sources other than HWP (e.g. garden waste). Therefore, generally wood production and wood consumption 
+statistics cannot be used without modifications to estimate quantities of HWP entering SWDS. It may also be 
+difficult to relate estimates of wood disposed of in SWDS derived from waste statistics to estimates of HWP in 
+use. Consequently, there may be some inconsistency in estimates of CO2 emissions and removals arising from 
+HWP in the AFOLU sector and estimates for wood disposed of in SWDS in the Waste sector. 
+12.6.1 Representation of CO2 emissions from wood biomass 
+in SWDS 
+In the methods provided in this Chapter, losses of HWP in use are assumed to result in CO2 emissions to the 
+atmosphere, with no explicit representation of the subsequent retention of disposed wood in SWDS and eventual 
+CO2 emissions from SWDS. It may be useful to quantify the CO2 emissions from wood biomass disposed of in 
+SWDS to allow checks on consistency in the estimation of emissions in the Waste and AFOLU sectors. 
+It should be noted that estimates of CO2 emissions from wood disposed of in SWDS (if estimated to permit checks 
+on consistency) will only be consistent with estimates for the Waste sector (including for methane emissions) if 
+calculated by applying a consistent approach (which, in this specific context, is the ‘stock-change’ approach). For 
+the estimation of these emissions, the guidelines for HWP advise GHG inventory compilers to apply either the 
+Tier 1 method with default parameter values as described in guidance for the Waste sector, or a Tier 2 method for 
+the Waste sector, with country-specific parameter values. If the ‘stock-change’ approach is applied, the inflow to 
+the Tier 1 or Tier 2 calculation consists of the calculated domestic consumption of wood discarded to SWDS, 
+whilst the outflow is calculated based on a first order decay function (see 2006 IPCC Guidelines Volume 5, Annex 
+3A.1). The Waste Sector guidelines explain how to use Waste Sector default data and parameters to estimate the 
+quantity of discarded solid wood and paper carbon that accumulates in SWDS in the estimating country. When 
+applying the Waste Sector Tier 1 method, estimates of carbon emitted to the atmosphere from SWDS are calculated 
+by identifying the portion of carbon discarded to SWDS in the current year which is judged to have originated as 
+harvested wood biomass. It should be noted that Tier 1 FOD model for SWDS provides not only CH4 emission 
+from degradable organic matter (DOCm) in SWDS, but also CO2 emissions from DOCm in SWDS, as well as the 
+amount of long-stored carbon (non-degradable carbon) in SWDS (See 2006 IPCC Guidelines, Volume 5, Chapter 
+3, Section 3.2). When countries explicitly identify the CH4 emissions and long stored carbon originating from 
+disposed wood in SWDS, the carbon contained in these elements may be subtracted from the release of CO2 from 
+HWP. 
+12.6.2 Representation of non-CO2 (methane) emissions from 
+wood biomass in SWDS 
+According to guidelines for the Waste sector, methane emissions from wood in SWDS are represented in the Waste 
+sector in the country where the SWDS are situated, regardless of the national origin of the waste (See 2006 IPCC 
+Guidelines, Volume 5, Chapter 3, Section 3.1). 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.37 
+12.7 
+UNCERTAINTY ASSESSMENT 
+This section provides information on potential sources of uncertainty associated with the estimates of CO2 
+emissions and removals arising from HWP. The uncertainties can be divided into uncertainties associated with the 
+methods, with the activity data, and with emission factors and parameters. 
+METHOD UNCERTAINTIES 
+When flux data methods are applied, notably as under Tier 1 and Tier 2, the essential sources of uncertainty are 
+related to the assumption that losses from the processing and use of semi-finished wood products can be 
+represented by a FOD process (see Equation 12.2). The alternative to modelling fluxes in this way would be to 
+refer to actual statistics, not only on the rates of wood inflow into classes of semi-finished products, but also on 
+rates of loss (or disposal) of wood material from these classes. As explained in Section 12.4.1.1, statistics (activity 
+data) on rates of inflow are generally available and reasonably reliable. However, there are no extensive or reliable 
+statistics on actual rates of loss/disposal – rather there is only some understanding of the lifespans (or “service 
+lives”) of types of wood product. Although the FOD function is assumed to be a good proxy for the carbon losses 
+from the HWP pool consisting of semi-finished products, other decay functions or methodologies could also be 
+used to describe these processes. However, the real world is even more complex. The service life and decay pattern 
+of wood products are not just technical issues but are also related to socio-economic factors (see Section 12.4.3.2). 
+For instance, the demand for wood products is likely to grow during periods of economic prosperity, resulting 
+simultaneously in increasing replacement of old HWP with new ones. Hence, the inflow of wood to HWP is likely 
+to increase during such periods. However, much of this wood consumption may be related to decisions to replace 
+existing HWP in use, thus the rate of loss/disposal from HWP may also increase, implying a shortening of the time 
+for which HWP remain in use. The converse may be true in periods of economic recession, i.e. with reduced inflow 
+but also reduced losses as a result of HWP being retained longer in use. This sort of dynamic interaction between 
+rates of inflow and loss is not represented in the basic FOD modelling methods. Rather, the rates of loss are 
+assumed to be fixed. As a result, the annual carbon stock change in HWP may be overestimated or underestimated 
+during some periods, depending on specific economic circumstances, where these are not well represented by the 
+assumptions implicit in the FOD process and fixed decay rates representing average conditions. 
+In the Tier 1 method another uncertainty is associated with the initialization of the FOD model. Due to the lack of 
+long historical data series on semi-finished HWP (for some countries data series are only available since the early 
+1990s) the initial stocks of the HWP commodity classes (Cl(t0)) are approximated by assuming that the stock 
+change was zero at the initial time. This proxy might slightly overestimate the inherited emissions from the long-
+lived HWP commodity classes of sawnwood (with half-life of 35 years) and wood based panels (with half-life of 
+25 years) in cases where the stock was growing when initialization of the time series began, particularly when the 
+calculation in Equation 12.4 only starts from the early 1990s. This could thus potentially increase the uncertainties 
+of CO2 emissions and removals arising from HWP, especially from products with high half-life values.  
+Another model uncertainty is related to the number of HWP commodity classes in the model. In the simplest Tier 
+1 method there are three HWP sub-pools for the main commodity classes of semi-finished wood products: 
+sawnwood, wood-based panels and paper and paperboard, each of which follows the FOD pattern but with 
+different half-lives. The uncertainty could be lowered by introducing disaggregated sub-pools (e.g. for sawnwood) 
+with different half-lives depending upon their end-use (see Table 12.2) or based on sub-classes (e.g. wood-based 
+panels disaggregated to particle board, fibreboard etc., see Table 12.2).  
+In Tier 3, direct inventories of HWP in service (e.g. in the construction sector) could also be used to reduce the 
+uncertainties associated with the flux data based method of Tier 2. The advantage of direct inventories is that they 
+remove the need for idealized models with uncertain assumptions on decay pattern, and which may require 
+verification and validation. The direct inventory method could in principle provide more robust and less uncertain 
+estimates of the carbon stock changes in the HWP pool. Sequential direct inventories could also be applied in the 
+calibration of the flux data models and their half-life parameters (see Box 12.2), thus reducing their uncertainties. 
+However, the limitation of the method is that the statistics, if available, contain only some major pools, such as the 
+housing sector, of a country, and there is no information on other pools, e.g. on the use of wood for furniture or 
+packaging. In addition, direct inventory methods are unlikely to be implementable by a producing country for 
+HWP in its export markets. Thus, they must always be combined with flux data methods, introducing a risk of 
+double-counting of semi-finished and final products. Furthermore, direct inventory methods are applicable only in 
+countries where relevant and repeated statistics are available. 
+UNCERTAINTIES OF ACTIVITY DATA 
+Uncertainties related to activity data on HWP from international databases (e.g. FAOSTAT, see Section 12.5), and 
+consequent uncertainties in the estimates of the level of CO2 emissions and removals arising from HWP, could 
+occur as a result of: 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.38 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ Lack of time series: some countries were founded relatively recently, and thus older activity data might not be 
+available (see above). 
+ Definitional uncertainties (i.e. data provided do not conform to what has been requested): For instance, data on 
+wood removals tend to originate only from commercial forestry operations or planned cuts, data on sawnwood 
+production is being provided in nominal (not solid) m3, and pulp production data is only on commercially 
+traded (market) pulp. 
+ The scope of data collection: small or occasional producers may not be included. This tends to affect especially 
+the sawmilling industries, as limits to collected statistical data might be linked to business volume or number 
+of employees. 
+ Double counting (e.g. final products counted in semi-finished commodities, such as cut paper being added to 
+paper in rolls). 
+ Reporting errors in providing correct data: for instance, numbers that are assigned to the wrong commodity 
+class or incorrectly processed by the reporter or collecting agency. 
+ Uncertainties associated with aggregate HWP commodities (e.g. wood-based panels): in general, the sum for 
+the sub-classes is consistent with the value for the aggregate commodities, but some commodities may be 
+underreported because of missing sub-classes (e.g. missing data on veneer sheets result in an underestimate for 
+wood-based panels). 
+Concerning data on the feedstock for production of semi-finished HWP commodity classes (i.e. industrial 
+roundwood and wood pulp as proposed in Equations 12.7 and 12.8), uncertainty could be caused by unreported 
+sources, related to by-product use or just omissions from trade data.  
+The semi-finished HWP commodity classes (i.e. sawnwood, wood-based panels and paper and paperboard) are all 
+subject to the factors listed above. An overall assessment of the influence of these factors on the estimated 
+uncertainty of reported activity data suggests a range from -25percent to +5percent (based on the authors’ expert 
+judgement). The implication is that the combined effect of the factors described above is a tendency to under-
+reporting in HWP commodity data in international databases, i.e. actual values are generally higher. This is 
+particularly the case in the reported amounts of wood-removals (see Figure 12.2, Section 12.4.1.1). This in turn 
+implies a potential underestimation of the rates of inflow to HWP in the case that information on feedstock is used 
+for calculating in the applied HWP approach.  
+Further uncertainties associated with activity data are caused by conversion factors. In particular, the conversion 
+factors provided for sawnwood (see Table 12.2) reflect averages which may not be correct for all species and 
+specific items.  
+In order to reduce uncertainties around conversion factors for carbon, countries may consider using country-
+specific activity data under Tier 2 where they can make use of commodity specific conversion factors linked, for 
+example, to various wood species for the specific items (see Section 12.4.2.1). 
+It is most useful for reducing the uncertainties relating to activity data to cross-check if the amount of domestic 
+production of HWP commodity classes balances with the available supply of wood.  It also allows data to be 
+reviewed to check if it fits with a general understanding of the forest products supply in a country. Other validation 
+methods could include a review of trade unit values and determination of per capita apparent consumption. 
+UNCERTAINTIES ASSOCIATED WITH EMISSION FACTORS (SERVICE 
+AND HALF-LIFE ESTIMATES) 
+The half-life parameters are in general the most uncertain part of the Tier 1 and Tier 2 calculation method. The 
+scientific evidence behind the default values given in Table 12.3 is not robust. For reducing uncertainty, countries 
+are strongly encouraged to adjust the Tier 1 half-life parameters by calibrating the FOD model either a) with direct 
+inventories of HWP in use (see Section 12.4.4), or b) with market information as shown in Table 12.4 (see Section 
+12.4.3.2). The application of stock inventory information, however, is not practical for most countries owing to 
+the lack of appropriate statistics. Furthermore, it does not cover export markets of an estimating country (i.e. 
+relevant where a ‘production’ approach is applied). A study for Germany including a calibration of the default 
+half-lives by means of market information (Rüter 2017) confirmed the three values in relation to the country’s 
+total product portfolio. In contrast, two specific calibration studies (Statistics Finland 2011) indicated that it is 
+likely that the true half-life of sawnwood and wood-based panels in Finland has been shorter in the past than the 
+default half-lives (Table 12.3).   
+Even though the uncertainty associated with Tier 1 estimates using default data could be high, working through 
+such estimates can be the first step in identifying ways to improve them. Initial improvements can be made using 
+country-specific data with country-specific half-lives instead of the default half-lives in Tier 2. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.39 
+To decrease uncertainties, in Tier 3, countries may consider using direct inventories of HWP in use to develop 
+more realistic decay patterns for HWP and use more sub-pools where reliable, transparent information is available. 
+However, the model calibration procedure for direct inventories of HWP requires in practice a model with very 
+few adjustable parameters. 
+12.8 
+QUALITY ASSURANCE/QUALITY CONTROL 
+(QA/QC) 
+It is good practice to include QA/QC procedures during the development of the inventory for HWP. 
+QA procedures include external and internal reviews and audits that assess the quality of the inventory and are 
+normally done in addition to the QC procedures. QA reviewers are normally independent national or international 
+experts that have not been involved in the inventory. The QA is normally organized jointly for the entire inventory 
+(see 2006 IPCC Guidelines, Volume 1, Section 6.8). 
+The QC procedures should follow the general procedures described in 2006 IPCC Guidelines, Volume 1, Section 
+6.6 related to calculations, data processing, completeness and documentation and Section 6.7 related to emission 
+factors and activity data. 
+Specific steps to improve the calculations of HWP for Tier 2 are described in Section 12.4.3 for the use of country-
+specific activity data (Section 12.4.3.1) and half-lives (Section 12.4.3.2). For Tier 3, steps to improve the applied 
+methodology are described in Section 12.4.4. 
+The following general steps could help the inventory compiler to improve estimates of CO2 emissions and 
+removals arising from HWP further, together with checking and revising data for the Tier 1 method and 
+improvements for Tier 2 estimates: 
+1. 
+Check that country data in the FAO database19 agree with best available country sources of data on production 
+and trade or use detailed country-specific data in place of FAO data to calculate the Inflow(l) as described in 
+equation 12.3. 
+2. 
+Check for country sources for densities and carbon fractions, especially for sawnwood and HWP feedstock 
+commodity classes to adjust the values in Tables 12.1 and 12.2 to country specific circumstances. 
+3. 
+If country specific half-life values are developed (see section 12.4.3.2) and used, they can be verified by 
+checking the values against any other country with similar market distribution of HWP. 
+12.9 
+COMPLETENESS 
+If a country is a significant exporter and/or importer of finished wood products, such as furniture or wooden interior 
+works (e.g. windows, doors) (see Figure 12.3), then methods may need to be adapted to adjust the inflow to the 
+HWP pool in use to include or exclude carbon in traded amounts of finished products in the light of the approach 
+chosen by the country (see Section 12.3). This may affect the contribution from both imported and exported HWP. 
+Some wood may be used directly for finished products, not included first in semi-finished product amounts 
+reported in the HWP statistics (see Section 12.4.1.1). In such cases, the Tier 1 and 2 methods could underestimate 
+the inflow of carbon to the HWP pool in use.  
+The methods provided in these guidelines do not include estimates of HWP carbon storage associated with CO2 
+that is captured after biomass combustion and held as part of a solid chemical or as a gas. 
+ 
+                                                           
+19 http://www.fao.org/faostat/en/#data/FO  
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.40 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 12A. 
+Detailed description of Approaches to estimating 
+CO2 emissions and removals arising from HWP 
+12A.1 Introduction 
+This section describes in detail the different approaches for estimating CO2 emissions and removals arising from 
+HWP. Before proceeding to the detailed description, several points already discussed in the main chapter should 
+be recalled, as summarised below. 
+12A.1.1 TYPES OF APPROACH 
+The 2006 IPCC Guidelines considered four approaches for the calculation of emissions and removals of CO2 
+associated with HWP, known as the ‘stock-change’ approach, ‘production’ approach, ‘atmospheric-flow’ 
+approach and ‘simple-decay’ approach. These estimation approaches were defined in the 2006 IPCC Guidelines 
+and are maintained in this updated guidance, with a detailed supporting description provided in this annex. 
+12A.1.2 CONCEPTUAL FRAMEWORKS AND SYSTEM BOUNDARIES OF 
+HWP APPROACHES 
+The discussion in Section 12.3 of the main chapter has explained how each defined HWP approach is based on a 
+conceptual framework: 
+ The ‘stock-change’ and ‘production’ approaches are based on a conceptual framework focussing on carbon 
+stock changes within defined HWP pools and deriving estimates for CO2 emissions and removals from these. 
+ The ‘atmospheric-flow’ and ‘simple-decay’ approaches are based on a conceptual framework that focusses on 
+identifying and tracking CO2 fluxes. 
+The conceptual framework of an approach has some implications for the carbon stock changes (or CO2 emissions 
+and removals) that are included in estimates. Notably, for approaches that involve focussing on carbon stock 
+changes within defined HWP pools (i.e. the ‘stock-change’ and ‘production’ approaches), CO2 emissions from 
+harvested wood biomass used directly as a feedstock for energy purposes are not included as part of estimates of 
+CO2 emissions and removals arising from HWP. This is because these elements of harvested wood do not enter a 
+defined HWP carbon pool. This does not mean that CO2 emissions arising from the use of harvested wood biomass 
+for energy purposes are not estimated at all under the ‘stock-change’ and ‘production’ approaches. Instead, these 
+CO2 emissions are implicitly included as part of emissions and removals for wood-producing land categories, as 
+explained in Section 12.5 in the main chapter. In contrast, for approaches that involve focussing on tracking CO2 
+fluxes (i.e. the ‘atmospheric-flow’ approach and the ‘simple-decay’ approach), CO2 emissions from harvested 
+wood biomass used directly as a feedstock for energy purposes are included explicitly in estimates CO2 emissions 
+and removals arising from HWP. 
+In addition to an underlying conceptual framework, each defined HWP approach involves applying a system 
+boundary for the calculation of estimates of CO2 emissions and removals arising from HWP. The system boundary 
+determines the scope of CO2 emissions and removals covered by estimates for HWP. The conceptual frameworks 
+and system boundaries of the four individual approaches are discussed further in Sections 12.A.2 and 12.A.3. The 
+implementation of HWP approaches is discussed in Section 12.A.4. This subject is discussed in detail below. 
+There are complementary similarities and distinctions between the four HWP approaches: 
+ The ‘stock-change’ and ‘production’ approaches work with carbon stock changes in HWP pools, whereas the 
+‘atmospheric-flow’ and ‘simple-decay’ approaches work with CO2 fluxes; 
+ The ‘stock-change’ and ‘atmospheric-flow’ approaches cover stock changes or CO2 fluxes associated within a 
+consuming country, whereas the ‘production’ and ‘simple-decay’ approaches cover those associated with a 
+producing country. 
+It must be stressed that the choice of approach has implications for the calculation and reporting of emissions and 
+removals across the AFOLU sector. Specifically, the system boundaries of the approaches are also defined so that 
+no double-counting or omissions occur when estimates of CO2 emissions and removals arising from HWP reported 
+by different countries are combined to provide global or regional estimates. However, this is only the case if all 
+countries use the same approach. Double counting and/or non-counting of CO2 emissions and removals associated 
+with forests, other wood producing land categories and HWP can occur if countries apply different HWP 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.41 
+approaches (Cowie et al., 2006). There are also implications for the reporting of CO2 emissions from wood biomass 
+burnt in the Energy sector, as discussed in Section 12.5 of the main chapter. 
+12A.2 Estimating CO2 emissions and removals arising from 
+HWP on the basis of carbon stock changes 
+The existing practice to estimate CO2 emissions and removals is to consider carbon stock changes in defined 
+biomass pools, to sum these changes and multiply the total change by –44/12. (see 2006 IPCC Guidelines Vol. 4, 
+Ch. 2 Section 2.2.3).  
+In order to implement one of the two available pool-based approaches using a flux data method as suggested for 
+Tier 1 (see Section 12.4.2 in the main chapter), the annual carbon flux into the HWP pool (i.e. Inflow, see Equation 
+12.2 in Section 12.4.2) is calculated from the combination of the following statistical elements: 
+1. 
+‘Stock-change’ approach  Inflow = calculated domestic consumption = domestic production + imports 
+– exports  
+2. 
+‘Production’ approach  Inflow = domestic production  
+Section 12.4.2 of the main chapter includes the detailed methodological guidance on how to implement these 
+possible pool-based approaches, whereas their conceptual differences are described in the following. The 
+possibilities of applying Tier 2 and Tier 3 methods are discussed, respectively, in Sections 12.4.3 and 12.4.4 in the 
+main chapter. 
+12A.2.1 THE ‘STOCK-CHANGE’ APPROACH  
+The ‘stock-change’ approach estimates the net change in carbon stocks in the HWP pool within national boundaries 
+(see e.g. Brown et al. 1998, Lim et al. 1999, UNFCCC 2003) and supplements the estimation of emissions and 
+removals with changes in the carbon stocks in the above ground biomass pool of forests within the same system 
+boundaries. Where this approach is used to estimate the annual change in carbon stock in “products in use” in a 
+country, it corresponds to Variable 1A in 2006 IPCC Guidelines. 
+A conceptual illustration of the ‘stock-change’ approach is shown in Figure 12.A.1. A ‘box-and-arrow’ diagram, 
+indicating the essential relationships between the system boundary and CO2 emissions and removals, is shown in 
+Figure 12.A.2. 
+Changes in the pool of products are reported by the country where the products are used, referred to as the 
+consuming country. Where a flux data method is applied to determine the amount of carbon stored in the HWP 
+pool in use within a country, the carbon flux into the pool (i.e. Inflow) is quantified by means of the calculated 
+consumption of HWP. The calculated consumption of HWP reflects the annual additions to the carbon pool in 
+HWP in use within a country and it is calculated from the data on domestic production, plus imports and minus 
+exports of HWP. Exported HWP are outside the system boundary, whilst imported HWP are included in the 
+estimate of the HWP carbon pool in a specific year (see Figures 12.A.1 and 12.A.2). Further details on the 
+implementation of this approach through a flux data method using statistical data of semi-finished wood product 
+commodities is described in Section 12.4.2.1 in the main chapter. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.42 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 12A.1 
+Conceptual illustration of the ‘stock-change’ approach, estimating CO2 
+emissions and removals associated with the carbon stock in the HWP 
+pool in use on the basis of calculated consumption data of HWP 
+ 
+Source:  Rüter 2017 
+NOTE: The vertical -/+ arrows above the diagram indicate where additions or deductions are made to carbon 
+pools. Some of these involve actual transfers of carbon to and from the atmosphere, for example, “forest 
+increment” resulting in carbon sequestration in forests, and losses of carbon to the atmosphere as a result the 
+decay of “slash”. Some arrows represent additions or deductions as a result of the transfer of carbon between 
+land-based and HWP pools, not involving transfers to the atmosphere, for example deductions to forest carbon 
+stocks resulting from “harvest” and additions to HWP carbon as a result of “HWP consumption”. The arrows 
+thus show where additions, deductions or transfers of carbon are involved in the approach. 
+Figure 12A.2 
+‘Box-and-arrow’ diagram showing the system boundary of the ‘stock-
+change’ approach 
+ 
+NOTES: The dashed lines indicate fluxes that are inferred from changes in carbon stocks in pools in AFOLU 
+and HWP in use, as shown. For the estimation of CO2 emissions and removals arising from HWP, only those 
+fluxes crossing the HWP system boundary are covered under the ‘stock-change’ approach. 
+Other data reflecting the utilization of HWP in use within a country could be derived from information on e.g. the 
+use of wood within a specific commodity class, for instance the national building stock (see Section 12.4.3.1). In 
+Frontiers of reporting country
+Forest increment
+Slash &
+Harvest
+HWP consumption
+ATMOSPHERE
+HWP C-pool in use
+Forest C-pool
+End of life of 
+material use of HWP
+EXP
+IMP
+PROD
+PROD
+Applied system boundary
+Applied statistical element of default activity data (PROD = production, EXP = export, IMP = import)
+Description of associated carbon fluxes and transfers
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.43 
+the case of the use of such inventory information, the amount of carbon stored in HWP within a country would 
+need to be quantified at least at two points in time, in a similar way to repeated forest inventories referring to the 
+stock-difference method (see IPCC 2006, p. 2.10).  
+12A.2.2 THE ‘PRODUCTION’ APPROACH20 
+Similar to the ‘stock-change’ approach, the ‘production’ approach determines emissions and removals from wood 
+coming from domestic harvest in a country. Where the annual change in carbon stock in ‘products in use’ is 
+estimated, this corresponds to Variable 2A in 2006 IPCC Guidelines. 
+A conceptual illustration of the ‘production’ approach is shown in Figure 12.A.3a ‘box-and-arrow’ diagram, 
+indicating the essential relationships between the system boundary and CO2 emissions and removals, is shown in 
+Figure 12.A.4. 
+In contrast to the ‘stock-change’ approach described above, which estimates the carbon flux into the carbon pool 
+of HWP in use based on the calculated domestic consumption of HWP, the ‘production’ approach considers the 
+domestic production of wood commodities manufactured from domestic harvest. Thus, the carbon in exported 
+wood products is implicitly included in the HWP estimates of a country and their associated stock changes occur 
+in other countries (where exports are held). The system boundary therefore does not correspond to the national 
+boundaries in which the CO2 emissions and removals arising from HWP take place (Figures 12.A.3 and 12.A.4). 
+Figure 12A.3 
+Conceptual illustration of the ‘production’ approach, estimating 
+emissions and removals of CO2 associated with the carbon stock in the 
+HWP pool in use on the basis of data on HWP production originating 
+from domestic harvest 
+ 
+Source: Rüter 2017 
+NOTE: The vertical -/+ arrows above the diagram indicate where additions or deductions are made to carbon 
+pools. Some of these involve actual transfers of carbon to and from the atmosphere, for example, “forest 
+increment” resulting in carbon sequestration in forests, and losses of carbon to the atmosphere as a result the 
+decay of “slash”. Some arrows represent additions or deductions as a result of the transfer of carbon between 
+land-based and HWP pools, not involving transfers to the atmosphere, for example deductions to forest carbon 
+stocks resulting from “harvest” and additions to HWP carbon as a result of “HWP production”. The arrows thus 
+show where additions, deductions or transfers of carbon are involved in the approach. 
+                                                           
+20 It should be noted that the original proposal for the ‘simple-decay’ concept included a combination of an HWP “approach” 
+as defined in this guidance and essentially a partially-defined Tier 3 estimation method. In this guidance, the discussion is 
+concerned strictly with the ‘simple-decay’ concept in terms of a possible HWP approach 
+Frontiers of reporting country
+Forest increment
+Slash &
+Harvest
+HWP production
+PROD
+HWP C-pool in use
+(domestic)
+Forest C-pool
+End of life of material use of HWP
+HWP C-pool in use
+(in export markets)
+PROD
+EXP
+ATMOSPHERE
+Applied system boundary
+Applied statistical element of default activity data (PROD = production, EXP = export)
+Description of associated carbon fluxes and transfers
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.44 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Figure 12A.4 
+‘Box-and-arrow’ diagram showing the system boundary of the 
+‘production’ approach 
+ 
+NOTES: The dashed lines indicate fluxes that are inferred from changes in carbon stocks in pools in AFOLU 
+and HWP in use, as shown. For the estimation of CO2 emissions and removals arising from HWP, only those 
+fluxes crossing the HWP system boundary are covered under the ‘production’ approach. 
+Methodological guidance on how the ‘production’ approach is implemented through a flux data method using 
+statistical data of semi-finished wood product commodities is described in Section 12.4.2.1 in the main chapter. 
+12A.3 Estimating CO2 fluxes from wood biomass 
+The ‘atmospheric-flow’ and ‘simple-decay’ approaches deal with actual fluxes of carbon associated with HWP to 
+the atmosphere. In the case of the ‘atmospheric-flow’ approach, fluxes occurring from within national boundaries 
+are considered. In the case of the ‘simple-decay’ approach, in theory, fluxes arising from wood harvested by a 
+producing country are considered. 
+In addition to relevant estimates of the carbon stock changes within the HWP pool in use (i.e. those treated as 
+residing in lasting HWP pools), all relevant additional cross-border carbon fluxes in woody biomass used for 
+energy purposes need to be allowed for (see Section 12.A.1.2 above, also Cowie et al. 2006). 
+12A.3.1 THE ‘ATMOSPHERIC-FLOW’ APPROACH  
+The ‘atmospheric-flow’ approach deals with actual fluxes of carbon associated with HWP to the atmosphere, from 
+within national boundaries, so that CO2 emissions from HWP and woody biomass used for energy purposes are 
+reported by a consuming country. 
+A conceptual illustration of the ‘atmospheric-flow’ approach is shown in Figure 12.A.5.a ‘box-and-arrow’ diagram, 
+indicating the essential relationships between the system boundary and CO2 emissions and removals, is shown in 
+Figure 12.A.6. The HWP pools are the same as in the ‘stock-change’ approach. Further information on the 
+implementation of the ‘atmospheric-flow’ approach on the basis of available statistical data is included in Section 
+12.4.2.1. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.45 
+Figure 12A.5 
+Conceptual illustration of the ‘atmospheric-flow’ approach, estimating 
+CO2 fluxes associated with HWP on the basis of data on the carbon 
+stock in the HWP pool in use and traded woody biomass 
+ 
+Source: Rüter 2017 
+NOTES: The vertical -/+ arrows above the diagram indicate where additions or deductions are made to carbon 
+pools. Some of these involve actual transfers of carbon to and from the atmosphere, for example, “forest increment” 
+resulting in carbon sequestration in forests, and losses of carbon to the atmosphere as a result the decay of “slash”. 
+Some arrows represent additions or deductions as a result of the transfer of carbon between land-based and HWP 
+pools, not involving transfers to the atmosphere, for example deductions to forest carbon stocks resulting from 
+“harvest” and additions to HWP carbon as a result of “HWP consumption”. The arrows thus show where additions, 
+deductions or transfers of carbon are involved in the approach. 
+Figure 12A.6 
+‘Box-and-arrow’ diagram showing the system boundary of the 
+‘atmospheric-flow’ approach 
+ 
+NOTES: The solid lines crossing the grey boundary line indicate fluxes that are tracked across the HWP system 
+boundary under the ‘atmospheric-flow’ approach. 
+Forest increment
+Slash &
+Harvest
+HWP consumption
+End of life of 
+material use of HWP
+EXP
+IMP
+Trade of
+woody biomass
+Frontiers of reporting country
+HWP C-pool in use
+Forest C-pool
+EXP
+IMP
+PROD
+PROD
+ATMOSPHERE
+Applied system boundary
+Applied statistical element of default activity data (PROD = production, EXP = export, IMP = import)
+Description of associated carbon fluxes and transfers
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.46 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12A.3.2 THE ‘SIMPLE-DECAY’ APPROACH 
+Similarly to the ‘atmospheric-flow’ approach, the ‘simple-decay approach deals with actual fluxes of carbon 
+associated with HWP to the atmosphere. However, the ‘simple-decay’ approach covers CO2 emissions arising 
+from wood harvested by a producing country, so that emissions from HWP and woody biomass used for energy 
+purposes are reported by a producing country. 
+A ‘box-and-arrow’ diagram for the ‘simple-decay’ approach is shown in Figure 12.A.7, indicating the essential 
+relationships between the system boundary and CO2 emissions and removals.  
+Figure 12A.7 
+‘Box-and-arrow’ diagram showing the system boundary of the ‘simple-
+decay’ approach 
+ 
+NOTES: The solid lines crossing the grey boundary line indicate fluxes that are tracked across the HWP system 
+boundary under the ‘simple-decay’ approach. 
+ 
+ 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.47 
+12A.4 Implementation of HWP approaches 
+Section 12.4.2 in the main chapter describes the Tier 1 default methods relevant for implementing the four HWP 
+approaches defined in this annex. Table 12.A.1 provides a summary of the equations described in Section 12.4.2 
+that may be applied when using Tier 1 methods for estimating CO2 emissions and removals arising from HWP. 
+The Tier 1 methods and equations defined in Section 12.4.2 are designed to ensure compatibility with the generic 
+methodologies for land use given in 2006 IPCC Guidelines Vol. 4 Ch. 2 and methodologies for specific land 
+categories (where relevant for wood production) presented in other 2006 IPCC Guidelines Vol. 4 chapters. Note 
+that the Tier 1 default methods relevant for the ‘simple-decay’ approach in Table 12.A.1 are the same as for the 
+‘production’ approach, hence the Tier 1 methods for the ‘production’ approach given in Section 12.4.2 may also 
+be referred to when applying Tier 1 methods for the ‘simple-decay’ approach. 
+General guidance on Tier 2 method is given in Section 12.4.3 of the main chapter, whilst guidance on Tier 3 
+methods is given in Section 12.4.4. 
+TABLE 12A.1 
+EQUATIONS APPLIED IN TIER 1 METHODS WHEN IMPLEMENTING HWP APPROACHES 
+HWP approach 
+Applied equations 
+Stock change 
+Equations 12.1, 12.2, 12.3, 12.4 and 12.6 
+Production 
+Equations 12.1, 12.2, 12.3, 12.4, 12.7, 12.8, 12.9* and 12.10** 
+Atmospheric-flow 
+Equation 12.5 applied in conjunction with Equations 12.1, 12.2, 12.3 and 12.4 
+Simple-decay 
+Equations 12.1, 12.2, 12.3, 12.4, 12.7, 12.8, 12.9* and 12.10** 
+* This equation is applied when the split between domestic and exported HWP is required 
+** This equation is applied when relating HWP to different wood producing land categories. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+12.48 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+Brown, S., Lim, B. and Schlamadinger, B. (1998) Evaluating Approaches for Estimating Net Emissions of 
+Carbon Dioxide from Forest Harvesting and Wood Products. IPCC/OECD/IEA Programme on National 
+Greenhouse Gas Inventories, 20 p. 
+Cowie, A., Pingoud, K. and Schlamadinger, B. (2006) Stock changes or fluxes? Resolving terminological 
+confusion in the debate on land-use change and forestry. Clim Pol 6: 161-179. 
+FAO (2010) Forest Products 2005-2010. In: FAO Forest Economics Policy and Products Division (Ed), FAO 
+Yearbook, Forestry Series No. 44, Statistics Series No. 200, 337 p. 
+FAO (2017) FAOSTAT-Forestry Database [online]. Food and Agriculture Organization of the United Nations 
+(FAO) http://www.fao.org/faostat/en/#data/FO (20 June 2018) 
+Fengel, D. and Wegener, G. (1984) Wood - Chemistry, Ultrastructure, Reactions. Berlin: Walter de Gruyter & 
+Co., 613 p. 
+Gjesdal, S.F.T., Flugsrud, K., Mykkelbost, T.C. and Rypdal, K. (1996) A balance of use of wood products in 
+Norway. Norwegian Pollution Control Authority SFT, Report 96:04, 54 p. 
+Gronfors, J. (2010) Use of fillers in paper and paperboard grades. Tampere University of Applied Sciences, 
+International Pulp and Paper Technology, 36 p. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental Panel 
+on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France. 
+IPCC (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Penman J., Gytarsky M., 
+Hiraishi T., Krug, T., Kruger D., Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+IPCC (2006) IPCC Guidelines for Greenhouse Gas Inventories - Vol 4 Agriculture, Forestry and other Land Use. 
+In: Eggleston S., Buendia L., Miwa K., Ngara T., Tanabe K. (Eds).  IEA/OECD, IPCC National Greenhouse 
+Gas Inventories Programme, Technical Support Unit, Hayama, Kanagawa, Japan. 
+IPCC (2014) 2013 Revised Supplementary Methods and Good Practice Guidance Arising from the Kyoto 
+Protocol. In: Hiraishi T., Krug T., Tanabe K., Srivastava N., Baasansuren J., Fukuda M., Troxler T.G. (Eds) 
+IPCC, Switzerland, 268 p. 
+ISO (2008) Buildings and constructed assets - Service life planning - Part 8: Reference service life and service 
+life estimation. ISO 15686-8:2008(E). 
+ISO (2011) Buildings and constructed assets - Service life planning - Part 1: General Principles. ISO 15686-
+1:2011(E). 
+Karjalainen, T., Asikainen, A., Ilavsky, J., Zamboni, R., Hotari, K.-E. and Röser, D. (2004) Estimation of Energy 
+Wood Potential in Europe. Finnish Forest Research Institute, Joensuu Research Centre, Working Papers of 
+the Finnish Forest Research Institute 6, 43 p. 
+Lawrence, M., McRoberts, R.E., Tomppo, E., Gschwantner, T. and Gabler, K. (2010) Comparisons of National 
+Forest Inventories. In: Erkki Tomppo, Thomas Gschwantner, Mark Lawrence, McRoberts R.E. (Eds). 
+National Forest Inventories. Pathways for Common Reporting. Springer, Heidelberg, Dordrecht, London, 
+New York. S 19-32.  
+Lim, B., Brown, S. and Schlamadinger, B. (1999) Carbon accounting for forest harvesting and wood products: 
+review and evaluation of different approaches. Environ Sci Policy 2(2): 207-216. 
+National Institute for Environmental Studies (2018) National Greenhouse Gas Inventory Report of Japan. 6.70-
+76.74. 
+Palma, V., Federici, S. and Rüter, S. Trend in quantity and carbon pool of the three major HWP commodities. In: 
+Food and Agriculture Organization of the United Nations (FAO) (Ed)  Forestry for a low-carbon future - 
+Background papers, Rome, 14-16 p. 
+Paulopuro, H. (2000) Papermaking Science and Technology. Atlanta: TAPPI Press, Book 18: Paper and Board 
+Grades  
+Pingoud, K., Perälä, A.L. and Pussinen, A. (2001) Carbon Dynamics in Wood Products. Mitigation and 
+Adaptation Strategies for Global Change 6(2): 91-111. 
+ 
+Chapter 12: Harvested Wood Products 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+12.49 
+Pingoud, K. and Wagner, F. (2006) Methane Emissions from Landfills and Carbon Dynamics of Harvested 
+Wood Products: The First-Order Decay Revisited. Mitigation and Adaptation Strategies for Global Change 
+11(5): 961-978. 
+Rüter, S. (2017) The Contribution of the Material Wood Use to Climate Protection - the WoodCarbonMonitor 
+Model (de). Technische Universität München, Wissenschaftszentrum Weihenstephan für Ernährung, 
+Landnutzung und Umwelt, Doctoral thesis, 270 p. 
+Rüter, S. and Diederichs, S. (2012) Ökobilanz-Basisdaten für Bauprodukte aus Holz. Thünen-Institute of Wood 
+Research, Report No: 2012/01, 316 p. 
+Statistics Finland (2011) Greenhouse gas emissions in Finland 1990-2008: National Inventory Report under the 
+UNFCCC and the Kyoto Protocol. In: Pipatti R. (Ed), 470 p. 
+Steffen, F., Requejo, A., Ewald, C., Janzon, R. and Saake, B. (2016) Anaerobic digestion of fines from recovered 
+paper processing – Influence of fiber source, lignin and ash content on biogas potential. Bioresource 
+Technology 200: 506-513. 
+UNFCCC (2003) Estimation, Reporting and Accounting of Harvested Wood Products. Technical Paper, 
+FCCC/TP/2003/7.  
+Wilson, J. B. & Sakimoto, E. T. (2005) Gate-to-gate life-cycle inventory of softwood plywood production. Wood 
+and Fiber Science, 37(Corrim Special Issue): 58-73. http://www.corrim.org/pubs/reports/2005/swst/58.pdf 

@@ -1,0 +1,135 @@
+ 
+Chapter 1: Introduction 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.1 
+CHAPTER 1 
+INTRODUCTION 
+ 
+ 
+ 
+ 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Amit Garg (India) and Melissa M. Weitz (USA) 
+ 
+ 
+ 
+Chapter 1: Introduction 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+Contents 
+1 
+Introduction .................................................................................................................................................. 1.4 
+1.1 
+Introduction ......................................................................................................................................... 1.4 
+1.2 
+Source categories ................................................................................................................................. 1.4 
+1.3 
+Methodological approaches ................................................................................................................. 1.6 
+1.4 
+Data collection issues .......................................................................................................................... 1.6 
+1.5 
+Uncertainty in inventory estimates ...................................................................................................... 1.6 
+1.6 
+QA/QC and completeness ................................................................................................................... 1.6 
+ 
+ 
+ Figures 
+Figure 1.1 (Updated) 
+Activity and source structure in the Energy Sector....................................................... 1.5 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1 INTRODUCTION 
+Users are expected to go to Mapping Tables in Annex 2, before reading this chapter. This is required to correctly 
+understand both the refinements made and how the elements in this chapter relate to the corresponding chapter 
+in the 2006 IPCC Guidelines. 
+1.1 
+INTRODUCTION 
+No refinement. 
+1.2 
+SOURCE CATEGORIES 
+The energy sector mainly comprises: 
+• 
+exploration and exploitation of primary energy sources;  
+• 
+conversion of primary energy sources into more useable energy forms in refineries and power plants; 
+• 
+transmission and distribution of fuels;  
+• 
+use of fuels in stationary and mobile applications. 
+Emissions arise from these activities by combustion and as fugitive emissions, or escape without combustion.  
+For inventory purposes, fuel combustion may be defined as the intentional oxidation of materials within an 
+apparatus that is designed to provide heat or mechanical work to a process, or for use away from the apparatus. 
+This definition aims to separate the combustion of fuels for distinct and productive energy use from the heat 
+released from the use of hydrocarbons in chemical reactions in industrial processes, or from the use of 
+hydrocarbons as industrial products. It is good practice to apply this definition as fully as possible but there are 
+cases where demarcation with the industrial processes and product use (IPPU) sector is needed. The following 
+principle has been adopted for this: 
+Combustion emissions from fuels obtained directly or indirectly from the feedstock for an IPPU process will 
+normally be allocated to the part of the source category in which the process occurs. These source categories are 
+normally 2B and 2C. However, if the derived fuels are transferred for combustion in another source category, the 
+emissions should be reported in the appropriate part of Energy Sector source categories (normally 1A1 or 1A2). 
+Please refer to Box 1.1 and section 1.3.2 in chapter 1 of the IPPU Volume for examples and further details. 
+When the total emissions from the gases are calculated, the quantity transferred to the energy sector should be 
+noted as an information item under IPPU source category and reported in the relevant energy sector source category 
+to avoid double counting. 
+Typically, only a few percent of the emissions in the energy sector arise as fugitive emissions from extraction, 
+transformation and transportation of primary energy carriers. Examples are leakage of natural gas and the 
+emissions of methane during coal mining and flaring during oil/gas extraction and refining1. In some cases where 
+countries produce or transport significant quantities of fossil fuels, fugitive emissions can make a much larger 
+contribution to the national total. Combustion and fugitive emissions from production, processing and handling of 
+oil and gas should be allocated according to the national territory of the facilities including offshore areas (see 
+Chapter 8 - section 8.2.1 in Vol. 1). These offshore areas may be an economic zone agreed upon with other 
+countries. 
+Figure 1.1 shows the structure of activities and source categories within the energy sector. This structure is based 
+on the coding and naming as defined in the 1996 IPCC Guidelines and the Common Reporting Format (CRF) used 
+by the UNFCCC. The technical chapters of this Volume follow this source category structure. 
+                                                           
+1  Note that the combustion emissions due to transport of energy carriers by ship, rail and road are included in the mobile 
+combustion processes. 
+ 
+Chapter 1: Introduction 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.5 
+Figure 1.1 (Updated) Activity and source structure in the Energy Sector 
+ 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+1.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.3 
+METHODOLOGICAL APPROACHES 
+No refinement. 
+1.4 
+DATA COLLECTION ISSUES 
+No refinement. 
+1.5 
+UNCERTAINTY IN INVENTORY ESTIMATES 
+No refinement. 
+1.6 
+QA/QC AND COMPLETENESS 
+No refinement. 
+ 

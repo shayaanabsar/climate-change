@@ -1,0 +1,342 @@
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.61
+Emission of sulphur hexafluoride from fire extinguishing equipment
+Some of the new substitutes for halon in fire extinguishing equipment contain sulphur
+hexafluoride, SF6, probably in blends with HFC.  If the products contain SF6, it is emitted
+to the atmosphere in the same manner as HFC or PFC.  The equations for the estimation
+of HFC and PFC emissions from fire extinguishing equipment are therefore also valid for
+SF6, since they have to be adjusted for the proportion of the SF6 in the original blend.
+Emissions of SF6 are to be calculated according to the proportion of this chemical in the
+blend.
+2 . 1 7 . 4 . 5  E s t i m a t i o n  o f  E m i s s i o n s  o f  H F C s  a n d
+P F C s  f r o m  A e r o s o l  P r o d u c t s
+HFCs may be used as replacements for CFCs and HCFCs in aerosol propellants in
+industrial and technical applications, and household, medical and personal care products.
+The HFCs that may be used include HFC-125, HFC-134a, 152a, and HFC-227ea (Kroeze,
+1995; U.S. EPA, 1992b).
+Gases from aerosols are usually released shortly after production, on average six months
+after sale in the United States and Europe.  During use of aerosols, 100 per cent of the
+chemical is emitted (Gamlen et al., 1986; U.S. EPA, 1992a).  For this methodology, aerosol
+emissions are estimated to be one half of the current year sales of the aerosol plus one
+half of the previous year sales (Gamlen et al., 1986).  In other words, aerosol emissions in
+year t can be calculated as follows:
+Emissions of HFCs in year t
+=
+50% of the quantity of HFCs contained in aerosols sold in year t
++
+50% of the quantity of HFC contained in aerosols sold in year t-1
+This calculation accounts for the six month lag from purchase to use.  Total aerosol use
+each year can be calculated as the number of aerosol cans sold in a given year times the
+charge of HFC or PFC in each can.  Finally, Kroeze (1995) points out that technologies
+do not exist to reduce emissions from aerosol cans.
+2 . 1 7 . 4 . 6  E s t i m a t i o n  o f  E m i s s i o n s  o f  H F C s  a n d
+P F C s  f r o m  S o l v e n t s
+HFCs and PFCs may be used as replacements for CFC-113 in metal cleaning, electronics,
+and precision cleaning applications and as replacements for aerosol cleaning.  The
+compounds that may be used include HFC-43-10, PFC-614, PFC-512, PFC-612, PFC-716,
+and PFC-819 (Kroeze, 1995; U.S. EPA, 1992b).
+Chemicals used as cleaning agents are emitted during, or shortly after, use and are
+typically 100 per cent of total use (Fisher and Midgley, 1993; U.S. EPA, 1992a).  This
+methodology assumes that solvents, on average, are used six months after they are sold.
+Total HFC or PFC emissions in year t can therefore be calculated as follows:
+INDUSTRIAL PROCESSES
+2.62
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Emissions of HFCs or PFCs in year t
+=
+50% of the quantity of HFCs or PFC
+sold for use in solvent applications in year t
++
+50% of the quantity of HFCs sold for use in solvent applications in year t-1
+It has been estimated that solvent emissions can be reduced by up to 80 per cent through
+the use of improved housekeeping and recycling practices.
+2 . 1 7 . 4 . 7  E s t i m a t i o n  o f  E m i s s i o n s  o f  H F C s  a n d
+P F C s  f r o m  O t h e r  A p p l i c a t i o n s
+Other Applications
+Other applications in which HFCs and PFCs may replace CFCs and HCFCs include
+sterilisation equipment, tobacco expansion applications, and use as solvents in the
+manufacture of adhesives, coatings, and inks.  The specific compounds include HFC-125,
+HFC-134a, and HFC-227ea (Kroeze, 1995; U.S. EPA, 1992b).
+For other applications, it is assumed that all HFCs and PFC are released within 6 months
+after production.  Emissions in the year t can be calculated as follows:
+Emissions of HFCs or PFCs in year t
+=
+50% of the quantity of HFCs/PFCs sold for other applications in year t
++
+ 50% of the quantity of HFCs/PFCs sold in year t-1
+2 . 1 7 . 4 . 8  S u l p h u r  H e x a f l u o r i d e  ( S F 6)  E m i s s i o n s
+Primary uses of SF6
+Primary uses of SF6 include the following:
+Gas-Insulated Switchgear and Circuit Breakers
+SF6 is used as an insulation medium in high tension electrical equipment including gas
+insulated switchgear (GIS) and circuit breakers.
+Fire suppression and explosion protection
+Some of the new gases placed on the market as substitutes for halons in fire extinguishing
+equipment, may contain up to 20 per cent sulphur hexafluoride, SF6.  These applications
+are described in Section 2.17.4.4.
+Globally, it is estimated that about 80 per cent of SF6 is used in gas-insulated switchgear
+and circuit breakers, 5 to 10 per cent in the magnesium and aluminium industries, and 5
+to 10 per cent in a number of smaller applications (Ko et al., 1993).
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.63
+Other applications
+SF6 is used in a variety of additional applications including as an insulating medium in
+sound proof windows, in leak detectors, gas-air tracers, and various electronic
+applications.  The use of SF6 in production of aluminium and magnesium is covered under
+Section 2.13.8.
+Recommended methodology for estimating SF6 emissions
+Total emissions of SF6 used in GIS application and circuit breakers can be assumed to be
+approximately 1 per cent of the total quantity of SF6 contained in such equipment each
+year (NILU, 1993).  In addition, if it is assumed that GIS equipment has a lifetime of 30
+years, then approximately 70 per cent of the SF6 will remain in the equipment upon
+retirement and will then be released upon disposal of the equipment (NILU, 1993).  Total
+emissions from GIS applications can therefore be estimated as:
+Emissions of SF6 in year t
+=
+1% of the total charge of SF6 contained in the existing stock of equipment in
+year t
++
+ 70% of the quantity of equipment manufactured in year t-30.
+The total charge of SF6 contained in equipment can be estimated as the product of the
+total quantity of equipment in operation and the typical charge size of equipment.  Charge
+sizes for GIS equipment rated to 50 kV or more can range from hundreds to thousands
+of kilos per installation, and for low-voltage switches contain 1-2 kg per installation
+(Kroeze, 1995).
+If data on the total stock of GIS are unavailable, then it should be assumed that emissions
+equal consumption.
+INDUSTRIAL PROCESSES
+2.64
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.18 References
+Abrahamson, D. (1992), “Aluminium and global warming.”  Nature pp. 356, 484.
+AFEAS (1995), Production, Sales and Atmospheric Release of Fluorocarbons through 1993.
+AFEAS Program Office, Washington, DC 20005, USA.
+Air and Waste Management Association (AWMA) (1993), The Air Pollution Engineering
+Manual, Chapter 14: Metallurgical Industry.  Ferroalloy Particulate Emissions.  A. J.
+Buonicore and W. Davis (eds).  Van Nostrand Reinhold, New York.
+Barnard, W.R. (1990), Emission Factors for Iron and Steel Sources-Criteria and Toxic Pollutants.
+EPA-600/2-90-024 (PB 90-242314), USA.
+CASPER (1995) Holtmann, T O. Rentz, Z. Samaras, Y. Tymbanidis, T. Zachariadis, M.
+Aslanoglou, K. Kulicke and K-H. Zierock, Development of a methodology for
+forecasting atmospheric emissions from relevant stationary and mobile sources,
+Karlsruhe, Thessaloniki, Berlin, Project report, November, 1995.
+CEMBUREAU (1990), World Cement Market in Figures and World Statistics Review.
+CICERO (1992), An Assessment of the Role of CF4 and C2F6 as Greenhouse Gases.  I.S.A.
+Isaksen (ed.) Oslo, Norway.
+CFI (1992), Letter from the Canadian Fertiliser Institute to Environment Canada
+(personal communication).
+Choe J.S., P.J. Gook and F.P. Petrocelli (1993), Developing N2O abatement technology for the
+nitric acid industry.  Paper presented at the 1993 ANPSG Conference, Destin,
+Florida, USA, 6 October, 1993.
+Cook, E. (1995), Lifetime Commitments: Why Climate Policy-makers Can’t Afford to Overlook
+Fully Fluorinated Compounds.  World Resources Institute.
+Cotton, F.A. and G. Wilkinson (1988), Advanced Inorganic Chemistry, 5th Edition, ISBN 0-
+471-84997-9.  Wiley, New York, USA.
+Du Pont (1994), Information presented at the Tenth Meeting of the International
+Negotiating Committee, Geneva, 27 August, 1994.  E.I. du Pont de Nemours and
+Co., Inc., Delaware, USA.
+EMEP/CORINAIR (1996), Joint Atmospheric Emission Inventory Guidebook (1st edition).
+Enquete Commission (1994), Responsibility for the Future, Options for Sustainable
+Management of Substance Chains and Material Flows.  Interim report submitted by
+the 12th German Bundestag’s Enquete Commission on the “Protection of
+Humanity and the Environment-Assessment Criteria and Prospects for
+Environmentally Sound Product Cycles in Industrial Society”, Economica Verlag,
+ISBN 3-87081-044-4, Bonn, Germany.
+Environment Canada (1983), A Nationwide Survey of Emission of Air Contaminants.
+Environment Canada Report.  EPS 3-EP-83-10, Ottawa, Canada.
+Environment Canada (1987), Review of the Canadian Fertiliser Industry and Evaluation of
+Control Technology.  Conservation and Protection Report EPS 2/AG/1.
+Environment Canada (1996), CO2 Emission Factors for the Iron and Steel Industry.  Internal
+memo, F. Neitzert, March 1996.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.65
+Fay, K.J. (1995), Critique of Articles by C. Kroeze Concerning Potential Effect of HFC Policy on
+Global Greenhouse Gas Emissions.  Alliance for Responsible Atmospheric Policy
+and International Climate Change Partnership, Arlington VA, USA.
+Fischer S.K., P.J. Hughes, P.D. Fairchild, C.L. Kusik, J.T. Dieckmann, E.M. McMahon and N.
+Hobday, (1991). Energy and Global Warming Impacts of CFC Alternative
+Technologies.  AFEAS and U.S. Dept. of Energy, Alternative Fluorocarbons
+Environmental Acceptability Study, Washington DC, USA.
+Fisher, D.A. and P.M. Midgley (1993), “The production and Release to the Atmosphere of
+CFCs 113, 114 and 115.”  Atmospheric Environment 27A (2):271-276.
+Fisher, W.B. and L. Crescenti (1994), “Caprolactam.” In: Kirk-Othmer Encyclopedia of
+Chemical Technology, 4th Edition, Vol. 4, Wiley Interscience, New York.
+Fujimoto, R. (1991), (personal communication) 27 February, 1989 from Mr. Fujimoto of
+Hitachi Ltd. to Ms. Jean Lupinacci of the U.S. Environmental Protection Agency.
+[Referenced in: Energy and Global Warming Impacts of CFC Alternative
+Technologies.  Alternative Fluorocarbons Environmental Acceptability Study
+(AFEAS)], U.S. Department of Energy.
+Gamlen, P.H., B.C. Lane, P.M. Midgley and J.M. Steed (1986), “The Production and Release
+to Atmosphere of CCl3F and CCl2F2 (chlorofluorocarbons CFC-11 and CFC-
+12).”  Atmospheric Environment 20(6):1077-1085.
+Griffin, R.C. (1987), “CO2 release from cement production, 1950-1985.”  In: Marland, G.,
+T.A. Boden, R.C. Griffin, S.F. Huang, P. Kanciruk, and T.R. Nelson, Estimates of
+CO2 Emissions from Fossil Fuel Burning and Cement Manufacturing, Based on the
+United Nations Energy Statistics and the U.S. Bureau of Mines Cement Manufacturing
+Data.  Report No. #ORNL/CDIAC-25, Carbon Dioxide Information Analysis
+Centre, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA.  May 1989,
+pp. 643-680.
+Harnisch, J. and R. Borchers (1995), Proceedings of the Conference on Pollution of the
+Troposphere and Stratosphere Exchange of Air Masses and Related Monitoring,
+Munich, Germany, 19-22 June, 1995, European Optical Society, Vol. 2506.
+Industrial Chemicals (1980), W.l. Faith, D.B. Keyes and R.L. Clark (eds.), 3rd Edition, John
+Wiley and Sons, New York, New York, USA.
+IPCC (1992), Climate Change 1992, the Supplementary Report to the IPCC Scientific
+Assessment, U.K.  J.T. Houghton, B. A. Callander and S. K. Varney (eds),
+Cambridge University Press, Cambridge,
+IPCC/OECD/IEA (1995), IPCC Guidelines for National Greenhouse Gas Inventories,
+IPCC/OECD/IEA Inventory Programme, Paris, France.
+IPCC (1996), Climate Change 1995. The Science of Climate Change.  J.T. Houghton, L.G.
+Meira Filho, B.A. Callander, N. Harris, A. Kattenberg and K. Maskell (eds),
+Cambridge University Press, Cambridge, U.K.
+Japan Environment Agency (1995), Study of Emission Factors for N2O from Stationary
+Sources.
+Jaques, A.P. (1992), Canada's Greenhouse Gas Emissions: Estimates for 1990.  Environment
+Canada Report EPS 5/AP/4.
+Khalil, M.A.K. and R. Rasmussen (1985), “Atmospheric Carbon Tetrafluoride (CF4):
+Sources and Trends.”  Geophysical Res. Lett. 12:671-672.
+INDUSTRIAL PROCESSES
+2.66
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Ko, M.K., N.D. Sze, W.C. Wang, G. Shia, A. Goldman, F.J. Murcray, D.G. Murcray and
+C.P. Rinsland (1993), “Atmospheric sulphur hexafluoride: sources, sinks and
+greenhouse warming.”  J. Geophysical Research 98 (D6):10499-10507.
+Kroeze, C. (1994), Nitrous oxide-emission inventory and options for control in the Netherlands.
+RIVM Report No. 773001004, RIVM, Bilthoven, The Netherlands.
+Kroeze, C. (1995), Fluorocarbons and SF6: Global emission inventory and control.  RIVM
+Report No. 773001007, Bilthoven, The Netherlands.
+Laval University (1994), Polyfluorocarbons and the Environment (Their Effect on the
+Atmospheric Equilibrium): study for Environment Canada.
+March Consulting Group (1996), UK Use and Emissions of Selected Halocarbons.  A study
+for the UK Department of Environment.
+Marland, G., T.A. Boden, R.C. Griffin, S.F. Huang, P. Kanciruk and T.R. Nelson (1989),
+Estimates of CO2 Emissions from Fossil Fuel Burning and Cement Manufacturing,
+Based on the United Nations Energy Statistics and the U.S. Bureau of Mines Cement
+Manufacturing Data.  Report No. #ORNL/CDIAC-25, Carbon Dioxide
+Information Analysis Centre, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, USA.
+McCulloch, A. (1992), “Global production and emissions of bromochlorofluorodifluoro-
+methane and bromotrifluoromethane (Halons 1211 and 1301).”  Atmospheric
+Environment 26:1325-1329.
+McCulloch, A. (1994), “Sources of hydrochlorofluorocarbons, hydrofluorocarbons and
+fluorocarbons and their potential emissions during the next twenty five years.”
+Environ. Monitoring and Assessment 31:167-174.
+McFarland, M. and J. Kaye (1992), “Hydrochlorofluorocarbons and ozone.”  Photochem.
+Photobiol. 55:911-925.
+NILU (1993), SF6 as a Greenhouse Gas-An Assessment of Norwegian and Global Sources and
+the Global Warming Potential.  Norwegian Institute for Air Research.  Lillestrom,
+Norway.  December, 1993.
+Nagayama, (1996) Tohru Nagayama, Global Environment Department, Environment
+Agency, Japan.  Comment to IPCC Draft Guideline, 1996.
+Norsk Hydro (1996), personal communication with Norsk Hydro a.s, Norway.
+Norwegian Pollution Control Authority.  SFT (1994), Greenhouse Gas Emissions in Norway.
+Inventories and Estimations methods.  September, 1994.  Report 94:02.  Oslo.
+Olivier, J. (1996), personal communication (Restored from Norwegian version).
+Olsen, S.E. (1991), Kalsiumkarbid og CO2, STF34 A91142.  SINTEF.
+Ontario Research Foundation and SNC/GECO Canada Inc. (1981), A Nationwide Inventory
+of Anthropogenic Sources and Emissions of Primary Fine Particulate Matter.  Prepared
+for Environment Canada, 1981.
+Oonk, H. (1996), personal communication.
+ORTECH International (1991), Compilation of an Ontario Gridded Carbon Dioxide and
+Nitrous Oxide Emission Inventory.  Ortech Report No. P-91-50-6436/OG
+ORTECH International (1994), Inventory Methods for Estimating Canadian Emissions of
+Greenhouse Gases, Report to Environment Canada, May, 1994.
+2
+INDUSTRIAL PROCESSES
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+2.67
+Parsons, T. (1977), Industrial Process profiles for Environmental Use: Chapter 24, The Iron and
+Steel Industry.  Report by Radian Corp. to U.S.EPA, NTIS PB-266 226.
+Radian Corp. (1986), Evaluation of Potential Ozone Depleting Substances, Emissions and
+Control: Draft report retail food for store refrigeration, U.S. EPA, October 1986
+Raaness, O. (1991), Silisiumkarbid og CO2, STF34 A91134.  SINTEF 1991.
+Rankin W. J. and J. K. Wright, (1992), Greenhouse Strategies for the Metallurgical Industry.
+Minerals, Metals and the Environment Conference, Manchester, UK.
+Reimer, R.A., R.A. Parrett and C.S. Slaten (1992), Abatement of N2O emission produced in
+adipic acid.  Proc. of the 5th Int. Workshop on Nitrous Oxide emissions, Tsukuba
+Japan, 1-3 July, 1992.
+Rosland, A. (1987), Utslippskoeffisienter.  Oversikt over koeffisienter for utslipp til luft og
+metoder for å beregne disse.  Norwegian Pollution Control Authority, Oslo.
+Rypdal, K. (1993), Anthropogenic Emissions of the Greenhouse Gases CO2, CH4 and N2O in
+Norway.  A documentation of methods of estimation, activity data and emission
+factors.  Statistics Norway.  Report 93/24.
+Rypdal, K. (1995), Anthropogenic Emissions of SO2, NOx, NMVOC and NH3 in Norway.
+Rapporter Statistic Norway, 95/16, Oslo.
+Schade, H. (1980), Die Schadstoffemissionen der Eisen-und Stahlindustrie in den
+Belastungsgebieten Buhrgebiet-West und Ruhrgebiet-Ost. Schriftenr. d. Landesanstalt
+für Immissionsschutz des Landes N.W. 52: 55-62, Germany.
+Schiff, H., Unisearch Associates (1994), Presentation at PFC WORKSHOP, London,
+March, 1994.  Also, Measurements of CF4 and C2F6 in the Emissions from Canadian
+Aluminium Smelters by Tuneable Diode Absorption Laser Spectroscopy, April, 1994
+Shareef, G.S., W.A. Butler, L.A. Bravo and M.B. Stockton (1988), Air emissions species
+manual Vol. 1.  Volatile Organic Compounds (VOC) Species Profiles.  EPA-450/2-
+88-003a (PB 88-215792); Addendum (1989), EPA-450/2-88-003 c (PB 90-
+146416), USA.
+Sintef (1991a), Ferrolegering og CO2 STF34 A91056.  8 May 1991. Sintef Norway
+Sintef (1991b), Reduserte CO2-utslipp i aluminiumelektrolysen ved bruk av inert anoder.
+STF34 A91175, 19 September 1991.  Sintef, Norway
+Stockton M.B., and J.H.E. Stelling (1987), Criteria pollutant emission factors for the 1985
+NAPAP emissions inventory.  U.S. EPA Washington DC, USA.  Ouverage, EPA-
+600/7-87-015 XV-211.
+Streibel, H. (1974), “Silicon”, in Chemical and Process Technology Encyclopedia, D. Considine
+(ed.).  McGraw Hill, Montreal.
+Tabereaux, A. T. (1995), 5
+th Australian Aluminium Smelter Technology Workshop, Sydney,
+October 1995.
+Thiemens, M.H. and W.C. Trogler (1991), “Nylon production; an unknown source of
+atmospheric nitrous oxide.”  Science: 251:932-934.
+Thonstad, Oygard and Diep (1994), On the Formation and Decomposition of C-F Gases in
+Aluminium Cells.  PFC Workshop, London, UK.  March, 1994.
+INDUSTRIAL PROCESSES
+2.68
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+Tresouthick, S.W. and A. Mishulovich (1990), Energy and environment considerations for the
+cement industry.  In conference proceedings Energy and Environment in the 21st
+Century.  Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.
+26-28 March, 1990. B-110 to B-123.
+UNEP (United Nations Environment Programme) (1989), Montreal Protocol on
+Substances That Deplete the Ozone Layer.  Refrigeration, Air Conditioning and
+Heat Pumps Technical Options Report 1989.
+UNEP (1994), Report of the Technology and Economic Assessment Panel to the Parties to the
+Montreal Protocol on Substances that Deplete the Ozone Layer, p. 9-1, UNEP,
+Nairobi, March 1994.
+United Nations (1988), United Nations Statistical Yearbook.  United Nations, New York,
+USA.
+Unisearch Associates (1994), Measurements of CF4 and C2F6 in the Emissions from Canadian
+Aluminium Smelters by Tuneable Diode Absorption Laser Spectroscopy.  Unisearch
+Associates.  Ontario, Canada.  5 April,1994.
+U.S. Bureau of the Mines (1988), Cement Minerals Yearbook, authored by Wilton Johnson.
+U.S. Bureau of the Mines, U.S. Department of the Interior, Washington DC,
+USA.
+U.S. Environmental Protection Agency (1985), Criteria Pollutant Emissions Factors. Volume 1,
+Stationary Point and Area Sources.  AP-42 4th Edition (and Supplements A and B).
+U.S. Environmental Protection Agency, Research Triangle Park, North Carolina,
+USA.
+U.S. Environmental Protection Agency (1986), Compilation of Air Pollutant Emission Factors.
+AP-42, Supplement A,  U.S. Environmental Protection Agency, Research Triangle
+Park, North Carolina, USA.
+U.S. Environmental Protection Agency (1992a), Regulatory Impact Analysis: Compliance with
+Section 604 of the Clean Air Act for the Phaseout of Ozone Depleting Chemicals,
+1992.
+U.S. Environmental Protection Agency (1992b), Risk Screen on the Use of Substitutes for
+Class I Ozone Depleting Substances Prepared in Support of the Significant New
+Alternatives Policy Program (SNAP), 1992.
+U.S. Environmental Protection Agency (1993), Regulatory Impact Analysis Prepared in
+Support of the National Recycling and Emissions Reduction Program, prepared for the
+U.S. EPA by ICF.
+U.S. Environmental Protection Agency (1994a), Preliminary Method for Estimating Country
+Emissions of CF4 and C2F6.  Cindy Jacobs, July, 1994.
+U.S. Environmental Protection Agency (1994b), Inventory of U.S. Greenhouse Gas Emissions
+and Sinks: 1990-1993, p. 38, U.S. EPA, Washington DC, USA.  EPA 230-R-94-
+014.
+U.S. Environmental Protection Agency (1995), Comment from U.S. EPA to second draft of
+Chapter 8, December, 1995.
+Workbook, Australia (1995), Workbook for Industrial Emissions and Solvent Use, National
+Greenhouse Gas Inventory Committee, Department of the Environment, Sport
+and Territories, Australia, Workbook 7.0.

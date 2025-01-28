@@ -1,0 +1,59 @@
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l   I N T R O D U C T I O N.1
+I N T R O D U C T I O N  T O  T H E
+R E F E R E N C E  M A N U A L
+This Reference Manual is one of three volumes of the Revised 1996 IPCC Guidelines for
+National GHG Inventories. It provides a compendium of information on the various human
+activities which cause greenhouse gas emissions or removals to occur. It builds on work
+carried out in preparation of:
+• OECD Report: Estimation of Greenhouse Gas Emissions and Sinks, Final Report From the
+OECD Experts Meeting, 18-21 February 1991, (OECD, 1991).
+• Proceedings of an International IPCC Workshop on Methane and Nitrous Oxide, Amersfoort,
+NL, 3-5 February 1993 (van Amstel, 1993).
+• 1995 IPCC Guidelines.
+In preparing this document, the IPCC/OECD/IEA has also received valuable technical
+input from a number of international workshops and IPCC Expert Group Meetings. The
+overall purpose of these workshops was to provide a forum for experts to discuss ways
+to improve the methodologies and reporting procedures and to ensure widespread
+participation in the development process. Many of the recommendations received have
+been incorporated into this revised Reference Manual.
+In general, the basic approach to estimating national emissions is similar across the
+various gases and human activities which are sources or sinks. Fundamentally, emissions
+are a product of activity data and emission factors. In reality, these calculations are often
+more complicated than this would indicate, with several steps being involved in the
+calculation of each of the general terms - activity data and emission factors. But it is useful
+to keep this general structure in mind as it provides an organising framework for all of
+the calculations and a means of evaluation and comparison.
+The Reference Manual frequently provides a number of different possible methodologies
+or variations for calculating a given emission. In most cases these represent calculations of
+the same form but the differences are in the level of detail at which the original
+calculations are carried out. Wherever possible the methodology provides a "tiered"
+structure of calculations which describes and connects the various levels of detail at which
+national experts can work depending on the importance of the source category,
+availability of data, and other capabilities. All national experts are encouraged to work at
+the most detailed level which is possible and appropriate for their situation. The tiered
+structure ensures that estimates calculated at a very detailed level can be aggregated up
+to a common minimum level of detail for comparison with all other reporting countries.
+INTRODUCTION
+I N T R O D U C T I O N.2
+R e v i se d 1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:  R e fe r e n c e  M a n u a l
+The methodologies for the estimation of the emissions and removals of GHGs, which are
+presented and discussed in the Guidelines, are grouped by the main activity sectors,
+(chapters of this volume) namely, Energy, Industrial Processes, Solvent and Other Product Use,
+Agriculture, Land Use Change and Forestry, and Waste.  In general, the source/sink activities
+are unique to their sector but there are cases, e.g., biomass burning, which occur in
+several sectors and are described in the chapters on Land-Use Change and Forestry, Energy
+and Agriculture.
+The chapters are divided by subject areas and correspond to the same subject chapters in
+the Workbook. This document should be used by national experts as a reference tool to
+accompany the Workbook and the Reporting Instructions when constructing and reporting
+national inventories of GHG emissions and removals.
+References
+OECD (1991), Estimation of Greenhouse Gas Emissions and Sinks, Final Report from the
+OECD Experts Meeting, 18-21 February 1991.  The Organisation for Economic
+Co-operation and Development, Paris, France, revised August 1991.
+van Amstel, A.R. (ed.) (1993), Proceedings of an International IPCC Workshop on Methane
+and Nitrous Oxide: Methods in National Emissions Inventories and Options for Control,
+Amersfoort, NL. 3-5 February 1993. RIVM Report No. 481507003, Bilthoven,
+The Netherlands, July.
+IPCC/OECD/IEA (1995), IPCC Guidelines for National Greenhouse Gas Inventories,
+IPCC/OECD/IEA Inventory Programme, Paris, France

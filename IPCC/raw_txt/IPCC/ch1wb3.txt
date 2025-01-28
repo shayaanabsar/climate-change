@@ -1,0 +1,1033 @@
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.41
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+4 OF 16  MANUFACTURING INDUSTRIES AND CONSTRUCTION
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Manufacturing
+Industries and
+Construction
+Fraction of
+Carbon Stored(a)
+Carbon Stored
+(Gg C)(a)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Crude Oil
+Natural Gas Liquids
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+(b)
+Residual Fuel Oil
+LPG
+(b)
+Ethane
+(b)
+Naphtha
+(b)
+Lubricants
+(c)
+Petroleum Coke
+Refinery Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Coke
+Gas Works Gas
+Coke Oven Gas
+Blast Furnace Gas
+Natural Gas
+(b)
+Municipal Solid Waste
+Industrial Waste
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+(a) For naphtha, natural gas, gas/diesel oil, LPG and any other fuels used as feedstocks, do not fill out Column G.  Complete Column H, using Auxiliary Worksheet 1-
+2.
+(b) Use Auxiliary Worksheet 1-2 to fill out the cells for these products.
+(c) Use a value of 0.5 for lubricants.
+ENERGY
+1.42
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+5 OF 16  TRANSPORT
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Transport
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon
+Emission Factor
+(t C/TJ)
+Carbon Content
+(t C)
+Carbon Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Domestic Aviation(a)
+Gasoline
+Jet Kerosene
+Subtotal
+Road Transport
+Natural Gas
+LPG
+Gasoline
+Gas/Diesel Oil
+Subtotal
+Rail Transport
+Gas/Diesel Oil
+Residual Fuel Oil
+Anthracite
+Other Bituminous Coal
+Coke Oven Coke
+Subtotal
+National Navigation(a)
+Gasoline
+Gas/Diesel Oil
+Residual Fuel Oil
+Lubricants
+Sub-Bituminous Coal
+Subtotal
+Pipeline Transport
+Natural Gas
+Subtotal
+Total Transport(a)
+Memo items:
+Liquid Biomass
+Total Biomass
+(a) Excluding international bunkers.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.43
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+6 OF 16  TRANSPORT
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Transport
+Fraction of
+Carbon Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Domestic Aviation
+Gasoline
+Jet Kerosene
+Subtotal
+Road Transport
+Natural Gas
+LPG
+Gasoline
+Gas/Diesel Oil
+Subtotal
+Rail Transport
+Gas/Diesel Oil
+Residual Fuel Oil
+Anthracite
+Other Bituminous Coal
+Coke Oven Coke
+Subtotal
+National Navigation
+Gasoline
+Gas/Diesel Oil
+Residual Fuel Oil
+Lubricants
+(a)
+Sub-Bituminous Coal
+Subtotal
+Pipeline Transport
+Natural Gas
+Subtotal
+Total Transport
+Memo items:
+Liquid Biomass
+Total Biomass
+(a) Use a value of 0.5 for lubricants.
+ENERGY
+1.44
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+7 OF 16  MEMO ITEMS:  INTERNATIONAL BUNKERS
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Memo Items:
+International Bunkers
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Intl. Marine Bunkers
+Gasoline
+Gas/Diesel Oil
+Residual Fuel Oil
+Lubricants
+Sub-Bituminous Coal
+Total
+Intl. Aviation Bunkers
+Gasoline
+Jet Kerosene
+Total
+Note:  Emissions of international bunkers are excluded from national totals and are reported for informational purposes only.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.45
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+8 OF 16  MEMO ITEMS:  INTERNATIONAL BUNKERS
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Memo Items:
+International Bunkers
+Fraction of
+Carbon Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Intl. Marine Bunkers
+Gasoline
+Gas/Diesel Oil
+Residual Fuel Oil
+Lubricants
+(a)
+Sub-Bituminous Coal
+Total
+Intl. Aviation Bunkers
+Gasoline
+Jet Kerosene
+Total
+(a) Use a value of 0.5 for lubricants.
+ENERGY
+1.46
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+9 OF 16  COMMERCIAL / INSTITUTIONAL SECTOR
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Commercial/
+Institutional Sector
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Anthracite
+Other Bituminous Coal
+Lignite
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Works Gas
+Coke Oven Gas
+Natural Gas
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+Note:  To separately identify emissions associated with autogeneration from those associated with process heat, photocopy Sheets 9 and 10, clearly
+indicating the source of the emissions.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.47
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+10 OF 16  COMMERCIAL / INSTITUTIONAL SECTOR
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Commercial/
+Institutional Sector
+Fraction of
+Carbon Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Anthracite
+Other Bituminous Coal
+Lignite
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Works Gas
+Coke Oven Gas
+Natural Gas
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+ENERGY
+1.48
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+11 OF 16  RESIDENTIAL SECTOR
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Residential Sector
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Gasoline
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Anthracite
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Works Gas
+Coke Oven Gas
+Natural Gas
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.49
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+12 OF 16  RESIDENTIAL SECTOR
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Residential Sector
+Fraction of
+Carbon Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Gasoline
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Anthracite
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Works Gas
+Coke Oven Gas
+Natural Gas
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+ENERGY
+1.50
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+13 OF 16  AGRICULTURE / FORESTRY / FISHING
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Agriculture/Forestry/
+Fishing
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Mobile
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Total
+Stationary
+Gasoline
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+Liquefied Petroleum Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Lignite
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Works Gas
+Natural Gas
+Total
+Memo items:
+Mobile
+Liquid Biomass
+Stationary
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+Note:  To separately identify emissions associated with autogeneration from those associated with process heat, photocopy Sheets 13 and 14, clearly indicating
+the source of the emissions.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.51
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+14 OF 16  AGRICULTURE / FORESTRY / FISHING
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Agriculture/Forestry/
+Fishing
+Fraction of
+Carbon Stored(a)
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Mobile
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Total
+Stationary
+Gasoline
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+Liquefied Petroleum Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Lignite
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Works Gas
+Natural Gas
+Total
+Memo items:
+Mobile
+Liquid Biomass
+Stationary
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+(a) Use a value of 0.5 for lubricants.
+ENERGY
+1.52
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+15 OF 16  OTHER (NOT ELSEWHERE SPECIFIED)
+STEP 1
+STEP 2
+STEP 3
+A
+B
+C
+D
+E
+F
+Other (not elsewhere
+specified)
+Consumption
+Conversion
+Factor
+(TJ/unit)
+Consumption
+(TJ)
+Carbon Emission
+Factor
+(t C/TJ)
+Carbon
+Content
+(t C)
+Carbon
+Content
+(Gg C)
+C=(AxB)
+E=(CxD)
+F=(E x 10-3)
+Crude Oil
+(a)
+Natural Gas Liquids
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Lubricants
+Petroleum Coke
+Refinery Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Coke
+Gas Works Gas
+Coke Oven Gas
+Blast Furnace Gas
+Natural Gas
+Municipal Solid Waste
+Industrial Waste
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+Note:  To separately identify emissions associated with autogeneration from those associated with process heat, photocopy Sheets 15 and 16, clearly indicating
+the source of the emissions.
+(a) Include only consumption of crude oil that is burned, not crude oil which is refined into petroleum products.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.53
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  STEP BY STEP CALCULATIONS
+SHEET
+16 OF 16  OTHER (NOT ELSEWHERE SPECIFIED)
+STEP 4
+STEP 5
+STEP 6
+G
+H
+I
+J
+K
+L
+Other (not elsewhere
+specified)
+Fraction of
+Carbon Stored
+Carbon Stored
+(Gg C)
+Net Carbon
+Emissions
+(Gg C)
+Fraction of
+Carbon Oxidised
+Actual Carbon
+Emissions
+(Gg C)
+Actual CO2
+Emissions
+(Gg CO2)
+H=(FxG)
+I=(F-H)
+K=(IxJ)
+L=(K x [44/12])
+Crude Oil
+Natural Gas Liquids
+Gasoline
+Jet Kerosene
+Other Kerosene
+Gas/Diesel Oil
+Residual Fuel Oil
+LPG
+Ethane
+Naphtha
+Lubricants
+(a)
+Petroleum Coke
+Refinery Gas
+Anthracite
+Coking Coal
+Other Bituminous Coal
+Sub-Bituminous Coal
+Lignite
+Peat
+Patent Fuel
+Brown Coal Briquettes
+Coke Oven Coke
+Gas Coke
+Gas Works Gas
+Coke Oven Gas
+Blast Furnace Gas
+Natural Gas
+Municipal Solid Waste
+Industrial Waste
+Total
+Memo items:
+Wood/Wood Waste
+Charcoal
+Other Solid Biomass
+Liquid Biomass
+Gaseous Biomass
+Total Biomass
+(a) Use a value of 0.5 for lubricants.
+ENERGY
+1.54
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+AUXILIARY WORKSHEET 1-2: ESTIMATING CARBON STORED IN PRODUCTS
+SHEET
+1
+A
+Feedstock Use
+B
+Conversion
+Factor
+(TJ/Units)
+C
+Feedstock Use
+(TJ)
+D
+Carbon
+Emission Factor
+(t C/TJ)
+E
+Carbon Content
+(t C)
+F
+Carbon Content
+(Gg C)
+G
+Fraction of
+Carbon Stored
+H
+Carbon
+Stored(a)
+(Gg C)
+FUEL TYPES
+C=(AxB)
+E=(CxD)
+F=(Ex10-3)
+H=(FxG)
+Gas/Diesel Oil
+0.5
+LPG
+0.8
+Ethane
+0.8
+Naphtha
+0.8
+Natural Gas
+0.33
+Other Fuels(b)
+(a) Enter the result of this calculation in Worksheet 1-2 Step by Step Calculation, Sheet 4, in the cells marked with (b).
+(b) Please specify.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   W o r kb o o k
+1.55
+MODULE
+ENERGY
+SUBMODULE
+CO2 FROM FUEL COMBUSTION BY SOURCE CATEGORIES (TIER I)
+WORKSHEET
+1-2  OVERVIEW
+SHEET
+1 OF 8
+A
+Crude Oil
+B
+Orimulsion
+C
+Natural Gas
+Liquids
+D
+Gasoline
+E
+Jet Kerosene
+F
+Other
+Kerosene
+FUEL CONSUMPTION (TJ)
+Energy Industries
+Manufacturing Industries and Construction
+Transport
+Domestic Aviation(a)
+Road
+Railways
+National Navigation(a)
+Other
+Commercial/Institutional
+Sectors
+Residential
+Agriculture/Forestry/
+Stationary
+Fishing
+Mobile
+Other (not elsewhere specified)
+Total(a)
+Memo:  International Marine Bunkers
+Memo:  International Aviation Bunkers
+CO2 EMISSIONS (Gg)
+Energy Industries
+Manufacturing Industries and Construction
+Transport
+Domestic Aviation(a)
+Road
+Railways
+National Navigation(a)
+Other
+Commercial/Institutional
+Sectors
+Residential
+Agriculture/Forestry/
+Stationary
+Fishing
+Mobile
+Other (not elsewhere specified)
+Total(a)
+Memo:  International Marine Bunkers
+Memo:  International Aviation Bunkers
+(a) Excludes International Bunkers.

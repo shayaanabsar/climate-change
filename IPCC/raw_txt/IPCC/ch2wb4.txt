@@ -1,0 +1,833 @@
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.61
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CEMENT PRODUCTION
+WORKSHEET
+2-1
+SHEET
+1OF 2  CO2 EMISSIONS
+STEP 1
+A
+Quantity of Clinker or
+Cement Produced
+(t)
+B
+Emission Factor
+(t CO2/t clinker or
+cement produced)
+C
+CO2 Emitted
+ (t)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CEMENT PRODUCTION
+WORKSHEET
+2-1
+SHEET
+2 OF 2  SO2  EMISSIONS
+STEP 2
+A
+Quantity of Cement
+Produced
+(t)
+B
+Emission Factor
+(kg SO2 /t cement
+produced)
+C
+SO2 Emitted
+(kg)
+D
+SO2 Emitted
+(Gg)
+C = (A x B)
+D = C/106
+INDUSTRIAL PROCESSES
+2.62
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF LIME
+WORKSHEET
+2-2
+SHEET
+1 OF 1   CO2 EMISSIONS
+Lime Type
+A
+Quantity of
+Lime Produced
+(t)
+B
+Emission Factor
+(t CO2/t quicklime or
+dolomitic lime
+produced)
+C
+CO2 Emitted
+  (t)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/103
+Quicklime
+Dolomitic Lime
+Total (Gg):
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.63
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+LIMESTONE AND DOLOMITE USE
+WORKSHEET
+2-3
+SHEET
+1 OF 1   CO2  EMISSIONS
+Material Type
+A
+Quantity of
+Limestone or
+Dolomite Used
+(t)
+B
+Emission Factor
+(kg CO2/t limestone
+or dolomite used)
+C
+CO2 Emitted
+(kg)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Limestone
+Dolomite
+Total (Gg):
+INDUSTRIAL PROCESSES
+2.64
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+SODA ASH PRODUCTION AND USE
+WORKSHEET
+2-4
+SHEET
+1 OF 2 SODA ASH PRODUCTION- CO2 - EMISSIONS
+STEP 1
+A
+Quantity of Trona
+Utilised
+(t)
+B
+Emission Factor
+(t CO2/t trona utilised)
+C
+CO2 Emitted
+(t)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+SODA ASH PRODUCTION AND USE
+WORKSHEET
+2-4
+SHEET
+2 OF 2  SODA ASH USE - CO2 EMISSIONS
+STEP 2
+A
+Quantity of Soda Ash
+Used
+(t)
+B
+Emission Factor
+(kg CO2/t soda ash
+used)
+C
+CO2 Emitted
+(kg)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/106
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.65
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION AND USE OF MISCELLANEOUS MINERAL PRODUCTS
+WORKSHEET
+2-5
+SHEET
+1 OF 5 ASPHALT ROOFING PRODUCTION - NMVOC EMISSIONS
+STEP 1
+Process Type
+A
+Quantity of
+Asphalt Roofing
+Produced
+(t)
+B
+Emission Factor
+(kg NMVOC /t
+asphalt roofing
+produced)
+C
+NMVOC Emitted
+(kg)
+D
+NMVOC Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Saturation Process
+Blowing Process
+Total (Gg):
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION AND USE OF MISCELLANEOUS MINERAL PRODUCTS
+WORKSHEET
+2-5
+SHEET
+2 OF 5 ASPHALT ROOFING PRODUCTION - CO EMISSIONS
+STEP 2
+A
+Quantity of Asphalt
+Roofing Produced
+(t)
+B
+Emission Factor
+(kg CO /t asphalt
+roofing produced)
+C
+CO Emitted
+(kg)
+D
+CO Emitted
+(Gg)
+C = (A x B)
+D = C/106
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION AND USE OF MISCELLANEOUS MINERAL PRODUCTS
+WORKSHEET
+2-5
+SHEET
+3 OF 5  ROAD PAVING WITH ASPHALT- NMVOC EMISSIONS
+STEP 3
+Emission Source
+A
+Quantity of Road
+Paving Material
+Used
+(t)
+B
+Emission Factor
+(kg NMVOC/t
+road paving
+material used)
+C
+NMVOC Emitted
+(kg)
+D
+NMVOC Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Asphalt Plant
+Road Surface
+Total (Gg):
+INDUSTRIAL PROCESSES
+2.66
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION AND USE OF MISCELLANEOUS MINERAL PRODUCTS
+WORKSHEET
+2-5
+SHEET
+4 OF 5 PRODUCTION OF OTHER MINERAL PRODUCTS - GLASS PRODUCTION -
+NMVOC EMISSIONS
+STEP 4
+Glass Type
+A
+Quantity of Glass
+Produced
+(t)
+B
+Emission Factor
+(kg NMVOC/t
+glass produced)
+C
+NMVOC Emitted
+(kg)
+D
+NMVOC Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Container Glass
+Flat Glass
+Total (Gg):
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION AND USE OF MISCELLANEOUS MINERAL PRODUCTS
+WORKSHEET
+2-5
+SHEET
+5 OF 5 PRODUCTION OF OTHER MINERAL PRODUCTS - CONCRETE
+PUMICE STONE - SO 2 EMISSIONS
+STEP 5
+A
+Quantity of Concrete
+Pumice Stone Produced
+(t)
+B
+Emission Factor
+(kg SO2/t concrete
+pumice stone produced)
+C
+SO2 Emitted
+(kg)
+D
+SO2 Emitted
+(Gg)
+C = (A x B)
+D = C/106
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.67
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+AMMONIA PRODUCTION
+WORKSHEET
+2-6
+SHEET
+ 1 OF 3 TIER 1a - CO2 EMISSIONS
+STEP 1
+A
+Amount of Gas
+Consumed
+(m3)
+B
+Carbon Content
+of Gas
+(kg/m3)
+C
+Conversion Ratio
+D
+CO2 Emitted
+(kg)
+E
+CO2 Emitted
+(Gg)
+44/12
+D = (A × B × C)
+E = D/106
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+AMMONIA PRODUCTION
+WORKSHEET
+2-6
+SHEET
+2 OF  3 TIER 1b - CO2 EMISSIONS
+STEP 2
+A
+Amount of Ammonia
+Produced
+(t)
+B
+Emission Factor
+(t CO2/t ammonia
+produced)
+C
+CO2 Emitted
+(t)
+D
+CO2 Emitted
+(Gg)
+C = (A × B)
+D = C/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+AMMONIA PRODUCTION
+WORKSHEET
+2-6
+SHEET
+3 OF 3 NMVOC, CO AND SO2  EMISSIONS
+STEP 3
+A
+Amount of Ammonia
+Produced
+(t)
+B
+Emission Factor
+(kg pollutant/ t
+ammonia produced)
+C
+Pollutant Emitted
+(kg)
+D
+Pollutant Emitted
+ (Gg)
+C = (A × B)
+D = C/106
+NMVOC
+NMVOC
+CO
+CO
+SO2
+SO2
+INDUSTRIAL PROCESSES
+2.68
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+NITRIC ACID PRODUCTION
+WORKSHEET
+2-7
+SHEET
+I OF 1 N2O AND NOx EMISSIONS
+A
+Amount of Nitric
+Acid Produced
+(t)
+B
+Emission Factor
+(kg pollutant/t nitric
+acid produced)
+C
+Pollutant Emitted
+(kg)
+D
+Pollutant Emitted
+(Gg)
+C = (A × B)
+D = C/106
+N2O
+N2O
+NOx
+NOx
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.69
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+ADIPIC ACID PRODUCTION
+WORKSHEET
+2-8
+SHEET
+1OF 1 N2O, NOx , NMVOC  AND CO EMISSIONS
+A
+Amount of Adipic
+Acid Produced
+(t)
+B
+Emission Factor
+(kg pollutant / t
+adipic acid
+produced)
+C
+Pollutant Emitted
+(kg)
+D
+Pollutant Emitted
+(Gg)
+C = (A × B)
+D = C/106
+N2O
+N2O
+NOx
+NOx
+NMVOC
+NMVOC
+CO
+CO
+INDUSTRIAL PROCESSES
+2.70
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CARBIDE PRODUCTION
+WORKSHEET
+2-9
+SHEET
+1 OF 4 SILICON CARBIDE PRODUCTION - CO2 EMISSIONS
+STEP 1
+A
+Consumption Of
+Coke
+ (t)
+B
+Carbon Content
+in Coke
+ (%)
+C
+Carbon Input
+Sequestered In
+Product
+(%)
+D
+CO2 Emitted
+(t)
+E
+CO2 Emitted
+(Gg)
+D = A x B (100-C)
+x 3.67x10-4
+E = D/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CARBIDE PRODUCTION
+WORKSHEET
+2-9
+SHEET
+2 OF 4 SILICON CARBIDE PRODUCTION - TIER 1a - CH4  EMISSIONS
+STEP 2
+A
+Amount of Petrol
+Coke Consumed
+(t)
+B
+Emission Factor
+(kg CH4 / t petrol coke
+consumed)
+C
+CH4 Emitted
+(kg)
+D
+CH4 Emitted
+(Gg)
+C = (A × B)
+D = C/106
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.71
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CARBIDE PRODUCTION
+WORKSHEET
+2-9
+SHEET
+3 OF 4 SILICON CARBIDE PRODUCTION - TIER 1b - CH4 EMISSIONS
+STEP 3
+A
+Amount of Silicon
+Carbide Produced
+(t)
+B
+Emission Factor
+(kg CH4 / t silicon
+carbide produced)
+C
+CH4 Emitted
+(kg)
+D
+CH4 Emitted
+(Gg)
+C = (A × B)
+D = C/106
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CARBIDE PRODUCTION
+WORKSHEET
+2-9
+SHEET
+4 OF 4 CALCIUM CARBIDE PRODUCTION  - CO2 EMISSIONS
+STEP 4
+A
+Amount of Carbide
+Produced
+(t)
+B
+Emission Factor
+(t CO2 / t carbide
+produced)
+C
+CO2 Emitted
+(t)
+D
+CO2 Emitted
+(Gg)
+C = (A × B)
+D = C/103
+Total (Gg):
+INDUSTRIAL PROCESSES
+2.72
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF OTHER CHEMICALS
+WORKSHEET
+2-10
+SHEET
+1 OF 5 CH4 EMISSIONS
+STEP 1
+Chemical
+A
+Amount of
+Chemical Produced
+(t)
+B
+Emission Factor
+(kg CH4 / t chemical
+produced)
+C
+CH4 Emitted
+(kg)
+D
+CH4 Emitted
+(Gg)
+C = (A × B)
+D = C/106
+Total (Gg):
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF OTHER CHEMICALS
+WORKSHEET
+2-10
+SHEET
+2 OF 5  NOx  EMISSIONS
+STEP 2
+Chemical
+A
+Amount of
+Chemical
+Produced
+(t)
+B
+Emission Factor
+(kg NOx / t
+chemical produced)
+C
+NOx Emitted
+(kg)
+D
+NOx Emitted
+(Gg)
+C = (A × B)
+D = C/106
+Total (Gg):
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.73
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF OTHER CHEMICALS
+WORKSHEET
+2-10
+SHEET
+3 OF 5  NMVOC EMISSIONS
+STEP 3
+Chemical
+A
+Amount of
+Chemical
+Produced
+(t)
+B
+Emission Factor
+(kg NMVOC / t
+chemical produced)
+C
+NMVOC Emitted
+(kg)
+D
+NMVOC Emitted
+(Gg)
+C = (A × B)
+D = C/106
+Total (Gg):
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF OTHER CHEMICALS
+WORKSHEET
+2-10
+SHEET
+4 OF 5  CO EMISSIONS
+STEP 4
+Chemical
+A
+Amount of
+Chemical
+Produced
+(t)
+B
+Emission Factor
+(kg CO / t chemical
+produced)
+C
+CO Emitted
+(kg)
+D
+CO Emitted
+(Gg)
+C = (A × B)
+D = C/106
+Total (Gg):
+INDUSTRIAL PROCESSES
+2.74
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF OTHER CHEMICALS
+WORKSHEET
+2-10
+SHEET
+5 OF  5  SO2 EMISSIONS
+STEP 5
+Chemical
+A
+Amount of
+Chemical
+Produced
+(t)
+B
+Emission Factor
+(kg SO2 / t chemical
+produced)
+C
+SO2 Emitted
+(kg)
+D
+SO2 Emitted
+(Gg)
+C = (A × B)
+D = C/106
+Total (Gg):
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.75
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+1  OF  11  TIER 1a - CO2 EMISSIONS
+STEP 1
+A
+Mass of Reducing
+Agent
+(t)
+B
+Emission Factor
+(t CO2/t reducing
+agent)
+C
+(Carbon content of
+ore minus carbon
+content of metal) x
+3.67
+(t CO2/t carbon)
+D
+CO2 Emitted
+(t)
+E
+CO2 Emitted
+(Gg)
+D = (A x B) + C
+E = D/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+2 OF 11  IRON AND STEEL - TIER 1b - CO2 EMISSIONS
+STEP 2
+A
+Amount of Iron or Steel
+Produced
+(t)
+B
+Emission Factor
+(t CO2/t of iron or steel
+produced)
+C
+ CO2 Emitted
+(t)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+3  OF  11 IRON AND STEEL - NOx, NMVOC, CO AND SO2 EMISSIONS
+STEP 3
+A
+Amount of Iron
+or Steel Produced
+(t)
+B
+Emission Factor
+(g gas/t of iron or steel
+produced)
+C
+Gas Emitted
+(g)
+D
+Gas Emitted
+(Gg)
+C = (A x B)
+D = C/109
+NOx
+NOx
+NMVOC
+NMVOC
+CO
+CO
+SO2
+SO2

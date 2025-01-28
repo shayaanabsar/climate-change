@@ -1,0 +1,2685 @@
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.1 
+CHAPTER 2 
+MINERAL INDUSTRY EMISSIONS 
+Volume 3: Industrial Processes and Product Use  
+2.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Lisa Hanle (USA) 
+Pedro Maldonado (Chile), Eiichi Onuma (Japan), Milos Tichy (Czech Republic), and Hendrik G. van Oss (USA) 
+Contributing Authors 
+Victor O. Aume (USA), George H. Edwards (USA), and M. Michael Miller (USA) 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.3 
+Contents 
+2 
+Mineral Industry Emissions ..........................................................................................................................2.6 
+2.1 
+Introduction...........................................................................................................................................2.6 
+2.2 
+Cement production................................................................................................................................2.7 
+2.2.1 
+Methodological issues...................................................................................................................2.7 
+2.2.1.1 
+Choice of method.....................................................................................................................2.7 
+2.2.1.2 
+Choice of emission factors.....................................................................................................2.11 
+2.2.1.3 
+Choice of activity data...........................................................................................................2.13 
+2.2.1.4 
+Completeness.........................................................................................................................2.15 
+2.2.1.5 
+Developing a consistent time series.......................................................................................2.16 
+2.2.2 
+Uncertainty assessment ...............................................................................................................2.16 
+2.2.2.1 
+Emission factor uncertainties.................................................................................................2.16 
+2.2.2.2 
+Activity data uncertainties .....................................................................................................2.16 
+2.2.3 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................2.18 
+2.2.3.1 
+Quality Assurance/Quality Control (QA/QC)........................................................................2.18 
+2.2.3.2 
+Reporting and Documentation...............................................................................................2.18 
+2.3 
+Lime production..................................................................................................................................2.19 
+2.3.1 
+Methodological issues.................................................................................................................2.19 
+2.3.1.1 
+Choice of method...................................................................................................................2.19 
+2.3.1.2 
+Choice of emission factors.....................................................................................................2.22 
+2.3.1.3 
+Choice of activity data...........................................................................................................2.23 
+2.3.1.4 
+Completeness.........................................................................................................................2.24 
+2.3.1.5 
+Developing a consistent time series.......................................................................................2.25 
+2.3.2 
+Uncertainty assessment ...............................................................................................................2.25 
+2.3.2.1 
+Emission factor uncertainties.................................................................................................2.25 
+2.3.2.2 
+Activity data uncertainties .....................................................................................................2.26 
+2.3.3 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................2.26 
+2.3.3.1 
+Quality Assurance/Quality Control (QA /QC).......................................................................2.26 
+2.3.3.2 
+Reporting and Documentation...............................................................................................2.26 
+2.4 
+Glass production..................................................................................................................................2.27 
+2.4.1 
+Methodological issues.................................................................................................................2.27 
+2.4.1.1 
+Choice of method...................................................................................................................2.28 
+2.4.1.2 
+Choice of emission factors.....................................................................................................2.29 
+2.4.1.3 
+Choice of activity data...........................................................................................................2.30 
+2.4.1.4 
+Completeness.........................................................................................................................2.31 
+2.4.1.5 
+Developing a consistent time series.......................................................................................2.31 
+2.4.2 
+Uncertainty assessment ...............................................................................................................2.31 
+2.4.2.1 
+Emission factor uncertainties.................................................................................................2.31 
+Volume 3: Industrial Processes and Product Use  
+2.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.4.2.2 
+Activity data uncertainties .....................................................................................................2.31 
+2.4.3 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................2.32 
+2.4.3.1 
+Quality Assurance/Quality Control (QA/QC)........................................................................2.32 
+2.4.3.2 
+Reporting and Documentation...............................................................................................2.32 
+2.5 
+Other process uses of carbonates.........................................................................................................2.32 
+2.5.1 
+Methodological issues.................................................................................................................2.32 
+2.5.1.1 
+Choice of method...................................................................................................................2.34 
+2.5.1.2 
+Choice of emission factors.....................................................................................................2.36 
+2.5.1.3 
+Choice of activity data...........................................................................................................2.36 
+2.5.1.4 
+Completeness.........................................................................................................................2.36 
+2.5.1.5 
+Developing a consistent time series.......................................................................................2.38 
+2.5.2 
+Uncertainty assessment ...............................................................................................................2.39 
+2.5.2.1 
+Emission factor uncertainties.................................................................................................2.39 
+2.5.2.2 
+Activity data uncertainties .....................................................................................................2.39 
+2.5.3 
+Quality Assurance/Quality Control (QA/QC), Reporting and Documentation ...........................2.39 
+2.5.3.1 
+Quality Assurance/Quality Control (QA/QC)........................................................................2.39 
+2.5.3.2 
+Reporting and Documentation...............................................................................................2.40 
+References 
+.....................................................................................................................................................2.40 
+Equations 
+Equation 2.1 
+Tier 1: Emissions based on cement production .....................................................................2.8 
+Equation 2.2 
+Tier 2: Emissions based on clinker production data..............................................................2.9 
+Equation 2.3 
+Tier 3: Emissions based on carbonate raw material inputs to the kiln.................................2.11 
+Equation 2.4 
+Emission factor for clinker ..................................................................................................2.12 
+Equation 2.5 
+Correction factor for CKD not recycled to the kiln.............................................................2.13 
+Equation 2.6 
+Tier 2: Emissions based on national lime production data by type......................................2.21 
+equation 2.7 
+Tier 3: Emissions based on carbonate inputs.......................................................................2.21 
+Equation 2.8 
+Tier 1: Default emission factor for lime production............................................................2.22 
+Equation 2.9 
+Tier 2: Emission factors for lime production.......................................................................2.23 
+Equation 2.10 Tier 1: Emissions based on glass production.......................................................................2.28 
+Equation 2.11 Tier 2: Emissions based on glass manufacturing process....................................................2.28 
+Equation 2.12 Tier 3: Emissions based on carbonate inputs.......................................................................2.28 
+Equation 2.13 Tier 1: Default emission factor for glass production ...........................................................2.29 
+Equation 2.14 Tier 1: Emissions based on mass of carbonates consumed..................................................2.34 
+Equation 2.15 Tier 2: Method for other process uses of carbonates...........................................................2.34 
+Equation 2.16 Tier 3: Carbonate input approach for other process uses of carbonates ..............................2.35 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.5 
+Figures 
+Figure 2.1 
+Decision tree for estimation of CO2 emissions from cement production...............................2.9 
+Figure 2.2 
+Decision tree for estimation of CO2 emissions from lime production.................................2.20 
+Figure 2.3 
+Decision tree for estimation of CO2 emissions from glass production ................................2.29 
+Figure 2.4 
+Decision tree for estimation of CO2 emissions from other process uses of carbonates.......2.35 
+Tables 
+Table 2.1 
+Formulae, formula weights, and carbon dioxide contents of common carbonate species.....2.7 
+Table 2.2 
+Clinker fraction of blended cement ‘Recipes’ and overall product mixes (based on U.S. 
+standards ASTM C-150 and C-595; U.S. data may be illustrative for other countries) ......2.14 
+Table 2.3 
+Default uncertainty values for cement production...............................................................2.17 
+Table 2.4 
+Basic parameters for the calculation of emission factors for lime production.....................2.22 
+Table 2.5 
+Default uncertainty values for estimation of CO2 emissions from lime production ............2.25 
+Table 2.6 
+Default emission factors and cullet ratios for different glass types .....................................2.30 
+Table 2.7 
+Emissive and non-emissive uses of carbonates ...................................................................2.37 
+ 
+Volume 3: Industrial Processes and Product Use  
+2.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2 MINERAL INDUSTRY EMISSIONS 
+2.1 
+INTRODUCTION 
+This chapter outlines methodologies for estimating process-related carbon dioxide (CO2) emissions resulting 
+from the use of carbonate raw materials in the production and use of a variety of mineral industry products. 
+There are two broad pathways for release of CO2 from carbonates: calcination and the acid-induced release of 
+CO2. The primary process resulting in the release of CO2 is the calcination of carbonate compounds, during 
+which, through heating, a metallic oxide is formed. A typical calcination reaction, here shown for the mineral 
+calcite or calcium carbonate, would be: 
+CaCO3 + heat � CaO + CO2 
+Acid-induced release of CO2, for example, via an equation such as: 
+CaCO3 + H2SO4 � CaSO4 + H2O + CO2 
+This occurs in a variety of industries, but is typically the result of small quantities of carbonate being present as 
+an impurity in an acidification process to upgrade a non-carbonate material. For example, in the treatment of 
+phosphate ores with sulphuric acid to produce phosphoric acid, the phosphate concentrate that is to be acidified 
+may contain a small percentage of carbonate minerals. In general, the amount of CO2 released by acidification of 
+these carbonate impurities will be small. 
+The focus of this chapter is therefore on the emissions resulting from calcination of carbonate materials. 
+Although the principal process by which calcination-related emissions are released is similar among the source 
+categories in the mineral industry, three source categories are highlighted because of their relatively significant 
+contribution to global emissions. These source categories are Cement Production, Lime Production and Glass 
+Production. In addition to these source categories, this chapter considers emissions resulting from the 
+consumption of carbonates in a variety of other mineral industries including ceramics, soda ash use, and 
+carbonate consumption for non-metallurgical magnesia production.  
+Limestone and other carbonate materials also are consumed in a variety of other industries not covered in this 
+chapter. Examples include carbonates used as fluxes1 and slagging2 agents in metals smelting and refining (e.g., 
+iron and steel production and base metals such as copper), and as inputs to the chemical industry (e.g., fertiliser). 
+The methods outlined in this chapter for estimating emissions from the use of carbonates are applicable to these 
+other industries as well. It is good practice to allocate emissions from the use of limestone, dolomite and other 
+carbonates to the industrial source category where they are emitted (e.g., iron and steel production).  
+As noted throughout Volume 3 on Industrial Processes and Product Use (IPPU), the emission estimation 
+methodologies outlined below consider only process-related emissions and do not consider energy-related 
+emissions. Inventory compilers should ensure that energy-related emissions from these industries are accounted 
+for in the Energy Sector and that there is no double-counting of emissions between the Energy and IPPU Sectors. 
+For example, the calculation of CO2 emissions from fuel consumed in cement manufacture should consider the 
+combustion of both fossil fuels and waste fuels (tyres, waste oils, paints, etc.) These combustion-related 
+emissions, however, should be included with energy-related emissions and not with IPPU, which should include 
+only the emissions from calcination.  
+Although methane (CH4) and nitrous oxide (N2O) may be emitted from some minerals industry source categories, 
+given current scientific knowledge, these emissions are assumed to be negligible and thus are not addressed in 
+this chapter. CO2 emissions may result from additional mineral-related activities not identified here; where these 
+are known and can be estimated, they should be included in the inventory. 
+The source categories in this chapter share a common approach to methodological tiers. Tiers 1 and 2 are based 
+on estimates of the amount of raw materials consumed or products manufactured, along with emission factors 
+that represent the amount of CO2 emitted per unit of mass. Tier 3 describes direct calculations based on the site-
+                                                           
+1  Fluxes are raw materials, such as limestone, dolomite, lime and silica sand, which are used to reduce the heat or other 
+energy requirements of thermal processing of minerals (such as smelting of metals). Fluxes also may serve a dual function 
+as a slagging agent.  
+2  Slag is a residual silicate melt deliberately formed during the smelting of metallic ores, or in subsequent furnaces (e.g., 
+steel), by the addition of slagging agents (commonly lime, limestone and/or dolomite). Slag contains most of the non-
+volatile impurities stripped from the ores as well as components derived from any fluxes added to the smelting process. 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.7 
+specific chemistry of raw materials. If site-specific raw materials data are used, it is vital that all sources of 
+carbonate in the raw materials and fuels are accounted for (not just the limestone). The basic emissions 
+calculations for all carbonate-burning industries are similar. They are based on common formula weights and 
+CO2 ratios, which are presented in Table 2.1 below for convenience.  
+TABLE 2.1 
+FORMULAE, FORMULA WEIGHTS, AND CARBON DIOXIDE CONTENTS OF COMMON CARBONATE SPECIES* 
+Carbonate 
+Mineral Name(s) 
+Formula Weight
+Emission Factor 
+(tonnes CO2/tonne carbonate)**
+CaCO3 
+Calcite*** or aragonite 
+100.0869 
+0.43971 
+MgCO3 
+Magnesite 
+84.3139 
+0.52197 
+CaMg(CO3)2  
+Dolomite*** 
+184.4008 
+0.47732 
+FeCO3 
+Siderite 
+115.8539 
+0.37987 
+Ca(Fe,Mg,Mn)(CO3)2 
+Ankerite**** 
+185.0225−215.6160
+0.40822−0.47572 
+MnCO3 
+Rhodochrosite 
+114.9470 
+0.38286 
+Na2CO3 
+Sodium carbonate or soda ash 
+106.0685 
+0.41492 
+Source: CRC Handbook of Chemistry and Physics (2004) 
+* Final results (i.e., emission estimates) using these data should be rounded to no more than two significant figures. 
+** The fraction of emitted CO2 assuming 100 percent calcination; e.g., 1 tonne calcite, if fully calcined, would yield 0.43971 tonnes of 
+CO2. 
+*** Calcite is the principal mineral in limestone. Terms like high-magnesium or dolomitic limestones refer to a relatively small 
+substitution of Mg for Ca in the general CaCO3 formula commonly shown for limestone. 
+**** Formulae weight range shown for ankerite assumes that Fe, Mg, and Mn are present in amounts of at least 1.0 percent. 
+ 
+2.2 
+CEMENT PRODUCTION 
+2.2.1 
+Methodological issues 
+In cement manufacture, CO2 is produced during the production of clinker, a nodular intermediate product that is 
+then finely ground, along with a small proportion of calcium sulfate [gypsum (CaSO4·2H2O) or anhydrite 
+(CaSO4)], into hydraulic (typically portland) cement. During the production of clinker, limestone, which is 
+mainly calcium carbonate (CaCO3), is heated, or calcined, to produce lime (CaO) and CO2 as a by-product. The 
+CaO then reacts with silica (SiO2), alumina (Al2O3), and iron oxide (Fe2O3) in the raw materials to make the 
+clinker minerals (chiefly calcium silicates). The proportion in the raw materials of carbonates other than CaCO3 
+is generally very small. The other carbonates, if present, exist mainly as impurities in the primary limestone raw 
+material. A small amount of MgO (typically 1-2 percent) in the clinker-making process is desirable as it acts as a 
+flux, but much more than this amount can lead to problems with the cement (van Oss and Padovani, 2002). 
+Cement may be made (ground) entirely from imported clinker, in which case the cement production facility may 
+be considered to have zero process-related CO2 emissions. As discussed in Section 2.2.1.2, cement kiln dust 
+(CKD) may be generated during the manufacture of clinker. Emission estimates should account for emissions 
+associated with the CKD. 
+There are no additional emissions associated with the production of masonry cement. Where masonry cement is 
+produced by adding lime to portland cement (or its clinker), the emissions associated with the lime should 
+already be accounted for under lime production. The addition of ground limestone to portland cement or its 
+clinker to produce masonry cement does not lead to additional emissions.  
+2.2.1.1 
+CHOICE OF METHOD 
+The decision tree in Figure 2.1 describes good practice in choosing the most appropriate method based on 
+national circumstances. In the Tier 1 method, emissions are based on clinker production estimates inferred from 
+cement production data, correcting for imports and exports of clinker. The estimation of emissions directly from 
+cement production (i.e., applying an emission factor directly to cement production without first estimating 
+clinker production) is not considered to be a good practice method because it does not account for clinker 
+imports and exports. 
+In Tier 2, emissions are estimated directly from clinker production data (rather than clinker production inferred 
+from cement production) and a national or default emission factor. The Tier 3 approach is a calculation based on 
+Volume 3: Industrial Processes and Product Use  
+2.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+the weights and compositions of all carbonate inputs from all raw material and fuel sources, the emission factor(s) 
+for the carbonate(s), and the fraction of calcination achieved. The Tier 3 approach relies on plant specific data. If 
+the inventory compiler considers plant-level data to be unreliable or highly uncertain, then it is good practice to 
+use Tier 2.  
+Tier 2 and Tier 3 should also include a correction for CKD. Tier 2 includes a correction addition for emissions 
+associated with CKD not recycled to the kiln. Tier 3 also should account for CKD. Unlike the Tier 2 approach, 
+when using Tier 3, emissions attributed to uncalcined CKD not recycled to the kiln should be subtracted from the 
+total emissions estimate.  
+Should CO2 capture technology be installed and used at a plant, it is good practice to deduct the CO2 captured in 
+a higher tier emissions calculation. The default assumption is that there is no CO2 capture and storage (CCS) 
+taking place. Any methodology taking into account CO2 capture should consider that CO2 emissions captured in 
+the process may be both combustion and process-related. In cases where combustion and process emissions are 
+to be reported separately, e.g. for cement production, inventory compilers should ensure that the same quantities 
+of CO2 are not double counted. In these cases the total amount of CO2 captured should preferably be reported in 
+the corresponding energy combustion and IPPU source categories in proportion to the amounts of CO2 generated 
+in these source categories. For additional information on CO2 capture and storage refer to Volume 3, Section 
+1.2.2 and for more details on capture and storage to Volume 2, Section 2.3.4. 
+ 
+ TIER 1 METHOD: ESTIMATING CLINKER PRODUCTION THROUGH USE 
+OF CEMENT PRODUCTION DATA  
+As noted above, calculating CO2 emissions directly from cement production (i.e., using a fixed cement-based 
+emission factor) is not consistent with good practice. Instead, in the absence of data on carbonate inputs or 
+national clinker production data, cement production data may be used to estimate clinker production by taking 
+into account the amounts and types of cement produced and their clinker contents and including a correction for 
+clinker imports and exports. Accounting for imports and exports of clinker is an important factor in the 
+estimation of emissions from this source. Emissions from the production of imported clinker should not be 
+included in national emissions estimates as these emissions were produced and accounted for in another country. 
+Similarly, emissions from clinker that is ultimately exported should be factored into national estimates of the 
+country where the clinker is produced. An emission factor for clinker is then applied and the CO2 emissions are 
+calculated according to Equation 2.1.  
+EQUATION 2.1 
+TIER 1: EMISSIONS BASED ON CEMENT PRODUCTION  
+clc
+i
+cl i
+ci
+EF
+Ex
+Im
+C
+M
+CO Emissions
+•
+⎥⎦
+⎤
+⎢⎣
+⎡
++
+−
+•
+= ∑
+)
+(
+2
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from cement production, tonnes  
+Mci = weight (mass) of cement produced3 of type i, tonnes 
+Ccli = clinker fraction of cement of type i, fraction 
+Im = imports for consumption of clinker, tonnes 
+Ex = exports of clinker, tonnes 
+EFclc = emission factor for clinker in the particular cement, tonnes CO2/tonne clinker  
+The default clinker emission factor (EFclc) is corrected for CKD. 
+ 
+                                                           
+3  In some statistical compendia production of cement is taken to mean production of cement plus the exports of clinker. If 
+this is the case, it is good practice to subtract clinker exports from the Mci factor in Equation 2.1. 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.9 
+Figure 2.1 
+Decision tree for estimation of CO2 emissions from cement production 
+Start
+Is clinker
+produced in the
+country?
+Is this a key
+category1?
+Are national
+clinker production data
+available?
+Are detailed
+data available for carbonate 
+inputs used in clinker
+production?
+Collect cement production data by type
+and the clinker fraction of cement.
+Collect trade data for clinker.
+Use a default emission factor.
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+Collect data for the Tier 3
+or Tier 2 method.
+There are no process-related emissions
+from cement production. Report 
+emissions as "not occurring".
+Collect plant-specific activity data on
+carbonates consumed (their chemical
+composition and calcination achieved) and
+relevant emission factors as basis for Tier 3 
+method. Where analysis of carbonates is done 
+on a periodic basis, clinker 
+production data may be used as a proxy. 
+Correct for CKD.
+Calculate emissions based on national
+clinker production statistics. Estimate
+CaO content of clinker. Correct for CKD.
+No
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Box 4: Emissions Not Occurring
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+ 
+ 
+TIER 2 METHOD: USE OF CLINKER PRODUCTION DATA 
+If detailed and complete data (including weights and composition) for carbonate(s) consumed in clinker 
+production are not available (Tier 3), or if a rigorous Tier 3 approach is otherwise deemed impractical, it is good 
+practice to use aggregated plant or national clinker production data and data on the CaO content in clinker, 
+expressed as an emission factor in the following Equation 2.2:  
+EQUATION 2.2 
+TIER 2: EMISSIONS BASED ON CLINKER PRODUCTION DATA 
+ckd
+cl
+cl
+CF
+EF
+M
+CO Emissions
+•
+•
+=
+2
+ 
+Where: 
+Volume 3: Industrial Processes and Product Use  
+2.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CO2 Emissions = emissions of CO2 from cement production, tonnes  
+Mcl = weight (mass) of clinker produced, tonnes 
+EFcl = emission factor for clinker, tonnes CO2/tonne clinker  (See discussion under Section 2.2.1.2, 
+Choice of Emission Factors, for Tiers 1 and 2 below.) This clinker emission factor (EFcl) is not 
+corrected for CKD.  
+CFckd = emissions correction factor for CKD, dimensionless (see Equation 2.5) 
+ 
+The Tier 2 approach is based on the following assumptions about the cement industry and clinker production: 
+1. The majority of hydraulic cement is either portland cement or a similar cement, which requires portland 
+cement clinker;  
+2. There is a very limited range in the CaO composition of clinker and the MgO content is kept very low; 
+3. Plants are generally able to control the CaO content of the raw material inputs and of the clinker within 
+close tolerances;  
+4. Even where the output of clinker is calculated by a plant rather than directly measured, there is generally 
+close agreement between the two determination methods when audits are performed;  
+5. The CaO content of clinker from a given plant tends not to change significantly over the years;  
+6. The main source of the CaO for most plants is CaCO3 and, at least at the plant level, any major non-
+carbonate sources of CaO are readily quantified (see Section 2.2.1.2 below);  
+7. A 100 percent (or very close to it) calcination factor is achieved for the carbonate inputs for clinker 
+manufacture, including (commonly to a lesser degree) material lost to the system as non-recycled CKD; and 
+8. Dust collectors at plants capture essentially all of the CKD, although this material is not necessarily recycled 
+to the kiln.  
+ 
+TIER 3 METHOD: USE OF CARBONATE(S) INPUT DATA  
+Tier 3 is based on the collection of disaggregated data on the types (compositions) and quantities of carbonate(s) 
+consumed to produce clinker, as well as the respective emission factor(s) of the carbonate(s) consumed. 
+Emissions are then calculated using Equation 2.3. The Tier 3 approach includes an adjustment to subtract any 
+uncalcined carbonate within CKD not returned to the kiln. If the CKD is fully calcined, or all of it is returned to 
+the kiln, this CKD correction factor becomes zero. Tier 3 is still considered to be good practice in instances 
+where inventory compilers do not have access to data on uncalcined CKD. However, excluding uncalcined CKD 
+may slightly overestimate emissions.  
+Limestones and shales (raw materials) also may contain a proportion of organic carbon (kerogen), and other raw 
+materials (e.g., fly ash) may contain carbon residues, which would yield additional CO2 when burned. These 
+emissions typically are not accounted for in the Energy Sector, but, if used extensively, inventory compilers 
+should make an effort to see if they are included in the Energy Sector. Currently, however, too few data exist on 
+the kerogen or carbon contents of non-fuel raw materials for mineral processes to allow a meaningful default 
+value related to the average kerogen content of raw materials to be provided in this chapter. For plant-level raw 
+material-based calculations (Tier 3) where the kerogen content is high (i.e., contributes more than 5 percent of 
+total heat), it is good practice to include the kerogen contribution to emissions.  
+The Tier 3 approach will likely only be practical for individual plants and countries that have access to detailed 
+plant-level data on the carbonate raw materials. Emissions data collected on the plant level should then be 
+aggregated for purposes of reporting national emissions estimates. It is recognized that frequent calculations of 
+emissions based on direct analysis of carbonates could be burdensome for some plants. As long as detailed 
+chemical analyses of the carbonate inputs are carried out with sufficient frequency to establish a good correlation 
+between the carbonates consumed at the plant level and the resulting clinker production, the clinker output may 
+then be used as a proxy for carbonates for emissions calculations in the intervening periods. That is, a plant may 
+derive a rigorously-constrained emission factor for the plant’s clinker, based on periodic calibration to the 
+carbonate inputs.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.11 
+EQUATION 2.3 
+TIER 3: EMISSIONS BASED ON CARBONATE RAW MATERIAL INPUTS TO THE KILN 
+∑
+∑
+•
+•
++
+•
+• −
+•
+−
+•
+•
+=
+k
+k
+k
+k
+d
+d
+d
+d
+i
+i
+i
+i
+EF
+X
+M
+EF
+F
+C
+M
+F
+EF M
+CO Emissions
+)
+(
+)
+1(
+)
+(
+2
+ 
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from cement production, tonnes  
+EFi = emission factor for the particular carbonate i, tonnes CO2/tonne carbonate (see Table 2.1) 
+Mi = weight or mass of carbonate i consumed in the kiln, tonnes 
+Fi = fraction calcination achieved for carbonate i, fractiona 
+Md = weight or mass of CKD not recycled to the kiln (= ‘lost’ CKD), tonnes 
+Cd = weight fraction of original carbonate in the CKD not recycled to the kiln, fractionb  
+Fd = fraction calcination achieved for CKD not recycled to kiln, fractiona 
+EFd = emission factor for the uncalcined carbonate in CKD not recycled to the kiln, tonnes CO2/tonne 
+carbonateb 
+Mk = weight or mass of organic or other carbon-bearing nonfuel raw material k, tonnesc 
+Xk = fraction of total organic or other carbon in specific nonfuel raw material k, fractionc 
+EFk = emission factor for kerogen (or other carbon)-bearing nonfuel raw material k, tonnes CO2/tonne 
+carbonatec 
+Notes on defaults for Equation 2.3:  
+a: 
+Calcination fraction: In the absence of actual data, it may be assumed that, at the temperatures and 
+residence times achieved in cement (clinker) kilns, the degree of calcination achieved for all material 
+incorporated in the clinker is 100 percent (i.e., Fi = 1.00) or very close to it. For CKD, a Fd of <1.00 
+is more likely but the data may show high variability and relatively low reliability. In the absence of 
+reliable data for CKD, an assumption of Fd = 1.00 will result in the correction for CKD to equal zero.  
+b:  Because calcium carbonate is overwhelmingly the dominant carbonate in the raw materials, it may be 
+assumed that it makes up 100 percent of the carbonate remaining in the CKD not recycled to the kiln. 
+It is thus acceptable within good practice to set Cd as equal to the calcium carbonate ratio in the raw 
+material feed to the kiln. Likewise, it is acceptable to use the emission factor for calcium carbonate 
+for EFd.  
+c:  The CO2 emissions from non-carbonate carbon (e.g., carbon in kerogen, carbon in fly ash) in the non-
+fuel raw materials can be ignored (set Mk • Xk • EFk = 0) if the heat contribution from kerogen or 
+other carbon is < 5 percent of total heat (from fuels).  
+2.2.1.2 
+CHOICE OF EMISSION FACTORS 
+TIER 1 METHOD 
+In Tier 1, it is good practice to use a default CaO content for clinker of 65 percent; assume that 100 percent of 
+the CaO is from calcium carbonate material; and to incorporate a 2 percent correction factor for CKD (for more 
+discussion on CKD, please refer to the Tier 2 method discussion below.) 
+For the default CaO composition, 1 tonne of clinker contains 0.65 tonnes CaO from CaCO3. This carbonate is 
+56.03 percent CaO and 43.97 percent CO2 by weight (Table 2.1). The amount (X) of CaCO3 needed to yield 0.65 
+tonnes CaO is: X = 0.65/0.5603 = 1.1601 tonnes CaCO3 (unrounded). The amount of CO2 released by calcining 
+this CaCO3 = 1.1601 • 0.4397 = 0.5101 tonnes CO2 (unrounded). Assuming a correction addition of 2 percent to 
+account for CKD, the rounded default emission factor (EFclc) for clinker is:  
+Emissions from 
+carbonates 
+Emissions from 
+carbon-bearing non-
+fuel materials 
+Emissions from 
+uncalcined CKD 
+not recycled to 
+the kiln 
+Volume 3: Industrial Processes and Product Use  
+2.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+EQUATION 2.4 
+EMISSION FACTOR FOR CLINKER 
+.0 52 tonnesCO / tonne clinker
+.1 02 (CKD correction)
+.0 51
+2
+=
+•
+EFclc =
+ 
+Under Tier 1, the default EFclc incorporates the correction for CKD. This should not be confused with EFcl under 
+Tier 2, which does not account for the CKD. EFcl should be multiplied by a correction factor, CFckd (see 
+Equation 2.5) to generate the combined EF for clinker and CKD. 
+TIER 2 METHOD  
+Emission factor for clinker (EFcl) 
+In the Tier 2 method, if sufficient country-specific data on CaO content of clinker and inputs of non-carbonate 
+CaO sources are available, it is good practice to estimate a country-specific CO2 emission factor for clinker. As 
+noted above, the derivation of an emission factor for clinker requires that the CaO content of the clinker be 
+known, as well as the fraction of CaO that was derived from a carbonate source (generally CaCO3). The CaO 
+content of clinker is generally within the range of 60 to 67 percent. At a given plant the CaO content will remain 
+stable to within 1 to 2 percent. The basic default emission factor, as recommended under Tier 1, assumes that the 
+clinker is 65 percent CaO and that this is 100 percent derived from CaCO3 and that 100 percent calcination is 
+achieved in the kiln.  
+The base (i.e., uncorrected for CKD) 0.51 emission factor in Equation 2.4 assumes a 65 percent CaO content in 
+clinker. A similar calculation would yield emission factors for different CaO contents, if these contents are 
+known. For example, for a clinker with 60 percent CaO all derived from CaCO3 the EFcl (not including a 
+correction for CKD) is 0.47, and for 67 percent CaO the EFcl is 0.53.  
+If it is known that a plant is deriving a significant fraction of CaO from a non-carbonate source (such as steel 
+slag or fly ash), then this component of CaO should first be subtracted. For example, if 4 percent of the CaO in a 
+65 percent CaO clinker is from slag, then the CaO from carbonate is 61 percent and the calculation for this yields 
+an EFcl of 0.48.  
+The default emission factor does not include a correction for MgO. For every 1 percent of MgO derived from 
+carbonate the emission factor is an additional 0.011 tonne CO2/tonne clinker (i.e., EFcl = 0.510 + 0.011 = 0.52 
+tonne CO2/tonne clinker). Because MgO also may come from a non-carbonate source and because the MgO is 
+deliberately kept low in portland cement, the true MgO from carbonate is likely to be very small. Given the fact 
+that the assumption of a 100 percent carbonate source for the CaO already yields an overestimation of emissions 
+(there is likely to be at least some contribution of CaO from non-carbonate sources) and the fact that some of the 
+MgO is also likely to be from a non-carbonate source, a correction for MgO is not required for a Tier 2 
+calculation. For uncertainties associated with these assumptions please refer to Table 2.3.  
+Emissions correction factor for cement kiln dust (CFckd) 
+Dust may be generated at various points in the kiln line apparatus used to make clinker. The composition of this 
+dust can vary depending on where it is generated but all may be included under the term ‘cement kiln dust’ 
+(CKD). CKD includes particulates derived from the raw materials, and the original carbonate component of the 
+dust may be incompletely calcined. CKD can be efficiently captured by dust control technology and then 
+recycled to the kiln (the preferred practice), or it may be directly returned to the kiln in the combustion air, or 
+(after capture) it may be disposed of. The degree to which CKD can be recycled to the kiln depends on whether 
+or not this causes a quality problem (e.g., excessive alkali content) with the clinker or subsequent finished 
+cement. Any CKD not recycled to the kiln is considered to be ‘lost’ to the process and emissions associated with 
+it will not be accounted for by the clinker. To the degree that the lost CKD represents calcined carbonate raw 
+materials, the emissions from these calcined raw materials represent an addition to the clinker emissions in the 
+Tier 1 and 2 calculations, and a subtraction in the Tier 3 calculation.  
+As data on the amount of CKD produced may be scarce (except possibly for plant-level reporting), estimating 
+emissions from lost CKD based on a default value can be considered good practice. The amount of CO2 from 
+lost CKD can vary, but ranges typically from about 1.5 percent (additional CO2 relative to that calculated for 
+clinker) for a modern plant to about 20 percent for a plant losing a lot of highly calcinated CKD (van Oss, 2005). 
+In the absence of data, the default CKD correction factor (CFckd) is 1.02 (i.e., add 2 percent to the CO2 calculated 
+for clinker). If no calcined CKD is believed to be lost to the system, the CKD correction factor will be 1.00 (van 
+Oss, 2005). In addition to CKD, the World Business Council for Sustainable Development (WBCSD) separately 
+addresses emissions from bypass dust (which is fully calcined). If the data are available, countries may refer to 
+the WBCSD Protocol to estimate these emissions (WBCSD, 2005).  
+Where data are available, a correction factor (CFckd in Equation 2.2) for the ‘lost’ CO2 emissions can be 
+calculated using Equation 2.5.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.13 
+The CKD correction factor (CFckd) for use in Equation 2.2 can be derived as: 
+EQUATION 2.5 
+CORRECTION FACTOR FOR CKD NOT RECYCLED TO THE KILN 
+)
+(
+)
+(
+1
+cl
+c
+d
+d
+cl
+d
+ckd
+EF
+EF
+F
+C
+M
+M
+CF
+•
+•
+•
+= +
+ 
+Where: 
+CFckd = emissions correction factor for CKD, dimensionless 
+Md = weight of CKD not recycled to the kiln, tonnesa 
+Mcl = weight of clinker produced, tonnes 
+Cd = fraction of original carbonate in the CKD (i.e., before calcination), fractionb 
+Fd = fraction calcination of the original carbonate in the CKD, fractionb 
+EFc = emission factor for the carbonate (Table 2.1), tonnes CO2/tonne carbonate 
+EFcl = emission factor for clinker uncorrected for CKD (i.e., 0.51 tonnes CO2/tonne clinker), tonnes 
+CO2/tonne clinker 
+Notes:  
+a:  It is assumed that 100 percent of the CKD is first captured. If any CKD vents to the atmosphere, an 
+estimate of this quantity must be made and included in the Md. 
+b:  It is acceptable to assume that the original carbonate is all CaCO3 and that the proportion of original 
+carbonate in the CKD is essentially the same as that in the raw mix kiln feed. 
+For example, for Md/Mcl = 0.2, Cd = 0.85, Fd = 0.5, original carbonate all CaCO3 (hence EFc = 0.4397 tonne 
+CO2/tonne carbonate), and EFcl = default value of 0.51 tonne CO2/tonne clinker, the CFckd = 1.073 (unrounded) - 
+that is, this represents about a 7 percent addition to the CO2 calculated for the clinker alone. 
+TIER 3 METHOD  
+The Tier 3 emission factors are based on the actual CO2 contents of the carbonates present (see Equation 2.3 and 
+Table 2.1). The Tier 3 approach requires the full accounting of carbonates (species and sources).  
+2.2.1.3 
+CHOICE OF ACTIVITY DATA 
+TIER 1 METHOD 
+In Tier 1, national-level (or where available, plant-level), data should be collected on the types of cement 
+produced and the clinker fraction of the cement in order to estimate clinker production. Most hydraulic cement 
+produced worldwide is either portland cement, or blended (composite) cements based on portland cement (i.e., 
+portland cement (or clinker) plus pozzolanic or cementitious additives) or masonry-type cements (portland 
+cement plus plasticizing materials such as ground limestone). If cement production cannot be disaggregated by 
+type and it is suspected that significant amounts of blended and/or masonry cements are being produced in 
+addition to portland cement, it is acceptable within good practice to assume an overall clinker fraction of 75 
+percent. If cement production is known to be essentially all portland cement, then it is good practice to use a 
+default value of 95 percent clinker. Unfortunately, even if the types of cement produced in the country are 
+known, there can be large variability in the clinker fraction of cement within a given blended or masonry cement 
+type. Table 2.2 provides an illustration of the range of clinker fractions in various cement types. For additional 
+information see DIN (1994) and ASTM (2004a, 2004b). Countries should document clearly any assumptions 
+about the composition of cement and the clinker fraction used to estimate emissions. 
+ 
+Volume 3: Industrial Processes and Product Use  
+2.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 2.2 
+CLINKER FRACTION OF BLENDED CEMENT ‘RECIPES’ AND OVERALL PRODUCT MIXES (BASED ON U.S. STANDARDS ASTM 
+C-150 AND C-595; U.S. DATA MAY BE ILLUSTRATIVE FOR OTHER COUNTRIES) 
+ 
+Cement Name 
+Symbol 
+Recipe 
+% Clinker
+Notes 
+ 
+Portland 
+‘PC’ 
+100% PC 
+95 - 97 
+90 - 92 
+Some U.S. states allow inclusion of 3% GGBFS. 
+Latest standards allow inclusion of ≤ 5% ground limestone.
+ 
+Masonry 
+‘MC’ 
+2/3 PC 
+64 
+varies considerably 
+ 
+Slag-modified portland 
+I(SM) 
+slag < 25% 
+>70 - 93 
+ 
+ 
+Portland BF Slag 
+IS 
+slag 25-70%
+28 - 70 
+ 
+ 
+Portland pozzolan 
+IP and P 
+pozz 15-40%
+28 - 79/81
+base is PC and/or IS 
+ 
+Pozzolan-modified portland
+I(PM) 
+pozz <15% 
+28 - 93/95
+base is PC and/or IS 
+ 
+Slag cement 
+S 
+slag 70+% 
+<28/29 
+can use CaO instead of clinker 
+ 
+ 
+ 
+PERCENT CLINKER IN THE PRODUCT MIX 
+Percent Additives (Pozzolan + Slag) in the Blended Cement* 
+ 
+Product Mix (PC/blend)**
+0% 
+10% 
+20% 
+30% 
+40% 
+75% 
+ 
+100/0 
+95 - 97 
+0 
+0 
+0 
+0 
+0 
+ 
+0/100 
+0 
+85.5 
+76 
+66.5 
+57 
+23.8 
+ 
+15/85 
+14.2 
+86.9 
+78.9 
+70.8 
+62.7 
+26.4 
+ 
+25/75 
+23.8 
+87.9 
+80.8 
+73.6 
+66.5 
+41.6 
+ 
+30/70 
+28.5 
+88.35 
+81.7 
+75.1 
+68.4 
+45.2 
+ 
+40/60 
+38 
+89.3 
+83.6 
+77.9 
+72.2 
+52.3 
+ 
+50/50 
+47.5 
+90.3 
+85.5 
+80.8 *** 
+76 
+59.4 
+ 
+60/40 
+57 
+91.2 
+87.4 
+83.6 
+79.8 
+66.5 
+ 
+70/30 
+66.5 
+92.2 
+89.3 
+86.5 
+83.6 
+73.6 
+ 
+75/25 
+71.1 
+92.6 
+90.1 
+87.8 
+85.4 
+77.1 
+ 
+85/15 
+80.8 
+93.6 
+92.2 
+90.7 
+89.3 
+84.3 
+Notes: 
+* The inclusion of slag allows for the blend to be portland and/or portland blast furnace slag cement. 
+Except for 100 percent portland range itself, all other portland assumed to be 95 percent clinker. 
+** Product Mix refers to range of products of a country, e.g., 75 percent of total production is portland and the rest is blended. 
+It is assumed that all the hydraulic cement is portland and/or blended, or pure pozzolan. Masonry would approximate a product mix of 
+60/40 to 70/30 portland/blended, for the 75 percent additive column. Other hydraulic cements (e.g., aluminous) are assumed to be zero. 
+*** Example: Clinker fraction where a country's cement output is 50 percent portland cement and 50 percent blended cement, and the 
+blended cement contains 70 percent portland cement and 30 percent additives. 
+ 
+Tier 1 also requires a correction for imports and exports of clinker. Data on the quantity of clinker imported and 
+exported from a country are usually available from national customs agencies, the United Nations, national 
+cement associations or trade associations and/or departments of commerce. The typical tariff codes in use for 
+clinker trade are 661.21 (SITC) and 2523.10.00 (HTS). It is important to distinguish trade data for clinker itself 
+from those for the combined category of hydraulic cement and clinker: [codes 661.2 (SITC) and 25.23.0000 
+(HTS)], and from data on cement imports: [codes 661.22 – 661.29 (SITC) and 2523.21 – 2523.90 (HTS)]. 
+TIER 2 METHOD 
+The Tier 2 method requires collection of clinker production data. It is suggested that if national surveys currently 
+canvass cement production data, the inventory compiler should investigate the possibility of expanding them to 
+collect clinker production data. It is good practice to collect clinker production data directly from national 
+statistics or, preferably, from individual plants. It is also suggested that inventory compilers collect information 
+on the CaO content of the clinker and the fraction of this CaO from carbonate. Where data are available on CaO 
+from non-carbonate sources (e.g., slags and fly ash), this CaO should not be included in the CaO content of 
+clinker used for calculating emissions. If possible, data should be collected to document CKD collection and 
+recycling practices at the plants and likewise on the average or typical composition and calcination fraction of 
+the CKD. Collecting data from individual producers (if complete), rather than using national totals, will reduce 
+the uncertainty of the estimate because these data will account for variations in plant level conditions.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.15 
+TIER 3 METHOD 
+The type of activity data required for Tier 3 is likely available only at individual plants. Any reporting entity 
+using Tier 3 should ensure that all carbonate inputs (i.e., types, amounts, all sources) to the kiln are fully 
+investigated as part of the initial implementation of the Tier 3 method, and the full investigation repeated 
+whenever there is any significant change in materials or processes. After a full analysis of the carbonate inputs is 
+completed, and assuming that no significant change in the composition of materials or production process takes 
+place, it is consistent with good practice to develop a rigorous plant-specific emission factor based on the 
+carbonate input analysis and apply that emission factor to clinker production (which is typically calculated daily). 
+Subsequently, the clinker production data may then be used as a proxy for the carbonate calculations to estimate 
+emissions. To be consistent with good practice, this linkage should be periodically recalibrated. 
+In general, limestone or similar carbonate rocks will be the dominant (80-90 percent) raw materials used at a 
+typical cement plant, and these data should be collected annually. However it is likely that there could be a 
+carbonate component within clay, shale, sandstone, and other supplementary raw materials, as well as in coal 
+and perhaps some other fuels. If, during the full investigation, it is determined that the amount of carbonates 
+from non-major sources is small (e.g., less than 5 percent of total carbonate) the plant can apply a constant value 
+for the minor source(s) in intervening years before the next full investigation. Recognizing that estimating 
+activity data for these smaller sources may lead to analytical (and other) errors, it may be assumed for emission 
+calculation purposes that the minor source of carbonate is CaCO3, but this assumption should be transparently 
+documented.  
+Activity data should exclude any carbonates that are not fed into the kiln but are merely introduced into the 
+finish (grinding) mill. For example, a plant may ‘dilute’ its finished portland cement by blending in a small 
+percentage (1-5 percent) of ground limestone. Carbonates added in the finish mill are not calcined and so do not 
+contribute CO2.  
+2.2.1.4 
+COMPLETENESS 
+When following a Tier 1 method, inventory compilers should be sure to account for imports and exports of 
+clinker. For countries that are net importers of clinker, failure to deduct the net clinker imports would result in an 
+overestimation of emissions from cement production. For countries that are net exporters of clinker, failure to 
+include the net exports would result in an underestimation of emissions from the cement plants. Potential sources 
+of trade data are discussed in Section 2.2.1.3. 
+Clinker production data may be available in national statistical databases, or could be collected, even if such data 
+have not been published in national statistics. Cement and/or clinker production data from national statistics may 
+not be complete in some countries where a substantial part of production comes from numerous small kilns, 
+particularly vertical shaft kilns, for which data are difficult to obtain.  
+Completeness is a particularly important issue to consider where plant specific data are used to estimate national 
+emissions using Tier 3. Under Tier 3, it is important that all clinker-producing plants are considered, and that all 
+carbonates consumed to make clinker are included in the emission calculation. Clinker production plants are well 
+identified in each country, but data on the fraction weight of carbonate(s) consumed may not be readily available. 
+In order for the Tier 3 method to be considered ‘complete’, all carbonates consumed must be recorded.  
+In countries where only a subset of clinker plants report data for the Tier 3 method or where there is a transition 
+from Tier 2 to Tier 3, it may not be possible to report emissions using a Tier 3 for all facilities during the 
+transition. Where data on the carbonate inputs are not available for all plants to report using Tier 3, it may be 
+possible to determine the share of production represented by non-reporting plants and use this information to 
+estimate the remaining emissions using Tier 2 in order to ensure completeness during the transition period. A 
+similar approach could be undertaken as a country moves from Tier 1 to Tier 2.  
+The potential for double counting also should be considered. For example, inventory compilers should review 
+statistics used to estimate emissions from the source category ‘Other Process Uses of Carbonates’ to ensure that 
+emissions reported in that source category do not result from the use of these carbonates in cement production. 
+Where carbonates are used for cement production, the emission should be reported under Cement Production. 
+Finally, inventory compilers should include only process-related emissions from cement production in this 
+source category. To avoid double-counting, it is good practice to account for combustion-related emissions in 
+the Energy volume. 
+There is one additional issue that, while not included in the current methodology, may become relevant for 
+consideration in the future. Free lime (CaO not part of the formulae of the clinker minerals mentioned above) 
+released during the curing of concrete (i.e., from the hydration of the clinker minerals) can potentially re-absorb 
+atmospheric CO2 - a process called carbonation. However, the rate of carbonation is very slow (years to centuries) 
+Volume 3: Industrial Processes and Product Use  
+2.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+and, as a practical matter, should not be considered for good practice. This is an area for future work before 
+inclusion into national inventories. 
+2.2.1.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+These Guidelines introduce two changes in the estimation of emissions from cement production. First, under Tier 
+1, the default emission factor now includes a correction factor for CKD of 2 percent. The correction factor for 
+CKD is now included in Tier 1 because it better reflects the sources of emissions during clinker production It is 
+good practice to recalculate previous Tier 1 emissions estimates using the emission factor presented in Section 
+2.2.1.2.  
+Also, a new Tier 3 approach based on carbonate inputs to clinker production has been introduced. These data 
+may or may not be available historically. If the inventory compiler chooses to implement Tier 3 (vs. a historical 
+Tier 2 approach) for current and future inventories, they are encouraged to collect these data for historical years 
+to ensure time series consistency. Where these data are not available, the inventory compiler may refer to the 
+‘Overlap approach’ (see Volume 1, Section 5.3) to attempt to recalculate previous estimates. The relationship 
+between emissions estimated from the carbonate input approach (Tier 3) and the output-based clinker production 
+approach (Tier 2) should be relatively constant over time for a given plant, but may fail if the number of plants 
+or their technologies or raw materials has changed significantly over time. Once that relationship is established, 
+previous estimates can be recalculated based on this relationship (see Volume 1, Section 5.3). A similar approach 
+could be used where inventory compilers move from a Tier 1 to a Tier 2 approach.  
+2.2.2 
+Uncertainty assessment  
+Uncertainty estimates for cement production result predominantly from uncertainties associated with activity 
+data, and to a lesser extent from uncertainty related to the emission factor for clinker. 
+2.2.2.1 
+EMISSION FACTOR UNCERTAINTIES 
+For Tier 1, the major uncertainty component is the clinker fraction of the cement(s) produced. If reliable clinker 
+import and export data are not available, then the uncertainty of the clinker production estimate will be higher. 
+Although the default CKD correction factor itself has a very large uncertainty, its effect on the overall emissions 
+calculation is still less than the uncertainty associated with the clinker fraction. Under Tier 2, the major source of 
+uncertainty is associated with determining the CaO content of clinker. If clinker data are available, the 
+uncertainty of the emission factor is equal to the uncertainty of the CaO fraction and the assumption that it was 
+all derived from CaCO3 (Table 2.3). For Tier 3, there is relatively little uncertainty associated with the emission 
+factors of the source carbonates because they are based on stoichiometric ratios. There may be some uncertainty 
+associated with assuming, in Tier 3, that there is 100 percent calcination of carbonates in the CKD.  
+In general, CKD is the least characterised factor for estimating CO2 emissions from cement production, 
+regardless of the Tier implemented.  
+2.2.2.2 
+ACTIVITY DATA UNCERTAINTIES 
+Where clinker production data are estimated from cement production, the uncertainty of the activity data can be 
+as high as about 35 percent. For Tier 2, the uncertainty in data on clinker production tonnages, when available, is 
+about 1-2 percent. Collecting data from individual producers (if complete) rather than using national totals will 
+reduce the uncertainty of the estimate because these data will account for variations in conditions at the plant 
+level. This is particularly important for determining possible differences in clinker composition and irregularities 
+in annual production (i.e. using clinker stockpiles instead of production to produce cement at various times). 
+Except for CKD the greatest sources of uncertainty associated with Tier 3 are the uncertainties associated with 
+identification of carbonate species (1-5 percent) and the weight of raw materials.  
+Although emissions are much smaller than from carbonates, there may be considerable uncertainty associated 
+with estimating emissions from CKD in Tier 2 estimates, and also in Tier 3 if plants do not weigh the CKD that 
+is not recycled to the kiln or if the plants lack CKD scrubbers. Where the weight and composition of CKD are 
+unknown for a plant, the uncertainty will be higher. As an example, an attempt has been made to estimate the 
+approximate uncertainties for different factors in Equations 2.1-2.5 and/or the steps in the manufacture of clinker 
+and cement. The uncertainties are presented in Table 2.3 and are approximate component uncertainties - that is, 
+they are those associated with a particular step or activity in clinker manufacturing. In order to quantify 
+uncertainty for cement (clinker) production, the default uncertainties provided in Table 2.3 should be combined 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.17 
+according to the guidance in Volume 1, Section 3.2.3. Where ranges are given for the uncertainty values, the 
+mid-range should be used unless country-specific or plant-specific circumstances suggest that another value 
+should be used.  
+ 
+TABLE 2.3 
+DEFAULT UNCERTAINTY VALUES FOR CEMENT PRODUCTION 
+Uncertaintya 
+Comment 
+Tier
+Chemical Analysis/Composition 
+2-7% 
+Assumption of 95% clinker factor in portland cement 
+1 
+1-2% 
+Chemical analysis of clinker to determine CaO 
+2 
+3-8% 
+Assumption of 65% CaO in clinker 
+2 
+1-3% 
+Assumption that 100% CaO is from CaCO3 (uncertainty is higher if ash or slag feeds are used but 
+not accounted for.) 
+2 
+1% 
+Assumption of 100% calcination of carbonate destined to become clinker 
+2, 3
+1-3% 
+Kerogen (or other non-carbonate carbon) determination 
+3 
+1-3% 
+Overall chemical analysis pertaining to carbonate content (mass) & type 
+3 
+1-5% 
+Assumption that the carbonate species is 100% CaCO3 
+3 
+Production Data 
+1-2% 
+Reported (plant-level) cement production data 
+1 
+35% 
+Assumption that country output is 100% portland cement 
+1 
+10% 
+Use of estimated country (or aggregated plant) production data (national statistics). 
+1, 2
+Variable 
+Use of reported but rounded weight data in cement or clinker (e.g., national-level reporting in 
+large units); uncertainty is one unit in last significant digit shown) 
+1, 2
+1-2% 
+Weighing or calculation of clinker production, assumes complete reporting 
+2 
+1-3% 
+Uncertainty of plant-level weighing of raw materials 
+3 
+CKD 
+25-35% 
+Default assumption that emissions from CKD are 2% of process-related emissions from clinker 
+production. Uncertainty assumes that 33-50% of clinker not recycled. If no recycling takes place 
+or if the calcination percentage significantly exceeds 50%, uncertainty could be 50% or more  
+ 
+1% 
+Assumption that original components in CKD are same as raw mix 
+2, 3
+1% 
+Assumption that all carbonate (calcined or remaining) in CKD is CaCO3 
+2, 3
+10-35% 
+Estimation of % calcination of CKD 
+2, 3
+20-80% 
+Assumption of 100% calcination of CKD 
+2, 3
+up to 60% 
+Assumption of 50% calcination of CKD 
+2, 3
+5% 
+Weighing of CKD captured by scrubbers 
+2, 3
+1-3% 
+Weighing of scrubber-captured CKD returned to kiln 
+2, 3
+5-10% 
+Weighing of scrubber-captured CKD not recycled to kiln (other disposal) 
+2, 3
+10-15% 
+Estimation of weight of CKD automatically rerouted to kiln 
+2, 3
+20-30% 
+Estimation of weight of CKD if none is recovered or scrubbed 
+2, 3
+Imports/Exports 
+10% 
+Trade data for clinker (if tariff codes are correctly isolated and cement is not included) 
+1 
+50% of import 
+tonnage 
+Overestimation from failure to deduct for net clinker imports for consumption (this is because, 
+per Equation 2.4, CO2 is approximately one half the weight of clinker)  
+1 
+a Estimates are based on expert judgement.  
+ 
+Volume 3: Industrial Processes and Product Use  
+2.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.2.3 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+2.2.3.1 
+QUALITY ASSURANCE/QUALITY CONTROL (QA/QC) 
+In addition to the general guidance on QA/QC, specific procedures of relevance to this source category are 
+outlined below. 
+COMPARISON OF EMISSIONS ESTIMATES USING DIFFERENT 
+APPROACHES 
+Comparisons could be made between emissions estimated using different tiers. For example, if a bottom-up 
+approach is used to collect activity data (i.e., collection of plant-specific data), then inventory compilers should 
+compare the emissions estimates to the estimates calculated using national production data for cement or clinker 
+(top-down approach). In cases where a hybrid Tier 1/2 or Tier 2/3 approach is used during a transition period, it 
+is considered good practice also to estimate emissions for all facilities using the lower Tier in order to compare 
+the results of the analysis to the results derived using the hybrid approach. The results of such comparisons 
+should be recorded for internal documentation, including explanations for any discrepancies.  
+REVIEW OF EMISSION FACTORS 
+Inventory compilers should compare aggregated national emission factors with the IPCC default factors in order 
+to determine if the national factor is reasonable relative to the IPCC default. Differences between national factors 
+and default factors should be explained and documented, particularly if they are representative of different 
+circumstances.  
+If the aggregated top-down approach is used, but some limited plant-specific data are available, inventory 
+compilers should compare the site or plant level factors with the aggregated factor used for the national estimate. 
+This will provide an indication of the reasonableness and the representativity of the data. 
+SITE-SPECIFIC ACTIVITY DATA CHECK 
+For site-specific data, inventory compilers should review inconsistencies between sites to establish whether they 
+reflect errors, different measurement techniques, or result from real differences in emissions, operational 
+conditions or technology. For cement production, inventory compilers should compare plant data (content of 
+CaO in clinker, content of clinker in cement) with other plants in the country. 
+Inventory compilers should ensure that emission factors and activity data are developed in accordance with 
+internationally recognised and proven measurement methods. If the measurement practices fail this criterion, 
+then the use of these emissions or activity data should be carefully evaluated, uncertainty estimates reconsidered 
+and qualifications documented. If there is a high standard of measurement and QA/QC in place at most sites, 
+then the uncertainty of the emissions estimates may be revised downwards.  
+2.2.3.2 
+REPORTING AND DOCUMENTATION 
+It is good practice to document and archive all information required to produce the national emissions inventory 
+estimates. Specific documentation and reporting relevant to this source category follow. 
+TIER 1 METHOD 
+In addition to cement production data, the quantity of clinker imports and exports also should be reported. Any 
+information regarding the CaO content of clinker should be documented, including use of default values 
+different from those discussed in section 2.2.1.2.  
+TIER 2 METHOD 
+Tier 2 documentation should include a description of how clinker production was estimated by the reporting 
+entity (i.e., directly weighed, weight determined by volume of clinker pile, calculated from raw material inputs, 
+etc.) and at what level the activity data were collected (i.e., plant level or national level). The method (e.g., 
+country specific or IPCC default) for determining the CaO content of clinker should be documented along with 
+any plant-specific information regarding the quantity and type of non-carbonate feeds to the kiln, such as slags or 
+fly ash. All procedures used to quantify and determine the degree of calcination of CKD should be documented. 
+Where the assumption that emissions of CKD are equal to 2 percent of emissions from clinker production is 
+made, this should be transparently reported.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.19 
+TIER 3 METHOD 
+When documenting the Tier 3 method it is important to document all the procedures undertaken and 
+methodologies used to identify the weight fraction and identities of all carbonates, including carbonates 
+incorporated in any clay, shales, sandstone or other supplementary raw materials, consumed as raw materials, 
+along with the corresponding emission factors.  
+Estimating total emissions from carbonate inputs can overestimate emissions if the carbonates are not fully 
+calcined. Any corrections should be documented. This includes documenting the fraction calcination of the raw 
+materials and the quantity and fraction calcination of the CKD.  
+It is likely that plants will find it impractical to undertake chemical analyses of all raw material inputs on a daily 
+basis for the purpose of CO2 calculations. Instead, a full investigation will take place at each facility on a number 
+of occasions throughout the year to fully characterise the carbonate inputs. Facilities will likely develop a 
+relationship between carbonate input and clinker production that will be applied to the plant’s routine calculation 
+of clinker output for intervening periods. In addition to identifying all procedures used to calculate emissions 
+from the carbonate inputs, all steps necessary to identify the relationship between carbonate input and clinker 
+production should be documented. 
+All underlying information should be documented and reported, it is not considered good practice to report just 
+final emissions estimates. 
+ 
+2.3 
+LIME PRODUCTION  
+2.3.1 
+Methodological issues  
+Calcium oxide (CaO or quicklime) is formed by heating limestone to decompose the carbonates. This is usually 
+done in shaft or rotary kilns at high temperatures and the process releases CO2. Depending on the product 
+requirements (e.g., metallurgy, pulp and paper, construction materials, effluent treatment, water softening, pH 
+control, and soil stabilisation), primarily high calcium limestone (calcite) is utilized in accordance with the 
+following reaction:  
+CaCO3 (high-purity limestone) + heat � CaO (quicklime) + CO2  
+ 
+Dolomite and dolomitic (high magnesium) limestones may also be processed at high temperature to obtain 
+dolomitic lime (and release CO2) in accordance with the following reaction: CaMg(CO3)2 (dolomite) + heat � 
+CaO·MgO (dolomitic lime) + 2CO2. At some facilities, hydrated (slaked) lime also is produced, using additional 
+hydration operations. 
+The production of lime involves a series of steps, including the quarrying of raw materials, crushing and sizing, 
+calcining the raw materials to produce lime, and (if required) hydrating the lime to calcium hydroxide.  
+The consumption of lime as a product may in some cases not result in net emissions of CO2 to the atmosphere. 
+The use of hydrated lime for water softening, for example, results in CO2 reacting with lime to re-form calcium 
+carbonate, resulting in no net emissions of CO2 to the atmosphere. Similarly, precipitated calcium carbonate, 
+which is used in the paper industry as well as for other industrial applications, is a product derived from reacting 
+hydrated high-calcium quicklime with CO2. During the process of sugar refining, lime is used to remove 
+impurities from the raw cane juice; any excess lime can be removed through carbonation. Any recarbonation in 
+these specific industries may be calculated and reported only where proven and validated methods are used to 
+calculate the amount of CO2 that reacts with lime to re-form calcium carbonate. Where these conditions are met, 
+this may be reported under Category 2H, Other. 
+As discussed in Section 2.3.1.3, lime kiln dust (LKD) may be generated during the production of lime. Emission 
+estimates developed using Tier 2 and Tier 3 should account for emissions associated with the LKD. 
+2.3.1.1 
+CHOICE OF METHOD 
+As is the case for emissions from cement production, there are three basic methodologies for estimating 
+emissions from lime production: an output-based approach that uses default values (Tier 1), an output-based 
+approach that estimates emissions from CaO and CaO·MgO production and country-specific information for 
+correction factors (Tier 2) and an input-based carbonate approach (Tier 3). Unlike the Tier 3 method which 
+Volume 3: Industrial Processes and Product Use  
+2.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+requires a plant-specific assessment, the Tier 1 and Tier 2 methods can be applied either to national, or where 
+possible, plant statistics. The choice of good practice method depends on national circumstances, as shown in 
+Figure 2.2. 
+It is good practice to assess the available national statistics for completeness, and for the ratio of limestone to 
+dolomite used in lime production. Some industries produce non-marketed lime reagents for their own processes 
+(e.g., the iron and steel industry for use as a slagging agent). All lime production, whether produced as a 
+marketed or a non-marketed product should be reported under IPCC Subcategory 2A2 Lime Production.  
+Figure 2.2 
+Decision tree for estimation of CO2 emissions from lime production  
+Start
+Are data
+available for carbonate
+inputs?
+Is this a key
+category1?
+Are national or
+plant level data available on types 
+of lime produced?
+Yes
+No
+No
+Collect data for the Tier 3
+or Tier 2 method.
+Collect facility-specific activity data
+on carbonates consumed (their chemical 
+composition and calcination achieved) 
+and relevant emission
+factors as basis for Tier 3 method.
+Collect data on quantity of different 
+types of lime produced and calculate 
+relevant emission factors.
+Apply correction factors.
+Use fraction for quantity of
+lime produced by type and apply 
+respective default emission factors.
+Yes
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Yes
+No
+ 
+ 
+TIER 1 METHOD  
+The Tier 1 method is based on applying a default emission factor to national level lime production data. While 
+country-specific information on lime production by type (e.g., high calcium lime, dolomitic lime, or hydraulic 
+lime) is not necessary for good practice in Tier 1, where data are available to identify the specific types of lime 
+produced in the country, this may be used. It is not necessary for good practice to account for LKD in Tier 1. 
+TIER 2 METHOD 
+Where national level data are available on the types of lime produced, it is good practice to estimate emissions 
+using Equation 2.6. The Tier 2 method requires country-specific information on the proportion of hydrated lime 
+produced. Typical plant-level ratios of lime product to LKD production should be obtained. 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.21 
+EQUATION 2.6 
+TIER 2: EMISSIONS BASED ON NATIONAL LIME PRODUCTION DATA BY TYPE 
+∑
+•
+•
+•
+=
+i
+h i
+lkd i
+l i
+lime i
+C
+CF
+M
+EF
+CO Emissions
+)
+(
+,
+,
+,
+,
+2
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from lime production, tonnes  
+EF lime,i = emission factor for lime of type i, tonnes CO2/tonne lime (see Equation 2.9)  
+Ml,i = lime production of type i, tonnes 
+CF lkd,i = correction factor for LKD for lime of type i, dimensionless  
+This correction can be accounted for in a similar way as for CKD (Equation 2.5, but omitting the 
+factor (Efc/EFcl)) 
+Ch,i = correction factor for hydrated lime of the type i of lime, dimensionless (See discussion under 
+Section 2.3.1.3, Choice of Activity Data.) 
+i = each of the specific lime types listed in Table 2.4 
+TIER 3 METHOD 
+Tier 3 is based on the collection of plant-specific data on the type(s) and quantity(ies) of carbonate(s) consumed 
+to produce lime, as well as the respective emission factor(s) of the carbonate(s) consumed. The Tier 3 method to 
+estimate emissions from lime production is similar to Equation 2.3 for cement production, except there is a 
+correction for LKD, as opposed to CKD and there is no need to correct for emissions from carbon-bearing non-
+fuel materials. Unlike the case with CKD and cement kilns, LKD is seldom recycled to the lime kiln (but LKD 
+can be used as a feed to a cement kiln). For purposes of estimating emissions in Equation 2.7 it is assumed that 
+no LKD is recycled to the kiln.  
+EQUATION 2.7 
+TIER 3: EMISSIONS BASED ON CARBONATE INPUTS 
+∑
+•
+−
+•
+•
+−
+•
+•
+=
+i
+d
+d
+d
+d
+i
+i
+i
+EF
+F
+C
+M
+F
+M
+EF
+CO Emissions
+)
+1(
+)
+(
+2
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from lime production, tonnes  
+EFi = emission factor for carbonate i, tonnes CO2/tonne carbonate (see Table 2.1) 
+Mi = weight or mass of carbonate i consumed, tonnes  
+Fi = fraction calcination achieved for carbonate i, fractiona 
+Md = weight or mass of LKD, tonnes 
+Cd = weight fraction of original carbonate in the LKD, fractiona. This factor can be accounted for in a 
+similar way as CKD. 
+Fd = fraction calcination achieved for LKD, fractiona 
+EFd = emission factor for the uncalcined carbonate in LKD, tonnes CO2/tonne carbonateb 
+Notes on defaults for Equation 2.7  
+a: 
+Calcination fractions: In the absence of actual data, it is consistent with good practice to assume that 
+the degree of calcination achieved is 100 percent (i.e., Fi = 1.00) or very close to it. For LKD, a Fd of 
+<1.00 is more likely but the data may show high variability and relatively low reliability. In the 
+absence of reliable data for LKD, an assumption of Fd = 1.00 will zero out the subtraction correction 
+for uncalcined carbonate remaining in LKD.  
+b:  Because calcium carbonate is overwhelmingly the dominant carbonate in the raw materials, in the 
+absence of better data it may be assumed that it makes up 100 percent of the carbonate remaining in 
+the LKD. It is thus consistent with good practice to set Cd equal to the calcium carbonate ratio in the 
+raw material feed to the kiln. Likewise, in the absence of better data it is consistent with good 
+practice to use the emission factor for calcium carbonate for EFd.  
+Volume 3: Industrial Processes and Product Use  
+2.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.3.1.2 
+CHOICE OF EMISSION FACTORS 
+TIER 1 METHOD 
+Tier 1 is an output-based method and applies an emission factor to the total quantity of lime produced. The 
+emission factor is based on the stoichiometric ratios illustrated in Table 2.4, which vary depending on the type of 
+lime produced. The stoichiometric ratio is the amount of CO2 released by the carbonate precursor to the lime, 
+assuming that the degree of calcination was 100 percent and assuming no LKD. For example, 1 tonne of CaO 
+requires the calcination of 1.785 tonnes of CaCO3 and this releases 0.785 tonne CO2 if fully calcined. 
+ In the absence of country specific data, it is good practice to assume 85 percent production of high calcium lime 
+and 15 percent production of dolomitic lime (Miller, 1999). Based on this, Equation 2.8 illustrates how to 
+calculate the Tier 1 emission factor for lime production.  
+EQUATION 2.8 
+TIER 1 DEFAULT EMISSION FACTOR FOR LIME PRODUCTION 
+75tonnes CO / tonne lime produced
+.0
+.0 1155
+6375
+.0
+.0 77
+.0 15
+.0 75
+85
+.0
+.0 15
+85
+.0
+2
+=
++
+=
+•
++
+•
+=
+•
++
+•
+=
+a
+dolomitic lime
+high calcium lime
+Lime
+EF
+EF
+EF
+ 
+Notes on defaults in Equation 2.8 
+a: The default EF for dolomitic lime may be 0.86 or 0.77 depending on the technology used for lime 
+production. See Table 2.4.  
+ 
+TABLE 2.4 
+BASIC PARAMETERS FOR THE CALCULATION OF EMISSION FACTORS FOR LIME PRODUCTION 
+Lime Type 
+Stoichiometric 
+Ratio 
+[tonnes CO2 per 
+tonne CaO or 
+CaO·MgO] 
+(1) 
+Range of 
+CaO 
+Content [%]
+Range of 
+MgO 
+Contentd 
+[%] 
+Default Value 
+for CaO or 
+CaO·MgO 
+Content 
+[fraction] 
+(2) 
+Default  
+Emission Factor
+[tonnes CO2 per 
+tonne lime] 
+ 
+(1) • (2) 
+High-calcium limea 
+0.785 
+93-98 
+0.3-2.5 
+0.95 
+0.75 
+Dolomitic lime b  
+0.913 
+55-57 
+38-41 
+0.95 or 0.85c 
+0.86 or 0.77c 
+Hydraulic lime b 
+0.785 
+65-92e 
+NA 
+0.75e 
+0.59 
+Source:  
+a Miller (1999b) based on ASTM (1996) and Schwarzkopf (1995).  
+b Miller (1999a) based on Boynton (1980). 
+c This value depends on technology used for lime production. The higher value is suggested for developed countries, the lower for 
+developing ones. 
+d There is no exact chemical formula for each type of lime because the chemistry of the lime product is determined by the chemistry of 
+the limestone or dolomite used to manufacture the lime. 
+e Total CaO content (including that in silicate phases). 
+ 
+TIER 2 METHOD 
+Similar to Tier 1, the emission factor for lime production in Tier 2 reflects the stoichiometric ratios between CO2 
+and CaO and/or CaO·MgO, and an adjustment to account for the CaO or the CaO·MgO content of the lime. 
+However, unlike Tier 1, Tier 2 requires the use of national level data on lime production by type. It is good 
+practice to apply Equation 2.9 to develop the emission factors and to account for the CaO or the CaO·MgO 
+content. 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.23 
+EQUATION 2.9 
+TIER 2 EMISSION FACTORS FOR LIME PRODUCTION 
+CaO Content
+SR
+EF
+CaO
+lime,a
+•
+=
+ 
+CaO MgO Content
+SR
+EF
+CaO MgO
+lime,b
+⋅
+•
+=
+⋅
+ 
+CaO Content
+SR
+EF
+CaO
+lime,c
+•
+=
+ 
+Where:  
+EFlime a = emission factor for quicklime (high-calcium lime), tonnes CO2/tonne lime 
+EFlime b = emission factor for dolomitic lime, tonnes CO2/tonne lime 
+EFlime c = emission factor for hydraulic lime, tonnes CO2/tonne lime 
+SRCaO = stoichiometric ratio of CO2 and CaO (see Table 2.4), tonnes CO2/tonne CaO 
+SRCaO·MgO = stoichiometric ratio of CO2 and CaO·MgO (see Table 2.4), tonnes CO2/tonne CaO·MgO 
+CaO Content = CaO content (see Table 2.4), tonnes CaO/tonne lime 
+CaO·MgO Content = CaO·MgO content (see Table 2.4), tonnes CaO·MgO/tonne lime 
+TIER 3 METHOD 
+The Tier 3 emission factors are based on the actual carbonates present. (See Equation 2.7 and Table 2.1.) Tier 3 
+requires the full accounting of carbonates (species and sources) and may include a correction (i.e., subtraction) 
+for uncalcined lime kiln dust.  
+2.3.1.3 
+CHOICE OF ACTIVITY DATA 
+Some industries produce lime and consume it for their operations. This quantity of lime may never be introduced 
+into the market. It is important when collecting activity data for lime production that both marketed and non-
+marketed lime production are included. In many countries, obtaining statistics on non-marketed lime production 
+may be challenging. It is suggested that inventory compilers identify potential industries where non-marketed 
+lime may be produced (e.g., metallurgy, pulp and paper, sugar refining, precipitated calcium carbonate, water 
+softeners) and inquire whether there is such production. As industries and countries may vary significantly with 
+respect to the quantities of non-marketed lime produced, it is not possible to provide a default value to estimate 
+this activity data.  
+TIER 1 METHOD 
+In Tier 1, inventory compilers may use default values for either of the following variables: (1) the types of lime 
+produced and/or (2) the proportion of hydrated lime produced. Table 2.4, provides data on stoichiometric ratios, 
+the ranges of CaO and CaO·MgO contents and the resulting default emission factors, for the main lime types 
+produced. Where there are no disaggregated data for the breakdown of lime types, it is good practice to assume 
+that 85 percent is high-calcium lime and 15 percent dolomitic lime (Miller, 1999) and the proportion of hydraulic 
+lime should be assumed zero unless other information is available. 
+The Tier 1 method for lime production does not incorporate a correction for LKD. The potential exists to exclude 
+some lime sources in the national inventory due to problems with the activity data (see Sections 2.3.1.4 and 
+2.3.2.2). The Tier 1 method could considerably underestimate emissions if these issues are not carefully 
+considered.  
+TIER 2 METHOD  
+In implementing the Tier 2 method, it is important to collect disaggregated data for the three types of lime, as 
+this will improve the emissions estimate. There are three main types of non-hydrated lime:  
+• 
+High-calcium lime (CaO + impurities); 
+• 
+Dolomitic lime (CaO·MgO + impurities); 
+• 
+Hydraulic lime (CaO + hydraulic calcium silicates) that is a substance between lime and cement. 
+The main reason to distinguish these types is that the first two have different emission factors. It is also 
+important to correct for the proportion of hydrated lime in production. Similar to the Tier 2 method for cement 
+production, data should be collected on all non-carbonate sources of CaO (if applicable).  
+Volume 3: Industrial Processes and Product Use  
+2.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Significant amounts of LKD may be produced as a by-product during lime production. The quantities generated 
+depend on the type of kiln used and the characteristics of the carbonates used. According to Boynton (1980) an 
+average rotary kiln will yield a dust attrition loss of 9 to 10 percent per tonne of lime produced, or 16 to 18 
+percent of the raw material input. The chemical composition of the LKD varies depending on the raw material 
+input, but a typical high-calcium lime LKD may contain 75 percent combined calcium oxide and uncalcined 
+calcium carbonate (at roughly a 50:50 ratio), with the remaining impurities consisting of silica, aluminum and 
+iron oxides, and sulphur (depending on the fuel used). Correction for LKD in the Tier 2 and Tier 3 methods is 
+analogous to CKD in cement production in both methodology and default value. If possible, data should be 
+collected on typical ratios of LKD to lime production and on the typical composition of the LKD. In the absence 
+of data, the inventory compiler may assume a correction addition of 2 percent to account for LKD (i.e., multiply 
+emissions by 1.02).  
+Vertical shaft kilns generate relatively small amounts of LKD, and it is judged that a correction factor for LKD 
+from vertical shaft kilns would be negligible and do not need to be estimated.  
+TIER 3 METHOD  
+It is good practice to collect plant specific data for the weight fraction of carbonate(s) consumed for lime 
+production and the fraction of calcination achieved. Data should also be collected for the amount (dry weight) 
+and composition of LKD produced. Similar to the Tier 3 method for cement production, emissions from LKD 
+should be subtracted from the Tier 3 estimates.  
+A couple of key issues should be considered when estimating carbonate consumption data. Data must be 
+available and collected on the plant level, as national level statistics on carbonate consumption for lime 
+production may not be complete. Similar to cement production, although limestone and or dolomite are likely to 
+be the predominant carbonates, it is important to ensure that all carbonate inputs are identified and accounted for.  
+CORRECTION FOR THE PROPORTION OF HYDRATED LIME  
+Both high-calcium and dolomitic limes can be slaked and converted to hydrated lime that is Ca(OH)2 or 
+Ca(OH)2·Mg(OH)2. It is good practice to include a correction for hydrated lime under Tier 2, and where data are 
+available, under Tier 1. If no data are available for Tier 1, it is good practice to assume zero production of 
+hydrated lime.  
+If x is the proportion of hydrated lime and y is the water content in it, it is good practice to multiply the 
+production by a correction factor 1 – (x • y). Since the vast majority of hydrated lime produced is high-calcium 
+(90 percent), the default values are x=0.10 and y = 0.28 (default water content), resulting in a correction factor of 
+0.97. This default correction factor for hydrated lime may be included in Equation 2.6.  
+2.3.1.4 
+COMPLETENESS 
+Complete activity data (i.e., lime production) are needed for good practice. Typically, reported production 
+accounts for only a portion of the actual production, because lime production statistics may consider only 
+product that is sold on the market. Use or production of lime as a non-marketed intermediate is not well 
+accounted for or reported. For example, many plants that produce steel, synthetic soda ash, calcium carbide, 
+magnesia and magnesium metal, as well as copper smelters and sugar mills, produce lime but may not report it to 
+national agencies. Omission of these data may lead to an underestimation of lime production for a country by a 
+factor of two or more. Likewise, there may be village-scale or artisanal production of lime for sanitation 
+purposes or for whitewash. All lime production should be reported in this source category, whether produced by 
+lime kilns as a marketed product, or whether produced as a non-marketed intermediate reagent.  
+Inventory compilers should be cautious to avoid double counting, or omissions, between this source category and 
+emissions from limestone and dolomite consumption. Another potential source of double counting that the 
+inventory compiler should be aware of is associated with hydrated lime. If lime production is corrected for 
+hydrated lime without first establishing whether the lime used to produce hydrated lime is included in total lime 
+production, production of this lime could be double-counted.  
+Similar to the discussion for cement, when using Tier 3 it is important that all carbonate inputs (e.g., limestone, 
+dolomite, etc.) are accounted for on a plant-specific basis.  
+Finally, lime-based mortars used in construction gain their strength through the absorption of CO2, but the rates 
+of the carbonation reaction that occur in practice are very uncertain. As it is believed that this process for the 
+carbonation of mortars can take months to decades, it has not been factored into emission calculations. It is not 
+considered good practice to include this factor in emissions calculations at this time. This is an area for future 
+work before inclusion into national inventories. 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.25 
+2.3.1.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+It is good practice to calculate emissions from lime production using the same method for every year in the time 
+series. These Guidelines introduce a new Tier 3 approach based on carbonate input to lime production. These 
+data may or may not be available historically. If the inventory compiler chooses to implement this Tier for 
+current and future inventories they are encouraged to collect this data for historical years to ensure time series 
+consistency. Where these data are not available, the inventory compiler may refer to the ‘Overlap approach’ (see 
+Volume 1, Section 5.3) to attempt to recalculate previous estimates.  
+Where data are not available, inventory compilers moving from a Tier 1 to a Tier 2 approach may assume that 
+there has not been a significant shift in the country from use of one carbonate input to another for lime 
+production. This is likely a reasonable assumption, specifically since limestone typically is the predominant 
+carbonate input.  
+Inventory compilers should disaggregate lime production data into the three mentioned types: high calcium lime, 
+dolomitic lime, and hydraulic lime. Where country specific data are not available for the entire time series for the 
+proportion of lime consumed, or the proportion of hydrated lime, missing years may be estimated by the 
+Interpolation or Trend Extrapolation Approaches as outlined in Volume 1, Section 5.3, or by assuming that the 
+current year is reflective of the proportion of lime produced in earlier years of the time series.  
+2.3.2 
+Uncertainty assessment 
+Uncertainty estimates for lime production result predominantly from uncertainties associated with activity data, 
+and to a lesser extent from uncertainty related to the emission factor. For more information, refer to the 
+uncertainty discussion above for cement production. 
+TABLE 2.5 
+DEFAULT UNCERTAINTY VALUES FOR ESTIMATION OF CO2 EMISSIONS FROM LIME PRODUCTION 
+Uncertainty 
+Comment 
+Tier 
+4-8% 
+Uncertainty in assuming an average CaO in lime 
+1, 2 
+2% 
+Emission factor high calcium lime 
+1, 2 
+2% 
+Emission factor dolomitic lime 
+1, 2 
+15% 
+Emission factor hydraulic lime 
+1, 2 
+5% 
+Correction for hydrated lime 
+1, 2 
+ 
+Order of magnitude errors possible if non-marketed lime production is not estimated 
+1, 2, 3 
+1-2% 
+Uncertainty of plant-level lime production data. Plants generally do not determine 
+output better than this. Assumes complete reporting. 
+2 
+See Table 2.3 
+Correction for LKD  
+2, 3 
+1-3% 
+Error in assuming 100% carbonate source from limestone (vs. other feeds). 
+3 
+1-3% 
+Uncertainty of plant-level weighing of raw materials  
+3 
+Source: Based on expert judgment. 
+2.3.2.1 
+EMISSION FACTOR UNCERTAINTIES 
+As outlined above for cement, there is little uncertainty associated with the emission factor component in the 
+Tier 3 approach. In Tier 2 and Tier 1, the stoichiometric ratio is an exact number and therefore the uncertainty of 
+the emission factor is the uncertainty of lime composition, in particular of the share of hydraulic lime (the 
+uncertainty of the emission factor for hydraulic lime is 15 percent and the uncertainty for other lime types is 2 
+percent). There is uncertainty associated with determining the CaO content and/or the CaO•MgO content of the 
+lime produced. 
+Volume 3: Industrial Processes and Product Use  
+2.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.3.2.2 
+ACTIVITY DATA UNCERTAINTIES 
+The uncertainty for the activity data is likely to be much higher than for the emission factors, based on 
+experience in gathering lime data (see Section 2.3.1.4, Completeness, above). Omission of non-marketed lime 
+production may lead to order of magnitude underestimates. The correction for hydrated lime typically leads to 
+additional uncertainty.  
+As described above for CKD, there is significant uncertainty associated with quantifying the mass of LKD 
+produced and the degree of calcination (and thus emissions) of LKD. It can be assumed that the uncertainty 
+associated with estimating LKD is at least equal to and likely greater than, the uncertainty associated with CKD.  
+Where ranges are given for the default uncertainties in Table 2.5, the mid-range should be used unless the upper 
+or lower estimates are more reflective of country-specific circumstances.  
+2.3.3 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation  
+2.3.3.1 
+QUALITY ASSURANCE/QUALITY CONTROL (QA /QC)  
+In addition to the cross-cutting guidance on QA/QC, specific procedures of relevance to this source category are 
+outlined below. 
+COMPARISON OF THE EMISSIONS ESTIMATES USING DIFFERENT 
+APPROACHES  
+Comparisons could be made between emissions estimated following the Tier 2 approach based on lime 
+production and Tier 3 approach based on carbonate input. Similarly, if the bottom-up approach is used to 
+estimate emissions (i.e., collection of plant specific data), then inventory compilers should compare the 
+emissions estimates to the estimate calculated using national or plant-specific lime production data (top-down 
+approach). In cases where a hybrid Tier 1/2 or Tier 2/3 approach is used during a transition period, it is 
+considered good practice also to estimate emissions for all facilities using the lower Tier in order to compare the 
+results of the analysis to the results derived using the hybrid approach. The results of such comparisons should 
+be recorded for internal documentation, including explanations for any discrepancies.  
+ACTIVITY DATA CHECK 
+Inventory compilers should confirm the correct definitions of the different types of lime produced in the country. 
+Inventory compilers should also carefully consider industries that may produce non-marketed lime to ensure that 
+these data have been included in the activity data for the inventory.  
+2.3.3.2 
+REPORTING AND DOCUMENTATION  
+It is good practice to document and archive all information required to produce the national emissions inventory 
+estimates. Below are general notes that apply to reporting and documentation of emissions and emission 
+reductions from lime production followed by specific information to be reported for the individual tiers.  
+• 
+If an inventory compiler is reporting on CO2 recovery from sugar refining, precipitated calcium carbonate or 
+water softening under Category 2H, detailed information should be reported on the methods used for 
+calculating emissions recovered. Both emissions and emission reductions should be reported separately; it is 
+not considered good practice to report only net emissions from lime production. In addition, documentation 
+should be provided to illustrate that emission reductions from recarbonation are only reported in the year in 
+which recarbonation occurs (see 2.3.1 above).  
+• 
+Regardless of the method implemented, inventory compilers should document procedures undertaken to 
+ensure that both marketed and non-marketed lime production are reported (see discussion in Section 2.3.1.4, 
+Completeness). 
+TIER 1 METHOD 
+The Tier 1 approach is methodologically the same as Tier 2 except that default values may be used instead of 
+country-specific information to estimate the various parameters. Documentation for Tier 1, therefore, follows 
+Tier 2 below except a clear indication should be made as to where default values are used.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.27 
+TIER 2 METHOD 
+Tier 2 documentation should include a discussion of the types of lime produced in the country (including 
+hydrated lime) and how that determination was made (collection of sales data, collection of plant specific 
+consumption data, etc.) The procedures used to identify the CaO and/or CaO·MgO content of lime, as well as 
+non-carbonate feeds to lime kiln also should be reported.  
+TIER 3 METHOD 
+Reporting and documentation for Tier 3 for lime production is the same as the Tier 3 method outlined above for 
+cement production, with one minor difference. Instead of collecting information on CKD, data on the quantity 
+and fraction of calcination achieved of LKD should be collected. All underlying information should be 
+documented and reported, it is not considered good practice to report just final emissions estimates. 
+ 
+2.4 
+GLASS PRODUCTION 
+2.4.1 
+Methodological issues 
+Many kinds of glass articles and compositions are used commercially, but the glass industry can be divided into 
+four main categories: containers, flat (window) glass, fibre glass, and specialty glass.  
+The great bulk of commercial glass is in the first two categories, and is almost entirely soda-lime glass, 
+consisting of silica (SiO2), soda (Na2O), and lime (CaO), with small amounts of alumina (Al2O3), and other 
+alkalies and alkaline earths, plus some minor ingredients. Insulation grade fibre glass - a major component of the 
+third category - is similar in composition. Individual manufacturers will have proprietary compositions, but these 
+will be minor variations on the basic composition.  
+This source category also includes emissions from the production of glass wool, a category of mineral wool, 
+where the production process is similar to glass making. The term mineral wool may also be used to refer to 
+natural rock- and slag-based wool. Where the production of rock wool is emissive these emissions should be 
+reported under IPCC Subcategory 2A5. Emissions related to slag production should be reported in the relevant 
+metallurgical source category. The re-melting of slag to make mineral wool does not involve significant process- 
+-related emissions and does not need to be reported.  
+The major glass raw materials which emit CO2 during the melting process are limestone (CaCO3), dolomite 
+Ca,Mg(CO3)2 and soda ash (Na2CO3). Where these materials are mined as carbonate minerals for their use in the 
+glass industry they represent primary CO2 production and should be included in emissions estimates. Where 
+carbonate materials are produced through the carbonation of a hydroxide they do not result in net CO2 emissions 
+and should not be included in the emissions estimate. Minor CO2-emitting glass raw materials are barium 
+carbonate (BaCO3), bone ash (3CaO2P2O5 + XCaCO3), potassium carbonate (K2CO3) and strontium carbonate 
+(SrCO3). Additionally, powdered anthracite coal or some other organic material may be added to create reducing 
+conditions in the molten glass, and will combine with available oxygen in the glass melt to produce CO2. 
+The action of these carbonates in the fusion of glass is a complex high-temperature chemical reaction, and is not 
+to be directly compared to the calcination of carbonates to produce quicklime or burnt dolomitic lime. 
+Nevertheless, this fusion (in the region of 1500°C) has the same net effect in terms of CO2 emissions. 
+In practice, glass makers do not produce glass only from raw materials, but use a certain amount of recycled 
+scrap glass (cullet). Most operations will use as much cullet as they can obtain, sometimes with restrictions for 
+glass quality requirements. The cullet ratio (the fraction of the furnace charge represented by cullet) will be in 
+the range of 0.4 to 0.6 for container applications, which are the bulk of glass production. Insulation fibre glass 
+makers will generally fall below this level, but will use as much cullet as they can purchase.  
+Cullet comes from two sources: in-house return of glassware broken in process or other glass spillage or 
+retention, and foreign (i.e., external to the plant) cullet from recycling programs or cullet brokerage services. 
+This second source is important in developed economies, but will be less so in developing countries, where 
+recovery of glassware is not popular.  
+The retention of dissolved CO2 in glass is determined to be relatively insignificant and can be ignored for the 
+purposes of GHG emission estimation.  
+Volume 3: Industrial Processes and Product Use  
+2.28 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.4.1.1 
+CHOICE OF METHOD 
+TIER 1 METHOD 
+The Tier 1 method should be used (Equation 2.10) where data are not available on glass manufactured by 
+process or the carbonates used in glass manufacturing. Tier 1 applies a default emission factor and cullet ratio to 
+national-level glass production statistics. The uncertainty associated with this method may be considerably 
+higher than the uncertainty associated with the Tier 2 and Tier 3 methods.  
+EQUATION 2.10 
+TIER 1: EMISSIONS BASED ON GLASS PRODUCTION 
+)
+1(
+2
+CR
+EF
+M
+Emissions
+CO
+g
+−
+•
+•
+=
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from glass production, tonnes  
+Mg = mass of glass produced, tonnes  
+EF = default emission factor for manufacturing of glass, tonnes CO2/tonne glass  
+CR = cullet ratio for process (either national average or default), fraction 
+TIER 2 METHOD 
+Tier 2 is a refinement of Tier 1. Instead of collecting national statistics on total glass production, emissions are 
+estimated based on the different glass manufacturing processes undertaken in the country. As discussed below, 
+different glass manufacturing processes (e.g., float glass, container glass, fibre glass, etc) typically use different 
+types and ratios of raw materials. The Tier 2 method applies default emission factors to each glass manufacturing 
+process. The emission estimate must, however, be corrected for the fact that a portion of recycled glass (cullet) 
+may also be supplied to the furnace (Equation 2.11).  
+EQUATION 2.11 
+TIER 2: EMISSIONS BASED ON GLASS MANUFACTURING PROCESS 
+∑
+−
+•
+•
+=
+i
+i
+i
+g i
+CR
+EF
+M
+CO Emissions
+)]
+1(
+[
+,
+2
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from glass production, tonnes  
+Mg,i = mass of melted glass of type i (e.g., float, container, fibre glass, etc.), tonnes 
+EFi = emission factor for manufacturing of glass of type i, tonnes CO2/tonne glass melted 
+CRi = cullet ratio for manufacturing of glass of type i, fraction  
+TIER 3 METHOD 
+The Tier 3 methodology is based on accounting for the carbonate input to the glass melting furnace (Equation 
+2.12).  
+EQUATION 2.12 
+TIER 3: EMISSIONS BASED ON CARBONATE INPUTS 
+∑
+•
+•
+=
+i
+i
+i
+i
+F
+EF
+M
+CO Emissions
+)
+(
+2
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from glass production, tonnes  
+EFi = emissions factor for the particular carbonate i, tonnes CO2/tonne carbonate (see Table 2.1) 
+Mi = weight or mass of the carbonate i consumed (mined), tonnes 
+Fi = fraction calcination achieved for the carbonate i, fraction 
+Where the fraction calcination achieved for the particulate carbonate is not known, it can be assumed that the 
+fraction calcination is equal to 1.00.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.29 
+Figure 2.3 
+Decision tree for estimation of CO2 emissions from glass production 
+Start
+Are data
+about input carbonates
+available?
+Is this a key
+category1?
+Are data
+available on types of glass
+(including cullet ratio) produced 
+by manufacturing
+process?
+Yes
+No
+No
+Collect data for the Tier 3
+or Tier 2 method.
+Collect facility-specific activity data
+on carbonates consumed (their chemical 
+composition and calcination achieved) 
+and relevant emission factors
+as basis for Tier 3 method.
+Calculate emissions based on quantity 
+of glass melted in each manufacturing 
+process, and process-specific emission
+factors and cullet ratio.
+Estimate emissions based on total
+glass production and a default
+emission factor.
+Yes
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Yes
+No
+ 
+2.4.1.2 
+CHOICE OF EMISSION FACTORS 
+TIER 1 METHOD  
+Tier 1 applies a default emission factor, based on a ‘typical’ raw material mixture, to national glass production 
+data. A ‘typical’ soda-lime batch might consist of sand (56.2 weight percent), feldspar (5.3 percent), dolomite 
+(9.8 percent), limestone (8.6 percent) and soda ash (20.0 percent). Based on this composition, one metric tonne 
+of raw materials yields approximately 0.84 tonnes of glass, losing about 16.7 percent of its weight as volatiles, in 
+this case virtually entirely CO2.  
+EQUATION 2.13 
+TIER 1 DEFAULT EMISSION FACTOR FOR GLASS PRODUCTION 
+/ tonne glass
+.0 20 tonnes CO
+.0 167 / .0 84
+2
+=
+EF =
+ 
+ 
+TIER 2 METHOD  
+The Tier 2 method relies on applying default emission factors and cullet ratios to the various types of glass 
+produced in the country (Table 2.6). Where country specific or even plant specific data are available countries 
+Volume 3: Industrial Processes and Product Use  
+2.30 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+are encouraged to use these data to supplement or replace the defaults provided below. Cullet ratios, in particular, 
+can vary significantly both within a country and across countries. 
+It is good practice to use the mid-point values of the ranges provided unless some other value in the range is 
+known to be more representative of country specific circumstances.  
+ 
+TABLE 2.6 
+DEFAULT EMISSION FACTORS AND CULLET RATIOS FOR DIFFERENT GLASS TYPES 
+Glass Type 
+CO2 Emission Factor 
+(kg CO2/kg glass) 
+Cullet Ratio (Typical 
+Range) 
+Float 
+0.21 
+10% - 25% 
+Container (Flint) 
+0.21 
+30% - 60% 
+Container (Amber/Green) 
+0.21 
+30% - 80% 
+Fiberglass (E-glass) 
+0.19 
+0% - 15% 
+Fiberglass (Insulation) 
+0.25 
+10% - 50% 
+Specialty (TV Panel) 
+0.18 
+20% - 75% 
+Specialty (TV Funnel) 
+0.13 
+20% - 70% 
+Specialty (Tableware) 
+0.10 
+20% - 60% 
+Specialty (Lab/Pharma) 
+0.03 
+30% - 75% 
+Specialty (Lighting) 
+0.20 
+40% - 70% 
+Source: Communication with Victor Aume (2004) 
+ 
+TIER 3 METHOD 
+The Tier 3 emission factors are based on the actual carbonates consumed in the melting furnace (for the relevant 
+stoichiometric ratios see Table 2.1). The Tier 3 approach requires the full accounting of carbonates (species and 
+sources). 
+2.4.1.3 
+ CHOICE OF ACTIVITY DATA 
+TIER 1 METHOD  
+Activity data for the Tier 1 method includes national statistics for glass production by weight as well a correction 
+for the quantity of cullet used in glass production. Tier 1 assumes a default cullet ratio of 50 percent, therefore 
+national level data on the mass of glass produced can be multiplied by 0.20 • (1 - 0.50) = 0.10 tonnes CO2/tonne 
+glass in order to estimate national emissions. If country specific information is available for the average annual 
+cullet ratio, countries are encouraged to modify the emission factor accordingly [i.e., EF = 0.20 • (1 - country-
+specific cullet ratio)]. 
+TIER 2 METHOD 
+The Tier 2 method requires, at a minimum, the collection of national level data on the quantity of glass melted 
+by manufacturing process. Data for glass often is provided in different units (e.g., tonnes of glass, number of 
+bottles, square meters of glass, etc.) and these should be converted into tonnes. Where possible, data should be 
+collected on a plant-specific basis and aggregated to the national level. Although the Tier 2 method provides 
+default factors for the cullet ratio, if country-specific or plant-specific data are available countries are encouraged 
+to collect these data.  
+TIER 3 METHOD 
+For the Tier 3 method plant-level activity data should be collected on the various types of carbonates consumed 
+for glass production.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.31 
+2.4.1.4 
+COMPLETENESS 
+Inventory compilers should consider a number of issues regarding completeness when compiling emission 
+estimates for glass production. First of all, glass is produced from a variety of raw material carbonates. Where 
+emissions are estimated based on carbonate inputs (Tier 3), it is important to ensure that all species and sources 
+of carbonates are included in emission estimates. 
+Soda ash is a significant input into glass manufacturing in many countries. Inventory compilers are encouraged 
+to ensure that there is no double counting of emissions from soda ash used in glass manufacturing (which should 
+be reported under Category 2A3, Glass Production) and emissions from ‘Other Uses of Soda Ash’, which should 
+be reported separately below. It is important to consider, however, that there may be a number of smaller 
+facilities (e.g., art glass and specialty glass) that are not accounted for in national statistics. Efforts should be 
+made to ensure complete coverage of the industry.  
+2.4.1.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+Glass can be a difficult source for which to acquire activity data because, as noted above, glass production is 
+measured in a variety of units. In order to develop a consistent time series, it is important that the same data 
+sources are used for all years in the Inventory. For additional information for ensuring time series consistency, 
+see Volume 1, Chapter 5. 
+2.4.2 
+Uncertainty assessment  
+2.4.2.1 
+EMISSION FACTOR UNCERTAINTIES 
+Similar to cement and lime, where emissions from glass production are estimated based on the carbonate input 
+(Tier 3), the emission factor uncertainty (1-3 percent) is relatively low because the emission factor is based on a 
+stoichiometric ratio. There may be some uncertainty associated with assuming that there is 100 percent 
+calcination of the carbonate input (1 percent). 
+Because emissions are estimated based on quantity of melted glass in each manufacturing process and default 
+emission factors, the uncertainty of Tier 2 is higher than Tier 3. The emission factors can be expected to have an 
+uncertainty of +/- 10 percent. As illustrated in Table 2.6, the typical range for the cullet ratio varies among 
+different glass types. For the purposes of uncertainty analysis it can be assumed that the ‘typical range’ reflects 
+the 95 percent confidence interval.  
+Uncertainty associated with use of the Tier 1 emission factor and cullet ratio is significantly higher, and may be 
+on the order of +/- 60 percent.  
+2.4.2.2 
+ACTIVITY DATA UNCERTAINTIES 
+As with cement and lime production, the uncertainty associated with weighing or proportioning raw materials 
+under the Tier 3 approach is approximately 1-3 percent. While it is possible that some carbonate containing raw 
+materials may be brought into the facility but lost as dust (i.e., never calcined) this amount is assumed negligible.  
+Glass production data are typically measured fairly accurately (+/-5 percent) for Tier 1 and Tier 2. As mentioned 
+above, inventory compilers should be cautious where activity data are not originally available in mass, but rather 
+as a unit (e.g., bottle) or area (e.g., m2). If activity data have to be converted to mass, this may result in additional 
+uncertainty.  
+Volume 3: Industrial Processes and Product Use  
+2.32 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.4.3 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+2.4.3.1 
+QUALITY ASSURANCE/QUALITY CONTROL (QA/QC) 
+If emissions are estimated using a Tier 3 approach these could be compared with the results using a Tier 2 
+approach to see if the results are of a similar order of magnitude. Similarly, if emissions were estimated from top 
+down data using the Tier 2 method, these results could be compared with a more rigorous Tier 3 approach at a 
+small number of facilities to see if the Tier 2 defaults used reflect national circumstances. The Tier 2 method 
+relies on estimating emissions based on the different types of glass produced. These estimates could be compared 
+with the results of an audit of the various suppliers of raw materials to the glass industry. For example, national 
+estimates could be compared with estimates of the amount of limestone, soda ash and other carbonates that are 
+sold to the glass industry. Such trade data could be elicited from individual suppliers, or from trade associations.  
+One of the largest sources of uncertainty in the emissions estimate (Tier 1 and Tier 2) for glass production is the 
+cullet ratio. The amount of recycled glass used can vary across facilities in a country and in the same facility 
+over time. The cullet ratio might be a good candidate for more in-depth investigation.  
+2.4.3.2 
+REPORTING AND DOCUMENTATION  
+TIER 1 
+For Tier 1, data should be documented and reported to indicate the total quantity of glass produced, and the 
+emission factor applied to estimate emissions (including whether a default or country-specific cullet ratio is 
+used). The process for collecting activity data should be documented (i.e., plant level or national estimates) as 
+should any calculations made to convert glass production to a common unit (e.g., kg).  
+TIER 2 
+Tier 2 documentation should include the quantity of glass melted in each manufacturing process outlined in 
+Table 2.6, including any calculation necessary to convert different types of glass into the same units (e.g., 
+convert bottles into kilogram). Emission factors by glass type and cullet ratio should be reported, indicating if 
+defaults are used, and whether data were collected on the plant level or at the national level. It is also useful to 
+report whether cullet was internally generated at the facility or is post-consumer cullet (i.e., purchased cullet). 
+This information may be important for identifying, or verifying, mitigation activities that are based on recycling. 
+TIER 3  
+The inventory should include summaries of methods used and references to source data such that the reported 
+emissions estimates are transparent and steps in their calculation may be reproduced. Where the Tier 3 method is 
+implemented, inventory compilers should document the species of carbonates consumed and indicate how they 
+ensure that all carbonate inputs are accounted for (see discussion for Tier 3 in Section 2.2.3.2).  
+ 
+2.5 
+OTHER PROCESS USES OF CARBONATES 
+2.5.1 
+Methodological issues 
+Limestone (CaCO3), dolomite (CaMg.(CO3)2) and other carbonates (e.g., MgCO3 and FeCO3) are basic raw 
+materials having commercial applications in a number of industries. In addition to those industries already 
+discussed individually (cement production, lime production and glass production), carbonates also are consumed 
+in metallurgy (e.g., iron and steel), agriculture, construction and environmental pollution control (e.g., flue gas 
+desulphurisation.). As noted in the introduction of this chapter, the calcination of carbonates at high temperatures 
+yields CO2 (Table 2.1). It should be noted that some uses of carbonates, for example, the use of limestone as an 
+aggregate, do not result in the release of CO2 and, therefore, do not need to be included in the national GHG 
+inventory (see Table 2.7).  
+The following discussion provides the general methodologies for estimating CO2 emissions from the use of 
+carbonates within the mineral industry. These methodologies, however, also are applicable where carbonates are 
+used as fluxes or slagging agents in other source categories. Inventory compilers are suggested, in particular, to 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.33 
+consider four broad source categories: (1) ceramics, (2) other uses of soda ash, (3) non-metallurgical magnesia 
+production, and (4) other uses of carbonates.  
+It is good practice to report emissions from the consumption of carbonates in the source category where the 
+carbonates are consumed and the CO2 emitted. So, where limestone is used for the liming of soils, emissions 
+should be reported in the respective source category of the Agriculture, Forestry and Other Land Use (AFOLU) 
+Sector. Where carbonates are used as fluxes or slagging agents (e.g., in iron and steel, chemicals, or for 
+environmental pollution control etc.) emissions should be reported in the respective source categories where the 
+carbonate is consumed. As discussed in Section 2.3.1.1 above, all marketed and non-marketed production of 
+lime should be reported under Lime Production. The specific source categories discussed below (ceramics, other 
+soda ash use and non-metallurgical magnesia production) should be reported within the minerals category. The 
+Other source category should contain estimates of emissions that do not fit into any of the major categories 
+presented in Table 2.7 below. 
+CERAMICS 
+Ceramics include the production of bricks and roof tiles, vitrified clay pipes, refractory products, expanded clay 
+products, wall and floor tiles, table and ornamental ware (household ceramics), sanitary ware, technical ceramics, 
+and inorganic bonded abrasives. Process-related emissions from ceramics result from the calcination of 
+carbonates in the clay, as well as the addition of additives. Similar to the cement and lime production processes, 
+carbonates are heated to high temperatures in a kiln, producing oxides and CO2. Most ceramic products are made 
+from one or more different types of clay (e.g., shales, fire clay and ball clay). The raw materials are collected and 
+finely crushed in successive grinding operations. The ground particles are then fired in a kiln to produce a 
+powder (which may be liquefied). Additives are subsequently added and the ceramic is formed or moulded and 
+‘machined’ to smooth rough edges and achieve the desired characteristics of the ceramic. In the case of 
+traditional ceramics, the ceramics are then dried and glazed prior to firing in the kiln. After firing, some ceramics 
+may undergo additional treatment to achieve the final desired quality.  
+CO2 emissions result from the calcination of the raw material (particularly clay, shale, limestone, dolomite and 
+witherite) and the use of limestone as a flux.  
+OTHER USES OF SODA ASH 
+Soda ash is used in a variety of applications, including, glass production, soaps and detergents, flue gas 
+desulphurisation, chemicals, pulp and paper and other common consumer products. Soda ash production and 
+consumption (including sodium carbonate, Na2CO3) results in the release of CO2. Emissions from soda ash 
+production are reported in the Chemical Industry, while emissions from use are reported in the respective end 
+use sectors where soda ash is used. Emissions from soda ash used in glass production are already accounted for 
+above. Similarly, where soda ash is used in other source categories such as chemicals, emissions should be 
+reported in that source category.  
+NON-METALLURGICAL MAGNESIA PRODUCTION 
+This source category should include emissions from magnesia (MgO) production that are not included elsewhere. 
+For example, where magnesia is produced for use as a fertiliser, good practice is to report those emissions under 
+the appropriate section of Chapter 3, Chemical Industry Emissions.  
+Magnesite (MgCO3) is one of the key inputs into the production of magnesia, and ultimately fused magnesia. 
+There are three major categories of magnesia products: calcined magnesia, deadburned magnesia (periclase) and 
+fused magnesia. Calcined magnesia is used in many agricultural and industrial applications (e.g., feed 
+supplement to cattle, fertilisers, electrical insulations and flue gas desulphurisation). Deadburned magnesia is 
+used predominantly for refractory applications, while fused magnesia is used in refractory and electrical 
+insulating markets.  
+Magnesia is produced by calcining MgCO3 which results in the release of CO2 (Table 2.1). Typically, 96-98 
+percent of the contained CO2 is released in the production of calcined magnesia, with nearly 100 percent of the 
+CO2 released during further heating to produce deadburned magnesia. Production of fused magnesia also results 
+in nearly 100 percent release of the CO2.  
+OTHER 
+Emissions may result from a number of other source categories that are not included above. When allocating 
+emissions to this source category, inventory compilers should be careful to not double count emissions already 
+recorded in other source categories.  
+Volume 3: Industrial Processes and Product Use  
+2.34 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.5.1.1 
+CHOICE OF METHOD 
+There are two primary methodologies for estimating emissions from the use of carbonate(s) for these source 
+categories. The Tier 1 method assumes that only limestone and dolomite are used as carbonate input in industry, 
+and allows for the use of a default fraction of limestone versus dolomite consumed. Tier 2 is the same as Tier 1 
+except country specific information on the fraction of limestone versus dolomite consumed must be determined. 
+The Tier 3 method is based on an analysis of all emissive uses of carbonates.  
+It is possible that Tier 3 could be used for some sub-categories, and a Tier 1 or 2 method used for other 
+categories with limited data availability. Such a hybrid approach is consistent with good practice. The selection 
+of method depends on national circumstances.  
+TIER 1 METHOD  
+The Tier 1 method is based on Equation 2.14.  
+EQUATION 2.14 
+TIER 1: EMISSIONS BASED ON MASS OF CARBONATES CONSUMED 
+)
+.0 15
+.0 85
+(
+2
+d
+ls
+c
+EF
+EF
+M
+CO Emissions
++
+•
+=
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from other process uses of carbonates, tonnes  
+Mc = mass of carbonate consumed, tonnes  
+EFls or EFd = emission factor for limestone or dolomite calcination, tonnes CO2/tonne carbonate (see 
+Table 2.1)  
+It is suggested that inventory compilers ensure that data on carbonates reflect pure carbonates and not carbonate 
+rock. If data are only available on carbonate rock, a default purity of 95 percent can be assumed. For clays a 
+default carbonate content of 10 percent can be assumed4, if no other information is available.  
+Soda ash is primarily sodium carbonate, not limestone or dolomite. Therefore, the Tier 1 method for soda ash 
+does not require the default fraction of 85%/15%. Emissions are estimated by multiplying the quantity of soda 
+ash consumed on the national level by the default emission factor for sodium carbonate (see Table 2.1).  
+TIER 2 METHOD  
+Under Tier 2, the amount of CO2 emitted from the use of limestone and dolomite is estimated from a 
+consideration of consumption and the stoichiometry of the chemical processes. Tier 2 uses a similar equation to 
+Tier 1, but Tier 2 requires national data on the quantity of limestone and dolomite consumed in the country 
+(Equation 2.15). It is not good practice to use a default for the allocation between these two primary carbonates.  
+EQUATION 2.15 
+TIER 2: METHOD FOR OTHER PROCESS USES OF CARBONATES 
+)
+(
+)
+(
+2
+d
+d
+ls
+ls
+EF
+M
+EF
+M
+CO Emissions
+•
++
+•
+=
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from other process uses of carbonates, tonnes  
+Mls or Md  = mass of limestone or dolomite respectively (consumption), tonnes. (Refer to Equation 2.14 
+above regarding purity.)  
+EFls or EFd = emission factor for limestone or dolomite calcination respectively, tonnes CO2/tonne 
+carbonate (see Table 2.1)  
+TIER 3 METHOD  
+The Tier 3 methodology is similar to the approach outlined for cement above, but there is no need to correct for 
+dust or other raw material inputs (Equation 2.16). As noted above, wherever this approach is used, it is important 
+that all carbonate inputs are considered in the analysis.  
+                                                           
+4  EU-BREF (2005) reports a range of carbonate contents for relevant clays used in the ceramics industry ranging from 0 to 
+over 30 percent.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.35 
+EQUATION 2.16 
+TIER 3: CARBONATE INPUT APPROACH FOR OTHER PROCESS USES OF CARBONATES 
+∑
+•
+•
+=
+i
+i
+i
+i
+F
+EF
+M
+CO Emissions
+)
+(
+2
+ 
+Where: 
+CO2 Emissions = emissions of CO2 from other process uses of carbonates, tonnes  
+Mi = mass of the carbonate i consumed, tonnes (Refer to Equation 2.14 above regarding purity.) 
+EFi = emission factor for the carbonate i, tonnes CO2/tonne carbonate (see Table 2.1) 
+Fi = fraction calcination achieved for the particular carbonate i, fraction. Where the fraction calcination 
+achieved for the particular carbonate is not known it can be assumed that the fraction calcination is 
+equal to 1.00.  
+i  
+= one of the carbonate uses 
+Figure 2.4 
+Decision tree for estimation of CO2 emissions from other process uses of 
+carbonates 
+Start
+Are
+data for all carbonate 
+inputs available for different 
+source categories?
+Is the
+Other Process Uses
+of Carbonates a key category1, and is 
+this subcategory
+significant?
+Are
+limestone and dolomite
+consumption data available for 
+different source
+categories?
+Yes
+No
+No
+Collect data for the Tier 3
+or Tier 2 method.
+Collect facility-specific activity data
+on carbonates consumed (their 
+chemical composition and calcination 
+achieved) and relevant emission
+factors as basis for Tier 3 method.
+Collect quantity of limestone and 
+dolomite consumed in each source 
+category. Apply relevant emission 
+factors.
+Similar to Tier 2 (Box 2 above), 
+however, use default weight fractions.
+Yes
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Yes
+No
+ 
+Volume 3: Industrial Processes and Product Use  
+2.36 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.5.1.2 
+CHOICE OF EMISSION FACTORS 
+TIER 1 AND TIER 2 
+The emission factor for the Tier 1 and Tier 2 methodologies is based on the mass of CO2 released per mass of 
+carbonate consumed (see Table 2.1.) The distinction between Tier 1 and Tier 2 is in the activity data.  
+TIER 3  
+The Tier 3 emission factor represents the weighted average of the emission factors of the individual carbonates 
+(see Table 2.1). The Tier 3 approach requires the full accounting of carbonates (species and sources).  
+2.5.1.3 
+CHOICE OF ACTIVITY DATA 
+TIER 1 
+In the Tier 1 method, the inventory compiler should collect activity data for total carbonate consumption for 
+emissive uses (see Table 2.7 for uses of carbonates that are emissive.) In the absence of better data, it is 
+consistent with good practice for inventory compilers to assume that 85 percent of carbonates consumed are 
+limestone and 15 percent of carbonates consumed are dolomite. For soda ash use, the inventory compiler should 
+collect national or plant level data on the total quantity of soda ash used. For clays used in the ceramics industry, 
+the inventory compiler should collect national production data for bricks and roof tiles, vitrified clay pipes, and 
+refractory products and calculate the amount of clay consumed by multiplying production with a default loss 
+factor of 1.1.  
+TIER 2  
+It is considered good practice to collect activity data to illustrate the total quantity of carbonates consumed in 
+each end use sector. Where specific data are not available to identify the different carbonates consumed in these 
+end use sectors, it is good practice to collect national level activity data for limestone and dolomite consumed. 
+Similar to the Tier 1 method, where the fraction of calcination achieved is unknown, it is consistent with good 
+practice for the inventory compiler to assume that 100 percent calcination is achieved. Inventory compilers 
+should be cautious not to assume that all limestone and dolomite consumed in the country results in the release 
+of CO2 emissions. For example, limestone and dolomite are often used as aggregates in a number of processes 
+and this use of crushed stone does not result in emissions (Table 2.7).  
+TIER 3  
+The most accurate method is to collect activity data on carbonate consumption by end use. Good practice is to 
+collect plant-specific data of the carbonate(s) consumed for that source category and the fraction of calcination 
+of the carbonate achieved. Carbonate consumption is assumed to be equal to the raw material mined (or dredged), 
+plus raw material imported minus material exported. Where the fraction of calcination achieved is unknown, it is 
+consistent with good practice for the inventory compiler to assume that 100 percent calcination is achieved. For 
+clay use in the ceramics industry, the inventory compiler should collect clay consumption data for all relevant 
+ceramics products.  
+2.5.1.4 
+COMPLETENESS  
+Completeness is a particular challenge with respect to carbonate-consuming (calcining) industries, because the 
+potential for both underestimation and overestimation exists. As has been noted throughout this chapter, where a 
+method is based on carbonate input, the potential for underestimating the total quantity of carbonates consumed 
+is possible. As such, the Tier 3 method for other process uses of carbonates should only be applied at the plant-
+level.  
+The potential also exists for double counting. Inventory compilers should carefully consider how national 
+statistics on limestone, dolomite and other carbonate uses were developed. For example, a data source for the 
+iron and steel industry may contain the total quantity of limestone consumed as a flux, especially to the degree 
+that emissions were part of blast furnace gas or other combustible gas that were included in the fuel combustion 
+emissions from the relevant sector. At a national level, on limestone statistics should be carefully examined to 
+determine whether the data also contains consumption of limestone in the iron and steel industry.  
+Often national statistics on limestone, dolomite and other carbonate uses contain categories such as ‘other 
+unspecified uses’. Inventory compilers should be cautious that this consumption is not already accounted for in 
+other sources.  
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.37 
+The Guidelines separately identify two categories (Other Uses of Soda Ash and Non-metallurgical Magnesia 
+Production) that are intermediate products used in a variety of other source categories. Soda ash, in particular, is 
+used in a variety of industries, such as glass production, soaps and detergents. It is suggested that inventory 
+compilers carefully review statistics for those source categories to ensure that no double counting has occurred. 
+For example, where soda ash is used in glass production, emissions should be reported in that category. Where 
+soda ash is used in another industry, emissions should be reported in that industry. Where soda ash is used in 
+another mineral industry or where information is not sufficient to determine where it has been consumed, then 
+emissions should be reported in the Category 2A4b, Other Uses of Soda Ash.  
+Table 2.7 highlights some questions that inventory compilers may ask themselves to help assure that these 
+emissions are allocated appropriately, and not over-or underestimated.  
+ 
+TABLE 2.7 
+EMISSIVE AND NON-EMISSIVE USES OF CARBONATES 
+Where are Carbonates Consumed? 
+Is source 
+emissive? 
+If yes, where should emissions be 
+reported? 
+Agricultural: 
+ Agricultural limestone 
+Yes* 
+AFOLU: 3C2 Liming 
+ Poultry grit and mineral food 
+No 
+ 
+ Other agricultural uses 
+No 
+ 
+Chemical and metallurgical: 
+ Cement manufacture 
+Yes 
+IPPU: 2A1 Cement Production 
+ Lime manufacture 
+Yes 
+IPPU: 2A2 Lime Production 
+ Dead burning of dolomite 
+Yes 
+IPPU: 2A2 Lime Production, where 
+deadburned; outside of lime industry 
+under Other (2A4d).  
+ Flux stone 
+Yes 
+IPPU: 2C Metal Industry, Industry 
+where consumed; unless counted within 
+Energy (for combustible off-gases sold 
+off-site) 
+ Chemical stone 
+Yes** 
+Source category where consumed 
+ Glass manufacture 
+Yes 
+IPPU: 2A3 Glass Production 
+ Sulphur oxide removal 
+Yes* 
+Source category where consumed 
+ Fertilisers 
+Yes** 
+IPPU: 2B Chemical Industry 
+Ceramics and mineral wool: 
+ Ceramics  
+Yes 
+IPPU: Mineral Industry: 2A4a Ceramics
+ Mineral wools 
+Yes 
+IPPU: Mineral Industry: 2A3 Glass 
+Production or 2A4d Other, depending 
+on production process.  
+Special: 
+ Mine dusting or acid water treatment 
+Yes* 
+Source category where consumed 
+ Asphalt fillers or extenders 
+No 
+ 
+ Whiting or whiting substitute 
+No 
+ 
+ Other fillers or extenders 
+No 
+ 
+Construction: 
+Use as a Fine or Coarse Aggregate 
+ 
+No 
+ 
+Volume 3: Industrial Processes and Product Use  
+2.38 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 2.7 (CONTINUATION) 
+EMISSIVE AND NON-EMISSIVE USES OF CARBONATES 
+Production 
+Is source 
+emissive? 
+If yes, where should emissions be 
+reported? 
+Other miscellaneous uses: 
+ Refractory stone 
+No 
+ 
+ Acid neutralization 
+Yes* 
+Source category where consumed 
+ Chemicals 
+No 
+ 
+ Paper manufacture 
+No 
+ 
+ Abrasives 
+No 
+ 
+ Sugar refining 
+Yes 
+IPPU: Emissions from lime production 
+at sugar mills should be reported under 
+2A2 Lime Production; all other 
+emissions in 2A4 Other Process Uses of 
+Carbonates. Removals should be 
+reported under 2H2 Food and Beverages 
+Industry.  
+Others 
+Yes*, No 
+Where Yes, IPPU: 2A4 Other Process 
+Uses of Carbonates  
+* Emissions are by an acidification reaction. 
+** Emissions could be by calcination and/or acidification. 
+ 
+2.5.1.5 
+DEVELOPING A CONSISTENT TIME SERIES 
+Fundamentally, these Guidelines treat the consumption of limestone, dolomite and other carbonate uses 
+differently than earlier IPCC Guidelines documents. Previous guidance suggested that, except for the case of 
+limestone and dolomite consumed in cement production, lime production and the liming of agricultural soils, all 
+consumption of limestone and dolomite be reported under the source category Limestone and Dolomite Use.  
+In the 2006 Guidelines, emissions from other process uses of carbonates should be reported in the source 
+category where they are consumed, and thereby emissions are reported in the sector where they are emitted. This 
+change could require recalculations to ensure time series consistency for the Other Process Uses of Carbonates 
+source category in the Minerals Industry, and also in the other source categories where the carbonates are 
+consumed.  
+There are a number of ways that inventory compilers may help ensure time series consistency: It is good practice 
+for the inventory compiler to consider the following in accordance with Volume 1, Chapter 5. 
+• 
+If data are available to complete the Tier 3 (or the Tier 2) method for all years, this should be followed. 
+• 
+If data are only available for certain years, the intervening years may be estimated by interpolation or 
+extrapolation of the trend lines.  
+• 
+If data on other process uses of carbonates are available at a disaggregated level for only the most recent 
+year, the inventory compiler may elect to apply the proportion of carbonates consumed in each industry for 
+the most recent year, to production trends for the respective industries, similar to the Surrogate Method 
+outlined in Volume 1, Section 5.3. Inventory compilers should be cautious when using this approach 
+however, and consider if there are national circumstances which may have led to the greater use of fluxes or 
+slagging agents for certain industries over the time period. 
+Chapter 2: Mineral Industry Emissions 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.39 
+2.5.2 
+Uncertainty assessment 
+2.5.2.1 
+EMISSION FACTOR UNCERTAINTIES 
+In theory the uncertainty associated with the emission factor for this source category should be relatively low, as 
+the emission factor is the stoichiometric ratio reflecting the amount of CO2 released upon calcination of the 
+carbonate. In practice, there are uncertainties due, in part, to variations in the chemical composition of the 
+limestone and other carbonates. For example, in addition to calcium carbonate, limestone may contain smaller 
+amounts of magnesia, silica and sulphur. Assuming that the activity data are collected correctly, and thus the 
+correct emission factor is applied, there is negligible uncertainty associated with the emission factor. There may 
+be some uncertainty associated with assuming a fractional purity of limestone and dolomite in cases where only 
+carbonate rock data are available (+/- 1-5 percent). 
+2.5.2.2 
+ACTIVITY DATA UNCERTAINTIES 
+Activity data uncertainties are greater than the uncertainties associated with emission factors. Assuming that 
+carbonate consumption is allocated to the appropriate consuming sectors/industries, the uncertainty associated 
+with weighing or proportioning the carbonates for any given industry is 1-3 percent. The uncertainty of the 
+overall chemical analysis pertaining to carbonate content and identity also is 1-3 percent. The uncertainty 
+associated with use of the Tier 2 and Tier 1 methods, including the assumption of a default breakdown of 
+limestone versus dolomite of 85%/15%, varies depending on country specific circumstances.  
+Activity data for limestone and dolomite use may be difficult to collect, as there are a variety of end uses in 
+different industries, some of which are emissive and others not. National statistics may include an end use 
+category of ‘other unspecified uses’ (or an otherwise similar category) and it may be difficult to allocate ‘other 
+unspecified uses’ to the appropriate consuming sector. Where all uses can not be properly identified this will 
+increase uncertainty.  
+2.5.3 
+Quality Assurance/Quality Control (QA/QC), 
+Reporting and Documentation 
+2.5.3.1 
+QUALITY ASSURANCE/QUALITY CONTROL (QA/QC) 
+COMPARISON OF EMISSION ESTIMATES USING DIFFERENT 
+APPROACHES  
+Emission estimates derived from any Tier can be compared with the other Tiers, even though the Tier 3 approach 
+may be accounting for additional carbonate species not included in the Tier 1 or 2 analyses. Assuming that the 
+same fraction of calcination achieved is used for all Tiers, the emissions estimated using the respective 
+approaches will likely be similar in magnitude, considering that limestone and dolomite likely contribute the 
+greatest percentage of emissions for these sources.  
+ACTIVITY DATA CHECK 
+As limestone, dolomite and other carbonates are consumed in a variety of industries there may be a number of 
+different data sources available containing carbonate consumption in the respective industries. For example, data 
+for limestone consumption at various facilities in the iron and steel industry could be compared to see if the 
+quantity of flux used in proportion to facility level production is similar.  
+Also, plant specific information on use of limestone, dolomite and other carbonates as a flux could be compared 
+with industry association statistics. These industry association statistics could in turn be compared with national 
+level statistics on limestone, dolomite and other carbonate consumption. 
+It is often useful to examine trends in activity data over time to see if there may be large fluctuations year to year. 
+Inventory compilers should be cautious when drawing conclusions based on trends data, as there may be large 
+year to year fluctuations in these statistics. 
+Volume 3: Industrial Processes and Product Use  
+2.40 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2.5.3.2 
+REPORTING AND DOCUMENTATION 
+The inventory should include summaries of methods used and references to source data such that the reported 
+emissions estimates are transparent and steps in their calculation may be reproduced. As noted above, the most 
+important consideration that inventory compilers should make when reporting emissions from other process uses 
+of carbonates is that emissions should be reported in the source category where the carbonates are consumed.  
+TIER 1 AND TIER 2 
+Information should be reported on the quantity of limestone and dolomite consumed by each industry. Where the 
+breakdown of carbonates consumed in a particular industry is unknown, and a default allocation of 85 percent 
+limestone and 15 percent dolomite is used, this should be documented.  
+TIER 3 
+Documentation required for the Tier 3 approach is analogous to the other source categories in this chapter that 
+calculate emissions based on carbonate inputs.  
+ 
+References 
+ASTM (1996). ASTM International. Standard Specification for Quicklime, Hydrated Lime, and Limestone for 
+Chemical Uses, Designation: C911-96, Table 1.  
+ASTM (2004a). ASTM International. Standard Specification for Portland Cement, Designation: C-150-02.  
+ASTM (2004b). ASTM International. Standard Specification for Blended Hydraulic Cements: C-595-03.  
+Boyd, D. C. and Thompson, D. A. (1980) "Glass", Kirk-Othmer Encyclopedia of Chemical Technology, Third 
+Edition, Volume 11, pp 826-827. 
+Boynton, R. S. (1980). Chemistry and Technology of Lime and Limestone, 2nd edition, John Wiley and Sons, 
+Inc., New York, USA.  
+CRC Handbook of Chemistry and Physics (2004). (David R. Lide, Ed in Chief); CRC Press, Boca Raton, FL; 
+Sec. 1, p.12-14  
+DIN (1994). Deutsche Industrie Norm. DIN 1164-1 Zement, Teil 1: Zusammensetzung, Anforderungen. Edition 
+1994-10.  
+EU-BREF Ceramics (2005). Integrated Pollution Prevention and Control (IPPC) Reference Document on Best 
+Available Techniques in the Ceramic Manufacturing Industry. (http://eippcb.jrc.es/pages/FActivities.htm) 
+Hendriks et al. (1998). Proceedings of the 4th International Conference of GHG Control Technologies. August 
+30-September 2. Interlaken.  
+Miller, M. (1999a). US Geological Survey, Calculations based on Boynton, 1980. 
+Miller, M. (1999b). U.S. Geological Survey. Calculations based on ASTM, 1996b and Schwarzkopf, 1985.  
+Schwarzkopf, F. (1985). Lime Burning Technology (2nd Edition), Table 2, June 1985. 
+Van Oss, H. (2005). Personal communication with Hendrik van Oss, January 2005.  
+Van Oss, H. and Padovani, A. (2002). Cement Manufacture and the Environment. Part I: Chemistry and 
+Technology. Journal of Industrial Ecology. Vol.6, Number 1, page 89-105.  
+WBCSD (2005). World Business Council for Sustainable Development The Cement CO2 Protocol: CO2 
+Accounting and Reporting Standard for the Cement Industry. Version 2.  June 2005 
+ 

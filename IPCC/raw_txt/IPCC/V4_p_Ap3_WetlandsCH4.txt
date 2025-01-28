@@ -1,0 +1,530 @@
+Appendix 3: CH4 Emissions from Flooded Land: Basis for Future Methodological Development 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap3.1 
+Appendix 3 
+CH4 Emissions from Flooded Land: Basis for 
+Future Methodological Development 
+This Appendix provides a basis for future methodological development rather than complete guidance. 
+Flooded Land may emit CH4 in significant quantities, depending on a variety of characteristic such as age and 
+depth of reservoirs, land-use prior to flooding, climate, and management practices. In contrast with CO2 
+emissions, CH4 emissions are highly variable spatially and temporally. Current measurements of CH4 fluxes 
+from Flooded Land are not sufficiently comprehensive to support the development of accurate default emission 
+factors (especially for bubbles emissions and degassing emissions).  In addition, data are not available for 
+countries with substantial surface area cover by reservoirs, as India, China, and Russia.   
+Measurement studies do not indicate that the time elapsed since flooding has a significant influence on CH4 
+fluxes from boreal and temperate reservoirs. The opposite is true in tropical regions where time elapsed since 
+flooding may have a significant influence on both diffusive, bubbles CH4 and degassing emissions.  This trend 
+was observed only on Petit-Saut reservoir in French Guiana (Abril et al., 2005); however, some old tropical 
+reservoirs show high bubbles emissions (Duchemin et al., 2000; Stallard and Keller, 1994).  The model 
+developed on Petit-Saut reservoir predicted very well the dissolved CH4 concentrations in an Ivory Coast 
+reservoir (Galy-Lacaux et al., 1998). 
+Evidence suggests that in Flooded Land, CH4 was generally produced exclusively from flooded soils; the 
+production of this gas could sustain measured fluxes at the water-air interface (Houel, 2003; Duchemin, 2000; 
+Abril et al., 2005).  
+3a.1 
+Flooded Land Remaining Flooded Land 
+This section provides information on how to estimate CH4 emissions from Flooded Land Remaining Flooded 
+Land. This information is drawn from available literature and is intended to be useful to countries that wish to 
+develop preliminary estimates of CH4 emissions from this source.  Countries with potentially significant CH4 
+emissions from Flooded Land seeking to report these emissions should consider the development of country-
+specific emission factors to reduce overall uncertainty. Guidance on the development of such factors is provided 
+in Box 2a.1 in Appendix 2. 
+3A.1.1 
+CH4 EMISSIONS FROM FLOODED LAND REMAINING 
+FLOODED LAND 
+METHODOLOGICAL ISSUES 
+Post-flooded CH4 emissions can occur via the following pathways:  
+• 
+Diffusive emissions, due to molecular diffusion across the air-water interface;  
+• 
+Bubble emissions, or gas emissions from the sediment through the water column via bubbles;  this is a very 
+important pathway for CH4 emissions, especially  in temperate and tropical regions;  
+• 
+Degassing emissions, or emissions resulting from a sudden change in hydrostatic pressure, as well as the 
+increased air/water exchange surface after reservoir waters flow through a turbine and/or  a spillway  (Hélie, 
+2004; Soumis et al., 2004; Delmas et al., 2005); this is a very important pathway for CH4 emissions from 
+young tropical reservoirs.  
+The Tier 1 approach only covers diffusive emissions. Tier 2 includes a term for estimating CH4 bubble emissions, 
+and if applicable, separate consideration of ice-free and ice-covered periods. Tier 3 methods refer to any detailed 
+measurement-based approach that includes an estimate of all relevant CH4 fluxes from Flooded Land, which also 
+includes degassing emissions, and considers the depth, the geographical localization and water temperature of 
+the reservoir for its entire life-time. Tier 3 methods are not outlined further in this chapter, but countries should 
+refer to Box 2a.1 in Appendix 2 on the derivation of country-specific emission factors as a resource for 
+implementing a Tier 3 approach. Table 3a.1 summarizes the coverage of the three tiers and CH4 emission 
+pathway. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap3.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+TABLE 3A.1 
+SUMMARY OF METHODS AND EMISSIONS COVERAGE  
+ 
+CH4 
+Tier 1 
+• 
+Diffusive emissions 
+Tier 2 
+• 
+Diffusive emissions 
+• 
+Bubble emissions 
+Tier 3 
+• 
+All emissions  
+ 
+ 
+The following section describes the Tier 2 and Tier 1 approaches for CH4 emissions.  
+CHOICE OF METHOD  
+Methane can be emitted from flooded lands through release of bubbles, by diffusion and by degassing.  The 
+decision tree in Figure 3a.1 guides inventory compilers through the processes of selecting an appropriate 
+approach for CH4 emissions from Flooded Land. Tier selection and the level of spatial and temporal 
+disaggregation implemented by inventory compilers will depend upon the availability of activity data and 
+emission factors, as well as the importance of reservoirs as contributors to national greenhouse gas emissions.   
+Country-specific scientific evidence and data are always preferable to Tier 1 default data.   
+Tier 1 
+The Tier 1 method for estimating CH4 emissions from Flooded Land includes only diffusion emissions during 
+ice-free period. Emissions during the ice-cover period are assumed to be zero.  Equation 3a.1 can be used with 
+measured emissions provided in Table 3a.2 and country-specific total area of flooded land: 
+ 
+EQUATION 3A.1 
+CH4 EMISSIONS FROM FLOODED LANDS (TIER 1) 
+ 
+6
+_
+_
+4
+4
+10
+)
+(
+−
+•
+•
+•
+=
+surface
+total
+flood
+diff
+WWflood
+A
+E CH
+P
+CH Emission
+ 
+Where: 
+CH4 emissionsWW flood = total CH4 emissions from Flooded Land, Gg CH4 yr-1 
+P = ice-free period, days yr-1 (usually 365 for annual inventory estimates, or less in country with ice-cover 
+period)) 
+E(CH4)diff = averaged daily diffusive emissions, kg CH4 ha-1 day-1  
+Aflood, total surface = total flooded surface area, including flooded land, lakes and rivers, ha 
+ 
+Appendix 3: CH4 Emissions from Flooded Land: Basis for Future Methodological Development 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap3.3 
+Figure 3a.1 
+Decision Tree for CH4 Emissions from Flooded Land Remaining Flooded 
+Land 
+ 
+Start
+Are
+country-specific CH4
+degassing data available
+for major type of
+reservoirs?
+Estimate emissions
+using default 
+emission factors
+ (Tier 1).
+No
+Note:
+1: See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+2: A subcategory is significant if it accounts for 25-30% of emissions/removals for the overall category.
+Are
+country-specific CH4
+diffusive and bubble emissions
+data available for major
+type of reservoirs?
+No
+Yes
+Estimate diffusive and
+bubble emissions only, 
+using country-specific 
+emission factors
+(Tier 2).
+No
+Yes
+Box 1: Tier 1
+Box 4: Tier 3
+Estimate emissions from all
+relevant emission pathways
+using country-specific
+emission factors (Tier 3).
+Are
+country-specific
+seasonally integrated emission factors 
+available for major
+type of reservoirs?
+Are
+flooded lands 
+a key category1 and is 
+CH4 significant2?
+Determine seasonally integrated
+CH4 emission factors for diffusive 
+and bubble emissions for major
+ type of reservoirs.
+Yes
+No
+Box 3: Tier 1/2
+Estimate diffusive, bubble
+and degassing using
+country-specific emission
+factors (Tier 2).
+Box 2: Tier 2
+Yes
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap3.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 2 
+A Tier 2 approach for CH4 emissions requires country-specific emission factors for diffusive and bubble 
+emissions, and if applicable, accounts for different rates of diffusion and bubble emissions during the ice-free 
+and ice-covered periods. Flooded land area may also be disaggregated by climatic zone, or any relevant 
+parameter listed in Box 2a.1 in Appendix 2. This approach is described in Equation 3a.2. 
+ 
+EQUATION 3A.2 
+CH4 EMISSIONS FROM FLOODED LANDS (TIER 2) 
+ 
+(
+)
+(
+)
+(
+)
+⎥
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎢
+⎣
+⎡
+•
++
+•
++
+•
+•
++
+•
+•
+=
+flood surface
+bubble
+i
+diff
+i
+i
+flood surface
+bubble
+f
+flood surface
+diff
+f
+WWflood
+A
+E CH
+E CH
+P
+A
+Ef CH
+P
+A
+Ef CH
+P
+Emissions
+CH
+,
+4
+4
+,
+4
+,
+4
+4
+)
+(
+)
+(
+)
+(
+)
+(
+  
+Where:  
+CH4 emissionsWW flood = total CH4 emissions from Flooded Land per year, kg CH4 yr-1 
+Pf = ice-free period, days yr-1 
+Pi = period with ice cover, days yr-1 
+Ef(CH4)diff = averaged daily diffusive emissions from air water-interface during the ice-free period, kg 
+CH4 ha-1 day-1 
+Ef(CH4)bubble = averaged daily bubbles emissions from air water-interface during the ice-free period, kg 
+CH4 ha-1 day-1 
+Ei(CH4)diff = diffusive emissions related to the ice-cover period, kg CH4 ha-1 day-1 
+Ei(CH4)bubble = bubbles emissions related to the ice-cover period, kg CH4 ha-1 day-1 
+Aflood, surface = total flooded surface area, including flooded land, lakes and rivers, ha 
+ 
+CHOICE OF EMISSION FACTORS  
+Tier 1 
+The key default values for Tier 1 are emission factors for CH4 via the diffusion pathway. Table 3a.2 provides 
+measured emissions for various climate zones. To the extent possible given available research, these measured 
+emissions integrate spatial (intra reservoir and regional variations) and temporal variations (dry/rainy and other 
+seasonal, inter-annual variations) in the emissions from reservoirs.  Default emission factors should be used in 
+Tier 1 for the ice-free period only. During complete ice-cover period, CH4 emissions are assumed to be zero.  
+When default data are not available, countries should use the closest default emission factors value (emissions of 
+the most similar climatic region). 
+Tier 2 
+Under Tier 2, country-specific emission factors should be used instead of default factors to the extent possible. 
+Additional estimates of winter emissions and CH4 bubble emissions are also needed, which will require the 
+development of country-specific emission factors. It is anticipated that a mix of default values and country-
+specific emission factors will be used when the latter do not cover the full range of environmental and 
+management conditions. The development of country-specific emission factors is discussed in Box 2a.1 in 
+Appendix 2. The derivation of country-specific factors should be clearly documented, and published in peer 
+reviewed literature.  
+CHOICE OF ACTIVITY DATA 
+Several different types of activity data may be needed to estimate flooded land emissions, depending on the tier 
+being implemented and the known sources of spatial and temporal variability within the national territory. These 
+activity data types correspond to the same data required for CO2 emissions as described in Section 7.3.2. 
+Flooded land area  
+Country-specific data on flooded land area are required for all tiers to estimate diffusive and bubble emissions. 
+Alternatively, countries can obtain an estimate of their flooded land area from a drainage basin cover analysis, 
+from a national dam database,  from  the International Commission on Large Dams (ICOLD, 1998) or from the 
+Appendix 3: CH4 Emissions from Flooded Land: Basis for Future Methodological Development 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap3.5 
+World Commission on Dams report (WCD, 2000). Since flooded land area could change rapidly, countries 
+should use updated and recent data.  Tier 2 and Tier 3 approaches preferably rely on a national database to track 
+reservoirs surface area.  This database should also include other parameters as reservoir depth, year of flooding, 
+reservoir localization (see Box 2a.1 in Appendix 2).  
+Period of ice-free cover/Period of ice-cover 
+Under Tiers 2 and 3, the periods during which the reservoirs are ice-free or ice-covered are required to estimate 
+emissions of CH4 emissions. These data can be obtained from national meteorological services.  
+Outflow/Spillway volume 
+Under Tier 3, flooded land outflow and spillway volume are required to estimate degassing emissions of CH4.  
+CH4 concentrations upstream and downstream of dams 
+Under Tier 3, CH4 concentrations upstream and downstream of dams would be needed for estimating degassing 
+emissions. Information on how to measure these data can be obtained from the references cited in Box 2a.1 in 
+Appendix 2. 
+ 
+TABLE 3A.2 
+CH4 MEASURED EMISSIONS FOR FLOODED LAND 
+Climate 
+Diffusive Emissions (ice-free period) 
+Ef(CH4)diff (kg CH4 ha-1 day-1) 
+ 
+References 
+ 
+Median 
+Min 
+Max 
+Nm 
+Nres 
+ 
+Polar/Boreal, wet 
+0.086 
+0.011 
+0.3 
+253 
+13 
+Blais 2005; Tremblay et al. 2005; 
+Therrien, 2004; Therrien, 2005;  
+Huttunen et al., 2002; Lambert, 
+2002; Duchemin, 2000 
+Cold temperate, 
+moist 
+0.061 
+0.001 
+0.2 
+233 
+10 
+Tremblay et al., 2005; Therrien, 
+2004; Blais, 2005; Lambert, 2002; 
+Duchemin et al., 1999 
+Warm temperate, 
+moist  
+0.150 
+- 0.05 
+1.1 
+416 
+16 
+Tremblay et al., 2005; Soumis et al., 
+2004; Duchemin, 2000; Smith and 
+Lewis, 1992 
+Warm temperate, dry 
+0.044 
+0.032 
+0.09 
+135 
+5 
+Therrien et al., 2005; Therrien, 
+2004; Soumis et al., 2004 
+Tropical, wet 
+0.630 
+0.067 
+1.3 
+303 
+6 
+Tavares de lima, 2005; Abril et al., 
+2005; Therrien, 2004; Rosa et al., 
+2002; Tavares de lima et al., 2002; 
+Duchemin et al., 2000; Galy-Lacaux 
+et al., 1997;  Galy-Lacaux, 1996; 
+Keller and Stallard, 1994 
+Tropical, dry 
+0.295 
+0.070 
+1.1 
+230 
+5 
+Rosa et al., 2002; Dos Santos, 2000 
+The values in the second column represent the medians of CH4 emissions reported in the literature, which themselves are arithmetic 
+means of flux measured above individual reservoirs. The medians are used because the frequency distributions of underlying flux 
+measurements are not normal, and their arithmetic means are already skewed by extreme values. Min and Max values are, respectively, 
+the lowest and highest of all individual measurements within a given climate region; these are provided as an indication of variability 
+only. Nm = number of measurements; Nres = number of reservoirs sampled. 
+These measurements may include non-anthropogenic emissions (e.g., emissions from carbon in the upstream basin) and possible double 
+counting of anthropogenic emissions (e.g., waste water from urban areas in the region of the reservoir) and so may overestimate the 
+emissions. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap3.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+UNCERTAINTY ASSESSMENT 
+The two largest sources of uncertainty in the estimation of CH4 emissions from Flooded Land are the quality of 
+emission factors for the various pathways (diffusive, bubble and degassing) and estimates of the flooded land 
+areas. 
+Emission factors 
+As shown in Table 3a.2, average diffusive emissions can vary by an order of magnitude in boreal and temperate 
+regions, and by one to three orders of magnitude in tropical regions.  The same variability in bubble emissions is 
+observed in all regions (about one order of magnitude).  Therefore, the use of any default emission factor will 
+result in high uncertainty. 
+CH4 degasssing emissions are also an important source of uncertainty.  Degassing emissions are important 
+component of GHG emissions from flooded tropical lands (Galy-lacaux et al., 1997), accounting for more than 
+40% of the total GHG emissions from a nine year old reservoir (Delmas et al., 2005).  However, for many 
+reservoirs degassing emissions are small or negligible (Duchemin, 2000; Soumis et al., 2004). Hence, until 
+additional knowledge becomes available on the dynamics of CH4 degassing emissions, estimation should be 
+conducted on a case-by-case basis.  
+To reduce the uncertainties on emissions factors, countries should develop appropriate, statistically-valid 
+sampling strategies that take into account natural variability of the ecosystem under study (Box 2a.1 in Appendix 
+2).  When applicable, the distinction between ice-free and ice-covered periods may be a significant improvement 
+in accuracy (Duchemin et al., 2005). Those sampling strategy should include enough sampling stations per 
+reservoir, enough reservoirs and sampling periods.  The number of sampling stations should be determined using 
+recognized statistical approach.  Moreover, countries should consider factors included in Box 2a.1 in Appendix 2. 
+Flooded land surface area 
+Information on the flooded area retained behind larger dams (>100 km2) should be available and will probably 
+be uncertain by approximately 10%, especially in countries with large dams and hydroelectric reservoirs. For 
+countries with many flooded lands and where national databases are not available, flooded area retained behind 
+dams will probably be uncertain by more than 50%. Detailed information on the location, type and function of 
+smaller dams may be also difficult to obtain, though statistical inference may be possible based on the size 
+distribution of reservoirs for which data are available. In addition, reservoirs are created for variety of reasons 
+that influence the availability of data, and, consequently, the uncertainty on surface area is dependent on country-
+specific conditions. 
+3a.2 
+Land Converted to Flooded Land 
+With the actual knowledge, for Land Converted to Flooded Land, it is suggested to use measured emissions in 
+Table 3a.2. Inventory compilers should use Tier 1, Tier 2, and Tier 3 methods described in Section 3a.1 to 
+estimate CH4 emissions from Land Converted to Flooded Land. 
+ 
+References 
+Abril, G., Guérin, F., Richard, S., Delmas, R., Galy-Lacaux, C., Gosse, P., Tremblay, A., Varfalvy, L., dos 
+Santos, M.A. and Matvienko, B. (2005). Carbon dioxide and methane emissions and the carbon budget of 
+a 10-years old tropical reservoir (Petit-Saut, French Guiana), Global Biogeochemical Cycle, 19, 
+doi:10292005GB002457. 
+Blais, A.-M. (2005). Étude des gaz à effet de serre en milieux aquatiques Relevés de terrain 2005. Rapport 
+d'Environnement Illimité à Hydro-Québec Production. 30 p. and annexes. 
+Delmas, R., Richard, S., Guérin, F., Abril, G., Galy-Lacaux, C., Delon, C. and Grégoire, A. (2005).  Long Term 
+Greenhouse Gas Emissions from the Hydroelectric Reservoir of Petit Saut (French Guiana) and Potential 
+Impacts. In Tremblay, A., L. Varfalvy, C. Roehm and M. Garneau (Eds.). Greenhouse gas Emissions: 
+Fluxes and Processes, Hydroelectric Reservoirs and Natural Environments. Environmental Science Series, 
+Springer, Berlin, Heidelberg, New York, pp. 293-312. 
+dos Santos, M.A. (2000). Inventário emissões de gases de efeito estufa derivadas de Hidréletricas, PhD. 
+Dissertation, University of Rio de Janeiro, Rio de Janeiro, Brazil, 154p.  
+Duchemin, E., Lucotte, M., Canuel, R. and Soumis, N. (2006). First assessment of CH4 and CO2 emissions from 
+shallow and deep zones of boreal reservoirs upon ice break-up, Lakes and Reservoirs: Research and 
+Management, 11:9-19. 
+Appendix 3: CH4 Emissions from Flooded Land: Basis for Future Methodological Development 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Ap3.7 
+Duchemin, É. (2000). Hydroelectricity and greenhouse gases: Emission evaluation and identification of 
+biogeochemical processes responsible for their production, PhD. Dissertation, Université du Québec à 
+Montréal, Montréal (Québec), Canada, 321 p (available on CD-ROM). 
+Duchemin, É., Lucotte, M., Canuel, R. and Chamberland, A. (1995). Production of the greenhouse gases CH4 
+and CO2 by hydroelectric reservoirs of the boreal region, Global Biogeochemical Cycles, 9, 4, 529-540. 
+Duchemin, É., Lucotte, M., Canuel, R., Almeida Cruz, D., Pereira, H.C., Dezincourt, J. and Queiroz, A.G. 
+(2000). Comparison of greenhouse gas emissions from an old tropical reservoir and from other reservoirs 
+worldwide, Verh. Internat. Verein. Limnol., 27, 3, 1391-1395. 
+Duchemin, É., Canuel, R., Ferland, P. and Lucotte, M. (1999). Étude sur la production et l’émission de gaz à 
+effet de serre par les réservoirs hydroélectriques d’Hydro-Québec et des lacs naturels (Volet 2), Scientific 
+report, Direction principal Planification Stratégique - Hydro-Québec, 21046-99027c, 48p. 
+Galy-Lacaux, C. (1996). Modifications des échanges de constituants mineurs atmosphériques liées à la création 
+d'une retenue hydroélectrique. Impact des barrages sur le bilan du méthane dans l'atmosphère, PhD 
+dissertation, Université Paul Sabatier, Toulouse (France), 200 p. 
+Galy-Lacaux, C., Delmas, R., Jambert, C., Dumestre, J.-F., Labroue, L., Richard, S. and Gosse, P. (1997). 
+Gaseous emissions and oxygen consumption in hydroelectric dams: a case study in French Guyana, 
+Global Biogeochemical Cycles, 11, 4, 471-483. 
+Galy-Lacaux, C., Delmas, R., Kouadio, G., Richard, S. and Gosse, P. (1998). Long-term greenhouse gas 
+emissions from hydroelectric reservoirs in tropical forest regions, Global Biogeochemical Cycles, 13, 2, 
+503-517. 
+Hélie, J.F. (2004). Geochemistry and fluxes of organic and inorganic in aquatic systems of eastern Canada: 
+examples of the St-Lawrence River and Robert-Bourassa reservoir: Isotopic approach, PhD. Dissertation, 
+Université du Québec à Montréal, Montréal (Québec), Canada, 205p. 
+Houel, S. (2003). Dynamique de la matière organique terrigène dans les réservoirs boréaux, PhD. Dissertation, 
+Université du Québec à Montréal, Montréal (Québec), Canada, 121p. 
+Huttunen, J.T., Väisänen, T.S., Hellsten, S.K., Heikkinen, M., Nykänen, H., Jungner, H., Niskanen, A., Virtanen, 
+M.O., Lindqvist, O.V., Nenonen, O.S. and Martikainen, P.J. (2002). Fluxes of CH4, CO2, and N2O in 
+hydroelectric reservoir Lokka and Porttipahta in the northern boreal zone in Finland, Global 
+Biogeochemical Cycles, 16, 1, doi:10.1029/2000GB001316. 
+International Commission on Large Dams (ICOLD) (1998). World Register of Dams 1998. Paris. International 
+Comittee on large Dams (Ed.). Metadatabase.  
+Keller, M. and Stallard, R.F. (1994). Methane emission by bubbling from Gatun lake, Panama, J. Geophys. Res., 
+99, D4, 8307-8319. 
+Lambert, M. (2002). Campagne d'échantillonnage sur les émissions de gaz à effet de serre des réservoirs et des 
+lacs environnants - Rapport de terrain 2001. Rapport présenté à la Direction Barrage et environnement par 
+la Direction Environnement, Hydro-Québec, 108 p and appendix. 
+Rosa, L.P., Matvienko Sikar, B., dos Santos, M.A., and Matvienko Sikar, E. (2002). Emissoes de dioxido de 
+carbono e de metano pelos reservatorios hydroelectricos brasileiros, Relatorio de referencia – Inventorio 
+brasileiro de emissoes antropicas de gase de efeito de estufa, Ministerio da Ciencia e tecnologia, Brazil, 
+199p. 
+Smith, L.K. and Lewis, W.M. (1992). Seasonality of methane emissions from five lakes and associated wetlands 
+of the Colorado Rockies, Global Biogeochemical Cycles, 6, 4, 323-338  
+Soumis, N., Duchemin, É., Canuel, R. and Lucotte, M. (2004). Greenhouse gas emissions from reservoirs of the 
+western United States, Global Biogeochem. Cycles, 18, GB3022, doi:10.1029/2003GB002197. 
+Tavares de Lima, I. (2005). Biogeochemical distinction of methane releases from two Amazon hydroreservoirs, 
+Chemosphere, (in press) 
+Tavares de Lima, I. (2002). Emissoa de metano em reservatorio hidreletricos amazonicos atraves de leis de 
+potencia (Methane emission from Amazonian hydroelectric reservoirs through power laws), PhD 
+Dissertation, Universidade de Sao Paulo, Sao Paulo, Brazil, 119 p. 
+Therrien, J. (2004).  Flux de gaz à effet de serre en milieux aquatiques - Suivi 2003.  Rapport de GENIVAR 
+Groupe Conseil Inc. présenté à Hydro-Québec. 52 p. et annexes. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Ap3.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Therrien, J., Tremblay, A. and Jacques, R. (2005). CO2 Emissions from Semi-arid Reservoirs and Natural 
+Aquatic Ecosystems. In Tremblay, A., L. Varfalvy, C. Roehm et M. Garneau (Eds.). Greenhouse Gas 
+Emissions: Fluxes and Processes, Hydroelectric Reservoirs and Natural Environments. Environmental 
+Science Series, Springer, Berlin, Heidelberg, New York, pp. 233-250. 
+Tremblay, A., Therrien, J., Hamlin, B., Wichmann, E. and LeDrew, L. (2005). GHG Emissions from Boreal 
+Reservoirs and Natural Aquatic Ecosystems. In Tremblay, A., L. Varfalvy, C. Roehm and M. Garneau 
+(Eds.). Greenhouse gas Emissions: Fluxes and Processes, Hydroelectric Reservoirs and Natural 
+Environments. Environmental Science Series, Springer, Berlin, Heidelberg, New York, pp. 209-231. 
+WCD (2000). Dams and Development a New Framework for Decision-Making, The report of the World 
+Commission on Dams, Earthscan Publications Ltd, London and Sterling, VA, 356 p. 
+ 

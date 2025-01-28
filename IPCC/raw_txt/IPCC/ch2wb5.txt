@@ -1,0 +1,945 @@
+INDUSTRIAL PROCESSES
+2.76
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+4 OF  11  FERROALLOYS - TIER 1b - CO2 EMISSIONS
+STEP 4
+A
+Amount of
+Ferroalloy
+Produced
+(t)
+B
+Emission Factor
+ (t CO2/t ferroalloy
+produced)
+C
+CO2 Emitted
+ (t)
+D
+CO2 Emitted
+ (Gg)
+C = (A x B)
+D = C/103
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.77
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+5 OF 11 ALUMINIUM - TIER 1b - CO2 EMISSIONS
+STEP 5
+A
+Amount of Aluminium
+Produced
+(t)
+B
+Emission Factor
+(t CO2/t aluminium
+produced)
+C
+CO2 Emitted
+(t)
+D
+CO2 Emitted
+(Gg)
+C = (A x B)
+D = C/103
+MODULE
+INDUSTRIAL PROCESS
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+6 OF 11 ALUMINIUM - TIER 1b - CF4 EMISSIONS
+STEP 6
+A
+Type of
+cell
+B
+Amount of
+Aluminium
+Produced
+(tonnes)
+C
+Equation
+Constant
+CF4
+D
+Average
+Fraction of
+Pot Gas
+During
+Anode
+Effects
+E
+Current
+Efficiency
+(fraction)
+F
+Number
+of Anode
+Effects Per
+Day
+G
+Anode
+Effect
+Duration
+ (minutes)
+H
+CF4 Emitted
+(kg)
+I
+CF4
+Emitted
+(Gg)
+1.698
+H = (B x C x D x
+E x F x G)
+I = H/106
+MODULE
+INDUSTRIAL PROCESS
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+7 OF 11 ALUMINIUM - TIER 1b - C2F6 EMISSIONS
+STEP 7
+A
+Type
+of cell
+B
+Amount of
+Aluminium
+Produced
+(tonnes)
+C
+Equation
+Constant
+C2F6
+D
+Average
+Fraction of
+Pot Gas
+During
+Anode
+Effects
+E
+Current
+Efficiency
+(fraction)
+F
+Number of
+Anode
+Effects per
+Day
+G
+Anode
+Effect
+Duration
+ (minutes)
+H
+C2F6 Emitted
+(kg)
+I
+C2F6
+Emitted
+(Gg)
+0.1698
+H = (B x C x D x
+E x F x G)
+I = H/106
+INDUSTRIAL PROCESSES
+2.78
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+8 OF 11 ALUMINIUM - TIER 1c - CF4 EMISSIONS
+STEP 8
+A
+Amount of Aluminium
+Produced
+(t)
+B
+Emission Factor
+(kg CF4/t aluminium
+produced)
+C
+CF4 Emitted
+(kg)
+D
+CF4 Emitted
+(Gg)
+C = (A x B)
+D = C/106
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+9 OF 11  ALUMINIUM - TIER 1c - C2F6 EMISSIONS
+STEP 9
+A
+Total CF4 Emissions
+(Gg)
+B
+C2F6 Emission Factor
+(C2F6/CF4)
+C
+C2F6 Emitted
+(Gg)
+0.1
+C = (A x B)
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION -
+WORKSHEET
+2-11
+SHEET
+10 OF 11 ALUMINIUM - NO x,  CO, SO2 EMISSIONS
+STEP 10
+A
+Amount of Aluminium
+Produced
+(t)
+B
+Emission Factor
+(kg gas/t aluminium
+produced)
+C
+Pollutant Emitted
+ (kg)
+D
+Pollutant Emitted
+(Gg)
+C = (A x B)
+D = C/106
+NOx
+NOx
+CO
+CO
+SO2
+SO2
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.79
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+METAL PRODUCTION
+WORKSHEET
+2-11
+SHEET
+11 OF 11 SF6 USED IN ALUMINIUM AND MAGNESIUM
+FOUNDRIES - SF6 EMISSIONS
+STEP 11
+A
+Consumption of SF6
+(t)
+B
+SF6 Emitted
+(t)
+C
+SF6 Emitted
+(Gg)
+B = A
+C = B/103
+INDUSTRIAL PROCESSES
+2.80
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PULP AND PAPER INDUSTRIES
+WORKSHEET
+2-12
+SHEET
+1 OF 2 NOx , NMVOC AND CO EMISSIONS
+STEP 1
+Pulp Process Type
+A
+Quantity of Air
+Dried Pulp
+Produced
+(t)
+B
+Emission Factor
+ (kg gas /t air
+dried pulp
+produced)
+C
+Pollutant Emitted
+(kg)
+D
+Pollutant Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Kraft
+NOx
+NOx
+Kraft
+NMVOC
+NMVOC
+Kraft
+CO
+CO
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PULP AND PAPER INDUSTRIES
+WORKSHEET
+2-12
+SHEET
+2 OF 2  SO2  EMISSIONS
+STEP 2
+Pulp Process Type
+A
+Quantity of Air
+Dried Pulp
+Produced
+(t)
+B
+Emission Factor
+ (kg SO2/t air
+dried pulp
+produced)
+C
+SO2 Emitted
+(kg)
+D
+SO2 Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Kraft
+Acid Sulphite
+Total (Gg):
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.81
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+FOOD AND DRINK
+WORKSHEET
+2-13
+SHEET
+1 OF 2 ALCOHOLIC BEVERAGE PRODUCTION - NMVOC EMISSIONS
+STEP 1
+Alcoholic
+Beverage Type
+A
+Quantity of
+Alcoholic Beverage
+Produced
+(hl)
+B
+Emission Factor
+(kg NMVOC/hL
+beverage
+produced)
+C
+NMVOC Emitted
+(kg)
+D
+NMVOC Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Total (Gg):
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+FOOD AND DRINK
+WORKSHEET
+2-13
+SHEET
+2 OF 2 BREAD AND OTHER FOOD PRODUCTION - NMVOC EMISSIONS
+STEP 2
+Food Production
+Type
+A
+Quantity of Food
+Produced
+(t)
+B
+Emission Factor
+(kg NMVOC/t
+food processed)
+C
+NMVOC Emitted
+(kg)
+D
+NMVOC Emitted
+(Gg)
+C = (A x B)
+D = C/106
+Total (Gg):
+INDUSTRIAL PROCESSES
+2.82
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-14
+SHEET
+1 OF 2 BY-PRODUCTS - HFCS AND PFCS EMISSIONS
+STEP 1
+Type of
+Halocarbon
+A
+Quantity of
+Halocarbon
+Produced
+(t)
+B
+Emission Factor
+(kg halocarbon
+by-product per
+tonne halocarbon
+produced)
+C
+Halocarbon
+Emitted
+(kg)
+D
+Halocarbon
+Emitted
+(Gg)
+C = (A x B)
+D = C/106
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+PRODUCTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-14
+SHEET
+2 OF 2 FUGITIVE EMISSIONS - HFCS AND PFCS EMISSIONS
+STEP 2
+Type of
+Halocarbon
+A
+Quantity of
+Halocarbon
+Produced
+(t)
+B
+Emission Factor
+(kg halocarbon
+lost per tonne
+halocarbon
+produced)
+C
+Halocarbon
+Emitted
+(kg)
+D
+Halocarbon
+Emitted
+(Gg)
+C = (A x B)
+D = C/106
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.83
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET
+1 OF 13 - TIER 1a AND TIER 1b - BULK HALOCARBONS EMISSIONS
+HALOCARBON
+NAME
+STEP 1
+A
+Quantity of
+Halocarbon
+Produced
+(t)
+B
+Quantity of
+Halocarbon
+Imported in Bulk
+(t)
+C
+Quantity of
+Halocarbon
+Exported in Bulk
+(t)
+D
+Quantity of
+Halocarbon
+Destroyed
+(t)
+E
+Potential Bulk
+Halocarbon Emission
+(t)
+E = A + B - C - D
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET
+2 OF 13 - TIER 1b ONLY - PRODUCT CONTAINING HALOCARBONS
+HALOCARBON
+NAME
+STEP 2
+Type of Product
+F
+Number of Units
+Imported (+) or
+Exported (-)
+G
+Quantity of
+Material per Unit
+(kg)
+H
+Fraction of
+Halocarbon in
+Material
+ (%/100)
+I
+Potential Product
+Halocarbon Emissions
+(t)
+I = F x G x H/103
+Total (Gg):
+INDUSTRIAL PROCESSES
+2.84
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE -
+TIER 1a AND TIER 1b - SUMMARY OF HALOCARBONS EMISSIONS
+WORKSHEET
+2-15
+SHEET
+3 OF 13
+HALOCARBON NAME
+STEP 3
+J
+Potential Bulk Halocarbon
+Emissions
+(t)
+K
+Potential Product
+Halocarbon Emissions
+(t)
+L
+Total Potential
+Halocarbon Emission
+(t)
+M
+Total Potential
+Halocarbon Emissions
+(Gg)
+J= E from Step 1
+K= I from Step 2
+L = J + K
+M = M/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+REFRIGERATION TYPE
+HALOCARBON NAME
+WORKSHEET
+2-15
+SHEET
+4 OF 13  REFRIGERATION ASSEMBLY - TIER 2 - HFCS AND PFCS
+EMISSIONS
+STEP 4
+A
+B
+C
+D
+Amount of HFC/PFC
+Charged into New Systems
+in Year t
+(Echarged (t))
+(t)
+Assembly Losses
+(k)
+(%)
+Halocarbon Emitted
+(t)
+Halocarbon Emitted
+(Gg)
+C= (A x B)
+D = C/103
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.85
+ODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+REFRIGERATION TYPE
+HALOCARBON NAME
+WORKSHEET
+2-15
+SHEET
+5 OF 13 REFRIGERATION OPERATION - TIER 2 - HFCS AND PFCS
+EMISSIONS
+STEP 5
+E
+Amount of HFC/PFC
+Stocked in Existing Systems
+in Year t
+(Estock (t))
+(t)
+F
+Annual Leakage Rate
+(x)
+(%)
+G
+Halocarbon Emitted
+(t)
+H
+Halocarbon Emitted
+(Gg)
+G = E x F/100
+H = G/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+REFRIGERATION TYPE
+HALOCARBON NAME
+WORKSHEET
+2-15
+SHEET 6 OF 13  REFRIGERATION DISPOSAL - TIER 2 - HFCS AND PFCS EMISSIONS
+STEP 6
+I
+Amount of HFC/PFC
+Charged into New
+Systems in Year t-n
+(Eicharge (t-n))
+(t)
+J
+Average
+Equipment
+Lifetime
+(n)
+(years)
+K
+Amount of
+HFC/PFC in
+Systems at Time
+of Disposal in Per
+Cent of Original
+Charge
+(y)
+(%)
+L
+Amount of
+HFC/PFC
+Recovered in
+Per Cent of
+Actual Charge
+(z)
+(%)
+M
+Halocarbon
+Emitted
+(t)
+N
+Halocarbon
+Emitted
+(Gg)
+M = I  x [K/100]
+x [ (100 - L)/100]
+N = M/103
+INDUSTRIAL PROCESSES
+2.86
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+REFRIGERATION TYPE
+HALOCARBON NAME
+WORKSHEET
+2-15
+SHEET
+7 OF 13  REFRIGERATION SUMMARY - TIER 2 - HFCS AND PFCS EMISSIONS
+STEP 7
+O
+Assembly
+(Gg)
+P
+Operation
+(Gg)
+Q
+Disposal
+(Gg)
+R
+Total Halocarbon
+Emissions
+(Gg)
+O = D (from Step 4)
+P = H (from Step 5)
+Q = N (from Step 6)
+R =(O+P+Q)
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET 8 OF 13  FOAM PRODUCTS - TIER 2 - HFCS AND PFCS EMISSIONS
+STEP 8
+Foam Type
+A
+Quantity of
+HFC/PFC
+Used
+(t)
+B
+Quantity of
+HFC/PFC in
+Use
+(t)
+C
+Fraction Loss
+during
+Production
+(%/100)
+D
+Fraction Loss
+during Use
+ (%/100)
+E
+HFC/PFC
+Emitted
+(t)
+F
+HFC/PFC
+Emitted
+(Gg)
+E = (A x C)
++ (B x D)
+F = E/103
+Open
+NA
+NA
+Closed
+NA= Not Applicable
+Total (Gg):
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET
+9 OF 13  FIRE EXTINGUISHERS - TIER 2 - HFCS, PFCS AND SF6 EMISSIONS
+STEP 9
+Extinguisher Type
+A
+Total Quantity of
+HFC/PFC/SF6 Used
+in New
+Extinguishers
+ (t)
+B
+Fractional Loss
+Factor
+(%/100)
+C
+HFC/PFC/SF6
+ Emitted
+(t)
+D
+HFC/PFC/SF6
+ Emitted
+(Gg)
+C = (A x B)
+D = C/103
+Portable
+Fixed
+Total (Gg):
+12
+INDUSTRIAL PROCESSES
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+2.87
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET
+10 OF 13 - TIER 2 - AEROSOLS - HFCS AND PFCS EMISSIONS
+STEP 10
+A
+Use of HFCs/PFCs for
+Aerosols in Inventory
+Year
+(t)
+B
+Use of HFCs/ PFCs
+for Aerosols in
+Prior Year
+(t)
+C
+Loss of Current
+Year’s Use
+D
+Emission of
+HFCs/PFCs from
+Aerosols
+(t)
+E
+Emission of
+HFCs/PFCs from
+Aerosols
+(Gg)
+     D = (A x C)
+         + B (1 - C)
+E = D/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET
+11 OF 13  SOLVENTS  - TIER 2 - HFCS AND PFCS EMISSIONS
+STEP 11
+A
+Use of HFCs/PFCs
+for Solvents in
+Inventory Year
+(t)
+B
+Use of HFCs/ PFCs
+for Solvents in
+Prior Year
+(t)
+C
+Loss of Current
+Year’s Use
+D
+Emission of
+HFCs/PFCs from
+Solvents
+(t)
+E
+Emission of
+HFCs/PFCs from
+Solvents
+(Gg)
+   D = (A x C)
+      + B (1 - C)
+E = D/103
+MODULE
+INDUSTRIAL PROCESSES
+SUBMODULE
+CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET
+2-15
+SHEET
+12 OF 13  OTHER APPLICATIONS - TIER 2 - HFCS AND PFCS EMISSIONS
+STEP 12
+A
+Use of HFCs/PFCs
+for Other
+Applications in
+Inventory Year
+(t)
+B
+Use of HFCs/ PFCs
+for Other
+Applications in
+Prior Year
+(t)
+C
+Loss of Current
+Year’s Use
+D
+Emission of
+HFCs/PFCs from
+Other Applications
+(t)
+E
+Emission of
+HFCs/PFCs from
+Other Applications
+(Gg)
+      D = (A x C)
+          + B (1 - C)
+E = D/103
+INDUSTRIAL PROCESSES
+2.88
+R e v i s e d  1 9 9 6 I P C C  G u i d e l i n e s  f o r  N a t i o n a l  G r e e n h o u s e  G a s  I n v e n t o r i e s :   W o r k b o o k
+MODULE INDUSTRIAL PROCESSES
+SUBMODULE CONSUMPTION OF HALOCARBONS AND SULPHUR HEXAFLUORIDE
+WORKSHEET 2-15
+SHEET 13 OF 13  SF6 EMISSIONS
+STEP 13
+A
+Quantity of SF6
+in Use in
+Inventory Year
+(t)
+B
+Loss Factor for
+SF6 in Use
+(%/100)
+C
+Quantity of SF6
+in Use 30 Years
+Prior to the
+Inventory Year
+(t)
+D
+Fraction
+Remaining in SF6
+Equipment at
+Time of Disposal
+(%/100)
+E
+SF6 Emitted
+(t)
+F
+SF6 Emitted
+(Gg)
+    E = (A x B)
+       + (C x D)
+F = E/103

@@ -1,0 +1,1460 @@
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.21
+Based on a review of other energy systems (e.g., ARC, 1980), a linear relationship
+between digestible energy and net energy was derived for digestibilities below 65 per cent
+as follows (see Appendix C):
+EQUATION 11
+NE/DE
+=  0.298 + (0.00335 x DE%)
+EQUATION 12
+NEg/DE
+= -0.036 + (0.00535 x DE%)
+Given the estimates for feed digestibility (from Step 1) and equations 9 through 12, the
+gross energy intake (GE in MJ/day) can be estimated as follows:
+EQUATION 13
+(
+) (
+)
+(
+)
+{
+}
+GE
+NE
+NE
+NE
+NE
+NE
+DE
+NE
+m
+feed
+l
+draft
+pregnancy
+g
+=
++
++
++
++
+×
++
+
+
+
+
+
+
+100
+%
+NEDE
+NE
+DE
+g
+where:
+{NE/DE} is computed from equation 9 for digestibility greater than 65 per cent and
+from equation 11 for digestibility less than or equal to 65 per cent;
+{NEg/DE} is computed from equation 10 for digestibility greater than 65 per cent and
+from equation 12 for digestibility less than or equal to 65 per cent; and
+DE% is digestibility in per cent (e.g., 60%).
+To check the estimate of daily gross energy intake from Equation 13, the estimate can be
+converted in daily intake in kilograms by dividing by 18.45 MJ/kg.  This estimate of intake
+in kilograms should generally be between 1.5 per cent and 3.0 per cent of the animal's
+weight.
+Using Equation 13 and the cattle data summarised in Appendix A, Gibbs and Johnson
+(1993) found that the intake estimates are consistent with expected intakes as a
+percentage of body weight and previously published values.  For example, the intake
+estimate for Indian cattle is the equivalent of about 10,000 MJ per year of metabolisable
+energy (ME).  Winrock (1978) estimates the average ME requirements for Indian cattle at
+10,600 MJ per year.  Similarly, the ME values implied for U.S.A dairy and non-dairy cows
+are 58,000 MJ and 31,000 MJ per year, respectively, which are similar to estimates of
+62,000 MJ and 31,700 MJ derived in US EPA (1993).  Consequently, for a diverse set of
+conditions, the intake estimates correspond to reasonably expected ranges from
+previously published estimates.
+AGRICULTURE
+4.22
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+To estimate the emission factor for each cattle type, the feed intake is multiplied by the
+methane conversion rate (from Step 1) as follows:
+EQUATION 14
+Emissions (kg/yr) = [Intake (MJ/day) x Ym x (365 days/yr)] / [55.65 MJ/kg of
+methane]
+where Ym is the methane conversion rate expressed in decimal form (such as 0.06 for
+6 per cent).  The result of this step of the method is an emission factor for each cattle
+type defined in Step 1.
+E N T E R I C  F E R M E N T A T I O N
+T I E R  2 :  S T E P  3  – T O T A L  E M I S S I O N S
+To estimate total emissions the selected emission factors are multiplied by the associated
+animal population and summed.  As described above under Tier 1, the emissions
+estimates should be reported in gigagrams (Gg).
+4 . 2 . 5  
+T i e r  2  A p p r o a c h  f o r  M e t h a n e  E m i s s i o n s
+f r o m  M a n u r e  M a n a g e m e n t
+The Tier 2 approach provides a more detailed method for estimating methane emissions
+from manure management systems.  The Tier 2 approach is recommended for countries
+with large cattle, buffalo and swine populations managed under confined conditions.
+Compared to the Tier 1 approach, this method requires additional detailed information
+on animal characteristics and the manner in which manure is managed.  Using this
+additional information, emission factors are estimated that are specific to the conditions
+of the country, and the default emission factors from Tier 1 are not used.
+The Tier 2 approach is similar to the original OECD method described in OECD (1991).
+Improvements to the method have been made to incorporate more recent figures on
+methane conversion factors and to link the method more closely to the animal
+characteristic data collected for estimating enteric fermentation.
+M A N U R E  M A N A G E M E N T
+T I E R  2 :  S T E P  1  – L I V E S T O C K  P O P U L A T I O N S
+To develop precise estimates of emissions, the animals should be divided into relatively
+homogeneous groups.  For each category a representative animal is chosen and
+characterised for purposes of estimating an emission factor.  Suggested categories for
+cattle are discussed above under the enteric fermentation Tier 2 method and are
+summarised in Table 4-7.  Similar categories can be used for buffalo.  Categories for
+swine could include sows, boars, and growing animals (farrows to finishers).  For each of
+the representative animal types defined, the following information is required:
+•
+annual average population (number of head) by climate region (cool, temperate, and
+warm);
+•
+average daily volatile solids (VS) excretion (kg of dry matter per day);11
+                                                  
+     11 Volatile solids (VS) are the degradable organic material in livestock manure.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.23
+•
+methane-producing potential (Bo) of the manure (cubic metres (m3) of methane per
+kg of VS);
+•
+manure management system usage (percentage of manure managed with each
+management system).
+Population data are generally available from country-specific livestock census reports.  As
+described above under Tier 1, the portion of each animal population in cool, temperate,
+and warm climate regions is required.
+Often, data on average daily VS excretion are not available.  Consequently, the VS values
+may need to be estimated from feed intake levels.  The enteric fermentation Tier 2
+method should be used to estimate feed intake levels for cattle and buffalo.12  For swine,
+country-specific swine production data may be required to estimate feed intake.  To
+develop the default emission factors for swine presented in Tier 1, average feed intake
+estimates for swine in developed and developing countries were used from Crutzen et al.
+(1986) (see Appendix B, at the end of this section).
+Once feed intake is estimated, the VS excretion rate is estimated as:13
+EQUATION 15
+VS (kg dm/day) = Intake (MJ/day) x (1 kg/18.45 MJ) x (1 - DE%/100) x
+(1-ASH%/100)
+where:
+VS
+=
+VS excretion per day on a dry weight basis;
+dm
+=
+dry matter;
+Intake
+=
+the estimated daily average feed intake in MJ/day;
+DE%
+=
+the digestibility of the feed in per cent (e.g., 60%);
+ASH%
+=
+the ash content of the manure in per cent (e.g., 8%).
+For cattle, the DE% value used should be the same value used to implement Tier 2 for
+enteric fermentation.  The ash content of cattle and buffalo manure is generally around
+8 per cent.  For swine, the default emission factors were estimated using 75 per cent and
+50 per cent digestibility for developed and developing countries, respectively, and an ash
+content of 2 per cent and 4 per cent for developed and developing countries,
+respectively.  Appendix B summarises the data used to estimate the VS excretion rates
+for cattle, buffalo, and swine.
+The maximum methane-producing capacity for the manure (Bo) varies by species and diet.
+Country-specific data should be used where feasible.  A range of representative Bo values
+                                                  
+     12 By using the enteric fermentation Tier 2 method to estimate feed intake,
+consistency is assured in the data underlying the emissions estimates for both enteric
+fermentation and manure management.
+     13 The energy density of feed is about 18.45 MJ per kg of dry matter.  This value is
+relatively constant across a wide range of forage and grain-based feeds commonly
+consumed by livestock.
+AGRICULTURE
+4.24
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+for cattle, buffalo, and swine populations were used to develop the default emission
+factors as follows (see Appendix B):
+•
+Dairy Cattle
+−
+Developed Countries: 0.24 m3/kg VS
+−
+Developing Countries: 0.13 m3/kg VS
+•
+Non-dairy Cattle
+−
+Developed Countries: 0.17 m3/kg VS
+−
+Developing Countries: 0.10 m3/kg VS
+•
+Buffalo in all regions: 0.10 m3/kg VS
+•
+Swine
+−
+Developed Countries: 0.45 m3/kg VS
+−
+Developing Countries: 0.29 m3/kg VS
+The portion of manure managed in each manure management system must also be
+collected for each representative animal type.  Table 4-8 summarises the main types of
+manure management systems.  The first four types in the table, pasture, daily spread, solid
+storage, and drylot, are all dry manure management systems.  These systems produce
+little or no methane.  The wet manure management systems, liquid/slurry, anaerobic
+lagoon, and pit storage, are the primary sources of manure methane emissions.  To
+implement this Tier 2 method, at a minimum the proportion of manure managed in wet
+and dry systems must be estimated.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.25
+TABLE 4-8
+MANURE MANAGEMENT SYSTEMS AND METHANE CONVERSION FACTORS (MCFS)
+System
+MCF by Climatea
+Source
+Cool
+Temperate
+Warm
+Pasture/Range/Paddock: the manure from pasture and range grazing
+animals is allowed to lie as is, and is not managed.
+1%
+1.5%
+2%
+b
+Daily Spread: manure is collected in solid form by some means such as
+scraping.  The collected manure is applied to fields regularly (usually
+daily).
+0.1%
+0.5%
+1%
+b
+Solid Storage: manure is collected as in the daily spread system, but is
+stored in bulk for a long period of time (months) before any disposal.
+1%
+1.5%
+2%
+b
+Drylot:  in dry climates animals may be kept on unpaved feedlots where
+the manure is allowed to dry until it is periodically removed.  Upon
+removal the manure may be spread on fields.
+1%
+1.5%
+5%
+b
+Liquid/Slurry: these systems are characterised by large concrete lined
+tanks built into the ground.  Manure is stored in the tank for six or
+more months until it can be applied to fields.  To facilitate handling as a
+liquid, water may be added to the manure.
+10%
+35%
+65%
+b
+Anaerobic Lagoon: anaerobic lagoon systems are characterised by flush
+systems that use water to transport manure to lagoons.  The manure
+resides in the lagoon for periods from 30 days to over 200 days.  The
+water from the lagoon may be recycled as flush water or used to
+irrigate and fertilise fields.
+90%
+90%
+90%
+c
+Pit Storage: liquid swine manure may be stored in a pit
+while awaiting final disposal.  The length of storage time
+varies, and for this analysis is divided into two
+categories: less than one month or greater than one
+month.
+< 30 Days
+5%
+18%
+33%
+b
+> 30 Days
+10%
+35%
+65%
+b
+Anaerobic Digester: the manure, in liquid or slurry form, is anaerobically
+digested to produce methane gas for energy.  Emissions are from
+leakage and vary with the type of digester.
+5-15%
+5-15%
+5-15%
+d
+Burned for Fuel: manure is collected and dried in cakes and burned for
+heating or cooking.  Emissions occur while the manure is stored before
+it is burned.  Methane emission associated with the combustion of the
+manure are not considered here.  Combustion-related emissions are
+estimated in the Traditional Biomass Fuels Section of the Energy chapter.
+5-10%
+5-10%
+5-10%
+e
+a Cool climates have an average temperature below 15°C; temperate climates have an average temperature from 15°C to 25°C inclusive;
+warm climates have an average temperature above 25°C.
+b  Hashimoto and Steed (1993).
+c  Safley et al., (1992) and Safley and Westerman (1992).
+d  Yancun et al. (1985), Stuckey (1984) and Lichtman (1983).
+e  Safley et al. (1992).
+The default emission factors presented in Tier 1 are based on manure management
+system usage data collected by Safley et al. (1992).  Appendix B presents these data by
+region for cattle, buffalo and swine.  Although the data in Appendix B can be used as
+defaults, country-specific data, e.g., obtained through a survey, would improve the basis
+for implementing the Tier 2 method.  The resulting estimates must show the portion of
+manure from each animal type managed within each management system, by climate
+region.
+AGRICULTURE
+4.26
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+M A N U R E  M A N A G E M E N T
+T I E R  2 :  S T E P  2  – E M I S S I O N  F A C T O R S
+Emission factors are estimated for each animal type based using the data collected in
+Step 1 and the methane conversion factors (MCFs) for each manure management system.
+The MCF defines the portion of the methane producing potential (Bo) that is achieved.
+The MCF varies by manure management system and climate and can range between 0 and
+100 per cent.  Table 4-8 presents the latest available MCF estimates for the major
+manure management systems that have been developed.
+To calculate the emission factor for each animal type, a weighted average methane
+conversion factor (MCF) is calculated using the estimates of the manure managed by
+waste system within each climate region.  The average MCF is then multiplied by the VS
+excretion rate and the Bo for the animal type.  In equation form, the estimate is as
+follows:
+EQUATION 16
+EFi = VSi x 365 days/yr x Boi x 0.67 kg/m3 x
+  jK
+∑
+MCFjK x MS% ijK
+where:
+EFi
+=
+annual emission factor (kg) for animal type i (e.g., dairy cows);
+VSi
+=
+daily VS excreted (kg) for animal type i;
+Boi
+=
+maximum methane producing capacity (m3/kg of VS) for manure
+produced by animal type i;
+MCFjk
+=
+methane conversion factors for each manure management system j by
+climate region k; and
+MS%ijk
+=
+fraction of animal type i's manure handled using manure system j in
+climate region k.
+M A N U R E  M A N A G E M E N T
+T I E R  2 :  S T E P  3  – T O T A L  E M I S S I O N S
+To estimate total emissions the selected emission factors are multiplied by the associated
+animal population and summed.  As described above under Tier 1, the emissions
+estimates should be reported in gigagrams (Gg).
+4 . 2 . 6  B e y o n d  T i e r  2  f o r  M e t h a n e
+The default values used in the Tier 1 and 2 methods were derived from available livestock
+and manure management data and are generally representative of regional conditions.
+Because livestock and manure management conditions can vary significantly across and
+within countries, the default values may not reflect adequately the conditions in a given
+country.  Additionally, the variability of conditions has not been well characterised to
+date.
+The emissions estimates can be improved by going beyond the Tier 2 default data and
+collecting key country- or region-specific data.  Data elements that would benefit from
+data collection initiatives (such as targeted surveys of major livestock types) include the
+following:
+•
+Cattle weight
+In many regions the weights of cattle are not well quantified.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.27
+•
+Feed intake
+Field data on feed intake would be valuable for validating the feed intake estimates
+made under Tier 2 for cattle.
+•
+Manure production
+Field data on manure production by livestock would be valuable for validating the
+manure production estimates made under Tier 2.
+•
+Manure management
+Field data on manure management system usage would improve the basis for making
+the estimates.  Considerations of seasonal management practices could be
+incorporated into the data.
+In addition to these data collection initiatives, measurement programmes can be used to
+improve the basis for making the estimates.  In particular, measurements of emissions
+from manure management systems under field conditions is needed.  Techniques for
+making these measurements are described in IAEA (1992).  Additionally, measurements of
+the maximum methane producing ability of manure (Bo) from livestock in tropical regions
+is needed.
+Additionally, new techniques are being deployed to measure emissions from cattle under
+field conditions (Johnson et al., 1993).  Using these techniques, coefficients used in Tier 2
+can be verified (such as the methane conversion rate) and the emissions estimates can be
+validated.  Targeted assessments of tropical cattle populations would be most valuable.
+4 . 2 . 7  
+I n v e n t o r y  M e t h o d  f o r  N i t r o u s  O x i d e  -
+O v e r v i e w
+The method for estimating N2O emissions from manure management is described in
+detail in Section 4.5.3 of this Reference Manual, where emissions from several animal
+waste management systems are considered.  All emissions of N2O taking place before the
+manure is added to soils are to be reported under ‘’Manure Management’’.  These include
+emissions from anaerobic lagoons, liquid systems, solid storage and drylot, and ‘’other
+systems’’.   Emissions resulting from manure used for fuel are included in the Energy
+Chapter.  All manure-induced soil emissions are considered soil emissions here.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.29
+Appendix A
+Data Underlying Methane Default Emission
+Factors For Enteric Fermentation
+This appendix presents the data used to develop the default emission factors for methane
+emissions from enteric fermentation.  The detailed information presented for cattle and
+buffalo was developed in Gibbs and Johnson (1993).  The Tier 2 method was
+implemented with these data to estimate the default emission factors for cattle and
+buffalo.  Also presented are the summary data from Crutzen et al. (1986) that were used
+to estimate the emission factors for the other species.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.31
+TABLE A-1
+DATA FOR ESTIMATING ENTERIC FERMENTATION EMISSION FACTORS FOR DAIRY CATTLE
+Regions
+Weight
+kg
+Weight Gain
+kg/day
+Feeding Situation
+Milk
+kg/day
+Work
+hrs/day
+% Pregnant
+Digestibility of
+Feed %
+CH4 Conversion
+%
+North Americaa
+600
+0
+Stall Fed
+18.4
+0
+90%
+65%
+6%
+Western Europe
+550
+0
+Stall Fed
+11.5
+0
+90%
+60%
+6%
+Eastern Europeb
+550
+0
+Stall Fed
+7.0
+0
+80%
+60%
+6%
+Oceaniac
+500
+0
+Stall Fed
+4.7
+0
+80%
+60%
+6%
+Latin Americad
+400
+0
+Pasture/Range
+2.2
+0
+80%
+60%
+6%
+Asiae
+350
+0
+Stall Fed
+4.5
+0
+80%
+60%
+6%
+Africa & Middle East
+275
+0
+Stall Fed
+1.3
+0
+67%
+60%
+6%
+Indian Subcontinentf
+275
+0
+Stall Fed
+2.5
+0
+50%
+55%
+6%
+a Based on estimates for the United States
+b Based on estimates for the former USSR
+c Based on estimates for Australia.
+d Based on estimates for Brazil.
+e Based on estimates for China.
+f Based on estimates for India.
+Source: Gibbs and Johnson (1993).
+AGRICULTURE
+4.32
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE A-2
+DATA FOR ESTIMATING ENTERIC FERMENTATION EMISSION FACTORS FOR NON-DAIRY CATTLE
+Type
+Weight
+kg
+Weight Gain
+kg/day
+Feeding Situation
+Milk
+kg/day
+Work
+hrs/day
+Pregnant
+%
+Digestibility of Feed
+%
+CH4 Conversion %
+Day Weighted Population
+Mix %
+Emission Factors
+kg/head/yr
+North Americaa
+Mature Females
+500
+0.0
+Pasture/Range
+3.3
+0.0
+80%
+60%
+6.0%
+36%
+69
+Mature Males
+800
+0.0
+Pasture/Range
+0.0
+0.0
+0%
+60%
+6.0%
+2%
+75
+Calves on milk
+100
+0.9
+Pasture/Range
+0.0
+0.0
+0%
+NA
+0.0%
+16%
+0
+Calves on forage
+185
+0.9
+Pasture/Range
+0.0
+0.0
+0%
+65%
+6.0%
+8%
+42
+Growing heifers/steers
+265
+0.7
+Pasture/Range
+0.0
+0.0
+0%
+65%
+6.0%
+17%
+47
+Replacement/growing
+375
+0.4
+Pasture/Range
+0.0
+0.0
+0%
+60%
+6.0%
+11%
+56
+Feedlot cattle
+415
+1.3
+Stall Fed
+0.0
+0.0
+0%
+75%
+3.5%
+11%
+37
+Western Europe
+Mature Males
+600
+0.0
+Pasture/Range
+0.0
+0.0
+0%
+60%
+6.0%
+22%
+60
+Replacement/growing
+400
+0.4
+Pasture/Range
+0.0
+0.0
+0%
+60%
+6.0%
+54%
+84
+Calves on milk
+230
+0.3
+Pasture/Range
+0.0
+0.0
+0%
+65%
+0.0%
+15%
+0
+Calves on forage
+230
+0.3
+Pasture/Range
+0.0
+0.0
+0%
+65%
+6.0%
+8%
+33
+Eastern Europeb
+Mature Females
+500
+0.0
+Pasture/Range
+3.3
+0.0
+67%
+60%
+6.5%
+30%
+74
+Mature Males
+600
+0.0
+Pasture/Range
+0.0
+0.0
+0%
+60%
+6.5%
+22%
+65
+Young
+230
+0.4
+Pasture/Range
+0.0
+0.0
+0%
+60%
+6.0%
+48%
+40
+Oceaniac
+Mature Females
+400
+0.0
+Pasture/Range
+2.4
+0.0
+67%
+55%
+6.0%
+51%
+63
+Mature Males
+450
+0.0
+Pasture/Range
+0.0
+0.0
+0%
+55%
+6.0%
+11%
+55
+Young
+200
+0.3
+Pasture/Range
+0.0
+0.0
+0%
+55%
+6.0%
+38%
+39
+a Based on estimates for the United States.
+b Based on estimates for the former USSR.
+c Based on estimates for Australia.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.33
+TABLE A-2 (CONTINUED)
+DATA FOR ESTIMATING ENTERIC FERMENTATION EMISSION FACTORS FOR NON-DAIRY CATTLE
+Type
+Weight
+kg
+Weight Gain
+kg/day
+Feeding Situation
+Milk
+kg/day
+Work
+hrs/day
+Pregnant
+ %
+Digestibility of
+Feed %
+CH4
+Conversion
+ %
+Day Weighted
+Population Mix %
+Emission Factors
+kg/head/yr
+Latin Americad
+ Mature Females
+400
+0.0
+Large Areas
+1.1
+0.0
+67%
+60%
+6.0%
+37%
+58
+ Mature Males
+450
+0.0
+Large Areas
+0.0
+0.0
+0%
+60%
+6.0%
+6%
+57
+ Young
+230
+0.3
+Large Areas
+0.0
+0.0
+0%
+60%
+6.0%
+58%
+42
+Asiae
+ Mature Females-Farming
+325
+0.0
+Stall Fed
+1.1
+0.55
+33%
+55%
+6.5%
+27%
+48
+ Mature Females-Grazing
+300
+0.0
+Pasture/Range
+1.1
+0.00
+50%
+60%
+6.0%
+9%
+41
+ Mature Males-Farming
+450
+0.0
+Stall Fed
+0.0
+1.37
+0%
+55%
+6.5%
+24%
+58
+ Mature Males-Grazing
+400
+0.0
+Pasture/Range
+0.0
+0.00
+0%
+60%
+6.0%
+8%
+44
+ Young
+200
+0.2
+Pasture/Range
+0.0
+0.00
+0%
+60%
+6.0%
+32%
+31
+Africa
+ Mature Females
+200
+0.0
+Stall Fed
+0.3
+0.55
+33%
+55%
+6.5%
+13%
+31
+ Draft Bullocks
+275
+0.0
+Stall Fed
+0.0
+1.37
+0%
+55%
+6.5%
+13%
+40
+ Mature Females-Grazing
+200
+0.0
+Large Areas
+0.3
+0.00
+33%
+55%
+7.5%
+6%
+46
+ Bulls - Grazing
+275
+0.0
+Large Areas
+0.0
+0.00
+0%
+55%
+7.5%
+25%
+55
+ Young
+75
+0.1
+Pasture/Range
+0.0
+0.00
+0%
+60%
+6.0%
+44%
+14
+Indian Subcontinentf
+ Mature Females
+125
+0.0
+Stall Fed
+0.6
+0.00
+33%
+50%
+7.5%
+40%
+31
+ Mature Males
+200
+0.0
+Stall Fed
+0.0
+2.74
+0%
+50%
+7.5%
+10%
+41
+ Young
+80
+0.1
+Stall Fed
+0.0
+0.00
+0%
+50%
+6.0%
+50%
+17
+d Based on estimates for the Brazil.
+e Based on estimates for the China.
+f Based on estimates for India.
+Source: Gibbs and Johnson (1993)
+AGRICULTURE
+4.34
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE A-3
+DATA FOR ESTIMATING ENTERIC FERMENTATION EMISSION FACTORS FOR BUFFALO
+Type
+Weight
+kg
+Weight Gain
+kg/day
+Feeding Situation
+Milk
+kg/day
+Work
+hrs/day
+Pregnant
+ %
+Digestibility
+of Feed %
+CH4
+Conversion
+%
+Day
+Weighed
+Population
+Mix
+%
+Emissions
+Factors
+kg/head/yr
+Indian Subcontinenta
+Adult Males
+350 - 550
+0.00
+Stall Fed
+0.00
+1.37
+0%
+55%
+7.5
+14%
+55 - 77
+Adult Females
+250 - 450
+0.00
+Stall Fed
+2.70
+0.55
+33%
+55%
+7.5
+40%
+57 - 80
+Young
+100 - 300
+0.15
+Stall Fed
+0.00
+0.00
+0%
+55%
+7.5
+46%
+23 - 50
+Other Countriesb
+Adult Males
+350 - 550
+0.00
+Stall Fed
+0.00
+1.37
+0%
+55%
+7.5
+45%
+55 - 77
+Adult Females
+250 - 450
+0.00
+Stall Fed
+0.00
+0.55
+25%
+55%
+7.5
+45%
+45 - 67
+Young
+100 - 300
+0.15
+Stall Fed
+0.15
+0.00
+0%
+55%
+7.5
+10%
+23 - 50
+a Based on estimates for India.
+b Based on estimates for China.
+Source: Gibbs and Johnson (1993).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.35
+TABLE A-4
+DATA FOR ESTIMATING ENTERIC FERMENTATION EMISSION FACTORS FOR OTHER ANIMALS
+Animal Type
+Feed Intake
+(MJ/head/day)
+Methane Conversion Factor
+(%)
+Sheep
+Developed Countries
+20
+6%
+Developing Countries
+13
+6%
+Goats
+Developed Countries
+14
+5%
+Developing Countries
+14
+5%
+Camels
+Developed Countries
+100
+7%
+Developing Countries
+100
+7%
+Horses
+Developed Countries
+110
+2.5%
+Developing Countries
+110
+2.5%
+Mules/Asses
+Developed Countries
+60
+2.5%
+Developing Countries
+60
+2.5%
+Swine
+Developed Countries
+38
+0.6%
+Developing Countries
+13
+1.3%
+Poultry
+Developed Countries
+Not Estimated
+Developing Countries
+Sources: Feed intake and methane conversion for all animals from Crutzen et al (1986).  Methane conversion for camels  modified as
+in Gibbs and Johnson (1993).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+4.37
+Appendix B
+Data Underlying Methane Default Emission
+Factors for Manure Management
+This appendix presents the data used to develop the default emission factors for methane
+emissions from manure management.  The detailed information presented for cattle and
+buffalo was developed in Gibbs and Johnson (1993).  The swine feed intake data are from
+Crutzen et al. (1986).  The manure management system usage data and Bo estimates are
+from Safley et al. (1992).  The methane conversion factor (MCF) data are from
+Woodbury and Hashimoto (1993).  The Tier 2 method was implemented with these data
+to estimate the default emission factors for cattle, buffalo, and swine.  Also presented are
+the summary feed intake data from Crutzen et al. (1986) and the manure-related data
+from Safley et al. (1992) and Woodbury and Hashimoto (1993) that were used to
+estimate the emission factors for the other species.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.39
+TABLE B-1
+FEED INTAKE AND MANURE PRODUCTION FOR CATTLE
+Region
+Livestock Category
+Sub-Population
+Mass
+(kg)
+Feed
+Digest
+ (%)
+Energy
+Intake
+(MJ/day)
+Feed
+Intake
+(kg/day)
+Category
+Population
+%
+Manure
+(kg/h/d dm)
+VS
+ (kg/h/d)
+Bo
+(m3 CH4/kg
+VS)
+North America
+Dairy Cattle
+Average
+600
+65%
+299.5
+16.2
+100%
+5.68
+5.23
+0.24
+Non-dairy Cattle
+Mature Females
+500
+60%
+174.0
+9.4
+36%
+3.77
+3.47
+0.17
+Mature Males
+800
+60%
+189.3
+10.3
+2%
+4.10
+3.78
+0.17
+Young on milk
+100
+NA
+NA
+NA
+15%
+negligible
+negligible
+0.17
+Young
+185
+65%
+107.2
+5.8
+8%
+2.03
+1.87
+0.17
+Young
+265
+65%
+120.1
+6.5
+17%
+2.28
+2.10
+0.17
+Young
+375
+60%
+143.2
+7.8
+11%
+3.10
+2.86
+0.17
+Feedlot
+415
+75%
+161.8
+8.8
+11%
+2.19
+2.02
+0.17
+Avg. Non-dairy Cattle
+357
+53%
+128.0
+6.9
+100%
+2.55
+2.35
+0.17
+Western Europe
+Dairy Cattle
+Average
+550
+60%
+254.7
+13.8
+100%
+5.52
+5.08
+0.24
+Non-dairy Cattle
+Mature Males
+600
+60%
+152.5
+8.3
+22%
+3.31
+3.04
+0.17
+Young Replacements
+400
+60%
+149.8
+8.1
+55%
+3.25
+2.99
+0.17
+Young Calves
+230
+65%
+83.7
+4.5
+23%
+1.59
+1.46
+0.17
+Avg. Non-dairy Cattle
+405
+61%
+135.1
+7.3
+100%
+2.88
+2.65
+0.17
+AGRICULTURE
+4.40
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-1 (CONTINUED)
+FEED INTAKE AND MANURE PRODUCTION FOR CATTLE
+Region
+Livestock
+Category
+Sub-Population
+Mass
+(kg)
+Feed
+Digestibility
+ (%)
+Energy
+Intake
+(MJ/day)
+Feed Intake
+(kg/day)
+Category
+Population
+%
+Manure
+(kg/h/d dm)
+VS
+(kg/h/d)
+Bo
+ (m3 CH4/kg
+VS)
+Eastern Europe
+Dairy Cattle
+Average
+550
+60%
+207.2
+11.2
+100%
+4.49
+4.13
+0.24
+Non-dairy Cattle
+Mature Females
+500
+60%
+172.9
+9.4
+30%
+3.75
+3.45
+0.17
+Mature Males
+600
+60%
+152.5
+8.3
+21%
+3.31
+3.04
+0.17
+Young
+230
+60%
+102.2
+5.5
+49%
+2.22
+2.04
+0.17
+Avg. Non-dairy Cattle
+391
+60%
+134.4
+7.3
+100%
+2.91
+2.68
+0.17
+Oceania
+Dairy Cattle
+Average
+500
+60%
+174.1
+9.4
+100%
+3.77
+3.47
+0.24
+Non-dairy Cattle
+Mature Females
+400
+55%
+160.5
+8.7
+52%
+3.91
+3.60
+0.17
+Mature Males
+450
+55%
+138.8
+7.5
+10%
+3.38
+3.11
+0.17
+Young
+200
+55%
+98.6
+5.3
+38%
+2.41
+2.21
+0.17
+Avg. Non-dairy Cattle
+330
+55%
+134.9
+7.3
+100%
+3.29
+3.03
+0.17
+Latin America
+Dairy Cattle
+Average
+400
+60%
+145.9
+7.9
+100%
+3.16
+2.91
+0.13
+Non-dairy Cattle
+Mature Females
+400
+60%
+148.0
+8.0
+37%
+3.21
+2.95
+0.10
+Mature Males
+450
+60%
+144.0
+7.8
+5%
+3.12
+2.87
+0.10
+Young
+230
+60%
+107.5
+5.8
+58%
+2.33
+2.14
+0.10
+Avg. Non-dairy Cattle
+305
+60%
+124.4
+6.7
+100%
+2.70
+2.48
+0.10

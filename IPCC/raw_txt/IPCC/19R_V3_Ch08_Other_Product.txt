@@ -1,0 +1,1162 @@
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.1 
+CHAPTER 8 
+OTHER RODUCT MANUFACTURE AND 
+USE 
+ 
+ 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.2 
+Authors  
+Section 8.3 
+Michael Roger Czerniak (UK), Sébastien Raoux (France/USA) and Andrea Zille (Italy/Portugal) 
+ 
+Appendix 1 to Volume 3 
+Sébastien Raoux (France/USA) and Andrea Zille (Italy/Portugal) 
+ 
+ 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.3 
+Contents 
+8 
+Other Product Manufacture and Use ............................................................................................................ 8.5 
+8.1 
+Introduction .......................................................................................................................................... 8.5 
+8.2 
+Emissions of SF6 and PFCs from electrical equipment ........................................................................ 8.5 
+8.3 
+Use of SF6 and PFCs in other products ................................................................................................ 8.5 
+8.3.1 
+Introduction .................................................................................................................................. 8.5 
+8.3.2 
+Methodological issues .................................................................................................................. 8.5 
+8.3.2.1 
+Choice of method ..................................................................................................................... 8.5 
+8.3.2.2 
+Choice of emission factors ..................................................................................................... 8.17 
+8.3.2.3 
+Choice of activity data ............................................................................................................ 8.17 
+8.3.2.4 
+Completeness ......................................................................................................................... 8.17 
+8.3.2.5 
+Developing a consistent time series ....................................................................................... 8.17 
+8.3.3 
+Uncertainty assessment .............................................................................................................. 8.18 
+8.3.4 
+Quality assurance / quality control (QA/QC), reporting and documentation ............................. 8.18 
+8.4 
+N2O from Product uses ....................................................................................................................... 8.19 
+References .......................................................................................................................................................... 8.20 
+ 
+Equations 
+Equation 8.12  
+Emissions from AWACS (default emission actor) ......................................................... 8.7 
+Equation 8.13  
+Emissions from AWACS (user mass-balance) ............................................................... 8.7 
+Equation 8.14  
+University and research particle accelerator emissions (country-level) ......................... 8.9 
+Equation 8.15  
+University and research particle accelerator emissions (accelerator-level emission   
+factor) ........................................................................................................................... 8.10 
+Equation 8.16  
+Total research accelerator emissions ............................................................................ 8.10 
+Equation 8.17  
+Research accelerator emissions (accelerator-level mass-balance) ................................ 8.10 
+Equation 8.18  
+Industrial/medical accelerator emissions (country-level) ............................................. 8.12 
+Equation 8.19  
+Adiabatic property applications .................................................................................... 8.14 
+Equation 8.20  
+Double-glazed windows: assembly .............................................................................. 8.14 
+Equation 8.21  
+Double-glazed windows: use ........................................................................................ 8.14 
+Equation 8.22  
+Double-glazed windows: disposal ................................................................................ 8.14 
+Equation 8.22a (New)  Waterproofing of electronic circuits ............................................................................. 8.15 
+Equation 8.23  
+Prompt emissions .......................................................................................................... 8.17 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.4 
+Figures 
+Figure 8.2 
+Decision tree for SF6 from AWACS .................................................................................. 8.6 
+Figure 8.3 
+Decision tree for SF6 from research accelerators ............................................................... 8.9 
+Figure 8.4 
+Decision tree for industrial and medical particle accelerators .......................................... 8.12 
+Tables 
+Table 8.7  
+SF6 emissions per plane per year ........................................................................................ 8.7 
+Table 8.8  
+National AWACS fleets ..................................................................................................... 8.7 
+Table 8.9  
+Average SF6 charge in a particle accelerator by process description ............................... 8.13 
+Table 8.10  
+Emission factor for each process description, (SF6 emissions from industrial and medical 
+particle accelerators) ........................................................................................................ 8.13 
+Table 8.11 (New)  Emission factor for waterproofing of electronic circuits .................................................. 8.15 
+ 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.5 
+8 OTHER PRODUCT MANUFACTURE AND USE   
+Users are expected to go to Mapping Tables in Annex 5, before reading this chapter. This is required to 
+correctly understand both the refinements made and how the elements in this chapter relate to the 
+corresponding chapter in the 2006 IPCC Guidelines. 
+8.1 
+INTRODUCTION 
+No refinement. 
+8.2 
+EMISSIONS OF SF6 AND PFCs FROM 
+ELECTRICAL EQUIPMENT 
+No refinement. 
+8.3 
+USE OF SF6 AND PFCs IN OTHER PRODUCTS 
+8.3.1 
+Introduction 
+This source category excludes the following source categories that are addressed elsewhere in the 2006 IPCC 
+Guidelines:  
+• 
+Production of SF6 and PFCs (Section 3.10); 
+• 
+Production and use of electrical equipment (Section 8.2); 
+• 
+Primary and secondary production of magnesium and aluminium (Chapter 4); and 
+• 
+Semiconductor and flat panel display manufacturing (Chapter 6). 
+ 
+Identified remaining applications in this source category include:  
+• 
+SF6 and PFCs used in military applications, particularly SF6 used in airborne radar systems, e.g., Airborne 
+Warning and Control System (AWACS), and PFCs used as heat transfer fluids in high-powered electronic 
+applications; 
+• 
+SF6 used in equipment in university and research particle accelerators;  
+• 
+SF6 used in equipment in industrial and medical particle accelerators; 
+• 
+‘Adiabatic’ applications utilising the low permeability through rubber of SF6 and some PFCs, e.g., car tires 
+and sport shoe soles;  
+• 
+SF6 used in sound-proof windows; 
+• 
+PFCs used as heat transfer fluids in commercial and consumer applications; 
+• 
+PFCs used in cosmetics and in medical applications; 
+• 
+Other uses e.g. gas-air tracer in research and leak detectors. 
+• 
+PFCs and other fluorinated compounds in the manufacturing of textiles and waterproofing of electronic 
+circuits 
+8.3.2 
+Methodological issues 
+8.3.2.1 CHOICE OF METHOD 
+The good practice method is to use either consumption data from users of SF6 or PFCs or top-down import, 
+export and consumption data from national SF6 producers and distributors, disaggregated by major type of SF6 or 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.6 
+PFC application. Acquiring this data will entail a survey of all producers and distributors of SF6 and PFCs to 
+identify total net SF6 and PFC consumption. Once the data are obtained, the amount of SF6 and PFC consumed 
+by application in this source category should be estimated. 
+ 
+MILITARY APPLICATIONS 
+SF6 EMISSIONS FROM OPERATION OF AWACS 
+SF6 is used as an insulating medium in the radar systems of military reconnaissance planes of the Boeing E-3A 
+type, commonly known as AWACS. The purpose of the SF6 is to prevent electric flashovers in the hollow 
+conductors of the antenna, in which high voltages of more than 135 kV prevail. When the plane ascends, SF6 is 
+automatically released from the system and into the atmosphere to maintain the appropriate pressure difference 
+between the system and the outside air. When the plane descends, SF6 is automatically charged into the system 
+from an SF6 container on board. Most emissions occur during the pressure-balancing process on ascent, but 
+emissions from system leakage can also occur during other phases of flight or during time on the ground. Annual 
+emissions per plane have been estimated to be 740 kg, while the charge of each system is approximately 13 kg.  
+Figure 8.2 
+Decision tree for SF6 from AWACS 
+Use Emission-Factor
+Tier 1 approach.
+Start
+Are detailed
+acquisition and
+disbursement data available
+for this
+category?
+Is the Other
+Product Manufacture
+and Use a key category1, and is 
+this subcategory
+significant?
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Box 2: Tier 2
+No
+No
+Box 1: Tier 1
+Yes
+Use Mass-Balance
+Tier 2 approach.
+Yes
+Collect data for 
+Tier 2 method.
+ 
+ 
+Tier 1 method – SF6 emissions per plane 
+If a country does not have data on SF6 consumption by its AWACS, it may use a per-plane emission factor to 
+estimate emissions. An emission factor of 740 kg per plane per year is presented in Table 8.7 below; this figure 
+is based on estimates of SF6 emissions from NATO Boeing E-3As. Note that actual emissions per plane are 
+strongly influenced by the average number of sorties (take-offs) per plane per year. More frequent sorties will 
+raise the emission rate above 740 kg/plane; less frequent sorties will lower it. Leakage rates during flight or 
+during time on the ground will also affect the emission rate. 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.7 
+EQUATION 8.12 
+EMISSIONS FROM AWACS (DEFAULT EMISSION ACTOR) 
+ 
+ 
+ 740 
+ 
+ 
+ 
+ 
+ 
+User Emissions
+kg
+Number of planes in AWACS fleet
+=
+•
+ 
+ 
+TABLE 8.7 
+SF6 EMISSIONS PER PLANE PER YEAR 
+Emissions per plane per year (kg SF6) 
+Uncertainty 
+740 kg 
+±100 kg  
+Source: Schwarz (2005) 
+ 
+Table 8.8 includes information on national AWACS fleets worldwide (Boeing, 2005); like other activity data, it 
+may quickly go out of date. Countries are in the best position to know the numbers of planes in their AWACS 
+fleets.  
+ 
+TABLE 8.8 
+NATIONAL AWACS FLEETS 
+Country/ 
+Organisation 
+USA 
+Japan 
+France 
+UK 
+Other 
+NATO 
+Saudi 
+Arabia 
+Total 
+No. AWACS 
+33 
+4 
+4 
+7 
+17 
+5 
+70 
+Source: Boeing (2005) 
+ 
+Tier 2 method – user mass-balance method 
+The most accurate method for estimating SF6 emissions from AWACS is to track SF6 consumption by the 
+systems. To do so, the following equations, which are similar to the utility-level variant of the Tier 3 method for 
+electrical equipment, may be used. Note that for AWACS, acquisitions and disbursements of SF6 containers are 
+likely to be considerably more important to the result than acquisitions and retirements of operating systems. 
+EQUATION 8.13 
+EMISSIONS FROM AWACS (USER MASS-BALANCE) 
+6
+6
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+–  
+ 
+ 
+–  
+ 
+ 
+ 
+ 
+ 
+User Emissions
+Decrease in SF Inventory
+Acquisitions of SF
+Disbursements of SF
+Net Increase in AWACS Fleet Charge
+=
++
+ 
+Where: 
+Decrease in SF6 Inventory  
+= SF6 stored in containers at the beginning of the year – SF6 stored 
+in containers at the end of the year  
+Acquisitions of SF6  
+= SF6 purchased from chemical producers or distributors in bulk + 
+SF6 purchased from AWACS manufacturers or distributors with or 
+inside of new planes + SF6 returned to site after off-site recycling 
+Disbursements of SF6  
+= SF6 contained in AWACS that are transferred to other entities + 
+SF6 returned to suppliers + SF6 sent off-site for recycling + SF6 
+destroyed 
+Net Increase in AWACS Fleet Charge = 13 kg • (New AWACS – Retiring AWACS)  
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.8 
+SF6 AND PFC EMISSIONS FROM OTHER MILITARY APPLICATIONS 
+There is wide range of military applications using PFCs or SF6.1 Military electronics are believed to be an 
+important and growing application of PFC heat transfer fluids, which are valued for their stability and dielectric 
+properties. The fluids are used in ground and airborne radar (klystrons), avionics, missile guidance systems, 
+Electronic Counter Measures (ECM), sonar, amphibious assault vehicles, other surveillance aircraft, lasers, SDI 
+(Strategic Defense Initiative), and stealth aircraft. PFCs may also be used to cool electric motors, particularly in 
+applications where noise reduction is valued, e.g., in ships and submarines. The specific PFCs used in these 
+applications are believed to be similar to those identified as heat transfer fluids in electronics manufacturing in 
+Chapter 6. Spray cooling, jet impingement cooling, and pool boiling appear to be the favoured systems for heat 
+removal. In all of these cooling applications, the PFC is contained in a closed system, and neither replacement 
+nor replenishment of the PFC liquid appears to be required. Thus, the greatest opportunities for emissions are the 
+manufacture, maintenance, and, especially, the disposal of the equipment. 
+SF6 is used in high-performance ground and airborne radar systems in their hollow conductors for transmission 
+of high-frequency energy pulses at high voltages from the klystron. Another application of SF6 is as an oxidant 
+of lithium in Stored Chemical Energy Propulsion System (SCEPS), e.g., in naval torpedoes and in infrared 
+decoys (Koch, 2004). Apparently, these applications of SF6, like those of the PFC heat transfer fluids 
+enumerated above, are generally more or less enclosed, but servicing and testing procedures may lead to 
+emission. The use of SF6 for the quieting of torpedo propellers has also been reported (NIST, 1997). 
+In addition, SF6 may be emitted as a by-product of the processing of nuclear material for the production of fuel 
+and nuclear warheads. SF6 is known to be emitted from neutralising excess fluorine during the production of 
+nuclear fuel for civilian applications (AREVA, 2005). 
+Although it is believed that the total amounts of SF6 and PFCs consumed and emitted in this sector may be 
+significant, no data on quantities are publicly available so far. Therefore, inventory compilers should try to 
+collect further information from the relevant authorities and, if possible, their suppliers. As noted above, the 
+greatest opportunities for emissions from many of these applications appear to be the manufacture, maintenance, 
+and disposal of the equipment. Thus, if inventory compilers can acquire information on emission rates during the 
+manufacture, maintenance, and disposal of the equipment, along with the quantities of equipment manufactured, 
+in use, and disposed, they can use the Tier 2 or Tier 3 method for electrical equipment to estimate emissions. For 
+applications with different emissions profiles (e.g., prompt emissions), the appropriate equation from Section 8.2 
+may be used.  
+ 
+SF6 EMISSIONS FROM UNIVERSITY AND RESEARCH PARTICLE 
+ACCELERATORS  
+SF6 is used in university and research operated particle accelerators as an insulating gas. Typically, high voltage 
+equipment is contained and operated within a vessel filled with SF6 at a pressure exceeding atmospheric 
+pressure. Charges range from five kilograms to over ten thousand kilograms, with typical charges falling 
+between 500 and 3 000 kg. When the equipment requires maintenance, the SF6 is transferred into storage tanks. 
+SF6 losses occur primarily during gas recovery and transfer, when pressure relief valves are actuated, and 
+through slow leaks. 
+Based on two recent studies annual SF6 losses range between 5 and 7 percent of vessel capacity per year and 
+generally depend on the vessel opening frequency plus the efficiency of the recovery and transfer equipment. 
+World banked capacity is roughly estimated to be 500 tonnes with annual SF6 emissions of 35 tonnes.  
+Switzerland has developed a voluntary program to reduce SF6 emissions from particle accelerators. Suggestions 
+and techniques for reducing SF6 emissions from these sources exist.  
+                                                           
+1  David Harris and James Hildebrandt, “Spray Cooling Electrical and Electronic Equipment,” COTS Journal, November 
+2003; C. Shepherd Burton, “Uses and Air Emissions of Liquid PFC Heat Transfer Fluids from the Electronics Sector,” 
+Draft report prepared for Scott C. Bartos, U.S. Environmental Protection Agency. 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.9 
+Figure 8.3 
+Decision tree for SF6 from research accelerators 
+Use Accelerator-Level
+Emission-Factor approach.
+Start
+Are
+detailed acquisition
+and disbursement data 
+available for this 
+category?
+Are
+data on individual 
+accelerator charges 
+available?
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Box 3: Tier 3
+No
+Yes
+Box 1: Tier 1
+Yes
+Use Accelerator-Level
+Mass-Balance approach.
+No
+Collect data for Tier 3
+or Tier 2 method.
+Is the
+Other Product
+Manufacture and Use 
+a key category1, and is this
+subcategory
+significant?
+Box 2: Tier 2
+Use Country-Level
+approach.
+No
+Yes
+ 
+Tier 1 method – country-level method 
+In cases where individual user accelerator charge data is unavailable, one extremely rough method involves 
+determining the total number of university and research particle accelerators in the country and using several 
+factors to determine the country-level annual emission rate as noted in Equation 8.14. For this Tier 1 method, the 
+only data that requires collection is the total number of university and research particle accelerators in the given 
+country. 
+EQUATION 8.14 
+UNIVERSITY AND RESEARCH PARTICLE ACCELERATOR EMISSIONS (COUNTRY-LEVEL) 
+6
+6
+6
+(
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+(
+ 
+) (
+ 
+, 
+)
+(
+ 
+ 
+ 
+ 
+ 
+ 
+)
+Emissions
+Number of university and research particle accelerators in the country
+SF Use Factor
+SF Charge Factor kg
+SF university and research particle accelerator Emission Factor
+=
+•
+•
+•
+ 
+Where: 
+Number of university and research particle accelerators in the country                                                       
+= The total number of university and research particle accelerators in the country. This 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.10 
+rough method does not require countries to determine the number of accelerators that 
+use SF6. To determine if a country has a particle accelerator, go to http://www-
+elsa.physik.uni-bonn.de/Informationen/accelerator_list.html 
+SF6 Use Factor  
+= 0.33 Approximately one third of university and research particle accelerators use 
+SF6 as an insulator. 
+SF6 Charge Factor  = 2400 kg, SF6, the average SF6 charge in a university and research particle 
+accelerator. 
+SF6 university and research particle accelerator Emission Factor                                                                                                
+= 0.07, the average annual university and research particle accelerator emission rate as 
+a fraction of the total charge.  
+Tier 2 method – accelerator-level emission-factor approach 
+If data on the quantity of SF6 contained within each university and research accelerator are available, a default 
+emission factor of 7 percent may be multiplied by the total SF6 charge contained in university and research 
+accelerators in the country. The total country SF6 emission rate from university and research accelerators is 
+therefore calculated from Equation 8.15. 
+EQUATION 8.15 
+UNIVERSITY AND RESEARCH PARTICLE ACCELERATOR EMISSIONS (ACCELERATOR-LEVEL 
+EMISSION FACTOR) 
+6
+TotalEmissions
+SF universityand research particleacceleratorEmissionFactor
+Individual AcceleratorCharges
+=
+•∑
+ 
+Where: 
+SF6 university and research particle accelerator Emission Factor  
+= 0.07, the average annual university and research particle accelerator emission 
+rate as a fraction of the total charge. 
+Individual User Accelerator Charges  
+= SF6 contained within each university and research accelerator. 
+Tier 3 method –accelerator-level mass-balance method 
+SF6 emissions from university and research facilities operating particle accelerators may be most accurately 
+determined at the user level on an accelerator-by-accelerator basis. Emission calculations are estimated by 
+tracking accelerator charge as well as SF6 consumption and disposal. As detailed in Equation 8.16, the total 
+emissions are equal to the sum of the individual users’ emissions. Note, under this method, as the overall SF6 
+emission rate from particle accelerators is small compared to other SF6 uses, the associated SF6 lost in 
+manufacturing is considered negligible and is not included in the calculation.  
+EQUATION 8.16 
+TOTAL RESEARCH ACCELERATOR EMISSIONS 
+Total Emissions
+=∑Individual Accelerator Emissions
+ 
+Each particle accelerator’s emissions can be calculated as follows: 
+EQUATION 8.17 
+RESEARCH ACCELERATOR EMISSIONS (ACCELERATOR-LEVEL MASS-BALANCE) 
+6
+6
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+–  
+ 
+ 
+–
+ 
+ 
+ 
+Accelerator Emissions
+Decrease in SF Inventory
+Acquisitions of SF
+Disbursements of SF
+Net Increase in AcceleratorCharge
+=
++
+ 
+Where: 
+Decrease in SF6 Inventory  
+= SF6 stored in containers at the beginning of the year – SF6 
+stored in containers at the end of the year  
+Acquisitions of SF6  
+= SF6 purchased from chemical producers or distributors in bulk + 
+SF6 purchased from accelerator manufacturers or distributors with 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.11 
+or inside of new accelerator components + SF6 returned to site 
+after off-site recycling 
+Disbursements of SF6  
+= SF6 contained in components transferred to other entities + SF6 
+returned to suppliers + SF6 sent off-site for recycling + SF6 
+destroyed 
+Net Increase in Accelerator Charge = SF6 Charge of New Components – SF6 Charge of Retiring 
+Components  
+ 
+SF6 EMISSIONS FROM INDUSTRIAL AND MEDICAL PARTICLE 
+ACCELERATORS  
+SF6 is used as an insulating gas in two types of industrial particle accelerators (low and high voltage) and also in 
+medical (cancer therapy) particle accelerators, as is the case for university and research particle accelerators. 
+However, the emission and charge factors for industrial and medical particle accelerators are different from those 
+of university and research accelerators, as discussed below. 
+Global banked capacity for industrial particle accelerators is roughly estimated to be 500 tonnes with annual SF6 
+emissions of 35 tonnes. Global banked capacity for medical (radiotherapy) particle accelerators is roughly 
+estimated to be less than 5 tonnes with annual SF6 emissions of less than 5 tonnes. (Schwarz, 2005).  
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.12 
+Figure 8.4 
+Decision tree for industrial and medical particle accelerators 
+Use User-Level Emission-
+Factor approach.
+Start
+Are detailed
+acquisition and disbursement 
+data available for this
+category?
+Are
+data on individual
+accelerator charges
+available?
+Note:
+1. See Volume 1 Chapter 4, Methodological Choice and Identification of Key Categories (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Box 3: Tier 3
+No
+Yes
+Box 1: Tier 1
+Yes
+Use User-Level Mass-
+Balance approach.
+No
+Collect data for Tier 3
+or Tier 2 method.
+Is the Other
+Product Manufacture
+and Use a key category1, and is
+this subcategory
+significant?
+Box 2: Tier 2
+Use Country-Level
+approach.
+No
+Yes
+ 
+Tier 1 method – country-level method 
+In cases where individual user accelerator charge data is unavailable, one extremely rough method involves 
+determining the total number of particle accelerators by process description in the country and using factors to 
+determine the country level annual emission rate as noted in Equation 8.18. For this Tier 1 method, the only data 
+that requires collection is the total number of particle accelerators which contain SF6 by process description in 
+the given country. 
+EQUATION 8.18 
+INDUSTRIAL/MEDICAL ACCELERATOR EMISSIONS (COUNTRY-LEVEL) 
+6
+6
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+Emissions
+Number of particle accelerators that use SF by process description in the country
+SF Charge Factor kg
+SF applicable particle accelerator Emission Factor
+=
+•
+•
+ 
+ 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.13 
+ 
+Where: 
+Number of particle accelerators by type in the country  
+= The total number of particle accelerators by type (industrial high voltage, 
+industrial low voltage and radiotherapy) that use SF6 in the country, 1, 2, etc. (Only 
+count particle accelerators that use SF6. This differs for the Tier 1 calculation for 
+university and research particle accelerators)  
+SF6 Charge Factor  
+= The average SF6 charge in a particle accelerator by process description as noted 
+below. 
+SF6 particle accelerator Emission Factor  
+ 
+= The average annual SF6 particle accelerator emission rate as a fraction of the 
+total charge by process description. 
+ 
+TABLE 8.9 
+AVERAGE SF6 CHARGE IN A PARTICLE ACCELERATOR BY PROCESS DESCRIPTION 
+Process Description 
+SF6 Charge Factor, kg 
+Industrial Particle Accelerators – high voltage (0.3-23 MV) 
+1300 
+Industrial Particle Accelerators –low voltage (<0.3 MV) 
+115 
+Medical (Radiotherapy) 
+0.5a 
+a This is the average of values ranging from 0.05 kg to over 0.8 kg, depending on model and manufacturer. 
+Source: Schwarz (2005) 
+ 
+Tier 2 method – user-level emission-factor approach 
+If data on the quantity of SF6 contained within each industry and medical accelerator are available, use the Tier 2 
+method for university and research facilities; however, multiply the emission factor for each process description 
+provided below by the total, country-specific SF6 charge for that process description. 
+TABLE 8.10 
+EMISSION FACTOR FOR EACH PROCESS DESCRIPTION, 
+(SF6 EMISSIONS FROM INDUSTRIAL AND MEDICAL PARTICLE ACCELERATORS) 
+Process Description 
+Emission Factor, kg /kg SF6 charge 
+Industrial Particle Accelerators – high voltage (0.3-23 MV) 
+0.07 
+Industrial Particle Accelerators – low voltage (<0.3 MV) 
+0.013 
+Medical (Radiotherapy) 
+2.0a 
+a This emission factor is the average of values ranging from 1 kg to 10 kg per kg charge, depending on model, manufacturer, and service 
+intervals. 
+Source: Schwarz (2005) 
+ 
+Tier 3 method – user-level mass-balance method 
+To calculate SF6 emissions from industrial and medical particle accelerators, use the same Tier 3 method as the 
+university and research facilities. The customer service organisations for manufacturers and distributors of the 
+equipment are likely to have information on equipment stocks, imports, and exports, and on the quantities of SF6 
+used to fill and refill the equipment. 
+ 
+EMISSIONS FROM OTHER APPLICATIONS OF SF6 AND PFCs  
+It is good practice to contact all gas producers/distributors to identify SF6 and PFC users and to investigate the 
+gas consumption of source categories other than those mentioned above. The key difference among the 
+applications discussed below is the typical delay between the purchase of the SF6 or PFC and the release of the 
+chemical. In some cases (e.g., SF6 used in sound-proof glazing, PFCs used as heat transfer fluids), the chemical 
+is fairly well contained during the life of the equipment or product, and most emissions are associated with the 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.14 
+manufacture and disposal of the product. In these cases, the delay between the purchase of the chemical and its 
+final emission depends on the lifetime of the product, ranging from three years for tyres and sport-shoes to 25 
+years for sound-proof glazing. In other cases (e.g., use of SF6 and PFCs as tracers or in medical applications), the 
+chemical is fully emitted within a year of its purchase. If, as a result of an initial survey, applications with 
+distinctive delayed emissions appear significant, then good practice is to use a source category-specific emission 
+calculation, taking into account the delay in emissions. 
+Adiabatic uses 
+Adiabatic uses of SF6 and some PFCs exploit the low permeability of these gases through rubber.  Historically, 
+SF6 has been the dominant gas in these applications; however, PFCs with similar molecular weights (such as 
+C3F8) have recently been used as well. Applications with a delay period of 3 years include or car tyres, sport 
+shoe soles and tennis balls (Schwarz et al., 1996). For applications with emissions that are delayed by three 
+years, the following formula can be used. 
+EQUATION 8.19 
+ADIABATIC PROPERTY APPLICATIONS 
+ 
+ 
+  
+ 
+ 
+ 
+(
+ – 3)
+Emissions in year t
+= Sales in year t
+ 
+ 
+Sound-proof glazing 
+Double-glazed sound-proof windows: Approximately one-third of the total amount of SF6 purchased is released 
+during assembly (i.e., filling of the double glass window) (Schwarz/Leisewitz, 1999). For the stock of gas 
+remaining inside the window (capacity), an annual leakage rate of 1 percent is assumed (including glass 
+breakage). Thus, about 75 percent of initial stock remains at the end of its 25-year lifetime. The application of 
+SF6 in windows began in 1975, so disposal is only beginning to occur. Emissions from this source sub-category 
+should be calculated using Equations 8.20 to 8.22:  
+EQUATION 8.20 
+DOUBLE-GLAZED WINDOWS: ASSEMBLY 
+6
+ 
+ 
+ 
+ 0.33
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assembly Emissionsin year t
+SF purchased to fill windows assembled in year t
+=
+•
+ 
+ 
+EQUATION 8.21 
+DOUBLE-GLAZED WINDOWS: USE 
+ 
+ 
+ 
+  
+ 0.01
+ 
+ 
+ 
+Leakage Emissions in year t
+Capacityof ExistingWindows in year t
+=
+•
+ 
+ 
+EQUATION 8.22 
+DOUBLE-GLAZED WINDOWS: DISPOSAL 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(
+ 
+ 
+ 
+ 
+1 –
+ 
+Disposal Emissionsin year t
+Amount Left in Window at End of Lifetimein year t
+Recovery Factor
+=
+•
+ 
+ 
+Unless country-specific data are available, a default recovery factor value of zero should be assumed in Equation 
+8.22. If no specific information is available for these sub-source categories, good practice is to treat them as 
+prompt emissions. 
+ 
+ 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.15 
+Fluorinated compounds used to waterproof electronic circuits 
+There are two basic processes to adding waterproofing layers onto assembled electronic circuits: 
+1. Liquid-based PFOS or PFOA-containing films, applied by aerosol spray or immersion, or 
+2. Long-chain perfluorocarbon polymers applied by gas-phase reaction in a plasma. 
+The second process can result in emissions of fluorinated compounds (FCs) and is therefore the focus of this 
+guidance. The plasma deposition process involves the introduction of a variety of hydrocarbon gases where the 
+hydrogen atoms are replaced by fluorine supplied from an FC gas source that is decomposed in the plasma. 
+Periodically, the process chamber is also cleaned using FC gases in a way similar to the way that TFD chambers 
+are cleaned in the semiconductor industry. (See the 2006 IPCC Guidelines, Volume 3, Chapter 6 and the 2019 
+Refinement, Volume 3, Chapter 6.) 
+Table 8.11 below provides default emission factors, expressed in grams of gas per circuit board, for the three 
+FCs understood to account for the vast majority of GWP-weighted emissions from this process.  Inventory 
+compilers should apply all three emission factors to the number of circuit boards waterproofed to obtain a 
+complete estimate of emissions from this source category. 
+TABLE 8.11 (NEW) 
+EMISSION FACTOR FOR WATERPROOFING OF ELECTRONIC CIRCUITS 
+Gas Emitted 
+Emissions (g)/Circuit Board 
+CF4 
+0.006 
+C2F6 
+0.004 
+CHF3 
+0.003 
+Note:  
+Figures are expert judgement conducted by authors of Chapter 8 based on confidential data from Edwards Vacuum Ltd., 2017. 
+The emissions used to develop these emission factors were measured by FTIR on a working facility installation, and were originally 
+expressed in terms of gCO2/week/chamber. The numbers above were calculated based on the assumption that each process chamber 
+processes 60,000 circuit boards per week. The emissions included both higher-GWP gases (CF4, C2F6 and CHF3) and lower-GWP gases 
+(CH4, C3F6, COF2, C2H4), but emission factors are provided only for higher-GWP gases as their emissions are dominant (8,453,881 vs.  
+830 gCO2eq/week/chamber). Because the actual proportions of the emitted gases are sensitive process information for the company that 
+provided the data, the GWP-weighted emissions were divided equally among the three emitted gases on a gCO2eq basis, and were then 
+converted into grams of gas, to obtain the emission factors in Table 8.11.   
+ 
+ 
+EQUATION 8.22A (NEW) 
+WATERPROOFING OF ELECTRONIC CIRCUITS 
+i
+i
+Emissions
+EF
+n
+=
+•
+ 
+ 
+Where: 
+Emissionsi  = Emissions of each gas i listed in Table 8.11 
+n  
+= Number of circuit boards manufactured 
+EFi   
+= Emission factor for gas i in Table 8.11 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.16 
+Textile, carpet, leather and paper fluorinated treatment emissions 
+Fluorine-based treatment processes are used to control the surface properties of textile, carpet, leather, or paper 
+fibres, and – inter alia – to enhance their hydrophobicity, to increase their stain resistance, dyeing ability, or 
+mechanical strength, and to produce wrinkle-free materials (Lacasse & Baumann 2004; Schindler & Hauser 
+2004; Singha 2012; Gulrajani 2013; Roshan 2014). The main treatment technologies currently in use are based 
+on wet processes, including the pad-dry-cure method among others (Roshan 2014; Heydebreck et al. 2016; 
+Goswami 2017; Williams 2018). Another emerging technology is based on plasma processes used to treat, etch, 
+or deposit polymers on the surface of the substrate (Morent et al. 2008; Jafari et al. 2013; Zille et al. 2015; Gotoh et 
+al. 2017). 
+Although several international and national reports refer to the possible off-gas emissions of fluorinated 
+compounds (FC) into the atmosphere during wet and plasma treatments of textile, carpet, leather, and paper, no 
+representative emission factors appear to be available to estimate greenhouse gas (GHG) emissions from such 
+processes (EPA 1997; Schönberger & Schäfer 2003; MoEU 2012; DEPA 2013; UNIDO et al. 2017). It is 
+probable that FCs emissions of wet-based processes mainly occur during the pad-dry-cure process or other 
+thermal coating processes, but the amount of unreacted input chemicals that may be emitted through evaporative 
+losses or the type and amount of by-products formed during these processes as well as their relevance as GHG 
+gases do not appear to have been thoroughly characterized (IPPC 2003; OECD 2004). The extent to which 
+plasma-based textile treatment processes have penetrated volume production is unclear, but, by analogy with 
+plasma-based processes used in the electronics industry, and considering that many FC molecules are 
+particularly stable and difficult to disassociate, the utilization efficiency of the input gas is likely to be limited, 
+and FC emissions resulting from the incomplete use of input gases such asCF4, C2F6, CHF3, SF6, and other 
+fluorine-containing molecules in plasma processes may be significant. Since the authors were not able, at the 
+time of publication of the 2019 Refinement, to estimate the volume of fluorinated compounds that are used or 
+emitted by the textile, carpet, leather, and paper industries, FC emissions in this sector could represent a 
+significant new source, due to the large volume of substrates treated and the sheer size and global nature of the 
+industry (KEMI 2014).  
+ 
+While it does not appear feasible at the time of publication of the 2019 Refinement to apply a reporting 
+methodology for this new source category based on default emissions factors (e.g. based on representative 
+emission factors to estimate emissions of GHGs per mass or per surface area of substrate treated), a three-tiered 
+methodological framework (Tier 1, Tier 2a, Tier 2b) to report emissions once default emission factors become 
+available is proposed. In addition, a Tier 3 method that can readily be applied, based on measured emission 
+factors is also provided. Countries seeking to report FC emissions from textile, carpet, leather and paper 
+industries should work with equipment manufacturers and users of such equipment to measure equipment-
+specific, process-specific, or site-specific emission factors, with the aim of developing representative default 
+emission factors that could be used for site-specific, domestic, or industry-wide inventories.2 The proposed Tier 
+1, Tier 2a, Tier 2b, and Tier 3 methods are described in Appendix 1. Possible Approaches for Estimating FC 
+Emissions from Textile, Carpet, Leather and Paper Industries: Basis for Future Methodological Development, 
+and preliminary guidance about how to measure emissions factors and develop defaults is also provided. 
+ 
+PFCs used as heat transfer fluids in consumer and commercial applications 
+PFCs are used as heat transfer fluids in a number of high-power-density commercial and consumer electronic 
+applications. Commercial applications include cooling for supercomputer, telecommunication, and airport radar 
+systems, as well as drive units (rectifiers) on high-speed trains (Burton, 2006). These applications consume much 
+smaller volumes of liquid PFCs than electronics manufacturing, but are believed to be significant among ‘niche’ 
+applications. Consumer applications include cooling kits for desktop computers that are operated at high voltages 
+to increase their processing speed. The specific PFCs used in these applications are believed to be similar to 
+those identified as heat transfer fluids in electronics manufacturing in Chapter 6. In all of these applications, the 
+liquid PFCs are used in closed modules, indicating that most emissions occur during the manufacture, 
+maintenance, and disposal of the product or equipment. Thus, if inventory compilers can acquire information on 
+emission rates during the manufacture, maintenance, and disposal of the equipment, along with the quantities of 
+equipment manufactured, used, and disposed each year, they can use the Tier 2 or Tier 3 method for electrical 
+equipment to estimate emissions. For applications with different emissions profiles (e.g., prompt emissions), the 
+appropriate equation from Section 8.2 may be used. 
+ 
+                                                           
+2 For the explanation about the role of Appendices please refer to the Overview Chapter 
+ 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.17 
+PFCs used in cosmetic and medical applications 
+PFCs with relatively large molecular weights (e.g., C10F18) are used in cosmetic and medical applications, 
+exploiting their ability to carry oxygen to living tissue (May, 2006). Cosmetic applications include anti-wrinkle 
+creams and are estimated to consume fairly small amounts. Current and potential medical applications include 
+storage of pancreatic tissue for transplants (using the ‘two-layer method’), eye surgery (to repair retinal tears), 
+pneumonectomy (lung therapy and diagnosis), use as a contrast agent in ultrasonic and MRI examinations, blood 
+extension, wound healing, and treatment of diseases of the middle ear. All but the first two medical applications 
+involve only small quantities and/or are at the research stage. Storage of pancreatic tissue is a small but growing 
+application. Emissions from medical uses are uncertain but are believed to be small. 
+In all of these applications, the PFC is believed to be emitted into the atmosphere within one year of its purchase. 
+Thus, emissions from these sources can be estimated using Equation 8.23 for prompt emissions.  
+Any other uses of SF6 and PFCs 
+Other applications for SF6 and PFCs that are not specifically addressed above include their use as tracers (in leak 
+detection, indoor and outdoor tracking of air-masses, and oil recovery3) and use of SF6 in the production of 
+optical cables (for fluorodoping of glass fibres4). Often the gases or liquids are emitted within one year of 
+purchase. In this case, good practice in calculating SF6 and PFC emissions from these ‘prompt’ emissive 
+applications is to use the following formula: 
+EQUATION 8.23 
+PROMPT EMISSIONS 
+ 
+)
+(
+ 
+ 
+  
+ (0.5
+ 
+ 
+)
+ 
+0.5
+ 
+ 
+ 
+  –1
+Emissions in year t
+Amount Sold in year t
+Amount Sold in year t
+=
+•
++
+•
+ 
+ 
+This equation is similar to the equation for prompt ozone depleting substances (ODS) Substitute applications 
+(e.g., aerosols and solvents) addressed in Chapter 7 of this volume. The equation covers more than one year 
+because both sales and emissions are assumed to be continuous over the year; that is, chemical sold in the middle 
+of year t-1 is not fully emitted until the middle of year t. 
+ 
+8.3.2.2 CHOICE OF EMISSION FACTORS 
+For ‘other’ source categories of SF6 and PFCs that contribute substantially to a country’s SF6 and PFCs 
+emissions, countries are encouraged to develop country-specific emission factors based on occasional surveys of 
+representative subsets of sources. It is good practice to clearly document such emission factors. Default emission 
+factors are provided above for AWACS, accelerators, waterproofing of electronic circuits, prompt emissive 
+applications and adiabatic applications, including windows. 
+8.3.2.3 CHOICE OF ACTIVITY DATA 
+No refinement. 
+8.3.2.4 COMPLETENESS 
+No refinement. 
+8.3.2.5 DEVELOPING A CONSISTENT TIME SERIES 
+No refinement. 
+                                                           
+3  D. Vlachogiannis et al. (2005). This paper indicated that some fraction of injected PFCs and SF6 was destroyed during fuel 
+combustion, but the magnitude of this fraction (compared to the fraction of injected chemical that escaped before 
+combustion) was unclear. 
+4   See further information on this application in Schwarz (2005). 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.18 
+8.3.3 
+Uncertainty assessment 
+No refinement. 
+8.3.4 
+Quality assurance / quality control (QA/QC), 
+reporting and documentation 
+No refinement. 
+ 
+ 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.19 
+8.4 
+N2O FROM PRODUCT USES 
+No refinement. 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.20 
+References 
+SECTIONS 8.1 - 8.3 
+References newly cited in the 2019 Refinement 
+DEPA. (2013) Survey of PFOS, PFOA and other perfluoroalkyl and polyfluoroalkyl substances. In: Part of the 
+LOUS-review Environmental Project No. 1475, 2013, The Danish Environmental Protection Agency, 
+Copenhagen, Denmark. 
+Goswami, K.K. (2017) Advances in carpet manufacture. India: Woodhead Publishing. 
+Gotoh, K., Shohbuke, E., Ryu, G. (2017) Application of atmospheric pressure plasma polymerization for soil 
+guard finishing of textiles. Textile Research Journal 88: 1278-1289. 
+Gulrajani, M.L. (2013) Advances in the dyeing and finishing of technical textiles. Elsevier. 
+Heydebreck, F., Tang, J., Xie, Z., Ebinghaus, R. (2016) Emissions of Per- and Polyfluoroalkyl Substances in a 
+Textile Manufacturing Plant in China and Their Relevance for Workers’ Exposure. Environmental Science & 
+Technology 50: 10386-10396. 
+IPPC. (2003) Reference Document on Best Available Techniques for the Textiles Industry. In: BREF, European 
+Commission, Joint Research Centre, Seville, Spain: Integrated Pollution Prevention and Control (IPPC). 
+Jafari, R., Asadollahi, S., Farzaneh, M. (2013) Applications of Plasma Technology in Development of 
+Superhydrophobic Surfaces. Plasma Chemistry and Plasma Processing 33: 177-200. 
+KEMI. (2014) Chemicals in textiles - Risks to human health and the environment. In: Report 6/14, ed. SC 
+Agency, Arkitektkopia, Stockholm. 
+Lacasse, K., Baumann, W. (2004) Textile Chemicals: Environmental data and facts. Springer Science & 
+Business Media. 
+MoEU. (2012) BAT Guide for textile industry. In: Project TR-2008-IB-EN-03 Activity no: 2.1.4.b.3: Ministry of 
+Environment and Urbanism of Turkey (MoEU)  
+Morent, R., De Geyter, N., Verschuren, J., De Clerck, K., Kiekens, P., Leys C (2008) Non-thermal plasma 
+treatment of textiles. Surface and Coatings Technology 202: 3427-3449. 
+OECD. (2004) Emission Scenario Document on Textile Finishing Industry - ENV/JM/MONO(2004)12. In: 
+OECD SERIES ON EMISSION SCENARIO DOCUMENTS Paris, France: OCDE. 
+Roshan, P. (2014) Functional finishes for textiles: improving comfort, performance and protection. cambrige, 
+UK: Woodhead Publishing. 
+Schindler, W.D., Hauser, P.J. (2004) Chemical finishing of textiles. Elsevier. 
+Schönberger, H., Schäfer, Y. (2003) Best Available Techniques in Textile Industry -  200 94 329 UBA-FB 
+000325/e. In: TEXTE series, ed. NCANS Environmental Research Of The Federal Ministry Of The 
+Environment, Federal Environmental Agency, Berlin, Germany. 
+Singha, K. (2012) A review on coating & lamination in textiles: processes and applications. American Journal of 
+Polymer Science 2: 39-49. 
+UNIDO, UNITAR, UNEP. (2017) Guidance on best available techniques and best environmental practices for 
+the recycling and disposal of articles containing polybrominated diphenyl ethers (PBDEs) listed under the 
+Stockholm Convention on Persistent Organic Pollutants. In: United Nations Institute for Training and 
+Research (UNITAR), Geneva, Switzerland. 
+US EPA. (1997) Profile of the Textile Industry - EPA 310-R-97-009. In: EPA Office of Compliance Sector 
+Notebook Project. 
+Williams, J.T. (2018) Waterproof and Water Repellent Textiles and Clothing. Cambrige, UK: Elsiever, 
+Woodhead Publishing. 
+Zille, A., Oliveira, F.R., Souto, A.P. (2015) Plasma Treatment in Textile Industry. Plasma Processes and 
+Polymers 12: 98-131. 
+References copied from the 2006 IPCC Guidelines 
+Aoyama, T. (2004). Japan Electrical Manufacturers’ Association (JEMA), “The Situation of Reduction in SF6 
+Emissions from Gas-insulated Electrical Equipment In Japan” Paper and presentation delivered to the 
+Conference on SF6 and the Environment, Scottsdale, Arizona, December 1-3, 2004. 
+Chapter 8: Other Product Manufacture and Use 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+8.21 
+AREVA (2005). AREVA, World energy experts, Activity and Sustainable Development Report 2004. 
+(Registered office: rue Le Peletier – 75009 Paris – France, http://www.areva.com/), published in July 2005. 
+Boeing (2005). “E-3 AWACS in Service Worldwide”, March 2005. Boeing Integrated Defense Systems, P.O. 
+Box 516, St. Louis, MO 63166, (Available from http://www.boeing.com/defense-space/ic/awacs/docs/E-
+3AWACS_overview.pdf) 
+Burton, C. S. (2006). “Uses and Air Emissions of Liquid PFC Heat Transfer Fluids from the Electronics Sector,” 
+Report prepared for Scott C. Bartos, U.S. Environmental Protection Agency.Ecofys (2005). Reductions of 
+SF6 Emissions from High and Medium Voltage Electrical Equipment in Europe, Final Report to CAPIEL, S, 
+Wartmann and J. Harnisch, June 28, 2005  
+CIGRE (2005). International Council on Large Electric Systems (CIGRE) Publication No.276: Guide for the 
+Preparation of customized “Practical SF6 Handling Instructions”, Task Force B3.02.01, August 2005. 
+FEPC and JEMA (2004). Federation of Electric Power Companies (FEPC) and the Japan Electrical 
+Manufacturers’ Association (JEMA), “Japanese Emission Factors.” (Personal communication from Mr. 
+Kiyoshi Saitoh of Japan Electrical Manufacturers Association (JEMA) to Mr. Kiyoto Tanabe, IPCC 
+Technical Support Unit, November, 2004.) 
+Harris, D., and Hildebrandt, J. (2003). “Spray Cooling Electrical and Electronic Equipment,” COTS Journal, 
+November 2003. 
+IEC (1996). International Electro-technical Commission (IEC) Standard 60694: “Common specifications for 
+high-voltage switchgear and controlgear standards,” Second edition, 1996-05. Geneva, Switzerland. 
+Koch, E.C. (2004). “Special Materials in Pyrotechnics: III. Application of Lithium and its Compounds in 
+Energetic Systems;” Propellants, Explosives, Pyrotechnics, Volume 29, Issue 2, Pages 67 - 80, 2004 
+Maruyama, S. and Meguro, M. (2000). “SF6 Gas Emission Reduction From Gas-Insulated Electrical Equipment 
+in Japan.”, Paper presented at the Conference on SF6 and the Environment: Emission Reduction Strategies in 
+San Diego, USA (November 2000). 
+May, G. (2006). F2 Chemicals Limited. Personal communication with Deborah Ottinger Schaefer, January 23, 
+2006.  
+NIST (1997). Gases for Electrical Insulation and Arc Interruption: Possible Present and Future Alternatives to 
+Pure SF6; by L. G. Christophorou, J. K. Olthoff, D. S. Green; NIST Technical Note 1425, National Institute 
+of Standards, November 1997. 
+Schwarz, W. (2005). Emissions, Activity Data, and Emission Factors of Fluorinated Greenhouse Gases (F-
+Gases) in Germany 1995-2002. Research Report 201 41 261/01, UBA-FB 000811/e, Umweltbundesamt, 
+Berlin. 
+Schwarz, W. (2006). “The German Monitoring System for SF6 Emissions from Equipment for Electricity 
+Transmission and Distribution.” 
+Schwarz, W. and Leisewitz, A. (1996). Current and future emissions of fluorinated compounds with global 
+warming effect in Germany (in German). Report UBA-FB 1060 1074/01, Umweltbundesamt, Berlin. 
+Schwarz, W. and Leisewitz, A. (1999). Emissions and reduction potentials of HFCs, PFCs, and SF6 in Germany. 
+Report UBA-FB 298 41 256, Umweltbundesamt, Berlin. 
+Smythe, K. (2004). ‘Trends in SF6 Sales and End-Use Applications: 1961-2003.’ International Conference on 
+SF6 and the Environment: Emission Reduction Technologies, December 1-3, 2004, Scottsdale, AZ.  
+U.S. EPA (2004). U.S. Inventory of Greenhouse Gases and Sinks, 1990-2002. U.S. Environmental Protection 
+Agency, April, 2004. 
+Vlachogiannis, D., et al. (2005). Assessment of the impact of SF6 and PFCs reservoir tracers on global warming, 
+the AEOLOS study, Non-CO2 Greenhouse Gases (NCGG-4), coordinated by A. van Amstel, Rotterdam, p. 
+389-396. 
+ 

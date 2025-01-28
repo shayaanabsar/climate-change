@@ -1,0 +1,582 @@
+ 
+Annex 1: Worksheets 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.1 
+ANNEX 1 
+WORKSHEETS 
+ 
+ 
+ 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+A1.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Contents 
+Annex 1 Worksheets ........................................................................................................................................ A1.3 
+1.1 
+Introduction ........................................................................................................................................ A1.3 
+1.A 
+Fuel Combustion Activities ................................................................................................................ A1.3 
+1.B.1 Solid Fuels .......................................................................................................................................... A1.3 
+1.B.1.a.i Solid Fuels - Coal Mining and Handling - Underground Mines ............................................... A1.3 
+1.B.1.a.ii Solid Fuels - Coal Mining and Handling - Surface Mines ........................................................ A1.3 
+1.B.1.a.iii Solid Fuels - Coal Mining and Handling - Exploration (New) ................................................. A1.4 
+1.B.1.c 
+Fuel Transformation (New) ...................................................................................................... A1.5 
+1.B.2 Oil and Natural Gas (Updated) ........................................................................................................... A1.6 
+Reference Approach ....................................................................................................................................... A1.8 
+Auxiliary Worksheet (Reference Approach) .................................................................................................. A1.8 
+ 
+ 
+Annex 1: Worksheets 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A1.3 
+ANNEX 1 WORKSHEETS 
+1.1 
+INTRODUCTION 
+No refinement. 
+1.A  
+FUEL COMBUSTION ACTIVITIES 
+No refinement. 
+1.B.1  
+SOLID FUELS 
+1.B.1.a.i 
+Solid Fuels - Coal Mining and Handling - 
+Underground Mines 
+No refinement. 
+1.B.1.a.ii 
+Solid Fuels - Coal Mining and Handling - Surface 
+Mines 
+No refinement. 
+Volume 2: Energy 
+ 
+ 
+ 
+A1.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.B.1.a.iii Solid Fuels - Coal Mining and Handling - Exploration 
+(New) 
+ 
+Sector 
+Energy 
+Category 
+Solid Fuels - Coal Mining and Handling - Exploration 
+Category Code 
+1.B.1.a.iii 
+Sheet 
+1 of 1 (CH4 emissions from coal exploration activities) 
+CH4 Emissions 
+ 
+A 
+B 
+C 
+D 
+E 
+ 
+Amount of 
+Coal 
+Augmentation 
+Emission 
+Factor 
+Methane 
+Emissions 
+Conversion 
+Factor 
+Methane 
+Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(tonne) 
+(m3 tonne-1) 
+(m3) 
+(Gg CH4 m-3) 
+(Gg CH4) 
+ 
+ 
+ 
+C = A*B 
+ 
+E=C*D 
+Coal exploration 
+(1.B.1.a.iii) 
+ 
+ 
+ 
+0.67x10-6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Annex 1: Worksheets 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      A1.5 
+1.B.1.c 
+Fuel Transformation (New) 
+ 
+Sector 
+Energy 
+Category 
+Fuel Transformation 
+Category Code 
+1.B.1.c 
+Sheet 
+1 of 1 (Methane and nitrous oxide emissions from fuel transformation) 
+ 
+ 
+CH4 
+N2O 
+IPCC 
+Sector Name 
+Subcategory 
+A 
+B 
+C 
+D 
+E 
+Code 
+ 
+ 
+Activity 
+Emission 
+Emissions 
+Emission 
+Emissions 
+ 
+ 
+ 
+Data 
+Factor 
+(Gg) 
+Factor 
+(Gg) 
+ 
+ 
+ 
+ 
+ 
+C=A*B 
+ 
+E=A*D 
+1B1ci 
+Charcoal and Biochar 
+Production 
+ 
+ 
+ 
+ 
+ 
+ 
+1B1cii 
+Coke Production 
+ 
+ 
+ 
+ 
+ 
+ 
+1B1ciii 
+Solid to Solid Fuel 
+Production 
+ 
+ 
+ 
+ 
+ 
+ 
+1B1civ 
+Gasification Transformation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+TOTAL 
+ 
+ 
+ 
+Volume 2: Energy 
+ 
+A1.6                                                                                                                                          2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+1.B.2  
+OIL AND NATURAL GAS (UPDATED) 
+The following worksheet for the Tier 1 approach should be filled in for each source category and subcategory.  
+The potential subcategories are indicated in Tables 4.2.2 and 4.2.4 to 4.2.4k of the Chapter 4: Fugitive Emissions. 
+Sector 
+Energy 
+Category 
+Oil and natural gas  
+Category Code 
+1.B.2 
+Sheet 
+1 of 2 (Oil and Natural Gas) 
+ 
+ 
+CO2 
+CH4 
+N2O 
+IPCC 
+Sector Name 
+Subcategory 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+Code 
+ 
+ 
+Activity 
+Emission  
+Emissions 
+Emission 
+Emissions 
+Emission 
+Emissions 
+ 
+ 
+ 
+Data 
+Factor 
+(Gg) 
+Factor 
+(Gg) 
+Factor 
+(Gg) 
+ 
+ 
+ 
+ 
+ 
+C=A*B 
+ 
+E=A*D 
+ 
+G=A*F 
+1.B.2 
+Oil and Natural Gas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a 
+Oil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.i 
+Exploration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.ii 
+Production and  
+Upgrading 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.iii 
+Transport 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.iv 
+Refining 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.v 
+Distribution of Oil 
+Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.vi 
+Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.a.vii 
+Abandoned Oil 
+         Wells 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+TOTAL 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+Annex 1: Worksheets 
+ 
+ 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      A1.7 
+ 
+Sector 
+Energy 
+Category 
+Oil and natural gas  
+Category Code 
+1.B.2 
+Sheet 
+2 of 2 (Oil and Natural Gas) 
+ 
+ 
+CO2 
+CH4 
+N2O 
+IPCC 
+Sector Name 
+Subcategory 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+Code 
+ 
+ 
+Activity 
+Emission  
+Emissions 
+Emission 
+Emissions 
+Emission 
+Emissions 
+ 
+ 
+ 
+Data 
+Factor 
+(Gg) 
+Factor 
+(Gg) 
+Factor 
+(Gg) 
+ 
+ 
+ 
+ 
+ 
+C=A*B 
+ 
+E=A*D 
+ 
+G=A*F 
+1.B.2.b 
+Natural Gas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.i 
+Exploration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.ii 
+Production and 
+Gathering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.iii 
+Processing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.iv 
+Transmission and 
+Storage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.v 
+Distribution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.vi 
+Gas Post-Meter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.vii 
+Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.B.2.b.viii 
+Abandoned Gas  
+Wells 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+TOTAL 
+ 
+TOTAL 
+ 
+1.B.3 
+Other emissions from 
+Energy Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 2: Energy 
+ 
+ 
+ 
+A1.8 
+ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+REFERENCE APPROACH 
+No refinement. 
+AUXILIARY WORKSHEET (REFERENCE APPROACH) 
+No refinement. 
+ 
+ 

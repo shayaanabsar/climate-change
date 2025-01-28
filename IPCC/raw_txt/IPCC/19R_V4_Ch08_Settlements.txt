@@ -1,0 +1,692 @@
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.1 
+CHAPTER 8 
+SETTLEMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Atsushi Sato (Japan), Marina Vitullo (Italy), Thomas Gschwantner (Austria). 
+Contributing Authors  
+Yowhan Son (Korea, Republic of). 
+ 
+ 
+ 
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.3 
+Contents 
+8 
+Settlements 
+8.4 
+8.1 
+Introduction ......................................................................................................................................... 8.4 
+8.2 
+Settlements Remaining Settlements .................................................................................................... 8.4 
+8.2.1 
+Biomass .................................................................................................................................... 8.4 
+8.2.1.1 
+Choice of method ............................................................................................................... 8.4 
+8.2.1.2 
+Choice of emission/removal factors ................................................................................... 8.4 
+8.2.1.3 
+Choice of activity data ........................................................................................................ 8.6 
+8.2.1.4 
+Uncertainty assessment ...................................................................................................... 8.7 
+8.2.2 
+Dead organic matter ................................................................................................................. 8.7 
+8.2.3 
+Soil carbon ............................................................................................................................... 8.7 
+8.3 
+Land Converted to Settlements ........................................................................................................... 8.7 
+8.3.1 
+Biomass .................................................................................................................................... 8.7 
+8.3.1.1 
+Choice of method ............................................................................................................... 8.7 
+8.3.1.2 
+Choice of emission/removal factors ................................................................................... 8.8 
+8.3.1.3 
+Choice of activity data ........................................................................................................ 8.9 
+8.3.1.4 
+Uncertainty assessment .................................................................................................... 8.10 
+8.3.2 
+Dead organic matter ............................................................................................................... 8.10 
+8.3.3 
+Soil carbon ............................................................................................................................. 8.10 
+8.4 
+Completeness, time series consistency, QA/QC and reporting ......................................................... 8.11 
+8.5 
+Basis for future methodological development ................................................................................... 8.11 
+References 
+8.12 
+Tables 
+Table 8.1 (Updated) 
+Tier 2A default crown cover area-based growth rates (CRW) for urban tree crown 
+cover by region ....................................................................................................... 8.6 
+Table 8.2 (Updated) 
+Tier 2B Default average annual carbon accumulation per tree in urban trees by 
+species classes ......................................................................................................... 8.6 
+Table 8.4 (Updated) 
+Default biomass carbon stocks removed due to land conversion to settlements ..... 8.9 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8 SETTLEMENTS 
+8.1 
+INTRODUCTION 
+No refinement. 
+8.2 
+SETTLEMENTS REMAINING SETTLEMENTS 
+No refinement. 
+8.2.1 
+Biomass 
+No refinement. 
+8.2.1.1 CHOICE OF METHOD 
+No refinement. 
+8.2.1.2 CHOICE OF EMISSION/REMOVAL FACTORS 
+This section provides updates on methods. 
+Few allometric biomass equations exist specifically for trees or shrubs in urban settings (Nowak, 1996; Jo, 2002;) 
+so investigators have tended to apply equations derived for forest trees, adjusting the resulting  biomass with a 
+coefficient (such as 0.80 [Nowak, 1994; Nowak and Crane, 2002; Nowak et al., 2013]) intended to take account 
+of the allometry of open-grown trees in cities where above-ground biomass for a given diameter is typically lower 
+than that of forest-grown trees (Nowak, 1996). Allometric equations for some shrub species exist, but have not 
+routinely been applied to urban settings (Smith and Brand, 1983; Nowak et al., 2002 for shrub leaf biomass 
+estimates). Below-ground tree biomass can be derived from above-ground biomass by multiplying the latter by an 
+estimated root: shoot ratio, as described by Cairns et al. (1997) and applied for urban settings by Nowak et al. 
+(2002).  See Chapter 4 (Forest Land) for examples of root: shoot ratios (R) (also called below-ground to above-
+ground biomass ratio) often used in forest settings. Ratios appropriate to the region of interest can be assumed to 
+apply without modification to settlements. 
+Tree growth and mortality in settlements can be affected by urban conditions such as variations in local air quality, 
+atmospheric deposition, enhanced atmospheric CO2 concentrations, and reduced air exchange in the root zone due 
+to impermeable paving surfaces (e.g., Pouyat et al., 1995; Idso et al., 1998; Idso et al., 2001; Gregg et al., 2003; 
+Pouyat and Carreiro, 2003; Nowak et al., 2013). In addition, management practices for urban trees also affect its 
+growth and mortality.  Therefore, the values and equations used to predict tree growth in settlements at higher tiers 
+should, to the extent feasible, allow for the surrounding environment and the condition of the trees, and take into 
+account the urban environment, then conditions and management practices of urban trees.   
+Carbon stored in the woody components of trees makes up the largest compartment of standing biomass stocks 
+and annual biomass increment in settlements. For example, Nowak and Crane (2002) estimated on a citywide basis 
+that the net annual carbon storage by trees in cities in the conterminous USA ranged from 600 to 32,200 tonnes C 
+yr-1. Jo (2002) found that the amount of C sequestered annually in three Korean cities varied from 2,900 to 40,300 
+tonnes. Clearly, the estimates depend on the land use definition of Settlements in each country as well as kind of 
+tree covered area considered and hence extent of the Settlement areas being considered.  
+The variation is less per unit land area; for ten cities in the United States, measurements of C stored in woody 
+biomass ranged from 150 to 940 kg C ha-1 yr-1 (Nowak and Crane, 2002) and for three Korean cities annual C 
+stored in woody biomass varied from 530 to 800 kg C ha-1 yr-1 (Jo, 2002). Trees in urban lawns in Colorado (USA) 
+stored 1,590 kg C ha-1 yr-1 (Kaye et al., 2005). City level studies show that annual sequestration rates ranged from 
+less than 1.5 to more than 5.0 t C (ha crown cover) -1 yr-1but most of the rates are in the range from 2.0 to 4.0 t C 
+(ha crown cover) -1 yr-1(Nowak et al., 2013, Escobedo et al., 2010, McPherson et al., 2013, Chaparro and Terradas, 
+2009, Mills et. al., 2015, Yang et al., 2005, Liu and Li, 2012 and Vaccari et al., 2013). The studies indicate that 
+the annual sequestration per unit of urban area or even per unit of crown cover in settlements depends on the 
+specific situation on urban land such as type of vegetation, species composition, density of planted tree and shrub, 
+management type of urban area, shade of buildings etc. In the case of parks and urban trees, estimation methods 
+are provided below. For Settlements areas stocked by trees with forest-like conditions, refer to the estimation 
+methods in Chapter 4, Volume 4 (Forest Land). 
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.5 
+At a national level, data are still sparse, though availability is increasing. For example, Nowak et al., 2013 
+estimated the average removal factor of tree biomass (CRW) for US urban forest as 2.77 t C (ha crown cover)-1 yr 
+-1 based on studies in 28 US cities and 6 US states, Pasher et al., 2014 provided the Canadian removal factor of 
+urban forest in settlement as 2.12 t C (ha crown cover)-1 yr -1 which adjusted the US removal factor to the Canadian 
+climate condition. McPherson et al., 2013 reviewed carbon sequestration rate per urban tree cover area in 32 cities 
+to encompass a range of sizes, climates and cultures (US, Canada, Spain, Germany, Korea and China) and derived 
+a mean value as 2.79 t C (ha crown cover)-1 yr -1. 
+Tier 1 
+This method assumes, probably conservatively, that changes in biomass carbon stocks due to growth in biomass 
+are fully offset by decreases in carbon stocks due to removals (i.e., by harvest, pruning, clipping) from both living 
+and from dead biomass (e.g., fuelwood, broken branches, etc.). Therefore, in a Tier 1 approach CG  =  CL and for 
+all plant components, and CB = 0 in Equation 2.7 in Chapter 2, Volume 4 (Generic Methodologies Applicable to 
+Multiple Land-Use Categories).  
+Tier 2 
+Trees 
+Tier 2 calls for parameter values for CRWij (Equation 8.2) and Cij (Equation 8.3). In the 2006 IPCC guidelines, it 
+was explained that the default removal factors for tree biomass (CRW), i.e. 2.9 tonnes C (ha crown cover)-1 yr -1 
+is based on a sample of ten US cities, with values that ranged from 1.8 to 3.4 tonnes C (ha crown cover)-1 yr-1 
+(Nowak and Crane, 2002). An updated study based on 28 US cities and six US states provides an average removal 
+factor for tree biomass (CRW) of 2.8 tonnes C (ha crown cover)-1 yr -1 (Nowak et al., 2013), the value is used as 
+an updated of the global default. Additional removal factors for tree biomass (CRW) of 2.1 t C (ha crown cover) -
+1 yr-1is based on Canadian study which is adjusted the result of US study mentioned above to their climatic 
+condition. Countries located in cold temperate and boreal region as well as dry regions may use this lower default 
+parameter. These removal factors are usually suitable for Tier 2a. The updated Table 8.1 shows updated data and 
+the range of default CRWij. Values appropriate to national circumstances can also be developed. 
+Using Tier 2b, the removal factor is Cij. Updated Table 8.2 provides defaults carbon accumulation rates for tree 
+species classes for use at Tier 2b. These estimates of broad species classes are based on various allometric 
+equations and limited field data from urban areas in the USA and are averages for trees of all sizes (not just mature 
+trees). Additional default carbon accumulation rates for common tree species in East Asia are based on a Japanese 
+study for planted trees in urban parks. Averaged Cij for all trees in city area are almost within the range from 0.005 
+to 0.01 tonnes C (tree)-1 yr-1. Where large trees are dominant in the city area the upper range value may be used 
+for Cij, otherwise, the lower range value is used for Cij. Tiers 2a and 2b methods provide biomass estimates for 
+total combined above-ground and below-ground woody biomass. Additional explanation may be needed around 
+here about new default parameters for Tier 2b. If required below-ground biomass can be estimated separately using 
+a root: shoot ratio of 0.26 (Cairns et al., 1997). If trees in Settlements are subject to similar or same management 
+implemented in Forest Land, the updated root: shoot ratio of relevant category in Table 4.4 in Chapter 4, Volume 
+4 (Forest Land) may also be applied. 
+For Tiers 2a and 2b, the default assumption for CL where the average age of the tree population is less than or 
+equal to 20 years is zero.  This is based on the assumption that urban trees are net sinks for carbon when they are 
+actively growing and that the active growing period (AGP) is roughly 20 years, depending on tree species, planting 
+density, and location. Thereafter, the method assumes that the accumulation of carbon in biomass slows with age, 
+and thus for trees older than the AGP, increases in biomass carbon are assumed to be offset by losses from pruning 
+and mortality.  For trees older than the AGP this is conservatively accounted for by setting CGwood = CLwood. 
+Countries can define AGP depending on their circumstances.  
+When kind of perennial crop (e.g. home garden, hedgerows) are allocated in Settlements, countries may estimate 
+C stock changes based on the estimation method of perennial wood provided in Chapter 5, Volume 4 (Cropland) 
+by applying the default carbon accumulation ratio provided in Tables 5.1 to 5.4 in Chapter 5, Volume 4 (Cropland).  
+Other woody perennial types 
+Countries may, for any perennial type, develop their own values for CRWij (in Equation 8.2) and Cij (in Equation 
+8.3).  A conservative assumption of no change in any of these components (i.e., CRWij = 0 and Cij = 0) can also be 
+applied. 
+Herbaceous biomass 
+Tiers 2a and 2b both assume no change in herbaceous biomass in Settlements Remaining Settlements. Using this 
+method, an equation of CGHerbs =  CLHerbs is applied. CB is estimated based on the difference between increment 
+and losses in woody biomass only. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 8.1 (UPDATED) 
+TIER 2A DEFAULT CROWN COVER AREA-BASED GROWTH RATES (CRW) FOR URBAN TREE CROWN COVER BY REGION   
+Region 
+Default annual carbon accumulation per ha tree 
+crown cover [tonnes C (ha crown cover)-1 yr-1] 
+SD 
+Source 
+Global default 
+2.8 
+0.45 
+[1] 
+Cold temperate and Boreal 
+2.1 
+0.34 
+[2] 
+References 
+ [1] Nowak et al., 2013: average of 28 US cities and 6 US states; [2] Pasher J. et al., 2014: study on Canada. 
+ 
+TABLE 8.2 (UPDATED) 
+TIER 2B DEFAULT AVERAGE ANNUAL CARBON ACCUMULATION PER TREE IN URBAN TREES BY SPECIES CLASSES 
+Ecological zone 
+Broad species class 
+Default annual 
+carbon accumulation 
+per tree (tonnes C yr-
+1) 
+SD 
+Sources 
+Temperate   
+(native species 
+in east Asia) 
+Zelkova  
+0.0204 
+0.008 
+[1] 
+Ginkgo  
+0.0103 
+0.008 
+[1] 
+Oak (Quercus myrsinaefolia BLUME) 
+0.0095 
+0.002 
+[1] 
+Camphor tree (Cinnamonum camphora 
+PRESL) 
+0.0122 
+0.004 
+[1] 
+All 
+Mixed trees at city level 
+0.005 – 0.01 
+0.005 
+[1],[2],[3],[4],
+[5],[6],[7],[8] 
+References  
+[1] Tonosaki, 2018; [2] Chaparro and Terradas, 2009; [3] Liu and Li, 2012; [4] Yang et al., 2005; [5] Nowak and Crane, 2002; [6] 
+McPerson, 1998; [7] Vaccari et al. 2013; [8] Paoletti et al., 2011. 
+Tier 3 
+For Tier 3, countries should develop plant type-specific biomass increment factors appropriate to national 
+circumstances. Country-specific parameters and growth equations should be based on the dominant climate zones 
+and particular species composition of the major settlements areas in a country, before making estimates for less 
+extensive settlements. If country-specific biomass increment parameters are developed from estimates of biomass 
+on a dry matter basis, they need conversion to units of carbon using either the default carbon fraction (CF) values 
+in Table 4.3 in Chapter 4, Volume 4 (Forest land) or a carbon fraction that is more appropriate to the circumstances. 
+Under higher tiers, the assumptions for CL should be evaluated and modified to better address national 
+circumstances. For instance, based on national availability of country-specific information, i.e. age-dependent 
+and/or species-specific carbon losses in settlement trees, countries may estimate a loss factor, documenting the 
+resources and rationale used in its estimation process, or may use country-specific active growing period (AGP).  
+In this case, it is good practice to use urban vegetation type specific AGP based on detailed categorisation of urban 
+area with vegetation. This is because management of urban trees are not implemented in an uniformed way, and 
+carbon accumulation ratio and growing years depend on management type of urban trees/urban area with 
+vegetation, such as street trees, trees in urban park without frequent pruning and/or urban green area treated as 
+more natural state (Nowak et al., 2013; Chaparro and Terradas, 2009; Jo, 2002).  
+When countries consider applying data collected in other countries, it is good practice to assess how similar the 
+conditions (climate, urban structure, tree types) are compared to the country from which data originate; where 
+needed, adjustment may be also applied to resolve dissimilarities. If a country adopts the stock-difference method 
+(Equation 2.8), Chapter 2, Volume 4 and/or applying National Forest Inventory for urban trees, it should have 
+representative sampling and periodic measurement system to estimate the changes in biomass carbon stocks. 
+8.2.1.3 CHOICE OF ACTIVITY DATA 
+No refinement. 
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.7 
+8.2.1.4 UNCERTAINTY ASSESSMENT 
+No refinement.  
+8.2.2 
+Dead organic matter 
+No refinement. 
+8.2.3 
+Soil carbon 
+No refinement. 
+8.3 
+LAND CONVERTED TO SETTLEMENTS 
+This section provides elaboration on methods. 
+Land Conversion to Settlements occurs due to expansion of urban area, construction of transportation 
+infrastructure and other reasons/purposes. Urban extent has been increasing globally over the last three decades 
+(Seto et al. 2011). In areas that are primarily rural, even if land uses are not changing quickly, land devoted to 
+residential uses can occupy a significant portion of the landscape. Transitions of Forest Land, Cropland, Grassland, 
+and Wetlands to Settlements can have important impacts on carbon stocks and fluxes (Imhoff et al., 2000; Milesi 
+et al., 2003).  
+Estimation of annual greenhouse gas emissions and removals from Land Converted to Settlements includes the 
+following: 
+ Estimates of annual change in C stocks from all C pools and sources: 
+ Biomass (above-ground and below-ground biomass); 
+ Dead organic matter (dead wood and litter); 
+ Soils (soil organic matter). 
+ Estimates of non-CO2 gases (CH4, CO, N2O, NOx) from burning of above-ground biomass and dead organic 
+matter. 
+8.3.1 
+Biomass 
+8.3.1.1 CHOICE OF METHOD 
+This section provides elaboration on methods. 
+The general approach for calculating the immediate change in live biomass accruing from the conversion to 
+Settlements is represented by Equations 2.15 and 2.16 in Chapter 2. The mean annual biomass increment resulting 
+from the transition is represented by the difference between the biomass in the settlement land-use category 
+immediately after the transition (B_After) and the biomass in the previous category (B_Before). 
+This method follows the approach in the Guidelines for other land-use transitions: the annual change in carbon 
+stock in biomass due to land conversion is estimated (using Equation 2.16) by multiplying the area converted 
+annually to Settlements by the difference in carbon stocks between biomass in the system prior to conversion 
+(B_Before) and that in the Settlements after conversion (B_After).  
+In the higher tiers, it is necessary to add growth during the year of inventory (∆CG) and subtract loss (∆CL) to 
+obtain the net change in carbon stocks on Land Converted to Settlements (Equation 2.15). It should be noted that 
+growing periods of trees, other perennial woody biomass and herbaceous biomass are different. For example, of 
+the default assumption in other chapter and sectors, the growing periods is 20 years for tree biomass in Settlements 
+Remaining Settlements (Tier 2, see section 8.2.1) and land converted to grassland achieve their steady-state of 
+biomass during the first year following the conversion (Tier 1 see Section 6.3.1.1, Chapter 6, Volume 4). There is 
+no default for shrubs. When estimate ∆CG, it is good practice to reflect differences on the growing period and/or 
+carbon density under steady-state for each tree species or vegetation type. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Tier 1 
+For Tier 1, in the initial year following conversion to the settlement land use, the most conservative approach is to 
+set B_After to zero, meaning that the process of development of settlements causes carbon stocks to be entirely 
+depleted.  Under Tier 1, estimation of growth during the year of inventory (∆CG) and subtract loss (∆CL) are not 
+necessary since these estimations are only covered in Equation 2.16, Chapter 2, Volume 4 (for Tier 2) and also 
+this carbon stock change is not estimated under Tier 1 in Settlements Remaining Settlements. This is a consistent 
+approach explained in “Step by step method for implementation”.  
+When potential gains of carbon are expected in Land Converted to Settlements and information on crown cover 
+area or number of trees in Land Converted to Settlements is available, country can apply the default method of 
+Tier 2 in Settlements Remaining Settlements for estimating ∆CG and ∆CL also for Tier 1. 
+Tier 2 
+At Tier 2, country-specific carbon stocks can be applied to activity data disaggregated to a level of detail adapted 
+to national circumstances for the estimation of B_Before. At the higher tiers, the area of each land-use or land cover 
+type converted to another type in a settlement (examples of land use and land cover types are described in Section 
+8.2) should be recorded, because that area is associated with the amount of carbon both before and after the 
+conversion.   Settlement land-use or land cover types are likely to differ in carbon density. For estimations of ∆CG 
+and ∆CL, country can be use country-specific factors. Alternatively, default estimation consistent with Tier 2 in 
+Settlements Remaining Settlements are also possible to be applied. For both cases, the information on crown cover 
+area or number of trees in Land Converted to Settlements is necessary for estimation. 
+Tier 3 
+At Tier 3, countries can use the stock difference method (Equation 2.8) or other advanced estimation methods that 
+may involve complex models and highly disaggregated activity data including, if available, more detailed 
+information about B_After on a country- or biome-specific basis. The method using National Forest Inventory is 
+also covered by Tier 3. In this case, country should also take into account the guidance of Chapter 4, Volume 4 
+(Forest Land) as appropriate. 
+8.3.1.2 CHOICE OF EMISSION/REMOVAL FACTORS 
+This section provides elaboration on methods. 
+This section refines guidance by updating Table 8.4 and provides further explanation for the Tier 2 and Tier 3 
+guidance. The updated Table 8.4 provides more complete information on how to use B_Before and suggests the use 
+of consistent factors with other chapters’ default factors. The guidance on Tier 2 and Tier 3 are enhanced to clarify 
+how to choose and use emission/removal factors under higher tiers.  
+Tier 1 
+Tier 1 methods require estimates of the biomass of the land use before conversion and after conversion. It is 
+assumed that all biomass is cleared when preparing a site for settlements, thus, the default for biomass immediately 
+after conversion is 0 tonnes C ha-1. Updated Table 8.4 provides default values for biomass before conversion 
+(B_Before). 
+ 
+ 
+ 
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.9 
+ 
+TABLE 8.4 (UPDATED) 
+DEFAULT BIOMASS CARBON STOCKS REMOVED DUE TO LAND CONVERSION TO SETTLEMENTS 
+Land-use category1 
+Carbon stock in biomass before conversion (B_Before) 
+(tonnes C ha-1) 
+Error range % 
+Forest Land 
+See Chapter 4, Volume 4, Tables 4.7 to 4.12 for carbon stocks in a range 
+of forest types by climate regions. Stocks are in terms of dry matter. 
+Multiply values by a carbon fraction (CF) in Table 4.3, Chapter 4, Volume 
+4 consistent with what used in Forest Land estimation to convert dry 
+matter to carbon. 
+See Section 4.3, 
+Chapter 4, 
+Volume 4 (Land 
+Converted to 
+Forest Land) 
+Grassland 
+See Table 6.4, Chapter 6 for carbon stocks in a range of grassland types 
+by climate regions. Multiply default carbon fraction (CF) 0.47 (for 
+herbaceous biomass for Grassland, see page 6.29, Chapter 6) to convert 
+dry matter to carbon.  
++ 75% 
+Cropland 
+For Cropland containing annual crops:  Use default of 4.7 tonnes of 
+carbon ha-1 or 10 tonnes of dry matter ha-1 (see Updated Table 5-11, 
+Chapter 5, Volume 4). 
+For Cropland containing perennial crop: Use carbon stocks in Updated 
+Table 5.4, Chapter 5, Volume 4, as appropriate. 
+± 75% 
+1 The table includes the land-use categories most commonly converted to Settlements. For the remaining land-use categories refer to 
+relevant chapters in Volume 4. 
+ 
+* Note that the condition of forests that are converted to Grassland or Cropland is not likely to be typical of the forest type in general, i.e. 
+the carbon stocks are probably lower than average (Carter et al., 2017; Puhlick et al., 2017). Specific values for disturbed forest may be 
+appropriate. 
+# Represents a nominal estimate of error, equivalent to two times standard deviation, as a percentage of the mean. 
+Tiers 2 
+Tier 2 methods replace the default data by country-specific data for B_Before. For calculation of ∆CG and ∆CL, 
+country country-specific data can be used. The default factors of Tier 2 in Settlement Remaining Settlements may 
+also be used when country-specific data is not available. In this case, countries should follow the guidance on 
+either Tier 2A or Tier 2B in Section 8.2.1, Settlements Remaining Settlements, i.e. using the default annual carbon 
+accumulation ratio provided in Table 8.1 or Table 8.2 for ∆CG and ∆CL considered to be zero noting that all lands 
+contained in Land Converted to Settlements are within the duration of the default AGP (=20 years). 
+Tiers 3 
+Tier 3 involves detailed modelling or measurement data relevant to the conversion processes. Countries may use 
+average biomass stocks data for their estimations in Settlements instead of using carbon accumulation ratio. In this 
+case, it may take more than one year to reach the average biomass stocks following land conversion. Countries 
+should consider the appropriate activity data to reflect the years to reach the average biomass stocks in its 
+estimation. When countries estimate annual carbon accumulation resulted from the establishment of trees, shrubs 
+or herbaceous biomass differently, they also need to consider the growing years in each tree or vegetation type. 
+Each removal factor should be multiplied by the appropriate activity data, i.e. areas under growing years in each 
+tree or vegetation type. 
+8.3.1.3 CHOICE OF ACTIVITY DATA 
+This section provides an elaboration on methods. 
+Activity data for estimating changes in biomass on land areas converted to Settlements can be obtained, consistent 
+with the general principles set out in Chapter 3, through national statistics, from forest services, conservation 
+agencies, municipalities, survey and mapping agencies. Cross-checks should be made to ensure complete and 
+consistent representation of annually converted lands in order to avoid possible omissions or double counting. Data 
+should be disaggregated according to the general climatic categories and settlements types. For Tier.2 and Tier 3, 
+data related to green covered area, in land areas converted to Settlements is necessary.  Tier 3 inventories will 
+require more comprehensive information on the establishment of new settlements, with refined soil classes, 
+climates, and spatial and temporal resolution. All changes having occurred over the number of years selected as 
+the transition period should be included with transitions older than the transition period (default 20 years) reported 
+as a subdivision of Settlements Remaining Settlements. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Higher tiers require greater detail but the minimum requirement for inventories to be consistent with the IPCC 
+Guidelines is that the areas of Forest Land conversion can be identified separately. This is because forest will 
+usually have higher carbon density before conversion. This implies that at least partial knowledge of the land-use 
+change matrix, and therefore, where Approaches 1 and 2 from Chapter 3, Volume 4, are used to estimate land area 
+will be needed, supplementary surveys may be needed to identify the area of land being converted from Forest 
+Land to Settlements. As pointed out in Chapter 3, Volume 4, where surveys are being set up, it will often be more 
+accurate to seek to establish directly, areas undergoing conversion, than to estimate these from the differences in 
+total land areas under particular uses at different times.  
+Step by step method for implementation 
+Tier 1 
+Use default values for B_before from respective land-use category chapters (Forest Land, Grassland, etc) and assume 
+that B_After equals zero in Equation 2.16, Chapter 2, Volume 4.    
+Step 1: Apply Equation 2.16 , Chapter 2, Volume 4. to each land-use type converted to settlement lands; 
+Step 2: Add up the biomass changes over all the land-use types; and  
+Step 3: Multiply the result by 44/12 to obtain the amount of CO2 equivalents emitted (the sum obtained in Step 
+2 will be a negative number) from the land conversion. 
+Tier 2 
+The typical steps to implement a Tier 2 method (the case of using the default assumption for ∆CG and ∆CL) are: 
+Step 1: Use the methods described in Chapter 3, Volume 4, including where relevant cadastral and planning 
+records or the analysis of remote sensing images (or both), to estimate the change in area between the present and 
+the last area survey.  
+Step 2: Define — as a first approximation — settlement land-use types on the basis of the proportion of green 
+area.  For instance, three tentative land use classes could be:  Low (less than 33percent green space), Medium 
+(from 33 to less than 66percent green space), and High (more than 66percent green space).  Each one of those 
+classes can be assigned with an average carbon content, obtained from the species surveyed in similarly defined 
+classes for accounting biomass changes in Section 8.2. 
+Step 3: Draw a land-use conversion area matrix for the land-use transitions defined in Step 2. 
+Step 4: Estimate with equations the biomass stocks of the defined land-use types and the converted land-use types 
+(to obtain B_Before and B_After), apply Equation 2.16, Chapter 2, Volume 4. to each non-empty cell of the land-use 
+change matrix, add up the changes in carbon stocks, and multiply the sum by 44/12 to obtain the emission/removal 
+of CO2 equivalents. 
+Step 5: Calculate ∆CG, using either Method A or Method B in Section 8.2.1, Settlements Remaining Settlements 
+(the choice of method will depend on the applicability of the emission and removal factors, as well as the 
+availability of activity data).  This will be used in Equation 2.15, Chapter 2, Volume 4. 
+Step 6: Calculate ∆CL, using Methods as described in Section 8.2.1.3, Settlements Remaining Settlements.   
+Step 7: Calculate the change in carbon stocks in live biomass resulting from the land-use transition to Settlements, 
+accounting for the biomass increment, biomass losses, and biomass change due to land-use conversion as given in 
+Equation 2.15, Chapter 2, Volume 4. 
+8.3.1.4 UNCERTAINTY ASSESSMENT 
+No refinement. 
+8.3.2 
+Dead organic matter 
+No refinement. 
+8.3.3 
+Soil carbon 
+No refinement. 
+ 
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.11 
+8.4 
+COMPLETENESS, TIME SERIES 
+CONSISTENCY, QA/QC AND REPORTING 
+No refinement. 
+8.5 
+BASIS FOR FUTURE METHODOLOGICAL 
+DEVELOPMENT 
+The section is updated by deletion of the sentences no more relevant. 
+Gaps in this methodology exist because sufficient data are not available to quantify all of the pools and fluxes of 
+greenhouse gases in Settlements.  Obvious gaps include: 
+Methodology for estimating emissions of non-CO2 greenhouse gases (N2O and CH4); 
+Detailed methodology to account for carbon stocks other than live biomass and soils (specifically, dead wood and 
+litter); 
+Discussion of carbon stocks and fluxes from turfgrass and turf management;  
+Non-CO2 greenhouse gases.  While some evidence exists to support the idea that nitrous oxide fluxes may be 
+enhanced in urban areas relative to the native condition (Kaye et al., 2004), this result likely depends on the native 
+condition (i.e., the climate and region in which the settlement is located) and the management regime typically 
+applied in that settled area. Additional data are required before conclusions about the impact of settlement on non-
+CO2 greenhouse gas fluxes can be drawn. 
+Dead wood and litter.  Dead wood is a class variously composed of fallen or pruned branches or trees, or dead 
+standing trees not yet replaced with live individuals. This dead wood may be burned or disposed of as solid waste, 
+used for composting, left to decay either in-site or off-site. This material is treated in this methodology as a loss 
+from the live biomass term. Because dead wood is likely to be carried off-site in settlements (rather than left on-
+site to decay as in forests), a more detailed methodology developed in the future might account for the proportion 
+of dead wood taken to landfills, disposed of in compost piles, burned, or left on-site to decay.  The portion taken 
+to landfills or composted might be treated as harvested wood products (HWP) or as waste, both of which are treated 
+in other sections of the Guidelines. 
+Turfgrass and turf management.  Turfgrass biomass consists of roots, stubble, thatch, and above-ground 
+components. Though estimates of turfgrass productivity have been published (Falk, 1976; Falk, 1980; Qian et al., 
+2003), grass decomposes quickly and there is little information about the overall accumulation of biomass in the 
+longer-lived components of turf biomass. Turfgrass allocation to the above-ground and below-ground components 
+also depends on the management and mowing regime. Because of the lack of generalizable information on this 
+topic, as well as the lack of activity data quantifying the area covered by turfgrass in Settlements, there is currently 
+no detailed methodology describing carbon removed by turf systems. A more detailed methodology would require 
+additional information on turf productivity, turfgrass turnover, and allocation to different plant components as it 
+varies with management regime. Of course, the activity data required to implement this methodology would 
+include information on management regimes and the proportion of Settlements covered by turfgrass. 
+Land classes.  A more detailed methodology would benefit from a consistent set of definitions of land classes 
+within Settlements that could be applied to any country regardless of its climate, native vegetation, or typical 
+settlement regime. This would make Settlements parallel to other land uses – Forest Land, Grassland, Cropland, 
+Wetlands – which are easily defined based on a set of measurable and objective parameters. Some research has 
+been applied in this direction (Theobald, 2004), but current classifications are inconsistent. While the rate of carbon 
+sequestration per unit of tree crown cover is fairly consistent, for example, the overall rate of carbon storage per 
+unit of settlement area depends entirely on the relative amounts of tree and turfgrass cover within that settlement. 
+This land classification would be part of the set of activity data collected by countries, and the detailed 
+methodology could be developed and applied consistently based on those land cover data. This type of land-use 
+classification would also enable countries to account for changes in carbon storage resulting from management 
+changes within areas broadly classified as Settlements. For example, when vacant plots are developed, the 
+adventitious vegetation remaining in the non-built areas might be replaced with landscape species differing in 
+ability to store carbon. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+References 
+REFERENCES NEWLY CITED IN THE 2019 REFINEMENT 
+Carter, D.R., Seymour, R. S., Fraver, S., Weiskittel, A., (2017). Effects of multiaged silvicultural systems on 
+reserve tree growth 19 years after establishment across multiple species in the Acadian forest in Maine, USA, 
+Can. J. For. Res. 47: 1314–1324.  
+Chaparro, L., Terradas, J., (2009). Ecological Services of Urban Forest in Barcelona. Àrea de Medi Ambient 
+Institut Municipal de Parcs i Jardins, Ajuntament de Barcelona. 
+Escobedo, F., Varela, S., Zhao, M., Wagner, J., & Zipperer, W. (2010). The efficacy of subtropical urban forests 
+in offsetting carbon emissions from cities. Environmental Science and Policy: 13, 362–372. 
+Liu, C., Li, X., (2012), Carbon storage and sequestration by urban forests in Shenyang, China, Urban Forestry & 
+Urban Greening 11: 121– 128 
+McPherson, E.G., (1998). Atmospheric carbon dioxide reduction by Sacramento’s urban forest. Journal of 
+Arboriculture 24: 215–223. 
+McPherson, E.G., Xiao, Q., Aguaron, E., (2013). A new approach to quantify and map carbon stored, sequestered 
+and emissions avoided by urban forests, Landscape and Urban Planning 120: 70-84 
+Mills, G., et. al. (2015), The green ‘signature’ of Irish cities: An examination of the ecosystem services provided 
+by trees using i-Tree Canopy software’. Irish Geography, 48(2): 62-77 
+Nowak, D., Greenfield, E., Hoehn, R., Lapoint, E., (2013), Carbon storage and sequestration by trees in urban and 
+community areas of the United States. Environmental Pollution, 178, 229-236. 
+Paoletti, E., Bardelli, T., Giovannini, G., Pecchioli, L., (2011). Air quality impact of an urban park over time. 
+Procedia Environmental Sciences 4: 10–16. 
+Pashera, J., McGovernb, M., Khouryc, M., Duffec, J., (2014), Assessing carbon storage and sequestration by 
+Canada’s urban forests using high resolution earth observation data. Urban Forestry & Urban Greening, 13, 
+484–494 
+Puhlick, J., Woodall, C., Weiskittel, A., (2017). Implications of land-use change on forest carbon stocks in the 
+eastern United States. Environ. Res. Lett. 12: 024011. 
+Seto KC, Fragkias M, Güneralp B, Reilly MK (2011) A Meta-Analysis of Global Urban Land Expansion. 6 PLoS 
+ONE (8) 
+Tonosaki, .K. (2018), Carbon Accumulation Rate by Trees in Urban Parks in Japan. Urban Green Tech 106: 18-
+21. 
+Vaccari, F. P., Gioli, B., Toscano, P., Perrone, C., (2013) Carbon dioxide balance assessment of the city of Florence 
+(Italy), and implications for urban planning, Landscape and Urban Planning, 120: 138– 146. 
+Yang, J., McBride, J., Zhou, J., Sun, Z., 2005. The urban forest in Beijing and its role in air pollution reduction. 
+Urban Forestry and Urban Greening 3: 65–78. 
+REFERENCES COPIED FROM THE 2006 GUIDELINES 
+Akbari, H. (2002). Shade trees reduce building energy use and CO2 emissions from power plants. Environmental 
+Pollution 116:S119-S124. 
+Armentano, T.V. and Menges, E.S.  (1986). Patterns of change in the carbon balance of organic soil-wetlands of 
+the temperate zone. Journal of Ecology 74:755-774. 1986. 
+Brack, C.L. (2002). Pollution mitigation and carbon sequestration by an urban forest. Environmental Pollution 
+116:S195-S200. 
+Cairns, M.A., Brown, S., Helmer, E.H. and Baumgardner, G.A. (1997). Root biomass allocation in the world's 
+upland forests. Oecologia 111:1-11. 
+Crane, P. and Kinzig, A.  (2005). Nature in the metropolis. Science 308:1225-1225. 
+Elvidge, C.D., Milesi, C., Dietz, J.B., Tuttle, B.T., Sutton, P.C., Nemani, R. and Vogelmann, J.E. (2004). U.S. 
+constructed area approaches the size of Ohio. EOS - Transactions of the American Geophysical Union 85:233-
+234. 
+Falk, J. (1980). The primary productivity of lawns in a temperate environment. Journal of Applied Ecology 17:689-
+696. 
+ 
+Chapter 8: Settlements 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+8.13 
+Falk, J.H. (1976). Energetics of a suburban lawn ecosystem. Ecology 57:141-150. 
+Gallo, K.P., Elvidge, C.D., Yang, L. and Reed, B.C. (2004). Trends in night-time city lights and vegetation indices 
+associated with urbanization within the conterminous USA. International Journal Of Remote Sensing 25:2003-
+2007. 
+Goldman, M.B., Groffman, P.M., Pouyat, R.V., McDonnell, M.J. and Pickett, S.T.A. (1995). CH4 uptake and N 
+availability in forest soils along an urban to rural gradient. Soil Biology and Biochemistry 27:281-286. 
+Gregg, J.W., Jones, C.G. and Dawson, T.E. (2003). Urbanization effects on tree growth in the vicinity of New 
+York City. Nature 424:183-187. 
+Idso, C., Idso, S. and Balling, R.J. (1998). The urban CO2 dome of Phoenix, Arizona. Physical Geography 19:95-
+108. 
+Idso, C., Idso, S. and Balling, R.J. (2001). An intensive two-week study of an urban CO2 dome. Atmospheric 
+Environment 35:995-1000. 
+Imhoff, M., Tucker, C., Lawrence, W. and Stutzer, D. (2000). The use of multisource satellite and geospatial data 
+to study the effect of urbanization on primary productivity in the United States. IEEE Transactions on 
+Geoscience and Remote Sensing 38:2549-2556. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton J.T., Meira Filho 
+L.G., Lim B., Tréanton K., Mamaty I., Bonduki Y., Griggs D.J. Callander B.A. (Eds). Intergovernmental Panel 
+on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.  
+IPCC (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Penman J., Gytarsky M., 
+Hiraishi T., Krug, T., Kruger D., Pipatti R., Buendia L., Miwa K., Ngara T., Tanabe K., Wagner F. 
+(Eds).Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+Jenkins, J., Chojnacky, D., Heath, L. and Birdsey, R. (2004). Comprehensive database of diameter-based biomass 
+regressions for North American tree species. General Technical Report NE-, USDA Forest Service 
+Northeastern Research Station, Newtown Square, PA. 
+Jo, H. (2002). Impacts of urban greenspace on offsetting carbon emissions for middle Korea. Journal of 
+Environmental Management 64:115-126. 
+Jo, H. and McPherson, E. (1995). Carbon storage and flux in urban residential greenspace. Journal of 
+Environmental Management 45:109-133. 
+Kaye, J., Burke, I., Mosier, A. and Guerschman, J. (2004). Methane and nitrous oxide fluxes from urban soils to 
+the atmosphere. Ecological Applications 14:975-981. 
+Kaye, J.P., McCulley, R.L. and Burke, I.C. (2005). Carbon fluxes, nitrogen cycling, and soil microbial 
+communities in adjacent urban, native and agricultural ecosystems. Global Change Biology 11:575-587. 
+Koerner, B., and Klopatek, J. (2002). Anthropogenic and natural CO2 emission sources in an arid urban 
+environment. Environmental Pollution 116:S45-S51. 
+Kuchler, A. (1969). Potential natural vegetation. US Geological Survey Map, Sheet 90, Washington, DC. 
+Milesi, C., Elvidge, C.D., Nemani, R.R., and Running, S.W. (2003). Assessing the impact of urban land 
+development on net primary productivity in the southeastern United States. Remote Sensing Of Environment 
+86:401-410. 
+Nowak, D. (1996). Estimating leaf area and leaf biomass of open-grown deciduous urban trees. Forest Science 
+42:504-507. 
+Nowak, D. and Crane, D. (2002). Carbon storage and sequestration by urban trees in the United States. 
+Environmental Pollution 116:381-389. 
+Nowak, D., Crane, D.E., Stevens, J.C. and Ibarra, M. (2002). Brooklyn's urban forest. General Technical Report 
+NE-290, USDA Forest Service Northeastern Research Station, Newtown Square, PA. 
+Nowak, D.J., Rowntree, R.A., McPherson, E.G., Sisinni, S.M., Kerkmann, E.R. and Stevens, J.C. (1996). 
+Measuring and analyzing urban tree cover. Landscape and Urban Planning 36:49-57. 
+Pouyat, R. and Carreiro, M. (2003). Controls on mass loss and nitrogen dynamics of oak leaf litter along an urban-
+rural land-use gradient. Oecologia 135:288-298. 
+Pouyat, R., Groffman, P., Yesilonis, I. and Hernandez, L. (2002). Soil carbon pools and fluxes in urban ecosystems. 
+Environmental Pollution 116:S107-S118. 
+Volume 4: Agriculture, Forestry and Other Land Use 
+8.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Pouyat, R.V., McDonnell, M.J. and Pickett, S.T.A. (1995). Soil characteristics of oak stands along an urban-rural 
+land-use gradient. Journal of Environmental Quality 24:516-526. 
+Qian, Y., Bandaranayake, W., Parton, W., Mecham, B., Harivandi, M. and Mosier, A. (2003). Long-term effects 
+of clipping and nitrogen management in turfgrass on soil organic carbon and nitrogen dynamics:  The 
+CENTURY model simulation. Journal of Environmental Quality 32:1695-1700. 
+Qian, Y. and Follett, R. (2002). Assessing soil carbon sequestration in turfgrass systems using long-term soil 
+testing data. Agronomy Journal 94:930-935. 
+Raturi, S., Islam, K.R., Carroll, M.J. and Hill, R.L. (2004). Thatch and soil characteristics of cool- and warm-
+season turfgrasses. Communications In Soil Science And Plant Analysis 35:2161-2176. 
+Smith, W.B. and Brand, G.J. (1983). Allometric biomass equations for 98 species of herbs, shrubs, and small trees. 
+Research Note NC-299, USDA Forest Service North Central Forest Experiment Station, St. Paul, MN. 
+Theobald, D.M. (2004). Placing exurban land-use change in a human modification framework. Frontiers in 
+Ecology and the Environment 2:139-144. 
+ 

@@ -1,0 +1,1969 @@
+4
+AGRICULTURE
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.117
+Appendix B
+Data 
+Underlying 
+Nitrous 
+Oxide 
+Emissions 
+from
+Agricultural Soils
+This appendix presents the data used to calculate the manure-N excretion and N2O
+emission factors in Table B-1.   N2O emissions from different Animal Waste Management
+Systems in different regions of the world  are in Table B-2.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u al
+ 4.119
+TABLE B-1
+CALCULATION OF MANURE-N EXCRETION AND N2O EMISSION FACTORS  FOR DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS.  THESE ARE TO BE
+REPORTED UNDER MANURE MANAGEMENT, EXCEPT FOR DAILY SPREAD AND PASTURE RANGE OF PADDOCK (EMISSIONS FROM AGRICULTURAL SOILS) AND EMISSIONS AFTER USE AS A FUEL
+(ENERGY)
+Region
+Type of Animal
+Emission Factor for AWMSs EF3 (% of Manure N Excreted that is  lost as  N2O)
+Number of
+animals
+ (x106)
+Nitrogen
+excretion
+kg
+(N/animal/yr)
+Anaerobic
+Lagoon
+(EF3)
+Liquid
+Systems
+(EF3)
+Daily
+Spread
+(EF3)
+Solid
+Storage &
+Drylot
+(EF3)
+Pasture
+range
+Paddock
+(EF3)
+Used
+Fuel
+ (EF3)
+Other System
+ (EF3)
+Total N
+Excreted
+(Tg N)
+North America
+Non-dairy Cattle
+99.199
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+6.9
+Dairy Cattle
+16.521
+100
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.7
+Poultry (E)
+1486.266
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.9
+Sheep
+11.336
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.2
+Swine
+66.146
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.3
+Other animals (F)
+6.067
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.2
+Western Europe
+Non-dairy Cattle
+56.618
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+4.0
+Dairy Cattle
+31.099
+100
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.1
+Poultry (E)
+880.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.5
+Sheep
+93.856
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.9
+Swine
+114.959
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.3
+Other animals (F)
+31.578
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.8
+Eastern Europe
+Non-dairy Cattle
+101.447
+50
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+5.1
+Dairy Cattle
+56.800
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+4.0
+Poultry (E)
+1667.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.0
+Sheep
+188.159
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.0
+Swine
+152.757
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.1
+Other animals (F)
+21.558
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.5
+AGRICULTURE
+4.120
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-1 (CONTINUED)
+CALCULATION OF MANURE-N EXCRETION AND N2O EMISSION FACTORS  FOR DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS.  THESE ARE TO BE
+REPORTED UNDER MANURE MANAGEMENT, EXCEPT FOR DAILY SPREAD AND PASTURE RANGE OF PADDOCK (EMISSIONS FROM AGRICULTURAL SOILS) AND EMISSIONS AFTER USE AS A FUEL
+(ENERGY)
+Region
+Type of Animal
+Emission Factor for AWMSs EF3 (% of Manure N Excreted that is  lost as  N2O)
+Number of
+animals
+(x 106)
+Nitrogen
+excretion
+kg
+(N/animal/yr)
+Anaerobic
+Lagoon
+(EF3)
+Liquid
+Systems
+(EF3)
+Daily
+Spread
+(EF3)
+Solid
+Storage &
+Drylot
+(EF3)
+Pasture
+range
+Paddock
+(EF3)
+Used Fuel
+(EF3)
+Other
+System
+ (EF3)
+Total N
+Excreted.
+(Tg N)
+Oceania
+Non-dairy Cattle
+27.610
+60
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.7
+Dairy Cattle
+4.441
+80
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.4
+Poultry (E)
+71.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.0
+Sheep
+228.982
+20
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+4.6
+Swine
+5.003
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.1
+Other animals (F)
+2.579
+25
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.1
+Latin America
+Non-dairy Cattle
+272.871
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+10.9
+Dairy Cattle
+37.560
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.6
+Poultry (E)
+1259.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.8
+Sheep
+117.312
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.4
+Swine
+78.150
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.3
+Other animals (F)
+71.699
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.9
+Africa
+Non-dairy Cattle
+133.198
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+5.3
+Dairy Cattle
+18.734
+60
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.1
+Poultry (E)
+646.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.4
+Sheep
+179.171
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.2
+Swine
+12.445
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.2
+Other animals (F)
+162.194
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+6.5
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u al
+ 4.121
+TABLE B-1 (CONTINUED)
+CALCULATION OF MANURE-N EXCRETION AND N2O EMISSION FACTORS  FOR DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS.  THESE ARE TO BE REPORTED
+UNDER MANURE MANAGEMENT, EXCEPT FOR DAILY SPREAD AND PASTURE RANGE OF PADDOCK (EMISSIONS FROM AGRICULTURAL SOILS) AND EMISSIONS AFTER USE AS A FUEL (ENERGY)
+Region
+Type of Animal
+Emission Factor for AWMSs EF3 (% of Manure N Excreted that is  lost as  N2O)
+Number of
+animals
+ (x 106)
+Nitrogen
+excretion
+kg
+N/animal/yr
+Anaerobic
+Lagoon
+(EF3)
+Liquid
+Systems
+(EF3)
+Daily Spread
+(EF3)
+Solid Storage
+& Drylot
+(EF3)
+Pasture range
+Paddock
+(EF3)
+Used Fuel
+(EF3)
+Other
+System
+(EF3)
+Total N
+Excreted
+(Tg N)
+Near 
+East 
+and
+Mediterranean
+Non-dairy Cattle
+44.562
+50
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.2
+Dairy Cattle
+17.174
+70
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+1.2
+Poultry (E)
+656.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.4
+Sheep
+187.502
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.3
+Swine
+0.174
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+0.0
+Other animals (F)
+81.962
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+3.3
+Asia and Far East
+Non-dairy Cattle
+440.398
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+17.6
+Dairy Cattle
+45.240
+60
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.7
+Poultry (E)
+3949.000
+0.6
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.4
+Sheep
+202.442
+12
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+2.4
+Swine
+403.231
+16
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+6.5
+Other animals (F)
+293.700
+40
+0.1
+0.1
+0.0
+2.0
+2.0
+0.0
+0.5
+11.7
+World Total
+135.3
+(D) Includes buffalo
+(E) Includes chickens, turkeys and ducks
+(F) Includes goats, horses, mules, donkeys and camels
+AGRICULTURE
+4.122
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-2
+N2O EMISSIONS FROM DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS
+Region
+Type of Animal
+N2O Emission from Waste Management Systems (GgN)
+Liquid
+System
+Daily
+ Spread
+Solid Storage
+and Drylot
+Pasture Range
+and Paddock
+Used Fuel
+Other System
+Total AWMS
+Total N2O
+Emission (Gg N)
+North America
+Non-dairy Cattle
+0
+0
+19
+117
+0
+0
+137
+137
+Dairy Cattle
+0
+0
+0
+0
+0
+1
+9
+9
+Poultry (E)
+0
+0
+0
+0
+0
+4
+4
+4
+Sheep
+0
+0
+0
+3
+0
+0
+3
+3
+Swine
+0
+0
+5
+0
+0
+0
+6
+6
+Other animals (F)
+0
+0
+0
+3
+0
+0
+3
+3
+Western Europe
+Non-dairy Cattle
+0
+0
+2
+26
+0
+2
+32
+32
+Dairy Cattle
+0
+0
+13
+5
+0
+0
+20
+20
+Poultry (E)
+0
+0
+0
+0
+0
+2
+3
+3
+Sheep
+0
+0
+1
+33
+0
+1
+34
+34
+Swine
+0
+0
+11
+0
+0
+0
+12
+12
+Other animals (F)
+0
+0
+0
+15
+0
+0
+15
+15
+Eastern Europe
+Non-dairy Cattle
+0
+0
+53
+0
+0
+0
+55
+55
+Dairy Cattle
+0
+0
+53
+10
+0
+0
+64
+64
+Poultry (E)
+0
+0
+0
+0
+0
+4
+4
+4
+Sheep
+0
+0
+0
+44
+0
+4
+48
+48
+Swine
+0
+0
+0
+16
+0
+7
+24
+24
+Other animals (F)
+0
+0
+0
+10
+0
+0
+10
+10
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u al
+ 4.123
+TABLE B-2 (CONTINUED)
+N2O EMISSIONS FROM DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS
+Region
+Type of Animal
+N2O Emission from Waste Management Systems (GgN)
+Liquid
+System
+Daily
+ Spread
+Solid Storage
+and Drylot
+Pasture Range
+and Paddock
+Used Fuel
+Other System
+Total AWMS
+Total N2O
+Emission (GgN)
+Oceania
+Non-dairy Cattle
+0
+0
+0
+33
+0
+0
+33
+33
+Dairy Cattle
+0
+0
+0
+7
+0
+0
+7
+7
+Poultry (E)
+0
+0
+0
+0
+0
+0
+0
+0
+Sheep
+0
+0
+0
+92
+0
+0
+92
+92
+Swine
+0
+0
+0
+0
+0
+0
+0
+0
+Other animals (F)
+0
+0
+0
+1
+0
+0
+1
+1
+Latin America
+Non-dairy Cattle
+0
+0
+0
+216
+0
+1
+217
+217
+Dairy Cattle
+0
+0
+1
+19
+0
+0
+19
+19
+Poultry (E)
+0
+0
+0
+6
+0
+2
+8
+8
+Sheep
+0
+0
+0
+28
+0
+0
+28
+28
+Swine
+0
+0
+13
+0
+0
+3
+15
+15
+Other animals (F)
+0
+0
+0
+57
+0
+0
+57
+57
+Africa
+Non-dairy Cattle
+0
+0
+3
+102
+0
+0
+105
+105
+Dairy Cattle
+0
+0
+0
+19
+0
+0
+19
+19
+Poultry (E)
+0
+0
+0
+6
+0
+0
+7
+7
+Sheep
+0
+0
+0
+43
+0
+0
+43
+43
+Swine
+0
+0
+4
+0
+0
+0
+4
+4
+Other animals (F)
+0
+0
+0
+128
+0
+0
+129
+129
+AGRICULTURE
+4.124
+R e v i se d  1 9 9 6 I P C C  G u i d e l i n e s f o r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+TABLE B-2 (CONTINUED)
+N2O EMISSIONS FROM DIFFERENT ANIMAL WASTE MANAGEMENT SYSTEMS IN DIFFERENT WORLD REGIONS
+Region
+Type of Animal
+N2O Emission from Waste Management Systems (Gg N)
+Anaerobi
+c
+Lagoon
+Liquid
+System
+Daily
+ Spread
+Solid Storage
+and Drylot
+Pasture Range
+and Paddock
+Used Fuel
+Other
+System
+Total AWMS
+Total N2O
+Emission (Gg N)
+Near East and
+Mediterranean
+Non-dairy Cattle
+0
+0
+0
+0
+34
+0
+0
+35
+35
+Dairy Cattle
+0
+0
+0
+1
+19
+0
+0
+19
+19
+Poultry (E)
+0
+0
+0
+0
+6
+0
+1
+6
+6
+Sheep
+0
+0
+0
+0
+45
+0
+0
+45
+45
+Swine
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other animals (F)
+0
+0
+0
+0
+66
+0
+0
+66
+66
+Asia 
+and 
+Far
+East
+Non-dairy Cattle
+0
+0
+0
+49
+102
+0
+0
+151
+151
+Dairy Cattle
+0
+0
+0
+0
+13
+0
+0
+13
+13
+Poultry (E)
+0
+0
+0
+0
+21
+0
+6
+27
+27
+Sheep
+0
+0
+0
+0
+40
+0
+2
+42
+42
+Swine
+0
+0
+0
+68
+0
+0
+0
+71
+71
+Other animals (F)
+0
+0
+0
+0
+223
+0
+3
+226
+226
+World Total
+1609
+1971
+(D) Includes buffalo
+(E) Includes chickens, turkeys and ducks
+(F) Includes goats, horses, mules, donkeys and camels
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.125
+4.6 
+References
+Methane and Nitrous oxide Emissions from Domestic Livestock Enteric
+Fermentation and Manure Management
+AAC (Australian Agricultural Council) (1990), Feed Standards for Australian Livestock.
+Ruminants, Commonwealth Scientific and Industrial Research Organisation
+(CSIRO) Publications, East Melbourne, Victoria, Australia.
+ARC (1980), The Nutrient Requirements of Ruminant Livestock, Commonwealth Agricultural
+Bureau, the Lavenham Press Ltd., UK.
+Bamualim, A. and Kartiarso (1985), "Nutrition of draught animals with special reference
+to Indonesia."  In: Draught Animal Power for Production J.W. Copland (ed.),
+Australian Centre for International Agricultural Research (ACIAR), Proceedings
+Series No. 10. ACIAR, Canberra, A.C.T., Australia.
+Bhattacharya, S.C., H.L. Pham, R.M. Shrestha and Q.V. Vu, (1993) “CO2 emission due to
+fossil/traditional fuels, residues and wastes in Asia.” AIT (Asian Institute of
+Technology)  Workshop on Global Warming Issues in Asia. Bangkok, Thailand.
+Blaxter, K.L. and J.L. Clapperton (1965), "Prediction of the amount of methane produced
+by ruminants," British Journal of Nutrition 19:511-522.
+Crutzen, P.J., I. Aselmann and W. Seiler (1986), "Methane Production by Domestic
+Animals, Wild Ruminants, Other Herbivorous Fauna, and Humans,"  Tellus
+38B:271-284
+FAO (1990), Yearbook - Production Vol. 44, FAO, United Nations, Rome, Italy.
+Gibbs, M.J. and D.E. Johnson (1993), "Livestock Emissions."  In: International Methane
+Emissions, US Environmental Protection Agency, Climate Change Division,
+Washington, D.C., U.S.A.
+Graham, N.M. (1985), "Relevance of the British metabolisable energy system to the
+feeding of draught animals."  In: Draught Animal Power for Production, J.W. Copland
+(ed.), ACIAR (Australian Centre for International Agricultural Research)
+Proceedings Series No. 10. ACIAR, Canberra, A.C.T., Australia.
+Hashimoto, A. and J. Steed (1993), Methane Emissions from Typical U.S. Livestock Manure
+Management Systems.  Draft report prepared for ICF Incorporated under
+contract to the Global Change Division of the Office of Air and Radiation, US
+Environmental Protection Agency, Washington, D.C., U.S.A.
+IAEA (1992), Manual on measurement of methane and nitrous oxide emissions from
+agriculture. International Atomic Energy Agency Publication IAEA-TECDOC-674,
+Vienna, Austria.
+Ibrahim, M.N.M. (1985), "Nutritional status of draught animals in Sri Lanka." In: Draught
+Animal Power for Production, J.W. Copland (ed.), ACIAR (Australian Centre for
+International Agricultural Research) Proceedings Series No. 10. ACIAR,
+Canberra, A.C.T., Australia.
+Johnson, K.A., H. Westberg, M. Hyler and B. Lamb (1993), Cattle Methane Measurement
+Techniques Workshop, August 9-12, 1993, Washington State University, Pullman,
+WA, sponsored by the Global Change Division, Office of Air and Radiation, US
+Environmental Protection Agency, Washington, D.C., U.S.A.
+AGRICULTURE
+4.126
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Jossy, M. T. (1994), Estimation of Greenhouse Gases Emission from Agricultural Wastes in Asia,
+M.Eng Thesis, Asian Institute of Technology, Bangkok, Thailand (to be
+submitted).
+Jurgens, M.H. (1988), Animal Feeding and Nutrition, Sixth Edition, Kendall/Hunt Publishing
+Company, Dubuque, Iowa, U.S.A.
+Lawrence, P.R. (1985), "A review of nutrient requirements of draught oxen." In: Draught
+Animal Power for Production, J.W. Copland (ed.), ACIAR (Australian Centre for
+International Agricultural Research) Proceedings Series No. 10. ACIAR,
+Canberra, A.C.T., Australia.
+Lichtman, R. J. (1983), Biogas Systems in India, Volunteers In Technical Assistance (VITA),
+Arlington, Virginia, U.S.A.
+NRC (1984), Nutrient Requirements of Beef Cattle, National Academy Press, Washington,
+D.C., U.S.A.
+NRC (1989), Nutrient Requirements of Dairy Cattle, National Academy Press, Washington,
+D.C., U.S.A.
+OECD (1991), Estimation of Greenhouse Gas Emissions and Sinks: Final Report from the
+OECD Experts Meeting, 18-21 February 1991, OECD, Paris, France.
+Robbins, C.T. and D.L. Robbins (1979), "Foetal and neonatal growth patterns and
+maternal reproductive effort in ungulates and sub-ungulates," Amer. Naturalist
+114:101.
+Safley, L.M. Jr. and P.W. Westerman, (1992), "Performance of a low temperature lagoon
+digester," Bioresource Technology 41:167-175.
+Safley, L.M., M.E. Casada, J.W. Woodbury, and K.F. Roos (1992), Global Methane Emissions
+from Livestock and Poultry Manure. US Environmental Protection Agency, Global
+Change Division, Washington, D.C., February 1992, EPA/400/1091/048.
+Stuckey, D.C. (1984), "Biogas: a global perspective."  In: Biogas Technology, Transfer and
+Diffusion, M.M. El-Halwagi (ed.), Elsevier, New York, U.S.A., pp. 18-44.
+US EPA (1993), Anthropogenic Methane Emissions in the United States, Global Change
+Division, Office of Air and Radiation, Washington, D.C.
+Winrock (1978), The Role of Ruminants in Support of Man, Winrock International,
+Morrilton, Arkansas, U.S.A.
+Woodbury, J.W. and A. Hashimoto (1993), "Methane Emissions from Livestock Manure."
+In International Methane Emissions, US Environmental Protection Agency, Climate
+Change Division, Washington, D.C., U.S.A.
+Yancun, C., H. Cong and Liang Pusen (1985), "Development of a new energy village -
+Xinbu, China."  In: Integrated Rural Energy Planning, Y. El Mahgary and A.K. Biswas
+(eds.), Butterworths Publishing, Guildford, England, pp. 99-108.
+Methane Emissions from Flooded Rice Fields
+Aselmann, I. and P.J. Crutzen (1989), “The global distribution of natural freshwater
+wetlands and rice paddies, their net primary productivity, seasonality and possible
+methane emission.” J. Atm. Chem. 8, 307-358.
+Blake, D.R. and F.S. Rowland (1988), “Continuing world-wide increase in tropospheric
+methane, 1978 to 1987”. Science 239, 1129-1131.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.127
+Bouwman, A.F. (1990), “Exchange of GHGs between terrestrial ecosystems and the
+atmosphere.” Ed. A.F. Bouwman, in Soil and the Greenhouse Effect, John Wiley and
+Sons, U.K., pp. 62-127.
+Chen, Z., D. Li, K. Shao and B. Wang (1993), “Features of CH4 emission from rice paddy
+fields in Beijing and Nanjing.” Chemosphere  26, 239-245
+Cai, Z.C., H. Zu, H.H. Zhang and J.S. Jin (1994), “Estimate of methane emission from rice
+paddy fields in Taihu region, China.” Pedosphere 4, 297-306
+China Agricultural Yearbook (1990), Agribookstore, Hampton, VA, U.S.A.
+Cicerone, R.J., and J.D. Shetter (1981), “Sources of atmospheric methane; measurements
+in rice paddies and a discussion.”  J Geophys Res  86: 7203-7209.
+Cicerone, R.J., J.D. Shetter and C.C. Delwiche (1983), “Seasonal variation of methane flux
+from a California rice paddy.” J. Geophys. Res. 88, 7203-7209.
+Cicerone, R.J. and R.S. Oremland (1988). “Biogeochemical aspects of atmospheric
+methane.”  Global Biogeochem. Cycles  2, 299-327.
+Cicerone, R.J., C.C. Delwiche, S C. Tyler and P.R. Zimmerman (1992, “Methane emissions
+from California rice paddies with varied treatments.”  Global Biogeochem. Cycles 6
+233-248.
+Conrad, R. (1989), “Control of methane production in terrestrial ecosystems”.  In:
+Exchange of Trace Gases between Terrestrial Ecosystems and the Atmosphere, M.O.
+Andreae and D.S. Schimel(eds.), 39-58.
+Conrad, R. (1993), “Mechanisms controlling methane emission from wetland rice fields”.
+In: The Biogeochemistry of Global Change: Radiative Trace Gases, R.S. Oremland,
+(ed.)  Chapman & Hall, New York, pp. 317-335.
+Crutzen, P.J. (1985), “The role of the tropics in atmospheric chemistry.”  In: R Dickinson
+(ed.) The Geophysiology of Amazonia, Wiley, Chichester, pp. 107-132.
+DeDatta, S.K. (1975), “Upland rice around the world.” In: Major Research in Upland Rice,
+International Rice Research Institute, Los Baños, Philippines.
+Denier van der Gon, H.A.C. and H.U. Neue (1994), “Impact of gypsum application on
+methane emission from a wetland rice field.” Global Biogeochem, Cycles, 8,
+127-134
+Ehhalt, D.H. and U. Schmidt (1978), “Sources and sinks of atmospheric methane.” Pure
+Appl. Geophys., 116, 452-464.
+Grist, D.H. (1986), Rice. Longman, Inc., New York, U.S.A., 6th edition.
+Holzapfel-Pschorn, A., and W. Seiler (1986), “Methane emission during a cultivation
+period from an Italian rice paddy.” J. Geophys. Res., 91, 11803-11814..
+Husin, Y. A., D. Murdiyarso, M. A. K. Khalil, R. A. Rasmussen, M. J. Shearer, S. Sabiham, A.
+Sunar, A. Adijuwana, (1995), “Methane flux from Indonesian wetland rice : The
+effect of water management and rice variety”, Chemosphere, 31(4), pp 3153-3180.
+Huke, R.F. (1982), Rice Area by Type of Culture; South, South-east and East Asia.
+International Rice Research Inst., IRRI, Los Banos, Laguna, Philippines.
+IPCC (1990), Climate Change, the IPCC Scientific Assessment, J.T. Houghton, G J Jenkins and
+J J Ephraums, (eds.) Cambridge University Press, UK, pp. 1-40.
+AGRICULTURE
+4.128
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+IPCC (1996), Climate Change 1995: the Science of Climate Change, WGI contribution to the
+IPCC Second Assessment Report, J.T. Houghton, L G Meira Filho, B A Callander, N
+Harris, A Kattenberg and K Maskell. (eds.) Cambridge University Press, 1996.
+Jermsawatdipong, P., J. Murase, P. Prabuddham, Y. Hasathon, N. Khomthong, K. Naklang, A.
+Watanabe, H. Haraguchi and M. Kimura (1994), “Methane emission from plots
+with differences in fertilizer application in Thai paddy fields.” Soil Sci. Plant Nutr., 40,
+63-71.
+IGAC (1994), Global Measurement Standardisation of Methane Emissions from Irrigated
+Rice Cultivation, A Report of the Rice Cultivation and Trace Gas Exchange Activity
+(RICE) of the International Global Atmospheric Chemistry (IGAC) Project
+(Convenors, R. Sass and H.U. Neue), IGAC Core Office, Cambridge, MA.
+IRRI (1990), World Rice Statistics, 1989, International Rice Research Institute, Los Banos,
+Philippines.
+IRRI (1993), 1993-1995 IRRI Rice Almanac, International Rice Research Institute, Manila,
+Philippines.
+IRRI (1994), IRRI Rice Almanac, International Rice Research Institute, Manila, Philippines.
+Katoh, K., P. Chairoj, W. Choltikul, H. Tsuruta and K. Yagi (1995). Mechanism of methane
+formation and development of methods to decrease methane emission in humid
+tropical paddy fields. Japan International Research Center for Agricultural Sciences.
+Khalil, M.A.K. and R.A. Rasmussen (1983), “Sources, sinks, and seasonal cycles of
+atmospheric methane.”  J Geophys Res 88: 5131-5144.
+Khalil, M.A.K., R.A. Rasmussen, M.X. Wang and L. Ren (1991), “Methane emission from
+rice fields in China.” Environ. Sci. Tech., 25:979-981.
+Koyama, T. (1964), “Biogeochemical studies on lake sediments and paddy soils and the
+production of atmospheric methane and hydrogen.”  In: Recent Researches in the
+Fields of Hydrosphere, Atmosphere and Nuclear Geochemistry, Y. Miyake and
+T. Koyama, (eds.), Muruzen, Tokyo, Japan, pp. 143-177.
+Kush, G. S., (1984), Terminology for rice growing environments, International Rice Research
+Institute, P.O Box 933, Manila, Philippines, pp 5-10.
+Lindau, C.W., P.K. Bollich, R.D. DeLaune, W.H. Patrick Jr., and V.J. Law (1991), “Effect of
+urea fertilizer and environmental factors on CH4 emissions from a Louisiana, USA
+rice field.” Plant Soil, 136, 195-203
+Lindau, C.W. and P.K. Bollich (1993), “Methane emissions from Louisiana first and ratoon
+rice crop.”  Soil Science, 156:42-48.
+Lindau, C.W. (1994), “Methane emissions from Louisiana rice fields amended with nitrogen
+with fertilizers.” Soil Biol. Biochem., 26, 353-359
+Minami, K. (1994), “Methane from rice production.” Fert. Res. 37, pp. 169-179.
+Minami, K., (1995), “The effect of nitrogen fertilizer use and other practices on methane
+emission from flooded rice.” Fert. Res., 40, pp. 71-84.
+Mitra, A.P. (1992), Greenhouse gas emission in India, 1991 methane campaign Council of
+Scientific and Industrial Research, and Ministry of Environment and Forest.
+Scientific Report No. 20. NPL, India.
+Mitra A. P. (1996);(ed.) Greenhouse gas inventory for India : 1995 Update, Global Change
+Series, 1996 (in press).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.129
+Neue, H. U., (1989), Rice growing soils: constraints, utilization and research needs, FFTC
+Book Series No. 39, Food and Fertilizer Technology Center for the Asia Pacific
+Region, Taipei, Taiwan.
+Neue, H.U., P. Becker-Heidmann and H.W. Scharpenseel (1990), “Organic matter
+dynamics, soil properties and cultural practices in rice lands and their relationship
+to methane production.” In: Soils and the Greenhouse Effect A.F. Bouwman (ed.),
+John Wiley and Sons, UK, pp. 457-466.
+Neue, H.U. and R. Sass (1994), “Trace gas emissions from rice fields.” In: Global
+Atmospheric-Biospheric Chemistry, R.G. Prinn (ed.) Plenum Press, New York.
+Neue, H. U., R. S. Lantin, R. Wassmann, J. B. Aduna, M. C. R. Alberto, and M. J. F. Andales
+(1994), “Methane emission from rice soils of the Philippines.”  In: CH4 and N2O
+Global Emissions and Controls from Rice Fields and Other Agricultural and Industrial
+Sources, K. Minami, A. Mosier and R. L. Sass (eds.), NIAES, Series 2, Yokendo
+Publ., Tokyo, Japan, pp. 55-64.
+NGGIC (1996), Australian Methodology for the Estimation of Greenhouse Gas Emissions
+and Sinks, Agriculture, Workbook for Non-Carbon Dioxide Gases from the
+Biosphere, Workbook 5.1, National Greenhouse Gas Inventory Committee
+1996, Canberra, Australia.
+Nugroho, S.G., J. Lumbanraja, H. Suprapto, Sunyoto, W.S. Ardjasa, H. Haraguchi and M.
+Kimura (1994a), “Methane emission from an Indonesian paddy field subjected to
+several fertilizer treatments.” Soil Sci. Plant Nutr., 40, 275-281
+Nugroho, S.G., J. Lumbanraja, H. Suprapto, Sunyoto, W.S. Ardjasa, H. Haraguchi and M.
+Kimura (1994b), “Effect of intermittent irrigation on methane emission from an
+Indonesian paddy field” Soil Sci. Plant Nutr. 40, 609-615.
+Parashar, D. C. et al., (1994), “Methane budget from paddy fields in India.” Current Science
+66, Report No. 12, pp 938-940.
+Parashar, D. C, Gupta K. Prabhat and S. Bhataachaya (1996), “Methane emissions from
+paddy fields in India-An update,”  J. Radio and Space Physics (in press).
+Patrick, W.H. Jr. (1981), “The role of inorganic redox systems in controlling reduction in
+paddy soils”. In: Proc. Symp. Paddy Soil, 107-117, Science Press, Beijing, China,
+Springer-Verlag.
+Sass, R.L., F.M. Fisher, P.A. Harcombe and F.T. Turner (1990), “Methane production and
+emission in a Texas rice field.”  Global Biogeochemical Cycles 4:47-68.
+Sass, R.L., F.M. Fisher, P.A. Harcombe and F.T. Turner (1991a), “Mitigation of methane
+emissions from rice fields: Possible adverse effects of incorporated rice straw.”
+Global Biogeochemical Cycles 5: 275-287.
+Sass, R.L., F.M. Fisher, F.T. Turner and M.F. Jund (1991b), “Methane emission from rice
+fields as influenced by solar radiation, temperature and straw incorporation”.
+Global Biogeochemical Cycles 5: 335-350.
+Sass, R.L., F.M. Fisher, Y.B. Yang, F.T. Turner and M.F. Jund (1992), “Methane emissions
+from rice fields: the effect of flood water management”. Global Biogeochemical
+Cycles 6(3): 249-262.
+Sass, R L (1994), Short summary chapter for methane.  In: CH4 and N2O: global
+emissions and controls from rice field and other agricultural and industrial
+sources, K. Minami, A. Mosier and R. L. Sass (eds.) NIAES, Series 2, Yokendo
+Publishers, Tokyo, pp 1-7.
+AGRICULTURE
+4.130
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Sass, R.L. and F.M. Fisher (1995), “Methane emissions from Texas rice fields: a five-year
+study.” In: Climate Change and Rice. S. Peng, K.T. Ingram, H.U. Neue, L.H. Ziska
+(eds.) Springer, Berlin, pp.46-59.
+Schütz, H., A. Holzapfel-Pschorn, R. Conrad, H. Rennenberg and W. Seiler (1989a), “A 3-
+year continuous record on the influence of daytime, season and fertilizer
+treatment on methane emission rates from an Italian rice paddy.” J. Geophys. Res.
+94, 16,405-16,416.
+Schütz H., W. Seiler, and R. Conrad (1989b), “Processes involved in formation and
+emission of methane from rice paddies.”  Biogeochem 7: 33-53
+Schütz, H., W. Seiler, and H. Rennenberg (1990), “Soil and land use related sources and
+sinks of methane in the context of the global methane budget.” In: Soils and the
+Greenhouse Effect, A.F. Bouwman (ed), Wiley, Chichester, pp. 269-285.
+Seiler, W., A. Holzapfel-Pschorn, R. Conrad and D. Scharffe (1984), “Methane emissions
+from rice paddies”. J. Atmos. Chem. 1, 241-268.
+Shao, (1993), Agro-Ecological Environment, Supplement Issue, 19-22  (in Chinese)
+Shin, Y-K, S-H. Yun, M-E. Park (1995), “Estimation of methane emission by water
+management and rice straw application in paddy soil in Korea.” J. Korean Soc. of
+Soil Sci. and Fert. 28 (3), 261-265.
+Takai, Y. (1970), “The mechanism of methane fermentation in flooded paddy soil.” Soil Sci.
+Plant Nutr. 16, 238-244.
+United Nations (1992), FAO Production Yearbook, vol. 46. Food and Agriculture
+Organization of the United Nations, Rome, Italy.
+Wang, M.X., A. Dai, R. Shen, H. Schütz, W. Seiler, H. Rennenberg and H. Wu (1990),
+“CH4  emissions from a Chinese rice paddy field.”  Acta Meteoroloogica Sinica.
+Scienta Atmospherica Sinica 4, 265-274.
+Wassman, R., H. Schütz, H. Papen, H. Rennenberg, W. Seiler, A. Dai, R. Shen, X.
+Shangguan and M. Wang (1993a), Quantification of methane emissions from
+Chinese rice fields (Zhejiang Province) as influenced by fertiliser treatment.”
+Biogeochemistry 20:83-101.
+Wassman, R., M.X. Wang, X.J. Shangguan, X.L. Xie, R. X. Shen, Y.S. Wang, H. Papen, H.
+Rennenberg and W. Seiler (1993b), First records of a field experiment on
+fertilizer effects on methane emission from rice fields in Hunan Province (PR
+China) Geophys. Res. Letters 20, 2071-2074.
+Wassmann, R., H.U. Neue, R.S. Lantin, J.B. Aduna, M.C.R. Alberto, M.J. Andales, M.J. Tan,
+H.A.C. Denier van der Gon, H. Hoffmann, H. Papen, H. Rennenberg and W.
+Seiler (1994), “Temporal patterns of methane emissions from wetland rice fields
+treated by different modes of N application.”  J. Geophys. Res.  99, 16457-16462
+Yagi, K. and K. Minami (1990a), Effect of organic matter applications on methane
+emissions from Japanese paddy fields. Soil Sci. Plant Nutr. 36, 599-610.
+Yagi, K. and K. Minami (1990b), Estimation of global methane emission from paddy fields.
+Res. Rep. Div. Environ. Planning, NIAES, 6, 131-142 (in Japanese).
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.131
+Yagi, K.H. Tsuruta, K. Minami, P. Chairoj and W. Cholitkul (1994a), “Methane
+emissions from Japanese and Thai paddy fields.”  In: CH4 and N2O Global
+Emissions and Controls from Rice Fields and Other Agricultural and Industrial Sources, K.
+Minami, A. Mosier and R.L. Sass (eds.), NIAES, Series 2, Yokendo Publ., Tokyo, Japan,
+pp 41 -53.
+Yagi K, P.Chairoj, H. Tsuruta, W. Cholitkul, and K. Minami (1994b), “Methane emission
+from rice paddy fields in the central plain of Thailand.” Soil Sci. Plant Nutr. 40: 29-
+37.
+Yagi, K., H. Tsuruta and K. Minami (1996), “Effect of water management on methane
+emissions from a Japanese rice paddy field: Automated methane monitoring.”
+Global Biogeochem. Cycles 10, 255-267.
+Yamane, I. and K. Sato (1961), “Effect of temperature on the formation of gases and
+ammonium nitrogen in the water-logged soils.” Sci. Rep. Res. Inst. Tohoku Univ.
+D (Agr.) 12, 31-46.
+Yamane, I. and K. Sato (1964), “Decomposition of glucose and gas formation in flooded
+soil.” Soil Sci. Plant Nutr 10, 127-133.
+Yao, H., and Z. L. Chen (1994a), “Effects of chemical fertilizer on methane emission from
+rice paddies.” J. Geophys. Res. 99, 16463-16470
+Yao, H., and Z. L. Chen (1994b), “Seasonal variation of methane flux from a Chinese rice 
+paddy in a semi-arid, temperate region.” J. Geophys. Res. 99, 16471-16477
+Agricultural Burning
+Andreae, M.O. (1990), “Biomass burning in the tropics: Impact on environmental quality
+and global climate.”  Paper presented at the Chapman Conference on Global
+Biomass Burning: Atmospheric, Climatic, and Biospheric Implications, 19-23 March
+1990, Williamsburg, Virginia, U.S.A.
+Barnard, G.W. (1990), Use of agricultural residues as fuel. In: Bioenergy and the
+Environment. J. Pasztor and L.A. Kristoferson (eds.), Westview Press, Boulder,
+Colorado, U.S.A, pp. 85-112.
+Barnard, G.W. and L.A. Kristoferson (1985), Agricultural Residues as Fuel in the Third
+World. Technical Report No. 5. Earthscan, London, UK.
+Bolin, B., E.T. Degens, P. Duvigneaud and S. Kempe (1979), The global biogeochemical
+carbon cycle.  In: the Global Carbon Cycle,. B. Bolin, E.T. Degens, P. Duvigneaud,
+and S. Kempe (eds.).  SCOPE 13, Wiley, Chichester, UK. pp. 1-56.
+Bouliere, F. and M. Hadley (1970), The ecology of tropical savannas. Annual Review of
+Ecology Systems 1:125-152.
+Bucher, E.H. (1982), Chaco and Caatinga-South American arid savannas, woodlands and
+thickets.  In: Ecology of Tropical Savannas B.J. Huntley, and B.H. Walker, (eds.)
+(Ecological Studies 42). Springer-Verlag, Berlin, Germany, pp. 48-79.
+Coutinho, L.M. (1982), Ecological effects of fire in Brazilian cerrado.  In: Ecology of Tropical
+Savannas. B.J. Huntley, and B.H. Walker (eds.)(Ecological Studies 42). Springer-
+Verlag, Berlin, Germany, pp. 273-291.
+Crutzen, P.J. and M.O. Andreae (1990), “Biomass burning in the Tropics: Impact on
+atmospheric chemistry and biogeochemical cycles.” Science 250:1669-1678.
+AGRICULTURE
+4.132
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Crutzen, P.J. (1983), “Atmospheric interactions – Homogenous gas reactions of C, N, and
+S containing compounds.” In The Major Biogeochemical Cycles and Their
+Interactions, B. Bolin, and R.B. Cook (eds.),. SCOPE 21, John Wiley and Sons Inc.,
+New York, U.S.A, pp. 67-114.
+Delmas, R. (1993), “An Overview of Present Knowledge on Methane Emission from
+Biomass Burning.”  In: Proceedings of an International IPCC Workshop: Methane and
+Nitrous Oxides, Methods in National Emissions Inventories and Options for Control,
+3- 5 February 1993, Amersfoort, NL. A.R, van Amstel (ed.). RIVM Report
+No. 481507003, Bilthoven, The Netherlands, July.
+Delmas, R.A. and D. Ahuja (1993), “Estimating national methane emissions from
+anthropogenic biomass burning. Working group report: Methane emissions from
+biomass burning. In Proceedings of an International IPCC Workshop: Methane and
+Nitrous Oxides, Methods in National Emissions Inventories and Options for Control, 3-
+5 February 1993, Amersfoort, NL., A.R. van Amstel (ed.), RIVM Report
+No. 481507003, Bilthoven, The Netherlands, July.
+Elgin, J. (1991), National Programme Leader for Forages and Pastures, US Department of
+Agriculture, personal communication.
+FAO/UNEP (1981), Tropical Forest Resources Assessment Project. FAO (Food and
+Agriculture Organization of the United Nations/United Nations Environment
+Programme), Rome, Italy.
+FAO (1991), Production Yearbook Volume 44. FAO Statistics Series 94, FAO (Food and
+Agriculture Organization of the United Nations), Rome, Italy.
+FAO (1993), Forest Resources Assessment 1990 - Tropical Countries. FAO Forestry Paper
+No. 112, FAO, Rome, Italy.
+Galbally, I.E. (1985), The emission of nitrogen to the remote atmosphere: Background
+paper.  In: The Biogeochemical Cycling of Sulfur and Nitrogen in the Remote
+Atmosphere, J.N. Galloway, R.J. Charlson, M.O. Andreae, and H. Rodhe (eds.). D.
+Reidel, Dordrecht, The Netherlands, pp. 27-53.
+González-Jiménez, E. (1979), “Primary and secondary productivity in flooded savannas.” In
+UNESCO/UNEP/FAO (ed.). “Tropical grazing land ecosystems of Venezuela.”
+Nat. Resour. Res. 16:620-625.
+Haggar, R.J. (1970), “Seasonal production of Andropogon gayanus, 1. Seasonal changes in
+field components and chemical composition.” Journal of Agricultural Science,
+74:487-494.
+Hall, D., F. Rosillot-Calle, R.H. William and J Wood (1994), Network Newsletter, Biomass
+users Network/UNCED.  King’s College, London, Campden Hill Road,
+London W8 7AH, UK.
+Hao, W.M., M.H. Liu and P.J. Crutzen (1990), “Estimates of annual and regional releases
+of CO2 and other trace gases to the atmosphere from fires in the tropics, based
+on the FAO statistics for the period 1975-1980.”  In: Fire in the Tropical Biota,
+Ecosystem Processes and Global Challenges, J.G. Goldammer, (ed.). Springer-Verlag,
+Berlin, Germany, pp. 440-462.
+Harris, D.R. (1980), “Tropical savanna environments: Definition, distribution, diversity,
+and development.”  In: Human ecology in savanna environments, Harris, D.R. (ed.).
+Academic Press, New York, US, pp. 3-27.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.133
+Hopkins, B. (1965), “Observations on savanna burning in the Olokemeji Forest Reserve,
+Nigeria.”  Journal of Applied Ecology 2:367-381.
+Howden, S.M., G.M. McKeon, J.C. Scanlan, J.O. Carter and D.H. White (1996), “Methods
+for exploring options to reduce greenhouse gas emissions from tropical grazing
+systems.” Climatic Change. (In press.)
+Huntley, B.J. (1982), “South African savannas.”  In: Ecology of Tropical Savannas, B.J.
+Huntley and B.H. Walker (eds.),.(Ecological Studies 42). Springer-Verlag, Berlin,
+Germany, pp. 101-119.
+Huntley, B.J. and J.W. Morris (1982), “Structure of Nylsvley savanna.”  In: Ecology of
+Tropical Savannas, B.J. Huntley and B.H. Walker (eds.), (Ecological Studies 42).
+Springer-Verlag, Berlin, Germany, pp. 433-455.
+Johansson, T.B., H. Kelly, A.K.N. Reddy and R.H. Williams (1992), Renewable Energy:
+Sources for Fuels and Electricity. Island Press, Washington, DC, U.SA.
+Lacaux, J.P., H. Cachier and R. Delmas (1993), “Biomass Burning in Africa: An Overview
+of Its Impact on Atmospheric Chemistry.”  In: Fire in the Environment: The
+Ecological, Atmospheric and Climatic Importance of Vegetation Fires P.J. Crutzen and
+J.G. Goldammer (eds.). J. Wiley & Sons Ltd, UK.
+Lacey, C.J., J. Walker and I.R. Nolde (1982), Fire in Australian tropical savannas. In:
+Ecology of Tropical Savannas, B.J. Huntley, and B.H. Walker (eds.).. (Ecological
+Studies 42). Springer-Verlag, Berlin, U.S,A. pp. 246-272.
+Lanly, J.P. (1982), Tropical Forest Resources. Food and Agriculture Organization of the
+United Nations (FAO) Paper 30, FAO, Rome, Italy.
+Lashof, D.A. and D.A. Tirpak (eds.) (1990), Policy Options for Stabilizing Global Climate.
+Report to Congress, US Environmental Protection Agency, Washington, D.C.,
+U.S.A.
+Levine, J.S. (ed.) (1990), Global Biomass Burning: Atmospheric, Climatic and Biospheric
+Implications. The MIT Press, Cambridge, MA, U.S.A.
+Lieth, H. (1978), Patterns of Primary Productivity in the Biosphere. Hutchinson Ross,
+Stroudsberg, PA, U.S.A..
+Lobert, J.M., D.H. Scharffe, W.M. Hao and P.J. Crutzen (1990), “Importance of biomass
+burning in the atmospheric budgets of nitrogen-containing gases.”  Nature
+346:552-554.
+Menaut, J.C., L. Abbadie, F. Lavenu, Ph. Loudjani and A. Podaire (1991), “Biomass burning
+in West African savannas.”  In: Global Biomass Burning, J. Levine (ed.),  MIT Press,
+Cambridge, MA, U.S.A.
+Menaut, J.C., and J. César (1982), “The structure and dynamics of a West African
+savanna.”  In: Ecology of Tropical Savannas, B.J. Huntley and B.H. Walker
+(eds.).(Ecological Studies 42). Springer-Verlag, Berlin, Germany, pp. 8-100.
+Menaut, J.C. (1990), Biomass burning in West African savannas. Presentation given at the
+Chapman Conference on Global Biomass Burning. Williamsburg, Virginia,
+March 19-23. Proceedings forthcoming: MIT Press, Cambridge, MA, U.S.A.
+Ponnamperuma, F.N. (1984), “Straw as a source of nutrients for wetland rice.”  In:
+Organic Matter and Rice. International Rice Research Institute, Los Baños,
+Philippines. pp. 117-135.
+AGRICULTURE
+4.134
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+San José, J.J. and E. Medina (1976), “Organic matter production in the Trachypogon
+savannas in Venezuela.”  Tropical Ecology 17:113-124.
+Seiler, W. and P.J. Crutzen (1980), “Estimates of gross and net fluxes of carbon between
+the biosphere and the atmosphere from biomass burning.”  Climatic Change
+2:207-247.
+Singh, K.P. and R. Misra (1978), Structure and Functioning of Natural, Modified and
+Silvicultural Ecosystems of Eastern Uttar Pradesh. Technical Report MAB Research
+Project, Banaras Hindu University, Varanasi.
+Strehler, A. and W. Stützle (1987), “Biomass residues.” In: Biomass: Regenerable Energy,
+D.O. Hall, and R.P. Overend (eds.). John Wiley, Chichester, U.K., pp. 75-102.
+US HEW (1970), Air Quality Criteria for Carbon Monoxide. US HEW, Washington, D.C.,
+U.S.A.
+Whittaker, R.H. and G.E. Likens (1975), “The biosphere and man.”  In: (1975), Primary
+Productivity of the Biosphere, H. Lieth and R.H. Whittaker (eds.). Ecological Studies
+No. 14. Springer-Verlag, New York-Heidelberg-Berlin.
+Nitrous Oxide Emissions from Agricultural Soils
+Bakken, L., K. Refsgaard, S. Christensen and A. Vatn (1994), “Energy use and emissions of
+greenhouse gases from grassland agricultural systems.”  In: Grassland and Society,
+L. 't Mannetje and J. Frame (eds.), Wageningen Pers, Wageningen, The
+Netherlands, pp. 361-376.
+Barrow, N.J. and L.J. Lambourne (1962), Australian Journal of Agricultural Research 13:461-
+471.
+Berounsky, V.M. and S.W. Nixon (1985), “Eutrophication and the rate of net nitrification
+in a coastal marine ecosystem.”  Estuarine Coastal and Shelf Science 20:773-781.
+Berounsky, V.M. and S.W. Nixon (1993), “Rates of nitrification along an estuarine
+gradient in Narragansett Bay.”  Estuaries 16(4):718-730.
+Bouwman, A.F. (1994), Method to estimate direct nitrous oxide emissions from agricultural
+soils.  Report 773004004.  National Institute of Public Health and Environmental
+Protection, Bilthoven, The Netherlands, p. 28.
+Bouwman, A.F. (1995), “Compilation of a global inventory of emissions of nitrous oxide.”
+Thesis Landbouwuniversiteti Wageningen.  ISBN 90-5485-364-6, p. 143.
+Bouwman, A.F. (1996), Long-term scenarios of livestock-crop-land use interactions for the
+assessment of environmental indicators in developing countries.  FAO Report.  (In
+press).
+Bouwman, A.F., and W.G. Sombroek (1990), “Inputs to climatic change by soils and
+agriculture related activities: Present status and possible future trends.” In: Soils
+on a warmer Earth, H.W. Scharpenseel, M. Schomaker & A. Ayoub (eds.).
+Developments in Soil Science 20. Elsevier, Amsterdam, pp. 15-30.
+Bouwman, A.F. and K.W. Van Der Hoek (1991), Analysis of soil and water borne emissions
+of nitrous oxide and methane in the Netherlands.  RIVM Report No. 736301010.
+National Institute of Public Health and Environmental Protection, Bilthoven, The
+Netherlands.
+Bouwman, A.F., K.W. van der Hoek and J.G.J. Olivier (1995), “Uncertainties in the global
+source distribution of nitrous oxide.”  J. Geophys. Res., 100:2785-2800.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.135
+Bowden, R.D., J.M. Melillo and P.A. Steudler (1991), “Effects of nitrogen additions on
+annual nitrous oxide fluxes from temperate forests soils in the northeastern
+United States.”  J. Geophys. Res. 96:9321-9328.
+Brumme, R. and F. Beese (1992), “Effects of liming and nitrogen fertilization on emission
+of CO2 and N2O from a temperate forest”  J. Geophys. Res. 97:12851-12858.
+Burton, C.H., R.W. Sneath and J.W. Farrent (1993), “Emissions of nitrogen oxide gases
+during aerobic treatment of animal slurries.”  Bioresource Technology 5:233-235.
+Carran, R.A., Theobald, P.W. and Evans, J.P. (1995), “Emission of nitrous oxide from
+some grazed pasture soils in New Zealand.”  Australian Journal of Soil Research
+33:341-352.
+Christensen, P.B. and J. Soerensen (1988), “Denitrification in sediment of lowland
+streams: regional and seasonal variation in Gelbaek and Rabis Beak, Denmark.”
+FEMS Microbiol. Ecol. 53:335-344.
+Christensen, P.B., L.P. Nielsen, N.P. Revsbech and J. Sorensen (1989), “Microzonation of
+denitrification activity in stream sediments as studies with a combined oxygen
+and nitrous oxide microsensor.”  Appl. Environ. Microbiol. 55:1234-1241.
+Cole, V. et al., (1995), ‘Agricultural Options for Mitigation of Greenhouse Gas Emissions’.
+In: Climate Change 1995 - Impacts, Adaptations and Mitigations of Climate Change:
+Scientific - Technical analyses: The Second Assessment Report of the Inter-
+governmental Panel on Climate Change, R. T. Watson, M. C. Zinyowera and R. M.
+Moss (eds.), Cambridge University Press, New York, U.S.A.
+Cooper A.B. and J.G. Cooke (1984), “Nitrate loss and transformation in 2 vegetated
+headwater streams.”  N. Z. J. Mar. Freshwater Res. 18:441-450.
+Czepiel, P., P. Crill and R. Harriss (1995), “Nitrous oxide emissions from municipal
+wastewater treatment.”  Environ. Sci. Technol. 29(9):2352-2356.
+Danso, S.K.A. (1995), Sustainable agriculture. “The role of biological nitrogen fixing
+plants.” In IAEA (ed.) Nuclear Techniques in Soil-Plant Studies for Sustainable
+Agriculture and Environmental Preservation, IAEA, Vienna, pp. 205-224.
+Debruyn, W., G. Lissens, J. Van Rensbergen and M. Wevers (1994), “Nitrous oxide
+emissions from waste water.”  In: J. Van Ham et al. (eds.) 1994:159-165.
+De Klein, C.A.M. and R.S.P. Van Logtestijn (1994), “Denitrification and N2O emission
+from urine-affected grassland soil.”  Plant and Soil 163:235-242.
+DeMore, W.B., S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R.
+Ravishankara, C.E. Kolb and M.J. Molina (1994), Chemical kinetics and
+photochemical data for use in stratospheric modeling, JPL-NASA, Evaluation No. 11.
+Dentener, F.J. and P.J. Crutzen. (1994), “A three-dimensional model of the global
+ammonia cycle.”  J. Atmos. Chem. 19:331-369.
+Dowdell, R.J., J.R. Burford and R. Crees (1979), “Losses of nitrous oxide dissolved in
+drainage water from agricultural land.”  Nature 278:342-343.
+Duff, J.H., F.J. Triska  and R.S. Oremland (1984), “Denitrification associated with stream
+periphyton: Chamber estimates from undisrupted communities.”  J. Environ. Qual.
+13(4):514-518.
+AGRICULTURE
+4.136
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Duxbury, J.M. and A.R. Mosier (1993) “Status and issues concerning agricultural emissions
+of greenhouse gases.”  In: Agricultural Dimensions of Global Climate Change H.M.
+Kaiser and T.E. Drennen (eds.).  St. Lucie Press, Delray Beach, Florida, U.S.A, pp.
+229-258.
+Duxbury, J.M, D.R. Bouldin, R.E. Terry and R.L. Tate III (1982), “Emissions of nitrous
+oxide from soils.”  Nature 298:462-464.
+Ecetoc (1994), Ammonia emissions to air in Western Europe.  Technical Report No 62.
+Brussels, p. 196.
+Erich, M.S., A. Bererie, and J.M. Duxbury (1984), “Activities of denitrifying enzymes in
+freshly sampled soils.”  Soil Sci. 38:25-32.
+FAO (1978-1981), Report of the Agro-Ecological Zones Project.  World Soils Resources,
+Project Volume 3, No. 48 South and Central America, FAO (Food and
+Agriculture Organization of the United Nations), Rome.
+FAO (1990a), Fertilizer Yearbook.  Volume 39.  FAO statistics series No. 95.  FAO, Rome.
+FAO (1990b), Fertilizer Yearbook.  Volume 43.  FAO statistics series No. 94.  FAO, Rome.
+FAO (1991), Agrostat PC, Land-use, FAO, Rome.
+Flessa, H., P. Doersch, F. Beese, H. Koenig and A.F. Bouwman, “Influence of cattle
+excrements on nitrous oxide and methane fluxes in pasture land” (submitted).
+Galbally, I.E. et al., (1992), Proceedings of IGBP Workshop No. 14.  Canberra, Oct. 3-5,
+1990.
+Goreau, T.J., W.A. Kaplan, S.C. Wofsy, M.B. McElroy, F.W. Valois and S.W. Watson.
+(1980), “Production of NO2- and N2O by nitrifying bacteria at reduced
+concentrations of oxygen.”  Appl. Environ. Microbiol. 30:526-532.
+Groenestein, C.M., J. Oosthoek and H.G. van Faassen (1993), “Microbial processes in
+deep-litter systems for fattening pigs and emissions of ammonia, nitrous oxide
+and nitric oxide.”  In: Nitrogen flow in pig production and environmental
+consequences M.W.A. Verstegen, et al. (eds.).  Proc. First Int. Symp. on Nitrogen
+Flow in Pig Production and Environmental Consequences, Pudoc Scientific Publ.,
+Wageningen. pp. 307-312.
+Groffman P.M., C.W. Rice and J.M. Tiedje (1993), “Denitrification in a Tallgrass Prairie
+Landscape”.  Ecology 74:855-862.
+Guthrie, T.F. and J.M. Duxbury (1978), “Nitrogen mineralization and denitrification in
+organic soils.”  Soil Sci. Soc. Am. J. 42:908-912.
+Hanaki, K., Z. Hong and T. Matsuo (1992), “Production of nitrous oxide gas during
+denitrification of wastewater.”  Wat. Sci. Tech. 26(5-6):1027-1036.
+Haynes, R.J. and P.H. Williams (1993), “Nutrient cycling and soil fertility in the grazed
+pasture ecosystem.”  Advances in Agronomy 49:119-199.
+Helder, W. and R.T.P. De Vries. (1983) “Estuarine nitrite maxima and nitrifying bacteria
+(ems-Dollard Estuary).”  Neth. J. Sea Res. 17:1-18.
+Hemond, H.F. and A.P. Duran (1989), “Fluxes of N2O at the sediment-water and water-
+atmosphere boundaries of a nitrogen-rich river.”  Water Resources Research
+25:839-846.
+Hill, A.R. (1979), “Denitrification in the nitrogen budget of a river ecosystem.”  Nature
+281:291-292.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.137
+Hill, A.R. (1981), “Nitrate-nitrogen flux and utilization in a stream ecosystem during los
+summer flows.”  Can. Geogr. 25(3):225-239.
+Hill, A.R. (1983), “Nitrate-nitrogen mass balances for two Ontario rivers.”  In: Dynamics
+of Lotic Ecosystems, T.D. Fontaine and S.M. Bartell (eds.). Ann Arbor Science,
+Michigan.
+Hong Z., K. Hanaki and T. Matsuo (1993), “Greenhouse gas-N2O production during
+denitrification in wastewater treatment.”  Water Sci.Technol. 7:203-207.
+Horrigan S.G. and A.L. Springer (1990), “Oceanic and estuarine ammonium oxidation:
+Effects of light.”  Limnology and Oceanography 4:316-328.
+IPCC (1995), IPCC Guidelines for National Greenhouse Gas Inventories.  OECD/OCDE, Paris.
+Jarvis, S.C. and B.F. Pain (1994), “Greenhouse gas emissions from intensive livestock
+systems: their estimation and technologies for reduction.”  Climate Change 27:
+27-38.
+Jenkins, M.C. and W.M. Kemp (1984), “The coupling of nitrification and denitrifiation in
+two estuarine sediments.”  Limnol. Oceanogr. 29:609-619.
+Jensen H.B., K.S. Jorgensen and J. Soerensen (1984), “Diurnal variation of nitrogen cycling
+in coastal marine sediments II.  Nitrous oxide emissions.”  Mar. Biol. 83:177-183.
+Jensen M.H., T.K. Andersen and J. Soerensen (1988), “Denitrification in coastal bay
+sediment: regional and seasonal variation in Aarhus Bight, Denmark.”  Mar. Ecol.
+Prog. Ser. 48:155-162.
+Jorgensen, K.S., H.B. Jensen and J. Sorensen (1984), “Nitrous oxide production from
+nitrification and 
+denitrification 
+in 
+marine 
+sediments 
+at 
+low 
+oxygen
+concentrations.”  Can. J. Microbiol. 30:1073-1078.
+Kaspar, H.F. and J.M. Tiedje (1981), “Dissimilatory reduction of nitrate and nitrite in the
+bovine rumen: nitrous oxide production and effect of acetylene.”  Appl. Environm.
+Microbiol. 41:705-709.
+Kaushik N.K. and J.B. Robinson (1976), “Preliminary observations on nitrogen transport
+during summer in a small spring-fed Ontario stream.”  Hydrobiol. 49(1):59-63.
+Kemp, W.M., P. Sampou, J. Caffrey and M. Mayer (1990), “Ammonium recycling versus
+denitrification in Chesapeake Bay sediments.”  Limnol. Oceanogr. 35:1545-1563.
+Koops, J.G., O. Oenema and van Beusichem (1995), Stikstofverliezen door denitrificatie in
+grasland op veengronden, NWI-LUW, Wageningen, p. 32.
+Kroeze, C. (1994), Nitrous Oxide; Emission inventory and options for control in the
+Netherlands. Report No. 773001004.  National Institute of Public Health and
+Environmental Protection, Bilthoven, The Netherlands, p. 163.
+Kumarasinghe, K.S. and D.L. Eskew (1991), “Applications of N-15 isotope techniques in
+Azolla-rice studies.”  In: Stable isotopes in plant nutrition, soil fertility and
+environmental studies IAEA (ed.).  IAEA, Vienna.  pp.169-178.
+Lipschultz, F., S.C. Wofsy and L.E. Fox (1986), “Nitrogen metabolism of the eutropic
+Delaware River ecosystem.”  Limnology and Oceanography 29:84-98.
+Minami, K. and S. Fukushi (1984), “Methods for measuring N2O flux from water surface
+and N2O  dissolved in water from agricultural land.” Soil Sci. Plant Nutr. 30:495-
+502.
+AGRICULTURE
+4.138
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Minami, K. and A. Ohsawa (1990), “Emission of nitrous oxide dissolved in drainage water
+from agricultural land.”  In: Soils and the greenhouse effect, A.F. Bouwman (ed.)
+John Wiley & Sons, New York, pp. 503-509.
+Monaghan, R.M. and B. Barraclough (1993), “Nitrous oxide and dinitrogen emissions from
+urine-affected soil under controlled conditions.”  Plant and Soil 151:127-138.
+Mosier, A.R. (1994), “Nitrous oxide emissions from agricultural soils.”  Fertilizer Research
+37:191-200.
+Mosier, A.R. and W.J. Parton (1985), “Denitrification in a shortgrass prairie: A modeling
+approach.” In: Planetary Ecology D.E. Caldwell, J.A. Brierley, C.L. Brierley (eds.)
+Van Nostrand Reinhold Co., NY, pp. 441-452.
+Mosier, A.R., D.S. Schimel, D. Valentine, K.F. Bronson and W.J. Parton (1991), “Methane
+and nitrous oxide fluxes in native, fertilized, and cultivated grasslands.”  Nature
+350:330-332.
+Mosier, A.R., J.M. Duxbury, J.R. Freney, O. Heinemeyer and K. Minami. (1995a), “Nitrous
+oxide emissions from agricultural fields: Assessment, measurement and
+mitigation.”  Plant and Soil.  (In press.).
+Mosier, A.R., J.M. Duxbury, J.R. Freney, O. Heinemeyer and K. Minami (1995b)
+“Mitigating agricultural emissions of nitrous oxide.” (Submitted to Climatic
+Change).
+Muller, C., R.R. Sherlock and P.H. Williams (1995a), “In-field method to determine N2O
+and N2 emissions from denitrification and N2O emissions from nitrification from
+urine-affected intensive pasture soil.”  (Submitted to Soil Biology and Biochemistry.)
+Muller, C., R.R. Sherlock, and P.H. Williams (1995b), “Factors influencing N2O emission
+from pasture soil affected by animal urine or ploughing.” (Submitted to European
+Journal of Soil Science.)
+Nobre, A.D. (1994), “Nitrous oxide emissions from tropical soils.”  Thesis. Univ. New
+Hampshire, Durham, NH., p. 141.
+Nogita S., Y. Saito, and T. Kuge (1981), “A new indicator of the activated sludge process -
+nitrous oxide.”  Water Sci.Technol. 13:199-204.
+Oenema, O. and G.L. Velthof (1993), “Denitrification in nitric-acid-treated cattle slurry
+during storage.”  Netherlands Journal of Agricultural Science 41:63-80.
+O'Hara, G.W. and R.M. Daniel (1985), “Rhizobial denitrification: a review.”  Soil Biol.
+Biochem. 17:1-9.
+Owens, N.J.P. (1986), “Estuarine nitrification: a naturally occurring fluidized bed
+reaction?” Estuarine Coastal and Shelf Science 33:31-44.
+Parashar, D.C. (1991), “Measurement of greenhouse gas emissions in India.” In: Impact of
+Global Climate Change on Photosynthesis and Plant Productivity, Oxford & IBH
+Publishing Co., New Delhi.
+Peoples, M.B., D.F. Herridge and J.K. Ladha (1995), “Biological nitrogen fixation: An
+efficient source of nitrogen for sustainable agricultural production?”  Plant and
+Soil 174:3-28.
+Poggemann, S., F. Weissbach, and U. Kuenzel (1995), N2O-Freisetzung von Exkrementflecken
+auf dem Weideland.  Abstract. VDLUFA, Garmisch-Partenkirchen, p. 275.
+4
+AGRICULTURE
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+4.139
+Pollaris, L. (1994), “Emission of nitrous oxide from horticultural substrates.”  (In Dutch)
+M.Sc. Thesis.  Faculty of Agricultural and Applied Biological Sciences.  University
+of Gent, p. 102.
+Postma, R., O. Oenema, D.W. Bussink, M. Heinen and J. Van Mollenbroek (1994),
+“Gasvormige stikstofverliezen bij de teelt van sla op een zandbed onder glas.”
+Meststoffen pp. 28-34.
+Robinson, J.B., H.R. Whiteley, W. Stammers, N.K. Kaushik and P. Sain (1979), “The fate
+of nitrate in small streams and its management implications,” pp. 247-259.  In
+Proc. 10th Annu. Agric. Waste Manage. Conf., Cornell Univ.
+Ronen, D., M. Margaritz and E. Alman (1988), “Contaminated aquifers are a forgotten
+component of the global N2O budget.”  Nature 335:57-59.
+Ryden, J.C. (1981), “N2O exchange between a grassland soil and the atmosphere.”
+Nature 292:235-365.
+Ryden, J.C. (1983), “Denitrification loss from a grassland soil in the field receiving
+different rates of nitrogen as ammonium nitrate.”  J. Soil Sci. 34:355-365.
+Safley, L.M., M.E. Casada, J.W. Woodbury and K.F. Roos (1992), Global methane emissions
+from livestock and poultry manure, USEPA Report No. 400/1-91/048.  Office of Air
+and Radiation, Washington, D.C., USA, pp. 68, 145 and annexes.
+Schepers, J.S. and A.R. Mosier (1991), “Accounting for nitrogen in nonequilibrium soil-
+crop systems.” In: Managing Nitrogen for Groundwater Quality and Farm Profitability
+R.F. Follett, D.R. Keeney and R.M. Cruse (eds.).  Soil Science Society of America,
+Inc. Madison, Wisconsin, pp. 125-138.
+Schimel, D.S., W.J. Parton, F.J. Adamsen, R.G. Woodmansee, R.L Senft and M.A. Stillwell,
+(1986), “The Role of Cattle in the Volatile Loss of Nitrogen from a  Shortgrass
+Steppe.”  Biogeochemistry 2:39-52.
+Seitzinger, S.P. (1988), “Denitrification in freshwater and coastal marine ecosystems:
+ecological and geochemical implications.”  Limnol.Oceanogr. 33:702-724.
+Seitzinger, S.P. (1990), “Denitrification in aquatic sediments.” In: Denitrification in soil and
+sediment N.P. Revsbedch and J. Sorensens (eds.), Plenum Press, New York,
+U.S.A, pp. 301-312.
+Seitzinger S.P. and C. Kroeze (1996). “Estimates of the spatial distribution of N inputs,
+nitrous oxide production and denitrification in freshwater and coastal marine
+ecosystems.” (In preparation).
+Sherlock, R.R. and K.M. Goh (1983), “Initial emission of nitrous oxide from sheep urine
+applied to pasture soil.”  Soil Biology and Biochemistry 15:615-617.
+Sibbesen, E. and A.M. Lind (1993), “Loss of nitrous oxide from animal manure
+dungheaps,” Acta Agriculture Scandianavia Section B: Soil and Plant Science, 43:16-
+20.
+Smith C.J., R.D. DeLaune and W.H. Patrick, Jr. (1985), “Fate of riverine nitrate entering
+an estuary: I.  Denitrification and nitrogen burial.”  Estuaries 8:15-21.
+Spoelstra, S.F. (1985), “Nitrate in silage.”  Grass and Forage Science 40:1-11.
+Steffens, G. and H. Vetter (1990), Neue Faustzahlen ueber Nachrstoffgehalte und
+Naehrstoffanfall.  Landwirtsschaftsblatt Weser-Ems. Vol. 3.
+Swank, W.T. and Caskey, W.H. (1982), “Nitrate depletion in a second-order mountain
+stream.”  J. Environ. Qual. 11:581-584.
+AGRICULTURE
+4.140
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e f e r e n c e  M a n u a l
+Tiedje, J.M. (1988), “Ecology of denitrification and dissimilatory nitrate reduction to
+ammonia.”  In: Biology of Anaerobic Microorganisms, A.J.B. Zehnder (ed.), Wiley,
+New York, USA, pp. 179-243.
+Ueda, S., N. Ogura and E. Wada (1991), “Nitrogen stable isotope ratio of groundwater
+N2O.”  Geophysical Research Letters 18(8):1449-1452.
+Ueda, S., N. Ogura and T. Yoshinari (1993), “Accumulation of nitrous oxide in aerobic
+groundwaters.”  Wat. Res. 27(12):1787-1792.
+Van Cleemput, O., A. Vermoesen, C.J. De Groot, and K. Van Ryckeghem (1994),
+“Nitrous oxide emission out of grassland.”  Environ. Monitor. Assessm. 31:145-152.
+Van der Hoek, K.W. (1994), Berekeningsmethodiek ammoniamemissie in Nederland voor de
+jaren 1990, 1991 en 1992.  RIVM Report No. 773004003.
+Van Kessel, J.P. (1977), “Removal of nitrate from effluent following discharge on surface
+water.”  Water Research 11:533-537.
+Van Vuuren, A.M. and J.A.C. Meijs (1987), In: Animal Manure on grassland and fodder crops:
+fertiliser or waste? H.G.Van der Meer, R.J. Unwin, T.A. van Dijk and G.C. Ennik
+(eds.), Nijhoff, Dortrecht, The Netherlands, pp. 27-45.
+Velthof, G.L. and O. Oenema (1993), “Orienterende lachgasemissiemetingen in RWZI’s.”
+In Capele, A.D. and E.N. Alblasserdam (eds.) NMI-Report 93.263.  Wageningen, p.
+6.
+Velthof, G.L. and O. Oenema (1994), “Effect of nitrogen fertilizer type and urine on
+nitrous oxide flux from grassland in early spring.”  In Grassland and Society,
+Proceedings of  the 15th General Meeting of the European Grassland Federation.  L. 't
+Mannetje and J. Frame (eds.) pp. 458-462.
+Velthof, G.L. and O. Oenema (1995), “Nitrous oxide fluxes from grassland in the
+Netherlands: II.  Effects of soil type, nitrogen fertilizer application and grazing.”
+(Accepted for publication in European Journal of Soil Science.)
+Velthof, G.L., A.B. Brader, and O. Oenema (1996a), “Seasonal variations in nitrous oxide
+losses from managed grasslands in the Netherlands.”  (Submitted to Soil Biology
+and Biochemistry).
+Velthof, G.L., S.C Jarvis, A. Stein, A.G. Allen, and O. Oenema (1996b), “Spatial variability
+of nitrous oxide fluxes in mown and grazed grasslands on a poorly drained clay
+soil.”  (Submitted to Soil Biology and Biochemistry).
+Vetter, H., A. Klasink and G. Steffens (1989), “Mist und Guelleduengung nach Mass.”
+VDLUFA-Schriftenreihe 19:41-66.
+Whitehead, D.C. (1970), The role of nitrogen in grassland productivity.  Bulletin 48 of
+Commonwealth Agricultural Bureau, Hurley, UK.
+WHO/UNEP (World Health Organisation/United Nations Environmental Programme)
+(1989), Global Pollution and Health.  Results of health related environmental
+monitoring, World Health Organization. Geneva and United Nations Environment
+Programme, Nairobi, Yale Press, London.

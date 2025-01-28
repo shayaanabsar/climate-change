@@ -1,0 +1,1380 @@
+ENERGY
+1.96
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+The emissions calculated using Tier 2 should be reported following the IPCC Reporting
+Instructions:
+• I A 3 a i  International aviation (international bunkers) - note:  as far
+as possible, these emissions are to be excluded from national totals and
+reported separately.
+• • I A 3 a ii  Domestic aviation
+TABLE 1-50
+EXAMPLES OF AIRCRAFT TYPES AND EMISSION FACTORS FOR LTO CYCLES
+AS WELL AS FUEL CONSUMPTION PER AIRCRAFT TYPE
+Emission factors
+(kg/LTO)
+Fuel
+consumption
+(kg/LTO)
+Aircraft type(a)
+CO2
+CH4 (b)
+N2O(c)
+NOX
+CO
+NMVOC(b)
+SO2(d)
+A300
+5470
+1.0
+0.2
+27.21
+34.4
+9.3
+1.7
+1730
+A310
+4900
+0.4
+0.2
+22.7
+19.6
+3.4
+1.5
+1550
+A320
+2560
+0.04
+0.1
+11.0
+5.3
+0.4
+0.8
+810
+BAC1-11
+2150
+6.8
+0.1
+4.9
+67.8
+61.6
+0.7
+680
+BAe 146
+1800
+0.16
+0.1
+4.2
+11.2
+1.2
+0.6
+570
+B707*
+5880
+9.8
+0.2
+10.8
+92.4
+87.8
+1.9
+1860
+B727
+4455
+0.3
+0.1
+12.6
+9.1
+3.0
+1.4
+1410
+B727*
+3980
+0.7
+0.1
+9.2
+24.5
+6.3
+1.3
+1260
+B737-200
+2905
+0.2
+0.1
+8.0
+6.2
+2.0
+0.9
+920
+B737*
+2750
+0.5
+0.1
+6.7
+16.0
+4.0
+0.9
+870
+B737-400
+2625
+0.08
+0.1
+8.2
+12.2
+0.6
+0.8
+830
+B747-200
+10680
+3.6
+0.3
+53.2
+91.0
+32.0
+3.4
+3380
+B747*
+10145
+4.8
+0.3
+49.2
+115
+43.6
+3.2
+3210
+B747-400
+10710
+1.2
+0.3
+56.5
+45.0
+10.8
+3.4
+3390
+B757
+4110
+0.1
+0.1
+21.6
+10.6
+0.8
+1.3
+1300
+B767
+5405
+0.4
+0.2
+26.7
+20.3
+3.2
+1.7
+1710
+Caravelle*
+2655
+0.5
+0.1
+3.2
+16.3
+4.1
+0.8
+840
+DC8
+5890
+5.8
+0.2
+14.8
+65.2
+52.2
+1.9
+1860
+DC9
+2780
+0.8
+0.1
+7.2
+7.3
+7.4
+0.9
+880
+DC10
+7460
+2.1
+0.2
+41.0
+59.3
+19.2
+2.4
+2360
+F28
+2115
+5.5
+0.1
+5.3
+54.8
+49.3
+0.7
+670
+F100
+2340
+0.2
+0.1
+5.7
+13.0
+1.2
+0.7
+740
+L1011*
+8025
+7.3
+0.3
+29.7
+112
+65.4
+2.5
+2540
+SAAB 340
+945
+1.4(E)
+0.03(E)
+0.3(E)
+22.1(E)
+12.7(E)
+0.3(E)
+300(E)
+Tupolev 154
+6920
+8.3
+0.2
+14.0
+116.81
+75.9
+2.2
+2190
+Concorde
+20290
+10.7
+0.6
+35.2
+385
+96
+6.4
+6420
+GAjet
+2150
+0.1
+0.1
+5.6
+8.5
+1.2
+0.7
+680
+Source:  ICAO (1995).
+(a) Except where indicated, values are for world fleet weighted LTO fuel and emissions performance.  The average age of aircraft in
+service is 10-20 years old.  Values for aircraft types marked with a * are specific to older types with poorer emissions performance.
+Aircraft can be equipped with different engines.
+(b) Assuming 10% of total VOC emissions in LTO cycles are methane emission (Olivier, 1991).
+(c) Estimates based on Tier 1 default values.
+(d) The sulphur content of the fuel is assumed to be 0.05%.
+(E) indicates that the figure is based on estimations.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.97
+TABLE 1-51
+EMISSION FACTORS OF NOx FOR VARIOUS AIRCRAFT AT CRUISE LEVELS
+Aircraft
+Emission Factor for NOx (g/kg)
+ANCAT
+NASA
+Average
+A300
+NAV
+14.4
+NAV
+A310
+11.5
+13.6
+12.5
+A320
+11.7
+12.1
+11.9
+BAC 1-11
+7.1
+9.3
+8.2
+BAe 146
+6.7
+7.7
+7.2
+B727
+8.0
+8.7
+8.4
+B737-200
+6.8
+7.7
+7.3
+B737-400
+8.3
+9.6
+9.0
+B747-200
+16.7
+14.2
+15.5
+B747-400
+15.8
+13.9
+14.9
+B757
+13.1
+12.6
+12.9
+B767
+10.0
+12.2
+11.1
+DC8
+12.4
+5.6
+9.0
+DC9
+7.6
+8.1
+7.9
+DC10
+17.5
+13.2
+15.4
+F28
+8.5
+8.5
+8.5
+F100
+8.4
+6.4
+7.4
+MD80
+8.3
+10.6
+9.5
+TU154
+NAV
+8.7
+NAV
+Concorde
+19.9
+NAV
+NAV
+GAjet
+6.7
+NAV
+NAV
+Source: Gardner et al. (1997) and Baughcum et al. (1996).
+ENERGY
+1.98
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+TABLE 1-52
+DEFAULT EMISSION FACTORS AND FUEL CONSUMPTION FOR AIRCRAFT
+(LTO EMISSION FACTORS ARE GIVEN ON A PER AIRCRAFT BASIS)
+Domestic
+Fuel
+Emission Factors
+Consumption
+CO2
+CH4 (a)
+N2O(b)
+NOx
+CO
+NMVOC(a)
+SO2(c)
+LTO
+average fleet
+(kg/LTO)
+850
+2680
+0.3
+0.1
+10.2
+8.1
+2.6
+0.8
+LTO
+old fleet
+(kg/LTO)
+1000
+3150
+0.4
+0.1
+9.0
+17
+3.7
+1.0
+Cruise
+(kg/t of fuel)
+3150
+0
+0.1
+11
+7
+0.7
+1.0
+International
+Fuel
+Emission Factors
+Consumption
+CO2
+CH4 (a)
+N2O(b)
+NOx
+CO
+NMVOC(a)
+SO2(c)
+LTO
+average fleet
+(kg/LTO)
+2500
+7900
+1.5
+0.2
+41
+50
+15
+2.5
+LTO
+old fleet
+(kg/LTO)
+2400
+7560
+7
+0.2
+23.6
+101
+66
+2.4
+Cruise
+(kg/t of fuel)
+3150
+0
+0.1
+17
+5
+2.7
+1.0
+Note:  The emission factors were calculated as weighted averages for a number of typical aircraft.  For domestic traffic, the
+average fleet is represented by Airbus A320, Boeing 727, Boeing 737--400 and Mc Donald Douglas DC9 and MD80 aircraft.
+The old fleet is represented by Boeing B737 and McDonald Douglas DC9.  For international traffic, the average fleet is
+represented by Airbus A300, Boeing B767, B747 and McDonald Douglas DC10, whilst the old fleet is represented by the
+Boeing B707, Boeing B747 and McDonald Douglas DC8.  The data for LTO are shown in Table 1-50.  Cruise data were taken
+from Wuebbles et al. (1993).  The emission factors for cruise are considered as the best available default factors to date.
+(a) For CH4 and NMVOC it is assumed that the emission factors for LTO cycles be 10% and 90% of total VOC, respectively
+(Olivier, 1991).  Studies indicate that during cruise no methane is emitted (Wiesen et al., 1994).
+(b) Estimates based on Tier 1 default values.
+(c) Sulphur content of the fuel is assumed to be 0.05% for both LTO and cruise activities.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.99
+1.6
+Fugitive Emissions: Overview
+During all of the stages from the extraction of fossil fuels through to their final use the
+escape or release of gaseous fuels or volatile components or absorbed gases may occur.
+The methodologies for the estimation of these emissions (mostly methane) are presented
+in the sections which follow and are limited to activities conducted within the confines of
+the energy industries.  Emissions from the use of road vehicle fuels are covered under
+fuel combustion.  Emissions from solvents use are estimated within Chapter 3 but
+emissions arising from the manufacture of solvents within refineries are subsumed within
+the estimation of emissions from refineries in Section 1.8 Fugitive Emissions from Oil and
+Natural Gas Activities.
+1.7
+Fugitive Emissions from Coal Mining and
+Handling
+1 . 7 . 1 O v e r v i e w
+This section covers fugitive emissions of greenhouse gases (GHGs) from production,
+processing, handling and utilisation of coal.  Intentional or unintentional releases of gases
+such as methane in mining are included here, as are emissions from inadvertent
+combustion of coal in coal mine fires.  By far the most important component of this
+subcategory is methane (CH4) emissions from the mining and handling of coal.  The bulk
+of this section, therefore, deals with these emissions.  Two other fugitive emission
+sources are discussed briefly at the end of the section.  These are burning coal mines and
+waste piles, which emit CO2, and SO2 scrubbing, which is also a source of CO2.  There
+are very likely other fugitive emissions associated with the coal fuel cycle.  If important
+sources are identified, these will be considered for inclusion in future editions of the
+Guidelines.
+1 . 7 . 2 C H 4  f r o m  C o a l  M i n i n g  a n d  H a n d l i n g
+1 . 7 . 2 . 1
+G E N E R A L  M E T H O D O L O G Y
+The process of coal formation, commonly called coalification, inherently generates
+methane and other by-products.  The formation of coal is a complex physio-chemical
+process occurring over millions of years.  The degree of coalification (defined by the rank
+of the coal) determines the quantity of methane generated and, once generated, the
+amount of methane stored in the coal is controlled by the pressure and temperature of
+the coal seam and by other, less well-defined characteristics of the coal.  The methane
+will remain stored in the coal until the pressure on the coal is reduced, which can occur
+through the erosion of overlying strata or the process of coal mining.  Once the methane
+has been released, it flows through the coal toward a region of lower pressure  (such as a
+coal mine) and into the atmosphere (Boyer, 1990).  Methane emissions from coal mining
+in 1990 contributed an estimated 23 to 39 Tg of global methane emissions (US EPA,
+1993a; CIAB, 1992; Airuni and Zeidenvarg, 1992).
+The amount of CH4 generated during coal mining is primarily a function of coal rank and
+depth, gas content, and mining methods, as well as other factors such as moisture.  Coal
+ENERGY
+1.100
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+rank represents the differences in the stages of coal formation and depends on the
+pressure and temperature history of the coal seam; high coal ranks, such as bituminous
+coal, contain more CH4 than low coal ranks, such as lignite.  Depth is important because
+it affects the pressure and temperature of the coal seam, which in turn determines how
+much CH4 is generated during coal formation.  If two coal seams have the same rank, the
+deeper seam will hold larger amounts of CH4 because the pressure is greater at lower
+depths, all other things being equal.  As a result, the methane emission factors for
+surface-mined coal are assumed to be lower than for underground mining.
+In most underground mines, methane is removed by ventilating large quantities of air
+through the mine and exhausting this air (typically containing a concentration of 1 per
+cent methane or less) into the atmosphere.  In some mines, however, more advanced
+methane recovery systems may be used to supplement the ventilation systems and ensure
+mine safety.  These recovery systems typically produce a higher concentration product,
+ranging from 35 to 95 per cent methane.  In some countries, some of this recovered
+methane is used as an energy source, while other countries vent it to the atmosphere.
+Recent technological innovations are increasing the amount of medium- or high-quality
+methane that can be recovered during coal mining and the options available to use it.
+Thus, methane emissions could be reduced from this source in the future.
+In surface mines, exposed coal faces and surfaces, as well as areas of coal rubble created
+by blasting operations, are believed to be the major sources of methane.  As in
+underground mines, however, emissions may come from the overburden (in limited cases
+where these strata contain gas), which is broken up during the mining process, and
+underlying strata, which may be fractured and destressed due to removal of the
+overburden.  Because surface-mined coals are generally lower rank and less deeply
+buried, they do not tend to contain as much methane as underground-mined coals.  Thus,
+emissions per tonne of coal mined are generally much lower for surface mines.  Research
+is underway in the United States and elsewhere to increase the understanding of CH4
+emissions from surface mines (Kirchgessner et al., 1993; USGS, 1993).
+A portion of the CH4 emitted from coal mining comes from post-mining activities such as
+coal processing, transportation, and use.  Coal processing involves the breaking, crushing,
+and thermal drying of coal, making it acceptable for sale.  Methane is released mainly
+because the increased surface area allows more CH4 to desorb from the coal.
+Transportation of the coal contributes to CH4 emissions, because CH4 desorbs directly
+from the coal to the atmosphere while in transit (e.g., in railroad cars).  Use of
+metallurgical coal also emits methane.  For instance, in metallurgical coke production, coal
+is crushed to a particle size of less than 5 mm, vastly increasing the surface area of the
+coal and allowing more CH4 to desorb.  During the coking process, methane, carbon
+monoxide, and other volatile gases are released.  In modern coke ovens, this gas is
+typically collected and used as a fuel source, but in older coke ovens, particularly those
+used in less developed regions, coke gas is vented to the atmosphere (Boyer et al., 1990;
+coke production is covered in Chapter 3).
+Some methane is also released from coal waste piles and abandoned mines.  Coal waste
+piles are comprised of rock and small amounts of coal that are produced during mining
+along with marketable coal.  There are currently no emission measurements for this
+source.  Emissions are believed to be low, however, because much of the methane would
+likely be emitted in the mine and the waste rock would have a low gas content compared
+to the coal being mined.  Emissions from abandoned mines may come from unsealed
+shafts and from vents installed to prevent the build-up of methane in mines.  There is very
+little information on the number of abandoned mines, and no data are currently available
+on emissions from these mines.  Most available evidence indicates that methane flow rates
+decay rapidly once deep mine coal production ceases (Williams and Mitchell, 1992;
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.101
+Creedy, 1991).  In some abandoned mines, however, methane can continue to be
+released from the surrounding strata for many years.  In Belgium, France, and Germany,
+for example, several abandoned mines are currently being used as a source of methane
+which is being added to the gas system (Smith and Sloss, 1992; KfA, 1993).  Due to the
+absence of measurement data for both coal waste piles and abandoned mines, no
+emissions estimates have been developed for these sources.
+Review of Previous Methane Emission Estimation Studies
+Over the years, a variety of methane emissions estimates have been developed for coal
+mining, as shown in Table 1-53.  As the table shows, the variation in estimates has been
+quite large, although more recent studies are showing more similar results.  Many of the
+emission studies conducted to date have confronted difficulties in developing estimation
+methodologies and these have resulted in the widely varying estimates and large
+uncertainties.  These difficulties include:
+•
+Absence of data on which to base estimates:  Many studies were developed
+without access to detailed data on methane emissions associated with various
+components of the coal cycle.  For certain sources such as surface mines and post-
+mining activities, moreover, reliable emissions measurements are still lacking.
+•
+Use of national data to develop global estimates:  Some studies have relied
+on data from a single country to estimate global methane emissions from coal
+mining.  This approach can introduce large errors into the estimates, due to the
+difficulty of generalising from one country's coal characteristics and mining
+conditions to those of other countries.  Mining experience has shown that there are
+frequently significant differences in methane emission factors within countries, coal
+basins, and even coal mines for a variety of geological and other reasons.
+•
+Failure to include all possible emission sources:  Some studies prepared to
+date have only estimated underground coal mining emissions from ventilation
+systems and have not included emissions from degasification systems, or post-mining
+emissions.  In addition, many estimates have assumed emissions from surface mines
+to be negligible and have not included this source.  At this point, moreover, there
+are still potential emission sources, such as abandoned mines, for which emissions
+cannot be estimated due to the absence of necessary data.
+•
+Over-reliance on statistical estimation methodologies:  Several studies have
+estimated global emission factors using statistical models that relate methane
+emissions to various coal properties.  For the most part, these models have proven
+unreliable when estimates are compared to those developed using more detailed
+country-specific information.  The principal problem with using statistical
+methodologies is the number of variables that can affect methane emissions.  Mining
+experience has shown that a complete understanding of methane emissions requires
+detailed examination of coal and geological characteristics and that methane
+emissions can be highly variable within mines, basins and countries.  Collecting
+comprehensive data and developing statistical models that can reliably predict
+emissions on a global basis is thus very difficult.
+In general, the results of the more recent country-specific and global methane emission
+studies are likely to be more reliable than previous efforts.  For several of the major coal
+producing countries, for example, detailed data on methane emissions from underground
+mine ventilation and degasification systems are reported to central institutes and are
+publicly available.  More recent studies have been able to use these data in preparing and
+validating their estimates of methane emissions from underground mines.  Data are still
+ENERGY
+1.102
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+lacking on emissions from surface mines and post-mining activities, thus even the emission
+estimates from more recent studies should be considered uncertain.
+Suggested Emission Estimation Methods
+Methane emission estimates should be developed for the three principal sources of
+methane emissions:  underground mines, surface mines, and post-mining activities.  To
+assist in developing these estimates, the IPCC recommends use of a "tiered" approach for
+estimating emissions.  For each source, two or more approaches (or "tiers") are
+presented for estimating emissions, with the first tier requiring basic and readily available
+data and higher tiers requiring additional data.  Selection among the tiers will depend
+upon the quality of the data available in the country.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.103
+TABLE 1-53
+SUMMARY OF EMISSIONS ESTIMATES FROM SELECTED STUDIES
+Study Author
+Emissions
+Estimate
+(Tg)
+Year of Estimate
+Methodological Issues
+Koyama (1963)
+20
+1960
+Hard coal only; no emissions estimates for surface
+mining or post-mining activities. 1960 coal
+production data.
+Hitchcock & Wechsler (1972)
+8 - 28
+1967
+Post-mining not included; source of emission
+factors, particularly low end, unspecified. 1967
+coal production data.
+Seiler (1984)
+30
+1975
+Based on Koyama, with 1975 coal production
+data.
+Crutzen (1987)
+34
+NA
+Source of emission factors unclear.  Hard coal
+only; no emissions estimates for surface mining or
+post-mining activities.
+Okken & Kram (1989)
+15 - 45
+NA
+Source of emission factors unclear. Hard coal only;
+no emissions estimates for surface mines or post-
+mining activities.
+Zimmermeyer (1989)
+24
+NA
+Only 
+underground 
+mining 
+considered; 
+no
+emissions estimates for surface mines or post-
+mining activities.
+Seltzer & Zittel (1990)
+23
+NA
+Adjusted Zimmermeyer by:  (1) including surface
+mines; (2) assuming that 15 per cent of
+underground mining emissions (3.6 Tg) not
+emitted to the atmosphere due to methane
+utilisation.
+Barns & Edmonds (1990)
+25
+1986
+Assumed mathematical relationship between coal
+rank and depth and that in-situ methane content
+was equal to the mining emission factor.
+Boyer et al. (1990)
+33 - 64
+1988
+Statistical approach related methane emissions to
+in situ methane content. Correlation based on US
+data only.  Large uncertainty in application of
+results for global estimates.
+Hargraves (1990)
+29
+NA
+Method based on current methane production
+rates due to continued coalification.
+Airuni and Zeidenvarg (1992)
+28
+1990
+Methodology unspecified.
+CIAB (1992)
+24
+1990
+Country specific data used where available for
+underground mines. Surface and post-mining
+emissions 
+developed 
+using 
+low 
+emission
+assumptions.  No uncertainty analysis.
+US EPA (1993c)
+23 - 39
+1990
+Country specific data used where available for
+underground mines.  Global average emission
+factors for rest of countries for underground
+mines and for all surface mining and post-mining
+emissions.
+ENERGY
+1.104
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1 . 7 . 2 . 2
+U N D E R G R O U N D  M I N I N G
+Methane emissions from underground mines should include estimated emissions from
+ventilation systems and from degasification systems, if any of a country's mines use
+degasification systems to supplement ventilation.  In the approaches outlined below,
+methods of estimating emissions from both of these sources are presented.
+Three possible approaches are suggested by the IPCC, with the choice among them
+depending upon the availability of data and the degree to which coal mining is considered
+a significant source of emissions by particular countries.  Two of the methods, the
+“Global” and the “Country or Basin Average” methods are essentially identical in form;
+only the degree of detail and specificity in choice of emission factor(s) differs.  The third,
+“Mine Specific” method relies on the assembly of methane emission measurements taken
+at coal mines.  In the first two methods, Tiers 1 and 2, ranges of emission factors are
+given in terms of m3 CH4/tonne of coal produced.  The structure of the estimation is
+simply
+Emissions (Gg CH4) = Emission Factor (m3 CH4 / tonne)
+x tonnes of coal produced
+x Conversion Factor (Gg/106m3)
+A single value from the range of emission factors should be used to prepare the emissions
+estimate.  The relevant coal production figure will be that for the country or the coal
+basin depending upon the method selected.  Factors are given in the table below which
+permit the conversion of the volume emitted to mass.
+For those countries with comparatively large methane emissions from coal mining, the
+use of more detailed estimation methodologies may be warranted.  In countries
+producing smaller quantities of coal, however, the most simple approach may provide a
+reasonably accurate first approximation of CH4 emissions from underground mines.
+Tier 1:  Global Average Method
+The simplest method for estimating methane emissions is to multiply underground coal
+production by a factor drawn from a range of factors representing global average
+emissions from underground mining, including both ventilation and degasification system
+emissions.  This method may be selected in cases where total coal production from
+underground mines is available but more detailed data are not.  The Tier 1 Equation is
+shown below.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.105
+EQUATION 1
+TIER 1:  GLOBAL AVERAGE METHOD  –  UNDERGROUND MINES
+CH4 Emissions (Gg) =
+CH4 Emission Factor (m3 CH4/tonne of coal mined)
+x Underground Coal Production (Mt)
+x Conversion Factor (Gg/106 m3)
+Where:
+� the Emission Factor should be chosen from the following range
+Low CH4 Emission Factor  = 10 m3/tonne
+High CH4 Emission Factor = 25 m3/tonne
+� Conversion Factor converts the volume of CH4 to a weight measure and
+is the density of methane at 20°C and 1 atmosphere, namely:
+0.67 Gg / 106 m3
+The IPCC recommends revised global average emission factors of 10 to 25 m3/tonne of
+coal mined (not including emissions from post-mining activities which should be calculated
+separately).  This range reflects the findings of various country studies, as shown in
+Table 1-54.  As more detailed emissions data are published by various countries, the
+factors can be further revised, if necessary.
+TABLE 1-54
+ESTIMATED UNDERGROUND EMISSION FACTORS FOR SELECTED COUNTRIES
+Country
+Emission Factors
+ (m3/tonne)
+Source
+Former Soviet Union
+17.8 - 22.2
+US EPA, 1993c
+United States
+11.0 - 15.3
+US EPA, 1993a
+Germany (East & West)
+22.4
+Zimmermeyer, 1989
+United Kingdom
+15.3
+BCTSRE, 1992
+Poland
+6.8 - 12.0
+Pilcher et al., 1991
+Czechoslovakia
+23.9
+Bibler et al., 1992
+Australia
+15.6
+Lama, 1992
+Tier 2:  Country or Basin Specific Method
+The suggested Tier 2 approach – called the "Country or Basin Specific Method" – can be
+used to refine the range of emission factors used for underground mining by
+incorporating some additional country or basin-specific information.  Basically, this
+method enables a country with limited available data to determine a more appropriate
+and probably narrower range of emission factors for their underground mines.  For many
+countries, it is expected that this range will fall within the global average emission factor
+range of 10 to 25 m3/tonne.  The range of possible emission factors is not constrained
+under the Tier 2 approach, however, and some countries may find that their
+underground mining emission factors lie outside the global average emission factor range.
+The calculation procedure is identical to that described in Tier 1.
+To implement the Tier 2 approach, national experts must examine measurement data
+from at least a limited number of underground coal mines in their country or region.
+Using this data, either statistical analysis or expert judgement should be applied to
+ENERGY
+1.106
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+develop a reasonable range of emission factors for the country or region.27  Making this
+estimate will require judgement on the part of the estimator as to the adequacy of the
+available data and its uncertainty.  If sufficient expertise is not available to make such
+judgements, it is recommended that the Tier 1 approach (the Global Average Method) be
+used instead.
+In some cases, measurement data on emissions from mines may be unavailable but a
+country will still seek to develop a narrower estimate based on other types of available
+data.  In such cases, a country may seek to develop a simple emissions model based on
+physical principles or make judgements based on an evaluation of available data.  Among
+the key types of data that should be considered in such a model or evaluation are:
+•
+the gas content of the coal, which contributes to the total amount of methane
+available for emission during mining;
+•
+the amount of coal within the strata above and below the mined coal seam, which
+also contributes to the total amount of methane available for emission during mining;
+and,
+•
+the method of mining, which determines the amount of ground that is disturbed by
+mining the coal and the extent to which the mining process liberates methane
+contained in the mined coal seam and in the strata surrounding it.
+It should be noted that while the Tier 2 approach can provide some additional
+information about methane emissions in a particular country or coal basin, the estimates
+will still be quite uncertain because of the absence of comprehensive and reliable
+emissions data.  This approach should thus be used only in cases where there is a strong
+need to make an estimate drawn from a narrower range than the Tier 1 (Global Average
+Method) and not enough data are available to prepare an estimate using the Tier 3 (Mine
+Specific Method) described in the next section.  It should further be noted that an
+estimate from the narrower range will not necessarily be more accurate than that
+developed under Tier 1.
+In all cases where the Tier 2 approach is used, a detailed discussion of the types of data
+available and the manner used to determine the refined range of emission factors should
+be presented, so as to allow for the independent verification of the estimate and ensure
+comparability with estimates being prepared by other countries.
+Tier 3:  Mine Specific Method
+Because methane is a serious safety hazard in underground mines, many countries have
+collected data on methane emissions from mine ventilation systems, and some also collect
+data on methane emissions from mine degasification systems.  Where such data are
+available, the more detailed Tier 3 approach – called the "Mine Specific Method" – should
+provide the most accurate estimate of methane emissions from underground mines.
+Since these data have been collected for safety, not environmental reasons, however, it is
+necessary to ensure that they account for total emissions from coal mines.  The key
+issues that should be considered when using mine safety data, as well as the
+recommendations of the IPCC for resolving them, are shown in Table 1-55.
+                                                  
+     27 If measurement data is available for most or all or a country's underground coal
+mines, the Tier 3 approach – called the "Mine Specific Method" – should be used to
+estimate emissions.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.107
+Treatment of Methane Utilisation
+All of the methods described above, with the possible exception of the Mine Specific
+Method, assume that all of the methane liberated by mining will be emitted to the
+atmosphere.  In many countries, however, some of the methane recovered by mine
+degasification systems is used as fuel instead of being emitted.  Wherever possible, the
+emission estimates should be corrected for the amount of methane that is used as fuel, by
+subtracting this amount from total estimated emissions.
+In several countries, data on the disposition of methane recovered by degasification
+systems (i.e., whether it is used or emitted to the atmosphere) can be obtained from the
+coal industry or energy ministries.  Poland, for example, reports that its mine
+degasification systems recovered 286 million m3 of methane in 1989, of which 201 million
+m3 was used and the remaining 85 million m3 was emitted to the atmosphere (Polish
+Central Mining Institute, 1990).  Regardless of the method used to develop the emissions
+estimates, the Polish emission estimate should be adjusted to reflect the use of methane
+by subtracting 201 million m3 from total emissions.
+In some countries figures for the quantity of gas recovered from mines may not be
+available from the mining industry.  Nevertheless estimates may be constructed if the
+users of the gas are known and they are able to give data for their consumption.
+Consumption may also be inferred if it is known that the gas is used to fuel a particular
+plant of a known capacity (e.g. if the methane is used to fuel a gas turbine of a known
+size).
+TABLE 1-55
+KEY ISSUES FOR CONSIDERATION WHEN USING TIER 3  –  MINE SPECIFIC METHOD
+ISSUE
+DESCRIPTION
+RECOMMENDATION
+Where and how are ventilation
+system emissions monitored?
+When used to develop 
+overall
+methane emission estimates, the
+optimal location for ventilation air
+monitors is at the point where
+ventilation 
+air 
+exhausts 
+to 
+the
+atmosphere.
+If ventilation emissions are not monitored at the
+point of exhaust, emission data should be
+corrected 
+based 
+on 
+estimated 
+additional
+methane emissions between the point of
+measurement and the point of exhaust to the
+atmosphere.
+Are ventilation system emissions
+monitored and/or reported for all
+mines?
+In some countries, emissions are only
+reported for "gassy mines".
+Estimates should be developed for non-gassy
+mines as well. Estimates can be prepared using
+information about the definitions of gassy and
+non-gassy mines and data on the total number of
+mines and the coal production at these mines.
+Are 
+methane 
+emissions 
+from
+degasification systems reported?
+Some countries collect and report
+methane emissions from ventilation
+and degasification systems, while
+others only report ventilation system
+emissions. Both emission sources
+must 
+be 
+included 
+in 
+emissions
+estimates.
+If degasification system emissions are not
+included, those mines with degasification systems
+should be identified and estimates prepared on
+emissions from their degasification systems.
+Emissions estimates can be based on knowledge
+about the efficiency of the degasification system
+in use at the mine or the average efficiency of
+degasification in the country.
+The sources of any adjustments to emissions that are made to reflect the utilisation of
+methane should be clearly specified, to permit the independent verification of the
+emissions estimates.  In the absence of data, estimated adjustments for the use of
+methane should not be undertaken.
+ENERGY
+1.108
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1 . 7 . 2 . 3
+S U R F A C E  M I N I N G
+Two possible approaches for estimating methane emissions from surface mining are
+suggested by the IPCC.  For the most part, these approaches resemble those developed
+for underground mining, but the results will be much more uncertain due to the absence
+of emissions data.  Methane emissions from surface mining are assumed to arise from
+two sources:  the coal mined and the surrounding strata exposed during the mining
+process.  In the Tier 1 approach, (Global Average Method) the separation of these
+sources is ignored and a single emission factor is used.  In the Tier 2 approach (Country
+or Basin Specific Method), emission factors for each source are required.  If emissions
+measurements are developed in the future, it should be possible to refine these
+methodologies.
+Tier 1:  Global Average Method
+As for underground mining, the simplest Tier 1 approach for surface mines – called the
+"Global Average Method" – is to multiply surface coal production by an emission factor
+selected from a global range, within which most emission factors are believed to lie.
+EQUATION 2
+TIER 1:  GLOBAL AVERAGE METHOD   –  SURFACE MINES
+CH4 Emissions (Gg) =
+CH4 Emission Factor (m3 CH4/tonne of coal mined)
+x Surface Coal Production (Mt)
+x Conversion Factor (Gg/106 m3)
+Where:
+•
+the Emission Factor should be chosen from the following range:
+Low CH4 Emission Factor  = 0.3 m3/tonne
+High CH4 Emission Factor = 2.0 m3/tonne
+•
+Conversion Factor converts the volume of CH4 to a weight measure,
+and is the density of methane at 20°C and 1 atmosphere, namely:
+0.67 Gg/ 106 m3
+In the original IPCC methodology, an average emission factor of 2.5 m3/tonne was
+recommended (OECD, 1991), based on the results of Boyer et al. (1990) and including
+emissions from post-mining operations.  Based on more recent analyses and additional
+studies, a revised emission factor range of 0.3 to 2.0 m3/tonne is recommended by the
+IPCC, not including post-mining emissions (US EPA, 1993c;  CIAB, 1992;  BCTSRE, 1992;
+CMRC, 1990;  Kirchgessner et al., 1993).
+Given the lack of information and measurements on methane emissions from surface
+mines, this range must be considered extremely uncertain, and it should be refined in the
+future as more data become available.
+Tier 2:  Country or Basin Specific Method
+A second tier estimation of methane emissions – called the "Country or Basin Specific
+Method" – can be used if additional information is available on in-situ methane content and
+other characteristics of a country's surface-mined coals.  This approach enables a country
+to develop emission factors that better reflect specific conditions in their countries.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.109
+Depending on the degree of detail desired, emissions can be estimated for specific coal
+basins or countries, using the equation below.
+EQUATION 3
+TIER 2:  COUNTRY OR BASIN SPECIFIC METHOD   –  SURFACE MINES
+CH4 Emissions (Gg) =
+[In-Situ Gas Content (m3 CH4/tonne)
+x Surface Coal Production (Mt)
+x Conversion Factor (Gg/106 m3)]
++
+[Assumed Emission Factor for Surrounding Strata
+(m3 CH4/tonne)
+x Surface Coal Production (Mt)
+x Conversion Factor (Gg/106 m3)]
+Where:
+•
+In-Situ Gas Content and Assumed Emission Factor for Surrounding
+Strata are described in the text.
+•
+Conversion Factor converts the volume of CH4 to a weight measure
+and is the density of methane at 20°C and 1 atmosphere, namely:
+0.67 Gg /106 m3
+In Equation 3, In-Situ Gas Content represents the methane actually contained in the coal
+being mined, as determined by measuring the gas content of coal samples.  Average values
+for a coal mine, coal basin or country could be developed, depending on the level of detail
+in the estimate.  For surface mines, unlike underground mines, it is frequently assumed
+that all of the methane contained in the coal is released during mining and that post-
+mining emissions from surface-mined coals are effectively zero (BTSCRE, 1992; CIAB,
+1992; CMRC, 1990).  Some countries may choose to modify this assumption based on
+their specific conditions.  Care should be taken, however, to ensure that any emissions
+assumed to occur during post-mining activities are subsequently estimated.
+Assumed Emission Factor for Surrounding Strata represents the possibility that more
+methane will be emitted during surface mining than is contained in the coal itself because
+of emissions from the strata below (or in limited cases, above) the coal seam.  Some
+countries have assumed that there are no emissions from surrounding strata associated
+with surface-mined coals (BTSCRE, 1992; CMRC, 1990).  However, if available
+information indicates that there are gas-bearing strata surrounding the mined coal seam
+and that these strata are emitting their gas in conjunction with the mining, countries
+should include these emissions in their estimates.
+Emission factors for the surrounding strata can be developed using one of two
+approaches.  Ideally, the assumed emission factor should be based on an evaluation of the
+gas content of the surrounding strata and verified by measurements.  If such data are
+unavailable, an alternative method of developing an emission factor is to assume that
+some multiple of the gas content of the mined coal is emitted by the surrounding strata.
+It should be noted, however, that the alternative approach is highly speculative given the
+lack of data upon which to base such an assumption.
+ENERGY
+1.110
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1 . 7 . 2 . 4
+P O S T - M I N I N G
+Like surface mining emissions, there are currently few measurements of methane
+emissions from post-mining activities.  In fact, many past studies have overlooked this
+emission source, while others have developed only rudimentary estimation
+methodologies.  Two possible approaches for estimating emissions from post-mining
+activities are recommended by the IPCC.
+Tier 1:  Global Average Method
+For the most simple estimates, a global average emission factor can be multiplied by coal
+production for underground and surface mining, as shown in the equation below.  It is
+important to distinguish between underground- and surface-mined coals because the gas
+contents are likely to be very different and hence emissions could vary significantly.
+EQUATION 4
+TIER 1:  GLOBAL AVERAGE METHOD   –  POST-MINING ACTIVITIES
+Underground CH4 Emissions (Gg) = CH4 Emission Factor (m3 CH4/tonne
+of coal mined)
+x Underground Coal Production (Mt)
+x Conversion Factor (Gg/106 m3)
+Surface CH4 Emissions (Gg) =
+CH4 Emission Factor (m3 CH4/tonne
+of coal mined)
+x Surface Coal Production (Mt)
+x Conversion Factor (Gg/106 m3)
+Where:
+•
+Underground CH4 Emission Factors are in the range of:
+0.9 to 4.0 m3/tonne
+•
+Surface CH4 Emission Factors are in the range of:
+0 to 0.2 m3/tonne
+•
+Conversion Factor converts the volume of CH4 to a weight measure
+and is the density of methane at 20°C and 1 atmosphere, namely:
+0.67 Gg/106 m3
+Underground-Mined Coals:  The IPCC recommends emission factors of 0.9 to
+4.0 m3/tonne for underground-mined coal, based on recent studies (CIAB, 1992; BCTSRE,
+1992; US EPA, 1993c).
+Surface-Mined Coals:  Emission factors of 0 to 0.2 m3/tonne are recommended by the
+IPCC for post-mining activities involving surface-mined coal (CIAB, 1992; CMRC, 1990;
+US EPA, 1993c).
+Tier 2:  Country or Basin Specific Method
+Emissions estimates can be refined if additional data are available on coal characteristics.
+This method may be preferable if higher tier methods have been used to estimate
+emissions from underground and surface mines.  The equation below summarises the
+approach for preparing refined emission estimates.
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.111
+EQUATION 5
+TIER 2:  COUNTRY OR BASIN SPECIFIC METHOD   –  POST-MINING ACTIVITIES
+a) Underground CH4 Emissions (Gg) = In-Situ Gas Content (m3 CH4/tonne)
+x Underground Coal Production (Mt)
+x Fraction of Gas Released During
+Post-Mining Activities (%)
+x Conversion Factor (Gg/106 m3)
+When Necessary:
+b) Surface CH4 Emissions (Gg) =
+In-Situ Gas Content (m3 CH4/tonne)
+x Surface Coal Production (Mt)
+x Fraction of Gas Released During
+Post-Mining Activities (%)
+x Conversion Factor (Gg/106 m3)
+Where:
+•
+In-Situ Gas Content and Fraction of Gas Released During Mining are
+described in the text
+•
+Conversion Factor converts the volume of CH4 to a weight measure and
+is the density of methane at 20°C and 1 atmosphere, namely:
+0.67 Gg/106 m3
+In-Situ Gas Content represents the methane actually contained in the coal being mined, as
+determined by measuring gas contents in coal samples.  Average values for a coal mine,
+coal basin or country could be developed, depending on the level of detail in the estimate.
+Fraction of Gas Released During Post-Mining Activities represents the percentage of the
+in-situ gas content that is assumed to be emitted during post-mining activities.  There are
+three key issues related to the estimation of this fraction:
+•
+For Surface-Mined Coal:  In most cases, if the Tier 2 approach is used to estimate
+methane emissions from surface mines, post-mining emissions from surface-mined
+coals are assumed to be zero.  In these cases, the use of Equation 5(b) is
+unnecessary and countries should be careful to avoid double counting.  However, if
+a country has not assumed that all of the methane contained in surface-mined coal is
+released during mining, Equation 5(b) should be used to estimate post-mining
+emissions and the value selected for "Fraction of Gas Released During Post-Mining
+Activities" should be consistent with the emission factor selected to estimate
+emissions during surface mining.
+•
+For Underground-Mined Coal:  The assumed fractions for underground mining will
+be based on information about coal permeability, desorption rates, mining methods
+and other factors.  Recent studies have assumed that 25 to 40 per cent of the in-situ
+CH4 content of underground mined coal is emitted during post-mining activities
+(US EPA, 1993a; BCTSRE, 1992).
+•
+Fraction of Methane Not Emitted:  It is currently assumed that all of the CH4
+contained in mined coal will be emitted to the atmosphere, although it is possible
+that a fraction could remain in the coal until the point of combustion and be burned
+instead of emitted.  At this time, estimates of the extent to which this may be the
+ENERGY
+1.112
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+case have not been developed.  If countries have such information, however, they
+could further incorporate this factor into Equation 5.
+Total Emissions from Coal Mining Activities
+Total methane released as a result of coal mining activities will be the summation of
+emissions from underground mining (ventilation and degasification systems), surface
+mining, and post-mining activities.  The IPCC recommends that emissions be estimated
+for each of these categories, in tonnes of CH4, then aggregated to determine total
+national methane releases.  To the extent that methane that would otherwise have been
+released to the atmosphere is recovered and used as fuel, the recovered quantity and its
+use should be reported and the quantity subtracted from the emission total.
+Availability and Quality of Activity Data
+Data are readily available to develop general emissions estimates using the Tier 1
+approach – the Global Average Methods – for underground, surface mining as well as
+post-mining activities.  For these estimates, the only data required are country statistics
+on underground and surface coal production, which are available from domestic sources,
+such as energy ministries, or from the OECD/IEA, which publishes Coal Information
+(OECD/IEA, 1996).
+The IPCC recommends that countries involve their coal mining personnel in the
+development of emissions estimates as much as possible, because of the improved
+accuracy of emissions estimates prepared with more detailed coal and mining data.  The
+availability and quality of data collected by mining personnel for mine safety purposes
+should be assessed on a case-by-case basis, however, to ensure that it can be used
+appropriately for preparing emissions estimates.
+The IPCC further recommends that future efforts attempt to better characterise the
+factors affecting methane emissions from coal mining for those countries and emission
+sources with limited data, so as to develop more refined emission factors.  Specific
+activities should include:
+•
+Obtaining more data on coal and geological characteristics in selected coal-producing
+countries;
+•
+Monitoring emissions from surface mines and post-mining activities; and,
+•
+Monitoring emissions from closed or inactive mining operations, and some other
+potential methane sources, such as mine water.
+1 . 7 . 3
+C O 2  E m i s s i o n s  F r o m  C o a l  M i n i n g  a n d
+H a n d l i n g
+1 . 7 . 3 . 1
+B U R N I N G  C O A L  D E P O S I T S  A N D  W A S T E
+P I L E S
+Marland and Rotty (1984) estimated that burning of coal in coal deposits is less than
+0.3 per cent of total coal produced and that burning of all coal in waste banks in the
+United States over a ten year period would represent less than 1 per cent of US coal
+consumption.  Subsequently, they chose to ignore these emissions.
+If these sources are estimated, the amount of coal burned in waste piles and coal deposits
+must be specified along with an emission factor that represents the percentage of coal
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.113
+that is carbon times the percentage of carbon oxidised.  We suggest an arbitrary value of
+50 per cent of the carbon present in the coal to represent this emission factor; this value
+would be highly variable from one country to another and one site to another.  This
+assumption of 50 per cent for an emission factor should be evaluated to determine its
+validity.  The formula for calculating these emissions would be:
+EQUATION 6
+Emissions from Coal Burning (Gg C) = Quantity of Coal Burned (103 t)
+x Emission Factor
+Where:
+• 
+The Emission Factor is:
+Percentage of Carbon in Coal
+x Percentage of Carbon Oxidised;
+(and the default value is 50%)
+Note that other GHGs such as N2O, CO, NOx, etc. are also emitted from combustion of
+coal wastes.
+1 . 7 . 3 . 2
+S O 2  S C R U B B I N G
+When SO2 scrubbing (or flue gas desulphurisation) technology is used in conjunction with
+combustion of coal, the process, which removes sulphur dioxide from the flue gas, also
+releases CO2 from the chemical reactions during the process.  This can be considered a
+fugitive emission resulting from coal use.  Typically, calcium carbonate reacts with sulphur
+oxides in flue gas to produce calcium sulphate and carbon dioxide.  Marland and Rotty
+(1984) suggest that CO2 emissions from SO2 scrubbing are small enough to be ignored in
+global calculations.  However, for completeness, some national experts may wish to
+include this subcategory.
+To estimate carbon emissions from SO2 scrubbing, the approach is derived from Grubb
+(1989) with slight modifications.  In Grubb's approach, carbon emissions would equal the
+total amount of coal combusted in plants equipped with scrubbers times the fraction of
+sulphur by weight in the coal, adjusted for the differences in molecular weight between
+carbon and sulphur (12/32).  Since this procedure assumes that all of the sulphur is
+removed, it should be adjusted by the sulphur removal efficiency of the desulphurisation
+process (an average removal efficiency of 90 per cent is suggested).  The formula for
+calculating these emissions would be:
+EQUATION 7
+Emissions from SO2 Scrubbing (Gg C) = Total Coal Consumption (103 t)
+x Fraction burned in plants equipped with scrubbers(%)
+x Average Sulphur Content of Coal in these plants (%)
+x Sulphur Removal Efficiency (default value is 90%)
+x 12/32 (i.e., the Carbon/Sulphur Ratio)
+Finally, to convert from carbon emissions (in Gg) into CO2 emissions (in Gg), it is
+necessary to multiply by 44/12, the molecular weight ratio of CO2 to C.
+ENERGY
+1.114
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.8
+Fugitive Emissions from Oil And Natural
+Gas Activities
+1 . 8 . 1 O v e r v i e w
+This section covers fugitive emissions of greenhouse gases (GHGs) from oil and natural
+gas activities.  The category includes all emissions from the production, processing,
+transport and use of oil and natural gas, and from non-productive combustion.  It
+excludes use of oil and gas or derived fuel products to provide energy for internal use, in
+energy production processing and transport.  The latter are considered fuel combustion
+and treated in an earlier section of this chapter.  Fugitive emissions do include, however,
+emissions which result from the combustion of natural gas during flaring operations.
+By far the most important components of this subcategory are methane emissions from
+oil and gas production, and from all aspects of natural gas activities.  The majority of this
+section identifies and describes different methane emission sources from oil and natural
+gas, and presents a default methodology to estimate these emissions on a national level.
+The basis for estimating methane emissions from oil and gas is, however, weak for most
+regions at this time.  Only a few detailed studies of emissions rates have been performed.
+Better emissions data that take into account region- and country-specific factors are
+needed.  Information currently available indicates that gas production and transmission in
+the former USSR and Eastern Europe are by far the most important sources, accounting
+for perhaps 50 per cent of global CH4 emissions from oil and natural gas.  Because the
+data are so limited at present, global and regional estimates of CH4 emissions from this
+source category should be considered highly uncertain.
+The IPCC/OECD/IEA programme has not yet addressed the indirect GHGs (including
+NMVOCs) in detail.  However, the Joint EMEP/CORINAIR method offers both a
+simplified and a more detailed approach to the estimation of ozone precursors and SO2.
+Considerable information has been obtained in other national and international emissions
+inventory programmes for NMVOCs because of the importance of these gases for local
+and regional (as well as global) pollution.  References to some of the available sources of
+emission factor data and other information for calculating emissions from this category
+are provided in the last subsection of this section.
+Background
+Fugitive emissions of methane from oil and gas activities probably account for about 30 to
+60 Tg per year of global methane emissions.  Sources of fugitive emissions within oil and
+gas systems include:  releases during normal operation, such as emissions associated with
+venting and flaring, chronic leaks or discharges from process vents, emissions during
+maintenance, and emissions during system upsets and accidents.
+1 . 8 . 2 O i l  a n d  N a t u r a l  G a s  A c t i v i t i e s
+Oil and gas activities are divided into three main parts, for this discussion:
+1
+Oil and Gas Production: Oil and gas are withdrawn from underground
+formations using on-shore and off-shore wells and are often taken simultaneously
+from the same geological formation, and then separated.  Gathering lines are
+generally used to bring the crude oil and raw gas streams to one or more collection
+1
+ENERGY
+R e v i se d  1 9 9 6  I P C C  G u i d e l i n e s fo r  N a t i o n a l  G r e e n h o u se  G a s I n v e n t o r i e s:   R e fe r e n c e  M a n u a l
+1.115
+point(s) within a production field.  Because methane is the major component of
+natural gas, leaks or venting from these systems result in methane emissions.  Oil
+and/or gas are produced in approximately 186 countries world-wide.
+2
+Crude Oil Transportation and Refining: Crude oil is transported by pipelines
+and tankers to refineries where it is stored in tanks for a period of time.  Methane is
+present, in varying degrees, in crude oil, and leaks or venting of vapours during
+transport and storage result in methane emissions, particularly from crude oil
+tankering.
+Refineries process crude oil into a variety of hydrocarbon products such as gasoline
+and kerosene.  During the refining process, dissolved gases are separated some of
+which may be leaked or vented during processing.  Refinery outputs, referred to as
+"refined products," generally contain negligible amounts of methane.  Consequently,
+methane emissions are not estimated for transporting and distributing refined
+products.  Refineries are operated in 102 countries.
+3
+Natural Gas Processing, Transportation, and Distribution: Natural gas is
+processed to recover heavier hydrocarbons, such as ethane, propane and butane,
+and to prepare the “dried” gas for transport to consumers.  Most gas is transported
+through transmission and distribution pipelines.  A small amount of gas is shipped by
+tanker as liquefied natural gas (LNG).  Because for the time being only a small
+portion of gas is transported as LNG, emissions from LNG facilities are not included
+in default emission methods.
+The following are the main processing, transportation, and distribution activities:
+•
+Gas processing plant:  Natural gas is usually processed in gas plants to produce
+products with specific characteristics.  Depending on the composition of the
+unprocessed gas, a variety of processes may be used to remove most of the
+heavier hydrocarbons, or condensate, from the gas.  The processed,
+marketable, gas is then injected into the natural gas transmission system and
+the heavier hydrocarbons are marketed separately.  Unintentional leaks of
+methane occur during natural gas processing.
+•
+Transmission pipelines:  Transmission facilities are high pressure lines that
+transport gas from production fields, processing plants, storage facilities, and
+other sources of supply over long distances to distribution centres, or large
+volume customers.  Although transmission lines are usually buried, a variety of
+above-ground facilities support the overall system including metering stations,
+maintenance facilities, and compressor stations located along the pipeline
+routes.  These activities use gas from the pipeline as fuel and may emit
+methane.
+•
+Distribution systems:  Distribution pipelines are extensive networks of
+generally small diameter, low pressure pipelines.  Gas enters distribution
+networks from transmission systems at "gate stations" where the pressure is
+reduced for distribution within cities or towns.  As with transmission pipelines
+emissions from leaks or supporting facilities may take place.
+1 . 8 . 3 S o u r c e s  o f  M e t h a n e  E m i s s i o n s  f r o m  O i l  a n d
+N a t u r a l  G a s  A c t i v i t i e s
+Emissions from oil and gas activities can be categorised into: (1) emissions during normal
+operations; (2) maintenance; and (3) system upsets and accidents.  Typically the majority
+of emissions are from normal operations.

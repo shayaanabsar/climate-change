@@ -1,0 +1,3168 @@
+Annex 2: Worksheets 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.1 
+ANNEX 2 
+ 
+WORKSHEETS 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.2 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  
+All the Worksheets in Annex I to Volume 4 of 2006 IPCC Guidelines remain valid. In the 2019 Refinement, 10 
+new worksheets are added here as new guidance consistent with main chapters of Volume 4 of 2019 Refinement 
+related to Biochar Amendments to Soils for Cropland and Grassland and Flooded Land. 
+BIOCHAR AND SOILS – CROLAND AND GRASSLAND WORKSHEETS 
+Authors  
+Stephen Michael Ogle (USA), Jeffrey Baldock (Australia) 
+ 
+FLOODED LAND WORKSHEETS 
+Authors 
+Catherine Ellen Lovelock (Australia), Bradford Sherman (Australia), Jukka Alm (Finland), Nathan Barros 
+(Brazil), David Bastviken (Sweden), Jake J. Beaulieu (USA), Christopher Evans (UK), Michelle Garneau 
+(Canada), Atle Harby (Norway), John Harrison (USA), David Pare (Canada), Yves Prairie (Canada), Hanne 
+Lerche Raadal (Norway), Chengyi Zhang (China) 
+Contributing Authors 
+Alistair Grinham (Australia), Bridget Deemer (USA), Zhe Li (China), Marco Aurelio Santos (Brazil) 
+ 
+Annex 2: Worksheets 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.3 
+Contents 
+Annex 2 
+Worksheets 
+3B2 
+Cropland ............................................................................................................................................. A2.4 
+3B3 
+Grassland .......................................................................................................................................... A2.12 
+3B4 
+Wetlands ........................................................................................................................................... A2.20 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.4 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 2 
+CROPLAND 
+CROPLAND REMAINING CROPLAND 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Cropland Remaining Cropland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B2a (Updated) 
+Sheet 
+1 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Mineral Soil Organic C stock in 
+the last year of the inventory 
+time period 
+Mineral Soil Organic C stock at 
+the beginning of the inventory 
+time period 
+Time dependence of stock 
+change factors (D) or number 
+of years over a single inventory 
+time period (T) 
+Annual change in carbon stocks 
+in mineral soils 
+Initial land use 
+Land use during 
+reporting year 
+(tonnes C) 
+(tonnes C) 
+(yr) 
+(tonnes C yr-1) 
+SOC(0) in Equation 2.25 
+SOC(0-T) in Equation 2.25 
+(default is 20 yr; if T>D then 
+use the value of T) 
+∆CMineral as in Equation 2.25 
+SOC(0) 
+SOC(0-T) 
+D 
+∆CMineral 
+CL 
+CL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+(c) 
+ 
+ 
+20 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.5 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Cropland Remaining Cropland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B2a (Updated) 
+Sheet 
+2 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Area in the last year 
+of an inventory 
+period 
+Reference  
+carbon stock 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil 
+Organic C stock in 
+the last year of the 
+inventory time 
+period 
+Initial land use 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 5.5 
+Table 5.5 
+Table 5.5 
+SOC(0) in Equation 
+2.25 
+A(0) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0) 
+CL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.6 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Cropland Remaining Cropland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B2a (Updated) 
+Sheet 
+3 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+ 
+Area at the 
+beginning of an 
+inventory period 
+Reference  
+carbon stock 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil 
+Organic C stock at 
+the beginning of the 
+inventory time 
+period 
+Initial land use 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 5.5 
+Table 5.5 
+Table 5.5 
+SOC(0-T) in 
+Equation 2.25 
+A(0-T) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0-T) 
+CL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.7 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Cropland Remaining Cropland: Annual change in carbon stocks in organic soils 
+Category code 
+3B2a 
+Sheet 
+4 of 4 
+Equation 
+Equation 2.2 
+Equation 2.26 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Land area of cultivated organic soil 
+Emission factor for climate type 
+Annual carbon loss from cultivated organic 
+soils 
+Initial land use 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1 yr-1) 
+(tonnes C yr-1) 
+ 
+Table 5.6 
+LOrganic = A * EF 
+A 
+EF 
+LOrganic 
+CL 
+CL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.8 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 2 
+CROPLAND 
+LAND CONVERTED TO CROPLAND 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Cropland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B2b (Updated) 
+Sheet 
+1 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Mineral Soil Organic C stock in 
+the last year of the inventory 
+time period 
+Mineral Soil Organic C stock at 
+the beginning of the inventory 
+time period 
+Time dependence of stock 
+change factors (D) or number of 
+years over a single inventory 
+time period (T) 
+Annual change in carbon 
+stocks in mineral soils 
+Initial land use 
+Land use during 
+reporting year 
+(tonnes C) 
+(tonnes C) 
+(yr) 
+(tonnes C yr-1) 
+ SOC(0) in Equation 2.25 
+SOC(0-T) in Equation 2.25 
+(default is 20 yr; if T>D then use 
+the value of T) 
+∆CMineral as in Equation 2.25 
+SOC(0) 
+SOC(0-T) 
+D 
+∆CMineral 
+FL 
+CL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+GL 
+CL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+WL 
+CL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+SL 
+CL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+OL 
+CL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.9 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Cropland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B2b (Updated) 
+Sheet 
+2 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+ 
+  
+ 
+Area in the last year 
+of an inventory 
+period 
+Reference  
+carbon stock 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil 
+Organic C stock in 
+the last year of the 
+inventory time 
+period 
+Initial land use 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 5.5 
+Table 5.5 
+Table 5.5 
+SOC(0) in Equation 
+2.25 
+A(0) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0) 
+FL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+GL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+WL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+SL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+OL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.10 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Cropland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B2b (Updated) 
+Sheet 
+3 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+ 
+  
+ 
+Area at the 
+beginning of an 
+inventory period 
+Reference  
+carbon stock 
+ 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil 
+Organic C stock at 
+the beginning of the 
+inventory time 
+period 
+Initial land use 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 5.10 
+Table 5.10 
+Table 5.10 
+SOC(0-T) in 
+Equation 2.25 
+A(0-T) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0-T) 
+FL 
+CL 
+(a) 
+  
+  
+  
+  
+  
+ 
+(b) 
+  
+  
+  
+  
+  
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+GL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+WL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+SL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+OL 
+CL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+  
+  
+  
+  
+  
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.11 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Cropland: Annual change in carbon stocks in organic soils 
+Category code 
+3B2b 
+Sheet 
+4 of 4 
+Equation 
+Equation 2.2 
+Equation 2.26 
+Land-use category 
+Subcategories for 
+reporting year 
+Land area of cultivated organic soil 
+Emission factor for climate type 
+Annual carbon loss from cultivated 
+organic soils 
+Initial land use1 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1 yr-1) 
+(tonnes C yr-1) 
+  
+Table 5.6 
+LOrganic = A * EF 
+A 
+EF 
+LOrganic 
+FL 
+CL 
+(a) 
+  
+  
+ 
+(b) 
+  
+  
+ 
+Sub-total 
+  
+  
+ 
+GL 
+CL 
+(a) 
+  
+  
+ 
+(b) 
+  
+  
+ 
+Sub-total 
+  
+  
+ 
+WL 
+CL 
+(a) 
+  
+  
+ 
+(b) 
+  
+  
+ 
+Sub-total 
+  
+  
+ 
+SL 
+CL 
+(a) 
+  
+  
+ 
+(b) 
+  
+  
+ 
+Sub-total 
+  
+  
+ 
+OL 
+CL 
+(a) 
+  
+  
+ 
+(b) 
+  
+  
+ 
+Sub-total 
+  
+  
+ 
+Total 
+  
+  
+ 
+1 If data by initial land use are not available, use only "non-CL" in this column. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.12 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 3 
+GRASSLAND 
+GRASSLAND REMAINING GRASSLAND 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Grassland Remaining Grassland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B3a (Updated) 
+Sheet 
+1 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Mineral Soil Organic C stock in 
+the last year of the inventory 
+time period 
+Mineral Soil Organic C stock at 
+the beginning of the inventory 
+time period 
+Time dependence of stock 
+change factors (D) or number of 
+years over a single inventory 
+time period (T) 
+Annual change in carbon stocks 
+in mineral soils 
+Initial land 
+use 
+Land use 
+during 
+reporting 
+year 
+(tonnes C) 
+(tonnes C) 
+(yr) 
+(tonnes C yr-1) 
+SOC(0) in Equation 2.25 
+SOC(0-T) in Equation 2.25 
+(default is 20 yr; if T>D then use 
+the value of T) 
+∆CMineral as in Equation 2.25 
+SOC(0) 
+SOC(0-T) 
+D 
+∆CMineral 
+GL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.13 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Grassland Remaining Grassland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B3a (Updated) 
+Sheet 
+2 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Area in the last year 
+of an inventory 
+period 
+Reference  
+carbon stock 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil Organic 
+C stock in the last 
+year of the inventory 
+time period 
+Initial land 
+use 
+Land use 
+during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 6.2 
+Table 6.2 
+Table 6.2 
+SOC(0) in Equation 
+2.25 
+A(0) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0) 
+GL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.14 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Grassland Remaining Grassland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B3a (Updated) 
+Sheet 
+3 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Area at the 
+beginning of an 
+inventory period 
+Reference  
+carbon stock 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil Organic 
+C stock at the 
+beginning of the 
+inventory time 
+period 
+Initial land use 
+Land use 
+during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 6.2 
+Table 6.2 
+Table 6.2 
+SOC(0-T) in 
+Equation 2.25 
+A(0-T) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0-T) 
+GL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.15 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Grassland Remaining Grassland: Annual change in carbon stocks in organic soils 
+Category code 
+3B3a 
+Sheet 
+4 of 4 
+Equation 
+Equation 2.2 
+Equation 2.26 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Land area of cultivated organic soil 
+Emission factor for climate type 
+Annual carbon loss from cultivated organic 
+soils 
+Initial land 
+use 
+Land use 
+during 
+reporting year 
+(ha) 
+(tonnes C ha-1 yr-1) 
+(tonnes C yr-1) 
+ 
+Table 6.3 
+LOrganic = A * EF 
+A 
+EF 
+LOrganic 
+GL 
+GL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+(c) 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.16 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 3 
+GRASSLAND 
+LAND CONVERTED TO GRASSLAND 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Grassland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B3b (Updated) 
+Sheet 
+1 of  4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Mineral Soil Organic C stock in 
+the last year of the inventory 
+time period 
+Mineral Soil Organic C stock at 
+the beginning of the inventory 
+time period 
+Time dependence of stock 
+change factors (D) or number of 
+years over a single inventory 
+time period (T) 
+Annual change in carbon stocks 
+in mineral soils 
+Initial land 
+use 
+Land use 
+during 
+reporting year 
+(tonnes C) 
+(tonnes C) 
+(yr) 
+(tonnes C yr-1) 
+SOC(0) in Equation 2.25 
+SOC(0-T) in Equation 2.25 
+(default is 20 yr; if T>D then 
+use the value of T) 
+∆CMineral as in Equation 2.25 
+SOC(0) 
+SOC(0-T) 
+D 
+∆CMineral 
+FL 
+GL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+CL 
+GL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+WL 
+GL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+SL 
+GL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+OL 
+GL 
+(a) 
+ 
+ 
+20 
+ 
+(b) 
+ 
+ 
+20 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.17 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Grassland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B3b (Updated) 
+Sheet 
+2 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories for 
+reporting year 
+ 
+  
+ 
+Area in the last year 
+of an inventory 
+period 
+Reference  
+carbon stock 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil 
+Organic C stock in 
+the last year of the 
+inventory time 
+period 
+Initial land 
+use 
+Land use 
+during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 6.2 
+Table 6.2 
+Table 6.2 
+SOC(0) in Equation 
+2.25 
+A(0) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0) 
+FL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+CL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+WL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+SL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+OL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.18 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Grassland: Annual change in carbon stocks in mineral soils 
+Category code 
+3B3b (Updated) 
+Sheet 
+3 of 4 
+Equation 
+Equation 2.2 
+Equation 2.25, Formulation A in Box 2.1 of Section 2.3.3.1 
+Land-use category 
+Subcategories for 
+reporting year 
+ 
+  
+ 
+Area at the 
+beginning of an 
+inventory period 
+Reference  
+carbon stock 
+ 
+Stock change factor 
+for land-use system 
+or sub-system 
+Stock change factor 
+for management 
+regime 
+Stock change factor 
+for input of organic 
+matter 
+Mineral Soil 
+Organic C stock at 
+the beginning of the 
+inventory time 
+period 
+Initial land 
+use 
+Land use 
+during 
+reporting year 
+(ha) 
+(tonnes C ha-1) 
+(-) 
+(-) 
+(-) 
+(tonnes C) 
+ 
+Table 2.3 
+Table 5.5 (Cropland); 
+1 for other uses 
+Table 5.5 (Cropland); 
+1 for other uses 
+Table 5.5 (Cropland); 
+1 for other uses 
+SOC(0-T) in 
+Equation 2.25 
+A(0-T) 
+SOCref 
+FLU 
+FMG 
+FI 
+SOC(0-T) 
+FL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+CL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+WL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+SL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+OL 
+GL 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.19 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Land Converted to Grassland: Annual change in carbon stocks in organic soils 
+Category code 
+3B3b 
+Sheet 
+4 of 4 
+Equation 
+Equation 2.2 
+Equation 2.26 
+Land-use category 
+Subcategories for 
+reporting year 
+Land area of cultivated organic soil 
+Emission factor for climate type 
+Annual carbon loss from cultivated 
+organic soils 
+Initial land use1 
+Land use during 
+reporting year 
+(ha) 
+(tonnes C ha-1 yr-1) 
+(tonnes C yr-1) 
+ 
+Table 6.3 
+LOrganic = A * EF 
+A 
+EF 
+LOrganic 
+FL 
+GL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+CL 
+GL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+WL 
+GL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+SL 
+GL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+OL 
+GL 
+(a) 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+Sub-total 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1 If data by initial land use are not available, use only "non-GL" in this column. 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.20 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+CHAPTER 7 
+WETLANDS 
+FLOODED LAND REMAINING FLOODED LAND 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land remaining Flooded Land  
+Category code 
+3B4aii  
+Sheet 
+1 of 3 
+ 
+Equation 2.2 
+Non CO2 emissions/removals from Flooded Land remaining Flooded Land 
+Equation 7.10B 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Annual surface reservoir CH4 emissions (for 
+Reservoirs >20 years old 
+Annual downstream reservoir CH4 emissions 
+(for Reservoirs >20 years old 
+Annual total reservoir CH4 emissions (for 
+Reservoirs >20 years old 
+(Flooded Land remaining Flooded Land) 
+Initial land use 
+Land use 
+during 
+reporting year 
+kg CH4 yr-1 
+kg CH4 yr-1 
+kg CH4 yr-1 
+Equation 7.10B 
+Equation 7.10C 
+4
+4
+4
+CH tot
+CH res
+CH downstreame
+F
+F
+F
+
+
+ 
+FCH4res 
+FCH4downstream 
+FCH4tot 
+WLFlooded 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.21 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land remaining Flooded Land  
+Category code 
+3B4aii  
+Sheet 
+2 of 3 
+ 
+Equation 2.2 
+Non CO2 emissions/removals from Flooded Land remaining Flooded Land 
+Equation 7.10B 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Total Area of Flooded 
+Land remaining Flooded 
+Land (Reservoir > 20 yrs 
+old “i”) located in a 
+climate zone “j” 
+Emission factor for CH4 
+emitted from Flooded 
+Land for reservoir > 20 yrs 
+located in a climate zone 
+“j” 
+Emission factor adjustment 
+for trophic state (αi) in 
+reservoir i within a given 
+climate zone. 
+Annual surface reservoir CH4 emissions (for 
+Reservoirs >20 years old 
+(Flooded Land remaining Flooded Land) 
+Initial land use 
+Land use 
+during 
+reporting year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+ 
+Table 7.9 
+1.0 for Tier1 
+
+
+6
+20,
+,
+1
+1
+j
+4
+4
+nres
+CH res
+i
+CH age
+j
+tot j i
+j
+i
+F
+EF
+A
+
+
+
+
+
+ 
+Atot 
+EF 
+αi 
+FCH4res 
+WLFlooded 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.22 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land remaining Flooded Land  
+Category code 
+3B4aii  
+Sheet 
+3 of 3 
+Equation 
+Equation 2.2  
+Non CO2 emissions/removals from Flooded Land remaining Flooded Land 
+Equation 7.10C 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Total Area of Flooded 
+Land remaining 
+Flooded Land 
+(Reservoir > 20 yrs old 
+“i”) located in a climate 
+zone “j” 
+Emission factor for 
+CH4 emitted from 
+Flooded Land for 
+reservoir > 20 yrs 
+located in a climate 
+zone “j” 
+Emission factor 
+adjustment for trophic 
+state (αi) in reservoir i 
+within a given climate 
+zone. 
+Annual downstream reservoir CH4 emissions (for 
+Reservoirs >20 years old  
+(Flooded Land remaining Flooded Land) 
+Initial land use 
+Land use 
+during 
+reporting year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+ 
+Table 7.9 
+1.0 for Tier 1 
+ 
+
+
+6
+20,
+,
+,
+1
+1
+j
+4
+4
+nres
+CH downstreame
+i
+CH age
+j
+tot j i
+d i
+j
+i
+F
+EF
+A
+R
+
+
+
+
+
+ 
+Atot 
+EF 
+αi 
+FCH4downstream 
+WLFlooded 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.23 
+CHAPTER 7 
+WETLANDS 
+LAND CONVERTED TO FLOODED LAND 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+CO2 emissions from Land converted to Flooded Land  
+Category code 
+3B4bii 
+Sheet 
+1 of 1 
+Equation 
+Equation 2.2 
+CO2-C emissions/removals for Land converted to Flooded Land 
+Equation 7.13 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Total area of reservoir water surface for 
+reservoir 'i' located in climate zone 'j' 
+Emission factor for CO2-C for 
+reservoir ≤ 20 years old in climate 
+zone 'j' 
+Total annual emission (removal) of CO2-C from Land 
+Converted to Flooded Land (Reservoirs ≤ 20 years old) 
+Initial land use2 
+Land use 
+during 
+reporting year 
+ha 
+tonnes CO2-C ha-1 y-1 
+tonnes CO2-C yr-1 
+ 
+Table 7.13 
+6
+, ,
+20,
+1
+1
+•
+j
+2
+2
+nres
+CO tot
+total j i
+CO age
+j
+j
+i
+F
+A
+EF
+
+
+
+
+ 
+Atotal 
+EF 
+FCO2tot 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.24 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Land Converted to Flooded Land  
+Category code 
+3B4bii  
+Sheet 
+1 of 3 
+Equation 
+Equation 2.2 
+Non CO2 emissions/removals from Land Converted to Flooded Land 
+Equation 7.15A 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Annual surface reservoir CH4 emissions (for 
+Reservoirs >20 years old 
+Annual downstream reservoir CH4 
+emissions (for Reservoirs >20 years old 
+Annual total reservoir CH4 emissions (for 
+Reservoirs >20 years old 
+(Flooded Land remaining Flooded Land) 
+Initial land use2 
+Land use during 
+reporting year 
+kg CH4 yr-1 
+kg CH4 yr-1 
+kg CH4 yr-1 
+Equation 7.15B 
+Equation 7.15C 
+4
+4
+4
+CH tot
+CH res
+CH downstreame
+F
+F
+F
+
+
+ 
+FCH4res 
+FCH4downstream 
+FCH4tot 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.25 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land remaining Flooded Land  
+Category code 
+3B4bii  
+Sheet 
+2 of 3 
+Equation 
+Equation 2.2  
+Non CO2 emissions/removals from Land Converted to Flooded Land 
+Equation 7.15B 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Total Area of Flooded Land 
+remaining Flooded Land 
+(Reservoir > 20 yrs old “i”) 
+located in a climate zone “j” 
+Emission factor for CH4 
+emitted from Flooded Land 
+for reservoir > 20 yrs located 
+in a climate zone “j” 
+Emission factor adjustment 
+for trophic state (αi) in 
+reservoir i within a given 
+climate zone. 
+Annual surface reservoir CH4 emissions (for 
+Reservoirs >20 years old  
+(Flooded Land remaining Flooded Land) 
+Initial 
+land use2 
+Land use 
+during 
+reporting 
+year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+ 
+Table 7.15 
+1.0 for Tier1 
+6
+1
+1
+4
+4
+CH res
+i
+CH  age 20, j
+tot j,i
+F
+=
+α (EF
+• A
+)
+
+
+
+
+j
+nres
+j
+i
+ 
+ 
+Atot 
+EF 
+αi 
+FCH4res 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.26 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land remaining Flooded Land  
+Category code 
+3B4bii  
+Sheet 
+3 of 3 
+Equation 
+Equation 2.2  
+Non CO2 emissions/removals from Land Converted to Flooded Land 
+Equation 7.15C 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Total Area of Flooded 
+Land remaining Flooded 
+Land (Reservoir > 20 yrs 
+old “i”) located in a 
+climate zone “j” 
+Emission factor for CH4 
+emitted from Flooded 
+Land for reservoir > 20 
+yrs located in a climate 
+zone “j” 
+Emission factor 
+adjustment for trophic 
+state (αi) in reservoir i 
+within a given climate 
+zone. 
+Annual downstream reservoir CH4 emissions (for Reservoirs >20 
+years old  
+(Flooded Land remaining Flooded Land) 
+Initial 
+land use2 
+Land use 
+during 
+reporting 
+year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+ 
+Table 7.15 
+1.0 for Tier1 
+6
+1
+1
+4
+4
+CH downstream
+i
+CH  age 20,j
+tot j,i
+d, i
+F
+=
+ α (EF
+• A
+)• R
+
+
+
+
+j
+nres
+j
+i
+ 
+Atot 
+EF 
+αi 
+FCH4downstream 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.27 
+CHAPTER 7 
+WETLANDS 
+FLOODED LAND REMAINING FLOODED LAND 
+INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF TOTAL EMISSIONS 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land Remaining Flooded Land  
+Category code 
+3B4aii 1 
+Sheet 
+1 of 2 
+Equation 
+Equation 2.2 
+Non CO2 emissions/removals from Flooded Land remaining Flooded Land 
+Equation 7.16 
+Land-use category 
+Subcategories 
+for reporting 
+year 
+Areas of reservoir 
+water surface for 
+reservoir > 20 
+years old 'i' 
+located in climate 
+zone 'j' , but 
+excluding areas 
+that were 
+unmanaged 
+waterbodies (lakes 
+and rivers) and 
+unmanaged 
+wetlands 
+Emission 
+factor for 
+CH4 emitted 
+from 
+Flooded 
+Land for 
+reservoir > 
+20 yrs 
+located in a 
+climate zone 
+“j” 
+Emission 
+factor 
+adjustment for 
+trophic state 
+(αi) in 
+reservoir i 
+within a given 
+climate zone. 
+annual 
+downstream 
+reservoir CH4 
+emissions (for 
+Reservoirs >20 
+years old 
+Indicative estimates of the anthropogenic component of total CH4 emissions 
+(for Reservoirs >20 years old  
+(Flooded Land Remaining Flooded Land) 
+Initial 
+land use 
+Land use 
+during 
+reporting 
+year 
+ha 
+kg CH4 ha-1 
+yr-1 
+Dimension-
+less 
+kg CH4 yr-1 
+kg CH4 yr-1 
+ 
+Table 7.9 
+1.0 for Tier1 
+Eq. 10C 
+
+
+4
+4
+4
+6
+20,
+, ,
+1
+1
+•
+j
+nres
+CH anthrop
+CH age
+j
+anthrop j i
+CH downstream
+i
+i
+j
+F
+A
+EF
+F
+
+
+
+
+
+
+
+ 
+AAnthrop 
+EF 
+αi 
+FCH4downstream 
+FCH4res 
+WLFlooded 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.28 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land Remaining Flooded Land  
+Category code 
+3B4aii  
+Sheet 
+2 of 2 
+Equation 
+Equation 2.2 
+Non CO2 emissions/removals from Flooded Land Remaining Flooded Land 
+Equation 7.10C 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Total Area of Flooded 
+Land remaining Flooded 
+Land (Reservoir > 20 yrs 
+old “i”) located in a 
+climate zone “j” 
+Emission factor for CH4 
+emitted from Flooded 
+Land for reservoir > 20 
+yrs located in a climate 
+zone “j” 
+Emission factor 
+adjustment for trophic 
+state (αi) in reservoir i 
+within a given climate 
+zone. 
+Annual downstream reservoir CH4 emissions (for 
+Reservoirs >20 years old  
+(Flooded Land remaining Flooded Land) 
+ 
+Initial 
+land use2 
+Land use 
+during 
+reporting 
+year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+ 
+Table 7.9 
+1.0 for Tier1 
+6
+1
+1
+4
+4
+CH downstream
+i
+CH  age>20,j
+tot j,i
+d, i
+F
+=
+α (EF
+• A
+)• R
+
+
+
+j
+nres
+j
+i
+ 
+ 
+Atot 
+EF 
+αi 
+FCH4downstream 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.29 
+CHAPTER 7 
+WETLANDS 
+LAND CONVERTED TO FLOODED LAND 
+INDICATIVE ESTIMATES OF THE ANTHROPOGENIC COMPONENT OF TOTAL EMISSIONS 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+CO2 emissions from Land converted to Flooded Land  
+Category code 
+3B4bii 
+Sheet 
+1 of 1 
+Equation 
+Equation 2.2 
+CO2-C emissions/removals for Land converted to Flooded Land  
+Equation 7.17 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Areas of reservoir water surface for 
+reservoir > 20 years old 'i' located in 
+climate zone 'j' but excluding areas 
+that were unmanaged waterbodies 
+(lakes and rivers) and unmanaged 
+wetlands 
+Emission factor for CO2-C for 
+reservoir ≤ 20 years old in climate 
+zone 'j' 
+Indicative estimates of the anthropogenic component of total 
+emissions of CO2-C from Land Converted to Flooded Land 
+(Reservoirs ≤ 20 years old) 
+Initial land 
+use2 
+Land use 
+during 
+reporting 
+year 
+ha 
+tonnes CO2-C ha-1 y-1 
+tonnes CO2-C yr-1 
+ 
+Table 7.13 
+
+
+2
+2
+6
+20,
+, ,
+1
+1
+•
+j
+nres
+CO anthrop
+CO age
+j
+anthrop j i
+j
+i
+F
+A
+EF
+
+
+
+ 
+ 
+Aanthrop 
+EF 
+FCO2tot 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+A2.30 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Land converted Flooded Land  
+Category code 
+3B4bii 1 
+Sheet 
+1 of 2 
+Equation 
+Equation 2.2 
+Non CO2 emissions/removals from Land Converted to Flooded Land 
+Equation 7.18 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Areas of reservoir 
+water surface for 
+reservoir > 20 years old 
+'i' located in climate 
+zone 'j' , but excluding 
+areas that were 
+unmanaged 
+waterbodies (lakes and 
+rivers) and unmanaged 
+wetlands 
+Emission factor for 
+CH4 emitted from 
+Flooded Land for 
+reservoir > 20 yrs 
+located in a climate 
+zone “j” 
+Emission factor 
+adjustment for 
+trophic state (αi) in 
+reservoir i within a 
+given climate zone. 
+annual 
+downstream 
+reservoir CH4 
+emissions (for 
+Reservoirs >2
+0 years old 
+ 
+Indicative estimates of the anthropogenic 
+component of total CH4 emissions (for Reservoirs ≤20 
+years old  
+(Land converted to Flooded Land) 
+ 
+Initial 
+land use2 
+Land use 
+during 
+reporting 
+year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+kg CH4 yr-1 
+ 
+Table 7.15 
+1.0 for Tier1 
+Eq. 10C 
+
+
+4
+4
+4
+6
+20,
+, ,
+1
+1
+•
+j
+CH anthrop
+nres
+CH age
+j
+anthrop j i
+j
+i
+CH downstream
+i
+F
+EF
+F
+A
+
+
+
+
+
+
+
+ 
+AAnthrop 
+EF 
+αi 
+FCH4downstream 
+FCH4res 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+ 
+ 
+Annex 2: Worksheets 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+A2.31 
+ 
+Sector 
+Agriculture, Forestry and Other Land Use 
+Category 
+Non CO2 emissions for Flooded Land remaining Flooded Land  
+Category code 
+3B4bii  
+Sheet 
+2 of 2 
+Equation 
+Equation 2.2  
+Non CO2 emissions/removals from Land Converted to Flooded Land 
+Equation 7.15C 
+Land-use category1 
+Subcategories 
+for reporting 
+year 
+Total Area of Flooded 
+Land remaining Flooded 
+Land (Reservoir > 20 yrs 
+old “i”) located in a 
+climate zone “j” 
+Emission factor for CH4 
+emitted from Flooded 
+Land for reservoir > 20 
+yrs located in a climate 
+zone “j” 
+Emission factor 
+adjustment for trophic 
+state (αi) in reservoir i 
+within a given climate 
+zone. 
+Annual downstream reservoir CH4 emissions (for Reservoirs ≤20 
+years old  
+(Land Converted to Flooded Land) 
+Initial 
+land use2 
+Land use 
+during 
+reporting 
+year 
+ha 
+kg CH4 ha-1 yr-1 
+Dimension-less 
+kg CH4 yr-1 
+ 
+Table 7.15 
+1.0 for Tier1 
+6
+1
+1
+4
+4
+CH downstream
+i
+CH  age 20,j
+tot j,i
+d, i
+F
+=
+ α (EF
+• A
+)• R
+
+
+
+
+j
+nres
+j
+i
+ 
+Atot 
+EF 
+αi 
+FCH4downstream 
+ 
+WLFlooded 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+1 Sub-totals of emissions for each land pre-conversion land-use category will have to be calculated for conversion categories.  
+2 For conversion categories, insert initial land use here. If data by initial land use are not available, use only "non-LU" in this column. 
+ 
