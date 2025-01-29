@@ -204,7 +204,7 @@ def partition_m_with_rcce(set_m, bigrams_CR, rcce_scores):
             set_s.append(sentence)
             #rcce_s.append(rcce_scores[i])
 
-    return set_r[:5000], set_s[:5000], rcce_r, rcce_s
+    return set_r, set_s, rcce_r, rcce_s
 
 
 set_r, set_s, rcce_r, rcce_s = partition_m_with_rcce(set_m, bigrams_CR, rcce_climate)
